@@ -1,7 +1,7 @@
 ---
 title: Remedying EGL Shortcomings for Compre Cookie Games List
-date: 2024-12-22T04:38:50.916Z
-updated: 2024-12-25T17:09:25.029Z
+date: 2024-12-30T16:03:17.687Z
+updated: 2025-01-04T16:04:39.748Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Refresh the Library
 
  Sometimes, Epic Games Launcher might have a syncing issue and fail to display newly bought games. In this case, all you have to do is refresh the library. Within the desktop app, open the**Library** and click on the**Refresh** icon.
@@ -30,11 +34,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![How to refresh the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/refresh-library-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Restart the Epic Games Launcher
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
  If there’s someone else with an Epic Games account using the same device as you, you’ll see only the games purchased by their account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Check the Game’s Availability
 
  As you may know, you can[get free games on the Epic Games store](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) . Besides its permanent free games catalog, you can get a new free game every week. However, not every free game is yours forever.
@@ -60,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![Check the game's availability on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-availability-1.jpg)
 
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Unhide the Game Library
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Delete the Epic Games Launcher Cache
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bring Back Your Epic Games Library
@@ -120,19 +120,22 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-adobe-photostability-effective-or-fanciful/"><u>[New] Adobe PhotoStability Effective or Fanciful?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-latest-iteration-a-closer-look-at-sonys-s6500-bdp-for-2024/"><u>[New] Latest Iteration A Closer Look at Sony's S6500 BDP for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-inside-track-to-premiere-pro-full-screen-viewing/"><u>[Updated] Inside Track to Premiere Pro Full Screen Viewing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-misconceptions-9-truths-that-challenge-common-bot-thoughts/"><u>Beyond Misconceptions: 9 Truths That Challenge Common Bot Thoughts</u></a></li>
-<li><a href="https://games-able.techidaily.com/current-consciousness-beyond-the-switch/"><u>Current Consciousness: Beyond the Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-home-entertainment-harnessing-the-power-of-series-xs-blue-ray/"><u>Elevate Home Entertainment: Harnessing the Power of Series X's Blue-Ray</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-list-of-proper-pads/"><u>Exclusive List of Proper Pads</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-xml-to-srt-a-step-by-step-solution-approach-for-2024/"><u>From XML to SRT A Step-by-Step Solution Approach for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-the-best-picture-on-your-console-with-simple-adjustments/"><u>Get the Best Picture on Your Console with Simple Adjustments</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-benefits-of-using-apc-back-ups-pro-eby-powerful-protection-multiple-outlets-and-swappable-batteries/"><u>In-Depth Review: Benefits of Using APC Back-UPS Pro Eby - Powerful Protection, Multiple Outlets, and Swappable Batteries</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-bot-comparison-standardized-creative-challenge/"><u>Innovative Bot Comparison: Standardized Creative Challenge</u></a></li>
-<li><a href="https://games-able.techidaily.com/salvaging-your-switch-when-to-tinker-when-to-trade-in/"><u>Salvaging Your Switch: When to Tinker, When to Trade-In</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ate-voice-transformation-tools-for-social-media-stars-for-2024/"><u>Ultimate Voice Transformation Tools for Social Media Stars for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncovering-the-hidden-steam-account-code-digit/"><u>Uncovering the Hidden Steam Account Code Digit</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-the-secrets-to-a-reliable-social-media-experience-for-2024/"><u>[New] Unlocking the Secrets to a Reliable Social Media Experience for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-the-next-apple-event-dates-news-scoops-and-hot-gossip-await/"><u>Anticipating the Next Apple Event? Dates, News Scoops, and Hot Gossip Await!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bose-soundlink-setup-success-expert-advice-on-linking-your-audio-gear/"><u>Bose Soundlink Setup Success: Expert Advice on Linking Your Audio Gear</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-refund-routines-your-xbox-series-gaming-guide/"><u>Efficient Refund Routines: Your Xbox Series Gaming Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-worlds-dissipate-quickly-is-it-worth-watching/"><u>Game Worlds Dissipate Quickly, Is It Worth Watching?</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-essentials-6-misguided-investments-in-displays/"><u>Gaming Essentials: 6 Misguided Investments in Displays</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/guide-audio-free-video-recording-methods-for-2024/"><u>Guide Audio-Free Video Recording Methods for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23-phone-without-password-by-drfone-android/"><u>How To Unlock Itel S23 Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-y55s-5g-2023-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y55s 5G (2023) Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-gopro-vs-yi-4k-evaluating-2023s-best-for-high-speed-cameras/"><u>In 2024, GoPro Vs. Yi 4K Evaluating 2023'S Best for High-Speed Cameras</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-amds-fsr-3-ready-to-challenge-or-just-a-response-to-dlss-35-evolution/"><u>Is AMD’s FSR 3 Ready to Challenge or Just a Response to DLSS 3.5 Evolution?</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-your-java-adventure-key-game-aspects/"><u>Jumpstart Your Java Adventure: Key Game Aspects</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-performance-a-guide-to-essential-pc-upgrades/"><u>Prioritize Performance: A Guide to Essential PC Upgrades</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-combat-graphics-panel-sagging-effects/"><u>Solutions to Combat Graphics Panel Sagging Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-raspberry-pi-edge-in-retro-gaming-enhancement/"><u>The Raspberry Pi Edge in Retro Gaming Enhancement</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wacom-revolution-device-connection-ended-forever/"><u>Wacom Revolution: Device Connection Ended Forever</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unleash the Visual Potential and Slip-Ups of Pimax Crystal
-date: 2024-08-27T17:05:47.714Z
-updated: 2024-08-28T17:05:47.714Z
+date: 2024-12-29T11:13:46.952Z
+updated: 2025-01-04T05:58:13.859Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4
 ---
 
 ## Unleash the Visual Potential and Slip-Ups of Pimax Crystal
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -105,15 +109,13 @@ Inside the large and densely packed box you'll find:
 * Two USB-A to C cables for charging the controllers.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Controllers: Functional but Nasty
 
 ![pimax crystal - controller buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-controller-buttons.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  James Bruce / MakeUseOf
 
  The controllers feel a little cheap and are clearly modeled after the[Quest 2](https://www.makeuseof.com/oculus-quest-2-review/) , with large tracking rings that house the infrared LEDs. Meanwhile, the[Quest 3](http://www.makeuseof.com/meta-quest-3-review/) has done away with these rings.
@@ -130,16 +132,14 @@ Related
 
  The Pimax Crystal controllers are good enough in that they get the job done and track well, but have no unique features or design. They're a far cry from the[PSVR2](https://www.makeuseof.com/playstation-vr2-review/) controllers with their advanced haptics, adaptive trigger, and general Sony mastery of all things controller-related. The Valve Index set is cheaper and arguably has more advanced controllers, but I’m not a fan of those either—I’m forever accidentally dropping or grabbing items thanks to the pressure-sensitive grab features. At least the Pimax Crystal controllers have a basic physical grip button. If I'm honest, nothing compares to the enormous[HTC Vive](https://www.makeuseof.com/tag/virtual-reality-is-finally-here-htc-vive-review-giveaway/) wands, which always felt like you were holding a gun or sword.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Heavy but Comfortable
 
 ![pimax crystal - headset overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-headset-overview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
  The Crystal headset feels rock-solid, which it should do because it weighs a ton. Or, more accurately, 960g (34oz). That’s almost twice the weight of the Quest 3, but a little less than the Quest Pro.
@@ -148,20 +148,25 @@ Related
 
 ![pimax crystal - ratchet strap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-ratchet-strap.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
  Off-ear headphones are integrated, too, in a similar fashion to the Valve Index. They’re reasonable quality, producing a rounded sound stage, though the bass output isn’t quite comparable to on-ear headphones.
 
 ![pimax crystal - off ear headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-off-ear-headphones.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  James Bruce / MakeUseOf
 
  Bizarrely, the Pimax Crystal requires a battery even when used in PCVR tethered mode and connected to the powered hub. This is apparently due to the use of the XR2 chipset—the same used in the Meta Quest 3\. However, given that most people will be using this in a tethered mode and completely ignoring the standalone functionality, it’s a frustrating design choice, but perhaps one that will come to fruition later with expansion modules such as wireless transmission.
 
 ![pimax crystal - battery packs and charger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-battery-packs-and-charger.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -185,16 +190,10 @@ Related
 
  KayakVR has been my go-to experience for relaxation and really shows off the beauty of the Pimax Crystal's display. The vibrant colors and shimmering water are jaw-dropping, even if I can't whack up the resolution to full.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Image Quality Is Superb
 
 ![pimax crystal - lenses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-lenses.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  James Bruce / MakeUseOf
 
  If the name of the headset didn’t give it away, clarity is what Pimax was aiming for here. With 2880 x 2880 pixels per eye, the default lenses offer 35 pixels-per-degree (ppd) of your vision. For comparison's sake, 60ppd is the magic number that’s said to be equivalent of human eyes. The Varyo Aero is 27ppd; the Meta Quest 3 is 25, while the Valve Index is around 15\. It’s not an exact science, though, and headsets with a larger field of view (FOV) will naturally end up with lower pixel density, even if the resolution is the same. Many VR enthusiasts would happily trade pixel density for FOV.
@@ -207,9 +206,6 @@ Related
 
  But let's be clear: from a hardware and imaging perspective, you cannot beat the Pimax Crystal right now for tethered PCVR.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Dynamic Foveated Rendering Gives You a Performance Boost (in Theory)
 
  As alluded to earlier, inside the Pimax Crystal is a magical piece of eye-tracking tech from Tobii, which senses your eye movements and relays back to your computer where you’re looking within the scene.
@@ -242,6 +238,10 @@ Related
 
  Tracking in standalone mode seems to work just as well as tethered, though the processing power limits what’s graphically possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Buy the Pimax Crystal?
 
  For many, the requirement to keep a battery pack on the headset charged when they use it entirely for tethered VR is going to be frustrating. But some might also consider it a non-issue that helps with weight distribution.
@@ -251,6 +251,10 @@ Related
  There’s no doubt that the display hardware on offer here is the best you can get at a semi-reasonable price right now. But is it three times as good as an HP Reverb or Quest 3? That’s a difficult call. PCVR can be temperamental at the best of times (especially if you’re pairing it with steering wheels or flight sticks and a motion rig!)
 
 ![pimax crystal - motion sim chair front view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-motion-sim-chair-front-view.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -269,8 +273,9 @@ Related
 ![pimax crystal product thumb](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/pimax-crystal-product-thumb.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### Pimax Crystal
@@ -281,14 +286,11 @@ Related
 
 [See at Pimax](https://pimax.com/crystal/) [See at Amazon](https://www.amazon.com/Pimax-Crystal-headsets-All-One/dp/B0BZSGFLQ7?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031352&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fpimax-crystal-review%2F&asc%5Fcampaign=Affiliate)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -297,4 +299,18 @@ Related
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-take-screenshots-with-precision-on-a-mac/"><u>2024 Approved Take Screenshots with Precision on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-kingmakers-or-market-monopolizers-episode-review/"><u>Console Kingmakers or Market Monopolizers? [Episode Review]</u></a></li>
+<li><a href="https://games-able.techidaily.com/enrich-your-adventure-delve-into-more-of-the-fallout-universe/"><u>Enrich Your Adventure: Delve Into More of the Fallout Universe</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-epic-and-gog-steam-deck-players/"><u>Essential Tips for Epic & GOG Steam Deck Players</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-y17s-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y17s to Protect Your Individual Information</u></a></li>
+<li><a href="https://games-able.techidaily.com/intels-next-gen-cpus-6-potential-drawbacks-unveiled/"><u>Intel's Next Gen CPUs - 6 Potential Drawbacks Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-price-rise-on-xbox-gold-membership-swiftly/"><u>Navigate the Price Rise on Xbox Gold Membership Swiftly</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-exploring-alternatives-to-vocaroo-a-roadmap-for-audio-documentation/"><u>New 2024 Approved Exploring Alternatives to Vocaroo A Roadmap for Audio Documentation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rapid-techniques-mix-up-and-shuffle-youtube-listings-for-2024/"><u>Rapid Techniques Mix Up and Shuffle YouTube Listings for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-techniques-to-lessen-song-tempo-without-compromising-pitch-recognition/"><u>Updated In 2024, Techniques to Lessen Song Tempo Without Compromising Pitch Recognition</u></a></li>
+</ul></div>
 

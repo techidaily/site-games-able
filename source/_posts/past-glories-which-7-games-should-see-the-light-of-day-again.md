@@ -1,7 +1,7 @@
 ---
 title: "Past Glories: Which 7 Games Should See the Light of Day Again?"
-date: 2024-08-22T22:30:52.301Z
-updated: 2024-08-23T22:30:52.301Z
+date: 2024-12-27T23:19:15.608Z
+updated: 2025-01-04T05:21:12.880Z
 tags:
   - games
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of[the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Spyro the Dragon
 
  It’s relatively safe to say that most gamers alive during the golden age of console gaming know Spyro the Dragon. When you think about video games in the 90s, Spyro the Dragon is one of the mascots that immediately springs to mind.
@@ -36,18 +40,12 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Spyro still has a huge amount of diehard fans who have more than enough room for a brand new Spyro title in their collection, not to mention the younger audience that a successful entry would no doubt appeal to.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Skylanders
 
  If you were wondering where Spyro went back in the day, Skylanders is your answer. But Skylanders wasn’t just a Spyro clone that profited off the purple dragon’s name. It also introduced its own unique spin on things.
 
  Skylanders used an interesting toys-to-life gimmick that made billions of dollars thanks mostly to the sales of hundreds of millions of character figures. Those are big numbers that are hard to argue with, but the series still seemed to find itself in the gaming graveyard that exists at the back of every gamer’s basement. But with the right marketing, there is potential for the series to make a serious comeback.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. StarCraft
 
  StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure[what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
@@ -57,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
  Although one entry made it to the Nintendo 64, the series has mostly been confined to PC. That means that there is a whole new world of console gamers who are yet to experience a StarCraft title.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Tony Hawk's Pro Skater
 
  The name Tony Hawk's Pro Skater alone is probably enough to convince you that a new mainline game would be amazing. The series is the unrivaled master of skateboarding games, and although there have been entries in the genre since the reign of Tony Hawk's Pro Skater, none have been able to come close.
@@ -66,9 +65,9 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
  The games were known not only for their fluid and satisfying gameplay but their incredible soundtracks that featured some of the most iconic songs of their age. Remastered versions of Tony Hawk's Pro Skater 1 and 2 were released in 2020 and were highly anticipated, so a new entry in the series would no doubt be just as, if not more, hyped than the remaster.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Hexen
 
  If the words Doom, Dark Fantasy, and Dark Souls trigger your interest, Hexen is something you should absolutely look into. It is very similar to Doom in many ways, including but not limited to the fact that it was built in a modified version of the same engine.
@@ -78,8 +77,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Instead of completing one level at a time, Hexen requires you to backtrack and make your way through several areas via a hub world. This added to the game's difficulty and made it far more unforgiving than your average FPS. But for gamers that thrive on a good challenge, it also makes it that much more satisfying when you complete it.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Prototype
 
  A modern Prototype game would be amazing. It was great back in the day, but it has an unbelievable amount of potential for a new entry. If there is one modern game that Prototype could be compared to today, it would be Marvel’s Spider-Man: Miles Morales. Of course, it would be far darker and grittier, but one of the best parts of Miles Morales is the satisfaction of effortlessly swinging through the streets on vine-like webs.
@@ -87,22 +87,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Prototype doesn’t have webs, but Alex Mercer’s venom-like virus powers provided a very similar experience as you parkoured your way around the city. Even if Microsoft doesn’t revive the Prototype series, the games still hold up today and are well worth playing.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Hopefully, Microsoft Doesn’t Leave These Games in the Past
 
  Activision Blizzard has seen its fair share of controversy, but it’s fair to say that many of these games played a big part in shaping the history of gaming. Moving forward instead of backwards is important, but there’s nothing wrong with indulging in a bit of nostalgia here and there, and we can’t be the only ones who want to see these games make a comeback.
 
  Call of Duty may seem like the biggest asset Microsoft has bagged for itself out of this deal. But with the right marketing and development teams, these franchises could have the potential to give it a run for its money. You can never beat a good classic, after all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,4 +109,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-exquisite-makeup-moments-captured/"><u>[New] 2024 Approved Exquisite Makeup Moments Captured</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-step-by-step-methodology-for-video-filter-addition-on-tech-devices/"><u>[New] 2024 Approved Step-by-Step Methodology for Video Filter Addition on Tech Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-symphony-of-screens-adding-music-to-online-chronicles/"><u>[New] In 2024, Symphony of Screens Adding Music to Online Chronicles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-assemble-visual-media-for-queue-upgrade/"><u>[Updated] Assemble Visual Media for Queue Upgrade</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-methods-for-making-any-dvd-player-region-free-a-comprehensive-walkthrough-and-guide/"><u>Effortless Methods for Making Any DVD Player Region-Free - A Comprehensive Walkthrough and Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-upgrades-for-optimal-steam-deck-performance/"><u>Essential Upgrades for Optimal Steam Deck Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-web-based-textual-fantasy-trips/"><u>Five Web-Based, Textual Fantasy Trips</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-manage-your-xbox-subscriptions-from-your-series-xs/"><u>How to Manage Your Xbox Subscriptions From Your Series X|S</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-share-your-xbox-one-games-with-family-and-friends-seamlessly/"><u>How to Share Your Xbox One Games with Family and Friends Seamlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/overheat-no-more-top-accessories-listed/"><u>Overheat No More: Top Accessories Listed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-leftright-earheadphone-audio-issues-in-windows/"><u>Solving Left/Right Earheadphone Audio Issues in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-optimize-controllers-battery-performance/"><u>Strategies to Optimize Controllers' Battery Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-high-fidelity-graphics-gaming-tools/"><u>Superior High Fidelity Graphics Gaming Tools</u></a></li>
+</ul></div>
 

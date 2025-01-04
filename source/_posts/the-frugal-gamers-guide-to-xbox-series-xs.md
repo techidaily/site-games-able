@@ -1,7 +1,7 @@
 ---
 title: The Frugal Gamer's Guide to Xbox Series X/S
-date: 2024-12-21T01:27:34.775Z
-updated: 2024-12-25T18:31:20.801Z
+date: 2024-12-29T16:00:44.369Z
+updated: 2025-01-04T16:00:15.910Z
 tags:
   - games
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Shop for Games That Are on Sale
 
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
  But there are many games where these in-game purchases are purely cosmetic and completely optional, meaning you can play for as long as you want without reaching for your wallet at all. Games like Overwatch 2, Fortnite, or Apex Legends are just a few examples of fun and rewarding games that you can play completely free of charge.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Subscribe to Xbox Game Pass
 
  If you’re a gamer on a budget, Xbox Game Pass will be your best friend. Xbox Game Pass is a subscription service that does cost money, but the number of games you get access to makes it incredibly good value.
@@ -60,12 +52,16 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
  For just $10.99 per month, you can play however many of the hundreds of games on offer that your heart desires. The games are also switched up and added to consistently, so there is always something new for you to play.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Collect and Use Microsoft Reward Points
 
@@ -86,6 +82,10 @@ Close
  Xbox Game Pass Perks can include anything from loot boxes for certain games or even free monthly subscriptions to services like Crunchyroll or Discord Nitro. These offers are all available for a limited time and change often, so make sure you check them out regularly.
 
  You can check your Game Pass Perks from the Xbox website, your console itself, or on the Xbox Game Pass mobile app by opening it and heading to your profile. If you have Xbox Game Pass but don’t see any Perks there, keep in mind that they are only available to Xbox Game Pass Ultimate subscribers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Use Energy Saving Mode on Your Xbox
 
@@ -108,7 +108,7 @@ Close
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: How Much Electricity Does Your Xbox Series X Use?
@@ -116,7 +116,7 @@ Close
  The power consumption of your Xbox Series X varies depending on how you're using your console. Active gameplay from your Xbox Series X will use 150 W of energy, for instance, while streaming UHD media will consume only 48 W. But if you're looking to lower your energy consumption to save money or lower your impact on the environment, you can always[adjust the power options of your Xbox Series X](https://www.makeuseof.com/how-to-customize-xbox-series-x-s-power-options-to-save-energy/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: Why Is the Xbox Series S So Much Cheaper Than the Xbox Series X?
@@ -124,7 +124,7 @@ Close
  You can purchase an Xbox Series S for far less than an Xbox Series X because of the differences in specifications between each console. The Xbox Series S has less GPU and CPU power than the Xbox Series X while also having less RAM and storage. However, when saving money on next-gen hardware,[the Xbox Series S sets a new standard for budget consoles](https://www.makeuseof.com/how-the-xbox-series-s-set-a-new-standard-for-budget-consoles/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: What Are the Perks of Having an Xbox Series S?
@@ -146,22 +146,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-download-tailored-outro-audio-without-investment/"><u>[New] Download Tailored Outro Audio without Investment</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-initial-movie-capture-evaluation-with-options/"><u>[New] In 2024, Initial Movie Capture Evaluation with Options</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ultimate-selection-winning-16-free-video-experience/"><u>[New] In 2024, Ultimate Selection Winning 16 Free Video Experience</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-mirth-mechanics-zombie-satire-units-for-2024/"><u>[Updated] Mirth Mechanics Zombie Satire Units for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-joke-jamboree-twitters-10-best-comedy-threads/"><u>2024 Approved Joke Jamboree Twitter's 10 Best Comedy Threads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-11s-spotify-link-barriers/"><u>Breaking Down Windows 11'S Spotify Link Barriers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-kootek-laptop-cooling-pad-top-selection-reviewed-here/"><u>Comprehensive Guide to Kootek Laptop Cooling Pad – Top Selection Reviewed Here!</u></a></li>
-<li><a href="https://games-able.techidaily.com/control-synergy-securely-connect-your-xbox-console/"><u>Control Synergy: Securely Connect Your Xbox Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-disconnected-steam-remote-play-on-windows/"><u>Fixing Disconnected Steam Remote Play on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/interactive-escapades-love-for-netflix-gaming-revealed/"><u>Interactive Escapades – Love for Netflix Gaming Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-level-gameplay-sonys-playstation-5-vs-thrifty-computer/"><u>Next Level Gameplay: Sony's PlayStation 5 VS Thrifty Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/next-level-sound-design-on-your-tablet-and-laptop-discover-how-apples-logic-pro-now-features-innovative-ai-band-members-exclusive-coverage-from-zdnet/"><u>Next Level Sound Design on Your Tablet and Laptop! Discover How Apple's Logic Pro Now Features Innovative AI 'Band Members' – Exclusive Coverage From ZDNET</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidia-launches-game-streaming-service-but-too-much-hype/"><u>Nvidia Launches Game Streaming Service, But Too Much Hype?</u></a></li>
-<li><a href="https://games-able.techidaily.com/pokemon-gameplay-essentials-for-apple-gadgets-enthusiasts/"><u>Pokémon Gameplay Essentials for Apple Gadgets Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/recharge-resources-by-powering-down-ps5/"><u>Recharge Resources by Powering Down PS5</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/toggle-between-normal-and-picture-in-picture-view-for-youtube-on-iphone-for-2024/"><u>Toggle Between Normal and Picture In Picture View for Youtube on iPhone for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-choose-dxvk-for-a-better-gaming-experience-on-windows/"><u>Why Choose DXVK for a Better Gaming Experience on Windows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-advice-on-leveraging-youtubes-video-editor/"><u>[New] Expert Advice on Leveraging YouTube's Video Editor</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unlocking-views-with-optimal-thumbnail-design/"><u>[Updated] 2024 Approved Unlocking Views with Optimal Thumbnail Design</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-guide-for-srt-format-conversions/"><u>2024 Approved Comprehensive Guide for SRT Format Conversions</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-elevates-my-fav-tv-show-viewing-a-tale-of-joy-strangeness-and-exhaustion-coverage/"><u>Apple Vision Pro Elevates My Fav TV Show Viewing - A Tale of Joy, Strangeness & Exhaustion | Coverage</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/discover-free-high-quality-facebook-image-and-vfx-makers/"><u>Discover Free, High-Quality Facebook Image & VFX Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-rip-from-movavi-subtitle-editing-software/"><u>DVD Rip From Movavi - Subtitle Editing Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-gaming-adventures-with-google-play-games-on-desktop/"><u>Embark on Gaming Adventures with Google Play Games on Desktop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screen-recorder-pro-a-beginners-handbook-for-mac/"><u>Screen Recorder Pro A Beginner's Handbook for Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/stream-management-101-how-to-disconnect-and-reconnect-users/"><u>Stream Management 101: How to Disconnect & Reconnect Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-hidden-dangers-of-using-ps5s-microphone/"><u>The Hidden Dangers of Using PS5's Microphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-offline-puzzle-xboxs-invisible-player-quest/"><u>The Offline Puzzle: Xbox's Invisible Player Quest</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-inside-nvidias-personalized-ai-experience/"><u>What Is Inside NVIDIA's Personalized AI Experience?</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-complete-list-of-affordable-1440p-monitors-ready-to-play/"><u>Your Complete List of Affordable 1440P Monitors, Ready to Play</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LinkedIn's New Trend: Beware the Gamification Traps"
-date: 2024-12-24T20:58:26.349Z
-updated: 2024-12-25T20:29:32.187Z
+date: 2024-12-31T16:00:21.226Z
+updated: 2025-01-04T16:00:00.857Z
 tags:
   - games
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 * [What Possessed LinkedIn to Add Games?](#what-possessed-linkedin-to-add-games)
 * [Why LinkedIn Users Shouldn't Play These Games](#why-linkedin-users-shouldn-39-t-play-these-games)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * LinkedIn added NYT-style games like Pinpoint, Crossclimb, and Queens.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
  For some unexplained reason, LinkedIn has added games to its website and app. This is despite LinkedIn being designed for professional networking and job searching. While we're stuck pondering why LinkedIn has added games, we would advise you to stay away from them regardless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## LinkedIn Has Added NYT-Style Games
 
  Since the 1990s, when Java and Flash were all the rage, people have been able to play silly little games online. However, when it burst onto the scene in 2021,[Wordle ushered in a new era of daily web-based games](https://www.makeuseof.com/what-is-wordle/) . Easily playable and easily shareable, the game spawned[a raft of Wordle alternatives](https://www.makeuseof.com/best-wordle-alternatives/) . And the New York Times has been the big driver of this trend, first buying Wordle, and then creating a raft of daily games you can play in your browser or on its app.
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
  Now, LinkedIn has decided to join in with the fun, adding a Games tab populated with (at the time of writing), three "fun" games. These are Pinpoint, Crossclimb, and Queens.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pinpoint
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 ![Playing the Crossclimb game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/crossclimb-linkedin-games.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Crossclimb](https://www.linkedin.com/games/crossclimb/) has two elements to it. First, you need to find the four-letter answers to the clues provided. Second, you need to rearrange the answers so that there's only one letter different to the answer above and below. Only then will you unlock the top and bottom clues.
@@ -67,14 +67,10 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![Playing the Queens game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/queens-linkedin-games.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Queens](https://www.linkedin.com/games/queens/) is a little like Sudoku, in that you have to be aware of several different elements in order to place things correctly. In Sudoku, it's numbers, whereas in Queens, it's crowns. There's a lot of trial and error with this, so you'll either love it or hate it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Possessed LinkedIn to Add Games?
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
  You can take a look at LinkedIn's games by visiting the[LinkedIn Games tab](https://www.linkedin.com/games/) . But if you forget to bookmark it, just search LinkedIn for "games", and it should be the top result. When you search for it, the platform will sell you on them with the tagline, "Keep your mind sharp with daily games. Connect with your network over a little fun." This reveals how LinkedIn sees its users using these games.
 
 ![LinkedIn inviting users to play games to keep your mind sharp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/linked-in-games-search-result.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  LinkedIn thinks you'll use these games as another networking tool. In the same way that many of us send our Wordle, Connections, and Strands scores to our loved ones every morning, LinkedIn wants you to do the same with Pinpoint, Queens, and Crossclimb. However, there's a fundamental difference between your family and friends and the people you are likely to connect with on LinkedIn.
 
@@ -108,24 +108,24 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-mobile-film-and-picture-capture-tools-for-iphones-and-androids/"><u>[New] 2024 Approved Best Mobile Film & Picture Capture Tools for iPhones & Androids</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ey-steps-to-find-your-youtube-content-creation-hub-for-2024/"><u>[New] Key Steps to Find Your YouTube Content Creation Hub for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-scripted-time-warps-a-cinematic-approach/"><u>2024 Approved Scripted Time Warps A Cinematic Approach</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effective-techniques-for-file-compression-insights-from-yl-computings-expertise/"><u>Effective Techniques for File Compression: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-faulty-card-status-alerts-in-gaming-devices/"><u>Eliminating Faulty Card Status Alerts in Gaming Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-your-xbox-series-x-stays-peak-performance/"><u>Ensuring Your Xbox Series X Stays Peak Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/evolving-game-scripting-with-ai-assistance/"><u>Evolving Game Scripting with AI Assistance</u></a></li>
-<li><a href="https://games-able.techidaily.com/fine-tuning-for-triumph-fps-game-settings/"><u>Fine-Tuning for Triumph: FPS Game Settings</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-11-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 11 Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-auroras-role-in-enhancing-image-contrast/"><u>In 2024, Aurora's Role in Enhancing Image Contrast</u></a></li>
-<li><a href="https://games-able.techidaily.com/jumpstart-joy-fast-and-fun-online-gaming-picks/"><u>Jumpstart Joy: Fast and Fun Online Gaming Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/popcorn-and-pixels-a-ranking-of-the-most-awesome-sites-to-watch-movies-for-free-top-12-edition/"><u>Popcorn and Pixels: A Ranking of the Most Awesome Sites to Watch Movies For Free (Top 12 Edition)</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-play-reimagined-the-premier-nintendo-switch-docks-of-2024/"><u>Power Play Reimagined: The Premier Nintendo Switch Docks of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/refund-your-xbox-games-step-by-step-guide/"><u>Refund Your Xbox Games - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/solving-scanning-issues-making-your-printers-display-visible-again-expert-tips-from-yl-computing/"><u>Solving Scanning Issues: Making Your Printer's Display Visible Again - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-kyocera-printing-software-setup-for-windows-users/"><u>Step-by-Step: KYOCERA Printing Software Setup for Windows Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-steam-profile-hunt/"><u>Streamline Your Steam Profile Hunt</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-generation-of-smartwatches-spotlight-on-apple-watch-series-8-specs-release-plans-and-pricing-strategy/"><u>The Next Generation of Smartwatches - Spotlight on Apple Watch Series #8 Specs, Release Plans & Pricing Strategy</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-is-intel-stream-assist-and-how-does-it-make-game-streaming-better/"><u>What Is Intel Stream Assist and How Does It Make Game Streaming Better?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-direct-webcam-streaming-with-vlc-for-2024/"><u>[New] Direct Webcam Streaming with VLC for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-essential-aspect-ratio-tips-for-social-media-videos/"><u>[New] Essential Aspect Ratio Tips for Social Media Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-hilarity-and-sobriety-a-list-of-top-10-memetic-spots-on-insta-for-2024/"><u>[Updated] Hilarity & Sobriety A List of Top 10 Memetic Spots on Insta for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data-for-2024/"><u>[Updated] Navigating the Seas of Success Utilizing Social Blade for YouTube Data for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-beat-the-bad-guys-top-kung-fu-action-puzzle-games/"><u>2024 Approved Beat the Bad Guys Top Kung Fu Action Puzzle Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-enriching-youtube-channels-amp-up-with-songs/"><u>2024 Approved Enriching Youtube Channels Amp up with Songs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-compilation-of-the-best-10-image-sharing-sites/"><u>A Compilation of the Best 10 Image Sharing Sites</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advanced-techniques-to-remove-confidential-files-from-your-iphone-with-trusted-eraser-applications/"><u>Advanced Techniques to Remove Confidential Files From Your iPhone with Trusted Eraser Applications</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-steam-reimbursements-for-all-players/"><u>Effortless Steam Reimbursements for All Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-retro-nostalgia-with-xbox-classics-and-xemu-on-pc/"><u>Enjoy Retro Nostalgia with XBox Classics & Xemu on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-the-connection-steam-deck-and-cloud-sync/"><u>Fixing the Connection: Steam Deck and Cloud Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-top-10-best-free-fps-browser-games-unveiled/"><u>Game On! Top 10 Best Free FPS Browser Games Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/gear-gripping-or-tapping-tracks-perfecting-the-drivers-art/"><u>Gear Gripping or Tapping Tracks: Perfecting the Driver's Art</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/premiere-live-concert-streams-for-2024/"><u>Premiere Live Concert Streams for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-purchase-guide-essential-contemplations/"><u>PS5 Purchase Guide: Essential Contemplations</u></a></li>
+<li><a href="https://games-able.techidaily.com/revisiting-perception-why-consoles-arent-outdone/"><u>Revisiting Perception: Why Consoles Aren't Outdone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-components-for-a-powerhouse-gaming-machine/"><u>Top Components for a Powerhouse Gaming Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-high-price-of-virtual-reality-technology/"><u>Unraveling the High Price of Virtual Reality Technology</u></a></li>
 </ul></div>
 

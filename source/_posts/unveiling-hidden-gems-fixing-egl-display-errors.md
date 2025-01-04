@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden Gems: Fixing EGL Display Errors"
-date: 2024-08-22T22:30:28.423Z
-updated: 2024-08-23T22:30:28.423Z
+date: 2025-01-02T20:22:33.395Z
+updated: 2025-01-04T00:46:34.153Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
  Has Epic Games stopped showing the games within your library? Most of the time, it’s a minor glitch that you can fix by restarting Epic Games Launcher or re-authenticating your account.
 
  Even if it’s a more serious problem, we’ve put together a list of solutions to help you get your games back.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Refresh the Library
 
@@ -40,31 +44,22 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
  If there’s someone else with an Epic Games account using the same device as you, you’ll see only the games purchased by their account.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 4\. Check the Game’s Availability
 
  As you may know, you can[get free games on the Epic Games store](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) . Besides its permanent free games catalog, you can get a new free game every week. However, not every free game is yours forever.
 
 ![Check the game's availability on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-availability-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Unhide the Game Library
 
  Epic Games allows you to hide your games in case you don’t want a younger sibling to play games with inappropriate content. Or if you don’t want to lose your competitive rank. Either way, if you can’t find any games, you should check if you didn’t hide them.
@@ -73,13 +68,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![How to unhide the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hide-game-library-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 6\. Remove Library Filters
 
  The Epic Games app allows you to sort your titles depending on genre, features, and supported platforms, among other criteria. If certain titles are missing from your library, chances are you’ve set a filter and forgot about it. To check out every title in your library, you should remove Epic Games library filters.
@@ -87,6 +75,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  In the Library tab, click on**Filters** and uncheck the options. Alternatively, if there are multiple filters, click**Reset** . Then, refresh the library and check if all of your games are now visible.
 
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Delete the Epic Games Launcher Cache
 
@@ -101,23 +93,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Bring Back Your Epic Games Library
 
  Epic Games not showing your games can be frustrating. Especially if you’ve just bought a new game and can’t wait to play it. Another solution to this problem is to link your Epic Games and Steam accounts. This way, you can carry your progress between these two platforms.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +113,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-building-sustainable-cities-innovation-in-environmental-design/"><u>[New] 2024 Approved Building Sustainable Cities Innovation in Environmental Design</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-compreenas-guide-to-choosing-ideal-lenses-for-filmmaking/"><u>2024 Approved A Compreenas Guide to Choosing Ideal Lenses for Filmmaking</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unpacking-sharex-evaluation-and-replacements/"><u>2024 Approved Unpacking ShareX Evaluation & Replacements</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-a-bespoited-tv-ecosystem-with-customized-xboxs-vrr-feature/"><u>Creating a Bespoited TV Ecosystem with Customized Xbox's VRR Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-screen-display-in-discord-gaming/"><u>Customize Screen Display in Discord Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhancing-elegance-and-energy-the-spectacular-glow-of-rgb-on-a-customized-fractal-design-north-xl-pc-build/"><u>Enhancing Elegance and Energy: The Spectacular Glow of RGB on a Customized Fractal Design North XL PC Build</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 mini without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-stories-essential-tips-for-youtube-video-editors/"><u>In 2024, Crafting Stories Essential Tips for YouTube Video Editors</u></a></li>
+<li><a href="https://games-able.techidaily.com/mechanical-marvel-the-game-changing-blackwidow-v4/"><u>Mechanical Marvel: The Game Changing BlackWidow V4</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/precise-mac-recording-without-costs-for-2024/"><u>Precise Mac Recording Without Costs for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-headsets-for-switch-games/"><u>Premier Headsets for Switch Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-vs-xbox-s-next-gen-console-showdown/"><u>PS5 Vs. Xbox S - Next Gen Console Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-profile-ps5-account-removal-guide/"><u>Streamline Your Profile: PS5 Account Removal Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/supernova-shaper-uncovering-exceptional-pc-models/"><u>Supernova Shaper: Uncovering Exceptional PC Models</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Evaluating Mechanical Keyboards' Role in Gaming
-date: 2024-12-24T07:21:22.811Z
-updated: 2024-12-25T21:41:25.897Z
+date: 2024-12-31T16:06:08.354Z
+updated: 2025-01-04T16:04:40.911Z
 tags:
   - games
 categories:
@@ -19,15 +19,15 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Benefits of Mechanical Keyboards for Gaming](#benefits-of-mechanical-keyboards-for-gaming)
 * [Drawbacks of Mechanical Keyboards for Gaming](#drawbacks-of-mechanical-keyboards-for-gaming)
 * [Do You Need a Mechanical Keyboard for Gaming?](#do-you-need-a-mechanical-keyboard-for-gaming)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ## Benefits of Mechanical Keyboards for Gaming
 
  Since we’re talking about gaming, we’re mainly going to focus on gaming mechanical keyboards since they offer many features that normal mechanical keyboards don’t offer. Of course, we’ll also state the benefits of using any mechanical keyboard for gaming.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Lighter Actuation Force
 
@@ -71,10 +67,6 @@ Jhet Borja/MakeUseOf
 
 ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Gaming mechanical keyboards have come a long way since they were first popularized in the early 2010s. Gaming brands have come up with many new features that bring gaming to a different level.
 
  You have the commonly found features such as[N-key rollover](https://www.makeuseof.com/what-is-n-key-rollover-mechanical-keyboards/) (allowing you to press multiple keys at once), customizable macro keys, low-latency wireless, and active lighting features.
@@ -83,16 +75,12 @@ Jhet Borja/MakeUseOf
 
  Most gaming mechanical keyboards also feature dedicated macro buttons—easily accessible buttons that you can assign any action. Arma, for example, has so many keybinds that you’ll often have to either move your hand from one side of the keyboard to the other, or move your other hand from your mouse to your keyboard. Macros and layers would allow you to bring those keys and functions to just one side, saving you time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mechanical Keyboards Are Highly Customizable
 
 ![Switch lubing tools and keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-lubing-tools-and-keyboard.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -112,7 +100,7 @@ Jhet Borja/MakeUseOf
 ![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -123,9 +111,17 @@ Jhet Borja/MakeUseOf
 
  However, the customizable nature of mechanical keyboards means that if you really did want a lightweight, ultra-portable keyboard, you can definitely build one yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mechanical Keyboards Cost More
 
 ![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -140,6 +136,10 @@ Jhet Borja/MakeUseOf
  There are different switch types with different sound profiles, but most of these are louder than non-mechanical keyboards. You can use O-rings to soften the bottom-out sound, but that usually ruins the feel of the mechanical keyboard and doesn’t account for the rebound sound after letting go of the switch.
 
  To get a pretty quiet mechanical keyboard, you’ll have to go to pretty great lengths to achieve it, which might not make it worth it for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do You Need a Mechanical Keyboard for Gaming?
 
@@ -164,22 +164,19 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/6-best-kickstart-videos-on-youtube-for-visibility-boost-for-2024/"><u>[New] 16 Best Kickstart Videos on YouTube for Visibility Boost for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-from-concept-to-creation-a-blueprint-for-powerful-snap-campaigns/"><u>[Updated] In 2024, From Concept to Creation A Blueprint for Powerful Snap Campaigns</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-vids-determining-the-perfect-dimensions/"><u>[Updated] Instagram Vids Determining the Perfect Dimensions</u></a></li>
-<li><a href="https://win11.techidaily.com/activatedeactivate-fingerwriting-in-windows-system/"><u>Activate/Deactivate Fingerwriting in Windows System</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-idle-label-is-it-a-genuine-indication/"><u>Delving Into 'Idle' Label: Is It a Genuine Indication?</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminate-game-sounds-quiet-console-play/"><u>Eliminate Game Sounds: Quiet Console Play</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-5-key-ways-to-leverage-facebook-in-your-career/"><u>Exploring 5 Key Ways to Leverage Facebook in Your Career</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-mobile-gaming-upsides-downside/"><u>Exploring Mobile Gaming Upsides Downside</u></a></li>
-<li><a href="https://games-able.techidaily.com/fleeting-feature-fest-secret-gameplay-hacks/"><u>Fleeting Feature Fest: Secret Gameplay Hacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lone-earbud-problem-resolution-guide-for-2024/"><u>Lone Earbud Problem Resolution Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-cash-flow-for-steam-gaming-purchases/"><u>Optimizing Cash Flow for Steam Gaming Purchases</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/spooks-savings-and-shiny-trophies-enter-the-ultimate-halloween-sweepstakes-with-macxdvds-dvd-video-toolkit-extravaganza/"><u>Spooks, Savings, and Shiny Trophies: Enter the Ultimate Halloween Sweepstakes with MacXDVD's DVD Video Toolkit Extravaganza!</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-15-best-two-player-mobile-games-to-play-with-friends-or-strangers/"><u>The 15 Best Two-Player Mobile Games to Play With Friends or Strangers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-game-of-life-taking-breaks-not-breaks/"><u>The Game of Life: Taking Breaks, Not Breaks</u></a></li>
-<li><a href="https://win11.techidaily.com/title-enhancing-window-organization-by-icon-adjustment/"><u>Title: Enhancing Window Organization by Icon Adjustment</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-xbox-series-s-skips-traditional-media/"><u>Why Xbox Series S Skips Traditional Media</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-networking-growth-sharing-facebook-content-via-whatsapp/"><u>[New] 2024 Approved Networking Growth Sharing Facebook Content via WhatsApp</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-viewers-toolkit-assistant/"><u>[Updated] 2024 Approved Viewer's Toolkit Assistant</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-variations-6-unique-online-chess-adventures/"><u>Explore Variations: 6 Unique Online Chess Adventures</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-achieve-negative-like-images-effectively/"><u>In 2024, How to Achieve Negative-Like Images Effectively</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a14-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A14 5G Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-classic-playback-perfect-retro-games-compression-with-chdman/"><u>Keeping Classic Playback Perfect: Retro Games' Compression with ChDMan</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-returns-to-reclaim-your-currency/"><u>Navigating Steam's Returns to Reclaim Your Currency</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/portraying-paradoxes-with-teleportation-cgi-for-2024/"><u>Portraying Paradoxes with Teleportation CGI for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-tips-for-an-enduring-xbox-controlling-experience/"><u>Power Tips for an Enduring Xbox Controlling Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-live-tech-the-most-popular-streaming-tools-reviewed/"><u>Prime Live Tech The Most Popular Streaming Tools Reviewed</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/troubleshooting-guide-how-to-restore-missing-quick-access-icons-on-your-desktop-6-steps/"><u>Troubleshooting Guide: How To Restore Missing Quick Access Icons On Your Desktop (6 Steps)</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-vr-world-with-ps-vr2-extras/"><u>Upgrade Your VR World with PS VR2 Extras</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-has-updated-steam-family-sharing-for-the-first-time-in-10-years-heres-whats-new/"><u>Valve Has Updated Steam Family Sharing for the First Time in 10 Years: Here's What's New</u></a></li>
 </ul></div>
 

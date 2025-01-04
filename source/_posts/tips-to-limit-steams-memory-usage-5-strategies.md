@@ -1,7 +1,7 @@
 ---
 title: "Tips to Limit Steam's Memory Usage: 5 Strategies"
-date: 2024-12-23T06:39:33.999Z
-updated: 2024-12-25T17:38:35.479Z
+date: 2024-12-30T16:02:51.996Z
+updated: 2025-01-04T16:03:25.527Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 * Launching the Steam Mini Games List or creating a custom batch file can further reduce memory usage for a more streamlined Steam experience.
 
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Does Steam Use So Much Memory?
 
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
@@ -66,21 +66,29 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
  This will ease the burden that Steam's web pages have on your available memory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Enable Low-Performance Mode
 
 ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another simple toggle for performance gains is in the Library tab of the settings menu. Enabling the Low-Performance Mode will disable certain animations when browsing through the Steam library.
 
  This will sacrifice some eye candy for the sake of performance, but overall doesn't reduce memory usage beyond superficial levels. If you've tried all these options so far and still find your system struggling, it might be time for more drastic measures.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Launch the Steam Mini Games List
 
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
 
@@ -92,10 +100,6 @@ steam://open/minigameslist
 3. Hit enter. This will change the size of your Steam window, forcing it into a vertical slice rather than the more feature-full rectangle that Steam usually defaults to.
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Create a Custom Batch File for Minimal Steam
 
@@ -116,10 +120,6 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
  Steam may crash in certain circumstances using this configuration. If this is a problem, remove the command**\-cef-disable-breakpad** from the batch file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Go Bare Bones With Steam
 
  Steam has some great features, but not everyone needs them. If all you want out of Steam is a way to view and manage your games, and you don't care for the social features, then consider some of the above methods. You might be surprised by how little Steam needs to work.
@@ -139,24 +139,16 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-press-record-with-just-one-click-on-win11/"><u>[New] 2024 Approved Press 'Record' With Just One Click on Win11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-configure-storage-of-captured-mac-screen-for-2024/"><u>[New] Configure Storage of Captured Mac Screen for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-7-iosandroid-apps-for-mobile-friendly-youtube-streaming/"><u>[New] Top 7 iOS/Android Apps for Mobile-Friendly YouTube Streaming</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-unveiling-the-best-6-gopro-mounts-for-seamless-capture/"><u>[Updated] In 2024, Unveiling the Best 6 GoPro Mounts for Seamless Capture</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-streamlining-your-iphones-video-loops-for-2024/"><u>[Updated] Streamlining Your iPhones Video Loops for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-cutting-edge-cost-free-platforms-for-professional-video-editing/"><u>[Updated] Unveiling The Cutting-Edge, Cost-Free Platforms for Professional Video Editing</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-emulation-of-legendary-dreamcast-games-on-your-phone/"><u>Effortless Emulation of Legendary Dreamcast Games on Your Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-game-streaming-on-your-iosandroid-device/"><u>Effortless Game Streaming on Your iOS/Android Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/examining-pc-speed-is-your-cpu-the-culprit/"><u>Examining PC Speed: Is Your CPU the Culprit?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-smart-7-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Smart 7 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-through-switch-games-on-a-mac/"><u>Journey Through Switch Games on a Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/jump-into-segas-past-dreamcast-reworked-for-android/"><u>Jump Into Sega's Past: Dreamcast Reworked for Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/neo-qled-vs-oled-diving-deep-into-television-display-technologies/"><u>Neo QLED Vs. OLED: Diving Deep Into Television Display Technologies</u></a></li>
-<li><a href="https://games-able.techidaily.com/pathways-of-steam-screenshot-preservation/"><u>Pathways of Steam Screenshot Preservation</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-prospects-four-reasons-for-caution/"><u>PS5 Prospects: Four Reasons for Caution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reasons-to-upgrade-the-linkedin-plus-experience/"><u>Reasons to Upgrade: The LinkedIn Plus Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/scarcity-no-more-impact-on-future-ps5-prices-to-be-traced/"><u>Scarcity No More: Impact on Future PS5 Prices to Be Traced</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-evolutionary-tale-of-foddian-titles/"><u>The Evolutionary Tale of Foddian Titles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-comparing-m1-powered-laptops-to-videographers-needs/"><u>[New] In 2024, Comparing M1-Powered Laptops to Videographers' Needs</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-hidden-wonders-a-shiny-journey-through-scarlet-and-violet-85/"><u>Discover Hidden Wonders: A Shiny Journey Through Scarlet & Violet (85)</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-gaming-experience-with-the-best-9-emulators/"><u>Elevating Your Gaming Experience with the Best 9 Emulators</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-x50-gt-by-drfone-android/"><u>Full Guide to Unlock Your Honor X50 GT</u></a></li>
+<li><a href="https://games-able.techidaily.com/hush-your-gaming-station-xbox-edition/"><u>Hush Your Gaming Station: Xbox Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-syncopating-songs-implementing-fades-in-logic-pro-x/"><u>In 2024, Syncopating Songs Implementing Fades in Logic Pro X</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-development-with-chatgpt-6-must-try-coding-techniques/"><u>Revolutionizing Development with ChatGPT: 6 Must-Try Coding Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-settings-for-teen-and-kids-playstation-5/"><u>Secure Settings for Teen & Kid’s PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-xbox-one-synching-controllers-seamlessly/"><u>Unlock Xbox One: Synching Controllers Seamlessly</u></a></li>
 </ul></div>
 

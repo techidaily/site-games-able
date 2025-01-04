@@ -1,7 +1,7 @@
 ---
 title: "Mastering Baldur's Gate 3: Full Game on Mac via Crossover"
-date: 2024-08-27T17:05:32.662Z
-updated: 2024-08-28T17:05:32.662Z
+date: 2025-01-02T01:27:43.220Z
+updated: 2025-01-04T05:07:21.748Z
 tags:
   - games
 categories:
@@ -24,7 +24,15 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
 
 ![Baldur's Gate 3 in Steam cart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-in-steam-cart.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You don’t need a virtual machine for this step. Go to Steam. Search Baldur’s Gate 3, and pay $59.99 for the game. Once you have a receipt, you’re ready to move on to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Download, Install, and Set Up CrossOver and Steam
 
@@ -38,49 +46,43 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
 
  Once that’s done, log in to Steam with your details and install Baldur’s Gate 3 from your library. As soon as it’s done, you can attempt to run it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Run Baldur’s Gate 3 With CrossOver
 
 ![Baldur's Gate 3 page in the Steam library on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-page-in-the-steam-library-on-crossover.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Baldur’s Gate 3 should run the moment you click**Play** , but in some cases, it might not. What you should do is find Baldur’s Gate 3 on the left side menu and**Control** \-click (secondary-click) it to open the context menu. Go to**Manage > Browse Local Files** .
 
 ![Steam context menu for Baldur's Gate 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-context-menu-for-baldur-s-gate-3.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It will open up an old-looking Windows window with Baldur’s Gate 3’s files. Click the**Bin** folder and find**BG3\_DX11.exe** and run the game from there. It should boot.
 
 ![Baldur's Gate 3 in-game character creation screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-in-game-character-creation-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You might run into issues, lagging, or crashes if you’re using a MacBook Air. You can try lowering the settings to see if it helps on a struggling computer. We highly recommend you leave Baldur’s Gate 3 full version alone if you’re using a MacBook Air. Instead, you should play early access; it’s pretty good and well-optimized for your machine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Join the Baldur’s Gate 3 Adventure Without Waiting
 
  Use CrossOver to beat the clock and access Baldur’s Gate 3 ahead of time. And thanks to Steam’s syncing saves, you can continue right where you stopped on CrossOver when the game is finally out for macOS.
 
  In case you didn’t know, Larian isn’t sure when exactly the game will be ready for macOS, even though it has stated September. So, it just might take longer than you expect. CrossOver might come in handy in the meantime.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,4 +91,20 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/hannel-identity-reimagined-best-name-generators-listed-for-2024/"><u>[New] Channel Identity Reimagined Best Name Generators Listed for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unmasking-falsified-follower-fabrications-on-feeds/"><u>[Updated] 2024 Approved Unmasking Falsified Follower Fabrications on Feeds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-full-review-exploring-hero4-black-functions/"><u>[Updated] In 2024, Full Review Exploring Hero4 Black Functions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-pinnacle-selector-your-personal-video-vault/"><u>[Updated] The Pinnacle Selector Your Personal Video Vault</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-update-and-download-of-canon-mp560-printing-software/"><u>Effortless Update & Download of Canon MP560 Printing Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-ps5-gadgets-that-transform-games/"><u>Exclusive PS5 Gadgets That Transform Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-nvidias-artificial-intelligence-in-dlss-35-development/"><u>Exploring Nvidia's Artificial Intelligence in DLSS 3.5 Development</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-oppo-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Oppo PIN</u></a></li>
+<li><a href="https://games-able.techidaily.com/immerse-in-conflict-11-best-ww2-commanders-cuts/"><u>Immerse in Conflict: 11 Best WW2 Commanders' Cuts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/meizu-21-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Meizu 21 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ideal-combo-3-streaming-apps-for-nintendo-switch/"><u>The Ideal Combo: 3 Streaming Apps for Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-razers-ultimate-pc-setup-low-latency-and-high-performance/"><u>Unveiling Razer's Ultimate PC Setup - Low Latency & High Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-microsoft-should-refine-its-xbox-rewards-system/"><u>Why Microsoft Should Refine Its Xbox Rewards System</u></a></li>
+</ul></div>
 

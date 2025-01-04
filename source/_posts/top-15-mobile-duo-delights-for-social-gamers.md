@@ -1,7 +1,7 @@
 ---
 title: Top 15 Mobile Duo Delights for Social Gamers
-date: 2024-08-22T22:30:36.882Z
-updated: 2024-08-23T22:30:36.882Z
+date: 2024-12-31T17:51:40.911Z
+updated: 2025-01-04T07:46:18.232Z
 tags:
   - games
 categories:
@@ -56,9 +56,6 @@ Close
 
 ![rocket league sideswipe 2v2 match](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/rocket-league-sideswipe-2v2-match.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Rocket League Sideswipe is a mobile take on the popular Rocket League game. In the mobile title, you can play with friends or strangers online.
 
  If you want to play with friends, you will have to invite them to a party using the in-app Epic Games integration. This will allow you to play in 2v2 matches with others online.
@@ -73,19 +70,28 @@ Close
 
 ![co op two player mode in badland](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/co-op-two-player-mode-in-badland.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're looking for something a little different, Badland is a unique title with a great art style that the critics have praised. The aim of the game is to guide your blob through obstacles until you reach the end of the stage.
 
  The game has both cooperative and competitive multiplayer modes. You play on the same device, which is the best way to coordinate your characters in real-time.
 
 **Download:** Badland for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.frogmind.badland&hl=en) (Free) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/us/app/badland/id535176909?mt=8) ($0.99)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Ultimate Bowmasters
 
 ![shark character in ultimate bowmasters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shark-character-in-ultimate-bowmasters.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Ultimate Bowmasters combines ragdoll physics, a charming art style, and cartoon violence to create a game that is fiendishly fun. The aim is to eliminate your opponent by lobbing a weapon towards them.
 
  Calculating the trajectory of your weapon is half the fun. Meanwhile, the other half is landing the target and watching your friend's dismay.
@@ -100,14 +106,12 @@ Close
 
 ![words with friends 2 game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/words-with-friends-2-game.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![friends menu in words with friends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/friends-menu-in-words-with-friends.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  After the success that was the Scrabble-inspired game Words With Friends, Zynga launched Words With Friends 2—an updated version. Two-player Android games that emulate classic board games are notoriously popular and this one is no different.
@@ -118,9 +122,6 @@ Close
 
 **Download:** Words With Friends 2 for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.zynga.words3) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/us/app/words-with-friends-2-word-game/id1196764367?mt=8) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Clash Royale
 
 ![clash royale two player mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clash-royale-two-player-mobile-game.jpg)
@@ -128,10 +129,9 @@ Close
 ![winner of a two player match in clash royale](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/winner-of-a-two-player-match-in-clash-royale.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Clash Royale comes from the developers of Clash of Clans and is a mixture of a battle card and tower defense game. Opponents draw attackers and defenders from their deck of cards, with the aim of destroying the competitor's towers before your own are destroyed.
@@ -145,12 +145,16 @@ Close
 ![golf battle playing with a friend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/golf-battle-playing-with-a-friend.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![option to challenge a friend on golf battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/option-to-challenge-a-friend-on-golf-battle.jpg)
 
 ![custom match on golf battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/custom-match-on-golf-battle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -166,9 +170,6 @@ Close
 
 ![genshin impact in-game screenshot with characters on android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/genshin-impact-in-game-screenshot-with-characters-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  If you're looking for something more immersive, there's Genshin Impact. Through its co-op mode, the title acts as a[cross-platform mobile game you can play with friends](https://www.makeuseof.com/tag/10-awesome-cross-platform-mobile-multiplayer-games/) .
 
  You will need to sign up for or log into your Hoyoverse account to get started. Even after downloading the app, there is more data you will need to load before getting into the game. We recommend that you do this over Wi-Fi.
@@ -181,14 +182,8 @@ Close
 
 ![dots and boxes mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/dots-and-boxes-game-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dots and boxes options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/dots-and-boxes-game-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dots and boxes with two players](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/dots-and-boxes-game-3.jpg)
 
 Close
@@ -200,8 +195,9 @@ Close
 **Download:** Dots and Boxes for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.outofthebit.dots) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/us/app/dots-and-boxes-classic-games/id625311640?mt=8) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Tank Stars
 
 ![tank stars two player mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/tank-stars-two-player-game.jpg)
@@ -214,16 +210,14 @@ Close
 
 **Download:** Tank Stars for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.playgendary.tanks) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/us/app/tank-stars/id1347123739?mt=8) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 11\. Crossy Road
 
 ![crossy road two player mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/crossy-road-two-player-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![winner of crossy road two player match](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/winner-of-crossy-road-two-player-match.jpg)
 
 Close
@@ -240,9 +234,6 @@ You can simultaneously compete with and sabotage your opponent.
 
 ![terraria mobile tutorial](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/terraria-mobile-tutorial.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While most of these games are designed for short bouts of gameplay, Terraria is a multiplayer mobile game that you can spend hours playing. It is a mobile port of the popular PC game and allows you to play with friends using local Wi-Fi or by connecting to a dedicated server.
 
  It's an inexpensive way for two players to enjoy a mobile game together. However, using the mobile version of the game can be difficult for those used to the simpler controls of a PC or console. We would definitely recommend[connecting a controller to your Android phone](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) or iPhone.
@@ -254,8 +245,9 @@ You can simultaneously compete with and sabotage your opponent.
 ![warcraft rumble map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/warcraft-rumble-map.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![warcraft rumble two player pvp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/warcraft-rumble-two-player-pvp.jpg)
 
 Close
@@ -272,14 +264,8 @@ Close
 
 ![archery battle aiming for target](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/archery-battle-aiming-for-target.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![two player match in archery battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-player-match-in-archery-battle.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 Close
 
  Archery Battle is a sports game that pits you against another opponent as you each try to prove your archery skills. The aim is simple: try to get as close as possible to the center of the archery target.
@@ -302,14 +288,11 @@ Close
 
  Hopefully one of these games has piqued your interest. Each of them allows you to play two-player games on a smartphone, either through online connectivity or by using co-op modes on the same device.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -318,4 +301,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-seamless-tiktok-video-downloads-clear-skies-ahead/"><u>[New] Seamless TikTok Video Downloads - Clear Skies Ahead</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-key-to-youtube-success-understanding-your-cpm/"><u>[New] The Key to YouTube Success Understanding Your CPM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-overload-simplifying-extra-services-in-windows/"><u>Control Overload: Simplifying Extra Services in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-ai-the-ultimate-guide-for-teachers-8-reasons/"><u>Embracing AI: The Ultimate Guide for Teachers (8 Reasons)</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/expert-guide-to-enhancing-your-dj-setup-custom-graphics-for-lyric-screens-in-karaoke-performances-how-to-video/"><u>Expert Guide to Enhancing Your DJ Setup: Custom Graphics for Lyric Screens in Karaoke Performances (How-To Video)</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oneplus-open-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Open in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-x-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone X Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/sculpting-simple-yet-stunning-3d-game-assets/"><u>Sculpting Simple Yet Stunning 3D Game Assets</u></a></li>
+<li><a href="https://games-able.techidaily.com/seven-fun-fact-challenge-spells-for-text-bonding/"><u>Seven Fun Fact Challenge Spells for Text Bonding</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-addressing-failure-of-display-driver-startup-in-windows-11/"><u>Strategies for Addressing Failure of Display Driver Startup in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/uninstall-new-xbox-controller-settings/"><u>Uninstall New Xbox Controller Settings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+</ul></div>
 

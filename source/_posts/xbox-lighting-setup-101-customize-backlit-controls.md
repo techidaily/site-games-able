@@ -1,7 +1,7 @@
 ---
 title: "Xbox Lighting Setup 101: Customize Backlit Controls"
-date: 2024-12-25T02:43:16.279Z
-updated: 2024-12-26T03:17:27.626Z
+date: 2025-01-01T16:00:35.413Z
+updated: 2025-01-04T16:00:08.188Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Adjust the Brightness of Your Xbox Controller Light
 
  The Xbox controller light is a useful indicator of when your controller is on. This light is set to full brightness by default. However, if, due to some reason, you wish to dim or turn off the light of your controller, Xbox provides a built-in option for you to do so.
@@ -34,32 +38,36 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![Xbox home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-home-screen-2.jpeg)
 3. Now, go to**General > TV & display options > Night mode** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![General settings on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tv-and-display-options-xbox-setting-1.jpeg)
 4. Under**Preferences** , you’d see the option for**Controller brightness** . Select this and press**A** to access the settings for controller brightness.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Xbox night mode settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-controller-brightness-setting-1.jpeg)
 5. Check the box next to**Customize brightness** to highlight the slider for brightness adjustment. Select the**Default brightness** option and slide the on-screen slider using the D-pad or the left thumbstick to increase or decrease brightness. You can either slide the slider all the way to the left to turn the light off or adjust brightness across seven different brightness levels according to your preference.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Xbox customize controller brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-customize-controller-brightness-setting-1.jpeg)
 6. Once you are satisfied with the brightness level, press**B** on your controller or press the**Xbox button** and select**Home** to exit the settings menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can also access the**Controller brightness** settings by going to **Settings > Accessibility > Night mode > Controller brightness** .
 
 ![Xbox accessibility night mode setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessibility-night-mode-setting.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, every time you turn on your Xbox controller, the light will automatically be adjusted to the set brightness. However, if you see a blinking light or no light on your controller, it's possible that your[Xbox controller is not working properly](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) , and you might need to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Adjust the Brightness of Your Xbox Console Light
 
@@ -70,16 +78,8 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![Xbox power button brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-power-button-brightness-setting-1.jpeg)
 3. Select and check the checkbox next to**Customize brightness** . Doing so highlights the slider for adjusting the console light’s brightness. Unlike the controller light, which has seven different brightness levels, there are only three brightness options for the console’s light. You can either completely turn it off, keep it at a 50% brightness level or increase the brightness to a full 100%.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Xbox customize power button brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-customize-power-button-brightness-setting-2.jpeg)
 4. Slide the slider left and right using the left thumbstick and leave it on the brightness level that you prefer. Exit the settings menu once you’ve adjusted the brightness according to your liking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With this, you've successfully adjusted your Xbox controller and console light's brightness.
 
@@ -104,19 +104,21 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-expertly-edited-photos-and-films-best-gopro-editing-apps-for-2024/"><u>[New] Expertly Edited Photos and Films Best GoPro Editing Apps for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-best-on-the-market-apps-for-dji-video-edits/"><u>[Updated] Best on the Market Apps for DJi Video Edits</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-demystifying-the-world-of-youtube-and-its-keywords/"><u>[Updated] In 2024, Demystifying the World of YouTube and Its Keywords</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-samsungs-photo-manipulation-software-a-review/"><u>[Updated] In 2024, Samsung's Photo Manipulation Software A Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-the-economics-behind-ea-play/"><u>Demystifying the Economics Behind EA Play</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-fixes-for-stability-problems-in-the-world-of-tribes-of-midgard/"><u>Effective Fixes for Stability Problems in the World of 'Tribes of Midgard'</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-spending-on-mid-range-gaming-mothers/"><u>Essential Spending on Mid-Range Gaming Mothers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-infinix-hot-40-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Infinix Hot 40</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-peak-controller-excellence-the-nintendo-switch-guide-to-2024/"><u>Navigating Peak Controller Excellence – The Nintendo Switch Guide to 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-more-flash-discover-innovative-solutions-to-reload-games/"><u>No More Flash? Discover Innovative Solutions to Reload Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/resume-efficiency-and-its-role-in-enhancing-xbox-sx-play/"><u>Résumé Efficiency & Its Role in Enhancing Xbox S/X Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/silent-threat-unstable-gpu-performance/"><u>Silent Threat: Unstable GPU Performance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-your-iphone-footage-creating-and-editing-lengthened-visual-narratives-for-2024/"><u>Transform Your iPhone Footage Creating & Editing Lengthened Visual Narratives for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-direct-video-tweeting-on-phones-avoid-retweets-for-2024/"><u>[New] Direct Video Tweeting on Phones - Avoid Retweets for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-avoiding-illegal-content-youtube-to-mp4-transfer-safely/"><u>[New] In 2024, Avoiding Illegal Content YouTube to MP4 Transfer Safely</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-ensuring-transparency-in-video-creator-incomes/"><u>[Updated] Ensuring Transparency in Video Creator Incomes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-free-luts-a-pathway-to-improved-obs-streaming/"><u>[Updated] Leveraging Free LUTs A Pathway to Improved OBS Streaming</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-trailblazers-in-the-world-of-virtual-reality-for-2024/"><u>[Updated] Trailblazers in the World of Virtual Reality for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-enhance-your-page-posts-amidst-facebooks-shift/"><u>2024 Approved How to Enhance Your Page Posts Amidst Facebook's Shift</u></a></li>
+<li><a href="https://games-able.techidaily.com/electronic-entertainment-unveiling-9-attractive-and-detrited-features/"><u>Electronic Entertainment: Unveiling 9 Attractive & Detrited Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-row-fun-without-football-baseball-or-basketball-for-2024/"><u>First Row Fun Without Football, Baseball, or Basketball for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-share-reimagined-valves-fresh-take-on-sharing/"><u>Game Share Reimagined: Valve’s Fresh Take on Sharing</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-button-mapping-to-play-virtually-any-android-game-with-a-controller/"><u>How to Use Button Mapping to Play Virtually Any Android Game With a Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-stealth-minimize-your-digital-footprints/"><u>Mastering Stealth: Minimize Your Digital Footprints</u></a></li>
+<li><a href="https://games-able.techidaily.com/modify-systems-default-language-on-steam/"><u>Modify System's Default Language on Steam</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/resetting-your-stream-reverse-your-video-order-now-for-2024/"><u>Resetting Your Stream Reverse Your Video Order Now for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ssd-performance-reviewed-for-ps5/"><u>Superior SSD Performance Reviewed for PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deals-on-affordable-motherboards-for-games/"><u>Unbeatable Deals on Affordable Motherboards for Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 </ul></div>
 

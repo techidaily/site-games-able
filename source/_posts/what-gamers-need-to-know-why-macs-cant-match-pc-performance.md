@@ -1,7 +1,7 @@
 ---
 title: "What Gamers Need to Know: Why Macs Can't Match PC Performance"
-date: 2024-08-27T17:04:55.331Z
-updated: 2024-08-28T17:04:55.331Z
+date: 2025-01-01T01:56:19.754Z
+updated: 2025-01-04T11:14:01.559Z
 tags:
   - games
 categories:
@@ -38,15 +38,16 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 
 ![Apple's M1-powered MacBook Pro laptop on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/Apple_M1_Shutterstock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Girts Ragelis/[Shutterstock](https://www.shutterstock.com/image-photo/riga-latvia-november-18-2020-apple-1856280259)
 
  But that also means you cannot upgrade an Apple-silicon-powered computer. Gaming machines are usually known for their upgradability, so even if you started with a $500 gaming PC, you could eventually upgrade it to a $5,000 beast if you wanted to.
 
  Even gaming laptops, which do not have upgradable CPUs and GPUs, often give you upgradeable RAM and SSDs. But if you have a MacBook Pro with a 512GB SSD and 16GB Unified Memory, you're stuck with that unless you buy a new laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 3\. Entry-Level MacBook Airs Don't Have Active Cooling
 
  The M1 MacBook Air is the most affordable Apple laptop, so it will likely be one of the options for gamers on a budget. However, the computer doesn't offer active cooling—it relies on its aluminum shell to passively cool its SoC.
@@ -59,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 
  This heat means the computer is likely either[CPU thermal throttling](https://www.makeuseof.com/what-is-cpu-thermal-throttling/) or[GPU thermal throttling](https://www.makeuseof.com/what-is-gpu-thermal-throttling-in-gaming/) (or both), so I was getting less performance than expected. But when I play on my Acer Predator gaming laptop, I can push it for several hours and not notice any performance drop.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Some Required Gaming Apps Aren't Available on macOS
 
  Many games rely on other apps to run properly. For example, many games rely on DirectX 12 for their visuals. However, Apple does not support DirectX. Instead, it has its own Metal API. So, to run games that do not support Metal API, you need to run a compatibility layer app like CrossOver.
@@ -70,14 +68,12 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 
 ![The homepage of Easy Anti Cheat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/easy-anti-cheat-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And even if some developers port a game to macOS to run natively, some eSports titles require third-party services, like anti-cheat, to run properly. And since most anti-cheat apps aren't compatible with macOS, you cannot run those games at all.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. You Only Get a Limited Number of AAA Titles on macOS
 
  Although Macs are now getting some AAA titles, they're still not as many as we'd like. For example, several titles, like Call of Duty: Modern Warfare II and Company of Heroes 3, aren't available on Mac.
@@ -86,13 +82,18 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 
  And while you can technically enjoy these games using these apps, you still won't get the best experience as these titles aren't designed to run on a Mac. Nevertheless, you can[check if your Mac can run a game](https://www.makeuseof.com/how-to-check-if-your-mac-can-run-a-game/) if you see a title you like but don't have a gaming PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Mac Game Ports Usually Have Lower Quality
 
 ![15-inch MacBook Air displaying Stray video game on-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/15-inch-macbook-air-displaying-stray-video-game-on-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit:[Apple](https://www.apple.com/newsroom/2023/06/apple-introduces-the-15-inch-macbook-air/)
 
  Since most games aren't designed for the Mac, a developer needs to port a title to macOS to make it available to Apple users. You can check out our[deeper explanation of what a game port, remake, remaster, and reboot is](https://www.makeuseof.com/video-game-ports-remakes-remasters-reboots/) . But the gist is that the game developer simply makes a game released on another platform (like the PlayStation 5) natively compatible with another (like the PC).
@@ -100,22 +101,20 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
  Unfortunately, it is a well-documented fact that[many AAA PC ports are bad](https://www.makeuseof.com/why-aaa-pc-ports-bad/) . Games adapted to the PC from console platforms usually have bugs, visual artifacts, and even performance issues. So, if these issues appear on PC ports, which developers have been doing for many years, it's easy to say that macOS ports of AAA titles might suffer from the same problems.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Needs to Do More to Entice Gamers
 
  The power and efficiency of Apple-silicon-powered Macs allowed many users to enjoy a powerful computer at a relatively affordable price point. However, it's still expensive compared to entry-level gaming rigs and suffers from gaming-related hardware and software issues.
 
  Unless there's a major shift in how gamers think, Apple needs to do much more than just release better hardware. Instead, it requires the perfect blend of gamer demand, developer support, hardware advancement, and more to shake up the gaming industry—much like how the Apple App Store made the smartphone we know today.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +123,16 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-facebook-lives-demystified-the-best-ways-to-record-a-stream-for-2024/"><u>[New] Facebook Lives Demystified The Best Ways to Record a Stream for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/10-ultimate-high-res-4k-mirrorless-cams/"><u>10 Ultimate High-Res 4K Mirrorless Cams</u></a></li>
+<li><a href="https://games-able.techidaily.com/2-the-new-champion-why-pc-gamers-prefer-windows-11-over/"><u>2. The New Champion: Why PC Gamers Prefer Windows 11 Over</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginning-gaming-adventures-on-linux-with-steam-your-ultimate-guide/"><u>Beginning Gaming Adventures on Linux with Steam - Your Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-the-ultimate-gaming-rig-without-breaking-the-bank-the-hp-victus-15l-pc-slashed-to-a-steal-at-480-for-the-holiday-weekend-says-zdnet/"><u>Get the Ultimate Gaming Rig Without Breaking the Bank: The HP Victus 15L PC Slashed to a Steal at $480 for the Holiday Weekend, Says ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-sony-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Sony to Protect Your Individual Information</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-cutting-edge-electronic-presents-featured-on-zdnet/"><u>Top 10 Cutting-Edge Electronic Presents - Featured on ZDNet</u></a></li>
+</ul></div>
 

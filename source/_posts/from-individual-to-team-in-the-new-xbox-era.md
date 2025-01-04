@@ -1,7 +1,7 @@
 ---
 title: From Individual to Team in the New Xbox Era
-date: 2024-08-22T22:31:09.648Z
-updated: 2024-08-23T22:31:09.648Z
+date: 2024-12-28T10:31:28.907Z
+updated: 2025-01-04T08:48:27.558Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
  Everyone has their own interests and hobbies. It’s part of what makes people unique. But when your hobby is gaming, and the people you know in real-life don’t share the same interests as you, it can be difficult to find enough people to fill up your lobby. Especially if you prefer to play with people you know.
 
  Flitting through random online lobbies can be fruitful, but finding a group of like-minded individuals by chance can be rare. If you want a place to find new friends on your Xbox Series X|S or you want a place to hang out with the friends you already have, you can make a Club.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is a Club on the Xbox Series X|S?
 
@@ -34,11 +38,21 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 2. Scroll to the right until you reach the**People** tab.  
 ![People Tab of Xbox Home Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/people-tab-of-xbox-home-menu.jpg)
 3. Select**Friends & Community Updates** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Clubs on Xbox** and press**Create a Club** .  
 ![Clubs on Xbox Button in Community Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clubs-on-xbox-button-in-community-menu.jpg)
 5. Select whether you want to make a**Public** ,**Private** , or**Hidden** group. Public means anyone can find, play, and see your club's content, but only members can chat. Private means anyone can see your club, but only members can engage with it, and hidden means that only members can see or engage with the club.  
 ![Club Types on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-types-on-xbox.jpg)
 6. Now comes the hardest part—thinking of a name for your club. If you’re creating the club to find players to play a certain game, giving it a name that resonates with that game is a good start.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select**Create club** once you’ve made your choices.
 8. From there, you can customize your club by giving it a background and profile image, choosing a color scheme, and making tags to help others find and join your exclusive club.  
 ![Club Customization Screen Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-customization-screen-xbox.jpg)
@@ -49,9 +63,9 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
  Provided it’s not hidden, of course. If it is, you will have to press**Invite someone** on the Club home page and send your invites out to your lucky recipients manually.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Delete a Club on the Xbox Series X|S
 
  If you would like to delete your Club for any reason, it is easier than creating it in the first place. Press the**Xbox button** on your controller to open up the menu, and follow the instructions below to disband your club for good:
@@ -63,29 +77,24 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 5. Head to the**Club settings** .  
 ![Delete Club Screen Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-club-screen-xbox.jpg)
 6. Make your way to the**Ownership** section, and press**Delete club** .
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Your Club will now be deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Share Your Love of Gaming With Others
 
  Clubs are a brilliant way to expand your gaming circle. Some games like Among Us, for example, are much more fun when playing with a lobby full of friends.
 
  If your real-life friends don’t share your love for gaming, or they don’t play often anymore, you don’t have to put the controller down and retire your Xbox for good. Simply create a Club and make a group of new friends to play with.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,4 +103,23 @@ Your Club will now be deleted.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-alternatives-to-vlc-revealed-in-detailed-review/"><u>[Updated] Alternatives to VLC Revealed in Detailed Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-innovative-ways-to-implement-b-roll-in-productions/"><u>[Updated] Innovative Ways to Implement B Roll in Productions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-zte-blade-a73-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to ZTE Blade A73 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoid-last-epoch-crashes-on-your-desktop-proven-methods-and-tips-for-a-smooth-run-in-202n/"><u>Avoid Last Epoch Crashes on Your Desktop: Proven Methods & Tips for a Smooth Run in 202N</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deep-dive-into-the-latest-ai-innovations-presented-at-apples-wwdc-event/"><u>Deep Dive Into the Latest AI Innovations Presented at Apple's WWDC Event</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-zero-to-hero-setting-up-discord-on-apple-computers/"><u>From Zero to Hero: Setting Up Discord on Apple Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-with-gesture-pen-advantages-over-mice/"><u>Gaming with Gesture: Pen Advantages Over Mice</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-iphone-photography-mastery-of-macro-and-close-up-details/"><u>In 2024, Perfecting iPhone Photography Mastery of Macro and Close-Up Details</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-symphonic-switch-up-reimagining-your-musical-lists/"><u>In 2024, Symphonic Switch-Up Reimagining Your Musical Lists</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-ergonomics-meet-gaming/"><u>Office Ergonomics Meet Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-spending-top-gaming-motherboards-under-200/"><u>Optimal Spending: Top Gaming Motherboards Under $200</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-your-listening-skills-with-a-focus-on-hrtf-in-valorant/"><u>Optimizing Your Listening Skills with a Focus on HRTF in Valorant</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-recordings-best-free-windows-programs/"><u>Perfect Your Recordings: Best FREE Windows Programs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-simple-steps-to-erase-and-restore-your-ps4/"><u>The Simple Steps to Erase & Restore Your PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/voltage-to-values-envisioning-a-future/"><u>Voltage to Values: Envisioning a Future</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Error During Oculus Setup
-date: 2024-08-27T17:04:54.172Z
-updated: 2024-08-28T17:04:54.172Z
+date: 2024-12-29T00:19:26.590Z
+updated: 2025-01-03T23:00:17.570Z
 tags:
   - games
 categories:
@@ -22,15 +22,16 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the Oculus Installer File With Administrative Rights
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
 
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the**OculusSetup.exe** file and selecting**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
@@ -43,28 +44,22 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Turn Off the Windows Firewall
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this[how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Install .NET Framework 4.6.1
 
  It has also been confirmed by Oculus users that installing .NET Framework 4.6.1 can fix the “we encountered an error” installation issue. This is how you can install .NET Framework 4.6.1:
@@ -73,17 +68,15 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 2. Click the**Download** option for .NET Framework 4.6.1.  
 ![The Download button for .NET Framework 4.6.1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/download-button-1.jpg)
 3. Bring up the directory containing the downloaded .NET Framework setup file.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Double-click the**NDP461-KB3102438-Web.exe** file to bring up the setup window.
 5. Select to install .NET Framework 4.6.1 if you need to.
 
  The setup wizard will say if .NET Framework 4.6.1 or later is installed on your PC. If you don’t need to install that framework, try applying the resolution below or others specified here.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Remove Leftovers From a Previous Oculus App Installation
 
  If you’re trying to reinstall the Oculus app after uninstalling it, removing leftover debris from the previous installation might resolve this issue. This means manually deleting Oculus folders left behind from the previous installation. You can erase leftover Oculus folders as follows:
@@ -93,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 3. Right-click any Oculus subfolder in the**Roaming** directory and select**Delete** .  
 ![An Oculus folder and the Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/oculus-folder.jpg)
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `C:\Users\<User Folder>\AppData\LocalLow  
 C:\Users\<User Folder>\AppData\Local  
@@ -104,14 +101,11 @@ C:\Users\<User Folder>\AppData`
 
  Many users have resolved the “we encountered an error” Oculus app installation issue by applying those potential solutions. So, there’s a good chance one will fix the Oculus app not installing on your Windows PC. Then you get back to playing all your favorite Rift PC VR games again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +114,22 @@ C:\Users\<User Folder>\AppData`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-seamless-audio-transfer-youtube-videos-)-mp3-macos-2023/"><u>[New] 2024 Approved Seamless Audio Transfer YouTube Videos > MP3, MacOS 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-inside-the-metaverse-comprehending-6-intricate-instances/"><u>[New] Inside the Metaverse Comprehending 6 Intricate Instances</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-clear-cuts-for-chilling-youtube-content-no-more-silent-lapses-for-2024/"><u>[Updated] Clear Cuts for Chilling YouTube Content – No More Silent Lapses for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-sweet-slumber-scenes-video-critique/"><u>[Updated] In 2024, Sweet Slumber Scenes Video Critique</u></a></li>
+<li><a href="https://games-able.techidaily.com/200-discount-on-a-gaming-console-in-plain-sight-as-a-samsung-projector-for-labor-day-zdnet-unveils/"><u>$200 Discount on a Gaming Console in Plain Sight as a Samsung Projector for Labor Day | ZDNET Unveils!</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-all-other-linux-game-distros-with-top-ranking-regatta-os-nce-the-ultimate-guide-by-zdnet/"><u>Beat All Other Linux Game Distros with Top-Ranking Regatta OS Nce – The Ultimate Guide by ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-nokia-c300-lock-screen-password-by-drfone-android/"><u>How to Reset your Nokia C300 Lock Screen Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-12-pro-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 12 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/incorporating-personal-flair-fonts-for-ae-projects-for-2024/"><u>Incorporating Personal Flair Fonts for AE Projects for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/samsung-unveils-new-gaming-controller-range-meet-their-debut-model-exclusive-coverage-by-zdnet/"><u>Samsung Unveils New Gaming Controller Range: Meet Their Debut Model - Exclusive Coverage by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-during-labor-day-sales-exclusive-offer-premium-samsung-tv-at-a-whopping-43-off-insider-tips-from-zdnet/"><u>Save Big During Labor Day Sales! Exclusive Offer: Premium Samsung TV at a Whopping 43% Off – Insider Tips From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/story-1-believing-that-the-technology-only-complicates-data-analysis-wrong-answer/"><u>Story 1: Believing that the Technology only Complicates Data Analysis (Wrong Answer)</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-elite-gaming-mechanical-keyboards-recommendations-by-zdnet/"><u>Top 5 Elite Gaming Mechanical Keyboards : Recommendations by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-power-of-play-enjoy-three-months-free-with-xbox-game-pass-ultimate-for-just-36-your-step-by-step-guide-on-zdnet/"><u>Unlock the Power of Play: Enjoy Three Months Free with Xbox Game Pass Ultimate for Just $36 – Your Step-by-Step Guide on ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/your-blueprint-for-broadcasting-live-on-facebook-for-2024/"><u>Your Blueprint for Broadcasting Live on Facebook for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Steam Deck Game Unlock: Launcher Integration Tips"
-date: 2024-12-23T20:36:05.386Z
-updated: 2024-12-25T16:41:12.910Z
+date: 2024-12-29T16:00:01.325Z
+updated: 2025-01-04T16:00:34.187Z
 tags:
   - games
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
 ![screenshot of Lutris in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_lutris_in_discover_store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Because the Steam Deck natively runs on a Linux operating system, the availability of different game launchers can get a bit muddy.
 
  Linux has had a solution for running just about any Windows program you can imagine before the Steam Deck even released. Lutris is an open gaming platform that can be engineered to run just about any Windows app.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
  You could follow[Lutris guides for getting different game launchers to run](https://www.makeuseof.com/how-to-play-pc-games-on-linux-with-lutris/) , but many users find Lutris to be a fickle or complicated program to deal with.
 
 Instead, we have solutions designed specifically for the Steam Deck.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games
 
@@ -55,15 +47,15 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of the heroic games launcher login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_login_page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the installation is finished, you can find the program in the All Applications menu, just like the Discover store.
 
  Once in the program, you'll want to log in before anything else. The**Log In** option is available on the left-hand side of the window. You'll have four options. Two login methods for the Epic Games Launcher, as well as options for GOG and Amazon Games.
 
 ![screenshot of the epic library in heroic game launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_epic_library_in_heroic_launcher-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
 
@@ -73,19 +65,19 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of the heroic games launcher settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_settings_page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NonSteamLaunchers for Battle.net, EA App, and More
 
 ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
 
@@ -99,9 +91,17 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of ubisoft connect in steam list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_ubisoft_connect_in_steam_list.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the installation script has finished, you'll find a new shortcut added to your Steam games list. All you have to do is launch this shortcut to gain access to your chosen launcher.
 
  Just note that these installations require the user to select a specific Proton compatibility layer through Steam, unlike Heroic Games Launcher which manages this for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play Non-Steam Games on the Steam Deck
 
@@ -122,20 +122,18 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-advanced-subtitle-editing-unlocking-potential-with-macos/"><u>[New] Advanced Subtitle Editing Unlocking Potential with MacOS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-microsofts-hololens-demo-the-next-leap-in-tech-experience/"><u>[New] In 2024, Microsoft’s HoloLens Demo The Next Leap in Tech Experience</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-transforming-your-vision-into-stunning-hdr-portraits/"><u>[New] In 2024, Transforming Your Vision Into Stunning HDR Portraits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-portrait-perfection-professional-photography-techniques/"><u>2024 Approved HDR Portrait Perfection Professional Photography Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-color-theory-and-practical-application-techniques/"><u>2024 Approved The Ultimate Guide to Color Theory and Practical Application Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tier-steadicam-options-for-drone-video-production/"><u>2024 Approved Top-Tier Steadicam Options for Drone Video Production</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-through-the-hype-to-real-skills-for-twitch-live/"><u>Cutting Through the Hype to Real Skills for Twitch Live</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-steam-value-collection-and-utilization/"><u>Exploring Steam Value: Collection & Utilization</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-insider-guide-elevating-your-instagram-imagery/"><u>In 2024, The Insider Guide Elevating Your Instagram Imagery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-guide-to-screenshot-and-record-mastery-on-mi-11/"><u>In 2024, The Ultimate Guide to Screenshot & Record Mastery on Mi 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-edge-40-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Edge 40 Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/method-for-permanently-eliminating-ps5-profile/"><u>Method for Permanently Eliminating PS5 Profile</u></a></li>
-<li><a href="https://games-able.techidaily.com/recommended-gpu-internal-temp-for-gamers/"><u>Recommended GPU Internal Temp for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-untapped-potential-in-ignoring-video-games-ray-tracing/"><u>The Untapped Potential in Ignoring Video Game's Ray Tracing</u></a></li>
-<li><a href="https://games-able.techidaily.com/trendsetting-led-lights/"><u>Trendsetting LED Lights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-shadow-scribes-compendium-best-kept-voice-apps-iosandroid-for-2024/"><u>[New] Shadow Scribes' Compendium Best-Kept Voice Apps (iOS/Android) for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-optimizing-video-clarity-with-youtube-tools-for-2024/"><u>[Updated] Optimizing Video Clarity with YouTube Tools for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-se-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone SE How to Bypass?</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-on-steam-these-9-reasons-make-a-difference/"><u>Elevate Your Gameplay on Steam: These 9 Reasons Make a Difference</u></a></li>
+<li><a href="https://games-able.techidaily.com/energy-efficiency-for-gaming-consoles/"><u>Energy Efficiency for Gaming Consoles</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-the-withings-move-combining-classic-style-with-smart-features/"><u>Evaluating the Withings Move: Combining Classic Style with Smart Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/igniting-windows-11s-secret-bar-queries/"><u>Igniting Windows 11'S Secret Bar Queries</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-itel-s23-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Itel S23 Black and White | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/resume-speed-on-xbox-sx-necessary-or-not/"><u>Résumé Speed on Xbox S/X - Necessary or Not?</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-troubleshooting-rectifying-the-top-4-gpu-issues/"><u>Simplified Troubleshooting: Rectifying the Top 4 GPU Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/spectacular-movie-sneak-insights/"><u>Spectacular Movie Sneak Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-finest-virtual-experiences-7-mobile-mmos/"><u>The Finest Virtual Experiences: 7 Mobile MMOs</u></a></li>
+<li><a href="https://win-online.techidaily.com/the-original-question-was-in-french-and-this-title-is-also-provided-in-french/"><u>The Original Question Was in French, and This Title Is Also Provided in French.</u></a></li>
 </ul></div>
 

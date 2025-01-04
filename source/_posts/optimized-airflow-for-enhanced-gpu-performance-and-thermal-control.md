@@ -1,7 +1,7 @@
 ---
 title: Optimized Airflow for Enhanced GPU Performance & Thermal Control
-date: 2024-12-21T19:39:47.836Z
-updated: 2024-12-25T17:56:33.528Z
+date: 2025-01-03T16:01:34.876Z
+updated: 2025-01-04T16:02:06.176Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 * [How to Set a Custom GPU Fan Curve to Boost Gaming Performance](#how-to-set-a-custom-gpu-fan-curve-to-boost-gaming-performance)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -52,7 +52,7 @@ Jhet Borja/MakeUseOf
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -70,22 +70,22 @@ Jhet Borja/MakeUseOf
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
 
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll be using three programs to create and find the best fan curve for your graphics card.
 
  To create a custom fan curve, we'll be using[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and[HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
@@ -102,13 +102,13 @@ Jhet Borja/MakeUseOf
 
 ![Manual fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/manual-fan-speed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At 100% fan speed, it tops out at around 69.5-70 °C. We also found that we could keep the temperature at 70-71 °C while only using 90% fan speed.
 
@@ -119,7 +119,7 @@ Jhet Borja/MakeUseOf
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
@@ -151,19 +151,16 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-maximizing-video-longevity-saving-snaps-on-android-and-mac/"><u>[Updated] In 2024, Maximizing Video Longevity Saving Snaps on Android & Mac</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-stand-out-strong-tailoring-templates-for-video-gaming-logos/"><u>[Updated] In 2024, Stand Out Strong Tailoring Templates for Video Gaming Logos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pushing-boundaries-a-roundup-of-the-best-nft-generators-available/"><u>[Updated] Pushing Boundaries A Roundup of the Best NFT Generators Available</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-crafting-visuals-in-ae-selecting-excellent-plugin-choices/"><u>2024 Approved Crafting Visuals in AE Selecting Excellent Plugin Choices</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-strategies-for-uninstalling-and-redownloading/"><u>Effective Strategies for Uninstalling & Redownloading</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-play-8t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor Play 8T Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/keeping-up-with-your-switch-essential-care-routine/"><u>Keeping Up With Your Switch: Essential Care Routine</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-joint-players-choices-16-best-on-xbox-series/"><u>Premier Joint Players' Choices - 16 Best on Xbox Series</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplify-your-game-collection-emulating-classics-using-steam-deck-and-emudeck/"><u>Simplify Your Game Collection: Emulating Classics Using Steam Deck and EmuDeck</u></a></li>
-<li><a href="https://games-able.techidaily.com/synchronizing-audio-devices-for-ps5/"><u>Synchronizing Audio Devices for PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/tecnos-brilliant-blend-of-slim-and-spectacle-designs/"><u>Tecno's Brilliant Blend of Slim and Spectacle Designs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/testing-the-waters-microsoft-rolls-out-wi-fi-7-integration-with-windows-11/"><u>Testing the Waters: Microsoft Rolls Out Wi-Fi 7 Integration with Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-fine-tune-video-aspect-ratios-for-instagram-bliss/"><u>[New] 2024 Approved Fine-Tune Video Aspect Ratios for Instagram Bliss</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-voice-to-text-review/"><u>[New] 2024 Approved Voice to Text Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-am08-pro-make-acemagic-authentic/"><u>Does AM08 Pro Make AceMagic Authentic?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-easy-anti-cheat-missing-problem-when-starting-eac/"><u>How to Overcome the 'Easy Anti-Cheat Missing' Problem When Starting EAC</u></a></li>
+<li><a href="https://games-able.techidaily.com/modify-interface-language-of-steam-platform/"><u>Modify Interface Language of Steam Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/opt-for-another-preferred-steam-language/"><u>Opt for Another Preferred Steam Language</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/optimale-tools-zum-loschen-von-iphone-daten-auf-einem-pc-entdecken-sie-die-beste-losung-mit-fonetool/"><u>Optimale Tools Zum Löschen Von iPhone Daten Auf Einem PC - Entdecken Sie Die Beste Lösung Mit FoneTool</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/optimize-twitter-vids-the-full-hd-method-for-2024/"><u>Optimize Twitter Vids The Full HD Method for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-emulating-dreamcast-games/"><u>The Ultimate Guide to Emulating Dreamcast Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-phone-gaming-with-perfect-controllers/"><u>Ultimate Phone Gaming with Perfect Controllers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-dvd-and-winx/"><u>WinX DVD 리퍼 & 비디오 컨버터 코스타 - 공식 WinX 소프트웨어 시상회</u></a></li>
 </ul></div>
 

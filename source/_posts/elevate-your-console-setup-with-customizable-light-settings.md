@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Console Setup with Customizable Light Settings
-date: 2024-12-20T00:50:49.555Z
-updated: 2024-12-25T23:55:56.253Z
+date: 2024-12-30T16:00:33.573Z
+updated: 2025-01-04T16:05:08.187Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Adjust the Brightness of Your Xbox Controller Light
 
  The Xbox controller light is a useful indicator of when your controller is on. This light is set to full brightness by default. However, if, due to some reason, you wish to dim or turn off the light of your controller, Xbox provides a built-in option for you to do so.
@@ -38,8 +34,16 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 ![Xbox home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-home-screen-2.jpeg)
 3. Now, go to**General > TV & display options > Night mode** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![General settings on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tv-and-display-options-xbox-setting-1.jpeg)
 4. Under**Preferences** , you’d see the option for**Controller brightness** . Select this and press**A** to access the settings for controller brightness.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Xbox night mode settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-controller-brightness-setting-1.jpeg)
 5. Check the box next to**Customize brightness** to highlight the slider for brightness adjustment. Select the**Default brightness** option and slide the on-screen slider using the D-pad or the left thumbstick to increase or decrease brightness. You can either slide the slider all the way to the left to turn the light off or adjust brightness across seven different brightness levels according to your preference.  
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 6. Once you are satisfied with the brightness level, press**B** on your controller or press the**Xbox button** and select**Home** to exit the settings menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can also access the**Controller brightness** settings by going to **Settings > Accessibility > Night mode > Controller brightness** .
@@ -56,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 ![Xbox accessibility night mode setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessibility-night-mode-setting.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, every time you turn on your Xbox controller, the light will automatically be adjusted to the set brightness. However, if you see a blinking light or no light on your controller, it's possible that your[Xbox controller is not working properly](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) , and you might need to fix it.
@@ -71,15 +75,11 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 3. Select and check the checkbox next to**Customize brightness** . Doing so highlights the slider for adjusting the console light’s brightness. Unlike the controller light, which has seven different brightness levels, there are only three brightness options for the console’s light. You can either completely turn it off, keep it at a 50% brightness level or increase the brightness to a full 100%.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Xbox customize power button brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-customize-power-button-brightness-setting-2.jpeg)
 4. Slide the slider left and right using the left thumbstick and leave it on the brightness level that you prefer. Exit the settings menu once you’ve adjusted the brightness according to your liking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With this, you've successfully adjusted your Xbox controller and console light's brightness.
 
@@ -104,14 +104,20 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-updated-epson-wf-3620-drivers-compatible-with-windows-1187-free-download/"><u>Get the Updated Epson WF-3620 Drivers: Compatible with Windows 11/8/7 – Free Download</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/linking-up-with-fun-think-twice-about-it/"><u>Linking Up With Fun? Think Twice About It</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-value-on-the-field-boosting-frame-rates-and-performance-of-valorant-windows-edition/"><u>Maximize Value on the Field: Boosting Frame Rates and Performance of Valorant Windows Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-gamers-progress-recorders/"><u>Premier Gamers' Progress Recorders</u></a></li>
-<li><a href="https://article-tips.techidaily.com/swift-restoration-of-photos-viewer-performance-in-windows-10/"><u>Swift Restoration of Photos Viewer Performance in Windows 10</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782603-9781594778407-the-taoist-soul-body/"><u>The Taoist Soul Body | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-constitutes-idle-participation-on-discord/"><u>What Constitutes Idle Participation on Discord?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-expert-review-of-advanced-parrot-ar-drone/"><u>[New] 2024 Approved Expert Review of Advanced Parrot AR Drone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-crumpled-to-curated-your-step-by-step-process-of-transforming-faded-print-photographs-into-digital-originals/"><u>[New] From Crumpled to Curated Your Step-by-Step Process of Transforming Faded Print Photographs Into Digital Originals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-social-gaming-galore-the-ultimate-metaverse-list/"><u>2024 Approved Social Gaming Galore The Ultimate Metaverse List</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-gaming-power-asus-rog-vs-tuf-vs-proart-vs-prime/"><u>Comparing Gaming Power: Asus ROG Vs. TUF Vs. ProArt Vs. Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-every-achievement-in-steams-reward-system/"><u>Conquer Every Achievement in Steam's Reward System</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/decoding-fast-forward-features-in-editing-software/"><u>Decoding Fast-Forward Features in Editing Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-best-gaming-experience-google-play-beta-for-pc/"><u>Discover the Best Gaming Experience: Google Play Beta for PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-game-collectives-victory-villages/"><u>Elite Game Collectives: Victory Villages</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-highlights-lenovos-legion-go-innovations/"><u>IFA Highlights: Lenovo's Legion Go Innovations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-ultimate-macos-manual-for-mixer-live-streaming/"><u>In 2024, The Ultimate MacOS Manual for Mixer Live Streaming</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-system-sounds-for-ws11-guide-to-audio-driver-update/"><u>Optimize System Sounds for WS11: Guide to Audio Driver Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-designated-floor-covers-for-workstations/"><u>Premium Designated Floor Covers for Workstations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-shifting-your-profile-picture-on-global-platforms-for-2024/"><u>The Ultimate Guide Shifting Your Profile Picture on Global Platforms for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-quiet-sessions-restoring-roblox-sound-features-for-windows-users-xp-vista/"><u>Troubleshooting Quiet Sessions: Restoring Roblox Sound Features for Windows Users (XP, Vista)</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 11/10</u></a></li>
 </ul></div>
 

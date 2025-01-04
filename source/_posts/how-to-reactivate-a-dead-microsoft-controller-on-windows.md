@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate a Dead Microsoft Controller on Windows
-date: 2024-08-22T22:31:54.907Z
-updated: 2024-08-23T22:31:54.907Z
+date: 2024-12-28T22:28:28.490Z
+updated: 2025-01-03T22:38:53.459Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d8
  If you prefer to game using a controller on your Windows PC, the experience may not always be smooth. At times, your Windows 10 or 11 PC may fail to detect the gaming controller or register its inputs.
 
  Don’t worry, there's no need to purchase a new controller just yet. Here are some fixes that should get your controller working again on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check if Windows Recognizes Your Controller
 
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d8
 
  If it is a wired controller, try connecting it to a different USB port. For a wireless controller, you need to make sure it has enough battery. If it does, try unpairing and pairing it again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 3\. Scan for Hardware Changes
 
  If unplugging and plugging the controller proves ineffective, you can scan your system for hardware changes using Device Manager. To do so, follow these steps:
@@ -47,11 +47,12 @@ thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d8
 2. Right-click anywhere on an empty spot within the Device Manager window and select**Scan for hardware changes** .  
 ![Scan for Hardware Changes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-for-hardware-changes-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Following that, your controller should appear in the Device Manager window and work as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run the Relevant Window Troubleshooters
 
  If your gaming controller is recognized by Windows but refuses to work, you can run the Hardware and Devices troubleshooter. This tool will try to fix any common problems and get your gaming controller to work on Windows.
@@ -65,9 +66,9 @@ To run the Hardware and Devices troubleshooter, use these steps:
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Allow the troubleshooter to find and fix any issues. After that, your controller should work fine on Windows.
 
  If you're experiencing problems with a wireless controller on Windows, you should also run the Bluetooth troubleshooter using the steps below.
@@ -78,8 +79,9 @@ To run the Hardware and Devices troubleshooter, use these steps:
 ![Bluetooth Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bluetooth-troubleshooter-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After running the above troubleshooter, try using your controller again.
 
 ## 5\. Update or Reinstall the Controller's Driver
@@ -96,16 +98,14 @@ To run the Hardware and Devices troubleshooter, use these steps:
 
  If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to[uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/) . Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Update Your Controller’s Firmware
 
 ![Update Controller Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-controller-firmware.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Keeping your controller updated with the latest software can help you avoid any compatibility issues. So, if none of the above tips help, open your controller manufacturer’s app or program and install any available updates.
 
  This step will vary depending on what controller model you own and which company made it. As such, refer to your manufacturer's manual or online help service for more information.
@@ -114,14 +114,11 @@ To run the Hardware and Devices troubleshooter, use these steps:
 
  Unless your controller is faulty or damaged, one of the above tips should get it to work again. That said, if you find that your controller's performance is lacking precision or responsiveness, it might be a good idea to utilize the built-in Windows tool for calibration.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +127,22 @@ To run the Hardware and Devices troubleshooter, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ite-sized-video-knowledge-now/"><u>[New] Bite-Sized Video Knowledge Now</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-path-to-flawless-film-recording-device-agnostic-guide/"><u>[New] In 2024, The Path to Flawless Film Recording Device Agnostic Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-become-a-gif-artist-basic-steps/"><u>[Updated] 2024 Approved Become a GIF Artist Basic Steps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-from-chaos-to-clarity-professional-tools-for-youtube-cuts-for-2024/"><u>[Updated] From Chaos to Clarity Professional Tools for Youtube Cuts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-there-boundaries-to-the-capabilities-of-the-wireless-steelseries-aerox-5-insights-and-review-by-zdnet/"><u>Are There Boundaries to the Capabilities of the Wireless SteelSeries AeroX ^5? Insights & Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hidden-gaming-power-of-this-samsung-projector-save-200-on-labor-day-deal-zdnet/"><u>Discover the Hidden Gaming Power of This Samsung Projector - Save $200 on Labor Day Deal | ZDNET</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-yuva-3-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Yuva 3 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-transforming-photo-genders-on-instagram-snapchat-and-facebook/"><u>In 2024, Transforming Photo Genders on Instagram, Snapchat & Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/review-of-the-steelseries-apex-nei-keyboard-top-picks-for-typists-and-gamers/"><u>Review of the SteelSeries Apex ˈneı Keyboard: Top Picks for Typists & Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-eco-friendly-question-behind-our-skyward-shift-analyzing-cloud-computings-sustainability/"><u>The Eco-Friendly Question Behind Our Skyward Shift: Analyzing Cloud Computing's Sustainability</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-verdict-on-secretlabs-titan-evo-gen-7-a-top-pick-for-gamers/"><u>The Ultimate Verdict on Secretlab's Titan Evo Gen-7 : A Top Pick for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-65-inch-television-models-thoroughly-evaluated-by-professionals-techadvisor/"><u>Top Rated 65-Inch Television Models - Thoroughly Evaluated by Professionals | TechAdvisor</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-art-of-storytelling-creating-compelling-slideshows-in-final-cut-pro/"><u>Updated In 2024, The Art of Storytelling Creating Compelling Slideshows in Final Cut Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/wireless-connection-guide-hooking-up-your-ps4-controllers-with-android-or-ios-devices/"><u>Wireless Connection Guide: Hooking Up Your PS4 Controllers with Android or iOS Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-comprehensive-steelseries-aerox-eblishing-itself-as-the-optimal-choice-for-gamers-seeking-unparalleled-performance-in-mmomoba-titles/"><u>ZDNet's Comprehensive SteelSeries Aerox Eblishing Itself as the Optimal Choice for Gamers Seeking Unparalleled Performance in MMO/MOBA Titles</u></a></li>
+</ul></div>
 

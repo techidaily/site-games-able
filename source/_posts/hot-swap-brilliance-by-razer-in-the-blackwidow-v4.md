@@ -1,7 +1,7 @@
 ---
 title: Hot-Swap Brilliance by Razer in the BlackWidow V4
-date: 2024-08-27T17:05:55.981Z
-updated: 2024-08-28T17:05:55.981Z
+date: 2024-12-28T14:20:06.117Z
+updated: 2025-01-03T17:25:01.777Z
 tags:
   - games
 categories:
@@ -97,6 +97,10 @@ Doubleshot ABS Keycaps
 
  Paul Antill / MakeUseOf
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design and Features
 
  Out of the box, the BlackWidow V4 75% looks like a smaller twin version of their full-sized BlackWidow V4 Pro. But it is what's inside this condensed design that makes it one of the best keyboards released by Razer to date. For $190 you can get its classic black design, or for another $10, it's all white.
@@ -106,23 +110,15 @@ Doubleshot ABS Keycaps
  Paul Antill / MakeUseOf
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Compact, but not Compromising
 
  The keyboard boasts a compact design, ideal for users with limited desk space. But, despite its smaller size, the BlackWidow V4 75% hasn't lost many capabilities, having a complete function row, well-placed arrow keys, and a multi-function roller and media buttons.
 
 ![Razer Blackwidow 75% - Top Down View](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-top-down-view.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Paul Antill / MakeUseOf
 
  The Razer BlackWidow V4 75% keyboard features a media roller located in the upper right corner as well as two dedicated media buttons. That said, I would have liked to see the roller include a press-to-mute function to free up the second media key for different quick access options.
@@ -131,6 +127,10 @@ Doubleshot ABS Keycaps
 
 ![Razer Blackwidow 75% - Media Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-media-keys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
  The included USB-A to USB-C cord is well-constructed. Not being permanently attached, it's great for those who have transitioned to USB-C devices or prefer coiled cables. Interestingly though, the connector rather fat, making it incompatible with Razer's other devices, including some of their mice.
@@ -138,8 +138,9 @@ Doubleshot ABS Keycaps
 ![Razer Blackwidow 75% - Cable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-cable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
  Made of pleather, the magnetic wrist rest is plush, comfortable, and stays cool, even with extended use.
@@ -152,9 +153,6 @@ Doubleshot ABS Keycaps
 
 ![Razer Blackwidow 75% - Left Side Angled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-left-side-angled.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Paul Antill / MakeUseOf
 
 ### Return of the Orange
@@ -163,9 +161,6 @@ Doubleshot ABS Keycaps
 
 ![Razer Blackwidow 75% - Orange Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-orange-switch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Paul Antill / MakeUseOf
 
  Sure, they can be fun to type and game on, but unless you and everyone around you plan on using a good set of headphones, it can get annoying rather quickly. These factory-lubricated switches were a fan favorite for years but were eventually discontinued, to much dismay. The previous switches used monochrome LED, while the new design features Chroma RGB with full-color backlighting support thanks to its transparent casing.
@@ -173,8 +168,9 @@ Doubleshot ABS Keycaps
 ![Razer Blackwidow 75% - Orange and Yellow Switches](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-orange-and-yellow-switches.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
  Compared to Razer's other switch options—Razer Green and Yellow switches—Orange tactile switches are known for their satisfying bump, offering a pleasant typing experience while maintaining a more subdued sound. For many, this made it the best of both worlds, with an excellent feel without an overwhelming clicky sound.
@@ -189,14 +185,15 @@ Doubleshot ABS Keycaps
 
 Razer
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Keycaps
 
  The keycaps themselves are made of doubleshot ABS, which may be a bit disappointing for those who prefer sturdier PBT material. Razer has seemingly taken the disadvantages of ABS keycaps into account, however, improving their design with a textured feel that's intended to resist wear and reduce exposure to oils from the user's hands, which contribute to unwanted shininess and degradation over time.
 
 ![Razer Blackwidow 75% - Removing Key Cap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-removing-key-cap.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
 
@@ -206,9 +203,6 @@ Razer
 
  Paul Antill / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Backplate
 
  Interestingly, that's not to say that all customization is encouraged by Razer. Even though the design allows for users to swap out the BlackWidow V4's plate-mounted stabilizers for the screw-in variety, doing so will automatically void your warranty.
@@ -221,9 +215,17 @@ Razer
 
 ![Razer Blackwidow 75 - Internals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-internals.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Razer
 
  In addition to its switch customizability, the BlackWidow V4 75% internal construction has taken even more cues from popular modification designs. These include a gasket-mounted FR4 plate for a "poppier" sound, two layers of sound-dampening foam to prevent unwanted reverb from the aluminum body, and a PCB fire-retardent "tape-mod" that comes pre-installed from the factory. For those unfamiliar with the practice, for years, enthusiasts have taken it upon themselves to use painter's or duct tape to help deaden the reverberation sound from within the deck. While this step is like a rite of passage for every new keyboard, eliminating the need to open it up for this seemingly simple mod makes you feel like Razer understands its community and users' wants.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lighting
 
@@ -231,18 +233,12 @@ Razer
 
 ![Razer Blackwidow 75% - FN Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-fn-keys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  Paul Antill / MakeUseOf
 
  It boasts per-key lighting and under glow for an immersive lighting experience that looks incredible whether you're using one of its presets or diving deep into the software to customize fully.
 
 ![Razer Blackwidow 75% - Chroma Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-chroma-studio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  Paul Antill / MakeUseOf
 
  With Overwatch 2, for example, the keyboard will change color to match the skin of your character, while the WASD keys stand out with their distinct color. Similarly, your ultimate and ability cooldowns change color or flash when they are ready to use.
@@ -257,20 +253,22 @@ Razer
 
  Paul Antill / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 75% the Size, 100% Worth It
 
  Despite Razer's decision to use less durable ABS caps, lack of pass-through, and its questionable decision to void the warranty if you want to take full advantage of its modification options, the BlackWidow V4 75% delivers a big punch in its debut. If you've already invested in the Razer ecosystem, or you're willing to pay the Razer tax, the BlackWidow V4 75% is one of the best compact mechanical keyboards that will impress long-time keyboard customizers and those looking to get into the hot-swap lifestyle for the first time.
 
 ![Razer Blackwidow 75% - Right Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-right-side.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##### Razer BlackWidow V4 75%
 
 Recommended
@@ -283,14 +281,11 @@ Recommended
 
 [$181 at Amazon](https://www.amazon.com/Razer-BlackWidow-Mechanical-Gaming-Keyboard/dp/B0CCFY349S?tag=makeusw-20&ascsubtag=UUmuoUeUpU2030587&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fblack-widow-v4-75-review%2F&asc%5Fcampaign=Affiliate) [See at Razer](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2030587&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgaming-keyboards%2Frazer-blackwidow-v4-75%2FRZ03-05000200-R3U1)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -299,4 +294,20 @@ Recommended
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-briefclip-artist/"><u>[New] 2024 Approved BriefClip Artist</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-from-screen-to-stage-best-anime-inspired-tiktok-plays/"><u>[New] 2024 Approved From Screen to Stage Best Anime-Inspired TikTok Plays</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-youtube-subscriber-milestones/"><u>[New] Mastering YouTube Subscriber Milestones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-halt-youtubes-automatic-video-screening/"><u>[Updated] 2024 Approved Halt YouTube's Automatic Video Screening</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-the-screen-ultimate-vr-gadget-guide/"><u>2024 Approved Beyond the Screen - Ultimate VR Gadget Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/computex-2024s-impactful-ai-innovations/"><u>Computex 2024'S Impactful AI Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boy-reimagined-linux-terminal-edition/"><u>Game Boy Reimagined: Linux Terminal Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-twitch-a-complete-guide-for-streamers/"><u>Mastering Twitch: A Complete Guide for Streamers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-amr-files-comprehensive-amr-file-conversion-handbook/"><u>New 2024 Approved Mastering AMR Files Comprehensive AMR File Conversion Handbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/primes-advantage-for-dedicated-twitch-watchers/"><u>Prime's Advantage for Dedicated Twitch Watchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-facebook-game-disconnect-in-chrome-browsers/"><u>Resolving Facebook Game Disconnect in Chrome Browsers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/step-by-step-guide-to-add-personalized-soundfilters-on-windows-photos/"><u>Step-by-Step Guide to Add Personalized Sound/Filters on Windows Photos</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-sets-asus-apart-from-tuf-proart-and-prime-tech/"><u>What Sets Asus Apart From Tuf, ProArt & Prime Tech?</u></a></li>
+</ul></div>
 

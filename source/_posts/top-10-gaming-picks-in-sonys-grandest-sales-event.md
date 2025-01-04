@@ -1,7 +1,7 @@
 ---
 title: Top 10 Gaming Picks in Sony's Grandest Sales Event
-date: 2024-12-19T23:39:31.718Z
-updated: 2024-12-25T16:06:10.810Z
+date: 2024-12-31T16:02:39.322Z
+updated: 2025-01-04T16:04:04.040Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Overcooked! 2
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. My Time at Portia Deluxe Edition
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Little Nightmares 1 & 2
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. The Last of Us: Part II
 
  Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for[games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
@@ -122,24 +122,15 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-photomod-editor-skills-review/"><u>[New] PhotoMod Editor Skills Review</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-strategic-sharing-spoken-engagement-for-youtube-viewers-for-2024/"><u>[New] Strategic Sharing Spoken Engagement for YouTube Viewers for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-sync-your-views-iphones-looping-feature/"><u>[Updated] 2024 Approved Sync Your Views IPhone's Looping Feature</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-empower-your-journey-through-cinemas-best-10-titles/"><u>2024 Approved Empower Your Journey Through Cinema's Best 10 Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-portability-mastering-your-docked-steam-decks-potential/"><u>Enhancing Portability: Mastering Your Docked Steam Deck's Potential</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expand-your-display-seamlessly-linking-your-android-device-to-monitors-via-usb/"><u>Expand Your Display: Seamlessly Linking Your Android Device to Monitors via USB</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-windows-8-system-optimized-with-amd-radeon-gpu-drivers-no-cost/"><u>Get Your Windows 8 System Optimized with AMD Radeon GPU Drivers - No Cost!</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmonious-audio-ps5-and-bluetooth-devices/"><u>Harmonious Audio: PS5 & Bluetooth Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-x-fold-2-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo X Fold 2 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme GT 5 (240W)? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-6s-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 6s Plus without Password?</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-design-top-notch-logitech-gaming-mouse/"><u>Innovative Design: Top-Notch Logitech Gaming Mouse</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-game-play-mac-compatible-console-emulators/"><u>Mastering Game Play: Mac-Compatible Console Emulators</u></a></li>
-<li><a href="https://games-able.techidaily.com/oled-my-two-year-journey-to-perfection/"><u>OLED: My Two-Year Journey to Perfection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-connectivity-hurdles-with-steams-servers-a-fix-guide/"><u>Overcoming Connectivity Hurdles with Steam's Servers: A Fix Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/revamp-your-game-catalog-ps5-edition/"><u>Revamp Your Game Catalog: PS5 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/smartphone-epic-quests-in-these-mmo-titles/"><u>Smartphone Epic Quests in These MMO Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/temporary-tactics-to-trim-your-game-pass-expenses/"><u>Temporary Tactics to Trim Your Game Pass Expenses</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-bet-for-your-game-essential-sites-to-boost-gamerscore/"><u>The Best Bet for Your Game - Essential Sites to Boost Gamerscore</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-best-humor-picture-processor/"><u>[New] In 2024, Best Humor Picture Processor</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-adobe-tactics-for-dynamic-3d-text-design-for-2024/"><u>[Updated] Adobe Tactics for Dynamic 3D Text Design for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-6s-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 6s Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/easily-uninstall-microsoft-windows-without-reformatting-effective-techniques-and-tips/"><u>Easily Uninstall Microsoft Windows Without Reformatting: Effective Techniques and Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-master-video-capture-using-adobe-presenter-for-2024/"><u>How to Master Video Capture Using Adobe Presenter for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-solo-show-survival-guide-to-staying-trendy/"><u>In 2024, The Solo Show Survival Guide to Staying Trendy</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-evolution-then-and-now-explored/"><u>PS5 Evolution: Then and Now Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-a-brighter-gaming-atmosphere-with-xbox-led-controls/"><u>Tips for a Brighter Gaming Atmosphere with Xbox LED Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-gamers-choices-retro-handheld-devices-rise/"><u>Top 5 Gamers' Choices: Retro Handheld Devices Rise</u></a></li>
+<li><a href="https://games-able.techidaily.com/unravel-virtual-crimes-with-artificial-intelligence-games/"><u>Unravel Virtual Crimes with Artificial Intelligence Games</u></a></li>
 </ul></div>
 

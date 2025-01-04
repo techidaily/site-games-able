@@ -1,7 +1,7 @@
 ---
 title: "Energy Ethics: A Vision for Progress"
-date: 2024-08-22T22:31:27.432Z
-updated: 2024-08-23T22:31:27.432Z
+date: 2025-01-03T01:51:14.975Z
+updated: 2025-01-04T00:08:12.776Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
 ![A white Wii U GamePad with a large screen surrounded by joysticks and buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_79169617.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Barone Firenze/[Shutterstock](https://www.shutterstock.com/image-photo/los-angeles-june-7-nintendo-showing-79169617)
 
  While Nintendo had great success with consoles such as the Switch, DS, and Wii, it has also delivered the occasional failure. The Wii U was a clear example of a product that’s great on paper, but less so when presented to the market. A confusing name and lackluster first-party launch titles resulted in poor sales.
@@ -37,20 +41,22 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
  A bold approach would see a new run of two-screen games, but also a development of the Switch’s flexible selling point, giving us one more way to play.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 An Upgradeable Dock
 
 ![official nintendo switch docking station](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/official-nintendo-switch-docking-station.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 Nintendo
 
  One of the promises of a hybrid system was that it offers portability when you need it, and power when you can afford to stay still. The Switch has never quite borne this out, with a pretty ineffective[dock lacking in some obvious areas](https://www.makeuseof.com/the-nintendo-switch-dock-desperately-needs-an-upgrade-reasons-why/) . It does little more than serve as a hub for power and video output. By improving its dock, and introducing a broader range, Nintendo could do us all a huge favor.
 
  Of course, the technology needs to support it, but a dock with an upgradable CPU or GPU would be top of my list. I’d also love to see more video options: 1440p, 4K, and 8K if possible. The dock could even support fancier audio options, or other peripherals and accessories altogether.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Full Support for Current Eshop Purchases
 
@@ -58,16 +64,10 @@ Nintendo
 
  Nintendo likes to test our patience, releasing remaster after remaster, and each console revision tends to introduce its own unique way of playing Super Mario Bros (1985). But I'd like the company to really push the boat out and embrace permanent ownership of digital titles, starting from this generation.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Improved Screenshot and Video Features
 
 ![Valnet Reviews Department Arlo Essential Indoor Camera placed on table with the privacy shutter covering the lens](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/arlo-essential-indoor-camera-placed-on-table-with-the-privacy-shutter-covering-the-lensjpg_53529842952_o.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Jerome Thomas / MakeUseOf
 
  When I'm reviewing a game, I take many, many screenshots. And screenshots can be useful in a host of scenarios: sharing on social media, keeping a journal, and using as a gaming aid, to name just a few.
@@ -77,29 +77,28 @@ Nintendo
  It might also be fun to see a return of a proper camera, as lovable as the JoyCon IR is.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 More Than One Game Card Slot
 
 ![shutterstock_1447447304](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1447447304.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back in the heyday of compact discs, one of the most sought-after features was a disc changer or multi-disc tray that gave access to several albums at once. I've never wanted a console equivalent quite as much as I do with the Nintendo Switch.
 
  The vast majority of my games may be digital, but I have a decent physical library too. Switching game cards can be fiddly and carrying them about makes them that much easier to lose. To solve both problems, why not simply add a second card slot? Or a third, a fourth...
 
  This probably won't be at the top of everyone's wishlist, but there’s got to be enough room in that case for more than one card slot.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +107,19 @@ Nintendo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unlocking-the-potential-of-media-imports-in-windows-10/"><u>[Updated] 2024 Approved Unlocking the Potential of Media Imports in Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ace-your-green-screen-videos-must-know-secrets/"><u>2024 Approved Ace Your Green Screen Videos Must-Know Secrets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bridging-photography-and-cinematography-creating-fusion-videos-using-pixiz/"><u>2024 Approved Bridging Photography and Cinematography Creating Fusion Videos Using Pixiz</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-gopro-max-and-hero-11-pursuit-of-perfect-footage/"><u>2024 Approved Examining GoPro Max & Hero 11 Pursuit of Perfect Footage</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-your-dream-gaming-rig-essential-tips-and-guides-sourceznet/"><u>Building Your Dream Gaming Rig: Essential Tips and Guides - SourceZnet</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-experience-with-the-ultimate-sound-discover-the-best-in-wireless-audio-epos-gtw/"><u>Elevate Your Gaming Experience with the Ultimate Sound: Discover the Best in Wireless Audio - EPOS GTW</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-crashed-epic-games-launcher-on-windows-systems/"><u>Fixing Crashed Epic Games Launcher on Windows Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-gaming-pleasure-secure-a-trial-of-3-months-worth-of-xbox-game-pass-ultimate-at-the-low-price-of-36-discover-how-on-zdnet/"><u>Maximize Gaming Pleasure: Secure a Trial of 3 Months' Worth of Xbox Game Pass Ultimate at the Low Price of $36 - Discover How on ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-role-of-presence-in-virtual-reality-significance-and-impact/"><u>Understanding the Role of Presence in Virtual Reality: Significance & Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-free-extended-xbox-game-pass-ultimate-access-at-just-36-exclusive-tips-and-tricks/"><u>Unlock Free Extended Xbox Game Pass Ultimate Access at Just $36: Exclusive Tips and Tricks!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmissable-labor-day-specials-the-ultimate-guide-to-savings-on-televisions/"><u>Unmissable Labor Day Specials: The Ultimate Guide to Savings on Televisions .</u></a></li>
+</ul></div>
 

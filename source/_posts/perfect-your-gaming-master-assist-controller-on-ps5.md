@@ -1,7 +1,7 @@
 ---
 title: Perfect Your Gaming - Master Assist Controller on PS5
-date: 2024-12-21T07:14:02.803Z
-updated: 2024-12-26T01:42:00.822Z
+date: 2025-01-01T16:05:13.188Z
+updated: 2025-01-04T16:04:25.547Z
 tags:
   - games
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  Using an assist controller on your PS5 allows you to connect two controllers that act like one. If you want to make use of this handy accessibility feature on your PS5 but you’re not sure how to, we’ve got you covered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Does an Assist Controller Do on the PS5?
 
  Being able to connect an assist controller to your PS5 is Sony's answer to the copilot feature on Xbox. Using an assist controller is a far different experience than simply connecting two DualSense controllers and calling it a day.
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Set Up an Assist Controller on My PS5?
 
  There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t[enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
@@ -54,44 +54,44 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ![Settings Gear Icon PS5 Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/settings-gear-icon-ps5-home-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Start by connecting a controller and logging into a user profile. From there, open the settings by pressing the**gear icon** in the top right corner.
 
 ![PS5 Settings Accessibility Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-accessibility-section.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Head to the**Accessibility** settings and scroll down to**Controllers** .
 
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tap**Use Second Controller for Assistance** , and make sure the**Use Assist Controller** switch is on.
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Take your second controller, turn it on, and select the same**user profile** that the main controller is connected to. It's very important that both controllers are connected to the same user profile. If not, the process will not be successful. You can tell which profile the main controller is connected to by the**controller icon** underneath the profile picture.
 
 ![PS5 Settings Assign Assist Controller to Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-assign-assist-controller-to-profile.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You will now be able to use the second controller to assist the first player in any way they need. You can tell the two controllers have successfully been connected by checking the**battery icon** at the top right. If there are two batteries instead of one, you are good to go.
 
 ![PS5 Assist Controller Battery Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-assist-controller-battery-icons.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To stop using an assist controller, turn one of the controllers off to disconnect it, or head back to the settings and switch**Use Assist Controller** off.
 
  You are unable to use DualSense features such as haptic feedback, adaptive triggers, or the controller's built-in microphone while using an assist controller, but this is a small price to pay to help someone play and enjoy the games they love.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## An Assist Controller Makes Gaming More Accessible
 
@@ -114,24 +114,15 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-essential-tips-for-optimal-screen-recording-with-showmore-for-2024/"><u>[New] Essential Tips for Optimal Screen Recording With ShowMore for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/assessing-western-digital-data-lifeguard-an-in-depth-tool-review-with-pros-and-cons/"><u>Assessing Western Digital Data Lifeguard: An In-Depth Tool Review with Pros and Cons</u></a></li>
-<li><a href="https://extra-information.techidaily.com/fast-cash-on-reddit-check-out-these-top-13-skillless-strategies/"><u>Fast Cash on Reddit? Check Out These Top 13 Skillless Strategies</u></a></li>
-<li><a href="https://win-trending.techidaily.com/guida-completa-per-linstallazione-e-la-disinstalazione-passaggi-facili-da-seguire/"><u>Guida Completa per L'installazione E La Disinstalazione: Passaggi Facili Da Seguire</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-vivo-v30-lite-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Vivo V30 Lite 5G.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023s-gaming-hardware-roundup-what-to-expect/"><u>IFA 2023'S Gaming Hardware Roundup – What to Expect?</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifas-new-tech-pushing-the-boundaries-in-gaming-hardware/"><u>IFA's New Tech: Pushing the Boundaries in Gaming Hardware</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-performance-with-right-fpv-propeller-choices/"><u>In 2024, Maximizing Performance with Right FPV Propeller Choices</u></a></li>
-<li><a href="https://games-able.techidaily.com/incorporating-safety-in-family-steam-playtime/"><u>Incorporating Safety in Family Steam Playtime</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-amazon-primes-cost-justified-by-its-perks/"><u>Is Amazon Prime's Cost Justified by Its Perks?</u></a></li>
-<li><a href="https://games-able.techidaily.com/key-elements-in-selecting-a-portable-gaming-device/"><u>Key Elements in Selecting a Portable Gaming Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-your-shooter-skills-with-perfect-mouse-sensitivity/"><u>Maximizing Your Shooter Skills with Perfect Mouse Sensitivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplifying-steam-image-management/"><u>Simplifying Steam Image Management</u></a></li>
-<li><a href="https://games-able.techidaily.com/subscribers-sorrow-the-missing-manual-for-gamers/"><u>Subscriber's Sorrow: The Missing Manual for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-game-companion-introducing-pdw4/"><u>The Ultimate Game Companion: Introducing PDW4</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-safaris-missing-photos-on-iphone-with-these-simple-fixes/"><u>Troubleshoot Safari's Missing Photos on iPhone with These Simple Fixes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/understanding-the-magic-behind-quantum-hdr/"><u>Understanding the Magic Behind Quantum HDR</u></a></li>
-<li><a href="https://games-able.techidaily.com/which-elgato-model-offers-superior-performance/"><u>Which Elgato Model Offers Superior Performance?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-creating-emotional-depth-scriptwriting-tips/"><u>[New] Creating Emotional Depth Scriptwriting Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>[Updated] Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-steam-error-unauthorized-file-reading-in-win11/"><u>Addressing Steam Error: Unauthorized File Reading in Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-display-winners-oled-amoled-vs-ips-lcd/"><u>Decoding Display Winners: OLED, AMOLED Vs. IPS LCD</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/distinguishing-between-an-ipad-and-ipad-air-a-comprehensive-guide/"><u>Distinguishing Between an iPad and iPad Air – A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/dont-fall-for-linkedins-new-gaming-attraction-heres-why/"><u>Don’t Fall for LinkedIn's New Gaming Attraction - Here’s Why</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-definition-horizons-with-lgs-newest-tv-review-27ud68/"><u>High-Definition Horizons with LG's Newest TV Review (27UD68)</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-it-time-for-you-to-join-the-game-pass-ultimate-family/"><u>Is It Time for You to Join the Game Pass Ultimate Family?</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-nvidias-gaming-future-in-rtx-or-can-you-stick-with-gtx/"><u>Is Nvidia's Gaming Future in RTX, or Can You Stick with GTX?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-video-editors-for-windows-10-must-have-tools-list/"><u>Prime Video Editors for Windows 10 Must-Have Tools List</u></a></li>
 </ul></div>
 

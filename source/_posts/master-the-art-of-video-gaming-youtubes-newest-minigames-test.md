@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Video Gaming: YouTube’s Newest Minigames Test"
-date: 2024-08-27T17:05:13.784Z
-updated: 2024-08-28T17:05:13.784Z
+date: 2025-01-01T18:56:34.630Z
+updated: 2025-01-04T02:14:29.696Z
 tags:
   - games
 categories:
@@ -30,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
  YouTube has rolled out a collection of mini-games as an experimental feature for select users, dubbed Playables. If you’re interested in playing, here is how to activate this feature and join in on the fun.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is YouTube Playables?
 
  Playables is a collection of YouTube mini-games that can be accessed on your smartphone via the YouTube app or through your desktop’s web browser.
@@ -59,9 +60,6 @@ Here are all the games accessible in the YouTube Playables section:
 
  If you are[deciding whether YouTube Premium is worth it](https://www.makeuseof.com/tag/youtube-red-worth-money-things-need-consider/) to access Playables and all the other premium features, we suggest that you skip the annual subscription and get the monthly subscription instead. This is because the Playables feature will only be available until March 28, 2024\. If it doesn’t become a feature after that date, it may get canceled entirely.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Can You Activate Playables?
 
  If you weren’t notified of the feature but are a Premium subscriber, you can try to access Playables just by turning on experimental features in your YouTube app.
@@ -73,36 +71,40 @@ Here are all the games accessible in the YouTube Playables section:
 ![YouTube You tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-you-section.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![YouTube Settings menu with experimental features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/3-youtube-settings-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![the option to try out YouTube Playables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/4-try-out-youtube-playables-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
  Once you have enabled YouTube Playables, you can access the games through the**Explore** tab on YouTube. The Explore section should be accessible in plain sight if you’re using a web browser. For those using their smartphones, tapping on the**compass icon** in the top right of your screen will reveal the Explore section where Playables is listed.
 
 ![YouTube compass icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-compass-icon-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Mobile explore section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/2mobile-explore-section.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![YouTube playable games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/22youtube-playable-games.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![YouTube homepage scrolling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/403399801_6992387144163435_8787378799009490497_n-1.jpg)
 
 Close
 
  Alternatively, you can simply keep scrolling through the YouTube homepage past**Shorts** and**Breaking news** until you see the**Playables on YouTube** section. You can then click any of the 40 mini-games available to start playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing YouTube Playables
 
@@ -110,14 +112,11 @@ Close
 
  Depending on how Playables perform, we may see more platforms implementing mini-games into their services. Or the experiment could fail miserably.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +125,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-innovative-methods-to-record-windows-8-display-for-2024/"><u>[New] Innovative Methods to Record Windows 8 Display for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-procedural-blueprint-inserting-srt-within-mp4-recordings/"><u>[New] Procedural Blueprint Inserting SRT Within MP4 Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unveiling-the-secrets-how-to-save-your-google-meet/"><u>[Updated] 2024 Approved Unveiling the Secrets How to Save Your Google Meet</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tactics-for-playing-pokemon-games-on-iphoneipad/"><u>Expert Tactics for Playing Pokémon Games on iPhone/iPad</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-giants-matchup-rtx-4070-supers-vs-titans-and-4080/"><u>Graphics Giants Matchup: RTX 4070 Supers Vs. Titans & 4080</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enhance-your-homes-digital-television-signal-with-a-diy-indoor-antenna/"><u>How to Enhance Your Home's Digital Television Signal with a DIY Indoor Antenna</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-terminal-mastering-game-boy-classics/"><u>Linux Terminal: Mastering Game Boy Classics</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-stats-monitoring-your-playtime-and-achievements/"><u>Mastering Steam Stats: Monitoring Your Playtime & Achievements</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-8-plus-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Plus Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/sharpen-your-mind-engage-with-the-best-6-alternative-games/"><u>Sharpen Your Mind: Engage With the Best 6 Alternative Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-steam-game-management-with-easy-removal-techniques/"><u>Simplifying Steam Game Management with Easy Removal Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-beginners-guide-to-combining-gpt-nupy-for-intelligent-text-generation/"><u>The Beginner's Guide to Combining GPT-Nupy for Intelligent Text Generation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-resolving-issues-with-non-responsive-airplay/"><u>Troubleshooting Steps: Resolving Issues with Non-Responsive AirPlay</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unleash the Power of Game Launchers on Your Steam Deck
-date: 2024-08-22T22:30:23.784Z
-updated: 2024-08-23T22:30:23.784Z
+date: 2024-12-29T13:26:46.973Z
+updated: 2025-01-04T04:17:01.189Z
 tags:
   - games
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 
 ![screenshot of Lutris in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_lutris_in_discover_store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Because the Steam Deck natively runs on a Linux operating system, the availability of different game launchers can get a bit muddy.
 
  Linux has had a solution for running just about any Windows program you can imagine before the Steam Deck even released. Lutris is an open gaming platform that can be engineered to run just about any Windows app.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
  You could follow[Lutris guides for getting different game launchers to run](https://www.makeuseof.com/how-to-play-pc-games-on-linux-with-lutris/) , but many users find Lutris to be a fickle or complicated program to deal with.
 
 Instead, we have solutions designed specifically for the Steam Deck.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games
 
@@ -41,6 +49,10 @@ Instead, we have solutions designed specifically for the Steam Deck.
  Search for Heroic and hit**Install** .
 
 ![screenshot of the heroic games launcher login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_login_page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When the installation is finished, you can find the program in the All Applications menu, just like the Discover store.
 
@@ -59,20 +71,17 @@ Instead, we have solutions designed specifically for the Steam Deck.
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## NonSteamLaunchers for Battle.net, EA App, and More
 
 ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
 
  Follow the download and installation instructions available on that page, taking care to execute the file and not simply open it.
@@ -85,28 +94,19 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of ubisoft connect in steam list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_ubisoft_connect_in_steam_list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After the installation script has finished, you'll find a new shortcut added to your Steam games list. All you have to do is launch this shortcut to gain access to your chosen launcher.
 
  Just note that these installations require the user to select a specific Proton compatibility layer through Steam, unlike Heroic Games Launcher which manages this for you.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Play Non-Steam Games on the Steam Deck
 
  While it may not be a seamless, out-of-the-box experience, running non-steam games on the Steam Deck is very possible. It's well worth the effort as the amount of games you'll have access to is significant, and you won't have to worry about double-dipping a game you might already own on another storefront.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +115,16 @@ Instead, we have solutions designed specifically for the Steam Deck.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-dynamic-dialogue-dance-decks/"><u>[New] In 2024, Dynamic Dialogue Dance Decks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-lava-blaze-curve-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Lava Blaze Curve 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-scripts-to-storytelling-utilizing-chatgpt-for-intense-roleplay-sagas/"><u>From Scripts to Storytelling: Utilizing ChatGPT for Intense Roleplay Sagas</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-zero-30-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Zero 30 5G.</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-showdown-with-microsofts-edge-battle-of-the-browsers/"><u>Opera GX Showdown with Microsoft's Edge - Battle of the Browsers</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-snes-with-dualshock-replicas/"><u>Streaming SNES with DualShock Replicas</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-yuva-3-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Yuva 3 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-potential-of-ai-crafting-compelling-rpg-adventures-through-chatgpt/"><u>Unlocking the Potential of AI: Crafting Compelling RPG Adventures Through ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-newest-version-of-hp-laserjet-p1007-drivers-free-download-and-installation-instructions/"><u>Upgrade to the Newest Version of HP LaserJet P1007 Drivers - Free Download and Installation Instructions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Prime Couch Collaboration Titles for Xbox Series Consoles
-date: 2024-08-22T22:31:25.079Z
-updated: 2024-08-23T22:31:25.079Z
+date: 2025-01-01T05:58:06.252Z
+updated: 2025-01-04T15:52:27.540Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  Whether you're looking for something fast-paced or relaxing, the Xbox Series X/S has a great selection of local co-op games to choose from. Here, we've rounded up some of the best.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1. LEGO Star Wars: The Skywalker Saga
 
  Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for[excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
  Rocket League is also one of[the best local multiplayer games for PC](https://www.makeuseof.com/tag/7-best-couch-co-op-games-pc/) . In fact, you can compete against PC players online, thanks to the game's cross compatibility.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3. It Takes Two
 
  Unlike some games that tack local co-op as an afterthought, It Takes Two is exclusively designed for cooperative play. With incredibly charming visuals, It Takes Two sees you and a partner platform and solve puzzles through a variety of interesting locations. If you enjoy this, check out the developer's equally impressive game A Way Out.
@@ -38,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 ## 4. Cuphead
 
  Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally[decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5. Overcooked! All You Can Eat
 
@@ -47,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  Portal 2 first released in 2011, but this incredible game stands the test of time. While there is a superb single-player story, the co-op experience is equally fantastic and fully fledged. You and your robot chum must use the portal gun to navigate complex physical puzzles and escape the rooms.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7. Stardew Valley
 
  Stardew Valley is a simulation game that puts you in charge of building your own farm from the ground up, looking after crops and vegetables, and exploring the surrounding world and meeting a cast of charming characters. And you can do all of this in couch co-op, with up to four players. It's a completely relaxing experience, far different from the usual fast-paced shooters.
@@ -59,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
  In Unravel Two, you and a friend take control of Yarnys—two creatures made from yarn, connected by a single thread. You work together to navigate through a series of treacherous landscapes. This is the perfect Xbox game to play locally with someone who doesn't usually play many video games.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9. Halo: The Master Chief Collection
 
  Whether you're a Halo novice or veteran, The Master Chief Collection is the ultimate Xbox experience. It bundles six Halo games into a single package. All of them are worth playing—not only to see how they shaped the first-person shooter genre, but just because they're downright fun, especially when played in couch co-op.
@@ -69,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  If you have a single creative bone in your body, you'll love Minecraft. Whatever you imagine, you can build in Minecraft. Don't let its deceptively simple blocky graphics put you off. You'll end up spending the whole day with your friends building and exploring, since Minecraft supports up to four players in local co-op.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11. Dirt 5
 
  Nowadays, it's rare for a racing game to offer split-screen, which is why it's so delightful that Dirt 5 does. It's a globe-trotting arcade racer that really gives you the sensation of being behind the wheel of some amazing vehicles, skirting across gravel, ice, and sand as you rev your way to the finish line. While playing Dirt 5 alone is fun, it really comes alive in local co-op.
@@ -81,31 +85,17 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
  Whether you opt for Borderlands: The Handsome Collection (which includes Borderlands 2 and Borderlands: The Pre-Sequel) or Borderlands 3, you're in for some rollicking first-person fun as you shoot and loot with your friends through these hilarious games. Come for the action, stay for the witty characters.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 13. Rayman Legends
 
  Rayman is a certified gaming icon and the series has arguably never been better than in Rayman Legends, a 2D platformer that bursts at the seams with creativity and excitement. Not only is the colorful art a feast for the eyes, but the gameplay offers hours of perfectly finessed platforming fun.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 14. Crash Team Racing Nitro-Fueled
 
  You might know Crash Bandicoot best from his platformers, but Crash Team Racing Nitro-Fueled is a loving remake of the 1999 arcade kart racer. Expect mayhem as you race around wild tropical tracks, using silly items to throw your fellow racers off course. You can play Nitro-Fueled on your Xbox Series X/S with up to four others in local split-screen.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 15. The Quarry
 
  Get your thrills with The Quarry, a choice-based horror game where you control nine teenage summer camp counselors as they try to survive the night; your decisions impact who makes it until morning. It supports couch co-op for up to eight people, where each player is assigned a character and passes the controller around—ideal for cost-effective frights.
@@ -114,18 +104,19 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  Human Fall Flat is a puzzle platformer, tasking you and a friend to navigate through the themed environments. Sounds simple? It's anything but, with the slapstick physics meaning you'll be flailing through the levels. Though you can play this solo, you shouldn't—it's much funnier in couch co-op.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Choose Xbox for Endless Couch Co-Op Entertainment
 
  As you've seen, the Xbox Series X/S has a plethora of fabulous local co-op games to choose from, whether you're in the mood for a relaxing farming sim, frantic first-person shooter, or charming puzzle-platformer. Gaming doesn't have to be a solitary activity!
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +125,22 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-cut-out-facebook-stories-step-by-step-for-pc-and-phones-for-2024/"><u>[New] Cut Out Facebook Stories Step-By-Step for PC & Phones for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-perfect-your-mac-how-to-record-desktop-activity/"><u>[Updated] 2024 Approved Perfect Your Mac How to Record Desktop Activity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-successful-zoom-calls-with-android/"><u>[Updated] 2024 Approved Unveiling the Secrets to Successful Zoom Calls with Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ensuring-compliance-in-zoom-meetings-a-recording-guide/"><u>[Updated] In 2024, Ensuring Compliance in Zoom Meetings A Recording Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728499659031-winfr/"><u>如何修正“WinFR需要管理员权限运行”错误消息</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-interactive-exchanges-chatgpt-meets-mac/"><u>Elevate Interactive Exchanges: ChatGPT Meets Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-deals-score-your-dream-nvidia-powered-gaming-rig-during-amazon-prime-day-2024-insider-reviews/"><u>Exclusive Deals: Score Your Dream Nvidia-Powered Gaming Rig During Amazon Prime Day 2024 - Insider Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-your-perfect-setup-elite-gaming-chairs-reviewed-by-tech-experts-at-zdnet/"><u>Find Your Perfect Setup: Elite Gaming Chairs Reviewed by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/grab-your-new-tcl-television-epic-85-inches-for-an-unbeatable-price-of-900-limited-offer-this-labor-day-at-zdnet/"><u>Grab Your New TCL Television: Epic 85 Inches for an Unbeatable Price of $900 - Limited Offer This Labor Day at ZDNet!</u></a></li>
+<li><a href="https://games-able.techidaily.com/halve-your-price-for-incredible-visuals-with-amazons-big-sale-snag-the-samsung-odyssey-g7-monitor-today/"><u>Halve Your Price for Incredible Visuals with Amazon's Big Sale - Snag the Samsung Odyssey G7 Monitor Today!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-matches-mac-and-pc-video-decoders-freepaid-for-2024/"><u>Ideal Matches Mac & PC Video Decoders (FREE/PAID) for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-vivo-y100-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y100 5G Unlock Without Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-fortnite-on-iphone-is-possible-again-discover-the-easy-way-with-zdnets-tips/"><u>Playing Fortnite on iPhone Is Possible Again - Discover the Easy Way with ZDNet's Tips!</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-virtual-reality-headsets-comprehensive-tests-and-insights-by-tech-gurus-techradar/"><u>Top-Rated Virtual Reality Headsets : Comprehensive Tests & Insights by Tech Gurus | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deal-alert-hp-victus-15l-laptop-now-at-a-steal-only-480-ahead-of-labor-day-sale-techspot/"><u>Unbeatable Deal Alert: HP Victus 15L Laptop Now at a Steal - Only $480 Ahead of Labor Day Sale! | TechSpot</u></a></li>
+</ul></div>
 

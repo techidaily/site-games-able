@@ -1,7 +1,7 @@
 ---
 title: Top 6 Game Takeaways From Helldivers 2'S Journey
-date: 2024-12-22T01:59:01.855Z
-updated: 2024-12-25T21:33:46.189Z
+date: 2025-01-01T16:00:15.202Z
+updated: 2025-01-04T16:00:10.808Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 * [Have a Free Progression System](#have-a-free-progression-system)
 * [Balance Gameplay Mechanics](#balance-gameplay-mechanics)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Cross-platform play and free progression without making in-game purchases mandatory are key to player satisfaction.
@@ -36,23 +40,19 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  Multiplayer online gaming across platforms is all the rage. Helldivers 2, a game by Arrowhead Game Studios, exploded in popularity on PC and PS5 consoles in 2024\. How can a future multiplayer game replicate Arrowhead's success? Here are some key things I've noticed as a player that contribute to the game's success.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 Allow Cross-Platform Multiplayer Play
 
 ![Screenshot of Helldivers 2 Super Earth public service announcement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0416461.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Helldivers 2 is a third-person shooter live service game where players become Helldivers fighting for Super Earth. Players join teammates in missions on different planets across the universe to eradicate Terminids (bug-like alien life forms) and Automatons (robots). Helldivers harvest valuable resources from planets that are home to Terminids and Automatons.
 
  Gamers can play Helldivers 2 on the PlayStation 5 and PC. One of the keys to a successful multiplayer game is ensuring that even if your friend has a PC, but you only have a PlayStation, you'll still be able to join each other in the interplanetary fight for democracy in Helldivers 2.
 
  Cross-platform multiplayer features allow people to play games with friends who may use different platforms and maintain social connections while increasing the overall player pool. It's one of the reasons[platform-exclusive games are becoming a thing of the past](https://www.makeuseof.com/platform-exclusive-games-thing-of-the-past-good/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 Listen to Community Members
 
@@ -62,15 +62,7 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 ![Screenshot of Helldivers 2 Warbond menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415451.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Have A Strong Social Media Presence
 
@@ -86,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  The game's developers put out new Major Orders every week to engage the community. The community is not guaranteed to pass each Major Order, making it a challenge for the entire player base. Each mission in Helldivers 2 that a player participates in adds to the progress of the Major Order, making the success of the mission entirely based on community progress.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Have a Free Progression System
 
  There are multiple forms of in-game currency in Helldivers 2 which players can find in missions for free. If a player is looking to fast-track unlocking items available in Warbonds (battle passes), weapons, and other cosmetics, there are paid options, as well. Importantly, a player does not have to pay to advance in the game.
@@ -100,11 +96,11 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 ![Screenshot of Helldivers 2 strategem menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415051.jpeg)
 
- There are plenty of other[live service games that are not pay-to-win](https://www.makeuseof.com/live-service-games-that-arent-pay-to-win/) , as well, including Fortnite and Smite.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ There are plenty of other[live service games that are not pay-to-win](https://www.makeuseof.com/live-service-games-that-arent-pay-to-win/) , as well, including Fortnite and Smite.
 
 ## 6 Balance Gameplay Mechanics
 
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
  For example, the SG-225 Breaker shotgun got "nerfed", meaning the game developers reduced its overall power by reducing its ammo capacity and increasing its recoil to balance the game and encourage using other weapons.
 
 ![Screenshot of Helldivers 2 SG-225 Breaker automatic shotgun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0504130.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Balancing game mechanics helps keep the experience varied and allows people to use different combinations of guns and other strategies to succeed in the game.
 
@@ -133,22 +133,20 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-compose-your-story-best-mobile-annotation-tools-for-2024/"><u>[New] Compose Your Story Best Mobile Annotation Tools for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-backpedaling-through-imagery-an-insiders-guide-to-finding-originals-in-instagram/"><u>[New] In 2024, Backpedaling Through Imagery An Insider's Guide to Finding Originals in Instagram</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-coexisting-screen-data-gathering/"><u>[Updated] 2024 Approved Coexisting Screen Data Gathering</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-a-comprehensive-tutorial-for-transforming-vids-into-dollars/"><u>2024 Approved A Comprehensive Tutorial for Transforming Vids Into Dollars</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-xiaomi-redmi-note-12-proplus-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi Note 12 Pro+ 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-world-of-cozy-gaming-delights/"><u>Exploring the World of Cozy Gaming Delights</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-adobe-off-new-pathways-for-playing-flash-titles/"><u>Game On, Adobe Off: New Pathways for Playing Flash Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-more-for-less-xbox-gaming-offers/"><u>Get More for Less: Xbox Gaming Offers</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-psp-transform-into-nintendo-ds-simulator/"><u>Mastering PSP: Transform Into Nintendo DS Simulator</u></a></li>
-<li><a href="https://games-able.techidaily.com/organizing-your-steam-screenshots-effectively/"><u>Organizing Your Steam Screenshots Effectively</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/reviving-microsofts-reputation-top-5-strategies-for-making-windows-shine/"><u>Reviving Microsoft's Reputation: Top 5 Strategies for Making Windows Shine</u></a></li>
-<li><a href="https://games-able.techidaily.com/safe-play-instructions-for-switch-passcode-activation/"><u>Safe Play: Instructions for Switch Passcode Activation</u></a></li>
-<li><a href="https://games-able.techidaily.com/stream-assist-the-key-to-seamless-video-game-streaming/"><u>Stream Assist: The Key to Seamless Video Game Streaming</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/synergizing-your-brands-impact-on-facebook-linkedin-and-youtube/"><u>Synergizing Your Brand's Impact on Facebook, LinkedIn, and YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-7-pitfalls-in-mobile-playing/"><u>Top 7 Pitfalls in Mobile Playing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-contrast-what-sets-the-ipad-pro-apart-from-macbook-air/"><u>Unveiling the Contrast: What Sets the iPad Pro Apart From MacBook Air?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-way-to-color-grading-and-color-correction-in-filmora/"><u>Updated In 2024, Best Way To Color Grading & Color Correction in Filmora</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ultimate-gopro-comparison-max-360-vs-hero-11-performance/"><u>[New] 2024 Approved Ultimate GoPro Comparison Max 360 vs Hero 11 Performance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-a-complete-strategy-for-superior-animoji-use-on-iphone-x/"><u>[Updated] 2024 Approved A Complete Strategy for Superior Animoji Use on iPhone X</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-video-editor-face-off-making-an-informed-decision-filmora-vs-democracy-creator/"><u>[Updated] The Video Editor Face-Off Making an Informed Decision (Filmora Vs. Democracy Creator)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-why-samsung-galaxy-note-9-leads-in-phablet-innovation/"><u>Comprehensive Review: Why Samsung Galaxy Note 9 Leads in Phablet Innovation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-error-code-0x80n070570-expert-guide-on-troubleshooting-and-fix/"><u>Decoding Error Code 0X80n070570: Expert Guide on Troubleshooting and Fix</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicating-display-driver-failed-error-in-windows-devices/"><u>Eradicating Display Driver Failed Error in Windows Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/eye-on-graphics-will-gpu-fees-increase-soon/"><u>Eye on Graphics: Will GPU Fees Increase Soon?</u></a></li>
+<li><a href="https://games-able.techidaily.com/freedom-from-realms-exporting-your-creations/"><u>Freedom From Realms: Exporting Your Creations</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-freedom-fights-vs-service-shackles/"><u>Game Freedom Fights Vs. Service Shackles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-rainbow-six-extraction-from-freezing-or-crashing-on-your-computer/"><u>How to Stop Rainbow Six Extraction From Freezing or Crashing on Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oppo-reno-10-proplus-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Oppo Reno 10 Pro+ 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/pioneering-led-lights-and-their-impact/"><u>Pioneering LED Lights and Their Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-longevity-turn-it-off-to-keep-going/"><u>PS5 Longevity: Turn It Off to Keep Going</u></a></li>
+<li><a href="https://games-able.techidaily.com/remote-play-mastery-with-steams-storage-and-drive-management/"><u>Remote Play Mastery with Steam’s Storage and Drive Management</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranking-iphone-choices-comprehensive-expert-evaluations-and-reviews-zdnet/"><u>Top-Ranking iPhone Choices : Comprehensive Expert Evaluations & Reviews | ZDNet</u></a></li>
 </ul></div>
 

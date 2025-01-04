@@ -1,7 +1,7 @@
 ---
 title: Exploring Multiplatform Gaming Between PS5 & PS4?
-date: 2024-12-18T19:01:41.705Z
-updated: 2024-12-26T03:20:16.732Z
+date: 2024-12-29T16:01:10.893Z
+updated: 2025-01-04T16:01:38.993Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The PS5 Controller and PS4 Console Are Not Compatible
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
  Sony made it clear in a[PlayStation Blog post](https://blog.playstation.com/2020/11/09/ps5-the-ultimate-faq/#dualsens) that the DualSense controller will not work on PS4 consoles, as the two devices aren't compatible when connected directly. The console manufacturer has not provided a reason why this is the case, but it's a bit strange considering that the[PS4 controller is forward-compatible with the PS5](https://www.makeuseof.com/use-ps4-controllers-on-playstation-5/) and backward-compatible with the PS3.
 
  However, if all you have is a PS4 console and DualSense controller (no PS4 controller to play with), you can indirectly connect these incompatible devices with the help of two middlemen: PS Remote Play or the Titan Two adapter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on PC?
 
@@ -46,10 +50,6 @@ Here’s how to do that:
 3. Open the Remote Play app on your PC or Mac, click the**Sign In to PSN** button, and follow the instructions to log in to your PSN account.  
 ![signing in to the ps remote play app on pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/sign-in-ps-remote-play-pc.jpg)
 4. After you sign in, click the**PS4 icon** on the right. This will make the app attempt to connect to the PS4 console.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![choosing which console to connect to on the ps remote play app for pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/connect-ps4-remote-play-pc.jpg)
 5. Once the Remote Play app and PS4 connect, plug the DualSense controller into your computer using a USB-C cable.
@@ -70,7 +70,7 @@ Here’s how to do that:
 ![choosing a console to connect to on the PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/choosing-a-console-to-connect-to-on-the-ps-remote-play-mobile-app.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -79,7 +79,7 @@ Close
  What's great about this method, compared to using Remote Play on PC, is that you can use the PS5 controller wirelessly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using the Titan Two Adapter?
@@ -91,7 +91,7 @@ Close
  Now you'll be able to use the DualSense controller on your PlayStation 4 without needing Remote Play.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use the DualSense Controller on PS4 the Hard Way
@@ -115,20 +115,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-mov-file-capture-in-win10/"><u>[New] 2024 Approved Mastering MOV File Capture in Win10</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-best-8-concealed-video-downloading-software-of-2023/"><u>[New] In 2024, Best 8 Concealed Video Downloading Software of 2023</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-decoding-the-journey-from-sdr-to-stunning-hdr-images/"><u>2024 Approved Decoding the Journey From SDR to Stunning HDR Images</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-hdr-a-professionals-secret-weapon/"><u>2024 Approved IPhone HDR A Professional's Secret Weapon</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-advanced-techniques-applying-luts-for-stunning-photos/"><u>2024 Approved Mastering Advanced Techniques Applying LUTs for Stunning Photos</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-controls-for-nintendo-switch-the-elite-list/"><u>Cutting-Edge Controls for Nintendo Switch – The Elite List</u></a></li>
-<li><a href="https://games-able.techidaily.com/old-school-pokemon-android-edition/"><u>Old School Pokémon: Android Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/personal-exploration-of-3d-printing-in-3dr/"><u>Personal Exploration of 3D Printing in '3DR'</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rtx-3080-game-stability-tips/"><u>RTX 3080 Game Stability Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-itbm-drivers-missing-error-swiftly-effective-strategies-inside/"><u>Solve ITBM Drivers Missing Error Swiftly – Effective Strategies Inside</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-hd-quality-with-top-gamer-panels-240hz/"><u>Superior HD Quality with Top Gamer Panels (240Hz)</u></a></li>
-<li><a href="https://games-able.techidaily.com/taking-virtual-reality-to-new-heights-explore-and-play-games-with-steam-and-meta-quest/"><u>Taking Virtual Reality to New Heights - Explore & Play Games with Steam and Meta Quest</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-significance-of-speedy-resume-in-the-new-xbox-sx-era/"><u>The Significance of Speedy Resume in the New Xbox S/X Era</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-and-resolving-launcher-error-0x803f8001/"><u>Understanding and Resolving Launcher Error 0X803F8001</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleashing-true-black-and-vivid-colors-on-asus-pa32u-for-2024/"><u>Unleashing True Black & Vivid Colors on ASUS PA32U for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-evaluating-visual-dynamics-the-power-of-luminances-hdr/"><u>[New] 2024 Approved Evaluating Visual Dynamics The Power of Luminance's HDR</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-a-century-of-sparks-the-10-most-voted-on-reddit-posts/"><u>[New] A Century of Sparks The 10 Most Voted on Reddit Posts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-complete-sphere-unveiled-in-film-tech/"><u>[Updated] 2024 Approved The Complete Sphere Unveiled in Film Tech</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-creators-fortune-revenue-generated-from-youtube-advertisements/"><u>[Updated] In 2024, Charting Creator's Fortune Revenue Generated From Youtube Advertisements?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-transform-fb-video-files-into-mp4-directly-for-2024/"><u>[Updated] Transform FB Video Files Into MP4 Directly for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-xbox-gameplay-to-discord-audiences/"><u>Connecting Xbox Gameplay to Discord Audiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-childs-defensive-ps5-environment/"><u>Crafting a Child’s Defensive PS5 Environment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-and-safeguard-periscope-videos-effectively/"><u>In 2024, Capture & Safeguard Periscope Videos Effectively</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/love-at-first-click-exclusive-review-of-the-featherlight-lg-gram-pro-17-dont-miss-out-during-amazon-prime-day-sales/"><u>Love at First Click: Exclusive Review of the Featherlight LG Gram Pro 17 - Don't Miss Out During Amazon Prime Day Sales!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-youtube-videos-by-writing-scripts-using-chatgpt/"><u>Revolutionize Your YouTube Videos by Writing Scripts Using ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-simplicity-intels-contribution-with-stream-assist/"><u>Streaming Simplicity: Intel's Contribution with Stream Assist</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-purging-past-games-from-playstation-5/"><u>The Ultimate Guide to Purging Past Games From PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-s-gaming-beyond-physical-discs/"><u>Xbox S: Gaming Beyond Physical Discs</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtube-reworking-its-arsenal-with-cutting-edge-mini-games/"><u>YouTube Reworking Its Arsenal with Cutting-Edge Mini Games!</u></a></li>
 </ul></div>
 

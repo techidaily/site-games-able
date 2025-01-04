@@ -1,7 +1,7 @@
 ---
 title: "PC Matchmaking: Verifying Part Compatibility"
-date: 2024-08-22T22:31:37.646Z
-updated: 2024-08-23T22:31:37.646Z
+date: 2024-12-30T13:38:12.159Z
+updated: 2025-01-04T06:51:24.413Z
 tags:
   - games
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
 ![intel i9 13900k spec sheet 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intel-i9-13900k-spec-sheet-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. GPU Check
 
 [GPU Check](https://www.gpucheck.com/gpu-benchmark-comparison) is a handy tool for figuring out how your CPU and GPU might perform together. Sure, the go-to is typically to buy the biggest and best of both, and when you're building a new PC from scratch, that's a straightforward option.
@@ -41,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
  But when upgrading a PC with new components, you might want to consider how your older CPU will play with a newer GPU or vice versa. With GPU Check, you can compare CPU and GPU combinations against one another and see how the changes affect performance. Of course, it's a general guide; CPU and GPU age, cooling, and other factors will affect your outright performance, but it's a good gauge, nonetheless.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Newegg Custom PC Builder
 
  PCPartPicker tops the list because it's[the biggest and best of the PC hardware compatibility bunch](https://www.makeuseof.com/best-custom-pc-builder-website/) , but the[Newegg Custom PC Builder](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Ftools%2Fcustom-pc-builder) is also worth a shout.
@@ -57,10 +62,11 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
 ![newegg ai pc part picker racing game build budget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/newegg-ai-pc-part-picker-racing-game-build-budget.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  The individual component selection works similarly to PCPartPicker, helping you match compatible hardware by eliminating parts that don't work after each selection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Google Bard (Or Another Internet-Connected AI Chatbot)
 
@@ -70,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
 ![google bard ai custom pc build prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-ai-custom-pc-build-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Bard suggested the following build for a PC that can "play FPS games at least 1080p 60FPS" with "a high-end CPU and good GPU."
 
 * **CPU** : I[ntel Core i5-12600KF](https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=1a6fdfcfd07f1dc95f9124bd1a532c0a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
@@ -92,28 +95,26 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
 ![google bard checks custom pc build list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-checks-custom-pc-build-list.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In both scenarios, Google Bard helped figure out which PC components were compatible.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Power Supply Calculator
 
  A power supply unit (PSU) calculator is a handy tool that helps you figure out the size of PSU your custom PC will need. There are[several power supply unit calculators](https://www.makeuseof.com/best-online-power-supply-calculators/) , including options from OuterVision, Cooler Master, and Be Quiet!, all of which can help you figure out what you need.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 7\. Forums and Communities
 
  One of the greatest ways to find out what works and what doesn't is to use a PC hardware forum or community, like Linus Tech Tips Forums, Reddit's r/buildapc, and so on. These forums are packed with people passionate about PC building and ensuring your hardware works as it should, and the knowledge of many folks on these forums is second-to-none.
 
  On some forums, you're encouraged to post your proposed build and ask for feedback or use the search function to see if someone has already asked about the compatibility of your selected components. If you find a build similar to yours, you can check if it worked or not, while if you're still in the planning stages, you might receive friendly advice regarding your upcoming build.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Always Check Your PC Hardware Compatibility Before Buying
 
  Building a new PC or upgrading your existing rig can feel a little overwhelming. We've all been there; will that new CPU play nicely with the motherboard? Should you upgrade your GPU at the same time as your RAM?
@@ -126,8 +127,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +134,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-entry-level-vector-exploration-grasping-different-forms/"><u>[New] 2024 Approved Entry-Level Vector Exploration Grasping Different Forms</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-precision-in-reducing-image-size-the-essential-guide-to-thumbnails-for-2024/"><u>[New] Precision in Reducing Image Size The Essential Guide to Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outhful-wealth-wonders-a-look-at-ryans-online-riches-for-2024/"><u>[New] Youthful Wealth Wonders A Look at Ryan's Online Riches for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1300-samsung-odyssey-vr-headset-now-available-in-major-retailers-like-walmart-and-target/"><u>$1,300 Samsung Odyssey VR Headset Now Available in Major Retailers Like Walmart and Target</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevate-your-drone-experience-with-these-essentials/"><u>Elevate Your Drone Experience with These Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-hyperx-alloy-origins-core-board-outstanding-construction-with-mediocre-keys-a-buyers-guide/"><u>Evaluating the HyperX Alloy Origins Core Board: Outstanding Construction with Mediocre Keys - A Buyer's Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-vob-naar-avi-codec-konverter-mobavivi/"><u>Gratis VOB Naar Avi Codec Konverter - Mobavivi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturing-the-essence-recording-conversations-on-whatsapp-efficiently/"><u>In 2024, Capturing the Essence Recording Conversations on WhatsApp Efficiently</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-essential-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>In 2024, Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-screen-record-wizard-for-win11-enthusiasts/"><u>In 2024, Screen Record Wizard for Win11 Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-taming-the-lag-in-elder-scrolls-onlines-blackwood-expansion/"><u>Resolved - Taming the Lag in Elder Scrolls Online's Blackwood Expansion</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-big-savings-walmarts-labor-day-offer-on-nintendo-switch-oled-with-a-sweet-60-discount-according-to-zdnet-news/"><u>Score Big Savings: Walmart's Labor Day Offer on Nintendo Switch OLED with a Sweet $60 Discount, According to ZDNet News</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-xbox-gaming-headsets-comprehensive-reviews-and-testing-by-experts-zdnet/"><u>Top-Rated Xbox Gaming Headsets : Comprehensive Reviews and Testing by Experts - ZDNet</u></a></li>
+</ul></div>
 

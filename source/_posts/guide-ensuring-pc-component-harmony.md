@@ -1,7 +1,7 @@
 ---
 title: "Guide: Ensuring PC Component Harmony"
-date: 2024-08-22T22:30:06.611Z
-updated: 2024-08-23T22:30:06.611Z
+date: 2024-12-28T04:42:37.648Z
+updated: 2025-01-03T20:38:30.129Z
 tags:
   - games
 categories:
@@ -24,7 +24,15 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ![pcpartpicker muo example pc build](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcpartpicker-muo-example-pc-build.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can find motherboards, hard drives, CPUs, power supply units, and everything else you need on PCParkPicker, and its easy-to-use interface, Build Guides, and Completed Builds sections are great for newcomers or those that want some inspiration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Manufacturer Website
 
@@ -34,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ![intel i9 13900k spec sheet 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intel-i9-13900k-spec-sheet-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. GPU Check
 
 [GPU Check](https://www.gpucheck.com/gpu-benchmark-comparison) is a handy tool for figuring out how your CPU and GPU might perform together. Sure, the go-to is typically to buy the biggest and best of both, and when you're building a new PC from scratch, that's a straightforward option.
@@ -58,14 +63,15 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 ![newegg ai pc part picker racing game build budget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/newegg-ai-pc-part-picker-racing-game-build-budget.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The individual component selection works similarly to PCPartPicker, helping you match compatible hardware by eliminating parts that don't work after each selection.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Google Bard (Or Another Internet-Connected AI Chatbot)
 
  The world's leading AI chatbot, ChatGPT, doesn't have direct internet access. Or rather, it did, but it has been switched off at the time of writing. But that's no problem because we can[turn to Google's Bard AI chatbot instead](https://www.makeuseof.com/how-to-use-google-bard/) to help check if our hardware is compatible.
@@ -75,8 +81,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![google bard ai custom pc build prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-ai-custom-pc-build-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Bard suggested the following build for a PC that can "play FPS games at least 1080p 60FPS" with "a high-end CPU and good GPU."
 
 * **CPU** : I[ntel Core i5-12600KF](https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=1a6fdfcfd07f1dc95f9124bd1a532c0a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
@@ -96,32 +103,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![google bard checks custom pc build list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-checks-custom-pc-build-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  In both scenarios, Google Bard helped figure out which PC components were compatible.
 
 ## 6\. Power Supply Calculator
 
  A power supply unit (PSU) calculator is a handy tool that helps you figure out the size of PSU your custom PC will need. There are[several power supply unit calculators](https://www.makeuseof.com/best-online-power-supply-calculators/) , including options from OuterVision, Cooler Master, and Be Quiet!, all of which can help you figure out what you need.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 7\. Forums and Communities
 
  One of the greatest ways to find out what works and what doesn't is to use a PC hardware forum or community, like Linus Tech Tips Forums, Reddit's r/buildapc, and so on. These forums are packed with people passionate about PC building and ensuring your hardware works as it should, and the knowledge of many folks on these forums is second-to-none.
@@ -140,8 +127,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +134,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ase-into-content-creation-crafting-the-top-10-accessible-youtube-videos-for-2024/"><u>[New] Ease Into Content Creation Crafting the Top 10 Accessible YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-10-best-youtube-keyword-tools-to-get-more-views/"><u>[New] In 2024, 10 Best YouTube Keyword Tools to Get More Views</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-social-crosslink-instagram-and-tiktok-guide/"><u>[New] Mastering Social Crosslink Instagram & TikTok Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cutting-edge-fb-video-ads-mastery-with-free-toolset/"><u>[Updated] Cutting-Edge FB Video Ads Mastery with FREE Toolset</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-creators-guide-turn-viewers-into-paychecks/"><u>[Updated] In 2024, The Creator’s Guide Turn Viewers Into Paychecks</u></a></li>
+<li><a href="https://games-able.techidaily.com/decrease-disk-footprint-efficiently-compress-your-retro-game-isos-with-chdman/"><u>Decrease Disk Footprint: Efficiently Compress Your Retro Game ISOs with ChDMan</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-repairing-ps4-pad-problems-with-ease/"><u>Efficiently Repairing Ps4 Pad Problems with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-your-mind-with-the-latest-nyt-brain-teaser-strands/"><u>Engage Your Mind with the Latest NYT Brain Teaser - Strands!</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-top-displays-analyzing-oled-amoled-and-lcd/"><u>Exploring Top Displays: Analyzing OLED, AMOLED and LCD</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-8-plus-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 8 Plus with 3 Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/lightgblade-27m2v-econogamer-monitor/"><u>LightGBlade 27M2V - EconoGamer Monitor!</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-bridging-the-real-and-simulated-divide-at-499/"><u>MOZA R5: Bridging the Real and Simulated Divide at $499</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/superior-sound-recorders-for-scholarly-discussions/"><u>Superior Sound Recorders for Scholarly Discussions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ephemeral Games – Curiosity or Concerns?
-date: 2024-12-19T18:57:44.327Z
-updated: 2024-12-25T20:31:06.299Z
+date: 2025-01-02T16:04:49.078Z
+updated: 2025-01-04T16:06:04.979Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
  Game servers for two much-loved games recently shut down, destroying millions of user-created levels. Why did this happen and is there anything you can do about it?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are Game Servers?
@@ -48,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
  Worse, servers can be shut down permanently if their owners don’t see enough value in keeping them running. This happened in April 2024 with two much-loved platforming games losing their user-generated levels. Game servers that hosted player-made levels for both Super Mario Maker (Wii U, 3DS) and LittleBigPlanet 3 (PlayStation 3 and 4) were closed forever.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Games Run Using a Server?
 
 ![A promotional image showing a Fortnite character based on Billie Eilish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/fortnite-festival-season-3-1920x1080-5bb5103dc240.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Epic Games](https://www.fortnite.com/news/fortnite-festival-season-3-features-billie-eilish)
 
@@ -78,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
 ![The inside of an old computer with cobwebs stretched out among the cables.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_688683298.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gennady Grechishkin/[Shutterstock](https://www.shutterstock.com/image-photo/old-computer-system-unit-spiderweb-dust-688683298)
 
  Long-running game servers are few and far between, although Furcadia’s servers have been up and running for 30 years. The majority of very popular server-backed games have only been around for the last decade or so, and are still running, with large customer bases.
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
  The Overwatch 1 servers lasted just six years, and[the game is now officially dead](https://gamerant.com/overwatch-servers-shutdown-status-offline/) . But that decision was simply to make way for the game’s sequel. Generally, a game server stays up for at least as long as a console generation. Publishers could argue that anything beyond this is a sign of goodwill.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Happens When Servers Shut Down?
@@ -121,22 +121,20 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-merge-worlds-easily-linking-instagram-and-facebook-accounts/"><u>2024 Approved Merge Worlds Easily Linking Instagram & Facebook Accounts</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-dreams-or-realistic-retainment/"><u>Digital Dreams or Realistic Retainment?</u></a></li>
-<li><a href="https://games-able.techidaily.com/dont-join-linkedin-game-craze-risks-included/"><u>Don't Join LinkedIn Game Craze - Risks Included</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-immersion-top-vr-options-reviewed/"><u>Economical Immersion: Top VR Options Reviewed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortnites-mac-compatibility-savor-the-joy-with-caution/"><u>Fortnite's Mac Compatibility - Savor the Joy with Caution</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-plays-pc-gaming-elite-list-betas-first/"><u>Google Play's PC Gaming Elite List - Betas First</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-lenovo-thinkphone-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lenovo ThinkPhone Pattern Lock Screen</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-innovative-techniques-for-unique-canon-timelapse-vids/"><u>In 2024, Innovative Techniques for Unique Canon Timelapse Vids</u></a></li>
-<li><a href="https://techidaily.com/is-your-samsung-galaxy-s23plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S23+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-blank-displays-in-win-os/"><u>Mastering the Art of Fixing Blank Displays in WIN OS</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/izing-video-impact-a-comprehensive-guide-to-youtube-popularity/"><u>Maximizing Video Impact A Comprehensive Guide to YouTube Popularity</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-no-driver-found-issues-on-your-windows-11-8-or-7-device/"><u>Resolving No Driver Found Issues on Your Windows 11, 8 or 7 Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/temptation-of-speed-led-to-my-downfall/"><u>Temptation of Speed Led to My Downfall</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-compilation-of-high-end-elgato-stream-decks/"><u>The Ultimate Compilation of High-End Elgato Stream Decks</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-gaming-spectacles-with-uv-protection/"><u>Top Gaming Spectacles with UV Protection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-11-installation-steps-get-your-pc-upgraded-with-the-latest-operating-system/"><u>Windows 11 Installation Steps: Get Your PC Upgraded with the Latest Operating System</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-daily-dose-of-tiktok-motivation-the-elite-fifteen-for-2024/"><u>[New] Daily Dose of TikTok Motivation The Elite Fifteen for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-step-by-step-for-xml-and-ttml-conversion-to-streamlined-srts/"><u>[New] Step-by-Step for XML & TTML Conversion to Streamlined SRTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-your-phones-alerts-with-tailored-audio-choices-for-android/"><u>[New] Transforming Your Phone's Alerts with Tailored Audio Choices for Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-a-list-nintendo-switch-fighter-titles-max-156/"><u>[Updated] A-List Nintendo Switch Fighter Titles (Max 156)</u></a></li>
+<li><a href="https://games-able.techidaily.com/escaping-gaming-fatigue-6-refreshing-approaches/"><u>Escaping Gaming Fatigue: 6 Refreshing Approaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-crucial-mouse-features-that-define-elite-gaming-devices/"><u>Five Crucial Mouse Features that Define Elite Gaming Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/gigaware-usb-interface-software-for-windows-secure-your-downloads-now/"><u>Gigaware USB Interface Software for Windows - Secure Your Downloads Now</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-11-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 11 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ions-pro-3-unveiled-a-camera-ready-to-conquer-action-scenes-for-2024/"><u>ION's Pro 3 Unveiled - A Camera Ready to Conquer Action Scenes for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-xbox-game-pass-ultimate-your-next-step/"><u>Is Xbox Game Pass Ultimate Your Next Step?</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-platform-battle-series-x-vs-pc-builds/"><u>Next Gen Platform Battle: Series X Vs. PC Builds</u></a></li>
+<li><a href="https://games-able.techidaily.com/pros-of-pushing-back-video-game-dates/"><u>Pros of Pushing Back Video Game Dates</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-inner-hero-in-the-ultimate-free-game-collection/"><u>Unleash Your Inner Hero in The Ultimate Free Game Collection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-your-graphics-card-to-enable-miracast-functionality-successfully/"><u>Update Your Graphics Card to Enable Miracast Functionality Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-ps3-games-with-ps4-device/"><u>Using PS3 Games with PS4 Device</u></a></li>
 </ul></div>
 

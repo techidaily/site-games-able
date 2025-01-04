@@ -1,7 +1,7 @@
 ---
 title: "Neglected Consequences: Devs Getting Paid by Players"
-date: 2024-12-20T04:42:11.752Z
-updated: 2024-12-26T01:55:41.196Z
+date: 2024-12-30T16:00:44.603Z
+updated: 2025-01-04T16:00:02.451Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Tipping game developers could be an option, but other methods like crowdfunding and Patreon already exist.
@@ -30,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 * Tipping culture in gaming may lead to low pay and poor conditions; a sustainable gaming economy is crucial for the future of the industry.
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who’s Suggesting We Tip Game Developers?
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
@@ -51,12 +51,16 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
@@ -67,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Negative Effects of Tipping Culture
 
  My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and[the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
@@ -75,17 +83,9 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -124,17 +124,14 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-beatniks-guide-to-music-enhanced-snapchats/"><u>[New] Beatniks' Guide to Music-Enhanced Snapchats</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-serenade-selections-romantic-anthems-for-the-big-decision/"><u>2024 Approved Serenade Selections Romantic Anthems for The Big Decision</u></a></li>
-<li><a href="https://games-able.techidaily.com/daily-skills-to-surpass-the-new-york-social-ladder/"><u>Daily Skills to Surpass the New York Social Ladder</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-remedying-the-culprit-behind-cpu-spikes-svchostexe-on-windows-10/"><u>Diagnosing and Remedying the Culprit Behind CPU Spikes: svchost.exe on Windows 10</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-virtual-worlds-with-smart-3d-modeling/"><u>Enhancing Virtual Worlds with Smart 3D Modeling</u></a></li>
-<li><a href="https://games-able.techidaily.com/freezing-files-no-more-clearing-steams-content-file-locked/"><u>Freezing Files No More: Clearing Steam’s Content File Locked</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-v29-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo V29 Pro Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Max Passcode Screen?</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovating-video-games-chatgpts-contribution/"><u>Innovating Video Games: ChatGPT's Contribution</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-plan-a-gamers-dream-on-xbox/"><u>The Ultimate Plan: A Gamer's Dream on Xbox?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-eliminating-grey-edges-on-video-a-youtube-fix-guide/"><u>[New] In 2024, Eliminating Grey Edges on Video A YouTube Fix Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/dealing-with-game-pass-price-increase-quick-wins/"><u>Dealing with Game Pass Price Increase - Quick Wins</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-finest-10-game-apps-no-paid-extras/"><u>Discover the Finest 10 Game Apps - No Paid Extras</u></a></li>
+<li><a href="https://games-able.techidaily.com/ephemeral-games-pondering-their-relevance/"><u>Ephemeral Games – Pondering Their Relevance</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/guide-simple-pour-changer-des-fichiers-mkv-en-mp4-avec-qualite-dimages-optimale-et-rapidite/"><u>Guide Simple Pour Changer Des Fichiers MKV en MP4 Avec Qualité D'Images Optimale Et Rapidité</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-avoid-uncontrolled-mouse-scrolling/"><u>How to Avoid Uncontrolled Mouse Scrolling</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-behind-glasses-and-screens-vrs-evolutionary-tale/"><u>In 2024, Behind Glasses and Screens VR’s Evolutionary Tale</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-structuring-stimulating-podcast-trailers/"><u>In 2024, Structuring Stimulating Podcast Trailers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/launch-alert-new-apple-releases-including-macbook-air-and-ipads-may-arrive-by-spring-season/"><u>Launch Alert: New Apple Releases Including MacBook Air & iPads May Arrive by Spring Season</u></a></li>
 </ul></div>
 

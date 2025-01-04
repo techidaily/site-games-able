@@ -1,7 +1,7 @@
 ---
 title: Eight Clever Comic Competitions to Amuse Your Chat Pals
-date: 2024-08-22T22:30:21.569Z
-updated: 2024-08-23T22:30:21.569Z
+date: 2025-01-02T17:02:43.705Z
+updated: 2025-01-04T03:56:16.090Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 ---
 
 ## Eight Clever Comic Competitions to Amuse Your Chat Pals
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,9 +40,6 @@ Close
 
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 2 20 Questions
 
 Close
@@ -48,6 +49,10 @@ Close
  One of you thinks of an object or a person, while the other fires questions at them via text or messages. Your "Yes/No" responses help the guesser narrow down the possibilities until they can make an educated guess as to exactly what it is you were thinking of.
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 I Spy
 
@@ -59,9 +64,6 @@ Close
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Song Lyrics
 
 Close
@@ -71,6 +73,10 @@ Close
  The**Song Lyrics** game plays on that by having one person quote lines from a song to the other via text or in a messaging thread. The other person then has to guess the song the lyrics are from. It helps if this is played with someone you're close to or with whom you share similar music tastes. Because if you choose a metal song, your classical music-loving mother is unlikely to ever guess correctly.
 
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Abbreviations
 
@@ -82,9 +88,6 @@ Close
 
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 List Builder
 
 Close
@@ -96,8 +99,9 @@ Close
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7 Where Am I?
 
 Close
@@ -108,9 +112,6 @@ Close
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8 Kiss, Marry, Kill
 
 Close
@@ -132,9 +133,9 @@ Close
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10 Simple Quiz
 
 Close
@@ -147,14 +148,11 @@ Close
 
  These games range from the simple to the more complex. But they're all supremely playable between any two (or more) people with mobile phones to hand. And remember that while most people will use a messaging app such as Messenger or Telegram, they're even playable using old-school SMS text messages.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,4 +161,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/accelerate-vimeo-videos-the-guide/"><u>Accelerate Vimeo Videos The Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discover-unseen-display-options-in-windows-11/"><u>Discover Unseen Display Options in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-programs-for-photo-based-videography/"><u>Essential Programs for Photo-Based Videography</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-chatgpt-app-up-and-running-again-9-proven-troubleshooting-tips-for-iphones/"><u>Get Your ChatGPT App Up and Running Again: 9 Proven Troubleshooting Tips for iPhones.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-drivers-in-windows-11107-by-drivereasy-guide/"><u>How to use Device Manager to update drivers in Windows 11/10/7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-xr-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone XR With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-bg3-experience-specs-and-add-ons/"><u>Maximize BG3 Experience: Specs and Add-Ons</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mp3-to-youtube-converter-upload-mp3-to-youtube-3-steps-for-2024/"><u>MP3 to YouTube Converter Upload MP3 to YouTube [3 Steps] for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/non-paid-competitive-gaming-the-six-best/"><u>Non-Paid, Competitive Gaming: The SIX Best</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-free-access-the-price-point-for-psplus-members/"><u>Sony's Free Access: The Price Point for PS+ Members</u></a></li>
+<li><a href="https://games-able.techidaily.com/switching-seamlessly-pc-games-with-modern-xbox-joycons-148-chars/"><u>Switching Seamlessly: PC Games with Modern Xbox Joycons (148 Chars)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-iphone-13-pro-max/"><u>Top-Rated Protective Covers for iPhone 13 Pro Max</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-wallets-potential-on-steam/"><u>Unlocking Your Wallet's Potential on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-in-gaming-top-economical-motherboards-listed/"><u>Value in Gaming: Top Economical Motherboards Listed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/whats-new-in-youtube-tv-updates-and-features-in-2024/"><u>What's New in YouTube TV Updates & Features, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-budget-friendly-journey-through-the-world-of-1440p-monitors/"><u>Your Budget-Friendly Journey Through the World of 1440P Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-companion-list-greatest-mobile-mmos/"><u>Your Companion List: Greatest Mobile MMOs</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discord Safety: A Compreayer's Checklist for Parents"
-date: 2024-12-24T20:59:51.530Z
-updated: 2024-12-26T00:19:31.023Z
+date: 2024-12-29T16:00:39.280Z
+updated: 2025-01-04T16:01:45.692Z
 tags:
   - games
 categories:
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Discord, and Why Do Kids Use It?
 
  Discord was launched in 2015, and initially served primarily as a[communication platform for gamers](https://www.makeuseof.com/how-to-get-started-discord-beginners-guide/) . Over the years, it's become a lot more than that, with millions of people around the globe using it every single day. Discord is available on pretty much all platforms and operating systems and can also run in web browsers, so children can access it very easily.
 
  Discord has millions of active communities, or servers, as they are called. New ones are being created daily, since everyone can set up their own server free of charge. Some are private and invite-only, while others are public and can be accessed by anyone with a link. Like everyone else, kids and adolescents can use Discord to socialize, communicate with friends, and engage in various communities centered around their hobbies or interests.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does Discord Have Parental Controls?
 
@@ -48,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Communicate Openly
 
@@ -67,24 +63,28 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
  It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Set Time Limits
 
  Setting time limits is a must as well. Excessive Discord usage (and excessive screen time in general) can have a major impact on a child's mental and physical well-being, influencing their academic performance and social development negatively. It's important to encourage other interests and set boundaries early on, so that the child doesn't develop addiction-like behaviors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Remind Your Kid to Lead by Example
 
  Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Encourage Critical Thinking
 
  And lastly, none of the above will make a real difference if your child isn't encouraged to think critically. It's one thing to be digitally literate, but it's imperative for every kid and teenager to understand how technology actually works, what motivates bad behaviors, how to identify threats, and why taking responsibility is important.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Discord Is as Safe as You Make It
@@ -108,18 +108,19 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-pioneering-8-android-group-chat-applications-over-four-participants/"><u>[New] Pioneering 8 Android Group Chat Applications, Over Four Participants</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-selection-of-6-pioneering-instagram-reel-apps/"><u>[Updated] 2024 Approved The Ultimate Selection of 6 Pioneering Instagram Reel Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-xplits-rival-software-for-effortless-splits/"><u>[Updated] In 2024, Xplit's Rival Software for Effortless Splits</u></a></li>
-<li><a href="https://games-able.techidaily.com/geforce-now-launch-a-significant-step-in-cloud-gaming-evolution/"><u>GeForce Now Launch: A Significant Step in Cloud-Gaming Evolution?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/masterpiece-on-your-iphone-ranking-of-best-free-image-assemblers-for-2024/"><u>Masterpiece on Your iPhone Ranking of Best FREE Image Assemblers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/player-rights-vs-console-policy-xboxs-third-party-controllers-debate/"><u>Player Rights Vs. Console Policy: Xbox's Third-Party Controllers Debate</u></a></li>
-<li><a href="https://games-able.techidaily.com/purchasing-power-in-fortnite-via-playstation-console/"><u>Purchasing Power in Fortnite via PlayStation Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/smart-investments-high-quality-steam-deck-case-picks/"><u>Smart Investments: High-Quality Steam Deck Case Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-playstation-go-anywhere-game-unit-explained/"><u>Sony's PlayStation Go-Anywhere Game Unit Explained</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ilmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://win-web.techidaily.com/the-ultimate-guide-to-cropping-vids-for-instagram-success-discover-three-effective-strategies/"><u>The Ultimate Guide to Cropping Vids for Instagram Success – Discover Three Effective Strategies!</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-ps-vr2-into-a-dream-system/"><u>Transforming PS VR2 Into a Dream System</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1726225829440-wmaflv-movavi/"><u>원격 안정성의 속도를 높이기 위해 WMA/FLV 파일 전환 - Movavi 시적인 유연한 방법</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-intellectual-property-on-instagram/"><u>[New] 2024 Approved Navigating Intellectual Property on Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-a-solid-foundation-windows-10s-video-creation-basics/"><u>Building a Solid Foundation Windows 10'S Video Creation Basics</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-browsing-enable-smooth-gaming-on-chrome/"><u>Efficient Browsing - Enable Smooth Gaming on Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-viewership-top-7-bot-picks-for-twitch/"><u>Enhancing Viewership - Top 7 Bot Picks for Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-edge-against-rivals-in-the-gaming-realm/"><u>Evaluating Edge Against Rivals in the Gaming Realm</u></a></li>
+<li><a href="https://games-able.techidaily.com/eye-for-detail-or-fools-gold-top-6-missteps-in-monitor-choices/"><u>Eye for Detail or Fool's Gold? Top 6 Missteps in Monitor Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-performance-gains-in-winoutlook-today/"><u>Ignite Performance Gains in WinOutlook, Today!</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-13-pro-max-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 13 Pro Max by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c22-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C22 Device</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-depth-look-this-years-unique-tiktok-moves/"><u>In-Depth Look This Year's Unique TikTok Moves</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761837-9781591798514-instant-enlightenment/"><u>Instant Enlightenment | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguard-your-virtual-triumphs-store-screen-images-easily/"><u>Safeguard Your Virtual Triumphs: Store Screen Images Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-arcade-space-with-big-box-backdrops/"><u>Transform Your Arcade Space with Big Box Backdrops</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y200s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y200s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

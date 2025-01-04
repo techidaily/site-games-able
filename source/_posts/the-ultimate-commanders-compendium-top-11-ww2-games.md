@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Commander’s Compendium: Top 11 WW2 Games"
-date: 2024-12-22T03:51:03.583Z
-updated: 2024-12-26T01:25:18.584Z
+date: 2024-12-30T16:05:34.164Z
+updated: 2025-01-04T16:01:26.454Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  If you've never played a Company of Heroes game before, it's easy to jump in here thanks to the Full Tactical Pause feature available in single-player, which lets you pause the action and plan an attack at your own pace.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2. Steel Division 2
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  This is a complex game, and it requires a monumental amount of strategic thinking. If you want to see what World War II must have looked from the highest level of command, this is the game for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4. Order of Battle: World War II
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Thankfully, you can play the first chapter of each campaign pack for free to get a taste of the action. You'll find a slick and detailed game packed full of content—with over 700 units, including infantry, tanks, ships, and aircraft.
 
  If you like traditional turn-based hex gameplay, this is the game for you. It's easy to pick up, but packs a lot of depth, and has some nice animations and effects to keep things interesting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5. Panzer Corps 2
 
@@ -84,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  While there is an online multiplayer mode to keep you happy, you should definitely check out the story mode, which is engrossing and supported by great voice acting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7. War in the East
@@ -103,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  Be warned that this game won't hold your hand and you will find it very difficult. Welcome to World War II.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9. Sudden Strike 4
 
  There's one thing that sets Sudden Strike 4 apart from many of its contemporaries: it's one of the few WW2 strategy games available on PS4 and Xbox One, as well as on PC.
@@ -115,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  If you're looking for a console-based WW2 strategy experience, Sudden Strike 4 is the way to go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10. Unity of Command II
 
  If you only decide to buy one WW2 strategy game, you can't go wrong with Unity of Command II. It's a follow-up to the 2011 cult classic, putting you in command of the Western Allies as you manage their supply and logistics.
@@ -122,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  No two play sessions are the same thanks to dynamic campaigns that branch out with your decisions, meaning you can alter the course of history. Despite that, there's still a keen attention to detail in the units that will please history buffs.
 
  There's also a scenario editor with Steam Workshop support, so you can build your own campaigns and download other people's with ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11. Close Combat
 
@@ -152,22 +152,24 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-rise-to-editing-greatness-with-our-top-10-youtube-tips/"><u>[Updated] 2024 Approved Rise to Editing Greatness with Our Top 10 YouTube Tips</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-visual-storytelling-cropping-and-editing-tips-for-instagram-audiences/"><u>[Updated] 2024 Approved Visual Storytelling Cropping and Editing Tips for Instagram Audiences</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-frame-by-frame-magic-best-video-screenshots-for-2024/"><u>[Updated] Frame-by-Frame Magic Best Video Screenshots for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-frame-rate-showdown-evaluating-30fps-and-60fps-in-videography/"><u>[Updated] In 2024, Frame Rate Showdown Evaluating 30Fps and 60Fps in Videography</u></a></li>
-<li><a href="https://games-able.techidaily.com/fix-freezing-games-on-chrome-easy-steps-ahead/"><u>Fix Freezing Games on Chrome - Easy Steps Ahead</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-optimize-your-gaming-with-steam-big-picture/"><u>How to Optimize Your Gaming With Steam Big Picture</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-11-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 11 Pro? | Stellar</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-riots-name-and-slogan-alteration-process/"><u>Navigating Riot's Name & Slogan Alteration Process</u></a></li>
-<li><a href="https://games-able.techidaily.com/overclocked-obsession-a-cautionary-tale/"><u>Overclocked Obsession: A Cautionary Tale</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-ps5-wi-fi-interferences/"><u>Overcoming PS5 Wi-Fi Interferences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-establish-your-windows-hello-fix-unresponsive-fingerprints/"><u>Re-Establish Your Windows Hello: Fix Unresponsive Fingerprints</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/shutter-free-skyline-images-top-drone-camera-stabilizers-for-2024/"><u>Shutter-Free Skyline Images Top Drone Camera Stabilizers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-ps5-to-pc-gaming-with-simple-steps-and-tips/"><u>Streamlining PS5 to PC Gaming with Simple Steps and Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-to-immersive-playnite-on-tv-with-fs-mode/"><u>Switch to Immersive Playnite on TV with FS Mode</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-list-of-the-best-console-games-for-macs/"><u>The Essential List of the Best Console Games for Macs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlock-full-potential-mac-plus-obs-plus-streamlabs/"><u>Unlock Full Potential Mac + OBS + Streamlabs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-art-of-haul-video-production-and-editing-techniques/"><u>[New] In 2024, The Art of Haul Video Production and Editing Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-5-easy-android-image-fixes/"><u>[New] Top 5 Easy Android Image Fixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-webcamsecure-silk-screen-sticker-for-2024/"><u>[New] WebCamSecure Silk Screen Sticker for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-focusfulness-selecting-online-video-augmenters/"><u>[Updated] Focusfulness Selecting Online Video Augmenters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-delete-youtube-comments-effortlessly/"><u>[Updated] How to Delete YouTube Comments Effortlessly?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-social-media-shifts-yearly-data-visualization-guide-for-2024/"><u>[Updated] Social Media Shifts Yearly Data Visualization Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-revolutionize-slack-discussions-with-10-free-recorders/"><u>2024 Approved Revolutionize Slack Discussions with 10 Free Recorders</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-switches-are-mechanical-keys-superior-for-gamers/"><u>Comparing Switches: Are Mechanical Keys Superior for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/daily-techniques-outshining-new-york-times-elite/"><u>Daily Techniques: Outshining New York Times Elite</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-engagement-idle-game-series/"><u>Effortless Engagement: Idle Game Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-gamers-milestone-ledger/"><u>Elite Gamers' Milestone Ledger</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-leveraging-the-full-visualization-feature-with-google-meets-grids/"><u>In 2024, Leveraging the Full Visualization Feature with Google Meet's Grids</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-into-the-world-of-modded-gaming-with-steams-toolkit/"><u>Journey Into The World of Modded Gaming with Steam’s Toolkit</u></a></li>
+<li><a href="https://games-able.techidaily.com/patent-claims-vs-reality-for-xbox-s-design/"><u>Patent Claims Vs. Reality for Xbox S Design</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revolutionize-your-morning-routine-with-the-ihome-zenergy-bedside-sleep-therapy-machine-a-comprehensive-review/"><u>Revolutionize Your Morning Routine with the IHome Zenergy Bedside Sleep Therapy Machine - A Comprehensive Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-gaming-keyboards-of-2024/"><u>The Best Gaming Keyboards of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-playtime-pact-on-series-xplus/"><u>The Ultimate Playtime Pact on Series X+</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-facebook-the-story-of-its-creation-popularity-and-main-attributes/"><u>Understanding Facebook: The Story of Its Creation, Popularity & Main Attributes</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-switchs-potential-top-3-streamers/"><u>Unlock Switch's Potential: Top 3 Streamers</u></a></li>
 </ul></div>
 

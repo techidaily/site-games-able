@@ -1,7 +1,7 @@
 ---
 title: "Origins of Foddian: A Gaming Journey"
-date: 2024-08-27T17:04:15.885Z
-updated: 2024-08-28T17:04:15.885Z
+date: 2024-12-29T18:23:08.795Z
+updated: 2025-01-03T20:40:44.221Z
 tags:
   - games
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
 
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
 
  There are a few reasons why this title still has a grip on the platforming scene. The first is that it mixes well with the speedrun format. A player can decide to try to finish the game as quickly as possible after mastering the basic mechanics.
@@ -34,16 +38,14 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
 
  Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Rise of Jump King
 
 ![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Jump King is a title that transcends the Foddian game genre. You may have heard about the game thanks to its tendency to be played live on Twitch streams. Speedrunners are especially fond of the small series of Jump King games.
 
  The player starts at the bottom of a tall path, at the pinnacle of which stands a majestic babe. Evidently, the goal of the game is for the player to jump from platform to platform all the way to the top.
@@ -53,15 +55,13 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foddian Games and Content Creation
 
 ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
 
  A player still needs to focus on the game, especially when speedrunning it. However, the punishment for responding to chat is not so severe as to ruin your game. In other titles, like shooters or racers, you may end up dying to an opponent or losing a race if you are distracted.
@@ -84,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
 
  While Foddian games are simple in design, the execution is magnificently intricate. They present a fun challenge for players, one you can ride all the way to victory at the top of the map.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
@@ -91,27 +95,22 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
  Within the genre of Foddian games, numerous titles emulate the addicting frustration of games like Getting Over With Bennett Foddy. Of these games, titles like QWOP, an aggravating sprinting game in which you need to order every limb of your runner to move, or the classic browser game Happy Wheels, are some of the most popular Foddian-like games. That said, tons of[difficult browser games](https://www.makeuseof.com/tag/the-hardest-games-in-the-whole-wide-world/) also provide a similar Foddian experience.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: How Long Is Only Up!?
 
  A popular Foddian game, Only Up! takes around 40 to 120 minutes to complete. However, because of the game's difficulty, it will more than likely take quite a lot longer than the listed competition time, especially due to a lack of checkpoints. Because of this, you may be looking at a completion time of around four to five hours depending on your skill level.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: Who Popularized the Only Up! Game?
 
  While Only Up! was popularized by streaming communities, if you're wondering which streamer first brought the game to a larger audience, KaiCenet first played Only Up! on the ninth of June 2023, to an audience of 55.8 thousand viewers. From this point on, the popularity of Only Up!, much like other Foddian games, grew exponentially within gaming communities.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +119,23 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown/"><u>[New] 2024 Approved Chilly Competition Unveiling Highlights of 2022'S Snowboard Cross Showdown</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ree-film-and-image-repository-highlights-for-2024/"><u>[New] Free Film and Image Repository Highlights for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-tiktok-food-10-most-popular-tiktok-food-trends/"><u>[New] In 2024, Tiktok Food | 10 Most Popular Tiktok Food Trends</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-insights-into-huawei-p10s-software-optimization-and-updates/"><u>[Updated] 2024 Approved Insights Into Huawei P10’s Software Optimization and Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginners-guide-to-the-best-logitech-g2n9-racing-steering-wheel-an-in-depth-analysis-for-new-gamers/"><u>Beginner's Guide to the Best Logitech G2n9 Racing Steering Wheel - An In-Depth Analysis for New Gamers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-dailymotion-videos-online-for-free-no-downloads-for-2024/"><u>Convert Dailymotion Videos Online for Free - No Downloads for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discounted-bundle-offer-xbox-4k-max-and-amazon-fire-tv-stick-for-only-10895-plus-free-access-to-xbox-games-shop-smart-on-zdnet/"><u>Discounted Bundle Offer! Xbox 4K Max & Amazon Fire TV Stick for Only $108.95 + Free Access to Xbox Games | Shop Smart on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-labor-day-sale-up-to-60-off-the-new-nintendo-switch-oled-shop-now-at-walmart/"><u>Exclusive Labor Day Sale: Up to $60 Off the New Nintendo Switch OLED - Shop Now at Walmart!</u></a></li>
+<li><a href="https://games-able.techidaily.com/hp-victus-15l-laptop-now-only-520-a-steal-at-nearly-40-discounted-price-learn-more-here/"><u>HP Victus 15L Laptop Now Only $520: A Steal at Nearly 40% Discounted Price! - Learn More Here</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-s17-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo S17 Pro FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-hyperx-cloud-alpha-wireless-headset-evaluation-exceptional-long-lasting-battery-performance-for-gamers-and-music-lovers-techradar/"><u>In-Depth HyperX Cloud Alpha Wireless Headset Evaluation: Exceptional Long-Lasting Battery Performance for Gamers & Music Lovers - TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/limited-time-offer-save-350-on-the-hp-victus-15-exclusive-deal-from-best-buy-this-labor-day-techspot/"><u>Limited-Time Offer: Save $350 on the HP Victus 15 - Exclusive Deal From Best Buy This Labor Day | TechSpot</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-video-resizing-on-clipchamp-ultimate-guide-and-top-alternatives-explored/"><u>Mastering Video Resizing on Clipchamp: Ultimate Guide and Top Alternatives Explored</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-fit-review/"><u>Samsung Galaxy Fit Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-must-play-nintendo-switch-titles-insights-from-zdnet/"><u>Top 5 Must-Play Nintendo Switch Titles : Insights From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-tunes-apps-win-edition/"><u>Top Tunes Apps Win Edition</u></a></li>
+</ul></div>
 

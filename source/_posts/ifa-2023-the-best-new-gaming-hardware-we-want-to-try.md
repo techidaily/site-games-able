@@ -1,7 +1,7 @@
 ---
 title: "IFA 2023: The Best New Gaming Hardware We Want to Try"
-date: 2024-12-19T23:21:50.639Z
-updated: 2024-12-25T16:12:04.512Z
+date: 2025-01-03T16:01:21.183Z
+updated: 2025-01-04T16:01:45.417Z
 tags:
   - games
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lenovo's Triple Header
 
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![Windows running on Lenovo Legion Go](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
  At first glance, it's evident that Lenovo is making a significant push to be a big player in the portable PC gaming realm, competing against Valve's Steam Deck and Asus' ROG Ally. Yes, it's running Windows 11, just like the Ally. And yes, it utilizes a trackpad that the Steam Deck proved is a necessity.
@@ -70,20 +62,20 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![Lenovo Legion Go with Kickstand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-kickstand.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  The Lenovo Legion GO is scheduled to launch on October 31, 2023, for $799.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lenovo Legion Glasses
 
 ![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -93,19 +85,11 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![legion-glasses-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  The Lenovo Legion Glasses can connect to virtually any device that supports USB-C Alt mode, which includes everything from laptops to iPads sporting a USB-C port via its unattachable 4-foot USB-C cable. If the cord breaks, the glasses are busted. That's still an odd choice by Lenovo, but we'll entertain the idea.
 
 ![Cord of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-cord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
@@ -117,9 +101,17 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lenovo Legion 9i
 
 ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -143,9 +135,17 @@ The Legion 9i features a:
 
 The Lenovo Legion 9i will be available starting October 2023.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MSI GAMING SLIM Series Graphics Cards
 
 ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -158,6 +158,10 @@ The Lenovo Legion 9i will be available starting October 2023.
  Image Credit: Gavin Phillips/MakeUseOf
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tecno MegaMini Watercooled Mini PC
 
@@ -178,10 +182,6 @@ Both versions of the Tecno MegaMini sport:
 
 No word on the price or release date yet, but color us intrigued.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## IFA 2023: Gaming Hardware Worth Talking About
 
  At the very least, the gaming hardware unveilings at IFA 2023 gave us plenty to discuss in the coming months. Between Lenovo's monster push into Legion becoming a serious gaming brand to gaming hardware vying to become as small as possible, it's writing on the wall that shows you what to expect in the near future. However, one question remains: Can your wallet handle the gaming hardware on the horizon?
@@ -201,17 +201,20 @@ No word on the price or release date yet, but color us intrigued.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-unveiling-top-tier-seeds-for-optimal-growth-in-valheim/"><u>[New] Unveiling Top-Tier Seeds for Optimal Growth in Valheim</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-altitude-achieved-a-critical-look-at-gopro-karma-for-2024/"><u>[Updated] Altitude Achieved A Critical Look at GoPro Karma for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-rid-of-filmora-watermark-with-or-without-subscription-for-2024/"><u>Get Rid of Filmora Watermark With or Without Subscription for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-motorola-defy-2-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Motorola Defy 2</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-premium-on-linkedin-a-wise-investment-heres-why/"><u>Is Premium on LinkedIn a Wise Investment? Here's Why</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-showdown-ultimate-gaming-browser-guide/"><u>Opera GX and Edge Showdown: Ultimate Gaming Browser Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/securely-deleting-old-ps5-backup-games/"><u>Securely Deleting Old PS5 Backup Games</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-mobile-mmo-rankings-unveiled/"><u>Ultimate Mobile MMO Rankings Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-live-golds-evolution-into-a-game-pass-powerhouse-subscription/"><u>Xbox Live Gold's Evolution Into a Game Pass Powerhouse Subscription</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cinematic-excellence-discover-the-best-15-gopro-action-cam-luts/"><u>[New] Cinematic Excellence Discover the Best 15 GOPRO Action Cam LUTs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-step-by-step-strategies-for-thriving-on-stardews-exotic-hidden-gem-ginger-island/"><u>[New] Step-by-Step Strategies for Thriving on Stardew’s Exotic, Hidden Gem – Ginger Island</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlocking-the-secrets-of-text-styling-in-discord/"><u>[New] Unlocking the Secrets of Text Styling in Discord</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-sound-fidelity-at-home-mastering-quality-recordings/"><u>[Updated] Sound Fidelity at Home Mastering Quality Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-deciphering-filmora-a-quest-for-visual-storytelling-clarity/"><u>2024 Approved Deciphering Filmora A Quest for Visual Storytelling Clarity</u></a></li>
+<li><a href="https://win-blog.techidaily.com/busting-blockades-effective-fixes-to-launch-tech-savvy-gamers-into-tekken-8-on-personal-computers/"><u>Busting Blockades: Effective Fixes to Launch Tech-Savvy Gamers Into Tekken 8 on Personal Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/economic-gamers-guide-to-premium-refresh-rate-screens/"><u>Economic Gamers' Guide to Premium Refresh Rate Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/ergonomic-victory-ideal-seating-solutions-for-tall-gamers/"><u>Ergonomic Victory: Ideal Seating Solutions for Tall Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-sony-handheld-console-ps-lite/"><u>Exploring the Sony Handheld Console: PS Lite</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-asus-tuf-proart-vs-prime-brand-analysis/"><u>In-Depth: Asus, Tuf, ProArt Vs. Prime Brand Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-adding-gif-reactions-to-your-instagram-comments/"><u>Mastering the Art of Adding GIF Reactions to Your Instagram Comments</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-walled-gardens-open-playgrounds-for-all/"><u>No More Walled Gardens: Open Playgrounds For All</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-gaming-and-its-stance-on-in-game-purchases/"><u>Premium Gaming and Its Stance on In-Game Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/tie-your-controller-to-your-cell-with-ease/"><u>Tie Your Controller to Your Cell with Ease</u></a></li>
 </ul></div>
 

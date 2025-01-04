@@ -1,7 +1,7 @@
 ---
 title: "PlayStation Meets Joy-Con: A New Gaming Hybrid Experience"
-date: 2024-12-20T07:08:34.512Z
-updated: 2024-12-25T19:48:49.507Z
+date: 2024-12-28T16:04:05.807Z
+updated: 2025-01-04T16:04:46.415Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 ![Close up of 8BitDo Wireless Adapter 2 box and component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-box-and-component.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You’ll need a few things before you start, including a PlayStation Controller and a Bluetooth adapter. The latter can be picked up online cheaply and will be essential to the process; we recommend the[8Bitdo Wireless USB Adapter 2](https://www.amazon.com/8Bitdo-Raspberry-Compatible-Controller-Bluetooth/dp/B09M8CVMYF?th=1&linkCode=ll1&tag=muo-v2-7ejka4c-20&linkId=863c4d00a0d38154b6d8bfec201770d5&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2011626&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fhow-to-connect-ps4-ps5-controller-to-nintendo-switch%2F&asc%5Fcampaign=Evergreen) . The process for both DualShock 4 and DualSense controllers is essentially the same.
@@ -45,29 +45,25 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
 ![Close up of 8BitDo Wireless Adapter 2 pairing button-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-pairing-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
@@ -82,12 +78,16 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 ![Close up of the PlayStation 5 DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/close-up-of-the-playstation-5-dualsense-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
 
@@ -110,19 +110,16 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-camouflaged-consumer-of-facebook-feeds/"><u>2024 Approved Camouflaged Consumer of Facebook Feeds</u></a></li>
-<li><a href="https://win-best.techidaily.com/1728491201401-windows/"><u>効率よくWindows オペレーティングシステムなしでファイル移行の手順</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-solutions-to-fix-realtek-rtl8723be-driver-errors-on-windowslinux/"><u>Effective Solutions to Fix Realtek RTL8723BE Driver Errors on Windows/Linux</u></a></li>
-<li><a href="https://games-able.techidaily.com/encrypt-your-gameplay-adding-a-lock-to-your-nintendo-switch/"><u>Encrypt Your Gameplay: Adding a Lock to Your Nintendo Switch</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-nokia-c12-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Nokia C12 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-share-audio-waves-with-followers-on-instagram/"><u>In 2024, Share Audio Waves with Followers on Instagram</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-t2x-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo T2x 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-your-chat-clean-master-the-art-of-twitch-banning-and-unbanning/"><u>Keep Your Chat Clean: Master the Art of Twitch Banning & Unbanning</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/mastering-the-art-of-engaging-unboxing-reels-for-2024/"><u>Mastering the Art of Engaging Unboxing Reels for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/netflix-troubleshooting-made-easy-overcoming-error-ui-800-3/"><u>Netflix Troubleshooting Made Easy: Overcoming Error UI-800-3</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-return-strategies-ensuring-money-retrieval-success/"><u>Steam Return Strategies: Ensuring Money Retrieval Success</u></a></li>
-<li><a href="https://win-blog.techidaily.com/tackling-connectivity-errors-for-a-smoother-experience-in-granblue-fantasy-on-pc/"><u>Tackling Connectivity Errors for a Smoother Experience in Granblue Fantasy on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-shine-guide-ps5s-deep-clean/"><u>The Ultimate Shine Guide: PS5's Deep Clean</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-live-gold-evolves-into-game-pass-essentials/"><u>Xbox Live Gold Evolves Into Game Pass Essentials</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-exploring-depths-smoothly-premium-camcorders-for-water-sports/"><u>[New] 2024 Approved Exploring Depths Smoothly Premium Camcorders for Water Sports</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-beyond-likes-the-unseen-world-of-instagram-story-audiences/"><u>[New] Beyond Likes The Unseen World of Instagram Story Audiences</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-export-live-webcam-video-through-vlc/"><u>[New] In 2024, Export Live Webcam Video Through VLC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-techniques-to-write-persuasive-videographic-dialogues/"><u>[Updated] Techniques to Write Persuasive Videographic Dialogues</u></a></li>
+<li><a href="https://games-able.techidaily.com/diy-nintendo-switch-new-joystick-installation/"><u>DIY Nintendo Switch: New Joystick Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-mini-led-pixelmaster-hd/"><u>Economical Mini-LED PixelMaster HD</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/guide-complet-pour-une-restauration-efficace-des-fichiers-sur-un-disque-ssd-m2/"><u>Guide Complet Pour Une Restauration Efficace Des Fichiers Sur Un Disque SSD M.2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-worth-getting-chatgpt-plus-here-are-five-convincing-motivators-you-need-to-know/"><u>Is It Worth Getting ChatGPT Plus? Here Are Five Convincing Motivators You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-path-to-conjoined-epic-steam-play/"><u>Navigating the Path to Conjoined Epic-Steam Play</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-infinix-smart-8-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Infinix Smart 8 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-vits-and-early-starfield-entry/"><u>Understanding VITS and Early Starfield Entry</u></a></li>
 </ul></div>
 

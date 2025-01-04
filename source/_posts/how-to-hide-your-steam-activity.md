@@ -1,7 +1,7 @@
 ---
 title: How to Hide Your Steam Activity
-date: 2024-12-20T04:43:54.403Z
-updated: 2024-12-25T19:21:42.575Z
+date: 2024-12-30T16:01:08.026Z
+updated: 2025-01-04T16:00:37.598Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Hide Played Steam Games
 
  When someone visits your profile, they can see which games you’ve played and for how many hours. Now, if you don’t want your gamer friends to discover your guilty pleasures, you can hide your played games from your profile.
@@ -36,11 +40,7 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![Hide Steam played games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-played-games-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Hide Steam Games From Your Library
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![Unhide Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/unhide-game-steam-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hiding a game is an easy trick, but it might not be enough to prevent other people from finding it. In this case, you can[uninstall a Steam game and reinstall it later](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) .
 
 ## 3\. Hide Steam Gameplay Activity
@@ -67,17 +71,9 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![Set status to Invisible on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-invisible-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The**Offline** option will log you out of the Steam chat, so you’ll not receive any messages from your friends. On the other hand, if you still want to communicate with your friends, it’s better to select**Invisible** . Also, you will not receive any invitations on Steam while you’ve set your status as**Offline** or**Invisible** .
 
  Besides hiding your Steam gameplay activity, you can[customize the in-game activity status on Steam](https://www.makeuseof.com/how-to-customize-in-game-activity-status-steam/) to confuse your friends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Hide Steam Gameplay Activity for Specific Friends
 
@@ -106,11 +102,11 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![Watch Steam's free watchables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-free-watchable-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Go through the above steps two or three more times, but play different episodes. Steam will try to replace your recent activities, but because it couldn’t properly play the episodes, it will simply remove the previous Recent Activity version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Make Your Steam Profile Private
 
@@ -124,6 +120,10 @@ Follow these steps to set your profile to Private:
 4. Set**My profile** to**Private** .
 
 ![Set Steam profile to Private](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-private-profile-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Keep Steam Private
 
@@ -146,22 +146,19 @@ Follow these steps to set your profile to Private:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-toolwiz-photos-app-complete-review-2023/"><u>[New] 2024 Approved Toolwiz Photos App - Complete Review 2023</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-capture-gameplay-prowess-on-android-screens/"><u>[New] In 2024, Capture Gameplay Prowess on Android Screens</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-plunge-into-quality-leading-camcorders-for-aquatic-adventurers/"><u>[New] Plunge Into Quality Leading Camcorders for Aquatic Adventurers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-screenrecord-tips-and-tricks-on-a-laptop-for-2024/"><u>[New] Top 10 ScreenRecord Tips and Tricks on a Laptop for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-winning-strategies-the-complete-vegas-pro-21-review/"><u>[New] Winning Strategies The Complete Vegas Pro '21 Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-elevate-your-gaming-experience-discovering-kinemasters-potential/"><u>2024 Approved Elevate Your Gaming Experience - Discovering KineMaster's Potential</u></a></li>
-<li><a href="https://games-able.techidaily.com/daily-workstations-vs-ultimate-game-machines/"><u>Daily Workstations Vs. Ultimate Game Machines</u></a></li>
-<li><a href="https://games-able.techidaily.com/dealing-with-windows-1011s-zero-x-0x887a0006-failure/"><u>Dealing with Windows 10/11'S Zero X: 0X887A0006 Failure</u></a></li>
-<li><a href="https://games-able.techidaily.com/embark-on-a-global-gaming-journey-with-switch/"><u>Embark on a Global Gaming Journey with Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/enabling-ps5-party-mode-sharing/"><u>Enabling PS5 Party Mode Sharing</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-ps-experience-with-effective-shopping/"><u>Enhance Your PS Experience with Effective Shopping</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-benefits-of-xbox-game-pass-ultimate/"><u>Explore the Benefits of Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://games-able.techidaily.com/gpd-win-4-vs-traditional-computing-devices/"><u>GPD Win 4 vs Traditional Computing Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/peaceful-pixel-play-idling-worlds/"><u>Peaceful Pixel Play: Idling Worlds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/seamless-edits-await-best-freeware-on-android-for-2024/"><u>Seamless Edits Await Best Freeware on Android for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-facebook-twitter-instagram-and-youtube-unveiled/"><u>Social Media Titans: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-notch-laptop-bargains-in-july-2024-tech-insights-by-zdnet/"><u>Top Notch Laptop Bargains in July 2024 | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-from-large-files-to-tiny-previews-crafting-stunning-thumbnails-for-2024/"><u>[New] From Large Files to Tiny Previews Crafting Stunning Thumbnails for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-screen-capture-mastery-windows-edition-free-3-methods/"><u>[Updated] 2024 Approved Screen Capture Mastery Windows Edition (Free, 3 Methods)</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-joy-of-gaming-youtubes-new-minigames-invite-you-to-play/"><u>Discover the Joy of Gaming: YouTube’s New Minigames Invite You to Play!</u></a></li>
+<li><a href="https://games-able.techidaily.com/harnessing-full-power-of-steam-deck-through-effective-docking/"><u>Harnessing Full Power of Steam Deck Through Effective Docking</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-6-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-symphonic-sounds-windows-edition/"><u>In 2024, Symphonic Sounds Windows Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-luminances-hdr-suitable-for-production-in-2024/"><u>Is Luminance's HDR Suitable for Production, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/legends-of-the-spark-the-shiny-quest-edition-73/"><u>Legends of the Spark: The Shiny Quest Edition (73)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-itel-p55t-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Itel P55T? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/savor-fun-in-isolation-selecting-best-mobile-games/"><u>Savor Fun in Isolation - Selecting Best Mobile Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stability-enhancement-tips-preventing-repeated-crashes-in-mystic-sphere-vii-when-playing-on-pc/"><u>Stability Enhancement Tips: Preventing Repeated Crashes in 'Mystic Sphere VII' When Playing on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/twitch-interaction-control-halt-resume-chats/"><u>Twitch Interaction Control: Halt, Resume Chats</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/yearbook-of-gamers-favorite-keyboards-2024-edition/"><u>Yearbook of Gamers' Favorite Keyboards - 2024 Edition</u></a></li>
 </ul></div>
 

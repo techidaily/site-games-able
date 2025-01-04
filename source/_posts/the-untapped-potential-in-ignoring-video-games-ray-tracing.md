@@ -1,7 +1,7 @@
 ---
 title: The Untapped Potential in Ignoring Video Game's Ray Tracing
-date: 2024-08-27T17:05:39.711Z
-updated: 2024-08-28T17:05:39.711Z
+date: 2025-01-01T13:25:58.530Z
+updated: 2025-01-03T19:32:11.481Z
 tags:
   - games
 categories:
@@ -37,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
  The interesting thing is that you can easily[secure parts for a well-rounded PC](https://www.makeuseof.com/well-rounded-pc-buying-guide/) for a decent price. However, ray tracing can throw a spanner into the works and increase your initial costs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. The Experience With Ray Tracing Varies From Title to Title
 
  Let's say you decide to stomach the costs and[buy a powerful graphics card](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) . Great, you'll certainly get better performance in games along with excellent visuals. The only problem is that your experience won't be consistent across the board. It's up to the developers how to implement the technology, and each game will require a different level of attention.
@@ -49,25 +50,14 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ![Man playing computer game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-playing-computer-game.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  According to a[2021 NVIDIA news post](https://www.nvidia.com/en-us/geforce/news/nvidia-rtx-games-engines-apps/) , the list of video games that support ray tracing is somewhere around a couple of hundred. While that might sound impressive, you need to look at it from a different perspective. Steam is home to over 50,000 games on PC, and the number of games that support ray tracing is tiny in comparison.
 
  Of course, more games that support the feature will roll out inevitably. However, this disparity shows that even a lot of developers are not confident with the technology yet. This is especially true for indie developers on tighter budgets. Ray tracing optimization can eat up a lot of time and resources if you want to do it right.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Ray Tracing Requires Upscaling to Negate the Performance Hit
 
  NVIDIA knows that most of you won't bother shelling out thousands of dollars for a gaming PC, so it decided to wave its magic wand. To counter the performance issues, some NVIDIA GPUs[use Deep Learning Super Sampling (DLSS) to improve framerates](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) . It's an upscaling technology that renders a game at a lower resolution, then upscales it to your monitor's native resolution.
@@ -76,16 +66,14 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  DLSS works great on 1440p and 4K monitors, but the loss of detail is more noticeable on 1080p monitors. Considering 1080p is still the most common resolution for PC gaming, that's not a good look. The upscaling can also cause bugs or graphical artifacts in some games if not optimized correctly. Much like ray tracing, DLSS still needs time to mature.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. A Good Number of GPUs Don't Support Ray Tracing
 
 ![Man updating game graphics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-updating-game-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Another big problem with ray tracing is the fact that only certain graphics cards will support the feature. If you have an older NVIDIA GTX graphics card instead of an RTX one, then you'll be left without ray-tracing. So, the only solution you're left with is to upgrade.
 
  The situation is even worse with AMD graphics cards, as the performance hit is even worse on that side.[AMD's FSR technology is similar to NVIDIA's upscaling technique](https://www.makeuseof.com/amd-fsr-explained/) , but it doesn't quite compare in terms of performance.
@@ -98,14 +86,15 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  However, ray tracing can be used for more than reflections. You can use it for global illumination, shadows, refractions, and other lighting effects. Unfortunately, most games just use traditional rasterization for visuals and bring out ray tracing for certain scenes. This circles back to the inconsistent experience and lack of optimization.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Ray Tracing Needs More Time in the Oven
 
  Many gimmicks have tried to take the gaming industry by storm, and most of them failed. 3D Gaming, the Kinect, and the DualShock 4's touchpad immediately come to mind. However, while ray tracing isn't something to fall head over heels for right now, it will improve in the future.
 
  NVIDIA's latest version of DLSS negates some of the performance difference, even if it only works on a select few cards. Ray tracing will eventually become common in most games, and that's when you should worry about having a GPU that supports it. The situation isn't perfect right now, but at least ray tracing is a better experience than HDR gaming on PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -117,18 +106,19 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  Because ray tracing emulates how light refracts and reflects in the real world, playing a game with ray tracing makes the environment feel alive and representative of real life. Alternatively, if you play a game without ray tracing, you will probably notice static lighting or uncanny environments, which can detract from the fantasy of gaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q: Is Ray Tracing Worth It if You Run Your Games at 4K?
 
  Running your games at 4K resolution may improve your visuals, but enabling ray tracing alongside 4K visuals will drastically lower your frame rate unless you have a high-end GPU. Even then, the performance of your games will vary from title to title, and you may need to enable upscaling through DLSS in supported games to accommodate for the performance drop.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +127,26 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-confirm-your-youtube-account-securely/"><u>[New] How to Confirm Your YouTube Account Securely?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-video-chatcall-on-snapchat-with-3-steps/"><u>[New] How to Video Chat/Call on Snapchat with 3 Steps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-capture-stunning-videos-on-iphone-8-pro-tips-for-quality-shootings/"><u>[New] In 2024, Capture Stunning Videos on iPhone 8 Pro Tips for Quality Shootings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snapseed-101-easy-steps-for-image-transformation/"><u>[New] Snapseed 101 Easy Steps for Image Transformation</u></a></li>
+<li><a href="https://win-unique.techidaily.com/a-deep-dive-into-microsofts-new-releases-unveiled-at-the-recent-surface-event-covered-by-zdnet/"><u>A Deep Dive Into Microsoft's New Releases Unveiled at the Recent Surface Event Covered by ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-rt-ac88u-an-in-depth-analysis-of-this-powerful-gaming-router/"><u>Asus RT-AC88U: An In-Depth Analysis of This Powerful Gaming Router</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-access-your-xbox-bonuses-redemption-guide/"><u>Effortlessly Access Your Xbox Bonuses: Redemption Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-fluidity-like-never-before-with-nvidia-g-sync/"><u>Experience Fluidity Like Never Before with Nvidia G-Sync</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-seamlessly-get-your-new-ipad-ready-beginners-ultimate-checklist/"><u>How To Seamlessly Get Your New iPad Ready – Beginner's Ultimate Checklist</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-can-you-believe-these-specs-for-the-new-foldable-iphone/"><u>Inside Scoop: Can You Believe These Specs for The New Foldable iPhone?</u></a></li>
+<li><a href="https://games-able.techidaily.com/instant-fun-top-20-mobile-games-to-dive-into-on-your-device/"><u>Instant Fun: Top 20 Mobile Games to Dive Into on Your Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-terminal-rom-hacking-for-game-boy-titles/"><u>Linux Terminal ROM Hacking for Game Boy Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-in-image-cleanup-remove-unwanted-surroundings-for-2024/"><u>Masterclass in Image Cleanup Remove Unwanted Surroundings for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/microsoft-word-free-versions-are-they-available-and-how-to-get-them/"><u>Microsoft Word Free Versions - Are They Available and How to Get Them?</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-your-console-and-controller-effortlessly/"><u>Quiet Your Console & Controller Effortlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/resuscitation-guide-for-ailing-xbox-controllers-on-pcs/"><u>Resuscitation Guide for Ailing Xbox Controllers on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-controller-wizardry-updates-at-the-touch-of-a-button/"><u>Sony's Controller Wizardry: Updates at the Touch of a Button</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-windows-11-steam-errors-effectively/"><u>Tackling Windows 11 Steam Errors Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-for-gamers-budget-friendly-keyboards-roundup/"><u>Value for Gamers: Budget-Friendly Keyboards Roundup</u></a></li>
+</ul></div>
 

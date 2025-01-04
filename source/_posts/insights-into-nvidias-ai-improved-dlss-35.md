@@ -1,7 +1,7 @@
 ---
 title: Insights Into Nvidia’s AI-Improved DLSS 3.5
-date: 2024-08-22T22:31:53.769Z
-updated: 2024-08-23T22:31:53.769Z
+date: 2024-12-29T02:39:01.964Z
+updated: 2025-01-03T19:58:22.428Z
 tags:
   - games
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
 ## Insights Into Nvidia’s AI-Improved DLSS 3.5
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * DLSS 3.5 is an upgrade of Nvidia's DLSS technology, using AI to generate higher-quality pixels for ray-traced scenes, reducing artifacts and enhancing image quality.
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
  DLSS has been evolving since its debut in 2018, and the 2023 version, DLSS 3.5, promises to deliver even better results for ray-traced games and applications. Read on to learn what DLSS 3.5 is, how it works, and what it means for you as a gamer or a creator.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is DLSS 3.5?
 
  DLSS 3.5 is the 2023 evolution of Nvidia's DLSS technology. It introduces a new Ray Reconstruction technique that uses AI to generate higher-quality pixels for ray-traced scenes.
@@ -33,20 +41,13 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
  DLSS 3.5 takes this further by using AI to reconstruct missing or noisy pixels in ray-traced scenes. Unlike previous versions of DLSS, which used hand-tuned denoisers for each lighting pass, DLSS 3.5 uses a single neural network that can generate higher-quality pixels for any lighting pass. This means that DLSS 3.5 can reduce artifacts like color inaccuracies, inaccurate lighting, and ghosting that sometimes occur with ray tracing.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does DLSS 3.5 Work? What Is Ray Reconstruction?
 
 ![Ray Tracing Texel eXtreme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ray-tracing-texel-extreme.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  DLSS 3.5 combines the best features of previous versions of DLSS while introducing a new technique called Ray Reconstruction. Ray Reconstruction is a novel way of using AI to improve the quality of ray tracing by generating higher-quality pixels from lower-quality ones.
 
  Ray tracing works by casting rays of light from the camera into the scene and calculating how they interact with the objects and materials in the scene. Each ray represents a pixel on the screen, and the more rays there are, the more accurate and detailed the lighting effects are.
@@ -60,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
  It analyzes each pixel on the screen and compares it with its corresponding ray in the scene. It then uses the information from the ray to reconstruct a more accurate pixel that matches the light source's color, brightness, and direction.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are the Benefits of DLSS 3.5?
 
  Older versions of DLSS compete favorably in[upscaling comparisons](https://www.makeuseof.com/intel-xess-vs-nvidia-dlss/) . However, it offers even more benefits for gamers and creators who use ray tracing in their games and apps. Here are some of them:
@@ -74,20 +76,18 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 As you can see, DLSS 3.5 is a comprehensive upgrade from DLSS 3.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Will DLSS 3.5 Be Available?
 
  Nvidia says that DLSS 3.5 will be available in the fall of 2023, but it hasn't given a specific date yet. Nvidia also hasn't revealed which games will support DLSS 3.5 at launch, but we can expect some of the upcoming titles that use ray tracing or path tracing, such as Cyberpunk 2077 and Alan Wake 2, to be among the first ones.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +96,18 @@ As you can see, DLSS 3.5 is a comprehensive upgrade from DLSS 3.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-techniques-for-incorporating-hyperlinks-into-tiktok-profiles/"><u>2024 Approved Top Techniques for Incorporating Hyperlinks Into TikTok Profiles</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-labor-day-deal-grab-your-nintendo-switch-oled-for-just-60-at-walmart-insider-tips-from-zdnet/"><u>Exclusive Labor Day Deal: Grab Your Nintendo Switch OLED for Just $60 at Walmart - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-13-mini-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 13 mini Activity | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-art-of-flawless-conversion-from-slides-to-videos/"><u>In 2024, The Art of Flawless Conversion From Slides to Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-look-at-sonys-latest-marvel-playstation-5-pro-key-specifications-cost-analysis-and-launch-timeline-covered/"><u>In-Depth Look at Sony's Latest Marvel: PlayStation 5 Pro - Key Specifications, Cost Analysis & Launch Timeline Covered</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-proplus-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 Pro+ 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/organizing-an-interactive-quiz-or-game-based-activity-that-reinforces-the-students-knowledge-of-periodic-trends-particularly-focabulary-related-to-reactivit91/"><u>Organizing an Interactive Quiz or Game-Based Activity that Reinforces the Students' Knowledge of Periodic Trends, Particularly Focabulary Related to Reactivity Series, and Allows Them to Apply This Information in a Fun and Competitive Environment.</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-gaming-preference-shift-windows-11-surpasses-windows-10-in-popularity-zdnet/"><u>PC Gaming Preference Shift: Windows 11 Surpasses Windows 10 in Popularity | ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-lifes-moments-with-your-online-audience/"><u>Sharing Life's Moments with Your Online Audience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/transform-your-chronicles-free-extensions-and-mobile-apps-galore-for-2024/"><u>Transform Your Chronicles FREE Extensions & Mobile Apps Galore for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/ultimate-guide-to-free-software-for-transforming-4k-footage-into-1080p-windows-macos-and-online-solutions/"><u>Ultimate Guide to Free Software for Transforming 4K Footage Into 1080P - Windows, macOS, and Online Solutions</u></a></li>
+</ul></div>
 

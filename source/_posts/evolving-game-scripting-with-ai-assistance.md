@@ -1,7 +1,7 @@
 ---
 title: Evolving Game Scripting with AI Assistance
-date: 2024-08-22T22:31:21.091Z
-updated: 2024-08-23T22:31:21.091Z
+date: 2025-01-02T09:28:22.505Z
+updated: 2025-01-04T09:03:02.613Z
 tags:
   - games
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 ## 1\. Simplify the Dialogue
 
 ![simplifying dialogue using chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/simplifying-dialogue.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "\[Dialogue\] Simplify this dialogue and make it more conversational for a video game.”
 
@@ -42,23 +46,18 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 
 ![adding emotion using chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-emotion.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 > **Prompt inspiration** : "Add the emotion of \[Insert emotion\] to these video game dialogues made by \[Insert character information and scenario\]: \[Insert dialogues\]."
 
  ChatGPT can also help you add emotion to video game dialogues. This will let you convey an NPC's backstory, context, and state of mind with words alone. Unsure what kind of emotions an NPC should be going through during a certain scenario? ChatGPT can help you with that as well.
 
 ![kinds of emotion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/type-of-emotion.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 > **Prompt inspiration** : "What kind of emotion should \[Insert character information\] during \[Insert scenario\]?"
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Generate Codex Entries
 
 ![chatgpt codex entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-codex.jpeg)
@@ -74,20 +73,22 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 ![chatgpt side quest ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-side-quest.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 > **Prompt inspiration** : "Give me side quest ideas for a \[Insert game type\] game set in a world with \[Insert game setting and lore\]. Be sure to include a reference to a video game where the side quest idea has been used."
 
  ChatGPT can help you brainstorm interesting questlines that players will love. Ask the AI chatbot to generate different kinds of quests for you to potentially use in your video game script. You can also provide side quest ideas that you really liked in a certain video game for ChatGPT to take inspiration from.
 
  Or, you could request the chatbot to provide you with quest examples from other video games. You can then judge how well these types of quests worked for the game in question before incorporating them in your own script.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Write Barks
 
 ![chatgpt generating barks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-barks.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Give me a list of barks for a \[Insert character type\] commenting on the player's \[Insert situation for which you need the bark\]."
 
@@ -96,22 +97,20 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
  Thankfully, ChatGPT can help with this. All you need to do is provide the AI with the situation in which the bark is to be used and which character is going to say it. Then, the AI can generate a long list of barks for you to take inspiration from.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Your Video Game Scripts More Engaging With ChatGPT
 
  ChatGPT can be your personal video game scriptwriting assistant. It can help you simplify NPC or player dialogue to bring more clarity. You can also use it to write more interesting barks.
 
  In terms of character development, ChatGPT can help you add emotions to a character and also give your NPCs a more fleshed-out character. The possibilities are virtually limitless. Plus, you can train ChatGPT to write video game scripts just like you. This will ensure your personal style stays in the script.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +119,26 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-top-5-cloud-giants-unlimited-capacity-showdown-for-2024/"><u>[New] Top 5 Cloud Giants Unlimited Capacity Showdown for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-capturing-elegance-ideal-websites-for-photo-framing/"><u>[Updated] Capturing Elegance Ideal Websites for Photo Framing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-sound-bank-vintage-voice-choices/"><u>[Updated] Ultimate Sound Bank Vintage Voice Choices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726221052131-amvflv-movavi/"><u>AMV到FLV的免費線上直達轉換服務 - 使用Movavi提高效率</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1744287-9781782795599-crystal-prescriptions/"><u>Crystal Prescriptions | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/cybersecurity-challenges-adapting-to-modern-attack-methods-for-enhanced-defense-articles-by-zdnet/"><u>Cybersecurity Challenges: Adapting to Modern Attack Methods for Enhanced Defense | Articles by ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-digital-transformation-enhancing-elderly-healthcare-with-cutting-edge-tech-solutions-insights-from-zdnet/"><u>Embracing Digital Transformation: Enhancing Elderly Healthcare with Cutting-Edge Tech Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/forging-the-future-establishing-modern-networks-with-foresight-insights-from-zdnet/"><u>Forging the Future: Establishing Modern Networks with Foresight - Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-nba-live-streams-15-ways-to-watch-the-action/"><u>In 2024, Free NBA Live Streams 15 Ways to Watch the Action</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-12-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 12 Apple ID on MacBook</u></a></li>
+<li><a href="https://games-able.techidaily.com/invisibility-is-the-enemy-unveiling-strategies-for-comprehensive-security-insights-from-zdnet/"><u>Invisibility Is the Enemy: Unveiling Strategies for Comprehensive Security - Insights From ZDNet</u></a></li>
+<li><a href="https://win-hot.techidaily.com/launch-announcement-updated-songbookdb-is-now-live-perfect-for-djs/"><u>Launch Announcement: Updated SongbookDB Is Now Live - Perfect for DJs!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mastering-movie-views-on-ios-trouble-free-mov-file-compatibility-and-error-resolution-for-iphones/"><u>Mastering Movie Views on iOS: Trouble-Free MOV File Compatibility & Error Resolution for iPhones</u></a></li>
+<li><a href="https://games-able.techidaily.com/modernizing-senior-support-systems-through-innovative-technologies-a-comprehensive-guide-by-zdnet/"><u>Modernizing Senior Support Systems Through Innovative Technologies – A Comprehensive Guide by ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/moving-beyond-complex-uc-solutions-toward-user-friendly-communication-tools-perspectives-on-zdnet/"><u>Moving Beyond Complex UC Solutions Toward User-Friendly Communication Tools - Perspectives on ZDnet</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-patient-care-crafting-an-enhanced-online-medical-journey-insights-from-zdnet/"><u>Revolutionizing Patient Care: Crafting an Enhanced Online Medical Journey - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ly-adjust-video-speeds-a-users-guide-to-youtube-features-for-2024/"><u>Swiftly Adjust Video Speeds A User's Guide to YouTube Features for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-office-innovation-cutting-edge-tools-and-platforms-featured-on-zdnet/"><u>The Future of Office Innovation: Cutting-Edge Tools & Platforms Featured on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-depths-how-hybrid-work-transcends-remote-tech-with-essential-strategies-and-culture-insights-from-zdnet/"><u>Unveiling the Depths: How Hybrid Work Transcends Remote Tech with Essential Strategies & Culture - Insights From ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Meta in Gaming: Definition, Purpose, and Conformance"
-date: 2024-08-22T22:30:25.048Z
-updated: 2024-08-23T22:30:25.048Z
+date: 2025-01-01T11:01:47.223Z
+updated: 2025-01-03T20:10:13.183Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 ---
 
 ## Meta in Gaming: Definition, Purpose, and Conformance
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 
  If you've ever played an online game, there's a good chance you've heard of the term "meta." Metas can make or break an online game, but it can be tricky to figure out what, exactly, a meta is. So, let's explore what a meta is and whether you should follow it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is a Meta in Gaming?
 
 ![A group of e-sports players in an arena.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/esport-arena1.jpg)
@@ -52,8 +53,9 @@ OpenAI / MakeUseOf
  At this point, you might be curious where the term meta came from. People sometimes claim that "meta" is an acronym, standing for "most efficient tactic available." There's no evidence of that, though it is a clever example of a "backronym," where people retroactively turn a word into an acronym. Instead, the term likely stemmed from the existing word "meta," which means something that refers to itself. This is because the meta is essentially a game based on a game, where strategies and tactics are devised before a round even starts.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Are Metas Good or Bad for Gaming?
 
 ![woman playing first person shooter on gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/woman-playing-first-person-shooter-on-gaming-pc.jpg)
@@ -65,22 +67,9 @@ OpenAI / MakeUseOf
  That's one of the fascinating things about metas. The core game can remain and persist through both good and bad meta changes. Let's look at how a meta can help or hurt a game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Metas Can Help Games
 
  Metas can sometimes be seen as "flavors of the month." This is especially true for a game that receives consistent updates that tweak how the game is played. In this way, metas can help keep the game from going "stale" and introduce new play methods.
@@ -93,9 +82,6 @@ Key features:
 
  The end result is a meta that shifts every six months, which keeps Magic the Gathering from getting boring and allows players to find new combos and playstyles with the new cards. And while Magic the Gathering has had its fair share of oppressive metas, they have either been banned or drifted out of Standard. It's a great example of how a game can shed a bad meta, introduce a good one, and keep players happy and engaged.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How Metas Can Harm Games
 
  Metas are not always positive. If a meta is too "powerful," it will warp the game around it. In severe instances, players will be at an active disadvantage if they do not, or cannot follow what the meta dictates.
@@ -106,10 +92,6 @@ Key features:
 
  Eventually, Dr. Boom got a nerf and the meta re-stabilised itself, but the card was forever deemed a meta-warper by Hearthstone players.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Should You Follow the Meta in Games?
 
  Because metas aren't strictly good or bad, it's important to know whether or not you should follow them.
@@ -117,8 +99,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  Let's look at why you might want to follow along, why you might want to ignore the meta, and how to do so selectively.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Following the Game Meta Can Enhance Your Enjoyment
 
  If a meta is healthy and you enjoy playing in it, there's nothing wrong with following it. After all, the meta developed because people found the best way to achieve something within the game.
@@ -130,6 +113,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  If you want to dig into the metas of the games you enjoy (or want to learn more about) a great place to start is gaming forums. Check if your game has a dedicated subreddit on reddit.com or elsewhere, like in forums on the developer's website, Steam, or so on. Gaming blogs aren't bad either, but you'll be hard-pressed to find any publication as committed to the meta-analysis of a single game as that game's subreddit.
 
  That's where you'll find people actively discussing, debating, and often complaining about the meta of a given game. You'll have plenty of reading material!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### But Sometimes Following the Meta Kills the Fun
 
@@ -145,14 +132,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  So you should never feel bad stepping back from a game when you realize that the game's meta has tricked you into a grind or play style you don't enjoy!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +145,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-success-how-to-make-your-videos-captivate-audiences/"><u>[New] 2024 Approved Instagram Success How to Make Your Videos Captivate Audiences</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-an-all-inclusive-guide-to-initiate-multiplatform-communication-via-skype-groups-for-2024/"><u>[New] An All-Inclusive Guide to Initiate Multiplatform Communication via Skype Groups for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlocking-youtube-subtitles-srt-3-steps-guide-for-2024/"><u>[New] Unlocking YouTube Subtitles (SRT) - 3 Steps Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/diminishing-xbox-game-bar-introspection-on-pcs-running-win-11/"><u>Diminishing Xbox Game Bar Introspection on PCs Running Win 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-sim-racing-deal-moza-r5-bundle-for-499/"><u>Exclusive Sim Racing Deal: MOZA R5 Bundle for $499</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oppo-a58-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Oppo A58 4G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nokia-c12-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nokia C12 Pro Through Google Earth?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-runmuss-game-headset-microphone-woes/"><u>Troubleshoot and Fix Your Runmuss Game Headset Microphone Woes</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-pc-gaming-on-steam-deck-remote-play-essentials/"><u>Unlock PC Gaming on Steam Deck: Remote Play Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-tipping-could-distort-devs-motivation-and-work-quality/"><u>Why Tipping Could Distort Devs' Motivation and Work Quality</u></a></li>
+</ul></div>
 

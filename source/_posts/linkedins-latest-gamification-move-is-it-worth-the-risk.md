@@ -1,7 +1,7 @@
 ---
 title: LinkedIn's Latest Gamification Move - Is It Worth The Risk?
-date: 2024-08-27T17:05:18.563Z
-updated: 2024-08-28T17:05:18.563Z
+date: 2024-12-31T20:51:59.396Z
+updated: 2025-01-04T13:14:35.529Z
 tags:
   - games
 categories:
@@ -34,17 +34,15 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
  Now, LinkedIn has decided to join in with the fun, adding a Games tab populated with (at the time of writing), three "fun" games. These are Pinpoint, Crossclimb, and Queens.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pinpoint
 
 ![Playing the Pinpoint game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pinpoint-linkedin-games.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Pinpoint](https://www.linkedin.com/games/pinpoint/) is a simple game that has you guessing the category from the clues provided. There are five clues in total, with the idea being to guess the category from the fewest number of clues. Its simple nature means this is the most fun and least frustrating game on offer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Crossclimb
 
@@ -53,32 +51,36 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 [Crossclimb](https://www.linkedin.com/games/crossclimb/) has two elements to it. First, you need to find the four-letter answers to the clues provided. Second, you need to rearrange the answers so that there's only one letter different to the answer above and below. Only then will you unlock the top and bottom clues.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Queens
 
 ![Playing the Queens game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/queens-linkedin-games.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Queens](https://www.linkedin.com/games/queens/) is a little like Sudoku, in that you have to be aware of several different elements in order to place things correctly. In Sudoku, it's numbers, whereas in Queens, it's crowns. There's a lot of trial and error with this, so you'll either love it or hate it.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Possessed LinkedIn to Add Games?
 
  You can take a look at LinkedIn's games by visiting the[LinkedIn Games tab](https://www.linkedin.com/games/) . But if you forget to bookmark it, just search LinkedIn for "games", and it should be the top result. When you search for it, the platform will sell you on them with the tagline, "Keep your mind sharp with daily games. Connect with your network over a little fun." This reveals how LinkedIn sees its users using these games.
 
 ![LinkedIn inviting users to play games to keep your mind sharp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/linked-in-games-search-result.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  LinkedIn thinks you'll use these games as another networking tool. In the same way that many of us send our Wordle, Connections, and Strands scores to our loved ones every morning, LinkedIn wants you to do the same with Pinpoint, Queens, and Crossclimb. However, there's a fundamental difference between your family and friends and the people you are likely to connect with on LinkedIn.
 
  Do you really want to invite hiring managers and C-suite executives to play a silly little game with you? Not just once, but every single day without fail? The correct answer is no. While LinkedIn may see this as a way of increasing engagement levels and making the usually dull and dreary LinkedIn a little more fun, that isn't why any of us use LinkedIn in the first place.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why LinkedIn Users Shouldn't Play These Games
 
@@ -86,14 +88,11 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
  Play web games as much as you want, but do so on the New York Times, Facebook, or any of the other platforms specifically designed to let you waste away your free time. If you're on LinkedIn, use your time more productively by[improving your LinkedIn profile](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) or[broadening your network](https://www.makeuseof.com/ways-to-build-professional-network-linkedin/) . To be fair to LinkedIn, the platform addresses these concerns directly in[its announcement/tutorial](https://www.linkedin.com/pulse/how-play-games-linkedin-seriously-michaelaalexis-gqwre/) , but I still can't help thinking that this is a misstep from the company.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +101,22 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-ultimate-visual-upgrade-mastery-of-video-enhancer-version-22/"><u>[New] In 2024, Ultimate Visual Upgrade Mastery of Video Enhancer Version 2.2</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-jumpstart-earnings-a-novice-written-guide-for-2024/"><u>[Updated] Jumpstart Earnings A Novice’ Written Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-no-pay-all-praise-tailor-made-outro-videos-here/"><u>[Updated] No Pay, All Praise Tailor-Made Outro Videos Here</u></a></li>
+<li><a href="https://article-files.techidaily.com/10-best-online-photo-background-changers-filmora-for-2024/"><u>10 Best Online Photo Background Changers - Filmora for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-choice-high-end-sony-console-vs-low-budget-computer/"><u>Game-On Choice: High-End Sony Console VS Low-Budget Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-performance-charger-matches-for-sonys-ps5-dualsense-controllers/"><u>High-Performance Charger Matches for Sony's PS5 DualSense Controllers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Poco F5 Pro 5G?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-youtube-meets-facebook-1080p-live-mastery-guide/"><u>In 2024, YouTube Meets Facebook 1080P Live Mastery Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-browsing-strategies-with-picture-in-picture-mode-for-2024/"><u>Innovative Browsing Strategies with Picture-In-Picture Mode for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-super-nitro-essential/"><u>Is Super Nitro Essential?</u></a></li>
+<li><a href="https://games-able.techidaily.com/peeling-back-meta-layers-understanding-and-following/"><u>Peeling Back 'Meta' Layers: Understanding and Following</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-customization-tailoring-the-xbox-game-bar-interface-in-windows-environment/"><u>The Art of Customization: Tailoring the Xbox Game Bar Interface in Windows Environment</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-se-2020-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone SE (2020)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-playlist-7-terminal-games-on-linux/"><u>The Ultimate Playlist: 7 Terminal Games on Linux</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-7-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 7 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+</ul></div>
 

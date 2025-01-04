@@ -1,7 +1,7 @@
 ---
 title: Undo New Xbox Joy Sticks Sync in X and S Systems
-date: 2024-12-22T20:00:28.221Z
-updated: 2024-12-26T05:54:19.722Z
+date: 2024-12-28T16:00:16.126Z
+updated: 2025-01-04T16:01:04.283Z
 tags:
   - games
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Things to Note Before Reverting Your Xbox Wireless Controller's Firmware
 
  Before you go through with reverting an Xbox Wireless Controller update, there are a few things you should know beforehand, as the process has a few caveats. Specifically, the main points you should be aware of before reverting firmware for your controller are as follows:
@@ -35,12 +39,16 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 ![A screenshot of a message on an Xbox Series X informing the user that Xbox controller firmware cannot be reverted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3112.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While these factors can prevent a firmware reset from correcting your controller issue, there are still ways you can fix your specific problem. If the issue is tied to your console, you may want to[troubleshoot your Xbox Series X|S by placing it in Safe Mode](https://www.makeuseof.com/xbox-xs-safe-mode-startup-troubleshooter/) or exiting the Xbox Preview Program.
 
  But if the caveats of reverting firmware don't apply to you, your controller issue is likely caused by a firmware problem, and you're all set to go ahead with reverting your controller update.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Access the Firmware Options of Your Xbox Wireless Controller
@@ -54,31 +62,23 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 ![A screenshot of the Guide menu on an Xbox Series X with the option for Xbox Support highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3117.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Under the options for**Get Help** , highlight**Help topics** and select**Hardware & networking** .
 
 ![A screenshot of the Xbox Support service on an Xbox Series X with Hardware And Netorking highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3120.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select**Controllers** followed by**Troubleshoot your Xbox Wireless Controller** .
 
 ![A screenshot of the Controllers section of the Xbox Support app on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3123.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * From here, choose the option for **My Xbox controller has connection issues after the last update** .
 
 ![A screenshot of the controller troubleshooting options available within the Xbox Support app on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3126.jpg)
 
  You will then be taken to the firmware settings page of the**Xbox Support** menus and be shown potential fixes for firmware issues your controller may be experiencing. You can use this settings page to revert the firmware of your Xbox Wireless Controller.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Revert Your Xbox Wireless Controller’s Firmware
 
@@ -89,14 +89,14 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 ![A screenshot of the option to check Xbox controller firmware within the Xbox Support app on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3129.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Your Xbox will then inform you whether your controller's firmware can be reverted. If it can, select**Revert firmware** .
 * A warning message will then appear. To confirm, select**Yes, revert firmware** .
 
  Your Xbox will then start reverting the firmware of your Xbox Wireless Controller. Once the process is finished, your controller will have been downgraded to the prior firmware update and any issues associated with the current firmware should be removed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Maintain Your Xbox Controller Physically and Through Its Firmware
 
@@ -119,20 +119,14 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-flawless-playlist-integration-techniques-in-web-development/"><u>[Updated] 2024 Approved Flawless Playlist Integration Techniques in Web Development</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-syma-x5c-demystified-the-ideal-drone-for-budding-pilots/"><u>[Updated] 2024 Approved Syma X5C Demystified The Ideal Drone for Budding Pilots</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8-for-2024/"><u>[Updated] Transform Your Vision Into Reality Essential Movies Maker Skills on Windows 8 for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-10-free-artificial-intelligence-apps-for-reviving-antique-photographs/"><u>Best 10 Free Artificial Intelligence Apps for Reviving Antique Photographs</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-camouflage-for-gamers/"><u>Digital Camouflage for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixes-prime-handheld-issue-x-ally-unveiled/"><u>Fixes Prime Handheld Issue, X Ally Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/handy-hints-for-repairing-your-xbox-series-xs/"><u>Handy Hints for Repairing Your Xbox Series X|S</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-use-a-controller-when-emulating-switch-games-with-ryujinx/"><u>How to Use a Controller When Emulating Switch Games With Ryujinx</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-lenovo-legion-go-next-gen-gaming-experience/"><u>IFA 2023: Lenovo Legion Go - Next-Gen Gaming Experience</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-9a-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 9A Location Settings | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-shining-up-your-videos-on-android/"><u>In 2024, Shining Up Your Videos on Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-to-windows-10s-safe-mode-using-these-4-easy-steps-includes-pics/"><u>Navigate to Windows 10'S Safe Mode Using These 4 Easy Steps (Includes Pics!)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-on-games-this-fall-with-prime-day-deals-ahead-of-black-friday-check-out-these-discounts/"><u>Save on Games This Fall with Prime Day Deals - Ahead of Black Friday, Check Out These Discounts!</u></a></li>
-<li><a href="https://win11.techidaily.com/selecting-the-optimal-nearby-sharing-technique-googles-or-windows-way/"><u>Selecting the Optimal Nearby Sharing Technique: Google's or Windows' Way</u></a></li>
-<li><a href="https://games-able.techidaily.com/toggle-gaming-interface-elements-on-discord/"><u>Toggle Gaming Interface Elements on Discord</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-effortless-online-subtitles-the-leading-free-services-for-2024/"><u>[New] Effortless Online Subtitles The Leading Free Services for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-color-correction-advanced-techniques-for-lut-applications/"><u>[New] Maximizing Color Correction Advanced Techniques for LUT Applications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-photos-into-masterpieces-with-top-pixlr-techniques/"><u>[New] Transform Your Photos Into Masterpieces with Top Pixlr Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-peak-led-lights-of-2024/"><u>Exploring Peak LED Lights of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-anonymity-disguising-activity-on-steam/"><u>Gaming Anonymity: Disguising Activity on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-end-gpu-spendback-three-big-regrets-here/"><u>High-End GPU Spendback: Three Big Regrets Here</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-lava-blaze-2-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Lava Blaze 2 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/justifying-the-expense-an-in-depth-look-at-ea-play/"><u>Justifying the Expense: An In-Depth Look at EA Play</u></a></li>
+<li><a href="https://facebook.techidaily.com/selecting-top-notch-fb-profile-shots/"><u>Selecting Top-Notch FB Profile Shots</u></a></li>
 </ul></div>
 

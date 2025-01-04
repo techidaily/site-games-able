@@ -1,7 +1,7 @@
 ---
 title: "Tailored Thermal Profile: Game-Changing Performance Upgrades"
-date: 2024-12-21T18:41:17.550Z
-updated: 2024-12-25T17:24:38.874Z
+date: 2024-12-31T16:00:40.022Z
+updated: 2025-01-04T16:02:43.868Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -47,16 +51,12 @@ Jhet Borja/MakeUseOf
 
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jhet Borja/MakeUseOf
 
  If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out[how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or[undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should Your GPU Fans Run at 100%?
@@ -65,17 +65,21 @@ Jhet Borja/MakeUseOf
 
  However, in rare cases, the motor might need replacing as well. However, a[replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
 
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll be using three programs to create and find the best fan curve for your graphics card.
 
@@ -84,7 +88,7 @@ Jhet Borja/MakeUseOf
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
@@ -110,16 +114,12 @@ Jhet Borja/MakeUseOf
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
@@ -151,17 +151,20 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-best-3ip-apps-to-record-clear-speech-on-ipads/"><u>[New] Best 3iP Apps to Record Clear Speech on iPads</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-what-makes-a-comment-noteworthy-on-youtube/"><u>[New] Understanding What Makes a Comment Noteworthy on YouTube</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-luminous-techniques-for-engaging-vlogs/"><u>[Updated] 2024 Approved Luminous Techniques for Engaging Vlogs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-10-must-have-drone-accessories-and-parts/"><u>2024 Approved 10 Must Have Drone Accessories and Parts</u></a></li>
-<li><a href="https://games-able.techidaily.com/debunking-7-myths-the-limited-value-of-ray-tracing/"><u>Debunking 7 Myths: The Limited Value of Ray Tracing</u></a></li>
-<li><a href="https://win11.techidaily.com/expertly-restoring-erased-data-in-a-microsoft-world/"><u>Expertly Restoring Erased Data in a Microsoft World</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-quest-revealed-10-superior-pc-selections-from-google-play-beta/"><u>Game Quest Revealed - 10 Superior PC Selections From Google Play Beta</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-akasa-gecko-blower-ssd-heatsink-evaluation-enhancing-your-solid-state-drives-cooling/"><u>In-Depth Akasa Gecko Blower SSD Heatsink Evaluation - Enhancing Your Solid State Drive's Cooling</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/r-your-videos-success-with-leading-rank-monitors-for-2024/"><u>Master Your Video's Success with Leading Rank Monitors for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-volume-settings-after-hiccups-in-windows-10/"><u>Restoring Volume Settings After Hiccups in Windows 10</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-game-exits-on-console-xb19-and-s/"><u>Streamline Game Exits on Console XB19 and S</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-8-lite-virtual-platforms-android-on-pcmac/"><u>Ultimate 8 Lite Virtual Platforms: Android on PC/Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos/"><u>[Updated] 2024 Approved Fixing the No-Thumbnail Issue in YouTubes Shorts Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screen-capture-clarified-a-fraps-breakdown-for-2024/"><u>[Updated] Screen Capture Clarified A Fraps Breakdown for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-video-platform-review-is-vimeo-best-over-youtubes-and-dailymotions-in-2024/"><u>[Updated] Video Platform Review Is Vimeo Best Over YouTubes and DailyMotions, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-zoom-meet-up-essentials-a-step-by-step-guide/"><u>2024 Approved Zoom Meet-Up Essentials A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/games-at-my-own-table/"><u>Games at My Own Table</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-with-ai-top-6-games-to-engage-with-chatgpt/"><u>Gaming With AI: Top 6 Games to Engage with ChatGPT</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-boost-or-dial-down-youtube-audio-with-devices/"><u>In 2024, Boost or Dial Down YouTube Audio with Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23plus-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy S23+ Phone Without Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-wi-fi-nintendo-switch-edition/"><u>Mastering Wi-Fi: Nintendo Switch Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/peek-at-gpus-graphic-memory-levels/"><u>Peek at GPU's Graphic Memory Levels</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/protect-your-digital-wealth-storing-bitcoin-and-altcoins-with-yl-software-expertise/"><u>Protect Your Digital Wealth: Storing Bitcoin and Altcoins with YL Software Expertise</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-watch-examination-a-masterclass-in-modern-design/"><u>Samsung Galaxy Watch Examination: A Masterclass in Modern Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-reduce-low-memory-alarms-from-roblox-ios-app/"><u>Strategies to Reduce Low-Memory Alarms From Roblox iOS App</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-premier-ps5-accessory-guide/"><u>The Premier PS5 Accessory Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-tomorrows-tech-today-at-ifa/"><u>Unveiling Tomorrow's Tech Today at IFA</u></a></li>
 </ul></div>
 

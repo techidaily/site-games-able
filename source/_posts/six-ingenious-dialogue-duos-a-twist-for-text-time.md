@@ -1,7 +1,7 @@
 ---
 title: "Six Ingenious Dialogue Duos: A Twist for Text Time"
-date: 2024-12-23T20:48:00.894Z
-updated: 2024-12-25T16:11:20.065Z
+date: 2024-12-29T16:04:17.250Z
+updated: 2025-01-04T16:02:26.974Z
 tags:
   - games
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 Story Builder
 
 Close
@@ -40,10 +44,6 @@ Close
  With**Story Builder** , one of you begins the story by messaging an opening sentence to the other person. The other person then messages the second sentence in the story back to the first person. Slowly but surely, the two of you build a story over the course of several texts or a messaging thread.
 
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 20 Questions
 
@@ -55,6 +55,10 @@ Close
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 I Spy
 
 Close
@@ -65,10 +69,6 @@ Close
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Song Lyrics
 
 Close
@@ -78,6 +78,10 @@ Close
  The**Song Lyrics** game plays on that by having one person quote lines from a song to the other via text or in a messaging thread. The other person then has to guess the song the lyrics are from. It helps if this is played with someone you're close to or with whom you share similar music tastes. Because if you choose a metal song, your classical music-loving mother is unlikely to ever guess correctly.
 
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Abbreviations
 
@@ -90,7 +94,7 @@ Close
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 List Builder
@@ -113,10 +117,6 @@ Close
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8 Kiss, Marry, Kill
 
 Close
@@ -128,7 +128,7 @@ Close
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9 What If...?
@@ -168,20 +168,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-camstudio-full-features-analysis/"><u>[Updated] 2024 Approved CamStudio Full Features Analysis</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-building-your-dream-4k-video-editing-studio-a-diy-blueprint-for-2024/"><u>[Updated] Building Your Dream 4K Video Editing Studio A DIY Blueprint for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-iphone-and-ipad-best-screen-recording-software/"><u>[Updated] IPhone & iPad Best Screen Recording Software</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/iphoneandroid5/"><u>「🔁魅力的な動画を一発で手早く作成！ iPhone/Android用の逆再生アプリトップ5」</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-how-to-get-started-signing-up-for-a-youtube-channel/"><u>2024 Approved How to Get Started Signing Up for a YouTube Channel</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-online-connections-through-poker-and-chess-on-discord/"><u>Elevating Online Connections Through Poker & Chess on Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/enrich-your-console-experience-with-a-customized-approach-to-vrr-settings/"><u>Enrich Your Console Experience with a Customized Approach to VRR Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-advice-on-avoiding-mistakes-in-display-shopping/"><u>Expert Advice on Avoiding Mistakes in Display Shopping</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi 13T? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-13t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi 13T to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-infinix-note-30-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Infinix Note 30</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionary-tech-on-display-tecnos-new-lineup-at-ifa/"><u>Revolutionary Tech on Display: Tecno's New Lineup at IFA</u></a></li>
-<li><a href="https://games-able.techidaily.com/swap-gears-for-steam-decks-rapid-ssd-replacement-guide/"><u>Swap Gears for Steam Decks: Rapid SSD Replacement Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-mobile-gamings-most-compelling-secrets/"><u>Unlocking Mobile Gaming's Most Compelling Secrets</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-reward-program-redesign-is-essential-for-xbox-game-engagement/"><u>Why Reward Program Redesign Is Essential for Xbox Game Engagement</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-novice-to-pro-your-roadmap-to-crafting-engaging-fb-stories/"><u>[Updated] In 2024, From Novice to Pro Your Roadmap to Crafting Engaging FB Stories</u></a></li>
+<li><a href="https://games-able.techidaily.com/controlling-xbox-game-bar-on-pc-turning-off-and-setting-limits/"><u>Controlling Xbox Game Bar on PC: Turning Off & Setting Limits</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-proof-pc-gamepads-ranked/"><u>Future-Proof PC Gamepads Ranked</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-7-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 7 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-snaps-in-zooms-camera-feature/"><u>In 2024, Mastering Snaps in Zoom's Camera Feature</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtube-video-editing-tips-for-beginner-editors/"><u>In 2024, YouTube Video Editing Tips for Beginner Editors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ourlink-usb-wireless-adapter-model-u631-powerful-performance-in-a-compact-form-factor/"><u>Ourlink USB Wireless Adapter, Model U631: Powerful Performance in a Compact Form Factor</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinpointing-where-virtual-screenshots-are-kept/"><u>Pinpointing Where Virtual Screenshots Are Kept</u></a></li>
+<li><a href="https://games-able.techidaily.com/stream-assist-unleashed-a-game-developers-dream/"><u>Stream Assist Unleashed: A Game Developer's Dream?</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-system-core-pc-upgrades-guide/"><u>Streamline Your System: Core PC Upgrades Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-aftermath-of-the-great-leap-forward-in-modern-china-insights-from-yl-software-experts-yl-computing/"><u>The Aftermath of the Great Leap Forward in Modern China - Insights From YL Software Experts | YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-preventing-nba-2k21-from-freezing-and-crashing-on-pc-systems/"><u>Ultimate Fixes for Preventing NBA 2K21 From Freezing and Crashing on PC Systems</u></a></li>
 </ul></div>
 

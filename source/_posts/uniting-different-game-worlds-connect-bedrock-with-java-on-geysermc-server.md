@@ -1,7 +1,7 @@
 ---
 title: "Uniting Different Game Worlds: Connect Bedrock with Java on GeyserMC Server"
-date: 2024-12-23T21:28:53.525Z
-updated: 2024-12-26T07:21:12.505Z
+date: 2025-01-01T16:04:49.202Z
+updated: 2025-01-04T16:06:17.074Z
 tags:
   - games
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 * [How Minecraft Bedrock Edition Players Can Join Java Edition Servers](#how-minecraft-bedrock-edition-players-can-join-java-edition-servers)
 * [The Limitations of the GeyserMC Mod](#the-limitations-of-the-geysermc-mod)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Minecraft Java and Bedrock editions are written in different programming languages, but the GeyserMC mod allows Bedrock players to join Java servers.
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Jhet Borja/MUO
 
  You’ve probably been disappointed to find out that you and your friend aren’t playing the same editions of Minecraft and can’t play together. While there are plenty of[other ways to play Minecraft with friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) , crossplay between Java and Bedrock isn't something that comes up often.
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  C++ is a more efficient language, which is why Bedrock is available on various platforms, like Android, iOS, and consoles. Java is less efficient in comparison, hence the need for a PC to run it smoothly.
 
  However, the GeyserMC mod takes the C++ information and translates it to Java, emulating a Java Minecraft client. This allows Bedrock Edition players to join Java Edition servers and play as if they were on the same version of the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Minecraft Bedrock Edition Players Can Join Java Edition Servers
 
@@ -69,12 +73,16 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  Alternatively, you can[host your Minecraft server on a Raspberry Pi](https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Install GeyserMC
 
 ![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you’ve made your server, don’t turn it on yet. First, head to**Software** , then choose**Paper/Bukkit** on the software selection screen.
@@ -82,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![Installing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-minecraft-software-on-aternos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on the**Install** button to add PaperMC to your server.
@@ -99,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  Once that’s all done, you can now turn on and connect to your server in the next step.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Join the Minecraft Java Server on Bedrock Edition
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
@@ -111,16 +115,12 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![Joining Minecraft Java server from Bedrock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/joining-minecraft-java-server-from-bedrock.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On Minecraft Bedrock Edition, click on the**Servers** tab, scroll all the way down, and click the**Add Server** button.
 
 ![Pasting server IP details on Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pasting-server-ip-details-on-bedrock-edition.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
@@ -150,20 +150,24 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-upload-and-post-gifs-onto-instagram-4-steps/"><u>[New] How To Upload and Post GIFs Onto Instagram [4 Steps]</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-easily-pulling-picture-moments-from-videos-for-windows-photos/"><u>[Updated] 2024 Approved Easily Pulling Picture Moments From Videos for Windows Photos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-step-by-step-guide-to-creating-breathtaking-tile-art/"><u>[Updated] 2024 Approved Step-by-Step Guide to Creating Breathtaking Tile Art</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-tagging-towards-triumph-the-best-instagram-hashtags/"><u>[Updated] Tagging Towards Triumph The Best Instagram Hashtags</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-rumored-personal-robot-specs-pricing-and-scheduled-debut-details/"><u>Apple's Rumored Personal Robot: Specs, Pricing, and Scheduled Debut Details!</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehensive-breakdown-amds-radeon-rx-7800-and-7700xt/"><u>Comprehensive Breakdown: AMD's Radeon RX 7800 and 7700XT</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-adventures-six-methods-for-gpt-enhanced-dandd-guidance/"><u>Crafting Adventures: Six Methods for GPT-Enhanced D&D Guidance</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-does-game-pass-ultimate-transform-your-playing/"><u>How Does Game Pass Ultimate Transform Your Playing?</u></a></li>
-<li><a href="https://games-able.techidaily.com/legacy-lines-drawn-unveiling-11-top-strategy-ww2-titles/"><u>Legacy Lines Drawn: Unveiling 11 Top Strategy WW2 Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-your-mac-experience-with-game-consoles/"><u>Maximizing Your Mac Experience with Game Consoles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-your-experience-overcome-common-crashing-challenges-in-football-manager-2021-on-windows-computers/"><u>Optimize Your Experience - Overcome Common Crashing Challenges in Football Manager 2021 on Windows Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/reducing-load-times-in-game-development-3d/"><u>Reducing Load Times in Game Development (3D)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-enjoying-classic-games-via-steam-deck-and-emudeck/"><u>The Ultimate Guide to Enjoying Classic Games via Steam Deck & EmuDeck</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-how-to-successfully-move-texts-from-previous-iphone-to-latest-model-top-8-tips/"><u>Ultimate Guide: How To Successfully Move Texts From Previous iPhone to Latest Model (Top 8 Tips)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unleashing-efficiency-a-detailed-appraisal-of-freestyle2-blue-software-for-apple-users/"><u>Unleashing Efficiency: A Detailed Appraisal of Freestyle2 Blue Software for Apple Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-does-paying-regularly-for-youtube-premium-give-you-more-than-just-an-ad-free-view-in-2024/"><u>[New] Does Paying Regularly For YouTube Premium Give You More Than Just An Ad-Free View, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-guide-to-silent-screen-time-view-unseen-stories-on-devices-for-2024/"><u>[New] Guide to Silent Screen Time View Unseen Stories on Devices for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-optimize-your-videos-for-instagram-mac-resizing-guide/"><u>[New] Optimize Your Videos for Instagram Mac Resizing Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snappy-cinema-stories-to-supercharge-edits/"><u>[New] Snappy Cinema Stories to Supercharge Edits</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/potlight-on-shared-screen-space-for-2024/"><u>[New] Spotlight on Shared Screen Space for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-mobile-and-desktop-mkv-software/"><u>2024 Approved Best Mobile and Desktop MKV Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capture-unrooted-android-sounds-4-techniques/"><u>Capture Unrooted Android Sounds 4 Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortlessly-obtain-and-update-surface-device-drivers-expert-tips/"><u>Effortlessly Obtain & Update Surface Device Drivers – Expert Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/fighters-choice-controller-vs-joystick-debate/"><u>Fighter's Choice: Controller Vs. Joystick Debate</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-portable-to-nintendo-8-bit-simulator/"><u>From PlayStation Portable to Nintendo 8-Bit Simulator</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-zero-30-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Zero 30 5G Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-into-mobile-gaming-streaming-steam-via-your-smartphone/"><u>Jump Into Mobile Gaming: Streaming Steam via Your Smartphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-pc-efficient-5-ways-to-curb-steams-memory-use/"><u>Keep Your PC Efficient - 5 Ways to Curb Steam's Memory Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/say-goodbye-to-stubborn-ps4-controllers-fix-strategies/"><u>Say Goodbye to Stubborn PS4 Controllers: Fix Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-big-with-these-11-best-free-mobile-word-games/"><u>Score Big with These 11 Best Free Mobile Word Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-possibility-of-using-ps5-controllers-in-older-ps/"><u>The Possibility of Using PS5 Controllers in Older PS?</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-gaming-alter-your-nintendo-switch-region/"><u>Upgrade Gaming: Alter Your Nintendo Switch Region</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/videoharvest-downloading-fb-content/"><u>VideoHarvest Downloading Fb Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-portable-game-platform-suits-your-style-best/"><u>Which Portable Game Platform Suits Your Style Best?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Xbox X|S Digital Deals
-date: 2024-08-27T17:04:48.334Z
-updated: 2024-08-28T17:04:48.334Z
+date: 2025-01-01T03:56:57.136Z
+updated: 2025-01-03T21:53:44.110Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
  When any new console is released, it's inevitable that a ton of different bundle offers for each version of the console are released, each with its own collection of games or accessories to entice you in.
 
  Traditional games or rewards bundled with your console would come physically in the box, or at least via a digital code, but Xbox Series X|S games are instead linked to your console itself. But if that's the case, how do you go about redeeming your game? Let's find out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is a Digital Direct Xbox Offer?
 
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
  While the above points may seem trivial, the process for redeeming your Digital Direct offer can become quite confusing, especially if you want to save your offer for later. Luckily, if you simply want to claim the offer immediately, the process is simple.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Activate Your Digital Direct Offers From Your Xbox
 
  Now you know what form your free game or offer comes with after buying a new Xbox Series X|S bundle, you're ready to activate and redeem it. And as long as you haven't already set up your new console, the process is easy.
@@ -51,8 +59,9 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
  But with**Claim it** selected, your Digital Direct offer will be unlocked and available within**My games & apps** on your console. Unfortunately, if you want to alter your offer or if you selected**Decide later** or**Redeem for another account** , the process is more complex and more akin to[managing your Xbox subscriptions from your console](https://www.makeuseof.com/how-to-manage-xbox-subscriptions-from-xbox-series-x-s/) .
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do if You Declined Your Digital Direct Offer
 
  If you didn't immediately claim your Digital Direct offer, you may be slightly confused about where the offer has gone and how to redeem it. Worse still, there's no notification informing you where to redeem your offer at a later date.
@@ -64,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 * Under the options for**Account** , select**Included with this Xbox** .
 
 ![An image of the Account settings for an Xbox Series X with the option for Included With This Xbox highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/18065620-6c49-4cc2-b456-bec9bdfe6a68-1.jpg)
@@ -79,47 +85,39 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
  While redeeming your Digital Direct offer should be one of the[first things you need to do with your Xbox Series X|S](https://www.makeuseof.com/first-things-to-do-with-xbox-series-x/) , there are many reasons you may want to wait to redeem your offer, including moving it to another account. And despite being hidden, the**Included with this Xbox** option guarantees you can access your offer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Never Miss Any Xbox Games or Offers With Xbox Series X|S
 
  While the process can become a bigger issue than necessary, the Digital Direct system of receiving free game bundles with Xbox consoles does at least have ways to guarantee you can always access your offers—even if they are tucked away in settings.
 
  And with game prices rising ever higher throughout each generation, guaranteed bundled game redemption can help to ease some of the price hikes for the Xbox platform as a whole.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: How Do You Redeem a Digital Code on Xbox Series X|S?
 
  To redeem a code and unlock content on your Xbox Series X|S, load the**Store** from your console. Once the**Store** loads, use the left-hand-side tabs to scroll down and find**Redeem** . If you select**Redeem** , you will be asked to enter your 25-character digital code. Upon entering the code, select**Check code** to redeem your content.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Q: How Do You Claim Your Reward Points on Xbox Series X|S?
 
  To[redeem Microsoft Reward Points on your Xbox Series X|S](https://www.makeuseof.com/how-to-redeem-microsoft-reward-points-on-xbox-series-xs/) , open the**Microsoft Rewards on Xbox** application from**My games & apps** . With the app loaded, open the**Redeem** tab and select the reward you want to exchange your Microsoft Reward Points. Select**Redeem reward** to claim your chosen benefit.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: Do Xbox Digital Direct Offers and Codes Expire?
 
  Any Digital Direct offers linked with your Xbox console will remain on your console until redeemed for an Xbox account. However, Xbox digital codes used to redeem content for your Xbox account online can expire, so you should always try to redeem standard digital Xbox codes as soon as possible.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +126,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-dive-into-high-quality-audio-7-royalty-free-selections/"><u>[Updated] 2024 Approved Dive Into High-Quality Audio 7 Royalty-Free Selections</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-guide-to-3d-text-design-in-ps/"><u>[Updated] 2024 Approved The Ultimate Guide to 3D Text Design in PS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-4k-blade-camera-imaging/"><u>[Updated] The Ultimate Guide to 4K Blade Camera Imaging</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-interviews-how-chatgpt-can-help-you-create-an-impressive-cover-letter/"><u>Ace Interviews: How ChatGPT Can Help You Create an Impressive Cover Letter</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-powerhouse-in-depth-analysis-of-the-steelseries-apex-pro-mini-keyboard-for-gamers-tech-insights/"><u>Compact Powerhouse: In-Depth Analysis of the SteelSeries Apex Pro Mini Keyboard for Gamers | Tech Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-analysis-of-msi-gm30-by-clutch-gaming-a-mechanical-and-symmetrical-performer/"><u>Comprehensive Analysis of MSI GM30 by Clutch Gaming - A Mechanical and Symmetrical Performer</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-review-how-does-the-lenovo-ideapad-stack-up-for-gamers-a-hardware-deep-dive-and-cloud-capabilities-assessed-by-zdnet/"><u>Expert Review: How Does the Lenovo IdeaPad Stack Up for Gamers? A Hardware Deep Dive and Cloud Capabilities Assessed by ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y02t-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y02T Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comparing-digital-dimensions-metaverse-and-multiverse/"><u>In 2024, Comparing Digital Dimensions Metaverse & Multiverse</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps-vr-and-pc-connection-a-detailed-walkthrough-for-gamers/"><u>PS VR and PC Connection: A Detailed Walkthrough for Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-effortless-way-to-keep-your-dell-audio-system-up-to-date/"><u>The Effortless Way to Keep Your Dell Audio System Up-to-Date</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-quarter-year-adventure-with-xbox-game-pass-ultimate-at-just-36-find-out-now/"><u>Unlock a Quarter-Year Adventure with Xbox Game Pass Ultimate at Just $36! Find Out Now</u></a></li>
+</ul></div>
 

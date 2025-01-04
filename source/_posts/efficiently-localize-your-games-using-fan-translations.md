@@ -1,7 +1,7 @@
 ---
 title: Efficiently Localize Your Games Using Fan Translations
-date: 2024-12-24T02:04:50.945Z
-updated: 2024-12-25T21:19:04.245Z
+date: 2024-12-28T16:01:10.317Z
+updated: 2025-01-04T16:01:11.338Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You’ll Need to Apply a Fan Translation Patch
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
  Got the emulator? The next thing you need is a ROM file to play the game you want to translate. It's important you ensure that you use copies of games you own. This way, you guarantee you use ROMs correctly and legally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A Working Emulator and ROM File
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
  In most cases, the ROM file should load, letting you play the game (albeit in an untranslated state). If the ROM does not load, obtain another copy of the ROM file or confirm the ROM file currently works with the emulator you have chosen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A Translation Patch File
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 ![Panorama Cotton English translation patch page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/romhacking-panorama-cotton-translation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
@@ -81,11 +81,11 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ![A screenshot of Rom Patcher JS with a loaded Rom File and Patch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/panorama-cotton-english-translation-file-in-folder-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now it’s time to test out the new ROM file. Load the new ROM file in your emulator as normal. Did it work? In this example, yes! Take a look at the side-by-side comparison of the newly patched ROM file (left) and the original ROM file (right) in action!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Patch Your Favorite Classic Games in a Few Simple Steps
 
@@ -106,18 +106,20 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-insert-soundtracks-for-dynamic-presentations/"><u>[New] In 2024, Insert Soundtracks for Dynamic Presentations</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-elite-frame-sequencer-pro-package/"><u>[Updated] Elite Frame Sequencer Pro Package</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-console-experience-with-nvidia-new-app/"><u>Enhance Your Console Experience With Nvidia New App</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-f15-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy F15 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-transfer/"><u>In 2024, Transfer</u></a></li>
-<li><a href="https://fox-info.techidaily.com/iphones-ultimate-video-capture-list/"><u>IPhone's Ultimate Video Capture List</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/preserve-battery-longevity-on-android-with-personalized-recharge-reminders/"><u>Preserve Battery Longevity on Android with Personalized Recharge Reminders</u></a></li>
-<li><a href="https://games-able.techidaily.com/rally-the-friends-unveiling-the-most-exciting-sports-apps-iosandroid/"><u>Rally the Friends: Unveiling the Most Exciting Sports Apps (iOS/Android)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/mlining-youtube-audio-pace-via-devices-for-2024/"><u>Streamlining YouTube Audio Pace via Devices for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-logitech-gaming-mice/"><u>The Best Logitech Gaming Mice</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-experts-look-at-choosing-superior-discords/"><u>The Expert's Look at Choosing Superior Discords</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-sound-journey-with-mmx-200/"><u>The Ultimate Sound Journey with MMX 200</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unearthing-highlighted-online-dialogue-for-2024/"><u>Unearthing Highlighted Online Dialogue for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/amers-path-to-earnings-on-youtube-for-2024/"><u>[New] Gamer's Path to Earnings on YouTube for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-google-image-mastery-rapid-and-remarkable-mosaics-created-for-2024/"><u>[New] Google Image Mastery Rapid & Remarkable Mosaics Created for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-youtube-cards-and-tags/"><u>[New] Navigating YouTube Cards and Tags</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-cutting-edge-cinematography-with-lgs-innovative-31mu97-b-display/"><u>[Updated] In 2024, Cutting Edge Cinematography with LG's Innovative 31MU97-B Display</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-editing-for-dummies-10-essential-youtube-insights/"><u>[Updated] Video Editing for Dummies 10 Essential YouTube Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-expansion-cost-of-switch-online-access/"><u>Dissecting the Expansion Cost of Switch Online Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-sense-selects-unmissable-pc-gaming-on-google-play-beta/"><u>Game Sense Selects - Unmissable PC Gaming on Google Play Beta</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-get-rid-of-system-memory-logs-in-windows-11-a-comprehensive-guide/"><u>How to Get Rid of System Memory Logs in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-lava-blaze-curve-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Lava Blaze Curve 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-hp-print-and-scan-now-plan-enough-to-ease-your-frustrations-with-printers-find-out-here/"><u>Is the HP Print and Scan Now Plan Enough to Ease Your Frustrations with Printers? Find Out Here!</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionary-tech-unveiled-ai-hardware-from-computex/"><u>Revolutionary Tech Unveiled: AI Hardware From Computex</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-past-expenditure-for-video-games-explored/"><u>Steam's Past Expenditure for Video Games Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-of-iphone-from-communication-to-virtual-console/"><u>The Evolution of iPhone: From Communication to Virtual Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-economics-behind-sonys-game-pass/"><u>Understanding the Economics Behind Sony’s Game Pass</u></a></li>
 </ul></div>
 

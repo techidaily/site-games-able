@@ -1,7 +1,7 @@
 ---
 title: "Mind-Twisters: The Most Maddening Mini-Games"
-date: 2024-12-24T06:32:07.004Z
-updated: 2024-12-26T06:16:32.762Z
+date: 2025-01-03T16:04:55.650Z
+updated: 2025-01-04T16:05:03.434Z
 tags:
   - games
 categories:
@@ -25,17 +25,9 @@ Let’s explore some of the names leading the scene.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Jump King
 
 ![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you just discovered[what Foddian games are](https://www.makeuseof.com/what-are-foddian-games/) , chances are you’ve heard of Jump King. It’s a massive title in the community, the completion of which holds a lot of sway. Jump King is one of the easiest Foddian games to grasp because of its simple mechanics.
 
@@ -53,13 +45,13 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Getting Over It
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
@@ -85,9 +77,17 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
@@ -104,7 +104,7 @@ Let’s explore some of the names leading the scene.
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
@@ -118,7 +118,7 @@ Let’s explore some of the names leading the scene.
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It’s About the Journey
@@ -142,21 +142,21 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-spectral-stories-telling-tales-through-color/"><u>[Updated] 2024 Approved Spectral Stories Telling Tales Through Color</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-sharing-youtube-content-on-facebook-a-step-by-step-guide/"><u>2024 Approved Sharing YouTube Content on Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/faster-utorrent-file-sharing-a-guide-for-windows/"><u>Faster uTorrent File Sharing: A Guide for Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-eye-shadow-and-lips-tutorials/"><u>In 2024, Eye Shadow & Lips Tutorials</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-your-device-how-to-get-more-out-of-your-steam-deck-at-the-dock/"><u>Mastering Your Device: How to Get More Out of Your Steam Deck at the Dock</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-display-an-xbox-series-xands-calibration-course/"><u>Perfect Display: An Xbox Series X&S Calibration Course</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-ps5-unveiling-ea-play-titles/"><u>Prime PS5: Unveiling EA Play Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/retro-revival-modern-consoles-with-a-legacy-twist/"><u>Retro Revival: Modern Consoles with a Legacy Twist</u></a></li>
-<li><a href="https://games-able.techidaily.com/rom-localization-mastery-applying-language-patches/"><u>Rom Localization Mastery - Applying Language Patches</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-top-six-solutions-for-unpairing-issues-with-your-apple-watch/"><u>Solving the Problem: Top Six Solutions for Unpairing Issues with Your Apple Watch</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-creative-curator-essential-zero-price-text-psds/"><u>The Creative Curator Essential, Zero-Price Text PSDS</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-portable-dream-handhelds-vs-nintendo-switch-20/"><u>The Portable Dream: Handhelds vs Nintendo Switch 2.0?</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-one-play-without-a-gamepad-revealed/"><u>Xbox One Play Without a Gamepad Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-engagement-how-to-craft-a-direct-subscribe-link/"><u>[New] In 2024, Effortless Engagement How to Craft a Direct Subscribe Link</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-future-proof-videography-leading-cameras-of-2024/"><u>[Updated] Future-Proof Videography Leading Cameras of 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transform-the-virtual-arena-engage-with-ease-during-live-streaming-for-2024/"><u>[Updated] Transform the Virtual Arena Engage with Ease During Live Streaming for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/earning-v-bucks-for-fortnite-a-ps5-strategy/"><u>Earning V-Bucks for Fortnite: A PS5 Strategy</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209936452-9781947369030-el-amor-nunca-muere/"><u>El Amor Nunca Muere | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-typing-game-a-compreranble-way-to-use-steam-decks-input-devices/"><u>Enhance Your Typing Game – A Compreranble Way to Use Steam Deck's Input Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-upgrade-speed-with-steam-deck-ssd-cloning/"><u>Enhancing Upgrade Speed with Steam Deck SSD Cloning</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a78-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo A78 5G?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-gt-3-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme GT 3 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-storytelling-gopro-quik-video-editing-essentials-for-macbook/"><u>In 2024, Elevate Your Storytelling GoPro Quik Video Editing Essentials for MacBook</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-mouse-settings-for-fast-paced-shooters/"><u>Optimal Mouse Settings for Fast-Paced Shooters?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-programs-designing-animated-3d-worlds/"><u>Premier Programs Designing Animated 3D Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/reigniting-steams-remote-play-feature-on-compatible-windows-systems/"><u>Reigniting Steam's Remote Play Feature on Compatible Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-issues-with-detection-of-gaming-installations/"><u>Solving Issues with Detection of Gaming Installations</u></a></li>
+<li><a href="https://games-able.techidaily.com/stylus-syncopation-tablet-triumphs-over-mice/"><u>Stylus Syncopation: Tablet Triumphs Over Mice</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/k-youtube-partnership-aim-for-a-10k-views-target-for-2024/"><u>Unlock YouTube Partnership Aim for a 10K Views Target for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Graphics Performance, Elevate FPS in Windows
-date: 2024-08-27T17:04:51.817Z
-updated: 2024-08-28T17:04:51.817Z
+date: 2024-12-30T02:08:30.375Z
+updated: 2025-01-04T06:44:08.040Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
  Whether your latest purchase isn't running smoothly on your PC, or you suddenly find games struggling to perform in general, we're here to help. Here's how to fix low FPS issues in Windows and get back to high-quality gaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First: Know the Difference Between Low FPS and Network Lag
 
  Before you spend time fixing the low frames per second on your PC, it's important to understand the difference between low FPS and online lag. People sometimes confuse these.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
  Lag, on the other hand, lies with an issue with the network. You can have a high FPS count yet still experience terrible lag. This occurs when elements in an online game freeze up, warp around suddenly, and otherwise don't behave normally.
 
  If you're experiencing online lag, make sure your computer is wired into your router with an Ethernet cable if possible. You should also close bandwidth-hungry apps running on your network, then take other[steps to reduce lag in online games](https://www.makeuseof.com/tag/how-to-reduce-lag-in-online-gaming/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Low Frame Rate: The Basics
 
@@ -44,16 +52,14 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
  Instead of downloading drivers manually, Nvidia and AMD both offer software utilities that make downloading the latest drivers easy. You can download these on the driver pages above, which we recommend doing. In addition to letting you know when a new update is available, they give you access to more tweaks and features.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### 2\. Close Unnecessary Background Programs
 
 ![windows 10 task manager process list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-10-task-manager-process-list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you're playing a game, especially demanding modern titles, it's a good idea to close other processes that you don't need. This frees up resources that your computer can further dedicate to the game.
 
  You can do this quickly by closing anything that's open on your taskbar. It's worth checking the system tray on the right side of the taskbar for any unneeded background apps, too.
@@ -62,21 +68,23 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
  Having your browser open with 50 tabs, letting cloud storage apps sync, or running file transfers while trying to play games can result in lower FPS—even on a good computer. If your frame rate is low all of a sudden, check for programs that just started using a lot of resources.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### 3\. Defragment Your HDD
 
 ![Disk defragmentation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/disk-defragmentation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Most gamers have hopefully upgraded to a solid-state drive (SSD) by now. But in case you're still using an HDD, you should make sure the disk is defragmented. If you use an SSD, you should not defragment, as doing so can shorten the life of your drive.
 
  To do this, type**defrag** into the Start menu and click the**Defragment and Optimize Drives** entry. If it's been a while since the drive was last defragged, you should do so.
 
  Modern versions of Windows do this automatically, so you shouldn't need to defrag manually. You can adjust the schedule if you like, though. And if you are using an HDD, prioritize[getting an SSD](https://www.makeuseof.com/tag/5-things-consider-buying-ssd/) as soon as possible for a major boost in gaming performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Low Game FPS With Windows Tweaks
 
@@ -94,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
  Note that this will increase the power consumption of your computer. On a desktop, this isn't really a problem, aside from a slightly higher energy bill. But laptops will see worse battery life, so make sure your system is plugged in.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Turn Off Visual Effects in Windows
 
  By default, Windows uses a lot of fancy visual effects around the OS. These make menus and other common elements look smoother, but also use up some resources.
@@ -107,11 +112,11 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
 ![System performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/system-properties-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Click the**Adjust for best performance** button to disable all these effects, followed by**OK** . It will take a moment as Windows disables them. When it's done, the interface won't look as slick, but you won't notice that when you're playing a game anyway.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Disable the Game Bar and Background Recording
 
@@ -123,6 +128,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Windows 10 Captures Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Captures-Settings-Panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Enable Game Mode in Windows
 
  Also in the**Gaming** section of Settings, switch to the**Game Mode** tab. Here, confirm that you have the slider turned on.
@@ -130,15 +139,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Microsoft's vague explanation about this feature says that while in Game Mode, Windows "prioritizes your gaming experience" as it "helps achieve a more stable frame rate depending on the specific game and system." It also prevents Windows Update from bothering you while you play.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix Low FPS With In-Game Options
 
  Next, we turn to settings you can change in most games that can solve your low frame rate problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 8\. Change the Game's Graphical Settings
 
  Most[PC games allow you to change a variety of graphical options](https://www.makeuseof.com/tag/video-game-graphics-settings-explained/) ; the exact choices will depend on the game. As a general rule, the more graphical effects you enable for improved visuals, the lower your frame rate will be.
@@ -159,6 +166,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  This is because apps and games running in this mode have full control over the screen output. While borderless windowed might be more convenient, the game doesn't enjoy that display exclusivity in this mode, and may thus dip to a lower frame rate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10\. Repair or Reinstall the Game
 
  If you only experience FPS issues with one game, it might have some corrupted files causing the problem.
@@ -167,21 +178,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Steam Verify Local Files Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Steam-Verify-Local-Files-Button.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Else, try uninstalling and reinstalling the game to see if that improves performance.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Hardware Fixes for Low Game FPS
 
  If you tried all the above and your games are still running at low FPS, your hardware is likely a bottleneck. In this case, you can look at making changes to your graphics card and other hardware for better frame rates.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 11\. Consider Overclocking Your Components
 
  If you don't have the money to upgrade your PC's components right now, you might consider overclocking your existing hardware. This allows you to squeeze a little more power out of what you already have, at essentially no cost.
@@ -202,23 +204,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Find out[which computer upgrades improve performance the most](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) to see what you should replace first.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Low FPS Issues Easily
 
  We've looked at a number of tips to fix low FPS on your PC. Hopefully, some combination of these helps boost your frame rate back to an acceptable level.
 
  In the end, FPS issues come down to system resources. This is the case whether your computer is wasting resources on other processes or unnecessary features, or doesn't have enough power in the first place.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -227,4 +223,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-secretly-share-moments-with-instagram-live/"><u>[New] How to Secretly Share Moments with Instagram Live</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/erful-applications-for-saving-youtube-content-on-android-for-2024/"><u>9 Powerful Applications for Saving YouTube Content on Android for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-buys-exclusive-deal-the-hp-victus-15-exceptional-value-for-gamers-slashed-prices-offer-extra-savings/"><u>Best Buy's Exclusive Deal: The HP Victus 15 - Exceptional Value for Gamers, Slashed Prices Offer Extra Savings!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enjoy-endless-creativity-discover-the-best-in-cheap-online-video-downloading-for-2024/"><u>Enjoy Endless Creativity Discover the Best in Cheap, Online Video Downloading for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-enhanced-entertainment-with-the-incredible-deal-50-ultra-hd-toshiba-tv-for-only-729-limited-time-offer-this-labor-day-weekend/"><u>Experience Enhanced Entertainment with the Incredible Deal: 50 Ultra HD Toshiba TV for Only $729 – Limited Time Offer This Labor Day Weekend!</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-5-unique-features-that-make-opera-gx-a-standout-in-todays-mobile-browsers-insights-from-zdnet/"><u>Exploring 5 Unique Features That Make Opera GX a Standout in Today's Mobile Browsers - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-guide-to-gathering-gold-from-guided-goods-gazes-online/"><u>In 2024, A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transforming-video-summaries-via-ideal-templates/"><u>In 2024, Transforming Video Summaries via Ideal Templates</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-motorola-g24-power-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Motorola G24 Power without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-steams-non-syncing-library-files/"><u>Quick Fix for Steam's Non-Syncing Library Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-connect-to-your-steam-friends-again/"><u>Resolved! How to Connect to Your Steam Friends Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-a-bargain-exclusive-offer-on-high-quality-85-tcl-tv-for-less-than-1k-during-the-holiday-weekend-insider-info-from-zdnet/"><u>Score a Bargain! Exclusive Offer on High-Quality 85 TCL TV for Less Than $1K During the Holiday Weekend – Insider Info From ZDNET.</u></a></li>
+<li><a href="https://games-able.techidaily.com/story-3-believing-that-the-technology-would-have-no-significant-impact-on-business-operations-wrong-answer/"><u>Story 3: Believing that the Technology Would Have No Significant Impact on Business Operations (Wrong Answer)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-huge-savings-up-to-32-off-the-xbox-fire-tv-stick-4k-and-secure-exclusive-access-to-xbox-game-pass-for-free-read-more-on-zdnet/"><u>Unlock Huge Savings: Up to 32% Off the Xbox Fire TV Stick 4K & Secure Exclusive Access to Xbox Game Pass for Free - Read More on ZDNet!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-windows-8-mp4-editor-the-ultimate-video-editing-solution/"><u>Updated In 2024, Windows 8 MP4 Editor The Ultimate Video Editing Solution</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Score Big on PS Games During Summer Clearance
-date: 2024-12-19T23:46:36.119Z
-updated: 2024-12-25T20:25:06.515Z
+date: 2024-12-29T16:01:52.127Z
+updated: 2025-01-04T16:01:39.415Z
 tags:
   - games
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
@@ -41,15 +45,15 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Little Nightmares 1 & 2
 
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Owlboy
 
@@ -57,15 +61,15 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Unravel Two
 
  Unravel Two is a beautifully rendered puzzle platformer that can be enjoyed alone, but it is best experienced with a friend. It has some incredibly unique and satisfying mechanics where you can use the yarn that makes up your body to interact with your surroundings and solve puzzles. It is very similar to It Takes Two, so if you were a fan of that, this should be at the top of your backlog.
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. The Last of Us: Part II
 
@@ -73,25 +77,21 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Resident Evil Village
 
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
@@ -122,20 +122,18 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-top-6-tools-for-saving-linkedin-videos-effortlessly/"><u>[New] 2024 Approved Top 6 Tools for Saving LinkedIn Videos Effortlessly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-complete-guide-to-ios-snapshots-and-more/"><u>[New] Complete Guide to iOS Snapshots and More</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-exclusive-access-8-top-fb-link-extractors/"><u>[New] Exclusive Access 8 Top FB Link Extractors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unlocking-the-potential-of-instagrams-sound-symbols/"><u>[New] In 2024, Unlocking the Potential of Instagram's Sound Symbols</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-circle-of-connectivity-spotlighting-instas-top-25-influencers/"><u>2024 Approved The Circle of Connectivity Spotlighting Insta's Top 25 Influencers</u></a></li>
-<li><a href="https://common-error.techidaily.com/corrective-measures-for-wrp-malfunction-ensuring-smooth-operation-of-windows-maintenece-tasks/"><u>Corrective Measures for WRP Malfunction: Ensuring Smooth Operation of Windows Maintenece Tasks</u></a></li>
-<li><a href="https://games-able.techidaily.com/determine-if-cpu-is-restricting-your-pcs-abilities/"><u>Determine if CPU Is Restricting Your PC's Abilities</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-the-flaw-in-the-greatness-of-google-play-pass/"><u>Discovering the Flaw in the Greatness of Google Play Pass</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-the-ps5-game-top-9-exclusive-benefits/"><u>Elevating the PS5 Game: Top 9 Exclusive Benefits</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-gamers-monitor-165hz-pro/"><u>Elite Gamer's Monitor: 165Hz Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-tutorial-elevate-your-edits-with-l-cuts-and-j-cuts-for-2024/"><u>FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-wi-fi-free-gaming-titles-ios/"><u>The Ultimate List of Wi-Fi Free Gaming Titles (iOS)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y100-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y100 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-5-free-online-video-editors-similar-to-imovie-updated-2023/"><u>Updated 5 Free Online Video Editors Similar to iMovie (Updated 2023)</u></a></li>
-<li><a href="https://games-able.techidaily.com/value-of-quick-resume-on-xbox-series-xands/"><u>Value of Quick Resume on Xbox Series X&S</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-upgrade-your-iphones-ringtone-selection/"><u>[Updated] How to Upgrade Your iPhone's Ringtone Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reimagine-your-content-with-advanced-number-edits-in-tiktok/"><u>[Updated] Reimagine Your Content with Advanced Number Edits in TikTok</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-reviving-rural-vistas-sustainable-transition-for-cities-for-2024/"><u>[Updated] Reviving Rural Vistas Sustainable Transition for Cities for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-action-and-adventure-with-ions-pro-3-camera-insight/"><u>2024 Approved Action and Adventure with ION's Pro 3 Camera Insight</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-the-not-responding-error-on-your-windows-10-file-explorer-quick-fixes-revealed/"><u>Defeating the Not Responding Error on Your Windows 10 File Explorer - Quick Fixes Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-6-misconceptions-macs-vs-gaming-computers/"><u>Dissecting 6 Misconceptions: Macs Vs. Gaming Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103163615-resolution-zero-connection-woes-wacom-fixed/"><u>Resolution: Zero-Connection Woes, Wacom Fixed!</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-games-at-no-cost-on-series-xs/"><u>Revive Games at No Cost on Series X|S</u></a></li>
+<li><a href="https://win-latest.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederaufbau-einer-gpt-datenpartition-erfahre-alles/"><u>Schritt-Für-Schritt-Anleitung Zum Wiederaufbau Einer GPT-Datenpartition - Erfahre Alles</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-troublesome-display-driver-failed-error-on-windows-1111-update/"><u>Tackling Troublesome Display Driver Failed Error on Windows 11/11 Update</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-unrivaled-power-of-xbox-one-x-a-comprehensive-gaming-console-assessment/"><u>The Unrivaled Power of Xbox One X: A Comprehensive Gaming Console Assessment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unwrapping-utopia-creating-magical-unboxing-moments-for-2024/"><u>Unwrapping Utopia Creating Magical Unboxing Moments for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtubes-newest-fun-interactive-and-playable-mini-games/"><u>YouTube's Newest Fun: Interactive and Playable Mini-Games</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Play Along with YouTube's Newest Test Mini-Games
-date: 2024-12-20T20:17:25.939Z
-updated: 2024-12-25T16:09:09.245Z
+date: 2024-12-31T16:04:23.706Z
+updated: 2025-01-04T16:01:30.915Z
 tags:
   - games
 categories:
@@ -55,10 +55,6 @@ Here are all the games accessible in the YouTube Playables section:
 
  Many of these games have been developed by well-known game developers, such as FRVR, Nitro Games, Vodoo, Aim Lab, Famobi, and Arkadium. And since some of these developers are popular for their free HMTL5 games, you can actually play some of the games listed above outside YouTube Playables through the game developer’s official website or through third-party sites like[HTML5 Games](https://html5games.com/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Who Can Play Playables on YouTube?
 
  Playables is an experimental feature within YouTube. Since[only YouTube Premium members can test experimental features](https://www.makeuseof.com/youtube-premium-test-experimental-features/) , the mini-games are only available to YouTube Premium subscribers. This also means that those with YouTube Kids accounts cannot access this section despite the child-friendly nature of all the mini-games within the collection.
@@ -75,10 +71,14 @@ Here are all the games accessible in the YouTube Playables section:
 
 ![YouTube You tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-you-section.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![YouTube Settings menu with experimental features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/3-youtube-settings-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the option to try out YouTube Playables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/4-try-out-youtube-playables-1.jpg)
@@ -89,16 +89,20 @@ Close
 
 ![YouTube compass icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-compass-icon-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Mobile explore section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/2mobile-explore-section.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![YouTube playable games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/22youtube-playable-games.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![YouTube homepage scrolling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/403399801_6992387144163435_8787378799009490497_n-1.jpg)
@@ -106,10 +110,6 @@ Close
 Close
 
  Alternatively, you can simply keep scrolling through the YouTube homepage past**Shorts** and**Breaking news** until you see the**Playables on YouTube** section. You can then click any of the 40 mini-games available to start playing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Testing YouTube Playables
 
@@ -132,16 +132,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-11-brainy-battles-general-knowledge-channels-revealed/"><u>[New] 2024 Approved Top 11 Brainy Battles General Knowledge Channels Revealed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-your-content-anytime-anywhere-choose-from-these-best-free-and-online-downloads-for-2024/"><u>[Updated] Your Content, Anytime, Anywhere Choose From These Best Free & Online Downloads for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortnite-financial-remedy-requesting-a-refund/"><u>Fortnite Financial Remedy: Requesting a Refund</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-8-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 8 Plus Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-the-art-of-fast-loading-facebook-videos/"><u>In 2024, The Art of Fast-Loading Facebook Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macx-dvd-ripper-pro2018digiarty/"><u>MacX DVD Ripper Proの2018年版を今すぐDigiartyから無料配布しています、お早めにチェック！</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-remove-audio-from-mov-files-on-windows-or-mac/"><u>New How to Remove Audio From MOV Files on Windows or Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-graphic-gamers-guide-to-rhythm-beat-play/"><u>The Graphic Gamer's Guide to Rhythm Beat Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-gpu-picks-beyond-rtx-4060-ti/"><u>Top GPU Picks Beyond RTX 4060 Ti</u></a></li>
-<li><a href="https://games-able.techidaily.com/trendsetting-ergonomic-office-surface-solutions/"><u>Trendsetting Ergonomic Office Surface Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-how-to-implementing-two-factor-authentication-on-your-email-for-enhanced-safety/"><u>Ultimate How-To: Implementing Two-Factor Authentication on Your Email for Enhanced Safety</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/udio-liberation-from-youtube-three-safe-methods/"><u>[New] Audio Liberation From YouTube Three Safe Methods</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-path-to-digital-fame-on-youtube-begins-here-for-2024/"><u>[Updated] The Path to Digital Fame on YouTube Begins Here for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-experience-and-space-with-extra-large-front-ends/"><u>Enhance Experience & Space With Extra-Large Front Ends</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-screens-to-shelves-a-game-owners-goal/"><u>From Screens to Shelves: A Game Owner's Goal</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-engaging-vids-with-template-magic/"><u>In 2024, Crafting Engaging Vids with Template Magic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-viral-posts-on-instagram-top-tips-and-tricks/"><u>Mastering the Art of Viral Posts on Instagram - Top Tips and Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/ranking-graphics-cards-similar-to-nvidias-4060-ti/"><u>Ranking Graphics Cards Similar to Nvidia's 4060 Ti</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-and-stellar-a-guide-to-configuring-dns-in-windows-11/"><u>Secure & Stellar: A Guide to Configuring DNS in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-conversores-dvd-para-mp4-ideais-para-mac-e-windows-11-no-ano-de-202n3-ranking-definitivo/"><u>Top Conversores DVD Para MP4 Ideais Para Mac E Windows 11 No Ano De 202N3 - Ranking Definitivo!</u></a></li>
+<li><a href="https://games-able.techidaily.com/when-your-switch-breaks-should-you-fix-or-trade/"><u>When Your Switch Breaks, Should You Fix or Trade?</u></a></li>
 </ul></div>
 

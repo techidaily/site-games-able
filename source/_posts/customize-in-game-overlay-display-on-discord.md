@@ -1,7 +1,7 @@
 ---
 title: Customize In-Game Overlay Display on Discord
-date: 2024-12-24T03:53:29.641Z
-updated: 2024-12-26T02:40:22.926Z
+date: 2024-12-30T16:00:09.840Z
+updated: 2025-01-04T16:01:14.877Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/b38051c9d12a2b8d1315fdc2f1d84dde69fd749e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Discord Overlay
 
  To use the Discord overlay in a game, you must enable the feature in Discord. The app must also recognize the game you want to use the overlay in.
@@ -41,7 +45,7 @@ To turn on the Discord overlay, follow these steps:
 ![Discord Detecting the Game Being Played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-detecting-the-game-being-played.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If Discord doesn't automatically detect the game, you must troubleshoot the problem. If you fail to[fix the game detection feature in Discord](https://www.makeuseof.com/windows-discord-game-detection-not-working/) , you can manually add the game.
@@ -56,14 +60,10 @@ Here's how:
 5. Select the game you want to add from the list and hit**Add Game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Manually Add Roblox in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/manually-add-roblox-in-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use the Discord Overlay During Gaming
 
@@ -74,6 +74,10 @@ Here's how:
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
 
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Disable the Discord In-Game Overlay
 
@@ -86,16 +90,12 @@ Follow these steps to disable the in-game overlay:
 3. Turn off the toggle next to**Enable in-game overlay** .  
 ![Disable Discord Overlay in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-in-game-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To permanently turn off the overlay only for a specific game, navigate to the**Registered Games** tab and click on the**monitor icon** next to it.
 
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
@@ -119,17 +119,17 @@ Follow these steps to disable the in-game overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-techniques-for-excellent-sound-no-mic-included-for-2024/"><u>[Updated] Cutting-Edge Techniques for Excellent Sound, No Mic Included for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y100a-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y100A Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-showmore-screen-recorder-review-all-you-need-to-know/"><u>In 2024, ShowMore Screen Recorder Review All You Need To Know</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>In 2024, The Artist' Writes An iPad Guide to Time-Lapse Photography</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-windows-10-movie-making-best-apps-and-tools/"><u>In 2024, Windows 10 Movie Making Best Apps and Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/mend-your-xbox-series-xs-troubleshooting-guide/"><u>Mend Your Xbox: Series X|S Troubleshooting Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/mobile-monopoly-commanding-the-cube-on-android-and-ios/"><u>Mobile Monopoly: Commanding the Cube on Android and iOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/reducing-steam-web-helpers-ram-footprint-top-5-techniques/"><u>Reducing Steam Web Helper's RAM Footprint: Top 5 Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revised-access-controls-enable-the-safe-download-of-files-following-security-setting-changes/"><u>Revised Access Controls: Enable the Safe Download of Files Following Security Setting Changes</u></a></li>
-<li><a href="https://games-able.techidaily.com/stream-assist-explained-why-your-games-are-more-enjoyable/"><u>Stream Assist Explained: Why Your Games Are More Enjoyable</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solutions-for-win-rpc-errors-a-quick-guide/"><u>Swift Solutions for Win RPC Errors - A Quick Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-8-search-tools-to-locate-missing-persons-effortlessly/"><u>Top 8 Search Tools to Locate Missing Persons Effortlessly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-beginners-blueprint-to-effective-use-of-aiseesoft-recorder/"><u>[Updated] Beginner's Blueprint to Effective Use of Aiseesoft Recorder</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/beyond-video-chats-webcam-alternatives-for-2024/"><u>Beyond Video Chats Webcam Alternatives for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-prevent-and-fix-repeated-palworld-crashing-issues-on-computers/"><u>Expert Tips to Prevent and Fix Repeated Palworld Crashing Issues on Computers</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-microsoft-flight-simulator-2020s-crash-problem-on-your-personal-computer/"><u>How to Overcome Microsoft Flight Simulator 2020'S Crash Problem on Your Personal Computer</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-depth-analysis-of-seatechs-portable-blu-ray-burner-an-expert-review/"><u>In-Depth Analysis of SeaTech's Portable Blu-Ray Burner: An Expert Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-your-old-dock-fit-for-the-switchs-newest-form/"><u>Is Your Old Dock Fit for the Switch's Newest Form?</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-pairings-accessories-for-a-superior-ps-vr2-experience/"><u>Perfect Pairings: Accessories for a Superior PS VR2 Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-budgeting-for-steam-game-acquisitions/"><u>Smart Budgeting for Steam Game Acquisitions</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-the-ranks-critical-websites-to-enhance-your-score/"><u>Step Up the Ranks: Critical Websites to Enhance Your Score</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-case-for-investing-in-the-affordable-apple-m3-macbook-pro-by-experts-zdnet/"><u>The Ultimate Case for Investing in the Affordable Apple M3 MacBook Pro by Experts | ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-ai-art-mastery-8-expert-image-generation-prompts-for-dall-e-3/"><u>Unlock AI Art Mastery: 8 Expert Image Generation Prompts for DALL-E 3</u></a></li>
 </ul></div>
 

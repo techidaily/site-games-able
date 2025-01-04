@@ -1,7 +1,7 @@
 ---
 title: Unleashing the Potential of ChatGPT as an Interactive Story Game
-date: 2024-12-21T03:29:59.416Z
-updated: 2024-12-26T05:53:27.446Z
+date: 2024-12-30T16:02:27.958Z
+updated: 2025-01-04T16:00:03.005Z
 tags:
   - games
 categories:
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, this is more compact and easier to look at than the default look.
 
 > 6\. The ‘Description’ must stay between 3 to 10 sentences.
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 > 10\. Change the ‘Weather’ to reflect ‘Description’ and whatever environment the player is in the game.
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
@@ -117,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -138,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
 
@@ -169,10 +169,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -196,7 +192,7 @@ And finally, don’t forget to actually start the game:
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
@@ -297,6 +293,10 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -318,22 +318,19 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-obs-supreme-vs-streamlabs-empire/"><u>[New] 2024 Approved OBS Supreme vs Streamlabs Empire</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-premiere-illustrator-adjustments-for-2024/"><u>[Updated] Premiere Illustrator Adjustments for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-mastering-quick-video-pace-adjustments-on-youtube/"><u>2024 Approved Mastering Quick Video Pace Adjustments on YouTube</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-narzo-60-pro-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme Narzo 60 Pro 5G Unlock Without Password</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-tailored-user-personas-with-chatgpt-for-optimal-engagement/"><u>Crafting Tailored User Personas with ChatGPT for Optimal Engagement</u></a></li>
-<li><a href="https://games-able.techidaily.com/customizing-notification-sounds-with-xbox/"><u>Customizing Notification Sounds with Xbox</u></a></li>
-<li><a href="https://windows11.techidaily.com/debunking-myths-the-necessity-and-risks-of-pagefilesys/"><u>Debunking Myths: The Necessity and Risks of Pagefile.sys</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-technology-behind-xboxs-remote-gameplay/"><u>Decoding the Technology Behind Xbox’s Remote Gameplay</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-garmin-venu-revolutionizing-all-day-activity-monitoring-and-health-management/"><u>Expert Analysis of the Garmin Venu: Revolutionizing All-Day Activity Monitoring and Health Management</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-engineering-of-your-console-control-xbox-s/"><u>Exploring the Engineering of Your Console Control - Xbox S</u></a></li>
-<li><a href="https://app-tips.techidaily.com/maximize-your-productivity-with-ubuntu-2204-a-powerful-desktop-os-from-zdnet/"><u>Maximize Your Productivity with Ubuntu 22.04: A Powerful Desktop OS From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/pixels-vs-shelves-the-advantages-and-disadvantages-of-digital-gaming/"><u>Pixels Vs. Shelves: The Advantages & Disadvantages of Digital Gaming</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professionals-drone-guide-top-5-recommendations-inside/"><u>Professionals’ Drone Guide - Top 5 Recommendations Inside</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-resume-does-xbox-series-enhance-gaming/"><u>Quick Resume: Does Xbox Series Enhance Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/revoking-an-overspent-fortnite-purchase-a-simplified-path/"><u>Revoking an Overspent Fortnite Purchase - A Simplified Path</u></a></li>
-<li><a href="https://games-able.techidaily.com/stream-etiquette-101-dealing-with-bans-and-unbans/"><u>Stream Etiquette 101: Dealing with Bans and Unbans</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-nintendo-switch-controllers-of-2024/"><u>The Best Nintendo Switch Controllers of 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-pushing-boundaries-in-video-production-acquire-free-green-screen-expertise-from-4-youtube-gurus/"><u>[New] 2024 Approved Pushing Boundaries in Video Production Acquire Free Green Screen Expertise From 4 YouTube Gurus</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-reverse-video-on-instagram-complete-guide-for-2024/"><u>[New] How to Reverse Video on Instagram? [Complete Guide] for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-the-essence-of-your-favorite-series-with-these-extractors/"><u>[New] In 2024, Capture the Essence of Your Favorite Series with These Extractors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-time-warp-your-snapchat-slideshow-guide/"><u>[New] In 2024, Mastering Time Warp Your Snapchat Slideshow Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-streamsavvy-exploring-alternatives-to-dacast/"><u>[Updated] In 2024, StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/can-i-browse-through-all-my-contacts-shared-videos-and-photos/"><u>Can I Browse Through All My Contact's Shared Videos & Photos?</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-virtual-gaming-chesspoker-on-discord-networks/"><u>Discovering Virtual Gaming: Chess/Poker on Discord Networks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-hp-deskjet-2600-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Download & Install HP DeskJet 2600 Printer Drivers: Compatible with Windows 7, 8, and 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-range-from-realms-keep-your-realm-creations/"><u>Free-Range From Realms, Keep Your Realm Creations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/geekom-unveils-compact-powerhouse-ax8-mini-computer-boasting-13th-gen-intel-and-ryzen-7000-processors/"><u>GeekOm Unveils Compact Powerhouse: AX8 Mini Computer Boasting 13Th Gen Intel & Ryzen 7000 Processors</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-refund-process-for-your-xbox-game-purchase/"><u>Mastering the Refund Process for Your Xbox Game Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-gaming-from-pc-to-phone-via-twitch/"><u>Transforming Gaming: From PC to Phone via Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-the-full-potential-of-gaming-on-steam-revealing-9-key-factors/"><u>Unleashing the Full Potential of Gaming on Steam (Revealing 9 Key Factors)</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrading-to-rtx-after-nvidias-gtx-demise/"><u>Upgrading to RTX After Nvidia's GTX Demise</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies for Controlling Steam Web Helper's RAM Overuse
-date: 2024-12-21T16:27:15.683Z
-updated: 2024-12-26T03:14:00.186Z
+date: 2025-01-02T16:05:53.945Z
+updated: 2025-01-04T16:06:18.137Z
 tags:
   - games
 categories:
@@ -31,20 +31,20 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
 ![Steam processes running in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_processes_running_in_task_manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Steam is made up of several components. Its most popular components are its download manager and games list, but it has several other features, and all of these other features run off the Steam Client WebHelper. This is essentially an internet browser that Steam manages. Every store page, friends list, and chat window creates a new Steam Client WebHelper instance.
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable Hardware-Accelerated Rendering
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
@@ -82,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
  This will sacrifice some eye candy for the sake of performance, but overall doesn't reduce memory usage beyond superficial levels. If you've tried all these options so far and still find your system struggling, it might be time for more drastic measures.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Launch the Steam Mini Games List
 
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
@@ -104,6 +100,10 @@ steam://open/minigameslist
 ## 5\. Create a Custom Batch File for Minimal Steam
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
@@ -139,19 +139,18 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-efficient-meeting-management-with-slack-and-filmora-tools-for-2024/"><u>[New] Efficient Meeting Management with Slack & Filmora Tools for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-smooth-and-quick-download-4-websites-for-tones/"><u>[New] In 2024, Smooth and Quick Download 4 Websites for Tones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-from-viewer-to-voyager-in-depth-guide-for-captivating-live-tv-on-your-pc/"><u>[Updated] In 2024, From Viewer to Voyager In-Depth Guide for Captivating Live TV on Your PC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-social-media-impact-tiktoks-viral-tweets-at-the-forefront/"><u>2024 Approved Social Media Impact TikTok's Viral Tweets at the Forefront</u></a></li>
-<li><a href="https://win-updates.techidaily.com/compatibility-issues-with-quicktime-files-heres-how-to-resolve-them-thoroughly/"><u>Compatibility Issues with QuickTime Files? Here's How to Resolve Them Thoroughly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-solutions-for-activating-thx-spatial-audio-feature-in-microsofts-latest-windows-versions/"><u>Expert Solutions for Activating Thx Spatial Audio Feature in Microsoft's Latest Windows Versions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/e-of-virtual-game-viewership-income-for-2024/"><u>Future of Virtual Game Viewership Income for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-calibrate-and-cure-your-xbox-gamepad-drift/"><u>How to Calibrate and Cure Your Xbox Gamepad Drift</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-failed-validation-on-steam-files-error/"><u>Resolving Failed Validation on Steam Files Error</u></a></li>
-<li><a href="https://games-able.techidaily.com/taking-back-your-xbox-wireless-update/"><u>Taking Back Your Xbox Wireless Update</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-gaming-spaces-select-large-scale-cabinet-panels/"><u>Transform Gaming Spaces: Select Large-Scale Cabinet Panels</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-meta-quest-3s-future-with-advanced-ai-beats-the-vision-pro-learn-activation-steps-tech-insights/"><u>Unlocking Meta Quest 3'S Future with Advanced AI: Beats the Vision Pro, Learn Activation Steps! | Tech Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-twitch-engaging-with-video-content-online/"><u>Unveiling Twitch: Engaging with Video Content Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-game-pass-guide-why-its-a-must-have/"><u>Xbox Game Pass Guide: Why It's a Must-Have</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-turning-vimeo-video-into-reusable-mp3-chunks/"><u>[Updated] 2024 Approved Turning Vimeo Video Into Reusable MP3 Chunks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-achieving-visual-precision-with-the-right-4k-display-selection-for-2024/"><u>[Updated] Achieving Visual Precision with the Right 4K Display Selection for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-av1-decoding-for-newcomers/"><u>[Updated] In 2024, AV1 Decoding for Newcomers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-validating-yourself-a-look-at-verified-insta-posts/"><u>2024 Approved Validating Yourself A Look at Verified Insta Posts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862857266-asus-prime-x670-p-wifi-am5-motherboard-get-yours-for-a-steal-at-only-135/"><u>ASUS Prime X670-P WiFi AM5 Motherboard - Get Yours for a Steal at Only $135</u></a></li>
+<li><a href="https://games-able.techidaily.com/detailed-walkthrough-for-xbox-purchase-cancellations/"><u>Detailed Walkthrough for Xbox Purchase Cancellations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-cinema-from-home-stream-blockbusters-and-originals-on-crackle-free-of-cost/"><u>Enjoy Cinema From Home: Stream Blockbusters and Originals on Crackle - Free of Cost</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steams-gamer-rewards-unlock-all-achievements/"><u>Mastering Steam's Gamer Rewards: Unlock All Achievements</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-controlling-discord-ui/"><u>Mastering the Art of Controlling Discord UI</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-driver-verifier-detected-violation-bluescreen-woes-on-your-windows-10-pc-fixed/"><u>Resolving Driver Verifier Detected Violation Bluescreen Woes on Your Windows 10 PC - Fixed</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-consoles-secrets-without-a-mic/"><u>Unlock Your Console's Secrets Without a Mic</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-psp-for-nes-snes-and-sega-genesis-simulation/"><u>Unlock Your PSP for NES, SNES, and Sega Genesis Simulation</u></a></li>
 </ul></div>
 

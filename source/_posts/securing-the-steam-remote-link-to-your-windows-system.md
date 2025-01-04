@@ -1,7 +1,7 @@
 ---
 title: Securing the Steam Remote Link to Your Windows System
-date: 2024-08-27T17:05:45.658Z
-updated: 2024-08-28T17:05:45.658Z
+date: 2024-12-29T12:43:23.346Z
+updated: 2025-01-04T13:59:37.436Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
  Steam's Remote Play is a useful feature that allows you to play your favorite Steam titles from any modern handheld and other devices. You can use the Steam Link app on your phone or another computer to stream games you have installed on your primary computer.
 
  While a handy feature, Steam Remote Play can be erratic and may suddenly stop working. If your internet connection speed is not an issue, your Steam client on Windows may be acting up. Here's how to troubleshoot and fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes Steam Remote Play to Stop Working on Windows?
 
@@ -34,6 +38,11 @@ To disable Remote Play on Steam:
 2. Next, click on**Steam** in the top left corner and select**Settings** .  
 ![steam setting pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-setting-pc.jpg)
 3. In the**Settings** dialog, open the**Remote Play** tab in the left pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![steam unpair device remote plauy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-unpair-device-remote-plauy.jpg)
 4. Uncheck the**Enable Remote Play** option and click**OK** to disable**Remote Play.**
 5. Next, relaunch the**Steam** client.
@@ -42,8 +51,9 @@ To disable Remote Play on Steam:
 8. Relaunch the Steam client and check for any improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Unpair the Guest Steam Link Device
 
  If the issue is with your guest device, try to unpair the device from your Steam client. You can then pair the device again to see if that helps you fix the issue.
@@ -56,9 +66,6 @@ To unpair the Remote Play device on Steam:
 4. Make sure the**Enable Remote Play** option is selected.  
 ![steam unpair device remote plauy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-unpair-device-remote-plauy.jpg)
 5. Next, select your remote device under**Device Name** and select**Unpair Devices** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
 1. Click**OK** to confirm the action and unpair your device.
 2. Click**OK** to save the changes and close Steam.
@@ -68,15 +75,17 @@ To unpair the Remote Play device on Steam:
 5. On your host machine, type the given PIN and click**OK** to authorize the device.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Update Steam Client and Games
 
 ![UPDATE STEAM client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-steam-client.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  An outdated Steam client can cause some features to malfunction. In other instances, running an older version of a game can cause Remote Play to act up.
 
  The Steam client auto-checks and updates every time you launch the app. However, you can also manually check for an update from the interface. Steam automatically installs game updates, so you don’t need to do anything to install game updates.
@@ -103,9 +112,6 @@ To disable Steam Beta Client Participation:
 4. Click the**Client Beta Participation** drop-down and select**No beta chosen.**
 5. When prompted, click**Restart Now** . Steam will shut down the client and start installing the latest version of the stable release.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 5\. Disable IPv6 for Your Network Adapter
 
  If your host system connection uses both IPv6 and IPv4 addresses, try to disable the latest version of the internet protocol to see if that helps resolve the issue.
@@ -122,17 +128,15 @@ To disable IPv6 for your connection:
 7. Uncheck the**TCP/IPv6** option and click**OK** to save the changes.  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. Close Control Panel and check if Remote Play is working. If the issue persists, enable the IPv6 option in the connection properties and proceed with the next steps.
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Enable Big Picture Mode on Your Guest Device
 
 ![big picture mode steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/big-picture-mode-steam.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Big Picture Mode on Steam lets you view your games in a full-screen user interface. If you are trying to use Remote Play on another computer or TV, enter the Big Picture Mode then and start streaming. It's a tried and tested workaround that seems to remedy Remote Play issues.
 
 To use Big Picture Mode on Steam:
@@ -144,10 +148,6 @@ To use Big Picture Mode on Steam:
 
  This is not a permanent solution but a handy workaround. However, it should help you get around the issue temporarily.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 7\. Disable and Configure Your Antivirus and Firewall
 
  Your antivirus or firewall can block genuine outgoing connections causing Remote Play to stop working. You can temporarily disable your firewall to determine if it is blocking a port or program.
@@ -158,13 +158,19 @@ To use Big Picture Mode on Steam:
 2. Open the**Privacy & security** tab.  
 ![windows security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-settings.jpg)
 3. Next, click on**Firewall & network protection.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![windows security settings firewall network protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-settings-firewall-network-protection.jpg)
 4. Choose your active network under**Firewall & network protection.**  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![turn off windows defender firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-windows-defender-firewall.jpg)
 5. Toggle the switch under**Microsoft Defender Firewall** to turn it off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, try to stream using Remote Play to see if the connection goes through. If yes, you'll need to learn[how to allow apps through Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Make sure to re-enable your firewall, irrespective of the result.
 
@@ -178,22 +184,13 @@ Follow these steps to enable Steam Overlay:
 2. Click on**Steam** in the top right corner and select**Settings** .  
 ![steam setting pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-setting-pc.jpg)
 3. Next, open the**In-Game** tab in the left pane.
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Here, check the**Enable Steam Overlay while in-game** option.  
 ![enable steam overlay while in game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-steam-overlay-while-in-game.jpg)
 5. Next, configure the Overlay shortcut keys if you want. Else, leave it as default.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click**OK** to save the changes.
 7. Next, launch the game you want to stream and then open**Steam Overlay** using the**Shift + Tab** key or your custom key.
 8. Now the game should stream without any issues on**Remote Play.**
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 9\. Disable Hardware Encoding
 
  You can enable hardware encoding on Steam to improve streaming performance on your computer. While a handy feature, it can also cause issues with Remote Play. To fix the problem, try to disable hardware encoding to see if that helps resolve the error.
@@ -207,6 +204,11 @@ To disable hardware encoding on Steam:
 4. Next, click on**Advanced Client Options.**  
 ![disable hardware encoding steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-hardware-encoding-steam.jpg)
 5. In the pop-up dialog, uncheck the**Enable hardware encoding** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**OK** to save the changes and disable hardware encoding.
 
 ## 10\. Reinstall the Steam Client
@@ -219,6 +221,11 @@ To uninstall the Steam client:
 2. Next, press**Win + E** to open File Explorer.  
 ![steamapp folder steam move](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steamapp-folder-steam-move.jpg)
 3. Next, navigate to**C:\\Program Files (x86)\\ Steam** and move the**SteamApps** folder to a different directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once done, press**Win + I** to open**Settings** .
 5. Next, open the**Apps** tab.  
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-installed-apps.jpg)
@@ -226,9 +233,6 @@ To uninstall the Steam client:
 7. Click the three-dots menu beside the app name and click**Uninstall** .  
 ![uninstall steam client windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-steam-client-windows-11.jpg)
 8. Click**Yes** to confirm the action.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 9. Click**Uninstall** again and click**Yes** if prompted by UAC.
 10. Next, go to the[Steam download page](https://store.steampowered.com/about/) and download the installer to install the app.
 11. Once Steam is installed, move the**SteamApps** folder back to**C:\\Program Files (x86)\\ Steam** so that the client can recognize your installed games.
@@ -237,14 +241,11 @@ To uninstall the Steam client:
 
  An easy way to fix issues with Remote Play is to install the Steam Link app on your guest and host system. If not, try to re-enable Remote Play or unpair your paired devices to fix the problem. Additionally, check your firewall and IPv4 settings to fix network-related issues.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -253,4 +254,18 @@ To uninstall the Steam client:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-perfect-synergy-discover-5-superior-webcams-with-sound-tech/"><u>[New] In 2024, Perfect Synergy Discover 5 Superior Webcams with Sound Tech</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-accessing-and-saving-tweets-visuals-in-your-android-device/"><u>[Updated] In 2024, Accessing and Saving Tweets' Visuals in Your Android Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-dive-into-social-media-streams-watching-facebook-live-on-roku/"><u>[Updated] In 2024, Dive Into Social Media Streams Watching Facebook Live on Roku</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-cutting-edge-drones-specifically-designed-for-gopros/"><u>2024 Approved Cutting-Edge Drones Specifically Designed for GoPros</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-fast-resume-feature-for-xbox-sx/"><u>Evaluating Fast Résumé Feature for Xbox S/X</u></a></li>
+<li><a href="https://discover-help.techidaily.com/guia-paso-a-paso-para-solucionar-problemas-en-la-funcion-de-copia-de-seguridad-y-restauracion-de-windows/"><u>Guía Paso a Paso Para Solucionar Problemas en La Función De Copia De Seguridad Y Restauración De Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-tighten-up-retro-gaming-archives-with-chdmans-help/"><u>How to Tighten Up Retro Gaming Archives with CHDMAN's Help</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-game-files-with-steams-space-control/"><u>Streamlining Game Files with Steam's Space Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/testing-the-new-switch-oled-in-a-classic-gaming-setup/"><u>Testing the New Switch OLED in a Classic Gaming Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-methods-to-maximize-docked-steam-deck-output/"><u>Top 10 Methods to Maximize Docked Steam Deck Output</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlining PlayStation 5 Subscription Schemes
-date: 2024-08-27T17:05:22.176Z
-updated: 2024-08-28T17:05:22.176Z
+date: 2024-12-29T02:08:59.977Z
+updated: 2025-01-04T08:19:56.572Z
 tags:
   - games
 categories:
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
  We’ll show you everything you need to know to navigate subscriptions, where you can find them, and how to cancel and renew them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Available Gaming Subscriptions on the PS5?
 
  You can find the dedicated PlayStation Store subscriptions page by going to the**PlayStation Store** and tapping**R1** on your controller till you reach**Subscriptions** .
 
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ea-play-in-playstation-store-s-subscription-page.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While there’s a dedicated page for subscriptions, Sony offers only three for the US region:
 
@@ -43,20 +51,15 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 1. Open**Settings** and go to**Users and Accounts** .  
 ![Users and Accounts section of the PS5 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/users-and-accounts-section-of-the-ps5-settings.JPG)
 2. Select**Account** inside the Users and Accounts panel and choose**Payment and Subscriptions** .
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Scroll down the Payment and Subscriptions menu and select**Subscriptions** to a list of your subscriptions.  
 ![List of subscriptions in the Subscriptions page of the PS5's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-of-subscriptions-in-the-subscriptions-page-of-the-ps5-s-settings.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have no current or previous subscriptions, you’ll see a message saying, “You don’t have any subscriptions right now.”
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Cancel Your PS5 Subscriptions
 
  For those who have active subscriptions, you can easily cancel them by following these steps:
@@ -66,16 +69,13 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 3. Navigate to the**Cancel Subscription** button on the left and tap**X** on your controller.  
 ![EA Play subscription settings page on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ea-play-subscription-settings-page-on-a-ps5.JPG)
 4. You’ll get a message informing you that you won’t be billed again for your subscription.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Prompt notifying when EA Play subscription will cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/prompt-notifying-when-ea-play-subscription-will-cancel.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Prompt notifying when EA Play subscription will cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/prompt-notifying-when-ea-play-subscription-will-cancel.JPG)
+
  Canceling your subscription doesn’t mean losing your benefits. Your benefits only expire once the subscription has run its course. Canceling only means you won’t be charged again.
 
  Even with an inactive (or canceled) subscription, you can return here to manually buy your subscription again by selecting**Buy Again** . This saves you from being debited every month or year, and you can choose when exactly you would like to renew your subscription as long as it’s before the billing month ends.
@@ -101,8 +101,9 @@ Here’s how to renew a PS5 gaming subscription:
  And once again, subscriptions can be a great way to make gaming on a PS5 cheaper.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQ
 
 ### Q: How Do You Refund PlayStation Store Purchases?
@@ -113,14 +114,11 @@ Here’s how to renew a PS5 gaming subscription:
 
  To change your PlayStation Plus subscription tier, sign into your PlayStation account's**Account Management** settings online via[the official PlayStation website](https://id.sonyentertainmentnetwork.com/id/management%5Fca/?entry=p&pr%5Freferer=cam#/p/personal%5Finfo/list?cid=4a529aef-a3f3-41a6-a999-42f529175674&entry=p&state=cam%5F3af0585034c611577fab15ef3a9128ae) . From here, click on**Subscription** and select your**PlayStation Plus** subscription. Select**Change Plan** , then choose the plan you wish to switch to. Conveniently, if you want to[cancel your PlayStation Plus subscription](https://www.makeuseof.com/how-to-cancel-playstation-plus/) online, you can do so from the same**Subscription** settings page.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,4 +127,22 @@ Here’s how to renew a PS5 gaming subscription:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-gamers-dilemma-oculus-htc-and-sonys-vr-dominance/"><u>[New] 2024 Approved Gamers' Dilemma Oculus, HTC & Sony's VR Dominance</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-essential-free-mac-apps-to-perfect-your-tiktok-videos-for-2024/"><u>[New] Essential Free Mac Apps to Perfect Your TikTok Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-increase-youtube-traffic-by-a-million-safely-done-for-2024/"><u>[New] How to Increase YouTube Traffic by a Million Safely Done for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ai-revolution-in-windows-management-stardock-desktopgpt-outshines-conventional-copilots-for-tech-enthusiasts/"><u>AI Revolution in Windows Management: Stardock DesktopGPT Outshines Conventional Copilots for Tech Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-outdated-computers-with-atlasos/"><u>Elevate Outdated Computers with ATLASOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-performance-should-you-start-with-cpu-or-gpu/"><u>Elevating Performance: Should You Start with CPU or GPU?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fortify-your-gaming-experience-with-ps5-password/"><u>How to Fortify Your Gaming Experience with PS5 Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-unsubscribe-from-minecraft-realms-and-download-your-worlds/"><u>How to Unsubscribe From Minecraft Realms and Download Your Worlds</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-new-and-improved-samsung-galaxy-budsplus/"><u>In-Depth Look at the New and Improved Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://games-able.techidaily.com/invest-in-fun-why-paying-for-mobile-games-is-worthwhile/"><u>Invest in Fun: Why Paying for Mobile Games Is Worthwhile</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-precision-with-logitech-gaming-mice/"><u>Next-Level Precision with Logitech Gaming Mice</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/scholarly-selection-pinpointing-top-10-teaching-equipment-options/"><u>Scholarly Selection Pinpointing Top 10 Teaching Equipment Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/take-on-novel-challenges-with-these-6-funky-chess-apps/"><u>Take on Novel Challenges with These 6 Funky Chess Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
+</ul></div>
 

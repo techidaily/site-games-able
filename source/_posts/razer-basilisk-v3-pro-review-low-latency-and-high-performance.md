@@ -1,7 +1,7 @@
 ---
 title: "Razer Basilisk V3 Pro Review: Low Latency and High Performance"
-date: 2024-08-27T17:05:12.608Z
-updated: 2024-08-28T17:05:12.608Z
+date: 2025-01-01T15:23:17.254Z
+updated: 2025-01-03T19:19:57.286Z
 tags:
   - games
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/2667f52774b221737f5b40cebcdbe6bd28a1a0790
 
 ## Razer Basilisk V3 Pro Review: Low Latency and High Performance
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Razer Basilisk V3 Pro is a feature-rich wireless gaming mouse with impressive customization options and a fast sensor.
@@ -24,7 +28,15 @@ thumbnail: https://thmb.techidaily.com/2667f52774b221737f5b40cebcdbe6bd28a1a0790
 
 ![Razer Basilisk V3 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Razer-Basilisk-V3-Pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/editors-choice-2024.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Razer Basilisk V3 Pro
 
@@ -96,26 +108,21 @@ Paul Antill / MUO
 Paul Antill / MUO
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Design: RGB All The Things
 
  The V3 Pro is a right-handed mouse, focussed on ergonomic and style. It's available in two colors: black, or white.
 
 ![Razer Basilisk V3 - Official Colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-official-colors.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
  Both use a plastic chassis with a textured, matte finish for its top, glossy accents for its buttons, and rubberized side panels for grip where your thumb and ring finger typically lay. It also has a nice rounded thumb indent that makes the Basilisk V3 Pro easier to pick up, though that's not intended. The mouse feels well-shaped and suited to my medium-sized hands, though my partner with smaller hands finds it a bit too big. The plastic case seems high quality and effectively resists shine, smudges, and fingerprints.
 
 ![Razer Basilisk V3 - Thumb Grip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-thumb-grip.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
  For customization, we find 10+1 programmable buttons, with the +1 being a profile button underneath the mouse that lets you cycle through up to five saved profiles.
@@ -123,6 +130,10 @@ Paul Antill / MUO
  For RGB lighting, there are 12 lighting zones, full under glow, and plenty of customizable options.
 
 ![Razer Basilisk V3 - RGB Zones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-rgb-zones.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Paul Antill / MUO
 
@@ -142,9 +153,6 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Underside Controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-underside-controls.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
  There are left and right arrows to the side of the scroll wheel, indicating its use as two separate directional buttons in addition to the usual click-in you normally find. The scroll wheel itself has two modes: a tactile cycling mode, which takes advantage of its ridged rubber design for precision rolls, and a free-spin mode for high-speed scrolling.
@@ -152,6 +160,10 @@ Paul Antill / MUO
  Using Synapse, users can enable a smart-reel mode for their wheel, allowing it to automatically shift from tactile to free-spin as they scroll faster. I tried out both tactile and free-spin modes in a scroll-wheel browser tester, but I prefer the regular tactile mode as it's consistent.
 
 ![Razer Basilisk V3 - Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-scroll-wheel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Paul Antill / MUO
 
@@ -165,9 +177,6 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Laying on its Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-laying-on-its-side.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
 ## Optional Accessories Needed to Unlock The Full Feature-Set
@@ -191,13 +200,11 @@ Paul Antill / MUO
 ![Razer Basilisk V3 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Razer-Basilisk-V3-Pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/editors-choice-2024.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ##### Razer Basilisk V3 Pro
 
  9/ 10
@@ -208,14 +215,11 @@ Paul Antill / MUO
 
 [$150 at Amazon](https://www.amazon.com/Razer-Basilisk-Customizable-Wireless-Gaming/dp/B0BHFDVLF8?th=1&tag=makeusw-20&ascsubtag=UUmuoUeUpU2030588&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Frazer-basilisk-v3-pro-review%2F&asc%5Fcampaign=Affiliate) [See at Razer](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2030588&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgaming-mice%2Frazer-basilisk-v3-pro%2FRZ01-04620100-R3G1%23specs) [See at Walmart](https://www.walmart.com/ip/Razer-Basilisk-V3-Pro-Wireless-Gaming-Mouse-HyperScroll-Tilt-Wheel-2-4Ghz-Bluetooth-RGB-White/1609858144)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -224,4 +228,21 @@ Paul Antill / MUO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-comprehensive-guide-to-youtube-content-moderation-rules/"><u>[Updated] 2024 Approved Comprehensive Guide to YouTube Content Moderation Rules</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-upside-down-visuals-investigating-insta-video-anomalies-for-2024/"><u>[Updated] Upside Down Visuals Investigating Insta Video Anomalies for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-empowering-sites-to-attract-more-viewers-and-engagement/"><u>Cookiebot - Empowering Sites to Attract More Viewers and Engagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-lenovo-legion-gos-exciting-updates/"><u>Discovering Lenovo Legion Go's Exciting Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fix-for-non-responsive-volume-control-on-your-windows-11-pc-guide/"><u>DIY Fix for Non-Responsive Volume Control on Your Windows 11 PC [GUIDE]</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-spending-guide-for-sony-psp5-users/"><u>Fortnite Spending Guide for Sony PSP5 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/friends-first-gaming-metaverses-10-best-picks-for-2024/"><u>Friends First Gaming Metaverse’s 10 Best Picks for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-poco-x5-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Poco X5 Pro</u></a></li>
+<li><a href="https://techidaily.com/sony-xperia-10-v-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Sony Xperia 10 V can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-decks-finest-friends-a-guide-to-our-top-9-emulation-picks/"><u>Steam Deck's Finest Friends: A Guide to Our Top 9 Emulation Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-external-drive-setup-guide-for-games/"><u>Steam's External Drive Setup Guide for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-game-experience-with-these-tips/"><u>Transform Your Game Experience with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trim-overscan-on-windows-full-screen-perfection-guide/"><u>Trim Overscan on Windows: Full-Screen Perfection Guide</u></a></li>
+</ul></div>
 

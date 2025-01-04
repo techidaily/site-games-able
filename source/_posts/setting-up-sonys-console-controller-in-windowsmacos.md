@@ -1,7 +1,7 @@
 ---
 title: Setting Up Sony's Console Controller in Windows/macOS
-date: 2024-08-22T22:30:11.202Z
-updated: 2024-08-23T22:30:11.202Z
+date: 2024-12-29T14:13:47.129Z
+updated: 2025-01-04T13:48:50.853Z
 tags:
   - games
 categories:
@@ -30,22 +30,18 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
  Even if you're not using Steam, connecting the DualShock 4 to your Mac is simple. OpenEmu, the best emulator out there, supports the DualShock 4 natively, so all you have to do is plug it in and start playing. It might take a minute to figure out how it maps to an NES or Genesis controller, but after a few minutes of pressing buttons, you'll have it down. Mac is usually pretty good about connecting to PlayStation controllers, you can even[use the PS5 DualSense controller on a Mac](https://www.makeuseof.com/how-to-use-ps5-dualsense-controller-with-mac/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ho to Connect a PS4 Controller to Your PC
 
  The DualShock 4 will connect to your PC easily no matter which gaming platforms you use. The processes are slightly different depending on whether you're using Steam or not, but you can expect to have the controller set up within a few minutes.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Connecting a DualShock 4 on Steam
 
  If you want to play some of the[best Steam games](https://www.makeuseof.com/tag/best-free-steam-games/) using a DualShock 4, you'll be pleased to know that the process is incredibly simple.
@@ -57,18 +53,17 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 ![The controller settings menu in Steam Big Picture Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-big-picture-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can even customize the LED color of the DualShock 4 in the Calibration and Advanced Settings menu.
 
 ![Steam calibration advanced settings controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-big-picture-mode-led.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
+
 ### Connecting a DualShock 4 for Non-Steam Games
 
  If you want to use a DualShock 4 for non-Steam games, like emulated titles or old PC titles, or anything that you aren't playing on an official platform, the process takes a couple of steps.
@@ -84,31 +79,26 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
  And, like the Mac, you can use PS4 remote streaming to play your PS4 games on your PC. But again, you'll need to stay plugged in or use the adapter.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The DualShock 4 Wireless USB Adapter
 
  If you're willing to shell out for an extra accessory, the DualShock 4 wireless USB adapter is a great way to use your controller on a computer that doesn't have Bluetooth or for some other reason isn't using the controller very well. It's a small USB dongle that enables all the DualShock's features in any app that supports them. That means you'll get full rumble, light bar, and even audio through the headphone jack.
 
  This adapter is no longer officially sold, but third-party versions exist on Amazon and other websites. You can find them for a relatively cheap price, and it could be a convenient way of getting full rumble, audio, and other functionality through the DualShock 4\. Despite being an older controller, the[DualShock 4 is a better PC controller than the Switch Pro controller](https://www.makeuseof.com/dualshock-4-vs-switch-pro-controller-best-for-pc-gaming/) , despite the latter controller coming out much later. This controller has stood the test of time for its robust design, superb responsiveness, and comfortable feel.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Game on Your PC With a PS4 Controller
 
  It's easy to connect and use a PS4 controller on your PC or Mac, with native Steam functionality on PC and native functionality on Mac. If you ever run into a situation where your controller isn't being recognized by your PC, using DS4Windows is usually enough to get around it.
 
  The DualShock 4 is a solid controller, and one that still has functionality with lots of different platforms.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,4 +107,26 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ranking-the-greatest-9-mobile-video-communication-services-ios-android/"><u>[Updated] 2024 Approved Ranking the Greatest 9 Mobile Video Communication Services (iOS, Android)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-engagement-youtube-seo-must-haves-for-2024/"><u>[Updated] Elevate Engagement - YouTube SEO Must-Haves for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-your-ideal-broadcast-channel-top-10-guidelines/"><u>[Updated] Finding Your Ideal Broadcast Channel Top 10 Guidelines</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/10-nicht-erkannt-losungsansatze-fur-vier-gangige-probleme/"><u>10 Nicht Erkannt - Lösungsansätze Für Vier Gängige Probleme</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/achieve-clear-and-smooth-video-outputs-with-these-logitech-camera-insights/"><u>Achieve Clear & Smooth Video Outputs with These Logitech Camera Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/among-us-players-rejoice-conquering-the-notorious-game-load-stagnation-permanently/"><u>Among Us Players Rejoice: Conquering the Notorious Game Load Stagnation Permanently</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discovery-and-fix-for-error-45/"><u>Discovery and Fix for Error #45</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-nintendo-switch-configurations-must-have-tips/"><u>Essential Nintendo Switch Configurations: Must-Have Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-for-maximizing-your-gamer-score-on-steam/"><u>Expert Tips for Maximizing Your Gamer Score on Steam</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-nvidia-display-drivers-on-windows-10-7-and-8-computers/"><u>How to Install NVIDIA Display Drivers on Windows 10, 7 & 8 Computers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-g24-power-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Motorola G24 Power</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-by-tom-the-ultimate-guide-to-new-technology/"><u>In-Depth Analysis by Tom: The Ultimate Guide to New Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-up-playtime-selecting-the-best-nintendo-switch-docks/"><u>Power Up Playtime: Selecting the Best Nintendo Switch Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalize-your-chess-play-engage-with-these-6-alternate-platforms/"><u>Revitalize Your Chess Play: Engage with These 6 Alternate Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-enjoy-emulated-classics-on-steam-deck/"><u>Step-by-Step Guide: Enjoy Emulated Classics on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/throttle-and-steering-best-input-methods-for-track-thrillers/"><u>Throttle and Steering: Best Input Methods for Track Thrillers</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-11-offline-friendly-phone-games/"><u>Top 11 Offline-Friendly Phone Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-features-that-make-the-legion-go-shine-at-ifa/"><u>Top 5 Features that Make the Legion Go Shine at IFA</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-game-meta-really-imply-and-is-it-enforced/"><u>What Does Game 'Meta' Really Imply & Is It Enforced?</u></a></li>
+</ul></div>
 

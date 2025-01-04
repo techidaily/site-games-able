@@ -1,7 +1,7 @@
 ---
 title: Fortifying the Future of Child-Safe Gaming
-date: 2024-12-19T06:05:58.259Z
-updated: 2024-12-26T02:57:50.523Z
+date: 2024-12-30T16:00:01.714Z
+updated: 2025-01-04T16:00:28.960Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d3d14caf519c1def322723a3dc59c24a3c8f8aede
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Create and Add a Child Account
 
  First, you should create a child account for your minor and add that account to the PS5\. This account will set the default content restriction based on the age of the account user.
@@ -42,7 +46,7 @@ Here’s how to set up a child account:
 6. Sony will ask you to pay $0.50 to confirm you’re an adult. You need only pay this once—even for adding subsequent kids—and Sony will credit your PlayStation wallet with the $0.50\. If you’ve never added a payment method to PSN, read our guide on[adding funds and buying games on the PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Enter an email address and password for the account.  
@@ -62,6 +66,10 @@ Follow these steps:
 1. Go to**Settings > Family and Parental Controls** , choose your child’s account from the list, and select**Parental Controls** .  
 ![Family Management page for a child account on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-management-page-for-a-child-account-on-the-ps5.JPG)
 2. Select**Restriction level** and choose a preset from the list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Parental Controls page with restriction level dropdown menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/parental-controls-page-with-restriction-level-dropdown-menu-on-the-ps5.JPG)
 3. **Optional** : Customize the preset by adjusting the restriction level for all the other options on the page.
@@ -91,19 +99,11 @@ Here’s how to set up the console restrictions passcode:
 ![Family and Parental Controls page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-and-parental-controls-page-on-the-ps5.JPG)
 2. Enter the default passcode:**0000** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Console restriction passcode on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/console-restriction-passcode-on-the-ps5.JPG)
 3. Select**Change Your Console Restriction Passcode** .  
 
 ![PS5 Console Restrictions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-console-restrictions-page.JPG)
 4. Enter the new password twice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the PS5 console restrictions page, apart from changing the console restrictions passcode, you have options to:
 
@@ -112,6 +112,10 @@ Here’s how to set up the console restrictions passcode:
 * Disable console restrictions (**Temporarily Disable PS5 Console Restrictions**). You can use this to turn off console restrictions temporarily in case it’s too restrictive for you as an adult user.
 
  Don’t forget your console restriction passcode. As far as we know, there’s no way to recover it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set a Checkout Password and a Monthly Spending Limit
 
@@ -128,11 +132,11 @@ Here’s how to set up the console restrictions passcode:
 ![PS5 Monthly Spending Limit dropdown menu in Parental Controls page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-monthly-spending-limit-dropdown-menu-in-parental-controls-page.JPG)
 5. Select**Confirm** after you’re finished.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We’re unsure why Sony made the spending limit a dropdown preset menu. But you can’t input a custom amount as a spending limit for now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enforce Playtime Limits
 
@@ -148,7 +152,7 @@ Here’s how to do it:
 3. Use**When Playtime Ends** to choose whether you want the child to be forcefully logged out or simply notified when they’ve reached their playtime limit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Set how long they can play using**Duration and Playable Hours** . Selecting**By Days of the Week** from the menu allows you to specify how many hours they can play each day of the week.  
@@ -157,10 +161,6 @@ Here’s how to do it:
 
 ![Playtime Duration dialogue window on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-duration-dialogue-window-on-the-ps5.JPG)
 6. Choose**Save** on the right-hand side of the page when you’re done.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Older children may not appreciate this setting much, so it’s probably a better idea to discuss their playtime rather than outright blocking them from using the console.
 
@@ -187,19 +187,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-appreciation-showcase-easy-access-to-otus/"><u>[New] Appreciation Showcase Easy Access to OTUs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-perfect-your-videos-captions-with-10plus-top-free-converters-for-2024/"><u>[New] Perfect Your Videos' Captions with 10+ Top FREE Converters for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-the-enforcement-structure-in-xbox-games/"><u>Dissecting the Enforcement Structure in Xbox Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-gameplay-with-the-seamless-magic-of-nvidia-g-sync/"><u>Enhance Your Gameplay with the Seamless Magic of Nvidia G-Sync</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-guide-calculating-necessary-internal-storage-for-optimal-performance-on-android-smartphones/"><u>Essential Guide: Calculating Necessary Internal Storage for Optimal Performance on Android Smartphones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/facebook-mastery-find-anyone-in-just-a-few-steps/"><u>Facebook Mastery: Find Anyone in Just a Few Steps!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-solve-total-war-warhammer-3-pc-stability-issues/"><u>How to Prevent and Solve 'Total War: Warhammer 3' PC Stability Issues</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-expert-tips-for-instagram-green-screen-shoots/"><u>In 2024, Expert Tips for Instagram Green Screen Shoots</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-nokia-c02-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nokia C02? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/latest-samsung-bd-j5900-updated-review-2023/"><u>Latest Samsung BD-J5900 Updated Review 2023</u></a></li>
-<li><a href="https://games-able.techidaily.com/more-than-looks-how-accessories-enrich-games/"><u>More Than Looks: How Accessories Enrich Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/saying-goodbye-to-realms-say-hello-to-archiving/"><u>Saying Goodbye To Realms, Say Hello to Archiving</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-the-advantages-of-different-elgato-decks/"><u>Understanding the Advantages of Different Elgato Decks</u></a></li>
-<li><a href="https://games-able.techidaily.com/unplugging-the-microphone-from-your-ps5-for-safer-gaming/"><u>Unplugging the Microphone From Your PS5 for Safer Gaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-premium-camcorders-head-on-video-sharing/"><u>[Updated] 2024 Approved Premium Camcorders Head-On Video Sharing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-earn-while-you-entertain-the-content-creators-guide-for-2024/"><u>[Updated] Earn While You Entertain The Content Creator's Guide for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/advanced-dell-alienware-aurora-r9-gaming-laptop-assessment-a-look-at-its-cutting-edge-architecture/"><u>Advanced Dell Alienware Aurora R9 Gaming Laptop Assessment: A Look at Its Cutting-Edge Architecture</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-stability-tips-overcome-crashes-using-latest-techniques/"><u>Alan Wake 2 Stability Tips: Overcome Crashes Using Latest Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decreasing-cpu-impact-from-ntoskrnlexe/"><u>Decreasing CPU Impact From Ntoskrnl.exe</u></a></li>
+<li><a href="https://games-able.techidaily.com/delayed-drops-not-just-a-setback/"><u>Delayed Drops - Not Just a Setback?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-rectify-steam-problems-on-windows-11-pc/"><u>How to Rectify Steam Problems on Windows 11 PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-frontiers-in-gaming-combatting-increasing-cyberthreats/"><u>New Frontiers in Gaming: Combatting Increasing Cyberthreats</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-puzzle-of-production-piecing-together-roles-for-an-immersive-filming-experience/"><u>New The Puzzle of Production Piecing Together Roles for an Immersive Filming Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-av2000-speed-test-review-outstanding-performance-hindered-by-lackluster-design-choices/"><u>TP-Link AV2000 Speed Test Review: Outstanding Performance Hindered by Lackluster Design Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-gameplay-potential-using-ryujinxs-controller-features/"><u>Unlock Your Gameplay Potential Using Ryujinx’s Controller Features</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-video-ranking-breakdown-how-it-works/"><u>YouTube Video Ranking Breakdown How It Works</u></a></li>
 </ul></div>
 
