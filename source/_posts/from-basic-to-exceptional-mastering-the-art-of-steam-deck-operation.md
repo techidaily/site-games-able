@@ -1,7 +1,7 @@
 ---
 title: "From Basic to Exceptional: Mastering the Art of Steam Deck Operation"
-date: 2025-01-03T16:01:13.167Z
-updated: 2025-01-04T16:01:16.429Z
+date: 2025-01-06T00:56:55.079Z
+updated: 2025-01-10T16:53:26.385Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 ![screenshot of steam deck resolution menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_resolution_menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your choice between maintaining the 720p resolution or pushing the device higher is the first one you'll need to make when it comes to playing any game on the big screen.
@@ -41,22 +41,22 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 
 ![screenshot of steam deck properties menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_properties_menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Under**General** , change**Game Resolution** from default to a value of your choosing.
 
  It's best that you choose a resolution that coincides with a specific aspect ratio, or whatever is native to the external device you're using. Make sure you[understand the specifics of how aspect ratio relates to resolution when choosing](https://www.makeuseof.com/what-is-the-difference-between-aspect-ratio-resolution/) .
 
  Now that your image is being output at a higher resolution, you'll be able to access higher resolutions in game. It will look a lot nicer on the big screen, but it's also going to be more taxing on your performance. Let's see what other tools the Steam Deck has to manage performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using Per-Game Settings
 
 ![screenshot of steam deck quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you've bumped up the resolution, you've significantly increased the performance overhead for your game. Many games will run worse, requiring you to adjust the in-game settings. Seeing as we're playing on a larger screen, this isn't desirable.
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
  If you've docked your Steam Deck, it's likely you're using a controller instead of the controls on the unit itself. In this case, holding the**system button + A** will display this menu.
 
 ![screenshot of steam deck quick menu game profile selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_game_profile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First thing to do is to enable**Use Per-Game Profile** . This will ensure that any changes you make in this menu will only affect the currently active game.
 
@@ -89,16 +93,12 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 
  You'll eventually find yourself with a very pleasant image and a comfortable framerate.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Target 30 or 40 FPS Over 60 FPS
 
 ![screenshot of steam deck quick menu framerate limiter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_framerate_cap.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A major part of gaming on the Steam Deck is being comfortable with lower framerates.
@@ -130,16 +130,18 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/ancien-cadre-chez-hp-et-microsoft-robert-youngjohns-devient-le-nouveau-president-du-conseil-dadministration-dabbyy/"><u>Ancien Cadre Chez HP Et Microsoft, Robert Youngjohns Devient Le Nouveau Président Du Conseil D'Administration D'ABBYY</u></a></li>
-<li><a href="https://games-able.techidaily.com/eye-candy-or-expense-top-6-arguments-against-gaming-displays/"><u>Eye Candy or Expense? Top 6 Arguments Against Gaming Displays</u></a></li>
-<li><a href="https://fox-links.techidaily.com/from-text-to-titles-an-in-depth-guide-to-srt-conversion/"><u>From Text to Titles An In-Depth Guide to SRT Conversion</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-g2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo G2 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mobile-playtime-boon-or-bane/"><u>Mobile Playtime: Boon or Bane?</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-gaming-deciding-on-directx-11-or-12/"><u>Next-Gen Gaming: Deciding on DirectX 11 or 12</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-phenomenon-how-cozy-gaming-captures-hearts/"><u>The Phenomenon: How Cozy Gaming Captures Hearts</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-keep-your-deck-chill/"><u>The Ultimate Guide to Keep Your Deck Chill</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-international-technology-experts-share-their-thoughts-on-artifice-intelligence/"><u>Top 10 International Technology Experts Share Their Thoughts on Artifice Intelligence</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-5-time-lapse-screen-recorders-for-2024/"><u>Top 5 Time-Lapse Screen Recorders for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-broadcasters-blueprint-step-by-step-windows-pc-guide-to-live-capture/"><u>[Updated] 2024 Approved The Broadcaster's Blueprint Step-by-Step Windows PC Guide to Live Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-complete-guide-to-hulu-recording-across-all-platforms/"><u>[Updated] In 2024, The Complete Guide to Hulu Recording Across All Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-walls-universal-access-in-gaming/"><u>Breaking Down Walls: Universal Access in Gaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/concealing-identity-swift-methods-for-picscanner-for-2024/"><u>Concealing Identity Swift Methods for PicScanner for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-techniques-for-windows-gaming-on-arm-apple-silicon/"><u>CrossOver Techniques for Windows Gaming on ARM Apple Silicon</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-with-these-strategies-to-improve-ps4/"><u>Game On with These Strategies to Improve PS4</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/glide-in-the-cold-highlighting-precision-in-snowboard-cross-events-22-for-2024/"><u>Glide in the Cold Highlighting Precision in Snowboard Cross Events, '22 for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-nonfunctional-dell-usb-port-ultimate-troubleshooting-guide/"><u>How to Fix a Nonfunctional Dell USB Port: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-boosting-windows-file-audit-with-precision/"><u>In 2024, Boosting Windows File Audit with Precision</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-maintenance-revolution-apple-authorizes-reuse-of-components-in-device-fixes-techinsights/"><u>IPhone Maintenance Revolution: Apple Authorizes Reuse of Components in Device Fixes | TechInsights</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-easy-peasy-guide-to-renaming-yourself-on-riot-games/"><u>The Easy-Peasy Guide to Renaming Yourself on Riot Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-untold-story-of-console-gaming-speed-benefits/"><u>The Untold Story of Console Gaming Speed Benefits</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step by Step for Switch Protection: Installing a Passcode"
-date: 2024-08-22T22:23:35.001Z
-updated: 2024-08-23T22:23:35.001Z
+date: 2025-01-05T05:30:17.287Z
+updated: 2025-01-11T00:01:00.833Z
 tags:
   - games
 categories:
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
  Just because you share a console with someone, doesn't mean they should be able to see everything in your account. Here's how to set up a password (or pin code) on your Nintendo Switch or Switch Lite.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is a Nintendo Switch Passcode?
 
  For most users, a passcode is more than enough for their privacy needs. Similar to mobile phones, a passcode on your Nintendo Switch will help prevent other people from opening certain games or software on your console without your consent.
@@ -41,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  Instead, it is a Parental Control measure that blocks players from accessing games of their choosing and places a time limit on the Switch. While you can't add a passcode to your Nintendo Switch in the traditional sense and lock it completely, the passcode options the Switch does offer are still great for parents who are keen on protecting their children on the device.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable a Passcode on the Nintendo Switch Using Parental Controls
 
  While it's not a straightforward feature, it is possible to add passcodes to your Nintendo Switch using the Parental Controls app. For this method to work,[pair your Switch with your Nintendo Switch Parental Control app](https://www.makeuseof.com/how-to-set-up-use-parental-controls-nintendo-switch/) .
@@ -64,51 +62,41 @@ Close
  Mistakes can happen though and you may find that you have forgotten your Nintendo Switch passcode. Thankfully, you can[reset your Nintendo Switch passcode](https://www.makeuseof.com/how-to-reset-nintendo-switch-parental-controls-pin/) by following the instructions above and heading to the PIN page in the Parental Controls app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check if Your Switch Passcode Works
 
 ![Switch Parental Control Pop Up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Switch-Parental-Control-Pop-Up.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To check if your passcode works, let your Switch run until it reaches the set time limit. Next, attempt to open your games or other software that you have restricted. If you set up your Parental Control passcode correctly, a pop-up saying**you cannot play this software** will appear.
 
 ![Nintendo Switch Time's Up Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Nintendo-Switch-Times-Up-Button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To use your Switch freely again, select the**Time's Up** button on the top part of your screen.
 
 ![Nintendo Switch Parental Control Pin Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Nintendo-Switch-Parental-Control-Pin-Code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, use your control stick to enter your passcode as shown on the screen. You can press the**R** button to easily see if what you are entering is correct.
 
 ![Switch Disabled Parental Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Switch-Disabled-Parental-Code.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have successfully added the passcode, a pop-up saying**Parental Controls have been temporarily disabled** will appear.
 
 ![NIntendo Switch Time's Up Button Off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/NIntendo-Switch-Times-Up-Button-Off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To check if you were able to successfully disable your Parental Controls, simply look at the top part of your screen and check if the Time's Up button now shows**Off** instead. All restricted features will then be accessible until the next time that your Switch wakes from sleep mode.
 
 ## Keep Your Switch Safe
@@ -121,14 +109,11 @@ Key features:
 
  However, if you're simply using this method to add an extra layer of security and peace of mind while your child is playing on the Nintendo Switch, this feature will be perfect for you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +122,19 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-fix-blurry-facebook-videos-on-iphoneandroidchrome/"><u>[Updated] 2024 Approved How to Fix Blurry Facebook Videos on iPhone/Android/Chrome?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-break-boundaries-with-these-7-unique-platforms-for-art-to-nfts/"><u>[Updated] Break Boundaries with These 7 Unique Platforms for Art to NFTs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-clearfocuscutout-how-to-blur-your-youtube-videos-background/"><u>[Updated] ClearFocusCutOut How to Blur Your YouTube Video's Background</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-costly-currency-of-virtual-reality-technology/"><u>Deciphering the Costly Currency of Virtual Reality Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dhcp-server-unreachable-heres-the-resolved-technique/"><u>DHCP Server Unreachable? Here's the Resolved Technique</u></a></li>
+<li><a href="https://windows11.techidaily.com/downloading-woes-how-to-fix-windows-11-transfer-issues-2/"><u>Downloading Woes: How to Fix Windows 11 Transfer Issues (2)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-xiaomi-redmi-note-13-pro-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Xiaomi Redmi Note 13 Pro 5G? Try These Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-equipment-with-tom-a-deep-dive-into-hardware/"><u>Mastering Equipment with Tom - A Deep Dive Into Hardware</u></a></li>
+<li><a href="https://video-capture.techidaily.com/snapsplit-scrutiny/"><u>SnapSplit Scrutiny</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-fix-methods-for-steams-content-file-locked-issue/"><u>Swift Fix Methods for Steam's Content File Locked Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-rtx-supers-battle-4070-super-versus-titans-and-4080-super/"><u>The RTX Supers' Battle: 4070 Super Versus Titans & 4080 Super</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-idle-status-in-discord-a-true-glimpse/"><u>Understanding 'Idle' Status in Discord: A True Glimpse?</u></a></li>
+</ul></div>
 

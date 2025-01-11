@@ -1,7 +1,7 @@
 ---
 title: "Transforming Words Into Worlds: The Essential Guide to Using ChatGPT in RPGs"
-date: 2024-12-21T03:07:11.019Z
-updated: 2024-12-25T21:09:58.767Z
+date: 2025-01-08T02:49:56.694Z
+updated: 2025-01-11T09:45:58.965Z
 tags:
   - games
 categories:
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
@@ -113,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -137,11 +133,11 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
- You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 ## Add Combat and Magic Rules
 
@@ -169,6 +165,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -183,17 +183,21 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -293,10 +297,6 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -318,18 +318,19 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-quick-clips-the-facebook-trend/"><u>[Updated] Quick Clips The Facebook Trend</u></a></li>
-<li><a href="https://games-able.techidaily.com/control-commandments-for-switch-games-via-ryujinx-platform/"><u>Control Commandments for Switch Games via Ryujinx Platform</u></a></li>
-<li><a href="https://solve-help.techidaily.com/easy-guide-zipping-files-and-folders-in-windows-tech-tips-by-yl-computing/"><u>Easy Guide: Zipping Files & Folders in Windows - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-the-epic-world-of-bg3-now-on-your-macos-with-crossover/"><u>Embrace the Epic World of BG3, Now on Your macOS with CrossOver</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721267051732-get-your-lost-iphone-files-back-with-our-expert-data-rescue-tools-shop-today/"><u>Get Your Lost iPhone Files Back with Our Expert Data Rescue Tools – Shop Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-sound-settings-for-xbox-series-xs-gaming/"><u>Optimizing Sound Settings for Xbox Series X/S Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfecting-your-pitch-writing-influential-reviews-on-steam/"><u>Perfecting Your Pitch: Writing Influential Reviews on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/serene-gameplay-strategies-with-xbox/"><u>Serene Gameplay Strategies with Xbox</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/server-2012-persistent-boot-error-resolving-the-recurring-blue-screen-step-by-step-guide/"><u>Server 2012 Persistent Boot Error: Resolving the Recurring 'Blue Screen' - Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/techniques-for-smoothly-fading-audio-within-lumafusion-for-2024/"><u>Techniques for Smoothly Fading Audio Within Lumafusion for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-risks-why-chatgpt-may-not-be-your-ideal-doctor-online/"><u>The Risks: Why ChatGPT May Not Be Your Ideal Doctor Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ufficiale-winx-dvd-ripper-premium-edition-transform-dvds-into-high-quality-mp4-h264hevc-files-quickly-within-5-minutes/"><u>Ufficiale WinX DVD Ripper Premium Edition - Transform DVDs Into High-Quality MP4 (H.264/HEVC) Files Quickly Within 5 Minutes!</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-gamepad-conversion-guide/"><u>Virtual Gamepad Conversion Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-jokeglyph-customize-funny-visuals-easily/"><u>[New] In 2024, Jokeglyph Customize Funny Visuals Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-precision-in-broadcasting-zoom-and-fb-live-strategies/"><u>[New] Precision in Broadcasting ZOOM & FB Live Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-snip-and-save-from-youtube-the-ultimate-guide/"><u>[Updated] 2024 Approved How to Snip and Save From YouTube The Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-the-frustration-of-game-freezes-by-overcoming-10-common-problems/"><u>Avoid the Frustration of Game Freezes by Overcoming 10 Common Problems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/direct-directions-simple-techniques-for-laptop-screening-dell-for-2024/"><u>Direct Directions Simple Techniques for Laptop Screening (Dell) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-port-accessories-for-switch-gaming-experience-94-chars/"><u>Exploring Port Accessories for Switch Gaming Experience (94 Chars)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-five-your-comfort-with-best-chairs/"><u>High-Five Your Comfort with Best Chairs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-a-treasure-trove-of-premium-youtube-images-from-6-websites/"><u>In 2024, A Treasure Trove of Premium YouTube Images From 6 Websites</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-relief-7-ways-to-ease-the-overload/"><u>Social Media Relief: 7 Ways to Ease the Overload</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-gaming-cost-evolution-analysis/"><u>Steam's Gaming Cost Evolution Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-display-and-illumination-for-optimal-gaming/"><u>Tailoring Display & Illumination for Optimal Gaming</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-surfer-seo-strategies-boost-your-ranking-with-seopower-suite/"><u>Top Surfer SEO Strategies: Boost Your Ranking with SEOPower Suite</u></a></li>
+<li><a href="https://games-able.techidaily.com/when-to-rely-on-a-simple-ps5-controller-restart-solution/"><u>When to Rely on a Simple PS5 Controller Restart Solution</u></a></li>
 </ul></div>
 

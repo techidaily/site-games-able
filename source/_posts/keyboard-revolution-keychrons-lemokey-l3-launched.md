@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Revolution: Keychron's Lemokey L3 Launched"
-date: 2024-12-18T21:54:24.847Z
-updated: 2024-12-26T04:25:30.628Z
+date: 2025-01-06T08:20:51.928Z
+updated: 2025-01-11T08:46:10.659Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 * ![lemokey l3 keyboard in via customization software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/lemokey-l3-keyboard-in-via-customization-software.jpg)  
  Gavin Phillips / MakeUseOf  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Keychron Lemokey L3 is a premium gaming mechanical keyboard with hot-swappable switches, a 1,000Hz polling rate, and 2.4GHz wireless connectivity.
 * It offers impressive battery life of up to 300 hours on Bluetooth and features a robust CNC machined aluminum build for durability.
@@ -124,7 +128,7 @@ No
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Configuration
@@ -133,15 +137,15 @@ No
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  As I've said with other Keychron mechanical keyboard reviews, the extra 20 bucks is well worth it if you don't have a vast array of switches and keycaps you want to use. There's a choice of three Gateron Jupiter switches: Red (linear), Brown (tactile), and Banana (also tactile, but with more operating force and shorter travel).
 
  It's a good range of options, not forgetting that the Lemokey L3 is a hot-swappable keyboard. Hot-swappable means you can replace the keyboard's switches without soldering; they're plug-and-play.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Style and Construction
 
@@ -150,7 +154,7 @@ No
 ![person-using-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-using-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
@@ -162,7 +166,7 @@ No
 ![plug-and-switch-on-the-back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/plug-and-switch-on-the-back-of-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
@@ -185,6 +189,10 @@ No
 
  Hannah Stryker / MakeUseOf
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lemokey L3 Typing Experience
 
  The Lemokey L3 is a dream to type on. I've been sent the Gateron Jupiter Brown switches, which require 55g actuation force, have 2mm pre-travel, and 4mm total travel. You'll bottom out on keypresses, but the overall movement and response of the Jupiter Brown switches are mostly smooth.
@@ -203,10 +211,6 @@ No
 
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Customization With VIA
 
  Keychron has long used VIA for its desktop customization software. It's free, well-supported by the mechanical keyboard community, and has extensive customization options. However, most folks who use a gaming keyboard will be more familiar with the custom, proprietary software created by the big gaming companies. In comparison, VIA is a little different, lacking the straightforward options and menus found in those other desktop software options.
@@ -216,10 +220,6 @@ No
  At other times, you might make changes without realizing it and then struggle to revert them. I swapped out the top row of numbers with Macro 0 keys accidentally, but there is no CTRL + Z option to undo your changes. VIA is a great tool, but if Keychron wants to attract a large slice of the gaming keyboard market, it might be time to create an in-house tool.
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -237,11 +237,11 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### Lemokey L3
 
@@ -266,21 +266,24 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-online-meetings-tips-for-chromebook-users/"><u>[New] Mastering Online Meetings Tips for Chromebook Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unleashing-the-power-of-whiteboards-on-zoom-platforms-across-multiple-devices-for-2024/"><u>[New] Unleashing the Power of Whiteboards on Zoom Platforms Across Multiple Devices for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-quality-acoustics-at-an-accessible-price-point/"><u>[Updated] In 2024, Quality Acoustics at an Accessible Price Point</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-premier-5-high-resolution-film-makers/"><u>2024 Approved Premier 5 High-Resolution Film Makers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-hp-officejet-pro-6970-driver-downloads-and-updates-for-windows-systems/"><u>Free HP OfficeJet Pro 6970 Driver Downloads and Updates for Windows Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-factory-reset-a-playstation-4-ps4/"><u>How to Factory Reset a PlayStation 4 (PS4)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-14-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi 14</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-decoding-the-code-for-quick-fb-media/"><u>In 2024, Decoding the Code for Quick FB Media</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-your-gaming-experience-peak-performance-with-these-tips/"><u>Keep Your Gaming Experience Peak Performance with These Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-dollars-affordable-gamers-display-choice/"><u>Maximize Your Dollars - Affordable Gamer's Display Choice</u></a></li>
-<li><a href="https://games-able.techidaily.com/orbit-fabricator-scouting-for-superior-pcs/"><u>Orbit Fabricator: Scouting for Superior PCs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pro-level-gif-generation-a-critical-review-for-2024/"><u>Pro-Level GIF Generation A Critical Review for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-y28-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Y28 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/riddle-me-this-with-ridiculously-ruined-role-players/"><u>Riddle Me This with Ridiculously Ruined Role-Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-economical-240hz-gaming-displays/"><u>Top Economical 240Hz Gaming Displays</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-the-full-potential-of-your-favorite-games-on-a-mac/"><u>Unleash the Full Potential of Your Favorite Games on a Mac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhancing-your-spotify-collection-with-youtube-music-integration-for-2024/"><u>[New] Enhancing Your Spotify Collection with YouTube Music Integration for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-turning-pre-recorded-videos-into-a-captivating-live-experience-on-fb/"><u>[Updated] In 2024, Turning Pre-Recorded Videos Into a Captivating Live Experience on FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-errors-in-windows-rust-setup/"><u>Addressing Steam Errors in Windows-Rust Setup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-hd-camcorder-sonys-hdrcx405-unveiled/"><u>Budget-Friendly HD Camcorder: Sony's HDRCX405 Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-breakdown-all-the-latest-from-apples-thrilling-october-reveal-and-hidden-surprises-a-closer-look-by-zdnet/"><u>Comprehensive Breakdown: All the Latest From Apple's Thrilling October Reveal and Hidden Surprises - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/convert-your-media-files-top-8-no-cost-methods-from-mts-to-mp4-on-pc-and-mac/"><u>Convert Your Media Files: Top 8 No-Cost Methods From MTS to MP4 on PC & Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-secrets-of-exceptional-ps5-gaming/"><u>Discover the Secrets of Exceptional PS5 Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-implications-of-xboxs-controller-policy-limitations/"><u>Dissecting the Implications of Xbox's Controller Policy Limitations</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-every-corner-of-baldurs-gate-3-on-m1m2-via-crossover/"><u>Explore Every Corner of Baldur's Gate 3 on M1/M2 via Crossover</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-redmi-13c-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi Redmi 13C 5G Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-quick-cash-flow-on-youtube-maximizing-earnings-with-short-videos/"><u>In 2024, Quick Cash Flow on YouTube Maximizing Earnings with Short Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/legacy-console-emulation-via-linux-command-line/"><u>Legacy Console Emulation via Linux Command Line</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722158506961-linus-tech-tips-reveals-major-vulnerabilities-and-twitter-introduces-innovative-checkmark-functionality/"><u>Linus Tech Tips Reveals Major Vulnerabilities & Twitter Introduces Innovative 'Checkmark' Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-the-most-of-steams-offline-illusion/"><u>Making the Most of Steam's Offline Illusion</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-smart-why-you-shouldnt-use-mic-on-ps5-controller/"><u>Play Smart: Why You Shouldn't Use Mic on PS5 Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaim-your-games-sound-with-easy-fixes-on-console/"><u>Reclaim Your Game's Sound with Easy Fixes on Console</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-guide-install-the-universal-usb-to-serial-converter-for-windows/"><u>Simple Guide: Install the Universal USB to Serial Converter for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-keeping-your-game-passes-in-check-on-xsx/"><u>Tips for Keeping Your Game Passes in Check on XS/X</u></a></li>
 </ul></div>
 

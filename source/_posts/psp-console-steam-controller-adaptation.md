@@ -1,7 +1,7 @@
 ---
 title: "PSP Console: Steam Controller Adaptation"
-date: 2024-08-22T22:25:44.592Z
-updated: 2024-08-23T22:25:44.592Z
+date: 2025-01-05T22:46:35.458Z
+updated: 2025-01-10T22:06:47.851Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
 
 ![Nintendo Switch Online logo with Mario characters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/nintendo-switch-online-characters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Nintendo/[YouTube](https://www.youtube.com/watch?v=v6gTTzfs3sI&ab%5Fchannel=NintendoofAmerica)
 
  This subscription does cost money, of course, but if you really just want the controller, you could simply[cancel your Nintendo Switch Online subscription](https://www.makeuseof.com/how-to-cancel-nintendo-switch-online/) after you get your hands on it, and everyone's a winner.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
 
 ![Add Bluetooth Device to PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-bluetooth-device-to-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your computer will start searching for a signal at this point, so press the Bluetooth pairing button at the top of the controller to allow your PC to find and establish the connection. The Bluetooth pairing button is the tiny circular button to the right of the screenshot button, next to the row of lights. Hold the button down until the lights start flashing green.
 
  Once the PC finds your Classic Nintendo controller, a small pop-up window will appear on your screen showing the name of your controller. In this case, it is the N64 controller, but the name may differ for you depending on what Classic Nintendo controller you have.
@@ -43,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
  Left-click on the**controller name** to pair it. It's worth noting here that your PC won't remember the Classic Nintendo controller like it does other Bluetooth devices, and this process will have to be repeated every time you want to connect your controller to your PC.
 
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
 
@@ -58,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
 
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
@@ -69,22 +85,20 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Sit Back, Relax, and Enjoy the Nostalgia
 
  The Classic Nintendo controllers aren’t the most ergonomic controllers in the world, but they are undoubtedly fun to use, especially once you create your perfect button layout. And the best part is, the Bluetooth capabilities allow you to finally game more than a few meters away from the screen!
 
  If you’re looking for the perfect nostalgic adventure to play on Steam with one of your Classic Nintendo controllers, the Klonoa Phantasy Reverie Series or the Shovel Knight: Treasure Trove collection would be great ways to put your classic controller to good use.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -93,4 +107,19 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-expert-tips-for-seamless-iphone-screen-recordings/"><u>[New] Expert Tips for Seamless iPhone Screen Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-construct-powerpoint-into-digital-film/"><u>[Updated] 2024 Approved Construct PowerPoint Into Digital Film</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-an-inviting-subscribe-icon-for-youtube-videographers/"><u>[Updated] 2024 Approved Crafting an Inviting Subscribe Icon for YouTube Videographers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>[Updated] 2024 Approved Extract Your Favorites Best Playlist Tools Reviewed and Rated</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-effortless-digital-preservation-how-to-record-live-tv-shows/"><u>2024 Approved Effortless Digital Preservation How To Record Live TV Shows</u></a></li>
+<li><a href="https://games-able.techidaily.com/extend-your-journey-beyond-tv-with-fallouts-titles/"><u>Extend Your Journey Beyond TV with Fallout's Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpd-win-4-unleashing-ultimate-mobile-performance/"><u>GPD Win 4: Unleashing Ultimate Mobile Performance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-effortless-guide-to-going-live-on-instagram/"><u>In 2024, Effortless Guide to Going Live on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/peering-into-how-xbox-harnesses-remote-play/"><u>Peering Into How Xbox Harnesses Remote Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-limits-falling-short-gpu-story/"><u>Pushing Limits, Falling Short: GPU Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/scorching-discounts-on-ps-games-and-accessories/"><u>Scorching Discounts on PS Games & Accessories</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-get-your-asus-devices-trackpad-driver-installed-in-no-time/"><u>Step-by-Step Tutorial: Get Your Asus Device's Trackpad Driver Installed in No Time!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Gaming: Steam's New Guidelines on AI"
-date: 2024-12-28T16:03:14.371Z
-updated: 2025-01-04T16:01:34.832Z
+date: 2025-01-07T07:28:08.176Z
+updated: 2025-01-11T06:32:39.489Z
 tags:
   - games
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  While Steam initially took a cautious approach to publishing games using generative AI, it has now announced guidelines that will see the company "release the vast majority of games that use it". But what do these new rules on AI games mean for gamers?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Steam Takes a Softer Stance on Games Using AI
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  Steam already has[an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Gamers Will Have More Games to Choose From on Steam
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  We will also likely see developers using generative AI in creative ways, but this is not guaranteed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Gamers May See a Rise in Low-Quality AI Games
@@ -86,13 +86,13 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
  Luckily, you_can_ [request a refund on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . But you will need to do this within 14 days from purchase, and you can't have played the game for more than two hours.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Gamers Will Need to Report Illegal AI Content
 
 ![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: g0d4ather/[Shutterstock](https://www.shutterstock.com/image-photo/saransk-russia-january-03-2016-steam-357785195)
 
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  Considering how often people get around AI guardrails, such as when people use[jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Gamers Will Need to Look Out for AI Disclosures
@@ -131,16 +131,20 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-essential-tactics-for-channel-spotlighting-on-youtube/"><u>[New] In 2024, The Essential Tactics for Channel Spotlighting on Youtube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/20-anker-battery-pack-the-ultimate-solution-for-your-portable-charger-woes-insights-from-zdnet/"><u>$20 Anker Battery Pack: The Ultimate Solution for Your Portable Charger Woes - Insights From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/disconnecting-minecraft-downloading-and-redefining-worlds/"><u>Disconnecting Minecraft: Downloading & Redefining Worlds</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/improve-horizon-zero-dawns-performance-key-strategies-to-raise-your-frame-rate/"><u>Improve Horizon Zero Dawn's Performance: Key Strategies to Raise Your Frame Rate</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-k11-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/re-establishing-functionality-of-invalid-payment-methods/"><u>Re-Establishing Functionality of Invalid Payment Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/simple-steps-to-fixing-broken-xbox-series-xands/"><u>Simple Steps to Fixing Broken Xbox Series X&S</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-live-streaming-the-2024-summer-olympic-events/"><u>The Ultimate Guide to Live Streaming the 2024 Summer Olympic Events</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/trustworthy-and-powerful-an-in-depth-look-at-the-m-mooc-1000a-peak-capacity-car-jump-starter/"><u>Trustworthy & Powerful: An In-Depth Look at the M MOOC 1000A Peak Capacity Car Jump Starter</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-performance-with-mechanical-f-keys/"><u>Unlocking Performance with Mechanical F-Keys</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-voyages-top-9-strategies-for-mobile-gaming-explorers/"><u>Virtual Voyages: Top 9 Strategies for Mobile Gaming Explorers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-segmentscreen-examination-for-2024/"><u>[New] SegmentScreen Examination for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-online-video-preservation/"><u>[Updated] The Ultimate Guide to Online Video Preservation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlocking-stream-potential-your-journey-with-obs-youtube-and-twitch/"><u>2024 Approved Unlocking Stream Potential Your Journey with OBS, YouTube, & Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-day-to-day-strategies-for-circumventing-connections-gaming/"><u>8 Day-to-Day Strategies for Circumventing Connections Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-to-renaming-at-riot-studios/"><u>A Step-by-Step Guide to Renaming at Riot Studios</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-arcade-how-to-discover-highest-calibre-apple-titles/"><u>Ace Your Arcade: How to Discover Highest Calibre Apple Titles</u></a></li>
+<li><a href="https://article-files.techidaily.com/converting-social-media-audio-to-personalized-mobile-alerts/"><u>Converting Social Media Audio to Personalized Mobile Alerts</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-games-unraveling-success-through-helldivers-2/"><u>Epic Games: Unraveling Success Through Helldivers 2</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-c55-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco C55 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-itel-a70-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Itel A70 Phones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ame-plan-for-thriving-as-a-livestreamer-on-youtube-for-2024/"><u>The Game Plan for Thriving as a Livestreamer on YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-latest-ps5s-capability-to-support-past-titles/"><u>The Latest PS5's Capability to Support Past Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/tune-trailblazers-discovering-melodies-on-the-move/"><u>Tune Trailblazers: Discovering Melodies on the Move</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xboxs-game-fairness-system/"><u>Understanding Xbox's Game Fairness System</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-profile-pics-templates-available-for-2024/"><u>YouTube Profile Pics Templates Available for 2024</u></a></li>
 </ul></div>
 

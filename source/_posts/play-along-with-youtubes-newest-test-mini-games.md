@@ -1,7 +1,7 @@
 ---
 title: Play Along with YouTube's Newest Test Mini-Games
-date: 2024-12-31T16:04:23.706Z
-updated: 2025-01-04T16:01:30.915Z
+date: 2025-01-07T19:16:49.723Z
+updated: 2025-01-10T19:24:38.980Z
 tags:
   - games
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
  YouTube has rolled out a collection of mini-games as an experimental feature for select users, dubbed Playables. If you’re interested in playing, here is how to activate this feature and join in on the fun.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is YouTube Playables?
 
  Playables is a collection of YouTube mini-games that can be accessed on your smartphone via the YouTube app or through your desktop’s web browser.
@@ -61,6 +65,10 @@ Here are all the games accessible in the YouTube Playables section:
 
  If you are[deciding whether YouTube Premium is worth it](https://www.makeuseof.com/tag/youtube-red-worth-money-things-need-consider/) to access Playables and all the other premium features, we suggest that you skip the annual subscription and get the monthly subscription instead. This is because the Playables feature will only be available until March 28, 2024\. If it doesn’t become a feature after that date, it may get canceled entirely.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Can You Activate Playables?
 
  If you weren’t notified of the feature but are a Premium subscriber, you can try to access Playables just by turning on experimental features in your YouTube app.
@@ -71,15 +79,7 @@ Here are all the games accessible in the YouTube Playables section:
 
 ![YouTube You tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-you-section.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![YouTube Settings menu with experimental features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/3-youtube-settings-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![the option to try out YouTube Playables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/4-try-out-youtube-playables-1.jpg)
 
@@ -89,20 +89,16 @@ Close
 
 ![YouTube compass icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-compass-icon-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Mobile explore section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/2mobile-explore-section.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![YouTube playable games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/22youtube-playable-games.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![YouTube homepage scrolling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/403399801_6992387144163435_8787378799009490497_n-1.jpg)
@@ -110,6 +106,10 @@ Close
 Close
 
  Alternatively, you can simply keep scrolling through the YouTube homepage past**Shorts** and**Breaking news** until you see the**Playables on YouTube** section. You can then click any of the 40 mini-games available to start playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing YouTube Playables
 
@@ -132,15 +132,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/udio-liberation-from-youtube-three-safe-methods/"><u>[New] Audio Liberation From YouTube Three Safe Methods</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-path-to-digital-fame-on-youtube-begins-here-for-2024/"><u>[Updated] The Path to Digital Fame on YouTube Begins Here for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-experience-and-space-with-extra-large-front-ends/"><u>Enhance Experience & Space With Extra-Large Front Ends</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-screens-to-shelves-a-game-owners-goal/"><u>From Screens to Shelves: A Game Owner's Goal</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-engaging-vids-with-template-magic/"><u>In 2024, Crafting Engaging Vids with Template Magic</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-viral-posts-on-instagram-top-tips-and-tricks/"><u>Mastering the Art of Viral Posts on Instagram - Top Tips and Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/ranking-graphics-cards-similar-to-nvidias-4060-ti/"><u>Ranking Graphics Cards Similar to Nvidia's 4060 Ti</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-and-stellar-a-guide-to-configuring-dns-in-windows-11/"><u>Secure & Stellar: A Guide to Configuring DNS in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-conversores-dvd-para-mp4-ideais-para-mac-e-windows-11-no-ano-de-202n3-ranking-definitivo/"><u>Top Conversores DVD Para MP4 Ideais Para Mac E Windows 11 No Ano De 202N3 - Ranking Definitivo!</u></a></li>
-<li><a href="https://games-able.techidaily.com/when-your-switch-breaks-should-you-fix-or-trade/"><u>When Your Switch Breaks, Should You Fix or Trade?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/inding-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth-for-2024/"><u>[New] Finding the Sweet Spot Optimal YouTube Video Upload Rates for Growth for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-engineering-an-emotional-movie-segment/"><u>[New] In 2024, Engineering an Emotional Movie Segment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-must-see-mac-video-frames-selection-limited-to-156-characters/"><u>[New] In 2024, Must-See Mac Video Frames Selection (Limited to 156 Characters)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-top-10-casual-pursuits-away-from-sports-fields/"><u>[New] In 2024, Top 10 Casual Pursuits Away From Sports Fields</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhancing-smooth-playback-stop-frame-gaps-in-obs-for-2024/"><u>[Updated] Enhancing Smooth Playback Stop Frame Gaps in OBS for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streamline-your-online-experience-blocking-youtube-channels-effectively/"><u>[Updated] Streamline Your Online Experience Blocking Youtube Channels Effectively</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-initiating-conversations-with-google-meet/"><u>2024 Approved Initiating Conversations with Google Meet</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-gamers-paradise-top-rated-nintendo-switch-docks-for-the-future/"><u>A Gamer's Paradise: Top-Rated Nintendo Switch Docks for the Future</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-act-when-to-invest-in-your-systems-cpugpu/"><u>Balancing Act: When to Invest in Your System's CPU/GPU</u></a></li>
+<li><a href="https://games-able.techidaily.com/basking-under-blue-skies-ar-games-for-you/"><u>Basking Under Blue Skies - AR Games for You</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-your-platforms-reach-with-ripl-methods/"><u>Elevate Your Platform's Reach with Ripl Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-psp-with-a-virtual-nessnes-experience/"><u>Elevate Your PSP with a Virtual NES/SNES Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-durability-and-features-that-keep-me-fond-of-the-huawei-p30-pro/"><u>Exploring the Durability and Features That Keep Me Fond of the Huawei P30 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-steam-service-error-on-windows-11/"><u>How to Fix the Steam Service Error on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-and-solving-the-top-4-gpu-flaws/"><u>Identifying & Solving the Top 4 GPU Flaws</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-next-step-for-gpus-costlier-investments/"><u>Is the Next Step for GPUs Costlier Investments?</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-ssd-selection-for-next-gen-gaming-console/"><u>Prime SSD Selection for Next-Gen Gaming Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-distinctions-asus-tuf-proart-and-prime/"><u>Unraveling the Distinctions: Asus, Tuf, ProArt & Prime</u></a></li>
 </ul></div>
 

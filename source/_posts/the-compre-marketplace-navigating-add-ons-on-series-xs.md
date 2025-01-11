@@ -1,7 +1,7 @@
 ---
 title: "The Compre Marketplace: Navigating Add-Ons on Series X|S"
-date: 2024-08-22T22:25:43.463Z
-updated: 2024-08-23T22:25:43.463Z
+date: 2025-01-08T07:09:32.212Z
+updated: 2025-01-11T05:42:56.927Z
 tags:
   - games
 categories:
@@ -28,11 +28,19 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
 ![A promotional image for the advertisement of Xbox Game Pass and Xbox All Access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/xbox-game-pass-stock-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[Xbox](https://www.xbox.com/en-us/xbox-game-pass)
 
  If you need to manage your subscriptions outside the available features of the**Subscriptions** settings, or if you want to join a new subscription, you may need to use an alternative way to manage subscriptions.
 
  Luckily, just like how you can[cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) online or from your console, you can do the same with all other Xbox subscriptions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add and Remove Subscriptions on Your Xbox Series X|S
 
@@ -47,13 +55,25 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
 ![A screenshot of the Account settings for an Xbox Series X with Subscriptions highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2647-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * From**Subscriptions** , you can manage your**Active** and**Canceled** Xbox subscriptions.
 
 ![A screenshot of the available Active and Cancelled Xbox subscriptions on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2648.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you are on the**Subscriptions** page of your Xbox, select an**Active** or**Canceled** subscription to start managing the service.
 
 ![A screenshot of the available features for Subscriptions on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2651.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With a subscription selected, you can manage your Xbox subscription using any of the following settings and processes:
 
@@ -65,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
  While these features cover the most common ways you can manage your Xbox subscriptions, some of the features require the Microsoft Edge app on your Xbox.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Microsoft Edge to Manage Subscriptions on Xbox
 
  Almost every feature that can manage subscriptions from your Xbox, can be altered from the**Subscriptions** page. However, if you want to**Change plan** or**Turn on recurring billing** , your Xbox will redirect you to the Microsoft Edge app and expect you to manage the subscription from there.
@@ -83,23 +100,17 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
  But with accessible ways of switching and activating subscriptions straight from your Xbox, you at least don't have to worry about hitting any roadblocks when managing subscriptions from your Series X|S.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Remove the Worry of Managing Subscriptions With Your Xbox Series X|S
 
  With an Xbox Series X|S, you can streamline managing your subscriptions by accessing and adjusting supported Xbox services from one device.
 
  And while you may still need to use other applications like Microsoft Edge, you shouldn't have to worry about juggling devices or contacting customer services to adjust your subscriptions as you see fit.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +119,24 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-bridging-photography-and-cinematography-creating-fusion-videos-using-pixiz/"><u>[New] Bridging Photography and Cinematography Creating Fusion Videos Using Pixiz</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-insights-the-best-apps-to-supercharge-your-profile/"><u>[Updated] 2024 Approved Instagram Insights The Best Apps to Supercharge Your Profile</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/focusing-on-content-reach-sharing-igtv-across-platforms-for-2024/"><u>Focusing on Content Reach Sharing IGTV Across Platforms for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-realme-c55-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Realme C55</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro Max to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-game-setup-for-diverse-channels/"><u>Ideal Game Setup for Diverse Channels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-reverse-revelations-instagrams-guide-to-rotating-images-for-engagement/"><u>In 2024, Reverse Revelations Instagram's Guide to Rotating Images for Engagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-playtime-with-series-x-offers/"><u>Maximize Your Playtime with Series X Offers</u></a></li>
+<li><a href="https://games-able.techidaily.com/multitasking-on-xbox-series-xs-laptop-screen-co-option-strategies/"><u>Multitasking on Xbox Series X|S: Laptop Screen Co-Option Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-personal-top-10-list-of-innovative-indie-titles/"><u>My Personal Top-10 List of Innovative Indie Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-mousepads-a-players-perspective/"><u>Premium Mousepads: A Player's Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-game-distractions-with-custom-notification-modes/"><u>Reducing Game Distractions with Custom Notification Modes</u></a></li>
+<li><a href="https://games-able.techidaily.com/rethinking-the-apple-narrative-in-pc-gaming/"><u>Rethinking the Apple Narrative in PC Gaming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/utionize-earning-with-youtube-short-tactics/"><u>Revolutionize Earning with Youtube Short Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-tactics-initial-fps-game-tuning-steps/"><u>Tailoring Tactics: Initial FPS Game Tuning Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-dichotomy-of-design-and-function-in-the-valkyrie-vind-sl125-review-anime-meets-reality/"><u>The Dichotomy of Design & Function in the Valkyrie Vind SL125 Review - Anime Meets Reality</u></a></li>
+</ul></div>
 

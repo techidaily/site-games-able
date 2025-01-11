@@ -1,7 +1,7 @@
 ---
 title: What Is AMD RDNA 3.5 and When Will It Launch?
-date: 2024-12-22T22:04:35.888Z
-updated: 2024-12-26T01:06:21.168Z
+date: 2025-01-07T20:14:34.133Z
+updated: 2025-01-10T19:34:14.618Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  AMD put its best foot forward with RDNA 3 introduced in its RX 7000 GPU lineup. However, considering just how big of a leap Nvidia made with Ada Lovelace on RTX 40-Series GPUs, AMD's upcoming RDNA 3.5 has some big shoes to fill.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is AMD RDNA 3.5?
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 ![AMD Radeon RX 7900 XTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rx-7900-xtx.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit:[AMD](https://www.youtube.com/watch?v=XAGFS8d%5FqLw)
 
  These next-generation chips will be based on AMD's upcoming Zen 5 architecture (expected in 2024), built on a 4nm process with performance and efficiency cores set up very similar to Intel's design. We might also see updates to AMD's software stack, most notably to[FSR 3, AMD's equivalent of DLSS 3.5](https://www.makeuseof.com/amd-announces-fsr-3-but-will-it-compete-with-dlss-35/) .
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  All the information available about RDNA 3.5 suggests that it's AMD's answer to modern dedicated mobile GPUs. Whether we'll see a standalone GPU with RDNA 3.5 architecture also remains a mystery. That said, if AMD decides to refresh RDNA 3 before RDNA 4 launches, it might be based on RDNA 3.5, so the possibility of a standalone GPU isn't completely out of the water.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Will RDNA 3.5 Launch?
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  Similar to the architecture description, AMD has not revealed an official launch date for the RDNA 3.5 architecture. However, considering that RDNA 3.5 has been confirmed to be a part of the Ryzen 8000 Granite Ridge processors and the Ryzen 8000 Strix Point APUs, we expect a launch in 2024\. Other than the two aforementioned product lines, it's likely that we'll see an RDNA 3 refresh using RDNA 3.5 architecture.
 
  AMD often launches CPUs at CES (the Consumer Electronics Show held annually in January), so there's a chance RNDA 3.5 will be introduced to the world in January 2024\. Other than that, it's anybody's guess when AMD will announce the new architecture.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Performance Improvements Will RDNA 3.5 Bring Over RDNA 3?
 
@@ -71,15 +71,15 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit:[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php)
 
  It seems like RDNA 3.5 will be making its debut in AMD's mobile APU lineup. The decision makes sense considering what it has achieved in gaming handhelds with RDNA 2 and RDNA 3 (for example, with the Steam Deck, Asus ROG Ally, and the upcoming Lenovo Legion Go). The Zen 5-powered CPU, armed with its 16 RDNA 3.5 GPU compute cores, should theoretically provide a big GPU performance boost over its predecessors.
 
  That said, the processor is still in its engineering sample (ES) state, so it's hard to say whether this performance will translate to real-world usage. Additionally, the screenshot also claims only 512 MB of GDDR6 video memory, which is almost certainly due to unfinished drivers for the unsupported APU or any other errors on the software side.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## RDNA 3.5 Aims to Turn the Tide in AMD's Favor
 
@@ -100,18 +100,22 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-explore-30-anime-concepts-dominating-tiktok-feed/"><u>[New] 2024 Approved Explore 30 Anime Concepts Dominating TikTok Feed</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-inside-the-action-camera-revolution-a-yi-4k-journey/"><u>[Updated] Inside the Action Camera Revolution A Yi 4K Journey</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-prime-screen-grabs-for-film-enthusiasts/"><u>[Updated] Prime Screen Grabs for Film Enthusiasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-streamlined-approach-to-capturing-youtube-content/"><u>2024 Approved Streamlined Approach to Capturing YouTube Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/different-types-of-cement-are-suited-for-varying-environmental-conditions-and-structural-demands/"><u>Different Types of Cement Are Suited for Varying Environmental Conditions and Structural Demands.</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortify-your-gaming-experience-with-a-simple-screen-lock/"><u>Fortify Your Gaming Experience with a Simple Screen Lock</u></a></li>
-<li><a href="https://games-able.techidaily.com/joining-java-network-from-bedrock-through-geysermc-portal/"><u>Joining Java Network From Bedrock Through GeyserMC Portal</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-to-new-realms-with-these-top-mmos/"><u>Journey to New Realms with These Top MMOs</u></a></li>
-<li><a href="https://games-able.techidaily.com/level-up-gaming-fun-experience-top-6-chatgpt-games/"><u>Level Up Gaming Fun: Experience Top 6 ChatGPT Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/leveraging-xbox-for-impactful-content-sharing-with-discord/"><u>Leveraging Xbox for Impactful Content Sharing with Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-conservation-tactics-to-keep-gaming-longer-on-xbox/"><u>Power Conservation Tactics to Keep Gaming Longer on Xbox</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tinkering-with-technology-a-new-sound-for-your-phone/"><u>Tinkering with Technology A New Sound for Your Phone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secrets-of-windows-10-effortless-media-importation-methods/"><u>[New] Secrets of Windows 10 Effortless Media Importation Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/"><u>[New] The Art of Recording Fun 6 Techniques to Document Minecraft for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-vr-gaming-powered-essential-oculus-players-for-2024/"><u>[New] VR Gaming Powered Essential Oculus Players for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-monetizing-your-youtube-content-costing/"><u>[Updated] 2024 Approved Monetizing Your YouTube Content Costing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-shadows-and-highlights-for-text-depth-in-illustrator-for-2024/"><u>[Updated] Shadows & Highlights for Text Depth in Illustrator for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-essential-tutorial-for-making-memes-on-9gag/"><u>[Updated] The Essential Tutorial for Making Memes on 9GAG</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163251677-achieve-peak-performance-install-updated-nvidia-graphics-driver-now/"><u>Achieve Peak Performance - Install Updated Nvidia Graphics Driver Now.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/combining-several-epub-books-into-one-seamless-file/"><u>Combining Several EPUB Books Into One Seamless File</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gameplay-and-engagement-best-7-bots-for-twitch-pros/"><u>Elevate Gameplay & Engagement: Best 7 Bots For Twitch Pros</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-game-subscribe-and-optimize-ps5s-ea-play-experience/"><u>Embrace the Game: Subscribe & Optimize PS5's EA Play Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-guide-emulating-games-for-steam-deck-users/"><u>Essential Guide: Emulating Games for Steam Deck Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-game-top-8-sites-and-review-agencies/"><u>Mastering the Game: Top 8 Sites & Review Agencies</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-sub-to-ea-play-with-skyrocketing-fees/"><u>No Sub to EA Play With Skyrocketing Fees</u></a></li>
+<li><a href="https://games-able.techidaily.com/pairing-devices-bonding-players-with-these-top-titles/"><u>Pairing Devices, Bonding Players with These Top Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-games-how-to-activate-screen-lock-on-switch-console/"><u>Safeguarding Games: How to Activate Screen Lock on Switch Console</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-evaluation-of-the-oneplus-nord-n10-5g-device-definitely-worth-your-attention/"><u>The Ultimate Evaluation of the OnePlus Nord N10 5G Device – Definitely Worth Your Attention</u></a></li>
 </ul></div>
 

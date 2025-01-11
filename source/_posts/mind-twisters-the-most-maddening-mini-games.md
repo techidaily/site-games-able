@@ -1,7 +1,7 @@
 ---
 title: "Mind-Twisters: The Most Maddening Mini-Games"
-date: 2025-01-03T16:04:55.650Z
-updated: 2025-01-04T16:05:03.434Z
+date: 2025-01-08T08:21:50.123Z
+updated: 2025-01-11T08:34:44.634Z
 tags:
   - games
 categories:
@@ -25,9 +25,17 @@ Let’s explore some of the names leading the scene.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Jump King
 
 ![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you just discovered[what Foddian games are](https://www.makeuseof.com/what-are-foddian-games/) , chances are you’ve heard of Jump King. It’s a massive title in the community, the completion of which holds a lot of sway. Jump King is one of the easiest Foddian games to grasp because of its simple mechanics.
 
@@ -49,10 +57,6 @@ Let’s explore some of the names leading the scene.
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
  Players control Diogenes’ sledgehammer with their mouse and nothing else. It can be rotated around a limited pivot but holds enough power to move the pot-dweller. As such, you’re meant to ascend steep hills and navigate tricky terrain with the sledgehammer alone.
@@ -65,9 +69,17 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
@@ -77,16 +89,12 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
@@ -103,10 +111,6 @@ Let’s explore some of the names leading the scene.
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
  Only Up! was developed in Unreal Engine 5, one of the most powerful 3D graphics engines on the market, and it shows in the game quality. Many of the game’s assets come from the Unreal Marketplace, but the developer found a way to organize the chaos. The result is a unique climbing experience as you traverse from one cultural biome to another.
@@ -116,10 +120,6 @@ Let’s explore some of the names leading the scene.
  Only Up! was at the top of the livestreaming world for almost a month, but the hype has since died. What the game lacks in replayability, it more than makes up for in difficulty. All the same, reaching the top and triggering the final cutscene feels incredibly rewarding.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## It’s About the Journey
 
@@ -142,21 +142,17 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-engagement-how-to-craft-a-direct-subscribe-link/"><u>[New] In 2024, Effortless Engagement How to Craft a Direct Subscribe Link</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-future-proof-videography-leading-cameras-of-2024/"><u>[Updated] Future-Proof Videography Leading Cameras of 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-transform-the-virtual-arena-engage-with-ease-during-live-streaming-for-2024/"><u>[Updated] Transform the Virtual Arena Engage with Ease During Live Streaming for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/earning-v-bucks-for-fortnite-a-ps5-strategy/"><u>Earning V-Bucks for Fortnite: A PS5 Strategy</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209936452-9781947369030-el-amor-nunca-muere/"><u>El Amor Nunca Muere | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-typing-game-a-compreranble-way-to-use-steam-decks-input-devices/"><u>Enhance Your Typing Game – A Compreranble Way to Use Steam Deck's Input Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-upgrade-speed-with-steam-deck-ssd-cloning/"><u>Enhancing Upgrade Speed with Steam Deck SSD Cloning</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a78-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo A78 5G?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-gt-3-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme GT 3 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-storytelling-gopro-quik-video-editing-essentials-for-macbook/"><u>In 2024, Elevate Your Storytelling GoPro Quik Video Editing Essentials for MacBook</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-mouse-settings-for-fast-paced-shooters/"><u>Optimal Mouse Settings for Fast-Paced Shooters?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premier-programs-designing-animated-3d-worlds/"><u>Premier Programs Designing Animated 3D Worlds</u></a></li>
-<li><a href="https://games-able.techidaily.com/reigniting-steams-remote-play-feature-on-compatible-windows-systems/"><u>Reigniting Steam's Remote Play Feature on Compatible Windows Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/solving-issues-with-detection-of-gaming-installations/"><u>Solving Issues with Detection of Gaming Installations</u></a></li>
-<li><a href="https://games-able.techidaily.com/stylus-syncopation-tablet-triumphs-over-mice/"><u>Stylus Syncopation: Tablet Triumphs Over Mice</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/k-youtube-partnership-aim-for-a-10k-views-target-for-2024/"><u>Unlock YouTube Partnership Aim for a 10K Views Target for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-effectively-download-huge-quantities-of-tiktok-content/"><u>[New] How to Effectively Download Huge Quantities of TikTok Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-nailing-the-art-of-ppt-video-reproduction/"><u>[Updated] Nailing the Art of PPT Video Reproduction</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-online-visionaries-subscriber-play-button-triumphs/"><u>[Updated] Online Visionaries Subscriber, Play Button Triumphs</u></a></li>
+<li><a href="https://games-able.techidaily.com/be-first-in-line-preorder-marvels-spidey-for-ps5/"><u>Be First in Line - Preorder Marvel's Spidey for PS5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-spotlight-discover-apples-most-impactful-yet-subtle-ai-innovation-at-wwdc/"><u>Beyond the Spotlight: Discover Apple's Most Impactful, Yet Subtle AI Innovation at WWDC</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169303840-elevate-gaming-choose-large-format-cabinet-fronts/"><u>Elevate Gaming: Choose Large-Format Cabinet Fronts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-change-tga-images-to-jpeg-format-with-ease-movavi/"><u>Free Online Converter: Change TGA Images to JPEG Format with Ease - Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-beginner-to-pro-your-roadmap-for-pokemon-igameplay/"><u>From Beginner to Pro: Your Roadmap for Pokémon iGameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/mac-integration-with-nintendo-switch-games/"><u>Mac Integration with Nintendo Switch Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fixes-avoid-crashes-of-hogwarts-legacy-on-initial-pc-boot-using-this-easy-guide-8-methods/"><u>Master the Fixes: Avoid Crashes of Hogwarts Legacy on Initial PC Boot Using This Easy Guide (8 Methods)</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-gaming-bliss-play-xbox-game-pass-on-steam-and-glossi/"><u>Simplify Gaming Bliss - Play Xbox Game Pass on Steam & GlosSI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-12-unusual-october-cyber-monday-bizarre-gadget-discounts-you-cant-miss-checked-by-zdnet/"><u>Top 12 Unusual October Cyber Monday Bizarre Gadget Discounts You Can't Miss – Checked by ZDNet</u></a></li>
 </ul></div>
 

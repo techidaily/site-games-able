@@ -1,7 +1,7 @@
 ---
 title: "Sustaining Power: Tips for Prolonged Xbox Joystick Use"
-date: 2024-12-20T19:48:09.766Z
-updated: 2024-12-26T02:44:53.629Z
+date: 2025-01-06T09:33:40.191Z
+updated: 2025-01-10T21:24:41.073Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn Off Controller Vibration for Your Xbox Wireless Controller
@@ -36,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
 ![A screenshot of the Apps selection screen on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3147.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Find your**Xbox Wireless Controller** , and select**Configure** .
 
 ![A screenshot of the Xbox Accessories application with the option to Configure an Xbox controller highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3150.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Select**Edit** .
 * Ensure**Turn on vibration** is deselected.
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
  If either of these accessories sound like they could improve your controller's battery life, you can find the official Xbox Rechargeable Battery and USB Cable pack via[the official Xbox website](https://www.xbox.com/en-us/accessories/batteries-chargers/play-and-charge-kit) , or you can purchase the official Universal Xbox Pro Charging Stand via[the Microsoft store](https://www.microsoft.com/en-us/d/controller-gear-universal-xbox-pro-charging-stand-shock-blue-latest-model/8w8v368g8kzx) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Ensure You Properly Turn Off Your Xbox Wireless Controller
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
  And with that, you can guarantee that your controller won't be wasting any of your leftover battery life. While this may seem like a small method, when combined with methods like[adjusting the brightness of the Xbox button on your controller](https://www.makeuseof.com/how-to-adjust-brightness-of-xbox-controller-and-console-light/#:~:text=Navigate%20to%20the%20Profile%20%26%20system,the%20settings%20for%20controller%20brightness.) or disabling vibrations, you may see a substantial difference in battery life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Use a Wired Connection for Your Xbox Wireless Controller
 
  Unfortunately, there is no guaranteed way of never running out of battery life for your Xbox controller if you rely on battery packs. However, if you connect your controller to your console via a USB cable, you will never have to worry about its battery draining.
@@ -98,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 ![A photograph of a white Xbox Wireless Controller for Xbox Series X and S](https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d961f8420245056a49851ba62.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * For any Xbox One Controller, or an Xbox Wireless Controller that doesn't feature the Share button, connect your controller via a Micro-USB cable.
@@ -106,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 ![A photograph of a person holding a white Xbox One controller in front of a monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/alternative-feature-2.jpg)
 
  And with your Xbox Wireless Controller connected via a supported USB cable, you can game for as long as you wish without fear of running out of battery. The only real drawback is being restricted by the length of your USB cable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Guarantee the Battery Life of Your Xbox Wireless Controller for Stress-Free Gaming
 
@@ -132,20 +132,14 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-video-editing-does-m1-macbook-air-hold-up/"><u>[New] Professional Video Editing Does M1 MacBook Air Hold Up?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722112186479-emoji-free-tweet-evolution-linuss-unmasking-trojan-discourse-and-chatgpt-hurdles/"><u>Emoji-Free Tweet Evolution, Linus's Unmasking, Trojan Discourse, & ChatGPT Hurdles</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-6-contemporary-mojave-home-layouts/"><u>In 2024, Ultimate 6 Contemporary Mojave Home Layouts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y100i-power-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y100i Power 5G Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/leading-free-console-reproduction-devices/"><u>Leading Free Console Reproduction Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-ps5-streamlining-gaming-memberships/"><u>Mastering PS5: Streamlining Gaming Memberships</u></a></li>
-<li><a href="https://games-able.techidaily.com/quiet-system-keep-steam-off-at-boot/"><u>Quiet System, Keep Steam Off at Boot</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-activating-recovery-options-on-ios-android-devices-and-pcs/"><u>Step-by-Step Guide: Activating Recovery Options on iOS, Android Devices & PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-discount-list-spotting-the-top-11-game-buying-websites/"><u>The Ultimate Discount List: Spotting the Top 11 Game Buying Websites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-must-watch-80s-films-perfect-for-binge-watching/"><u>Top 10 Must-Watch '80S Films Perfect for Binge-Watching</u></a></li>
-<li><a href="https://games-able.techidaily.com/transition-your-game-experience-windows-and-m1-macs-via-crossover/"><u>Transition Your Game Experience: Windows & M1 Macs via Crossover</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solutions-for-windows-7s-bad-pool-header-issue/"><u>Troubleshooting & Solutions for Windows 7'S 'Bad Pool Header' Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truthcoin-unveiling-its-reality-or-a-fraud/"><u>TruthCoin: Unveiling Its Reality or A Fraud?</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-potential-four-reasons-for-a-corsair-icue-link-upgrade/"><u>Unlock Potential: Four Reasons for a Corsair iCUE Link Upgrade</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-smooth-steam-bp-mode/"><u>Unlocking the Secrets of Smooth Steam BP Mode</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cold-climates-hot-wins-beijing-highlights/"><u>[Updated] In 2024, Cold Climates, Hot Wins Beijing Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-app-for-gamers-milestone-maps/"><u>Best App for Gamers' Milestone Maps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-acquire-windows-asio-drivers-for-focusrite-scarlett-2i4-audio-interface/"><u>Easy Setup: Acquire Windows ASIO Drivers for Focusrite Scarlett 2I4 Audio Interface</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-xr-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone XR to Roku? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-stream-with-these-pioneering-7-twitch-ai-partners/"><u>Master Your Stream with These Pioneering 7 Twitch AI Partners</u></a></li>
+<li><a href="https://games-able.techidaily.com/roblox-framespeed-modifications-and-safety-analysis/"><u>Roblox Framespeed Modifications and Safety Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-guide-removing-previous-save-data-on-ps5/"><u>Simplified Guide: Removing Previous Save Data on PS5</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-boosting-android-video-brilliance-for-2024/"><u>The Ultimate Guide to Boosting Android Video Brilliance for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-iphone-15-surpasses-expectations-for-even-seasoned-pro-users-an-in-depth-review-zdnet/"><u>Why the iPhone 15 Surpasses Expectations for Even Seasoned 'Pro' Users - An In-Depth Review | ZDNet</u></a></li>
 </ul></div>
 

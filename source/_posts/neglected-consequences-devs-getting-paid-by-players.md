@@ -1,7 +1,7 @@
 ---
 title: "Neglected Consequences: Devs Getting Paid by Players"
-date: 2024-12-30T16:00:44.603Z
-updated: 2025-01-04T16:00:02.451Z
+date: 2025-01-09T22:27:53.709Z
+updated: 2025-01-11T07:26:13.794Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Tipping game developers could be an option, but other methods like crowdfunding and Patreon already exist.
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  He implied that an in-game option might encourage players to reward the developer on completion of a game, when they’re most engaged with it.
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
 
@@ -52,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -72,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
@@ -83,9 +75,17 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -124,14 +124,19 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-eliminating-grey-edges-on-video-a-youtube-fix-guide/"><u>[New] In 2024, Eliminating Grey Edges on Video A YouTube Fix Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/dealing-with-game-pass-price-increase-quick-wins/"><u>Dealing with Game Pass Price Increase - Quick Wins</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-finest-10-game-apps-no-paid-extras/"><u>Discover the Finest 10 Game Apps - No Paid Extras</u></a></li>
-<li><a href="https://games-able.techidaily.com/ephemeral-games-pondering-their-relevance/"><u>Ephemeral Games – Pondering Their Relevance</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/guide-simple-pour-changer-des-fichiers-mkv-en-mp4-avec-qualite-dimages-optimale-et-rapidite/"><u>Guide Simple Pour Changer Des Fichiers MKV en MP4 Avec Qualité D'Images Optimale Et Rapidité</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-avoid-uncontrolled-mouse-scrolling/"><u>How to Avoid Uncontrolled Mouse Scrolling</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-behind-glasses-and-screens-vrs-evolutionary-tale/"><u>In 2024, Behind Glasses and Screens VR’s Evolutionary Tale</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-structuring-stimulating-podcast-trailers/"><u>In 2024, Structuring Stimulating Podcast Trailers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/launch-alert-new-apple-releases-including-macbook-air-and-ipads-may-arrive-by-spring-season/"><u>Launch Alert: New Apple Releases Including MacBook Air & iPads May Arrive by Spring Season</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-stand-out-with-yt-shorts-essential-guidelines-to-follow/"><u>[New] In 2024, Stand Out with YT Shorts Essential Guidelines to Follow</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-chromesnap-tracker-os-level-recording/"><u>[Updated] 2024 Approved ChromeSnap Tracker OS Level Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-utilizing-b-roll-to-enrich-narrative-arcs/"><u>[Updated] Utilizing B-Roll to Enrich Narrative Arcs</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-reasons-why-your-games-keep-crashing-and-how-to-fix-issues/"><u>10 Reasons Why Your Games Keep Crashing (And How to Fix Issues)</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-unlocking-every-steam-badge/"><u>A Guide to Unlocking Every Steam Badge</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capturing-your-gaming-adventures-best-practices-reviewed-for-2024/"><u>Capturing Your Gaming Adventures Best Practices Reviewed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-ps-vr2-adventure/"><u>Enhancing Your PS VR2 Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-the-perplexing-roblox-error-code-403-for-windows-users/"><u>Fixing the Perplexing Roblox Error Code 403 for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-invalidate-and-reclaim-your-fortnite-expenses/"><u>How to Invalidate and Reclaim Your Fortnite Expenses</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/influencer-network-behind-widespread-covid-19-misinformation/"><u>Influencer Network Behind Widespread Covid-19 Misinformation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/overcooked-2-critique-the-ultimate-cooking-carnage-compendium/"><u>Overcooked! 2 Critique: The Ultimate Cooking Carnage Compendium</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-for-gopro-professionals/"><u>The Ultimate Guide for GoPro Professionals</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-rewarding-gamers-with-tips-could-undermine-industry-standards/"><u>Why Rewarding Gamers with Tips Could Undermine Industry Standards</u></a></li>
 </ul></div>
 

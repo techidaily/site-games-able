@@ -1,7 +1,7 @@
 ---
 title: The Quad of Qualities to Upgrade in the Xbox Reward System
-date: 2024-08-22T22:26:23.265Z
-updated: 2024-08-23T22:26:23.265Z
+date: 2025-01-09T05:38:43.845Z
+updated: 2025-01-10T22:04:16.125Z
 tags:
   - games
 categories:
@@ -43,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
  And with the slashing of points, existing issues are only exacerbated. Together with the sluggish rate you gather points, the unfortunate changes only give you further cause to ignore the feature altogether.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Point Values Are Worth Less When Spending Points on Xbox
 
  Aside from how Microsoft Reward Points have adapted over time, some core features of the service represent glaring ways it could be fairer to gamers.
@@ -56,15 +57,17 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 ![A screenshot of Xbox messages detailing earned Reward Points for purchases made on the Xbox Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/point-messages.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To put it in plainer terms, if you go off Microsoft's one-point-per-dollar system, 7000 points for a free month of Xbox Live Gold represents $7000 dollars worth of store purchases. And while this is slightly contrary, it would be ridiculous if points given were equivalent to store purchases, the system seems highly unfair.
 
  If the ratio of earned points to store purchases were more substantial, the method would seem like a legitimate way for you to attain free rewards on Xbox. But as it is, the system seems almost frugal.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. The Best Ways to Earn Points Involve Purchasing Xbox Games
 
  Even if you look outside the traditional ways you earn Microsoft Reward Points, other methods involving specific titles can act as Xbox Game Pass advertisements or represent a game you may need to purchase.
@@ -74,30 +77,28 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 ![A screenshot of a punch card within the Microsoft Rewards on Xbox application highlighting the rewards and requirements screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/punch-card-rewards.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This method of incentivizing playing games can be great if you already own the game or can access the title through Xbox Game Pass. But if the required game isn't available, or you don't have Game Pass, you have to purchase the game to earn points.
 
  In terms of offering a useful way to earn points, game-specific activities are great on paper but quickly turn into a way for Microsoft Rewards Points to advertise store purchases or Xbox Game Pass. You could even see it as a method of incentivizing the spending of your money.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Microsoft Reward Points Need to Adapt to Remain Functional on Xbox
 
  While Microsoft Reward Points are a free bonus added to the Xbox platform, the more you look into how the service works, the more it starts to resemble more of an issue than a bonus.
 
  And with the service slowly becoming more restrictive and less rewarding, Microsoft Reward Points will likely become a less essential aspect of the Xbox Series X|S unless some of its issues are addressed.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,4 +107,19 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-enjoy-shackle-free-video-viewing-free-app-for-pc-mac/"><u>[New] 2024 Approved Enjoy Shackle-Free Video Viewing Free App for PC, Mac</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-tackling-dxgkrnlsys-win-error/"><u>[Tech] Tackling dxgkrnl.sys Win Error</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-zero-to-youtube-pros-creating-an-account-rightly/"><u>[Updated] From Zero to YouTube Pros Creating an Account Rightly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-snapseed-101-basic-editing-techniques-unveiled-for-2024/"><u>[Updated] Snapseed 101 Basic Editing Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-after-effects-textwork-essentials-the-10-best-presets/"><u>In 2024, After Effects Textwork Essentials The 10 Best Presets</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-beyond-the-ordinary-unlocking-xbox-secrets/"><u>Journey Beyond the Ordinary: Unlocking Xbox Secrets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-igtv-followers-essential-techniques-to-grow-your-audience/"><u>Mastering IGTV Followers Essential Techniques to Grow Your Audience</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-steam-deck-input-a-guide-to-the-keyboard/"><u>Perfecting Steam Deck Input: A Guide to the Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-boundaries-exclusive-steam-deck-upgrades-revealed/"><u>Pushing Boundaries: Exclusive Steam Deck Upgrades Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-game-visuals-with-models-in-mind/"><u>Redefining Game Visuals with Models in Mind</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-dxgierrordevicehung-0x887a0006-on-win-1011/"><u>Resolving DXGI_ERROR_DEVICE_HUNG (0X887A0006) on Win 10/11</u></a></li>
+</ul></div>
 

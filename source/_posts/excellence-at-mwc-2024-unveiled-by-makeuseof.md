@@ -1,7 +1,7 @@
 ---
 title: Excellence at MWC 2024 Unveiled by MakeUseOf
-date: 2024-12-30T16:03:38.962Z
-updated: 2025-01-04T16:05:01.807Z
+date: 2025-01-06T17:17:26.911Z
+updated: 2025-01-11T02:42:47.235Z
 tags:
   - games
 categories:
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ![tecno megabook ultimate t16 with awards mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-ultimate-t16-with-awards-mwc-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gavin Phillips/MakeUseOf
 
  Tecno is one of the world's fastest-growing tech companies, and its range of Megabook laptops just received an enormous upgrade: AI processing.
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 ![tecno megabook pro t16 ai image generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-pro-t16-ai-image-generator.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
@@ -62,13 +66,13 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
  Furthermore, the Megabook T16 Pro ships with a whopping 99.99Wh battery that supports 100W charging, and its upgraded 65W cooling system helps to keep everything purring along nicely.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Honor Magic 6 Pro
 
 ![honor magic 6 pro on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magic-6-pro-on-stand-with-muo-mwc-2024-award.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -86,10 +90,6 @@ Close
 
  Finally, Honor's second-generation silicon-carbon battery allows it to pack in a whopping 5,600mAh while keeping the Magic 6 Pro's design slim and sleek; it's a great bit of kit.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Motorola Adaptive Display Concept
 
 ![motorola adaptive display concept smartphone with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/motorola-adaptive-display-concept-smartphone-with-muo-mwc-2024-award.jpg)
@@ -102,9 +102,17 @@ Close
 
  The concept smartphone features a 6.9-inch pOLED screen. Most interestingly, the battery and other components are built in multiple segments to help the device achieve its bendiness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Tecno Camon 30 Premier 5G
 
 ![tecno camon on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/tecno-camon-on-stand-with-muo-mwc-2024-award.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -137,7 +145,7 @@ Close
  The budget flip-phone market is heating up, with strong entries like the ZTE Nubia Flip 5G and Tecno Phantom V Flip 5G battling it out with the Motorola Razr.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Ayaneo Pocket S
@@ -156,13 +164,13 @@ Close
 
  The Pocket S also features multiple performance modes, integrated vibration, RGB lighting on the Hall Sensing joysticks, and heaps of gaming integrations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Xiaomi 14 Ultra
 
 ![xiaomi 14 ultra on stand mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/xiaomi-14-ultra-on-stand-mwc-2024.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -176,13 +184,13 @@ Close
 
  Like Honor, Xiaomi has also made the jump to a new silicon carbon cell battery, which delivers greater power density. The Xiaomi 14 Ultra has a 5,300mAh battery, along with 90W wired fast charging and 80W wireless charging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Honor MagicBook Pro 16
 
 ![honor magicbook pro 16 at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magicbook-pro-16-at-mwc-2024.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -227,7 +235,7 @@ Close
 ![samsung galaxy smart ring on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/samsung-galaxy-smart-ring-on-stand-at-mwc-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
@@ -240,17 +248,9 @@ Close
 
  The Samsung Galaxy Ring also looks smart, eschewing the matte option delivered by other smart ring options in favor of a shiny metal finish.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 12\. Lenovo ThinkBook Transparent Concept
 
 ![lenovo transparent laptop concept mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/lenovo-transparent-laptop-concept-mwc-2024.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -277,24 +277,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-analyzing-livestream-giants-twitch-vs-youtube-breakdown/"><u>[New] 2024 Approved Analyzing Livestream Giants Twitch Vs YouTube Breakdown</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-windows-pc-broadcast-toolkit-for-live-tv-capture/"><u>[New] 2024 Approved The Ultimate Windows PC Broadcast Toolkit for Live TV Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-awaken-the-peaceful-warrior-within-discover-the-ultimate-channels/"><u>[New] In 2024, Awaken the Peaceful Warrior Within - Discover the Ultimate Channels</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehensive-crafting-guide-for-mc-map-integration/"><u>Comprehensive Crafting Guide for MC Map Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/detailed-ps4-reset-procedure-walkthrough/"><u>Detailed PS4 Reset Procedure Walkthrough</u></a></li>
-<li><a href="https://games-able.techidaily.com/ea-plays-top-30-games-for-a-ps5-night-in/"><u>EA Play’s Top 30 Games for a PS5 Night In</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-default-windows-backup-reset/"><u>Guiding Through Default Windows Backup Reset</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-canonical-revolutionized-computing-20-years-of-pioneering-the-ubuntu-linux-experience-insights-from-zdnet/"><u>How Canonical Revolutionized Computing: 20 Years of Pioneering the Ubuntu Linux Experience | Insights From ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-resolve-service-down-a-guide-for-the-503-web-error-code/"><u>How to Resolve 'Service Down' - A Guide for the 503 Web Error Code</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-gaming-streams-best-recording-programs/"><u>In 2024, Gaming Streams Best Recording Programs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-pure-sound-capture-on-your-mac/"><u>In 2024, Pure Sound Capture on Your Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-peak-performance-journey-for-your-docked-steam-deck/"><u>Navigating the Peak Performance Journey for Your Docked Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-control-transfer-sharing-your-mousekeyboard-with-the-steam-deck-through-barriers/"><u>Optimal Control Transfer: Sharing Your Mouse/Keyboard With the Steam Deck Through Barriers</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcome-steams-content-restriction-hiccup/"><u>Overcome Steam's Content Restriction Hiccup</u></a></li>
-<li><a href="https://games-able.techidaily.com/tech-titans-clash-xbox-series-x-vs-pc-gamers/"><u>Tech Titans Clash: Xbox Series X Vs. PC Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-downside-play-to-earn-model-in-game-development/"><u>The Downside: Play-to-Earn Model in Game Development</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-netgear-a61-wireless-adapter-with-the-latest-windows-drivers-how-to/"><u>Update Your Netgear A61^ Wireless Adapter with the Latest Windows Drivers: How To</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-customized-steam-deck-roadmap/"><u>Your Customized Steam Deck Roadmap</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-steps-for-capturing-cs-go-sessions-for-2024/"><u>[New] Quick Steps for Capturing CS GO Sessions for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-enhancing-viewership-transferring-twitch-content-to-fb/"><u>[Updated] In 2024, Enhancing Viewership Transferring Twitch Content to FB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apple-m1-pro-vs-m1-max-the-difference-between-them/"><u>Apple M1 Pro Vs. M1 Max The Difference Between Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/ascend-the-peak-of-playability-insights-into-androids-frame-rate-2-ways/"><u>Ascend the Peak of Playability: Insights Into Android's Frame Rate (2 Ways)</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-engagement-the-skillful-application-of-block-and-unblock-on-twitch/"><u>Balancing Engagement: The Skillful Application of Block & Unblock on Twitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/buffer-free-viewing-permanent-solution-to-kodis-playback-problem/"><u>Buffer-Free Viewing: Permanent Solution to Kodi's Playback Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-remote-play-between-console-and-phone/"><u>Enabling Remote Play Between Console and Phone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-effective-is-an-alarm-on-an-iphone-when-its-switched-off-muted-or-set-to-do-not-disturb/"><u>How Effective Is an Alarm on an iPhone When It's Switched Off, Muted, or Set to 'Do Not Disturb'?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-meizu-21-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Meizu 21 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionizing-data-retrieval-stellars-new-software-update-tailored-for-end-users/"><u>Revolutionizing Data Retrieval: Stellar's New Software Update Tailored for End Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-steam-problem-solving-in-windows-11-os/"><u>Simplifying Steam Problem Solving in Windows 11 OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-hp-laptop-webcam-issues-on-windows-11/"><u>Troubleshooting Tips: Resolving HP Laptop Webcam Issues on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/tune-treasure-hunters-discovering-hidden-musical-gems/"><u>Tune Treasure Hunters: Discovering Hidden Musical Gems</u></a></li>
 </ul></div>
 

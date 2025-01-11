@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA's Power Push: A Costly Gamble for Me"
-date: 2024-12-29T16:00:41.748Z
-updated: 2025-01-04T16:01:32.749Z
+date: 2025-01-04T21:52:06.771Z
+updated: 2025-01-11T05:30:24.353Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 * [Too Expensive for Diminishing Returns](#too-expensive-for-diminishing-returns)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 * Consider the RTX 4080 Super if you don't plan to play games at 4K resolution. It's far less power hungry with a 320W TDP.
 
  Despite launching in 2022, the RTX 4090 is still the world's fastest graphics card as of early 2024\. Although I enjoyed using it to play AAA games over the past year and a half, I still regret buying it for a few reasons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1 My GPU Usage Is Far From 100 Percent
 
@@ -60,10 +56,14 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 Power Consumption Is Very High
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 ![a triple-monitor PC gaming setup with Cyberpunk 2077 running on the main display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/04/a-triple-monitor-pc-gaming-setup-with-cyberpunk-2077-running-on-the-main-display.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
@@ -108,17 +108,16 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-vid-tribute-the-power-in-customer-endorsements/"><u>[Updated] In 2024, Vid Tribute The Power in Customer Endorsements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-question-collection-for-lively-podcast-discussions/"><u>[Updated] Innovative Question Collection for Lively Podcast Discussions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-melding-audio-with-visuals-digitally-for-2024/"><u>[Updated] Melding Audio With Visuals Digitally for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-your-pcs-performance-by-clearing-clutter-using-bleachbit-zdnet-recommended/"><u>Boost Your PC's Performance by Clearing Clutter Using BleachBit (ZDNet Recommended)</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparing-the-power-amds-rx-7800xt-vs-rx-7700xt/"><u>Comparing the Power: AMD's RX 7800XT vs RX 7700XT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-connectivity-download-and-update-microsofts-compatible-bluetooth-drivers-for-all-windows-versions/"><u>Ensure Smooth Connectivity: Download & Update Microsoft's Compatible Bluetooth Drivers for All Windows Versions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-v27-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo V27?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-quill-the-best-caption-apps-for-your-photos-iosandroid/"><u>In 2024, Quick Quill The Best Caption Apps for Your Photos (iOS/Android)</u></a></li>
-<li><a href="https://games-able.techidaily.com/peaceful-playthrough-nullify-controller-shake/"><u>Peaceful Playthrough: Nullify Controller Shake</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-unresponsive-keyboard-keys-in-windows/"><u>Step-by-Step Guide to Fix Unresponsive Keyboard Keys in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-nvidias-dlss-35-with-ai-integration/"><u>Understanding Nvidia's DLSS 3.5 with AI Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-strikes-as-gamers-deterrent-on-xbox/"><u>Understanding Strikes as Gamer's Deterrent on Xbox</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-adding-vibrancy-easy-youtube-subscribe-animations-with-filmora-for-2024/"><u>[New] Adding Vibrancy Easy YouTube Subscribe Animations with Filmora for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-look-whatsapps-voice-message-technology/"><u>[New] Inside Look WhatsApp's Voice Message Technology</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-simplifying-screen-record-functions-on-iphone-7/"><u>2024 Approved Simplifying Screen Record Functions on iPhone 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172767277-enhance-csgo-on-pc-10-frames-up/"><u>Enhance CS:GO on PC - 10 Frames Up!</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-steam-image-redundancy/"><u>Essential Tips for Steam Image Redundancy</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/mastering-ai-commerce-insights-tips-and-trends-on-the-abbyy-platform/"><u>Mastering AI Commerce Insights - Tips & Trends on the ABBYY Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-ps5-connectivity-wi-fi-troubleshooting-steps/"><u>Navigating PS5 Connectivity: Wi-Fi Troubleshooting Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/restore-harmony-to-dragonborn-quests-fixing-no-audio-in-skyrim/"><u>Restore Harmony to Dragonborn Quests: Fixing No Audio in Skyrim</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-smart-ai-tools-in-your-chrome-extension-toolbox/"><u>Top 7 Smart AI Tools in Your Chrome Extension Toolbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-video-game-delays-are-a-good-thing/"><u>Why Video Game Delays Are a Good Thing</u></a></li>
 </ul></div>
 

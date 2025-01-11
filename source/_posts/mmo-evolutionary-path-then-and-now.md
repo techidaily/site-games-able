@@ -1,7 +1,7 @@
 ---
 title: "MMO Evolutionary Path: Then & Now"
-date: 2024-08-22T22:21:07.389Z
-updated: 2024-08-23T22:21:07.389Z
+date: 2025-01-06T05:46:40.780Z
+updated: 2025-01-11T00:28:19.777Z
 tags:
   - games
 categories:
@@ -30,9 +30,17 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
  There are other subgenres of MMOs that extend to sports, racing, and even music games. Typically though, an MMO that you come across is going to be an MMORPG or an MMOFPS. If you love to compete with other players but also explore rich and vast lands, then one of the[best free MMORPGs](https://www.makeuseof.com/tag/the-10-greatest-free-mmorpgs-to-start-playing-now/) is going to be more your style. If you're a fan of FPS games like Halo and Call of Duty but want something that requires more commitment, an MMOFPS would be more well-suited. Finding the right MMO for you takes a little bit of research but is worth it if you find a game that you enjoy playing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Is an MMO Game Different From Other Games?
 
 ![Flat screen monitors with a keyboard and mouse on a desk lit up by LED lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pc-gaming-setup.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While all games are built with the core goal of being a fun time, they are not all built for the same type of player. MMO games differ from other games by offering a massive amount of content in a vast world, with the underpinning of making the world a social experience that, while occasionally necessary, isn't mandatory to you completing the game's quests. You can be an outsider that solos dungeon bosses and random street-side mobs. You can join a guild of other players and go raiding with them every Friday night to share in high-level loot.
 
@@ -48,15 +56,17 @@ MMOs allow you to play as:
  Finally, some players want to feel a sense of longevity and progress with the games they choose to play. A game like NBA or Call of Duty would have their progress essentially wiped year-on-year if they wanted to keep up with the latest titles. On an MMO, you can commit to playing on one account for the next 10–20 years at least, usually. MMOs tend to be constantly-evolving games that require a commitment, a bit of buy-in from you and other players. That speaks to certain gamers, while others find it too intense.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The History of MMO Games
 
 ![Old School Runescape running on the RuneLite app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-school-runescape.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  MMO games have come a long way from where they first started. Though the genre's popularity has fluctuated over the years, it has been solidified as one of the most popular types of gaming available.
 
  As noted in a[Massively Overpowered post](https://massivelyop.com/2021/08/07/the-game-archaeologist-defining-the-eras-of-mmorpg-history/) on MMO game history, MMOs before the 90s were largely text-based and restricted in terms of how many players could connect with each other. In the 1990s onward, games such as Ultima Online and EverQuest took the genre into the limelight as noted by an[MMOGames.com post](https://www.mmogames.com/articles/specials/mmorpg-history) . The restricted, text-based experiences were replaced by 3D worlds that players could interact and fight with each other in.
@@ -64,38 +74,30 @@ MMOs allow you to play as:
  By the 2000s, MMOs like World of Warcraft, RuneScape, and Lord of the Rings Online were all popular choices, amassing pretty impressive player bases. In the 2010s, you'd have seen titles like Star Wars: The Old Republic, Black Desert, and The Elder Scrolls Online. The fluctuating popularity of MMOs has clearly not prevented new titles from being released, though the peak of World of Warcraft and similar titles in the early 21st century seems unlikely to be repeated.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## State of Play: The Modern MMO
 
 ![Data about New World on the Steam Charts website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steamcharts-new-world.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Battle royale and FPS have arguably been the most prominent genres in gaming for quite some time, which has led to an[MMO drought from developers](https://www.makeuseof.com/what-is-mmo-drought/) . It is unsurprising that the masses of gamers cannot offer the level of commitment necessary to play an MMO properly. Even if they could, the MMO then has the difficult task of offering enough content to sustain their attention.
 
  Despite the fluctuating popularity of MMOs since their peak in the aughts, a dedicated player base remains. As does excitement—relatively recent MMOs such as Lost Ark and New World have proven that the demand is there for a decent, fresh MMO experience. Both titles have had peaks of over one million concurrent active players, despite issues at launch and bugs.
 
  Players will flock to an MMO if it is well-developed, rich in content and environment, and offering something new. However, it is reasonable to say that MMOs are unlikely to ever become a genre for the masses since they tend to attract the more hardcore gamers that are willing to offer a higher level of commitment to the experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## MMOs Are a Great Genre
 
  MMOs are a great genre to play if you're looking for high-level escapism and a world that you can sink your teeth into for years to come. Games in this genre typically offer a level of freedom in how and what you play as, which can feel refreshing if you typically play more rigid, linear games.
 
  There is plenty of potential for MMO games to rise in popularity again, and they can be just as thrilling to play as action, FPS, or battle royale games.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +106,23 @@ MMOs allow you to play as:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-practices-for-boosting-views-on-freefire-gaming-channels/"><u>[New] In 2024, Best Practices for Boosting Views on FreeFire Gaming Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-stop-motion-cinema-ranking-the-best-15/"><u>[Updated] Innovative Stop-Motion Cinema Ranking the Best 15</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-1st-place-video-saver-download-anywhere-anytime/"><u>2024 Approved 1St Place Video Saver - Download Anywhere, Anytime</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-power-of-gopro-burst-mode/"><u>2024 Approved Exploring the Power of GoPro Burst Mode</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728501651612-hyper-vwindows-server/"><u>簡單指南：在Hyper-V上快速設置Windows Server的增量儲存</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamics-mmx-200-a-sound-revolution/"><u>Beyerdynamic's MMX 200: A Sound Revolution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-ps-vr-headset-to-your-computer-easy-steps-for-an-immersive-experience/"><u>Connecting PS VR Headset to Your Computer: Easy Steps for an Immersive Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-nostalgia-using-emudeck-for-old-games/"><u>Exploring Nostalgia: Using EmuDeck for Old Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-guide-for-static-hp-screen-flashes/"><u>Fix Guide for Static HP Screen Flashes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-skepticism-to-success-uncover-the-truth-behind-common-fears-of-embracing-linux-over-windows/"><u>From Skepticism to Success: Uncover the Truth Behind Common Fears of Embracing Linux Over Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-ultimate-mkv-player-for-windows-and-mobile/"><u>In 2024, Ultimate MKV Player for Windows & Mobile</u></a></li>
+<li><a href="https://games-able.techidaily.com/outsmart-the-subscription-surge-short-lived-price-fixes/"><u>Outsmart the Subscription Surge: Short-Lived Price Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/pros-and-cons-of-each-steam-deck-model/"><u>Pros and Cons of Each Steam Deck Model</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-prevent-online-predators-on-discord/"><u>Strategies to Prevent Online Predators on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-why-youre-labeled-idle-on-discord-platform/"><u>Understanding Why You're Labeled 'Idle' On Discord Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-excitement-dive-into-netflix-gaming-world/"><u>Unlock Excitement - Dive Into Netflix Gaming World</u></a></li>
+</ul></div>
 

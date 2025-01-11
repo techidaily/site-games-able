@@ -1,7 +1,7 @@
 ---
 title: "Reimagine Gaming: Enhancing TV Vision with Playnite FS"
-date: 2024-08-22T22:26:04.622Z
-updated: 2024-08-23T22:26:04.622Z
+date: 2025-01-08T00:12:22.495Z
+updated: 2025-01-11T04:55:39.440Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
  So what if consoles are easy to use with a joypad without requiring a finicky mouse and bulky keyboard? You can also do that on a PC and launch all your games, from your titles on Steam to your emulated retro favorites, using Playnite's easily accessible Fullscreen Mode.
 
  What's better, just like everything on PC-land, Playnite's Fullscreen Mode is also customizable. Let's see how you can configure and use it for keyboard and mouse-free gaming from your couch with a joypad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Does Playnite's Fullscreen Mode Work?
 
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 
 ![Playnite Switch to Fullscreen Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-switch-to-fullscreen-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternative themes change the app's aesthetics and offer better integration for some of Playnite's many add-ons. For example, they might display data more prominently from the[HowLongToBeat](https://howlongtobeat.com/) and[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) sites next to a game's description.
 
 To install third-party themes to Playnite:
@@ -43,6 +51,10 @@ To install third-party themes to Playnite:
 ![Playnite Menu Add Ons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-menu-add-ons.jpg)
 2. Expand the "**Browse** " section on the left of the**Add-ons** window, and visit the**Themes Fullscreen** page. There, check the list of available themes. Select any to read its description and see some preview thumbnails. Click the**Install** button on the right to bring it on board.  
 ![Playnite Add Ons Browse Themes Fullscreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-add-ons-browse-themes-fullscreen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Customize Fullscreen Mode
 
@@ -55,8 +67,9 @@ To install third-party themes to Playnite:
 ![Playnite Fullscreen Mode Menu Settings Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-menu-settings-entry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Here are some of the spots you might want to visit:
 
 ### General
@@ -65,23 +78,18 @@ Here are some of the spots you might want to visit:
 
 ![Playnite Fullscreen Mode Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-settings-general.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  You can also select if you want to see the**Clock** ,**Battery Status** (useful if using a laptop), and if you prefer the app's**Image rendering scaler** to prioritize speed or quality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Visuals
 
  This is where you can configure how your games appear in Playnite's interface:
 
 ![Playnite Fullscreen Mode Settings Visuals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-settings-visuals.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 * Should the app**Darken not installed games** ?
 * Would you prefer to**Show Game Titles** instead of trying to tell your games apart by their covers?
 * How large do you prefer your**Font Size** ?
@@ -89,10 +97,6 @@ Here are some of the spots you might want to visit:
 
  That's also where you can change the active**Theme** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### Layout
 
  Play with the**Columns** ,**Rows** , and**Item spacing** values here to change how many entries Playnite will display on your screen, making them appear larger or smaller.
@@ -102,8 +106,9 @@ Here are some of the spots you might want to visit:
  You might want to avoid playing with the**Horizontal Scrolling** and**Smooth scrolling** checkboxes, but keep their location in mind: some themes will send you back here to change those options.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Input
 
  If your joypad doesn't work correctly (or at all) with Playnite's Fullscreen Mode, try enabling "**XInput Device Support** " here.
@@ -126,36 +131,25 @@ Here are some of the spots you might want to visit:
 
 ![Playnite Desktop Menu Settings Autolaunch in Fullscreen Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-desktop-menu-settings-autolaunch-in-fullscreen-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This way, Playnite will practically "console-i-fy" your PC since the app will launch automatically in its Fullscreen Mode whenever Windows loads. This will enable you to jump straight into your games collection instead of fighting with Windows' desktop from your couch.
 
  Also, if you've followed our guide on[how to add your emulated games into Playnite on Windows](https://www.makeuseof.com/add-emulated-games-playnite/) , you'll find that being able to control everything with a joypad feels more seamless than adding a mouse and keyboard to the mix.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Couch PC Gaming
 
  As we saw, Playnite manages to offer the best of the PC and console worlds. Its standard mode provides you with absolute control over your gaming library. Its Fullscreen Mode, which we saw here, enables you to navigate your games collection effortlessly and launch any title with a joypad, like on a gaming console.
 
  And yet, it doesn't forget all the extra bells and whistles that make PC gaming what it is. So, you will be able to customize its interface to your liking and have instant access to all the extras Playnite and its add-ons have to offer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +158,23 @@ Here are some of the spots you might want to visit:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-industrys-choice-our-miniature-dvd-players-guide/"><u>[Updated] 2024 Approved Industry's Choice Our Miniature DVD Players Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-best-7-high-motion-dslrs-for-dynamic-live-content-creation/"><u>[Updated] Best 7 High-Motion DSLRs for Dynamic Live Content Creation</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-video-reach-tactics-against-bot-visitors/"><u>[Updated] Enhancing Video Reach Tactics Against Bot Visitors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exclusive-guide-to-top-youtube-to-webm-conversion-software-for-2024/"><u>[Updated] Exclusive Guide to Top YouTube-to-WebM Conversion Software for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/definitive-solutions-to-eliminate-football-manager-2020s-persistent-crash-problems/"><u>Definitive Solutions To Eliminate Football Manager 2020'S Persistent Crash Problems</u></a></li>
+<li><a href="https://discover-best.techidaily.com/download-free-high-quality-video-converter-top-mac-alternatives-to-format-factory/"><u>Download Free High-Quality Video Converter: Top Mac Alternatives to Format Factory</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-your-subscription-journey-on-steam/"><u>End Your Subscription Journey on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/exciting-ai-innovations-from-computex-2-cookie/"><u>Exciting AI Innovations From Computex 2 Cookie</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-earbuds-for-nintendo-switch/"><u>Ideal Earbuds for Nintendo Switch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ryujinx-for-ps4switch-game-emulation-a-guide/"><u>Mastering Ryujinx for PS4/Switch Game Emulation: A Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-vs-large-screen-games-the-right-device/"><u>Mobile Vs. Large-Screen Games: The Right Device?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/netgears-top-rated-orbi-router-unveiling-why-it-reigns-as-the-premier-choice-for-seamless-connectivity/"><u>Netgear's Top-Rated Orbi Router: Unveiling Why It Reigns as the Premier Choice for Seamless Connectivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/predicting-the-impact-of-xbox-activision-merger-on-gaming-culture/"><u>Predicting the Impact of Xbox-Activision Merger on Gaming Culture</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-7-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone 7 Is Unlocked</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-and-rectifying-4-predominant-graphics-card-problems/"><u>Unraveling and Rectifying 4 Predominant Graphics Card Problems</u></a></li>
+</ul></div>
 

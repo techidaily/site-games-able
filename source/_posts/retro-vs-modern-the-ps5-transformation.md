@@ -1,7 +1,7 @@
 ---
 title: "Retro Vs. Modern: The PS5 Transformation"
-date: 2024-12-28T16:00:06.932Z
-updated: 2025-01-04T16:00:12.418Z
+date: 2025-01-09T06:24:59.114Z
+updated: 2025-01-10T16:25:37.234Z
 tags:
   - games
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sony Is Launching a New (Slimmer) PS5
 
@@ -43,14 +47,10 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 ![the size differences for all PS5 versions on the CompareSizes website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-size-differences-for-all-ps5-versions-on-comparesizes-website.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Attachable Disk Drive
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
@@ -79,21 +79,21 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The newer PS5 models come with a horizontal stand, which is not compatible with the old models. You can also purchase a horizontal stand separately, which will cost $29.99\. The good thing about the new horizontal stand is that it will be compatible with all PS5 models.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The New PS5 Model Is Exciting
 
@@ -114,22 +114,22 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-essential-vr-games-for-oculus-users-of-all-ages-for-2024/"><u>[New] Essential VR Games for Oculus Users of All Ages for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-easy-setup-making-a-direct-path-for-youtube-subscribers-for-2024/"><u>[Updated] Easy Setup Making a Direct Path for YouTube Subscribers for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>[Updated] The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/5-easy-steps-to-a-picture-perfect-instagram-group/"><u>5 Easy Steps to a Picture-Perfect Instagram Group</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ch340g-driver-download-and-update-on-windows-10/"><u>CH340G Driver Download and Update on Windows 10</u></a></li>
-<li><a href="https://games-able.techidaily.com/delay-perks-in-video-game-launches/"><u>Delay Perks in Video Game Launches</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-gamers-165hz-visual-edge/"><u>Elite Gamer's 165Hz Visual Edge</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-performance-hardware-top-tier-playtime/"><u>High-Performance Hardware, Top-Tier Playtime</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-manage-your-nintendo-account-from-your-nintendo-switch/"><u>How to Manage Your Nintendo Account From Your Nintendo Switch</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-cu8610-driver-software-downloads-for-multiple-windows-versions/"><u>HP Officejet Pro Cu8610 Driver Software Downloads for Multiple Windows Versions</u></a></li>
-<li><a href="https://games-able.techidaily.com/minimalist-play-journey-into-idling-games/"><u>Minimalist Play: Journey Into Idling Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/revealing-my-favourite-gaming-spot-apple-arcade-appeals/"><u>Revealing My Favourite Gaming Spot: Apple Arcade Appeals</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-computer-conundrum-should-i-buy-a-mini-or-desktop-pc/"><u>The Computer Conundrum: Should I Buy a Mini or Desktop PC?</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-reasons-my-choice-for-apple-arcade-on-ios-devices/"><u>Top Reasons: My Choice for Apple Arcade on iOS Devices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/tutorial-incorporating-youtube-soundtracks-in-imovie/"><u>Tutorial Incorporating YouTube Soundtracks in iMovie</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/sh-speed-in-your-youtube-videography-with-rapid-techniques-for-2024/"><u>Unleash Speed in Your YouTube Videography with Rapid Techniques for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/upgrading-your-vsphere-environment-insights-into-the-functions-of-update-manager/"><u>Upgrading Your vSphere Environment: Insights Into the Functions of Update Manager</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-enhance-your-hp-scanjet-printing-experience-on-windows-7811-fresh-drivers-here/"><u>[Download] Enhance Your HP Scanjet Printing Experience on Windows 7/8/11 - Fresh Drivers Here</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-essentials-to-record-save-and-refine-videography-on-adobe-connect/"><u>[New] 2024 Approved The Essentials to Record, Save, & Refine Videography on Adobe Connect</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mobile-mastery-best-downloading-apps-for-android-and-ios-users/"><u>[Updated] 2024 Approved Mobile Mastery Best Downloading Apps for Android & iOS Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-learning-made-easy-utilizing-youtube-for-dynamic-classrooms/"><u>[Updated] Learning Made Easy Utilizing YouTube for Dynamic Classrooms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-elevating-twitter-interactions-through-personalized-video-previews/"><u>2024 Approved Elevating Twitter Interactions Through Personalized Video Previews</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-community-grounds-for-game-masters/"><u>Best Community Grounds for Game Masters</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capture-and-save-the-essentials-of-pc-display-recordings-for-2024/"><u>Capture & Save The Essentials of PC Display Recordings for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-controller-utilization-a-ryujinx-emulation-blueprint/"><u>Efficient Controller Utilization: A Ryujinx Emulation Blueprint</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hunters-picks-best-video-recorders-reviewed-for-2024/"><u>Hunters' Picks Best Video Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone XR</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-the-vivid-realm-and-flaws-of-pimax-crystal/"><u>Journey Through the Vivid Realm & Flaws of Pimax Crystal</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastery-in-dual-booting-your-ultimate-deck-challenge/"><u>Mastery in Dual-Booting - Your Ultimate Deck Challenge</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-viewing-ifa-2023-reveals/"><u>The Future of Viewing: IFA 2023 Reveals</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-defender-kit-top-cases-of-24-for-devices/"><u>The Ultimate Defender Kit: Top Cases of '24 for Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-game-magic-with-customizations-on-steam/"><u>Unlocking Game Magic with Customizations on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/weighing-cost-against-nitros-rewards/"><u>Weighing Cost Against Nitro's Rewards</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/silnejshie-cifrovye-marketingovye-eksperty-izmira-povyshaem-vash-seo-s-pomoshyu-powersuite/"><u>Сильнейшие Цифровые Маркетинговые Эксперты Измира - Повышаем Ваш SEO С Помощью PowerSuite</u></a></li>
 </ul></div>
 

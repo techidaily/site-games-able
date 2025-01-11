@@ -1,7 +1,7 @@
 ---
 title: "PC Gaming Keyboard Trials: Best of '24"
-date: 2024-08-22T22:21:54.245Z
-updated: 2024-08-23T22:21:54.245Z
+date: 2025-01-06T06:48:56.740Z
+updated: 2025-01-10T22:15:07.709Z
 tags:
   - games
 categories:
@@ -56,9 +56,17 @@ Best Keypad for FPS
 Best Gaming Keypad for MMOs  
 [$120 at Amazon](https://www.amazon.com/Keychron-Programmable-Hot-swappable-Gateron-Compatible/dp/B0BP72JTBC?tag=makeusw-20&ascsubtag=UUmuoUeUpU2021191&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keypads%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Gaming Keypad Overall: Razer Tartarus Pro Gaming Keypad
 
 ![Razer Tartarus Pro Gaming Keypad on a desk with RGB lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-tartarus-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Razer
 
@@ -89,9 +97,17 @@ Best Overall
 
 [$130 at Amazon](https://www.amazon.com/Razer-Tartarus-Gaming-Keypad-Analog-Optical/dp/B07YQKS4B5?tag=makeusw-20&ascsubtag=UUmuoUeUpU2021191&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keypads%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/Razer-Tartarus-Pro-Keypad-backlit-USB-black/695089364)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Budget Gaming Keypad: Redragon K585 DITI One-Handed RGB Mechanical Gaming Keyboard
 
 ![Redragon K585 gaming keyboard on a mat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/redragon_k585_wireless_gaming_keypad.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Redragon
 
@@ -155,17 +171,10 @@ Best One-Handed Keyboard
 
 [$80 at Amazon](https://www.amazon.com/dp/B0963C7RLY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2021191&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keypads%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Best Gaming Keypad for FPS: HORI Tactical Assault Commander (TAC) Mechanical Keypad
 
 ![HORI Tactical Assault Commander TAC Mechanical Keypad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/hori-tactical-assault-commander-tac-mechanical-keypad.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 HORI
 
  If you find yourself respawning on the battlefield more than you'd like, perhaps it's time to consider a more tactical approach, like choosing the[HORI Tactical Assault Commander (TAC) Mechanical Keypad](https://www.amazon.com/Commander-Mechanical-PlayStation%C2%AE5-PlayStation%C2%AE4-PlayStation-5/dp/B0BJWGSY42?tag=makeusw-20&ascsubtag=UUmuoUeUpU2021191&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keypads%2F&asc%5Fcampaign=Commerce) . Designed for the PS5 and PS4, this handy helper aims to provide PC-style mouse and keyboard-style control for your console games.
@@ -176,9 +185,6 @@ HORI
 
 ![HORI Tactical Assault Commander TAC Mechanical Keypad Tag](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/hori-tactical-assault-commander-tac-mechanical-keypad-tag.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### HORI Tactical Assault Commander (TAC) Mechanical Keypad
 
 Best Keypad for FPS
@@ -202,6 +208,10 @@ Best Keypad for FPS
 
 ![keycrhon q0 keypad on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keycrhon-q0-keypad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Keychron
 
  For MMO gamers, the[Keychron Q0 Plus Wired Full Aluminum Custom Number Pad](https://www.amazon.com/Keychron-Programmable-Hot-swappable-Gateron-Compatible/dp/B0BP72JTBC?tag=makeusw-20&ascsubtag=UUmuoUeUpU2021191&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keypads%2F&asc%5Fcampaign=Commerce) is an ideal piece of kit for setting up those vital hotkey commands to enjoy a labor-saving, fluid gameplay experience.
@@ -212,9 +222,6 @@ Keychron
 
 ![Keychron Q0 Plus Wired Keypad Tag](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keychron-q0-plus-wired-keypad-tag.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ##### Keychron Q0 Plus Wired Full Aluminum Custom Number Pad
 
 Best Gaming Keypad for MMOs
@@ -237,12 +244,13 @@ Best Gaming Keypad for MMOs
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Q: What is a gaming keypad?
 
  A gaming keypad is a small auxiliary keyboard designed for a more fluid gameplay experience. Typically, they include remappable key and macro functions and enable storage for several custom player profiles so that you can tailor your gameplay to suit different titles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: Is a gaming keypad better than a keyboard and mouse?
 
@@ -251,8 +259,9 @@ Best Gaming Keypad for MMOs
  However, a gaming keypad can save some valuable real estate on your desk and give you additional options to customize your player profiles for different games. Plus, their construction tends to be a little more robust than with a full-size keyboard, which can make them more suitable for the rough and tumble of squad-based shooters or PvP matches.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: Is a gaming keypad better than a controller?
 
  This is always going to boil down to personal preference and what type of games you like to play. But undoubtedly, gaming keypads offer more in terms of precision and customization than a controller will. This puts them at a distinct advantage when it comes to more complex titles, such as MMOs, when multiple button functions and commands are necessary.
@@ -263,21 +272,15 @@ Best Gaming Keypad for MMOs
 
  The majority of pro gamers favor traditional keyboard and mouse gameplay, as this enables the quickest reaction times for intense and fast-paced competitive gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: Are gaming keypads helpful for MMOs?
 
  Gaming keypads make a great choice for MMOs and FPSs, as they provide a means to perform multiple actions at once. They usually feature a suite of customization options, from programmable macros to custom player profiles, so that you can tailor your experience to different titles. For MMOs, in particular, a gaming keypad can be a real advantage, thanks to their smaller profile (compared to a full-sized keyboard) and the depth of control and customization that they offer.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -286,4 +289,19 @@ Best Gaming Keypad for MMOs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-crafting-engaging-podcast-names-tips-and-techniques-for-2024/"><u>[Updated] Crafting Engaging Podcast Names Tips and Techniques for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-cyberspace-chronicles-journeying-through-10-sci-fi-metaverse-epics/"><u>[Updated] Cyberspace Chronicles Journeying Through 10 Sci-Fi Metaverse Epics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-the-link-between-youtube-and-tiktok-platforms/"><u>[Updated] Navigating the Link Between YouTube & TikTok Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-shot-upgrade-no-money-needed/"><u>2024 Approved Ultimate Shot Upgrade - No Money Needed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-the-darkness-fixing-the-star-wars-battlefront-ii-black-screen-malfunction-once-and-for-all/"><u>Banish the Darkness: Fixing the Star Wars Battlefront II Black Screen Malfunction Once & For All</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-samsung-galaxy-f15-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy F15 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/meta-quest-3-review-introducing-the-magic-of-mixed-reality/"><u>Meta Quest 3 Review: Introducing the Magic of Mixed Reality</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-resuscitate-frozen-steam-applications-using-simple-solutions/"><u>Swiftly Resuscitate Frozen Steam Applications Using Simple Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-to-rectify-missing-dependencies-on-windows-1111-pro/"><u>Tips to Rectify Missing Dependencies on Windows 11/11 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gamers-insights-on-the-best-addictive-elements/"><u>Top Gamers' Insights on the Best Addictive Elements</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/understanding-risks-key-disadvantages-when-diving-into-crypto-investment-insights-by-yl-computing/"><u>Understanding Risks: Key Disadvantages When Diving Into Crypto Investment - Insights by YL Computing</u></a></li>
+</ul></div>
 

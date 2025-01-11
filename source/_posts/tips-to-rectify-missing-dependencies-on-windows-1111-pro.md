@@ -1,7 +1,7 @@
 ---
 title: Tips to Rectify Missing Dependencies on Windows 11/11 Pro
-date: 2024-12-31T16:00:11.268Z
-updated: 2025-01-04T16:01:08.932Z
+date: 2025-01-09T19:30:08.416Z
+updated: 2025-01-11T08:13:56.001Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check for and Install Any Pending Windows Updates
 
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
@@ -47,14 +43,10 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/modify-option.jpg)
 4. Select the**Repair** option in the Visual C++ window that opens.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
@@ -68,8 +60,20 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![The x64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-x64-link.jpg)
 3. Click**I agree** \>**Install** in the Microsoft Visual C++ 2015-2022 window.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
 
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out[how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
@@ -148,16 +148,17 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-quick-start-guide-dells-simple-screen-recording-methods/"><u>[New] Quick Start Guide Dell's Simple Screen Recording Methods</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-harnessing-youtube-statistics-to-increase-subscribers/"><u>[Updated] Harnessing YouTube Statistics to Increase Subscribers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-next-gen-streaming-enable-av1-codec-on-youtube/"><u>[Updated] In 2024, Next-Gen Streaming Enable AV1 Codec on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-5-audio-capture-methods-in-windows-11-operating-system/"><u>[Updated] Top 5 Audio Capture Methods in Windows 11 Operating System</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-console-quality-gameplay-on-the-go-meet-razers-kishi-ultra-a-premier-controller-for-phones/"><u>Experience Console Quality Gameplay on the Go - Meet Razer's Kishi Ultra, a Premier Controller for Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-4-typical-gpu-malfunctions-with-ease/"><u>Navigating Through 4 Typical GPU Malfunctions with Ease</u></a></li>
-<li><a href="https://games-able.techidaily.com/precursors-in-selecting-an-ideal-portable-gaming-system/"><u>Precursors in Selecting an Ideal Portable Gaming System</u></a></li>
-<li><a href="https://video-capture.techidaily.com/premier-short-frame-gatherer-top-lapses-for-2024/"><u>Premier Short Frame Gatherer - Top Lapses for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/secrets-of-xbox-discounts-on-series-sandx/"><u>Secrets of Xbox Discounts on Series S&X</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-to-fix-the-persistent-pc-reset-error-message/"><u>Troubleshooting Techniques to Fix the Persistent 'PC Reset' Error Message</u></a></li>
-<li><a href="https://games-able.techidaily.com/valve-redefines-family-gaming-with-new-sharing-update/"><u>Valve Redefines Family Gaming with New Sharing Update</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-audio-upheavals-top-rhythmic-disruptors-for-devices-for-2024/"><u>[Updated] Audio Upheavals Top Rhythmic Disruptors for Devices for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-enlightenment-streams-foremost-ed-resources-online/"><u>2024 Approved Enlightenment Streams Foremost Ed Resources Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-film-makers-guide-to-selecting-between-hero-and-cube-videos/"><u>2024 Approved Film Maker's Guide to Selecting Between Hero and Cube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-non-alcoholic-pathways-for-endocannabinoid-delivery-to-the-brain/"><u>Exploring Non-Alcoholic Pathways for Endocannabinoid Delivery to the Brain</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-action-camera-showdown-sj-cam-s6-takes-the-spotlight/"><u>In 2024, Action Camera Showdown SJ-CAM S6 Takes the Spotlight</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-12-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 12 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrate-xbox-game-pass-into-steam-link-using-glossi/"><u>Integrate Xbox Game Pass Into Steam Link Using GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-launcher-problem-code-0x803f8001-on-windows/"><u>Navigating Launcher Problem Code 0X803F8001 on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/reminiscing-the-past-playing-xbox-games-in-modern-times-pc/"><u>Reminiscing the Past: Playing Xbox Games in Modern Times (PC)</u></a></li>
+<li><a href="https://win11.techidaily.com/screen-capturing-simplified-snip-tool-vs-prtsc/"><u>Screen Capturing Simplified: Snip Tool Vs. PrtSc</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-budget-friendly-240hz-monitors-for-gaming/"><u>The Best Budget-Friendly 240Hz Monitors for Gaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/visualizationvirtue-the-art-of-resizing-photos-and-videos-in-instagram-for-2024/"><u>VisualizationVirtue The Art of Resizing Photos and Videos in Instagram for 2024</u></a></li>
 </ul></div>
 

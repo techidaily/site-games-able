@@ -1,7 +1,7 @@
 ---
 title: Spreading Happiness Through Steam's Digital Treasures
-date: 2024-08-22T22:21:18.773Z
-updated: 2024-08-23T22:21:18.773Z
+date: 2025-01-07T16:05:36.142Z
+updated: 2025-01-10T21:47:23.646Z
 tags:
   - games
 categories:
@@ -32,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
  All of these steps are for the Steam client app, not the web version. The steps are similar for both platforms but might vary slightly.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Purchase a Steam Game as a Gift at Checkout
 
  This is the most popular method, and it requires you to[fund your Steam wallet](https://www.makeuseof.com/how-to-fund-steam-wallet-buy-games/) or to use one of the accepted payment methods on Steam. You also need to already have the person as a friend on Steam.
@@ -57,9 +58,6 @@ Once you have all of that ready, follow the steps below:
 
  On the same Inventory page, there’s a menu in the top right, next to the large**Trade Offers** button under an ellipsis (**...**). Click it and select**View Gift History** to see all the gifts you’ve ever sent out.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Gift Duplicate Games on Steam
 
  In this instance, a “duplicate game” is one that you already have in your library but that you also have an extra license for.
@@ -72,15 +70,13 @@ Follow these instructions to gift a duplicate game on Steam:
 2. Choose one of the duplicate games from the resulting grid and click**Send Gift** on the right.  
 ![Duplicate games in Steam Inventory grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/duplicate-games-in-steam-inventory-grid.jpg)
 3. The next screen is for choosing how to send the gift. Select**Email my gift** option if the recipient isn’t a friend on Steam or select**Send my gift directly through Steam** to search through your friend list.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Delivery method for duplicate games on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/delivery-method-for-duplicate-games-on-steam.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From then on, it’s almost the same as the regular steps. Except, of course, there’s no payment involved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Send Steam Keys Bought on Other Websites
 
@@ -95,12 +91,21 @@ We’ll show you how to do this on Humble Bundle:
 1. Visit[humblebundle.com](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031630/https://www.humblebundle.com/) and search for the game you want. Alternatively, you can select a pay-what-you-want game bundle by clicking**Bundles** or**Store** \>**On Sale** to find deals.  
 ![Humble Bundle displaying games on sale](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/humble-bundle-displaying-games-on-sale.png)
 2. Select a game and add it to your cart. When you’re done shopping, click the cart icon in the top-right corner of the website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. When the checkout window appears, you can select if the purchase is a gift. Tick the box and enter the recipient’s email in the relevant field.
 4. Make your payments and checkout.
 
  These instructions are more or less the same across all websites that offer a similar service to Humble Bundle.
 
  Alternatively, you could just copy the Steam activation key and send it to someone you would like to gift it to. They’ll then have to follow the instructions outlined in our guide on[how to redeem a game key on Steam](https://www.makeuseof.com/how-to-redeem-game-key-on-steam/) before they can play the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Send a Steam Gift Card
 
@@ -112,14 +117,12 @@ We’ll show you how to do this on Humble Bundle:
 2. Choose**Redeem a Steam Gift Card or Wallet Code** on the left side of the window.  
 ![Adding funds to wallet page on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-15-47-am.png)
 3. Scroll down and click**Purchase Digital Gift Cards** on the next page.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Choose which gift card you’d like to send and choose a friend you want to send it to.  
 ![List of Steam gift cards on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-21-08-am.png)
 5. Follow the on-screen steps to finish the payment.
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This method only works for friends you’ve had on your friends list for at least three days. The recipient must have a Steam account; you can’t send Steam gift cards via email or through any other methods.
@@ -128,14 +131,11 @@ We’ll show you how to do this on Humble Bundle:
 
  That sums up all the ways to gift games to friends on Steam. Be careful not to fall for scams and only send gifts to people that you actually know.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +144,19 @@ We’ll show you how to do this on Humble Bundle:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-climbing-the-social-ladder-6-precise-methods-for-gaining-instagram-verification/"><u>[New] Climbing the Social Ladder 6 Precise Methods for Gaining Instagram Verification</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unleash-creativity-essential-tips-for-lut-production/"><u>[Updated] In 2024, Unleash Creativity Essential Tips for LUT Production</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-game-on-with-premium-screens-for-your-xbox-series-x-console/"><u>2024 Approved Game on with Premium Screens for Your Xbox Series X Console</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-get-a-month-of-free-discord-nitro-with-opera-gx/"><u>How to Get a Month of Free Discord Nitro With Opera GX</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-pick-a-winner-top-5-features-in-next-gen-game-mice/"><u>How to Pick a Winner: Top 5 Features in Next-Gen Game Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-match-up-leading-audio-trivia-apps/"><u>Melody Match-Up: Leading Audio Trivia Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-latest-update-reimagines-game-sharing-for-families/"><u>Steam's Latest Update Reimagines Game Sharing for Families</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-for-efficient-ipad-screen-recordings-for-2024/"><u>Step-by-Step for Efficient iPad Screen Recordings for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-iphone-burst-mode-shooting/"><u>The Ultimate Guide to iPhone Burst Mode Shooting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-wisdom/"><u>Unveiling the Latest Gadgets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://fox-http.techidaily.com/virtual-world-bliss-an-lg-360-vr-reveal/"><u>Virtual World Bliss An LG 360 VR Reveal</u></a></li>
+</ul></div>
 

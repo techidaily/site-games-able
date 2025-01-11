@@ -1,7 +1,7 @@
 ---
 title: Maximizing FPS with Efficient 3D Designs
-date: 2024-08-22T22:22:01.053Z
-updated: 2024-08-23T22:22:01.053Z
+date: 2025-01-08T05:16:22.629Z
+updated: 2025-01-10T23:18:57.634Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  While a good deal of the work you can do to optimize 3D models for game development is done in your 3D design software, the game engine also gives you opportunities to make your game faster. These methods are easy to put to work, providing a good place to start if you have already begun development on your game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reuse 3D Model Assets
 
  Every 3D model your game loads has a resource cost. This cost isn’t incurred when using a model for a second, third, or fourth time, providing an excellent opportunity to optimize your game without skimping on scenery or objects.
@@ -36,16 +40,14 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find[free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use Static Lighting
 
  Lighting is by far one of the most resource-hungry operations found in modern 3D games. Calculating reflections on the fly is very costly, but you can bake the lighting in your scene to solve this problem. This prepares the lighting in the scene in advance so that the player doesn’t have to wait for it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Use Occlusion Culling
 
  Engines like Unity and Unreal Engine feature an optimization tool called occlusion culling. This reduces resource usage by only rendering the 3D objects that the player can see in the scene. Outside of the player’s field of view, objects will not appear until they are looked at. This is an easy way to save resource usage in large scenes.
@@ -57,17 +59,15 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
  The engine can automatically remove polygons from an object’s mesh when the player is far away, lowering resource costs without impacting immersion.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3D Model Game Optimization: Design Workflow
 
 ![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
 
  Designing 3D models that are optimized for video game development is easier than you might expect. This process mostly involves stripping your model down to ensure that it only has the vertices, lines, and faces that it needs. There are several ways to achieve this.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Manual Geometry Optimization
 
 ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
@@ -83,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 * **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and[other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Automated Geometry Optimization
 
  Manual optimization works for simple 3D models, but you may need to use some automated tools to help with this process. You can use these methods in conjunction with one another to make your 3D models perfect for video game development.
@@ -94,20 +95,18 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 * **Additional Software** : Alongside add-ons, you can also find third-party software that can optimize your 3D models for video game development.[Simplygon](https://www.simplygon.com/) is a popular example of this, with a host of tools available that will make your optimization journey easier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Optimization Do 3D Models Need for Game Development?
 
  As you can see, optimizing your 3D objects is a time-consuming process. The results will be worth it, though, and it should be easy to tell how well you’ve done the job once you compile and run your game. You can always go back and make further optimizations if you need to. Now, you just need to learn where to find some beautiful textures for your objects.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +115,17 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/que-sucede-cuando-transfiere-tu-pelicula-en-formato-dvd-directamente-a-tu-disco-duro-los-riesgos-y-por-que-no-hacerlo/"><u>¿Qué Sucede Cuando Transfiere Tu Película en Formato DVD Directamente a Tu Disco Duro? Los Riesgos Y Por Qué No Hacerlo</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-photoshops-favorites-the-best-monitors-reviewed/"><u>[New] 2024 Approved Photoshop's Favorites The Best Monitors Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-streamlining-your-spotify-to-youtube-music-library-transition/"><u>In 2024, Streamlining Your Spotify to YouTube Music Library Transition</u></a></li>
+<li><a href="https://games-able.techidaily.com/remediation-of-roblox-code-262-disruption/"><u>Remediation of Roblox: Code 262 Disruption</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-pc-gaming-with-yuzu-on-windows/"><u>Skyrocket PC Gaming with Yuzu on Windows</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-discoresponders-handbook-react-and-converse/"><u>The DiscoResponder's Handbook React and Converse</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-top-11-free-word-game-apps/"><u>The Ultimate Guide to Top 11 Free Word Game Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-smoothly-into-bg3-gaming-via-apples-crossover-software/"><u>Transition Smoothly Into BG3 Gaming via Apple's Crossover Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-returns-reversing-video-game-purchases-xsx/"><u>Understanding Returns: Reversing Video Game Purchases, XS/X</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Poco F5 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

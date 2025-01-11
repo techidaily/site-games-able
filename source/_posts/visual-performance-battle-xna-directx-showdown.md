@@ -1,7 +1,7 @@
 ---
 title: "Visual Performance Battle: XNA DirectX Showdown"
-date: 2024-12-21T20:56:51.696Z
-updated: 2024-12-26T01:42:38.425Z
+date: 2025-01-07T01:32:43.746Z
+updated: 2025-01-11T05:43:30.476Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Microsoft's DirectX?
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
  An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 
  This significantly reduces the CPU overhead found in DirectX 11 and improves performance. So, what does this difference look like? Well, according to Microsoft, DirectX 12 reduces CPU overhead by up to 50 percent and improves GPU performance by as much as 20 percent. While those are some substantial improvements, this doesn't mean you will see the same results.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Switching From DirectX 11 to DirectX 12 Isn't Straightforward
 
  DirectX 11 was first released for Windows Vista on October 27, 2009\. So, with DirectX 12 following in 2015, there's a six-year gap between DirectX 11 and DirectX 12\. During this time, thousands of games have been developed using DirectX 11\. Unfortunately, moving from DirectX 11 to DirectX 12 is anything but easy.
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
  That being said, a game developed in DirectX 12 could end up with worse performance depending on the developer's knowledge of the API. Some improvements come with DirectX 12, but it really comes down to how well a developer can implement it. For this reason, many developers choose to stick to high-level APIs like DirectX 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DX 11 vs. DX 12: Which Should You Choose?
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
  The answer depends on a few things, like what game you are trying to run. For example, Guild Wars 2 runs on DirectX 11\. Even if your OS and hardware can use DirectX 12, you will not have the option to select DirectX 11 in Guild Wars 2 because the game does not support it. This is entirely the decision of the developer, ArenaNet.
 
 ![In-game image from Guild Wars 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
  In addition to in-game support, choosing between DirectX 11 and DirectX 12 will also depend on your hardware. Just about any modern GPU will support DirectX 12, but the same can't be said for older GPUs like the Radeon HD 4870\. Released in 2008, this GPU only supports up to DirectX 10\. This means it would be incapable of running most modern games, which run using DirectX 11 and DirectX 12.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is DirectX 12 the Right Choice for You?
@@ -116,18 +116,17 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options/"><u>[New] 2024 Approved Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-fix-youtube-buffering-on-mobile-fb-content-for-2024/"><u>[New] Fix YouTube Buffering on Mobile FB Content for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-banish-silent-tweets-add-volume-to-videos-for-2024/"><u>[Updated] Banish Silent Tweets Add Volume to Videos for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-comic-crafting-mastering-7-cheeky-content-strategies-for-2024/"><u>[Updated] Comic Crafting Mastering 7 Cheeky Content Strategies for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-discover-your-perfect-match-the-best-6-gopro-helmet-harnesses-for-2024/"><u>[Updated] Discover Your Perfect Match The Best 6 GoPro Helmet Harnesses for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-iphone-hdr-photography-for-enthusiasts/"><u>2024 Approved IPhone HDR Photography for Enthusiasts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-logitech-m525-device-drivers-and-compatible-applications/"><u>How to Get the Latest Logitech M525 Device Drivers and Compatible Applications</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-send-steam-games-as-gifts/"><u>How to Send Steam Games as Gifts</u></a></li>
-<li><a href="https://games-able.techidaily.com/insight-into-gpu-leaning-what-it-really-means/"><u>Insight Into GPU Leaning: What It Really Means</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidia-reveals-a-groundbreaking-gaming-app-feature/"><u>Nvidia Reveals a Groundbreaking Gaming App Feature</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-medias-impact-study-in-us-detrimental-over-beneficial/"><u>Social Media's Impact Study in US: Detrimental Over Beneficial</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-checklist-for-finding-your-perfect-handheld-game-companion/"><u>The Ultimate Checklist for Finding Your Perfect Handheld Game Companion</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-i-embrace-the-world-of-games-with-apple-arcade/"><u>Why I Embrace the World of Games with Apple Arcade</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-starting-point-connecting-seamlessly-via-instagram/"><u>2024 Approved Starting Point Connecting Seamlessly via Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/disconnect-from-realms-reclaim-your-virtual-territories/"><u>Disconnect From Realms; Reclaim Your Virtual Territories</u></a></li>
+<li><a href="https://games-able.techidaily.com/diverging-from-the-norm-why-developers-can-overlook-ray-tracing/"><u>Diverging From the Norm: Why Developers Can Overlook Ray Tracing</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-counter-dark-screens-while-playing-windows-titles/"><u>Guidelines to Counter Dark Screens While Playing Windows Titles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-s24-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy S24 to Protect Your Individual Information</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-x50i-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor X50i Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-advanced-recording-software-outshining-fbx-methods/"><u>In 2024, Advanced Recording Software Outshining FBX Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-controller-maintenence-on-ps4-for-seamless-gaming/"><u>Master Controller Maintenence on PS4 for Seamless Gaming</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nokia-c300-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nokia C300 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-the-right-input-devices-for-gamers/"><u>Selecting the Right Input Devices for Gamers</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-by-step-tweaking-your-kiddos-messenger-settings/"><u>Step-by-Step: Tweaking Your Kiddo's Messenger Settings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-elite-list-of-win11s-screen-recording-apps-for-2024/"><u>The Elite List of Win11's Screen Recording Apps for 2024</u></a></li>
 </ul></div>
 

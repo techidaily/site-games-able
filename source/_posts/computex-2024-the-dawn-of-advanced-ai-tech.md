@@ -1,7 +1,7 @@
 ---
 title: "Computex 2024: The Dawn of Advanced AI Tech"
-date: 2025-01-03T16:01:25.110Z
-updated: 2025-01-04T16:03:15.805Z
+date: 2025-01-04T16:10:09.748Z
+updated: 2025-01-10T20:40:20.315Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 * [Intel Lunar Lake](#intel-lunar-lake)
 * [Nvidia GeForce RTX AI Laptops](#nvidia-geforce-rtx-ai-laptops)
 * [AMD Ryzen AI 300](#amd-ryzen-ai-300)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,15 +43,15 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 
 So, these are the best bits of AI hardware launched at Computex 2024.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Intel Lunar Lake
 
  Laptop chips have been hot business in 2024\. Intel's last generation laptop chips, Meteor Lake, launched in December 2023, featuring a chiplet design and Intel's first NPU, carrying the company into 2024 with aplomb. Then it was Qualcomm's turn to step up to the plate; it very much seized the opportunity with its Snapdragon X Elite chips, coinciding with Microsoft's Copilot+ AI PC platform launch.
 
 ![intel lunar lake overall spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-overall-spec-sheet.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Intel
 
@@ -57,13 +61,13 @@ Intel
 
 ![intel lunar lake npu spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-npu-spec-sheet.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Intel
 
  Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nvidia GeForce RTX AI Laptops
 
@@ -76,7 +80,7 @@ Intel
  Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AMD Ryzen AI 300
@@ -84,10 +88,6 @@ Intel
  Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
 
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 AMD
 
@@ -110,24 +110,20 @@ AMD
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-decrease-environmental-noise-in-video-recordings/"><u>[New] 2024 Approved Decrease Environmental Noise in Video Recordings</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-dont-miss-out-this-weeks-tiktok-trials/"><u>[New] 2024 Approved Don't Miss Out This Week’s TikTok Trials</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-video-description-engineer/"><u>[New] In 2024, Video Description Engineer</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-embedding-youtube-content-in-slideshows/"><u>[Updated] Step-by-Step Embedding YouTube Content in Slideshows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-10-premium-text-tricks-for-videos/"><u>2024 Approved 10 Premium Text Tricks for Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-vs-ios-a-comparative-analysis-of-essential-upgrades-needed-to-elevate-android-competitiveness-in-the-mobile-arena/"><u>Android Vs. IOS: A Comparative Analysis of Essential Upgrades Needed to Elevate Android Competitiveness in the Mobile Arena</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-free-frame-by-frame-video-editor-for-windows-11-and-macos/"><u>Best Free Frame-by-Frame Video Editor for Windows 11 and macOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-9-outstanding-simulators-for-steam-decks/"><u>Discovering 9 Outstanding Simulators for Steam Decks</u></a></li>
-<li><a href="https://games-able.techidaily.com/flash-back-to-dreamcast-gameplay-on-the-go-android-style/"><u>Flash Back to Dreamcast: Gameplay on the Go, Android Style</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-experience-dragon-ball-chronologically-a-fans-blueprint/"><u>How To Experience Dragon Ball Chronologically – A Fan's Blueprint</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifas-game-changers-what-new-tech-to-watch-for/"><u>IFA's Game Changers: What New Tech to Watch For?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-no-expenses-the-ultimate-guide-to-16-top-tier-youtube-rippers-for-audios/"><u>In 2024, No Expenses The Ultimate Guide to 16 Top-Tier YouTube Rippers for Audios</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-your-availability-cloaked-steam-guide/"><u>Keep Your Availability Cloaked: Steam Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/making-friends-online-xbox-sx-edition/"><u>Making Friends Online: Xbox S/X Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-xboxs-regulations-on-third-party-controllers/"><u>Navigating Through Xbox’s Regulations on Third-Party Controllers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-new-era-advancements-in-vr-technology-for-2024/"><u>The New Era Advancements in VR Technology for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-full-potential-advanced-tips-for-optimized-steam-deck-use/"><u>Unlocking Full Potential: Advanced Tips for Optimized Steam Deck Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/winning-every-round-frame-rate-boosting-techniques/"><u>Winning Every Round: Frame Rate Boosting Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/workaround-for-unreachable-steam-network-servers/"><u>Workaround for Unreachable Steam Network Servers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-voice-maestros-toolkit-free-applications-to-enrich-your-auditory-palette/"><u>[New] 2024 Approved The Voice Maestro's Toolkit Free Applications to Enrich Your Auditory Palette</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-pushing-boundaries-the-9-most-advanced-mobile-filmmaking-accessories/"><u>[New] In 2024, Pushing Boundaries The 9 Most Advanced Mobile Filmmaking Accessories</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-converting-spotify-playlist-content-for-youtube-music-compatibility/"><u>[Updated] 2024 Approved Converting Spotify Playlist Content for YouTube Music Compatibility</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exclusive-game-recordings-tools/"><u>[Updated] 2024 Approved Exclusive Game Recordings Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-tips-to-boost-your-framerate-in-counter-strike-global-offensive-for-windows/"><u>8 Tips to Boost Your Framerate in Counter-Strike: Global Offensive for Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/avi-m2ts-online/"><u>AVI 크레이트를 M2TS로 자유성 대상에서 원활한 바이네틱스 전환 - Online웍스</u></a></li>
+<li><a href="https://games-able.techidaily.com/cheap-and-fast-optimal-240hz-gaming-setups/"><u>Cheap and Fast: Optimal 240Hz Gaming Setups</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaining-starfield-previews-a-step-by-step-guide/"><u>Gaining Starfield Previews: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210862352-9782019469474-les-4-piliers-de-labondance/"><u>Les 4 piliers de l'abondance | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-error-code-0x8000fffd-on-pcs/"><u>Mastering Fixes for Error Code 0X8000FFFD on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/pimax-crystal-unveiling-the-peak-of-virtual-immersion-and-problematic-aspects/"><u>Pimax Crystal: Unveiling the Peak of Virtual Immersion & Problematic Aspects</u></a></li>
+<li><a href="https://games-able.techidaily.com/present-day-gaming-past-era-designs/"><u>Present-Day Gaming, Past-Era Designs</u></a></li>
+<li><a href="https://games-able.techidaily.com/rapid-response-elevating-counter-strike-fps-quickly/"><u>Rapid Response: Elevating Counter-Strike FPS Quickly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-usb-30-driver-setup-for-windows-users/"><u>Step-by-Step USB 3.0 Driver Setup for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-rare-collectors-roadmap-scvs-elusive-treasures-76/"><u>The Rare Collector's Roadmap: SCV’s Elusive Treasures (76)</u></a></li>
 </ul></div>
 

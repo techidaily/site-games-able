@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Slow FPS: A Guide for PC Gamers"
-date: 2024-08-22T22:24:58.009Z
-updated: 2024-08-23T22:24:58.009Z
+date: 2025-01-08T00:48:45.475Z
+updated: 2025-01-11T03:26:15.643Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
  Whether your latest purchase isn't running smoothly on your PC, or you suddenly find games struggling to perform in general, we're here to help. Here's how to fix low FPS issues in Windows and get back to high-quality gaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First: Know the Difference Between Low FPS and Network Lag
 
  Before you spend time fixing the low frames per second on your PC, it's important to understand the difference between low FPS and online lag. People sometimes confuse these.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
  If you're experiencing online lag, make sure your computer is wired into your router with an Ethernet cable if possible. You should also close bandwidth-hungry apps running on your network, then take other[steps to reduce lag in online games](https://www.makeuseof.com/tag/how-to-reduce-lag-in-online-gaming/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Low Frame Rate: The Basics
 
  Let's begin by looking at a few fundamental fixes you should perform to boost game frame rates. In many cases, when you wonder why your game FPS is so low, these tweaks will make a big improvement.
@@ -37,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 ![screenshot of amd radeon program updating drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_radeon_program_updating_drivers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Drivers are special pieces of software that handle the interface between your computer and connected hardware. Average PC users don't usually need to worry about updating them, but it's a different story for gamers. Running out-of-date drivers, especially your video drivers, can hamper gaming performance.
 
  Follow our[guide to finding and replacing outdated drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) to make sure everything on your system is current. While the chipset driver is an important one,[keeping your graphics driver updated](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) is vital for reliable FPS in games.
@@ -47,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
  Instead of downloading drivers manually, Nvidia and AMD both offer software utilities that make downloading the latest drivers easy. You can download these on the driver pages above, which we recommend doing. In addition to letting you know when a new update is available, they give you access to more tweaks and features.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Close Unnecessary Background Programs
 
 ![windows 10 task manager process list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-10-task-manager-process-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you're playing a game, especially demanding modern titles, it's a good idea to close other processes that you don't need. This frees up resources that your computer can further dedicate to the game.
 
  You can do this quickly by closing anything that's open on your taskbar. It's worth checking the system tray on the right side of the taskbar for any unneeded background apps, too.
@@ -65,32 +68,28 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
  Having your browser open with 50 tabs, letting cloud storage apps sync, or running file transfers while trying to play games can result in lower FPS—even on a good computer. If your frame rate is low all of a sudden, check for programs that just started using a lot of resources.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Defragment Your HDD
 
 ![Disk defragmentation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/disk-defragmentation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Most gamers have hopefully upgraded to a solid-state drive (SSD) by now. But in case you're still using an HDD, you should make sure the disk is defragmented. If you use an SSD, you should not defragment, as doing so can shorten the life of your drive.
 
  To do this, type**defrag** into the Start menu and click the**Defragment and Optimize Drives** entry. If it's been a while since the drive was last defragged, you should do so.
 
  Modern versions of Windows do this automatically, so you shouldn't need to defrag manually. You can adjust the schedule if you like, though. And if you are using an HDD, prioritize[getting an SSD](https://www.makeuseof.com/tag/5-things-consider-buying-ssd/) as soon as possible for a major boost in gaming performance.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Low Game FPS With Windows Tweaks
 
  Now that you've performed the basic steps to fix low FPS on your machine, let's take a look at some[Windows settings you can adjust to enhance gaming performance](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Adjust Power Options
 
  The power options in Windows let you change settings related to energy consumption with your machine. On the default plan, Windows tries to balance power consumption with performance. Sometimes, especially on laptops, this can lead to decreased performance in games.
@@ -103,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
  Note that this will increase the power consumption of your computer. On a desktop, this isn't really a problem, aside from a slightly higher energy bill. But laptops will see worse battery life, so make sure your system is plugged in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Turn Off Visual Effects in Windows
 
  By default, Windows uses a lot of fancy visual effects around the OS. These make menus and other common elements look smoother, but also use up some resources.
@@ -113,15 +116,8 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![System performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/system-properties-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Click the**Adjust for best performance** button to disable all these effects, followed by**OK** . It will take a moment as Windows disables them. When it's done, the interface won't look as slick, but you won't notice that when you're playing a game anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### 6\. Disable the Game Bar and Background Recording
 
  Windows 10 and 11 include a Game Bar feature that allows you to record game clips, take screenshots, and even stream your gameplay. While this is handy in certain situations, it can also negatively impact game performance.
@@ -133,8 +129,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Windows 10 Captures Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Captures-Settings-Panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Enable Game Mode in Windows
 
  Also in the**Gaming** section of Settings, switch to the**Game Mode** tab. Here, confirm that you have the slider turned on.
@@ -165,6 +162,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  This is because apps and games running in this mode have full control over the screen output. While borderless windowed might be more convenient, the game doesn't enjoy that display exclusivity in this mode, and may thus dip to a lower frame rate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10\. Repair or Reinstall the Game
 
  If you only experience FPS issues with one game, it might have some corrupted files causing the problem.
@@ -175,12 +176,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Else, try uninstalling and reinstalling the game to see if that improves performance.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Hardware Fixes for Low Game FPS
 
  If you tried all the above and your games are still running at low FPS, your hardware is likely a bottleneck. In this case, you can look at making changes to your graphics card and other hardware for better frame rates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 11\. Consider Overclocking Your Components
 
@@ -202,23 +204,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Find out[which computer upgrades improve performance the most](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) to see what you should replace first.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## How to Fix Low FPS Issues Easily
 
  We've looked at a number of tips to fix low FPS on your PC. Hopefully, some combination of these helps boost your frame rate back to an acceptable level.
 
  In the end, FPS issues come down to system resources. This is the case whether your computer is wasting resources on other processes or unnecessary features, or doesn't have enough power in the first place.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -227,4 +223,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-direct-streamline-the-most-efficient-flv-to-youtube-tools-ranked/"><u>[New] 2024 Approved Direct Streamline The Most Efficient Flv-to-YouTube Tools Ranked</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-a-list-viewing-channel-guide-for-films/"><u>[New] Ultimate A-List Viewing Channel Guide for Films</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-phantom-3-encounter-veil-4s-entry/"><u>[Updated] In 2024, Phantom 3 Encounter Veil 4'S Entry</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simple-screen-recorder-for-windows-11-download/"><u>[Updated] Simple Screen Recorder for Windows 11 Download</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-pros-guide-from-playback-to-perfected-overwatch-recordings-for-2024/"><u>[Updated] The Pro's Guide From Playback to Perfected Overwatch Recordings for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-up-your-game-advanced-video-trimming-techniques-in-windows-11/"><u>2024 Approved Step Up Your Game Advanced Video Trimming Techniques in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-unwanted-youtube-channels-pc-and-mobile-edition/"><u>Blocking Unwanted Youtube Channels PC & Mobile Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-savings-roundup-the-finest-discount-game-buying-hubs/"><u>Exclusive Savings Roundup: The Finest Discount Game Buying Hubs</u></a></li>
+<li><a href="https://games-able.techidaily.com/guidelines-for-a-kid-friendly-playstation-5-setup/"><u>Guidelines for a Kid-Friendly Playstation 5 Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimize-xbox-game-bars-intrusion-in-win-11/"><u>Minimize Xbox Game Bar's Intrusion in Win 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnect-winxbox-controllers-that-wont-work/"><u>Reconnect: WinXbox Controllers That Won't Work</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/thermopro-tp67-check-balancing-cost-and-reliability-for-diyers/"><u>ThermoPro TP67 Check - Balancing Cost and Reliability for DIYers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-se-2020-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone SE (2020)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Thriving in Gameplay: Understanding Mac's Fortnite Limits"
-date: 2024-08-22T22:26:26.735Z
-updated: 2024-08-23T22:26:26.735Z
+date: 2025-01-09T20:30:13.765Z
+updated: 2025-01-10T23:30:03.692Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 ---
 
 ## Thriving in Gameplay: Understanding Mac's Fortnite Limits
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 
  While you can use the Epic Games Launcher to play Fortnite on your Mac natively, it has its fair share of downsides. We'll discuss all about it and teach you how to play the latest version of Fortnite on your Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## How to Get Fortnite on Your Mac
 
  The only way to install Fortnite on your Mac is via the Epic Games Launcher for macOS. However, you should first check[Epic Games' website](https://www.epicgames.com/help/en-US/fortnite-c5719335176219/technical-support-c5719372265755/what-are-the-system-requirements-for-fortnite-on-pc-and-mac-a5720377103003) to see if your Mac meets the minimum requirements.
@@ -47,12 +48,9 @@ Follow these steps to get Fortnite on your Mac:
 ![Fortnite's Epic Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fortnite-s-epic-store-page.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
+
 ## Why Installing Fortnite on Your Mac Is a Bad Idea
 
  While Fortnite will likely boot and run smoothly on most recent Macs,[the Epic Games vs. Apple lawsuit](https://www.makeuseof.com/epic-games-apple-lawsuit-explained/) has marred the Fortnite experience on macOS because the developer has refused to update its game.
@@ -62,15 +60,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Almost empty outfit section in Fortnite Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/almost-empty-outfit-section-in-fortnite-locker.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Epic Games has also blocked access to V-Bucks and the Item Shop. So, you can't buy new skins, emotes, gifts, back blings, or any other cosmetic items. And if you bought any on another device running a more recent version of Fortnite, you won't see it in your inventory.
 
  This, combined with its overly bloated size, makes the Fortnite experience on macOS very disappointing.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Play the Latest Version of Fortnite on Your Mac
 
  Thanks to[the Xbox Cloud Gaming service](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) , you can still play the latest version of Fortnite on a Mac via your browser. It's typically a paid service that costs $16.99 per month, but you can access some free games like Fortnite without a subscription.
@@ -83,11 +79,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. After signing in, click**Play** ​​​​​​. You'll need a controller to play Fortnite.  
 ![Fortnite Xbox Cloud Gaming page with Play button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-35-35-pm.png)
 4. Link your Epic Games and Microsoft accounts by following the instructions in Fortnite.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Fortnite on browser asking to link accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-39-07-pm.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you're done with that, you should be ready to play Fortnite over the cloud. But ensure you have a fast and stable internet connection. Using a slow network means you'll have to log in again frequently.
 
  Alternatively, you can[play Fortnite using Nvidia GeForce Now](https://www.makeuseof.com/how-to-play-fortnite-on-iphone/) on an iPhone or Mac, but the same points and limitations apply regardless of the cloud gaming service you choose.
@@ -96,14 +98,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  This is mostly a bummer for gamers who just want to have some good old battle royale action without having to purchase a Windows PC. Since it's unlikely Apple will change its App Store policies, we hope Epic Games makes a compromise soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +111,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-crafting-flawless-virtual-reality-gaming-archives/"><u>[New] 2024 Approved Crafting Flawless Virtual Reality Gaming Archives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-harvest-hangouts-the-most-friendly-farm-gaming-experiences/"><u>[New] Harvest Hangouts The Most Friendly Farm Gaming Experiences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-how-to-organize-photo-album-on-iphone-and-icloud/"><u>2024 Approved How To Organize Photo Album On iPhone And iCloud</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/confirming-youtube-ad-revenue-accrual/"><u>Confirming YouTube Ad Revenue Accrual</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-play-with-xbox-deals-awaits/"><u>Free Play with Xbox Deals Awaits!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hassle-free-methods-for-upgrading-video-card-software-in-microsofts-latest-os/"><u>Hassle-Free Methods for Upgrading Video Card Software in Microsoft's Latest OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restore-default-settings-on-your-ps4-console/"><u>How to Restore Default Settings on Your PS4 Console</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-11-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 11 or iPad?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y200-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y200 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-from-phone-to-personal-entertainment-console/"><u>Journey From Phone to Personal Entertainment Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/necessity-of-mechanical-keys-in-pc-gaming/"><u>Necessity of Mechanical Keys in PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-your-favorite-gaming-on-xbox-cloud/"><u>Streaming Your Favorite Gaming on Xbox Cloud</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-sony-shopping-expertise-guidebook/"><u>The Sony Shopping Expertise Guidebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/vroom-virtuosos-dilemma-wheel-or-finger-fling-on-the-freeway/"><u>Vroom Virtuosos' Dilemma: Wheel or Finger-Fling on the Freeway?</u></a></li>
+</ul></div>
 

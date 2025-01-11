@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Indie Game Discovery Experience
-date: 2024-12-30T16:00:29.223Z
-updated: 2025-01-04T16:00:05.620Z
+date: 2025-01-09T01:59:17.169Z
+updated: 2025-01-11T06:34:35.923Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -53,23 +53,19 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
 ![Adding tags to a search on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/add-roguelite-tag-itch.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
 
 ## 2 Check Out Game Bundles
 
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Check the itch.io Blog
 
@@ -94,10 +90,14 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Look at User Reviews and Ratings
 
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 ![A game's page on itch.io showing more information so the rating can be seen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/more-information-game-itch.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
@@ -132,24 +132,20 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-speeding-up-your-instagram-video-watch-time/"><u>[New] Speeding Up Your Instagram Video Watch Time</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-funimate-unraveled-your-path-to-mastery/"><u>[Updated] In 2024, Funimate Unraveled Your Path to Mastery</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-social-media-magic-techniques-to-share-your-computer-screen-online/"><u>[Updated] Social Media Magic Techniques to Share Your Computer Screen Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/computing-power-boosts-start-with-cpu-or-gpu-upgrade/"><u>Computing Power Boosts: Start with CPU or GPU Upgrade</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/converter-online-de-mpg-para-gif-ferramenta-gratuita-do-movavi/"><u>Converter Online De MPG Para GIF - Ferramenta Gratuita Do Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-systems-vram-capacity-immedientiary/"><u>Discover System's VRAM Capacity Immedientiary</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-pass-a-steal-yet-not-perfect/"><u>Google Play Pass - A Steal, Yet Not Perfect</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-free-up-iphone-6s-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up iPhone 6s Plus Space | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/high-resolution-maldives-wallpaper-collection-stunning-hd-backgrounds-images-and-pics-by-yl-computing/"><u>High-Resolution Maldives Wallpaper Collection: Stunning HD Backgrounds, Images & Pics by YL Computing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-xs-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone XS Max If Youve Tried Everything</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-essential-youtube-beauty-influencers-10-creators-to-watch/"><u>In 2024, Essential YouTube Beauty Influencers 10 Creators to Watch</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y36-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y36 Through Google Earth?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-kinemaster-made-memes/"><u>In 2024, The Art of KineMaster-Made Memes</u></a></li>
-<li><a href="https://games-able.techidaily.com/introducing-guarded-steam-exploration-for-families/"><u>Introducing Guarded Steam Exploration for Families</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-process-of-starting-display-drivers-correctly-in-winoses/"><u>Mastering the Process of Starting Display Drivers Correctly in WinOSes</u></a></li>
-<li><a href="https://games-able.techidaily.com/spotless-playstation-console-and-controller-tips/"><u>Spotless PlayStation Console and Controller Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamers-playlist-the-top-6-game-mix/"><u>Streamers' Playlist: The Top 6 Game Mix</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-the-web-slinger-a-ps5-mars-spiderman-2-strategy/"><u>Unleashing The Web Slinger: A PS5 Mar's Spiderman 2 Strategy</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-s-controller-keep-it-connected/"><u>Xbox S Controller - Keep It Connected</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-quick-creation-of-fortnite-visuals/"><u>[Updated] Quick Creation of Fortnite Visuals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-new-wave-comparing-the-m3-and-m1-macbook-pro-for-your-next-upgrade-zdnet/"><u>Apple’s New Wave: Comparing the M3 and M1 MacBook Pro for Your Next Upgrade | ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-13t-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi 13T</u></a></li>
+<li><a href="https://games-able.techidaily.com/challenge-yourself-with-five-furious-fiddlers/"><u>Challenge Yourself With Five Furious Fiddlers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-latency-a-fix-for-cyberpunk-2077s-interactive-delay-problems/"><u>Eliminating Latency: A Fix for Cyberpunk 2077’S Interactive Delay Problems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhancing-viewer-engagement-with-smart-end-screen-techniques-for-2024/"><u>Enhancing Viewer Engagement with Smart End Screen Techniques for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-independent-gaming-delights-on-itchio/"><u>Finding Independent Gaming Delights on Itch.io</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-repairing-non-joy-con-connections-on-switch/"><u>Guide to Repairing Non-Joy-Con Connections on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-a-ps4-or-ps5-controller-to-your-nintendo-switch/"><u>How to Connect a PS4 or PS5 Controller to Your Nintendo Switch</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/marvels-spider-man-miles-morales-analysis-a-compact-tale-with-a-massive-punch/"><u>Marvel's Spider-Man: Miles Morales Analysis - A Compact Tale with a Massive Punch</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-mobile-gameplay-speed-two-effective-ways-to-measure-fps-on-android/"><u>Maximize Your Mobile Gameplay Speed: Two Effective Ways to Measure FPS on Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-interest-everyones-free-with-our-youtube-banner-samples/"><u>Spark Interest - Everyone's Free With Our YouTube Banner Samples</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-boot-options-6-ways/"><u>The Ultimate Guide to PS5 Boot Options (6 Ways)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-the-erratic-behavior-of-print-spooler-windows/"><u>Troubleshooting the Erratic Behavior of Print Spooler (Windows)</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1728467015752-windows-11/"><u>シンプルな手順でWindows 11のバックアップ処理をスケジュール！</u></a></li>
 </ul></div>
 

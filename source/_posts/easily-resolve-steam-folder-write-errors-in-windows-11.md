@@ -1,7 +1,7 @@
 ---
 title: Easily Resolve Steam Folder Write Errors in Windows 11
-date: 2024-08-22T22:28:14.966Z
-updated: 2024-08-23T22:28:14.966Z
+date: 2025-01-05T18:32:12.425Z
+updated: 2025-01-11T02:24:22.973Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
  If you face the same predicament, don’t fret. Let's explore multiple methods to resolve this annoying error code and help you successfully install your games on Steam again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change the Steam Folder Attributes
 
  Steam needs to have both read and write permissions to make changes to any sub-folder inside the Steam folder. If the steamapps folder is set to "read-only," the error can pop up and prevent you from installing the game. Repeat the following steps to change the Steam folder attributes:
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 5. Click on the**Apply** button and then click on the**OK** button.
 6. Close the File Explorer window and reopen the Steam client.
 7. Try to install the game and check if the error appears or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Steam App With Administrator Privileges
 
@@ -54,7 +62,16 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 7. Click on the**Full Control** checkbox to grant all the permissions for your user profile.  
 ![Grant Full Ownership of the Steam Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/grant-full-ownership-of-the-steam-folder-1.jpg)
 8. Now, click on the**Apply** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Lastly, click on the**OK** button and then close the Properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Repair the Steam Library Folder
 
@@ -69,8 +86,9 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 6. After the repair completes, click on the**Close** button.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Re-Add the Steam Library Folder
 
  If you still face the “Steam library folder not writable” error, you must remove and re-add the Steam library folder using the Storage settings. Repeat the following steps:
@@ -92,21 +110,12 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 4. Find the**Clear Download Cache** option in the right pane. Click on the**Clear Cache** button.  
 ![Flush the Download Cache-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flush-the-download-cache-1.jpg)
 5. Steam will reconfirm your decision to clear the cache. Click on the**Confirm** button.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. The app will restart after purging the download cache. You will have to sign in again to your Steam account.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Run a Check Disk Scan
 
  Hard Disk errors can be a reason due to which Steam is unable to add or modify files. You can[use the Check Disk utility in Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) to check your hard disk for errors and fix them. The Check Disk utility will scan the hard disk for errors and repair them, if possible.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Reinstall the Game on Another Drive
 
  If you are unable to install the game on the C drive, you must add another drive in the Steam Storage settings. Then, attempt the game installation in the newly added drive. Here’s how to do it:
@@ -117,8 +126,9 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 4. Click on the**plus** icon. Expand the drop-down list and select a drive.  
 ![Reinstall the Game on Another Drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reinstall-the-game-on-another-drive-1.jpg)
 5. Now, click on the**Add** button.
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Format the Disk and Try Again
@@ -136,26 +146,17 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 6. Keep the**File System** as**NTFS** and click on the**OK** button.  
 ![Format the Disk And Try Again 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-2-1.jpg)
 7. Lastly, click on the**OK** button once again.
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 8. **Close** the Disk Management utility.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make Your Steam Library Folder Writable Again on Windows
 
  These were the methods to fix the “Steam library folder not writable” error. Start by changing the file attributes and relaunching the Steam app with administrator rights. After that, repair the Steam library folder, flush the download cache, and run a check disk scan to fix disk errors.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +165,26 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-turning-snaps-into-cashflow/"><u>[Updated] 2024 Approved Turning Snaps Into Cashflow</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-xbox-one-zooming-techniques-unveiled/"><u>[Updated] 2024 Approved Xbox One Zooming Techniques Unveiled</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-deciphering-youtubes-new-earning-standards/"><u>[Updated] Deciphering YouTube's New Earning Standards</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-digital-artists-dreamland-ultimate-afx-template-set/"><u>[Updated] In 2024, Digital Artist's Dreamland Ultimate AFX Template Set</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-understanding-the-functionality-of-m1-max-clips/"><u>2024 Approved Understanding the Functionality of M1 Max Clips</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-snes-and-n64-to-steam/"><u>Connecting SNES & N64 to Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-the-idle-tag-in-online-discussions/"><u>Demystifying the 'Idle' Tag in Online Discussions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-comprehensive-driver-suite-for-your-brother-hl-l2360dw-printer/"><u>Download the Comprehensive Driver Suite for Your Brother HL-L2360DW Printer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-acquire-and-setup-realtek-rtl8188ee-usb-wireless-adapter-drivers-for-your-windows-pc/"><u>Easy Installation Guide: Acquire and Setup Realtek RTL8188EE USB Wireless Adapter Drivers for Your Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamings-evolution-tracker-nintendos-new-era-predicted/"><u>Gaming's Evolution Tracker - Nintendo's New Era Predicted</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-bring-up-the-keyboard-on-your-steam-deck/"><u>How to Bring Up the Keyboard on Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/instantaneous-storage-solutions-via-steam-device-cloning/"><u>Instantaneous Storage Solutions via Steam Device Cloning</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-your-computer-glitching-install-this-nvidia-driver-update-now-to-fix-it/"><u>Is Your Computer Glitching? Install This Nvidia Driver Update Now to Fix It</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-setup-for-mobile-app-compatibility/"><u>Linux Setup for Mobile App Compatibility</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/precision-and-power-players-top-5-martial-arts-rpgs/"><u>Precision & Power Players Top 5 Martial Arts RPGs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-11-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 11 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/these-are-some-of-my-favorite-indie-games-and-how-i-found-them/"><u>These Are Some of My Favorite Indie Games, and How I Found Them</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secret-to-a-complimentary-macbook-air-m3-at-best-buy-exclusive-guide-zdnet/"><u>Unlock the Secret to a Complimentary MacBook Air M3 at Best Buy – Exclusive Guide | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwrapping-windows-rust-steam-login-glitches/"><u>Unwrapping Windows-Rust Steam Login Glitches</u></a></li>
+</ul></div>
 

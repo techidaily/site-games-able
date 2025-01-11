@@ -1,7 +1,7 @@
 ---
 title: "Ignite the Passion: Expand on The Fallout Series"
-date: 2024-12-23T00:33:26.184Z
-updated: 2024-12-25T20:35:14.776Z
+date: 2025-01-04T18:40:09.293Z
+updated: 2025-01-11T05:31:36.108Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout: New Vegas
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 3
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 4
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout
@@ -109,19 +109,19 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-essence-of-dji-inspire-2-distilled/"><u>[New] 2024 Approved The Essence of DJI Inspire 2 Distilled</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-secrets-to-sustaining-high-view-count-in-youtube-videos/"><u>[New] Secrets to Sustaining High View Count in YouTube Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-instructions-to-get-chatgpt-running-as-a-windows-application/"><u>Complete Instructions to Get ChatGPT Running as a Windows Application</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hues-harmony-crafting-colorful-artistry/"><u>Hues Harmony Crafting Colorful Artistry</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-masterclass-in-digital-animation-the-art-of-creating-gifs/"><u>In 2024, Masterclass in Digital Animation The Art of Creating GIFs</u></a></li>
-<li><a href="https://games-able.techidaily.com/makeuseof-mwc-winners-innovation-spotlight/"><u>MakeUseOf MWC Winners: Innovation Spotlight</u></a></li>
-<li><a href="https://games-able.techidaily.com/making-your-ps5-gaming-experience-social/"><u>Making Your PS5 Gaming Experience Social</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-social-network-crossroad-instagram-and-tiktok/"><u>Navigating the Social Network Crossroad Instagram & TikTok</u></a></li>
-<li><a href="https://win-online.techidaily.com/revolutionary-profit-boosting-strategy-with-massmail-elevate-your-business-sales/"><u>Revolutionary Profit-Boosting Strategy with MassMail: Elevate Your Business Sales</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-into-infinite-gameplay-7-must-play-mobile-mmos/"><u>Step Into Infinite Gameplay: 7 Must-Play Mobile MMOs</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-role-of-mechanical-keys-in-esports-dominance/"><u>The Role of Mechanical Keys in Esports Dominance</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-desk-mat-selection/"><u>The Ultimate Guide to Desk Mat Selection</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-how-to-reconnect-to-your-mc-lan-party-on-pc/"><u>Troubleshooting: How to Reconnect to Your MC LAN Party on PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-is-meta-discontinuing-face-tech-from-fbs-repertoire/"><u>Why Is Meta Discontinuing Face Tech From FB's Repertoire?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elite-index-of-public-domain-picture-sources/"><u>[New] In 2024, Elite Index of Public Domain Picture Sources</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-bestiary-of-ios-ps2-game-simulators/"><u>[Updated] 2024 Approved Bestiary of iOS PS2 Game Simulators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-equipment-starter-guide-for-beginners/"><u>[Updated] YouTube Equipment Starter Guide For Beginners</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-an-optimal-steam-inventory-with-simple-steps/"><u>Achieving an Optimal Steam Inventory with Simple Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-techniques-in-cs2-the-mac-approach/"><u>Advanced Techniques in CS2 - The Mac Approach</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-your-mobile-gaming-experience-a-look-at-the-best-8-on-play-pass/"><u>Elevate Your Mobile Gaming Experience – A Look at the Best 8 on Play Pass</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y78-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y78 5G Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/irksome-quest-five-difficult-games-to-master/"><u>Irksome Quest: Five Difficult Games to Master</u></a></li>
+<li><a href="https://games-able.techidaily.com/more-than-a-series-explore-the-full-fallout-video-game-repertoire/"><u>More than a Series: Explore the Full Fallout Video Game Repertoire</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-titans-must-follow-culinary-creators-online-for-2024/"><u>Taste Titans Must-Follow Culinary Creators Online for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-premier-7-in-mobile-mmo-world/"><u>The Premier 7 in Mobile MMO World</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 11</u></a></li>
+<li><a href="https://win-superb.techidaily.com/yl-softwares-guide-to-risk-free-cryptocurrency-storage-methods/"><u>YL Software's Guide to Risk-Free Cryptocurrency Storage Methods</u></a></li>
 </ul></div>
 

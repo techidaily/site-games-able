@@ -1,7 +1,7 @@
 ---
 title: Navigating Controllers for Switch Games via Ryujinx
-date: 2024-12-28T16:01:08.036Z
-updated: 2025-01-04T16:01:27.974Z
+date: 2025-01-07T00:11:28.817Z
+updated: 2025-01-11T06:53:01.850Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Need to Know About Ryujinx Before Using a Controller
@@ -38,10 +38,14 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A photograph of retro games and gaming consoles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stock-retro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Map a PlayStation, Xbox, or Third-Party Controller in Ryujinx
 
@@ -65,14 +69,10 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Customize Your Ryujinx Controller Settings
 
@@ -86,11 +86,11 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Streamline Nintendo Switch Emulation With Ryujinx
 
@@ -113,20 +113,14 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-demystifying-best-hdr-cameras-for-professionals/"><u>[New] 2024 Approved Demystifying Best HDR Cameras for Professionals</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-classic-cinema-revisited-step-by-step-video-guide/"><u>[New] In 2024, Classic Cinema Revisited Step-by-Step Video Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-executive-mind-how-neuroscience-can-inform-better-management-strategies-for-2024/"><u>[New] The Executive Mind How Neuroscience Can Inform Better Management Strategies for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-home-cinematographers-review-best-video-recorders/"><u>[Updated] 2024 Approved Home Cinematographer's Review Best Video Recorders</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-top-12-action-cameras-with-gps/"><u>[Updated] 2024 Approved Top 12 Action Cameras with GPS</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-expert-strategies-elevating-interview-audio-quality-with-iphoneipad/"><u>[Updated] In 2024, Expert Strategies Elevating Interview Audio Quality with iPhone/iPad</u></a></li>
-<li><a href="https://games-able.techidaily.com/current-currents-of-change/"><u>Current Currents of Change</u></a></li>
-<li><a href="https://games-able.techidaily.com/enabling-console-playback-control-on-pc-games-150-chars/"><u>Enabling Console Playback Control on PC Games (150 Chars)</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-very-best-8-game-news-plus-sites/"><u>Explore: The Very Best 8 Game News + Sites</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-2019-file-stellar-by-stellar-guide/"><u>Get Rid of corrupt Excel 2019 File | Stellar</u></a></li>
-<li><a href="https://games-able.techidaily.com/pixel-pilgrimages-a-top-9-travelers-guide-to-games/"><u>Pixel Pilgrimages: A Top 9 Traveler's Guide to Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-gaming-revolution-new-era-of-ai-opportunities/"><u>Steam's Gaming Revolution: New Era of AI Opportunities</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-your-experience-on-twitch-with-tips-and-tricks/"><u>Streamlining Your Experience on Twitch with Tips and Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/swift-methods-to-address-steam-login-problems-in-rust/"><u>Swift Methods to Address Steam Login Problems in Rust</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-vr-journey-best-pc-360-video-streamers-reviewed-for-2024/"><u>The Ultimate VR Journey Best PC 360 Video Streamers Reviewed for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snip-and-save-essential-tips-for-iphone-photo-cropping-apps/"><u>[New] Snip & Save Essential Tips for iPhone Photo Cropping Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-astronomy-photographers-website-selection/"><u>2024 Approved Astronomy Photographers' Website Selection</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-smart-8-plus-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Smart 8 Plus Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-sony-xperia-10-v-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Sony Xperia 10 V Lock Screen Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-game-boy-advance-simulation-apps-for-iphone/"><u>Pinnacle Game Boy Advance Simulation Apps for iPhone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/premier-low-cost-time-tracking-tools/"><u>Premier Low-Cost Time Tracking Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-activation-for-your-ps5-console/"><u>Restoring Activation for Your PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-game-industry-influence-the-new-age-of-artificial-intelligence/"><u>Steam’s Game Industry Influence: The New Age of Artificial Intelligence</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-through-new-york-times-connections/"><u>Steering Through New York Times Connections</u></a></li>
 </ul></div>
 

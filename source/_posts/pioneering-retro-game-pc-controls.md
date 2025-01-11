@@ -1,7 +1,7 @@
 ---
 title: Pioneering Retro Game PC Controls
-date: 2024-12-31T16:02:53.924Z
-updated: 2025-01-04T16:02:50.621Z
+date: 2025-01-08T03:36:07.714Z
+updated: 2025-01-11T08:34:42.580Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Connect Your Classic Nintendo Controller to Steam
 
  Connecting your Classic Nintendo controller to Steam begins with securing the controller itself. These controllers are only available to those with Nintendo Switch Online subscriptions. So if you don't have one of those yet, here is[everything you need to know about Nintendo Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) .
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![Add Bluetooth Device to PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-bluetooth-device-to-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your computer will start searching for a signal at this point, so press the Bluetooth pairing button at the top of the controller to allow your PC to find and establish the connection. The Bluetooth pairing button is the tiny circular button to the right of the screenshot button, next to the row of lights. Hold the button down until the lights start flashing green.
 
  Once the PC finds your Classic Nintendo controller, a small pop-up window will appear on your screen showing the name of your controller. In this case, it is the N64 controller, but the name may differ for you depending on what Classic Nintendo controller you have.
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![Connecting N64 Controller to PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/connecting-n64-controller-to-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Left-click on the**controller name** to pair it. It's worth noting here that your PC won't remember the Classic Nintendo controller like it does other Bluetooth devices, and this process will have to be repeated every time you want to connect your controller to your PC.
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
@@ -84,14 +88,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
 
@@ -114,22 +114,24 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-leverage-igs-busiest-hours-for-your-content/"><u>[New] In 2024, How to Leverage IG's Busiest Hours for Your Content</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-superior-iphone-editor-tools-pick-between-cameo-and-filmorago-for-2024/"><u>[New] Superior iPhone Editor Tools Pick Between Cameo and FilmoraGo for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1728503941130-aomei-backupper/"><u>AOMEI Backupperによる完全な双方向データ同期手順解説 - ステップバイステップ</u></a></li>
-<li><a href="https://games-able.techidaily.com/does-market-size-equate-to-quality-aaa-publishers-audio-opinion-piece/"><u>Does Market Size Equate to Quality, AAA Publishers? [Audio Opinion Piece]</u></a></li>
-<li><a href="https://games-able.techidaily.com/enabling-android-features-within-linux-os/"><u>Enabling Android Features Within Linux OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-features-leading-nintendo-switch-holster-maker/"><u>Exclusive Features: Leading Nintendo Switch Holster Maker</u></a></li>
-<li><a href="https://games-able.techidaily.com/funding-fun-optimizing-steam-wallet-value/"><u>Funding Fun: Optimizing Steam Wallet Value</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-lava-blaze-2-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Lava Blaze 2 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seize-the-moment-download-outro-samples-freepaid/"><u>In 2024, Seize the Moment Download Outro Samples (Free/Paid)</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-hrtf-for-better-team-coordination-in-valorant/"><u>Navigating HRTF for Better Team Coordination in Valorant</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-xbox-membership-management-on-x-series-s/"><u>Optimizing Xbox Membership Management on X Series S</u></a></li>
-<li><a href="https://games-able.techidaily.com/personalized-fan-schedule-reduces-overclocking-stress/"><u>Personalized Fan Schedule Reduces Overclocking Stress</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revamping-the-undead-a-comprehensive-review-of-7-days-to-die-the-ultimate-zombie-survival-game/"><u>Revamping the Undead: A Comprehensive Review of '7 Days to Die' - The Ultimate Zombie Survival Game</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-secure-eraser-for-mac-reliable-standard-edition-with-timed-file-destruction/"><u>Stellar Secure Eraser for Mac - Reliable Standard Edition With Timed File Destruction</u></a></li>
-<li><a href="https://games-able.techidaily.com/tecno-cuts-the-extra-boosts-buzz-at-ifa-2023/"><u>Tecno Cuts the Extra, Boosts Buzz at IFA 2023</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/wirelessly-shuffle-your-snaps-moving-pictures-from-iphone-to-ipad-by-hand/"><u>Wirelessly Shuffle Your Snaps: Moving Pictures From iPhone to iPad by Hand</u></a></li>
-<li><a href="https://win-blog.techidaily.com/zdarma-stejne-snadne-metody-nahrat-video-online-movavi/"><u>Zdarma Stejně Snadné Metody Nahrát Vídeo Online - Movavi</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-androidmac-apps-to-lock-in-your-snaps/"><u>[New] 2024 Approved Android/Mac Apps to Lock in Your Snaps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-educators-roadmap-to-effective-multimedia-use-for-2024/"><u>[New] The Educator's Roadmap to Effective Multimedia Use for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-your-mac-to-game-switch-adventures/"><u>Connect Your Mac to Game Switch Adventures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-to-retrieve-passwords-stored-in-your-macs-keychain-expert-tips-and-tricks/"><u>Discover How to Retrieve Passwords Stored in Your Mac's Keychain - Expert Tips & Tricks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/enhancing-profile-clips-for-impact/"><u>Enhancing Profile Clips for Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/expanding-horizons-different-switch-regions/"><u>Expanding Horizons: Different Switch Regions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/expert-tips-for-erasing-everything-and-starting-fresh-factory-resetting-your-lenovo-ideapad-110s-in-windows-10/"><u>Expert Tips for Erasing Everything and Starting Fresh: Factory Resetting Your Lenovo Ideapad 110S in Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-ps5-slim-crucial-upgrades-exposed/"><u>Exploring PS5 Slim: Crucial Upgrades Exposed</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-gamer-self-fixing-your-xbox-controls-made-easy/"><u>Game On, Gamer! Self-Fixing Your Xbox Controls Made Easy</u></a></li>
+<li><a href="https://games-able.techidaily.com/guiding-you-through-ps4-controller-on-pc-and-mac/"><u>Guiding You Through PS4 Controller on PC & Mac</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-the-ultimate-guide-to-sound-modification-tools-from-introduction-to-alternatives/"><u>In 2024, The Ultimate Guide to Sound Modification Tools From Introduction to Alternatives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-top-picks-next-gen-vr-handwear/"><u>In 2024, Unveiling Top Picks Next Gen VR Handwear</u></a></li>
+<li><a href="https://games-able.techidaily.com/mac-gaming-enhanced-counter-strike-2-basics/"><u>Mac Gaming Enhanced: Counter-Strike 2 Basics</u></a></li>
+<li><a href="https://games-able.techidaily.com/makeitcount-awards-excellence-at-mwc-2024/"><u>MakeItCount Awards: Excellence at MWC 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-desk-vs-high-end-playstation-performance/"><u>Office Desk Vs. High-End PlayStation Performance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-seize-and-setup-your-mc-mapping-adventures/"><u>Steps to Seize & Setup Your MC Mapping Adventures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlocking-vidmas-secrets-to-superior-screen-recording/"><u>Unlocking Vidma’s Secrets to Superior Screen Recording</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209862848-9780999480564-which-side-of-the-fence-are-you-on/"><u>Which Side Of The Fence Are You On | Free Book</u></a></li>
 </ul></div>
 

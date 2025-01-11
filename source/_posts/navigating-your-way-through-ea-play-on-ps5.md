@@ -1,7 +1,7 @@
 ---
 title: Navigating Your Way Through EA Play on PS5
-date: 2024-12-23T02:57:57.313Z
-updated: 2024-12-25T21:22:36.867Z
+date: 2025-01-07T00:14:12.667Z
+updated: 2025-01-10T17:27:19.853Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is EA Play?
 
  Essentially, EA Play (once known as EA Access) is a subscription service for PlayStation and Xbox that offers select EA titles to “rent” while your subscription is on. It also gives you a 10% discount on some non-free titles, season passes, points packs, and DLCs. Lastly, EA Play membership will give you a free 10-hour early access trial to some EA games, and your progress will sync should you choose to buy the game.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
  By the way, EA Play is one of the[ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Subscribe to EA Play on the PS5
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 3. Scroll down till you see EA Play’s banner and choose**Learn More** .  
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-in-playstation-store-s-subscription-page.JPG)
 4. Select**$4.99** and choose**Order & Pay** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
@@ -64,19 +64,15 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
 
@@ -84,10 +80,14 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## EA Play Saves You Money
@@ -111,19 +111,16 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-5-best-photo-editing-app-for-android-phone/"><u>[New] In 2024, 5 Best Photo Editing App for Android Phone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-unleash-creativity-10-top-rated-free-mac-art-software/"><u>[Updated] In 2024, Unleash Creativity 10 Top-Rated, FREE Mac Art Software</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/boost-online-engagement-using-smart-analytics-the-magic-of-cookiebot-integration/"><u>Boost Online Engagement Using Smart Analytics: The Magic of Cookiebot Integration</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/breaking-down-barriers-with-words-of-affection/"><u>Breaking Down Barriers with Words of Affection</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquer-every-game-mastering-button-mappings-on-android/"><u>Conquer Every Game: Mastering Button Mappings on Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/download-and-liberate-minecraft-realm-worlds/"><u>Download and Liberate Minecraft Realm Worlds</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211112127-9781088109847-from-suffering-to-healing-when-life-falls-apart-you-need-answers-you-need-healing/"><u>From Suffering to Healing. When Life Falls Apart, You Need Answers. You Need Healing. | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-pi-compare-batocera-and-retropie-in-gaming-wars/"><u>Game on, Pi! Compare Batocera and RetroPie in Gaming Wars</u></a></li>
-<li><a href="https://games-able.techidaily.com/pro-level-cpu-cooling-master-these-8-factors-before-purchase/"><u>Pro-Level CPU Cooling: Master These 8 Factors Before Purchase</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-your-steams-non-responsive-remote-gameplay/"><u>Reviving Your Steam's Non-Responsive Remote Gameplay</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-damaged-or-broken-usb-connections-in-windows-1011/"><u>Step-by-Step Fixes for Damaged or Broken USB Connections in Windows 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-workstations-asus-rog-allys-cutting-edge-laptop-docks-24/"><u>The Future of Workstations - ASUS ROG Ally's Cutting-Edge Laptop Docks, '24</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/ultimate-guide-to-top-unboxing-videos-2024-edition/"><u>Ultimate Guide to Top Unboxing Videos - 2024 Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-achieving-peak-performance-zoom-plus-fb-live-techniques/"><u>[New] 2024 Approved Achieving Peak Performance ZOOM + FB Live Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-dancing-to-the-tune-youtubes-hottest-music-video-responses-23/"><u>[New] 2024 Approved Dancing to the Tune YouTube's Hottest Music Video Responses, '23</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-beginners-guide-top-10-easy-to-fly-drones/"><u>2024 Approved Beginner's Guide Top 10 Easy-to-Fly Drones</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-for-a-supercharged-ps4-experience/"><u>A Step-by-Step Guide for a Supercharged PS4 Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-ps5-intermittent-connection-issues/"><u>Combatting PS5 Intermittent Connection Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/diagnosing-and-solving-gpu-induced-image-droop/"><u>Diagnosing & Solving GPU-Induced Image Droop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-codegpt-an-innovative-tool-for-writing-source-code/"><u>Exploring CodeGPT: An Innovative Tool for Writing Source Code</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-silver-to-core-xbox-live-gold-upgrade/"><u>From Silver to Core: Xbox Live Gold Upgrade</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/huions-giant-canvas-for-digital-artists-exploring-features-and-performance-of-kamvas-gt-191-drawing-tablet-review/"><u>Huion's Giant Canvas for Digital Artists: Exploring Features & Performance of Kamvas GT-191 Drawing Tablet Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/motorola-moto-g23-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Motorola Moto G23 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-silent-transitions/"><u>The Ultimate Guide to Silent Transitions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Identifying Disconnected Gamers with Xbox S/X Insight
-date: 2024-08-22T22:24:07.878Z
-updated: 2024-08-23T22:24:07.878Z
+date: 2025-01-07T06:11:14.583Z
+updated: 2025-01-11T06:30:46.445Z
 tags:
   - games
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
  When Xbox friends constantly appear offline, it can be a pain to organize online gaming sessions or, at worst, a sign that someone is avoiding you. But with an Xbox Series X|S, there are a few ways you can tell if someone is appearing offline. Let's take a look.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the Friends & Community App on Your Xbox Series X|S
 
  On Xbox, one of the main ways you can track online behavior is through the**Friends & Community Updates** app. From here, you can view any game captures, achievements, or posts from your friends. And the best part? Even posts from friends appearing offline are shown through the app.
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 * Highlight the option for**Apps** , and select**Friends & Community Updates** .
 
 ![A screenshot of the Apps section of My Games and Apps on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2995.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Find the displayed posts under**Shared by friends** .
 * Scroll through the listed posts, looking for one of your offline friends.
@@ -51,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
  If you know someone hasn't been online for the duration of the time the**Gamerscore leaderboard** has been tracking Achievements, but you can see they have earned Gamerscore, they are appearing offline.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Look Through Your Xbox Friend’s Achievements
 
  While the past few methods help you to tell if someone is appearing offline for a long period, there are more direct ways to tell if people are offline on Xbox.
@@ -67,22 +72,17 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 ![A screenshot of an Xbox Friend profile on Xbox Series X with the option See Full Profile highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3163.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Under**Social** , highlight**Activity Feed** to see recently unlocked Achievements.
 
 ![A screenshot of an Xbox Friend Activity Feed on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3173.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  From here, you should be able to see your friend's most recently unlocked Achievement and how long ago it was unlocked. You know your friend is appearing offline if they are offline but have unlocked Achievements recently.
 
  Alternatively, you can[compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Use the Time Played Feature for Specific Xbox Games
 
  A final way you can tell if one of your Xbox friends is appearing offline is by checking a friend's**Time played** statistic in a specific Xbox game.
@@ -97,20 +97,17 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 ![A screenshot of the Gaming option available on Xbox Series X when comparing two Xbox Profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3169.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Scroll down the on-screen gaming stats until you find**Time played** .
 
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
 
 ## Keep Track of Your Friends on Xbox Series X|S for Smooth Social Gaming
@@ -119,14 +116,11 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
  With the questions of whether and why someone is offline solved, you can get on with organizing your Xbox parties and sessions without any extra social road bumps caused by offline players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +129,17 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-gecata-game-recorder-review-complete-for-2024/"><u>[New] Gecata Game Recorder Review [Complete] for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-youtube-integration-in-instagram-narratives/"><u>[New] In 2024, YouTube Integration in Instagram Narratives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-optimal-practices-for-archiving-interactive-online-workshops/"><u>[Updated] 2024 Approved Optimal Practices for Archiving Interactive Online Workshops</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-how-to-deal-with-youtube-trolls-and-negative-comments/"><u>2024 Approved How To Deal with YouTube Trolls and Negative Comments</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-xbox-play-top-tips-for-blu-ray/"><u>Elevate Your Xbox Play: Top Tips for Blu-Ray</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-asus-dominance-over-tuf-proart-and-prime-brands/"><u>Examining Asus' Dominance Over TUF, ProArt & Prime Brands</u></a></li>
+<li><a href="https://games-able.techidaily.com/expressive-art-for-immersive-rhythm-games/"><u>Expressive Art for Immersive Rhythm Games</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-edit-youtube-videos-in-imovie-in-2024/"><u>How to Edit YouTube Videos in iMovie, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-150-2023-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nokia 150 (2023) support - Forgotten screen lock.</u></a></li>
+<li><a href="https://games-able.techidaily.com/teaching-digital-literacy-for-your-childrens-safe-use-of-discorcrd/"><u>Teaching Digital Literacy for Your Children’s Safe Use of DiscoRcrd</u></a></li>
+</ul></div>
 

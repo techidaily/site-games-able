@@ -1,7 +1,7 @@
 ---
 title: Top 10 Gaming Picks in Sony's Grandest Sales Event
-date: 2024-12-31T16:02:39.322Z
-updated: 2025-01-04T16:04:04.040Z
+date: 2025-01-04T22:31:12.008Z
+updated: 2025-01-11T09:45:24.102Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Overcooked! 2
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
  The best part of the summer holidays is that your friends are most likely on holiday as well, which means that there is no excuse not to invite them over and have a night of ridiculous fun playing Overcooked! 2\. Overcooked! 2 is a chaotic party game where you have to work together to serve food to some very impatient customers under extreme conditions in a short time limit. If you like laughing, you'll like this.
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. My Time at Portia Deluxe Edition
 
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Little Nightmares 1 & 2
@@ -65,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Unravel Two
 
  Unravel Two is a beautifully rendered puzzle platformer that can be enjoyed alone, but it is best experienced with a friend. It has some incredibly unique and satisfying mechanics where you can use the yarn that makes up your body to interact with your surroundings and solve puzzles. It is very similar to It Takes Two, so if you were a fan of that, this should be at the top of your backlog.
@@ -77,15 +77,15 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Resident Evil Village
 
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
@@ -122,15 +122,22 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-best-humor-picture-processor/"><u>[New] In 2024, Best Humor Picture Processor</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-adobe-tactics-for-dynamic-3d-text-design-for-2024/"><u>[Updated] Adobe Tactics for Dynamic 3D Text Design for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-6s-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 6s Plus and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/easily-uninstall-microsoft-windows-without-reformatting-effective-techniques-and-tips/"><u>Easily Uninstall Microsoft Windows Without Reformatting: Effective Techniques and Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-master-video-capture-using-adobe-presenter-for-2024/"><u>How to Master Video Capture Using Adobe Presenter for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-solo-show-survival-guide-to-staying-trendy/"><u>In 2024, The Solo Show Survival Guide to Staying Trendy</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-evolution-then-and-now-explored/"><u>PS5 Evolution: Then and Now Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-for-a-brighter-gaming-atmosphere-with-xbox-led-controls/"><u>Tips for a Brighter Gaming Atmosphere with Xbox LED Controls</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-gamers-choices-retro-handheld-devices-rise/"><u>Top 5 Gamers' Choices: Retro Handheld Devices Rise</u></a></li>
-<li><a href="https://games-able.techidaily.com/unravel-virtual-crimes-with-artificial-intelligence-games/"><u>Unravel Virtual Crimes with Artificial Intelligence Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-compreehing-and-engaging-with-your-twitter-archive/"><u>[Updated] In 2024, Compreehing & Engaging with Your Twitter Archive</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-the-secrets-of-spectacular-insta-films/"><u>2024 Approved Unlocking the Secrets of Spectacular Insta Films</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-backgame-cost-spike-short-term-savings-hacks/"><u>Beat Backgame Cost Spike - Short-Term Savings Hacks</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-10-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 10 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-brag-and-beat-the-odds-essential-achievement-websites/"><u>Boost, Brag & Beat The Odds: Essential Achievement Websites</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-delights-for-special-moments-via-steam/"><u>Digital Delights for Special Moments via Steam</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-7-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 7 in the Best Ways</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-officejet-pro-8610-driver-download-and-update-for-windows-10-8-7-xp-and-vista/"><u>HP Officejet Pro 8610 Driver Download & Update for Windows 10, 8, 7, XP and Vista</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/last-minute-october-deals-for-gamers-save-up-to-1k-during-the-prime-day-sale-zdnet-newsletter/"><u>Last-Minute October Deals for Gamers: Save Up to $1K During the Prime Day Sale | ZDNET Newsletter</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-map-mastery-acquiring-and-activating-adventures/"><u>Minecraft Map Mastery: Acquiring & Activating Adventures</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pinnacle-pathfinders-the-ultimate-10-game-guide/"><u>Pinnacle Pathfinders The Ultimate 10 Game Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/predicting-a-boom-in-chipset-prices-are-we-ready/"><u>Predicting a Boom in Chipset Prices: Are We Ready?</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-8-outlets-for-in-depth-gaming-insights/"><u>Prime 8 Outlets for In-Depth Gaming Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/questful-commuting-smart-tips-for-in-transit-gaming/"><u>Questful Commuting: Smart Tips for In-Transit Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-ps5-pc-control-connection-methods/"><u>Seamless PS5-PC Control Connection Methods</u></a></li>
+<li><a href="https://techidaily.com/unlocking-windows-power-introducing-the-sudo-command-explained-and-usage-guide/"><u>Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide</u></a></li>
 </ul></div>
 

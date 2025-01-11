@@ -1,7 +1,7 @@
 ---
 title: "Premium Games: Can MTs Be Justified?"
-date: 2024-12-25T06:35:16.499Z
-updated: 2024-12-26T03:10:39.597Z
+date: 2025-01-05T18:23:44.328Z
+updated: 2025-01-11T06:13:31.064Z
 tags:
   - games
 categories:
@@ -19,15 +19,15 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Why Do Microtransactions Exist in Video Games At All?](#why-do-microtransactions-exist-in-video-games-at-all)
 * [Why Microtransactions Are Appearing in Premium Games](#why-microtransactions-are-appearing-in-premium-games)
 * [Are Microtransactions Good for the Gaming Industry?](#are-microtransactions-good-for-the-gaming-industry)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 But what about premium games? Should they have microtransactions?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Microtransactions Are Appearing in Premium Games
@@ -65,6 +65,10 @@ But what about premium games? Should they have microtransactions?
 
 ![Elder Scrolls Obvlivion gold horse armor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/elder-scrolls-obvlivion-gold-horse-armor.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, it didn’t start today; we can see signs of this as far back as 2006\. The most infamous early example was Horse Armor in The Elder Scrolls: Oblivion (2006). Horse Armor was a $2.50 DLC package Microsoft and Bethesda added to the Xbox 360 release of the game.
 
  The DLC caused a lot of uproar on the internet and became something of a meme representing video game features that are useless and overpriced. However, reports indicate that the DLC was still a huge financial success.
@@ -74,7 +78,7 @@ But what about premium games? Should they have microtransactions?
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are Microtransactions Good for the Gaming Industry?
@@ -85,10 +89,6 @@ But what about premium games? Should they have microtransactions?
 
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Paying More to Experience Less
 
  Let’s look at Middle-earth: Shadow of War as a case study. It was released as a sequel to Shadow of Mordor, a well-received game using the proprietary nemesis system.
@@ -96,10 +96,6 @@ But what about premium games? Should they have microtransactions?
  Piggybacking off the success of its predecessor, the game was released with microtransactions and loot boxes (War Chests) specifically designed to force you to pay or grind harder to finish the game. This was met with severe backlash, and eventually, in 2017, roughly a year after its release, they had to remove all microtransactions from Shadow of War.
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bloat and Battle Passes
 
@@ -114,6 +110,10 @@ But what about premium games? Should they have microtransactions?
  What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on[why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Dishonest Means of Collecting More Money
 
@@ -146,16 +146,24 @@ But what about premium games? Should they have microtransactions?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-a-scriptwriters-playbook/"><u>[New] 2024 Approved A Scriptwriter's Playbook</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-transforming-images-into-engaging-animation-projects/"><u>[New] In 2024, Transforming Images Into Engaging Animation Projects</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-youtubes-potential-with-targeted-keywords-for-2024/"><u>[Updated] Unlocking YouTube's Potential with Targeted Keywords for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-speed-monitors-at-240hz-for-gamers/"><u>High-Speed Monitors at 240Hz for Gamers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-cutting-edge-cameras-a-beginners-selection-primer-23/"><u>In 2024, Cutting-Edge Cameras A Beginner's Selection Primer '23</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-earphones-designed-for-switch/"><u>Optimal Earphones Designed for Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/reinvigorate-your-console-installing-a-new-joy-con-joystick/"><u>Reinvigorate Your Console: Installing a New Joy-Con Joystick</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/step-by-step-techniques-for-recording-team-conversations/"><u>Step-by-Step Techniques for Recording Team Conversations</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-full-gameplay-of-bg3-on-a-mac-m1m2-device-via-crossover/"><u>Unleash Full Gameplay of BG3 on a Mac M1/M2 Device via Crossover</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/windows-11-update-deep-dive-for-2024/"><u>Windows 11 Update Deep Dive for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-low-cost-high-performance-capturing-adrenaline-in-motion/"><u>[New] 2024 Approved Low-Cost, High-Performance Capturing Adrenaline in Motion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-revamp-your-channels-image-amplify-your-subscription-count-for-2024/"><u>[Updated] Revamp Your Channel's Image, Amplify Your Subscription Count for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-into-the-world-of-youtube-transcription-a-comprehensive-no-fee-guide-for-2024/"><u>[Updated] Step Into the World of YouTube Transcription A Comprehensive No-Fee Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-understanding-shared-links-and-their-functionality/"><u>ChatGPT: Understanding Shared Links & Their Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-if-spending-on-ea-play-is-justifiable/"><u>Deciphering If Spending on EA Play Is Justifiable</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-and-downloading-the-hp-laserjet-1320-driver-for-windows-users/"><u>Easy Guide to Updating and Downloading the HP LaserJet 1320 Driver for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-fingers-check-out-these-speedy-internet-games/"><u>Fast Fingers? Check Out These Speedy Internet Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashs-legacy-continues-with-updated-gaming-strategies/"><u>Flash's Legacy Continues with Updated Gaming Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/foster-fluidity-in-your-playtime-by-addressing-launcher-issues/"><u>Foster Fluidity in Your Playtime by Addressing Launcher Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/go-offline-and-play-exciting-apps-to-entertain-you/"><u>Go Offline and Play - Exciting Apps to Entertain You</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/government-strategies-oversight-and-control-over-artificer-intellect-systems/"><u>Government Strategies: Oversight and Control Over Artificer Intellect Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-v30-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme V30</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shed-price-chains-with-free-video-player-pcmac/"><u>In 2024, Shed Price Chains with Free VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-emulator-techniques-for-game-boy-titles/"><u>Linux Emulator Techniques for Game Boy Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/neuroprotective-agents-in-dementia-the-potential-role-of-cannabinoids/"><u>Neuroprotective Agents in Dementia: The Potential Role of Cannabinoids</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-tricks-for-searching-people-on-facebook-seamlessly/"><u>Quick Tricks for Searching People on Facebook Seamlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-spec-comparison-asus-rog-ally-and-steam-deck-explored/"><u>The Spec Comparison: ASUS ROG Ally and Steam Deck Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-gpu-showdown-amds-radeon-xt-series-explained/"><u>The Ultimate Gaming GPU Showdown: AMD's Radeon XT Series Explained</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/ultimate-4-facebook-film-compiler-for-2024/"><u>Ultimate 4 Facebook Film Compiler for 2024</u></a></li>
 </ul></div>
 

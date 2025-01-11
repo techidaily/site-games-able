@@ -1,7 +1,7 @@
 ---
 title: "Elevate Gaming Speed: Measuring FPS on Android Devices (2 Ways)"
-date: 2024-08-22T22:26:43.992Z
-updated: 2024-08-23T22:26:43.992Z
+date: 2025-01-10T01:29:39.438Z
+updated: 2025-01-10T23:03:13.875Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476
  Whether you're a casual gamer or a competitive one, squeezing the most performance out of your device never hurts. One of the easiest ways to check if you're having a smooth gaming experience is to keep an eye out on the FPS counter.
 
  There are plenty of ways you can track the frame rate in games on a PC, but your options become sparse when it comes to gaming on your phone. Read on to find out just how you can check the frames per second in games on an Android phone or tablet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is an FPS Counter?
 
@@ -43,8 +47,9 @@ To enable the FPS counter on a OnePlus phone for example:
  This should bring up a sticky FPS counter while you're playing your game. Depending on your phone, you might even be able to peep into other details like your CPU and GPU usage as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Track the Frame Rate Using a Third Party App
 
  The method above should suffice for most gaming-centric phones from manufacturers like OnePlus, Xiaomi, ROG, and even Google. Unfortunately, not all phones come preloaded with a gaming mode.
@@ -59,43 +64,34 @@ To enable the FPS counter on a OnePlus phone for example:
 ![Granting the FPS Counter app access to screen recording and casting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fps-counter-on-android-2a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Options in FPS Counter app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fps-counter-on-android-2b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Playing a game with an FPS counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fps-counter-on-android-2c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  You can also choose to enable the 1% and 0.1% low readings for your FPS and record games using the app. In our testing, the app wasn't always successful in displaying the FPS in certain games, but it was the only other option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Squeeze the Most Performance Out of Your Phone
 
  Being able to glance over your FPS to ensure you have a smooth gaming experience is second nature to gamers. However, numbers don't mean everything and there are various other ways you can boost your phone's gaming performance without the paranoia of getting lower frame rates.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +100,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-effortlessly-replay-videos-on-iphone-for-2024/"><u>[New] Effortlessly Replay Videos on iPhone for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capture-every-moment-essential-ways-for-google-meet-recordings/"><u>[Updated] In 2024, Capture Every Moment Essential Ways for Google Meet Recordings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-guide-to-picture-text-enhancement-for-2024/"><u>[Updated] The Ultimate Guide to Picture Text Enhancement for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728504375605-windows-11-10/"><u>快速指南：無成本恢復 Windows 11 / 10 系統上移除的文件</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-the-delay-insights-into-wolcen-lords-of-mayhem-release-setback/"><u>Decoding the Delay - Insights Into Wolcen: Lords of Mayhem Release Setback</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-social-gaming-by-live-streaming-your-xbox-games/"><u>Enhance Social Gaming by Live Streaming Your Xbox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-expense-reversal-the-comprehensive-guidebook/"><u>Fortnite Expense Reversal: The Comprehensive Guidebook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-online-convertisseur-m4r-en-aac-sans-effort-movavi/"><u>Gratuit Online: Convertisseur M4R en AAC Sans Effort - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-apples-smart-tech-evolution-comprehensive-insights-into-upcoming-ai-features-for-your-devices/"><u>Introducing Apple's Smart Tech Evolution: Comprehensive Insights Into Upcoming AI Features for Your Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pro-mkv-reader-for-personal-computers-for-2024/"><u>Pro MKV Reader for Personal Computers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/todays-must-play-7-spectacenascious-mmos/"><u>Today's Must-Play: 7 Spectacenascious MMOs</u></a></li>
+<li><a href="https://games-able.techidaily.com/tuning-your-experience-minimizing-notifications-on-xbox/"><u>Tuning Your Experience: Minimizing Notifications on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmasking-mobilitys-mobile-misgivings/"><u>Unmasking Mobility's Mobile Misgivings</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fortifying the Future of Child-Safe Gaming
-date: 2024-12-30T16:00:01.714Z
-updated: 2025-01-04T16:00:28.960Z
+date: 2025-01-04T22:16:23.397Z
+updated: 2025-01-11T03:35:10.121Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d3d14caf519c1def322723a3dc59c24a3c8f8aede
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create and Add a Child Account
@@ -45,10 +45,6 @@ Here’s how to set up a child account:
 ![Add a Child sub-window on the PSN website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-on-the-psn-website.jpeg)
 6. Sony will ask you to pay $0.50 to confirm you’re an adult. You need only pay this once—even for adding subsequent kids—and Sony will credit your PlayStation wallet with the $0.50\. If you’ve never added a payment method to PSN, read our guide on[adding funds and buying games on the PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Enter an email address and password for the account.  
 ![Add a Child sub-window asking for an email address and password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-asking-for-an-email-address-and-password.jpeg)
 8. Choose**Confirm** on each page till you finish.
@@ -67,10 +63,6 @@ Follow these steps:
 ![Family Management page for a child account on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-management-page-for-a-child-account-on-the-ps5.JPG)
 2. Select**Restriction level** and choose a preset from the list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Parental Controls page with restriction level dropdown menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/parental-controls-page-with-restriction-level-dropdown-menu-on-the-ps5.JPG)
 3. **Optional** : Customize the preset by adjusting the restriction level for all the other options on the page.
 
@@ -87,6 +79,10 @@ You can set age restrictions for the following options:
 
  You’ll find the options to change the restriction levels for all of the above on that parental control page. You should adjust it based on your parenting preferences and the child’s age.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set Up Console Restrictions and User Passcodes
 
  Console restrictions are a group of features on the PS5 that allows you to control how users can create accounts on the PS5\. A smart kid can bypass your content restrictions by simply creating a new account on the PS5 to use instead of the child account you created for them. Or they could log into an adult account if you haven’t set a passcode on it.
@@ -102,8 +98,16 @@ Here’s how to set up the console restrictions passcode:
 ![Console restriction passcode on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/console-restriction-passcode-on-the-ps5.JPG)
 3. Select**Change Your Console Restriction Passcode** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![PS5 Console Restrictions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-console-restrictions-page.JPG)
 4. Enter the new password twice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the PS5 console restrictions page, apart from changing the console restrictions passcode, you have options to:
 
@@ -112,10 +116,6 @@ Here’s how to set up the console restrictions passcode:
 * Disable console restrictions (**Temporarily Disable PS5 Console Restrictions**). You can use this to turn off console restrictions temporarily in case it’s too restrictive for you as an adult user.
 
  Don’t forget your console restriction passcode. As far as we know, there’s no way to recover it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set a Checkout Password and a Monthly Spending Limit
 
@@ -132,11 +132,11 @@ Here’s how to set up the console restrictions passcode:
 ![PS5 Monthly Spending Limit dropdown menu in Parental Controls page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-monthly-spending-limit-dropdown-menu-in-parental-controls-page.JPG)
 5. Select**Confirm** after you’re finished.
 
- We’re unsure why Sony made the spending limit a dropdown preset menu. But you can’t input a custom amount as a spending limit for now.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ We’re unsure why Sony made the spending limit a dropdown preset menu. But you can’t input a custom amount as a spending limit for now.
 
 ## 5\. Enforce Playtime Limits
 
@@ -152,7 +152,7 @@ Here’s how to do it:
 3. Use**When Playtime Ends** to choose whether you want the child to be forcefully logged out or simply notified when they’ve reached their playtime limit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Set how long they can play using**Duration and Playable Hours** . Selecting**By Days of the Week** from the menu allows you to specify how many hours they can play each day of the week.  
@@ -187,18 +187,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-premium-camcorders-head-on-video-sharing/"><u>[Updated] 2024 Approved Premium Camcorders Head-On Video Sharing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-earn-while-you-entertain-the-content-creators-guide-for-2024/"><u>[Updated] Earn While You Entertain The Content Creator's Guide for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/advanced-dell-alienware-aurora-r9-gaming-laptop-assessment-a-look-at-its-cutting-edge-architecture/"><u>Advanced Dell Alienware Aurora R9 Gaming Laptop Assessment: A Look at Its Cutting-Edge Architecture</u></a></li>
-<li><a href="https://win-able.techidaily.com/alan-wake-2-stability-tips-overcome-crashes-using-latest-techniques/"><u>Alan Wake 2 Stability Tips: Overcome Crashes Using Latest Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decreasing-cpu-impact-from-ntoskrnlexe/"><u>Decreasing CPU Impact From Ntoskrnl.exe</u></a></li>
-<li><a href="https://games-able.techidaily.com/delayed-drops-not-just-a-setback/"><u>Delayed Drops - Not Just a Setback?</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-rectify-steam-problems-on-windows-11-pc/"><u>How to Rectify Steam Problems on Windows 11 PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-frontiers-in-gaming-combatting-increasing-cyberthreats/"><u>New Frontiers in Gaming: Combatting Increasing Cyberthreats</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-puzzle-of-production-piecing-together-roles-for-an-immersive-filming-experience/"><u>New The Puzzle of Production Piecing Together Roles for an Immersive Filming Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-link-av2000-speed-test-review-outstanding-performance-hindered-by-lackluster-design-choices/"><u>TP-Link AV2000 Speed Test Review: Outstanding Performance Hindered by Lackluster Design Choices</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-your-gameplay-potential-using-ryujinxs-controller-features/"><u>Unlock Your Gameplay Potential Using Ryujinx’s Controller Features</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-video-ranking-breakdown-how-it-works/"><u>YouTube Video Ranking Breakdown How It Works</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-farmers-fantasy-top-10-game-simulations-unveiled/"><u>[New] In 2024, Farmers' Fantasy Top 10 Game Simulations Unveiled</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-hourly-high-stakes-views-yts-1-to-10-rankings/"><u>[Updated] Hourly High-Stakes Views YT's #1 to #10 Rankings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fifa-video-highlights-top-youtube-data-infographics/"><u>2024 Approved FIFA Video Highlights Top YouTube Data Infographics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/converging-worlds-effortlessly-incorporate-linktree-on-tiktok/"><u>Converging Worlds Effortlessly Incorporate Linktree on TikTok</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-recommendations-for-unbeatable-waterproof-mobile-phone-safeguards/"><u>Expert Recommendations for Unbeatable Waterproof Mobile Phone Safeguards</u></a></li>
+<li><a href="https://games-able.techidaily.com/lemokeys-quality-revealed-in-keychron-gaming-board/"><u>Lemokey's Quality Revealed in Keychron Gaming Board</u></a></li>
+<li><a href="https://games-able.techidaily.com/measuring-memory-unveiling-vram-amount/"><u>Measuring Memory: Unveiling VRAM Amount</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-graphic-freeze-in-win10win11-dxgi-error-solved/"><u>Overcoming Graphic Freeze in Win10/Win11 - DXGI Error Solved</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-volume-control-discover-the-top-7-fixes-for-unresponsive-buttons/"><u>Revive Your Iphone Volume Control: Discover the Top 7 Fixes for Unresponsive Buttons!</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-steps-for-locating-your-digital-game-id/"><u>Simple Steps for Locating Your Digital Game ID</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169636723-tackle-system-hiccups-update-your-gpu-driver/"><u>Tackle System Hiccups - Update Your GPU Driver!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-duality-of-pimax-crystal-headset-sharpness-vs-stability/"><u>The Duality of Pimax Crystal Headset: Sharpness vs Stability</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo X Flip | Dr.fone</u></a></li>
 </ul></div>
 

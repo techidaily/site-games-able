@@ -1,7 +1,7 @@
 ---
 title: The Ultimate EA Play Game Guide for PS5
-date: 2024-12-29T16:02:45.446Z
-updated: 2025-01-04T16:00:52.700Z
+date: 2025-01-06T21:29:27.753Z
+updated: 2025-01-10T21:19:42.796Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. It Takes Two
 
  It Takes Two is an award-winning thrilling local cooperative platformer game by Hazelight Studios. The story follows Cody and May, a husband and wife at the cusp of a divorce, who both get transformed into dolls by a sentient relationship book called Dr. Hakim.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. FIFA 23
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  One of FIFA’s greatest appeals is its easy couch co-op system. It’s one of those games you should just have on your PS5 so you and your pals can have fun together. We placed it on this list as a good solution for multiplayer action for all soccer lovers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The Sims 4
 
  Thanks to EA Play, you can[get the Sims 4 free of charge](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) . It’s a relatively old game, released in 2014, but it remains evergreen thanks to its timeless style and all the infinite possibilities and playstyles you can have in it. The Sims 4 is one of the best life simulation games, with options that let you create a Sims dynasty and family line that can go on for as long as you have time to play.
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Need for Speed Heat
@@ -73,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  While level progression in the game might be tedious, and you would need a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Star Wars Jedi: Fallen Order
 
  Star Wars fans and non-Star Wars fans alike will enjoy playing as a displaced Jedi in Fallen Order. Its captivating story, challenging combat and level progression mechanic, rich music, and breathtaking platform-like world have earned this game many awards and nominations since its release in 2019.
@@ -86,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  This is definitely one of the more exciting adventure games on EA Play. In fact, we think this is the best single-player action-adventure game available on EA Play’s Play List for the PS5\. You should get it if you want an immersive single-player game with a challenging combat system, a well-written storyline, and a beautiful setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. UFC 3
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  UFC 3 also takes the game out of the ring, and it’s the first UFC game to introduce G.O.A.T career mode, where you make decisions for your character outside of fighting. You can gain more fans, secure juicier contracts, and even antagonize rivals through the social media app in the game.
 
  As long as you stay away from the micro-transactions (AKA Ultimate Team) part of this game, you will enjoy it if you love combat sports. This version also gets commentary from Snoop Dogg in addition to the usual Joe Rogan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## EA Play Is $5 Per Month of Unlimited Fun
 
@@ -118,22 +118,15 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-success-snap-up-your-ideal-video-size/"><u>[New] In 2024, Instagram Success Snap Up Your Ideal Video Size</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-must-see-hd-screenshots-for-mac-users-char-limit-156/"><u>[New] In 2024, Must See HD Screenshots for Mac Users (Char Limit 156)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nnovative-education-prime-15-youtube-science-outlets/"><u>[New] Innovative Education Prime 15 YouTube Science Outlets</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-next-level-experience-in-metaverse-with-top-8-accessories/"><u>[New] Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-frosty-ambiance-cozy-cinematics-best-bgs-ideas/"><u>[Updated] In 2024, Frosty Ambiance, Cozy Cinematics Best Bgs Ideas</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-becoming-a-filmora-fcc-the-pathway-explained/"><u>2024 Approved Becoming a Filmora FCC The Pathway Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/cooling-regime-customization-for-extreme-graphics-performance/"><u>Cooling Regime Customization for Extreme Graphics Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-update-to-the-newest-creative-camera-drivers-tailored-for-windows-operating-systems/"><u>Easy Update to the Newest Creative Camera Drivers: Tailored for Windows Operating Systems</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-disconnected-print-service/"><u>Fixing Disconnected Print Service</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-visual-recording-in-steam-games/"><u>Optimizing Visual Recording in Steam Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-right-move-fixing-up-or-swapping-out-a-switch/"><u>The Right Move: Fixing Up or Swapping Out a Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-to-maximum-nintendo-switch-performance/"><u>Unveiling the Secrets to Maximum Nintendo Switch Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-sets-cozy-games-apart-in-gaming/"><u>What Sets Cozy Games Apart in Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-protector-sheets-functions-and-materials/"><u>Xbox Protector Sheets: Functions & Materials</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-series-ss-unanticipated-design-choice/"><u>Xbox Series S's Unanticipated Design Choice</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/yl-softwares-expert-tips-on-converting-fiat-to-digital-assets-a-beginners-roadmap-to-buying-cryptocurrency/"><u>YL Software's Expert Tips on Converting Fiat to Digital Assets: A Beginner's Roadmap to Buying Cryptocurrency</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-ultimate-guide-to-8-greatest-gaming-resources/"><u>Your Ultimate Guide to #8 Greatest Gaming Resources</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-invaluable-list-of-prime-no-charge-sites-for-seamless-video-editing-experience/"><u>[Updated] 2024 Approved Invaluable List of Prime No-Charge Sites for Seamless Video Editing Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-approach-assessing-your-priorities-beyond-steam-points/"><u>A New Approach: Assessing Your Priorities Beyond Steam Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-peaceful-play-with-mic-free-ps5/"><u>Enjoy Peaceful Play with Mic-Free PS5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-download-and-update-dell-drivers-for-windows-10/"><u>Free Download and Update Dell Drivers for Windows 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-d500-exploration-nikons-journey-in-4k-hd/"><u>In 2024, D500 Exploration Nikon's Journey in 4K HD</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installation-guide-complimentary-logitech-webcam-software-for-windows-operating-system/"><u>Installation Guide: Complimentary Logitech Webcam Software for Windows Operating System</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-librarian-skills-fixing-eg-libraries-problems/"><u>Maximizing Your Librarian Skills: Fixing EG Libraries Problems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-fixing-joy-con-misalignments/"><u>Strategies for Fixing Joy-Con Misalignments</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-selection-of-premium-led-strip-solutions-for-2hren-2024-reviewed-and-ranked/"><u>Ultimate Selection of Premium LED Strip Solutions for 2Hren - 2024 Reviewed and Ranked!</u></a></li>
 </ul></div>
 

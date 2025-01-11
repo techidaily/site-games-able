@@ -1,7 +1,7 @@
 ---
 title: Why Handheld Gaming Has Its Hurdles
-date: 2024-12-22T20:36:48.936Z
-updated: 2024-12-25T18:24:19.964Z
+date: 2025-01-05T09:22:15.174Z
+updated: 2025-01-11T10:13:24.381Z
 tags:
   - games
 categories:
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![A screenshot of Google Play Store home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Google-play-store-home-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  People just don't like to pay for mobile games, and the rare ones that actually do, pay mostly via in-app purchases and microtransactions. So, it forces game developers to either conform to that model or stick with console gaming.
 
  Now, we're not saying the freemium model isn't profitable. In fact, according to[Business Insider](https://www.businessinsider.in/tech/news/pubg-mobile-was-the-top-grossing-game-globally-in-november-2021/articleshow/88201430.cms) , PUBG Mobile earned nearly $254 million in player spending in November 2021 alone.
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  A further[Statista report](https://www.statista.com/statistics/780229/number-of-available-gaming-apps-in-the-google-play-store-quarter/) states that between 11-13.5% of these apps are games, with the Google Play Store alone carrying 477,877 active game titles in December 2021.
 
 ![App Store closeup on iPhone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/App-Store-closeup-on-iPhone-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This means if you're a game developer—especially a new one—the chances of your game succeeding are very low. Forget standing out from the sea of apps. It's a miracle if you even get discovered. And app stores do little to help new developers get seen.
 
@@ -67,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![person sitting at desk wearing headphones playing online games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/person_online_gaming.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Mobile gaming is seen as an expendable source of entertainment—something that you can trade away easily for something else. So naturally, users don't bother complaining when a mobile game is bad. In other words, there is no real feedback mechanism.
 
  Most people simply uninstall an app if they don't like it and install another one, hoping it won't be as much of a disappointment. This is not the case with PC or console gaming.
@@ -84,12 +72,16 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unless you buy a dedicated gaming phone with shoulder buttons (such as the[Black Shark 4 we reviewed](https://www.makeuseof.com/black-shark-4-review/) ), regular smartphones simply can't compete with the likes of a console controller. All the controls of a mobile game have to be crammed inside the very limited screen estate of the device.
 
  Given this limitation, those controls often end up being either painfully small or so big that they interrupt gameplay—leading to a poor gaming experience. To counter this, devs have to spend additional resources coming up with new ways to make the controls feel seamless.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Lack of Storage to Dedicate to Games
 
@@ -101,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![how to use share play on ps5 playstation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/how-to-use-share-play-on-ps5-playstation-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Unlike standardized consoles such as PlayStation and Xbox, smartphones come in all shapes, sizes, and configurations. This is true even more so for Android phones than iPhones.
 
  Since there are fewer variants of iPhones in the world, they are more standardized and easier to develop apps for. That's why developers often release apps and updates on iOS first.
@@ -110,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  So, this leaves them with only two options; either create poor games that everyone can download or create good games that only a few can download. It seems the former gets the upper hand in boardroom meetings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Frequent In-Game Ads
@@ -122,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  However, as a gamer, it really sucks to have to watch an ad every single time after completing a race, finishing a match, or opening a loot box. On top of that, these ads can sometimes be irrelevant and inappropriate, and there's no way to tweak them either.
 
  Granted, watching in-game ads is a good way to[support mobile game developers without buying in-game items](https://www.makeuseof.com/support-game-developers-without-microtransactions/) , but their frequency matters a lot especially if you're planning to play that game for a long time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mobile Gaming Could Be So Much More
 
@@ -144,17 +144,21 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-explore-sony-vegas-for-high-impact-video-editing-on-youtube/"><u>[New] 2024 Approved Explore Sony Vegas for High-Impact Video Editing on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-green-screen-recording-tools/"><u>2024 Approved Best Green Screen Recording Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/echobox-portable-8-bit-flair-on-a-sleeve/"><u>EchoBox Portable: 8-Bit Flair on a Sleeve</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-usb-connectivity-issues-in-windows-10-and-11-systems/"><u>How to Repair Unresponsive USB Connectivity Issues in Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-poco-x5-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Poco X5 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movitowavmovavi/"><u>MoviToWavの無料オンラインツール：モビックスファイルをウェブから容易に波形へ！Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/my-journey-with-diy-gun-production-via-3d-printer-debunking-the-hype/"><u>My Journey with DIY Gun Production via 3D Printer: Debunking the Hype</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-technique-for-enabling-ps5-password-lock/"><u>The Essential Technique for Enabling PS5 Password Lock</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-streamers-pathway-embracing-twitch-app-mobile/"><u>The Streamer's Pathway - Embracing Twitch App (Mobile)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-gamers-guide-to-choosing-their-perfect-keyboard/"><u>The Ultimate Gamer's Guide to Choosing Their Perfect Keyboard</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-order-to-enjoy-the-matrix-movies-a-step-by-step-guide/"><u>The Ultimate Order to Enjoy The Matrix Movies – A Step-by-Step Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/videographys-bright-side-5-must-have-apps-for-2024/"><u>Videography's Bright Side 5 Must-Have Apps for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-blue-enigma-whats-behind-the-symbol-on-facebook-messenger/"><u>[New] 2024 Approved The Blue Enigma What's Behind the Symbol on Facebook Messenger?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/deep-into-the-past-with-these-top-10-student-friendly-yt-channels-for-2024/"><u>Dive Deep Into the Past with These Top 10 Student-Friendly YT Channels for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-portable-gameplay-steam-deck-and-your-computer/"><u>Enhancing Portable Gameplay: Steam Deck and Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-gaming-trends-why-not-fall-for-ray-tracing/"><u>Evaluating Gaming Trends: Why Not Fall for Ray Tracing?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-restore-deleted-data-from-a-wiped-hard-drive-expert-tips-by-yl-computing/"><u>How to Restore Deleted Data From a Wiped Hard Drive: Expert Tips by YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-tutorial-creating-3d-text-illusions/"><u>In 2024, Photoshop Tutorial Creating 3D Text Illusions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-toms-hardware-wisdom/"><u>Mastering Technology with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-portable-workstations-asus-rog-ally-24/"><u>Mastering the Art of Portable Workstations: ASUS ROG Ally '24</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-beyond-powerdirector-the-best-mobile-video-editing-apps-of/"><u>New 2024 Approved Beyond PowerDirector The Best Mobile Video Editing Apps Of</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-accessory-collection-to-supercharge-your-steam-deck/"><u>The Complete Accessory Collection to Supercharge Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-real-story-how-6-myths-impact-perceptions-of-mac-gaming/"><u>The Real Story: How 6 Myths Impact Perceptions of Mac Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-gamers-secrets-mastering-steam-games/"><u>Top 10 Gamers' Secrets: Mastering Steam Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-5-intriguing-laptop-picks-with-copilot-ai-features-unveiled-at-ifa-2024-catering-to-gamers-too/"><u>Top 5 Intriguing Laptop Picks with Copilot AI Features Unveiled at IFA 2024, Catering to Gamers Too!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transition-of-a-giant-tracing-the-journey-from-netflixs-physical-dvd-service/"><u>Transition of a Giant: Tracing the Journey From Netflix's Physical DVD Service</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-error-messages-on-your-scanner-with-advice-from-yl-software-specialists/"><u>Troubleshooting Error Messages on Your Scanner with Advice From YL Software Specialists</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-full-range-of-steams-player-rewards/"><u>Unlock the Full Range of Steam's Player Rewards</u></a></li>
 </ul></div>
 

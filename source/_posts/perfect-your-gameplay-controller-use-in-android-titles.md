@@ -1,7 +1,7 @@
 ---
 title: "Perfect Your Gameplay: Controller Use in Android Titles"
-date: 2024-12-21T23:51:50.194Z
-updated: 2024-12-26T00:35:36.342Z
+date: 2025-01-09T05:34:05.295Z
+updated: 2025-01-10T19:18:06.362Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is Button Mapping?](#what-is-button-mapping)
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157f
  Plenty of gamepads can turn your smartphone into a portable handheld, but only a minority of Android games actually support physical controls. Fortunately, you can solve this problem by mapping buttons to different parts of the screen using apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Button Mapping?
@@ -51,15 +47,19 @@ thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157f
 
 ![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
 
 ![Mantis button mapping app prompting you to enable overlay settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-allow-overlay-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Mantis uses an pop-up window to help you enter a pairing code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-overlay-settings-pair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -91,14 +91,10 @@ Close
 
 ![Mantis needs you to manually add games before applying button mapping.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-add-game.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Adding support for a game within Mantis Pro.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-pro-add-games.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Mantis Gamepad Pro with three games added.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-three-games-added.png)
@@ -108,6 +104,10 @@ Close
  When the game opens, you will see a Mantis widget hovering on one side of the screen. Tap this widget to bring up the controller options.
 
 ![Tap the floating Mantis button to begin mapping buttons.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-floating-button.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can select each of the inputs on your controller, such as the analog sticks, face buttons, and triggers. You then drag where on the screen you want the button press to correspond to. Mantis Gamepad Pro also includes support for gestures, so you can make pressing a button the equivalent of swiping rather than tapping.
 
@@ -132,18 +132,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-secrets-of-the-pros-screening-your-switch-games/"><u>[New] In 2024, Secrets of the Pros Screening Your Switch Games</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-seamless-multiplayer-sessions-with-xbox-zoom-support/"><u>[New] Seamless Multiplayer Sessions with Xbox Zoom Support</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-future-file-fortresses-top-five-innovations-in-cloud-storage/"><u>[Updated] Future File Fortresses Top Five Innovations in Cloud Storage</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/converte-gratuitamente-dvd-a-mp4-sia-per-sistemi-windows-che-mac-semplice-come-sempre-con-il-programma-winxdvd/"><u>Converte Gratuitamente DVD a MP4 Sia per Sistemi Windows Che Mac, Semplice Come Sempre Con Il Programma WinXDVD</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-play-linking-xbox-game-pass-with-steam-and-glossi/"><u>Effortless Play: Linking Xbox Game Pass with Steam & GlosSI</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/elevate-your-gameplay-tackling-frame-rate-drops-in-resident-evil-village-on-computer-systems/"><u>Elevate Your Gameplay - Tackling Frame Rate Drops in Resident Evil Village on Computer Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-gaming-experience-mastering-steams-space/"><u>Enhancing Gaming Experience: Mastering Steam's Space</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-passs-unmatched-value-except-for-the-issue/"><u>Google Play Pass's Unmatched Value Except for the Issue</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 13 Pro without Password?</u></a></li>
-<li><a href="https://games-able.techidaily.com/installation-simplified-setting-up-launchers-on-steam-devices/"><u>Installation Simplified: Setting Up Launchers on Steam Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-iphone-cinematography-top-8-tips-for-professional-video-shooting-for-2024/"><u>Master iPhone Cinematography Top 8 Tips for Professional Video Shooting for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-gopro-video-post-production-on-mac-a-beginners-handbook/"><u>New In 2024, GoPro Video Post-Production on Mac A Beginners Handbook</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-video-editing-apps-like-powerdirector-for-mobile-devices-for-2024/"><u>Top Video Editing Apps Like PowerDirector for Mobile Devices for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-shortcut-to-achieving-unique-vocal-flair-in-pubg/"><u>[Updated] The Ultimate Shortcut to Achieving Unique Vocal Flair in PUBG</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-noise-the-case-against-ps5s-microphone/"><u>Avoiding Noise: The Case Against PS5's Microphone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/backdrop-bassline-tunes-to-enhance-media-for-2024/"><u>Backdrop Bassline Tunes to Enhance Media for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-ultimate-driving-experience-with-roccats-mouse-driver/"><u>Download the Ultimate Driving Experience with Roccat's Mouse Driver</u></a></li>
+<li><a href="https://games-able.techidaily.com/enter-a-new-era-of-portable-computing-with-pdw4/"><u>Enter a New Era of Portable Computing with PDW4</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-list-elite-8-sites-for-gamers-and-critics/"><u>Exclusive List: Elite 8 Sites for Gamers and Critics</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-audio-enhancement-the-role-of-specialized-headsets/"><u>Game Audio Enhancement: The Role of Specialized Headsets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-internet-connection-speed-update-windows-driver-for-fast-usb-30-ethernet-adapter/"><u>Improve Internet Connection Speed - Update Windows Driver for Fast USB 3.0 Ethernet Adapter</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-note-13-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi Note 13 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/iphone-7-perfect-methods-for-screen-recording/"><u>IPhone 7 Perfect Methods for Screen Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/methodes-faciles-pour-convertir-les-fichiers-mts-en-mp4-gratuits-en-ligne-via-movavi-le-meilleur-choix/"><u>Méthodes Faciles Pour Convertir Les Fichiers MTS en MP4 Gratuits en Ligne via Movavi - Le Meilleur Choix !</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-best-mouse-traits-with-our-top-5-selection/"><u>Navigating the Best Mouse Traits with Our Top 5 Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-ios-gamers-selection-the-four-top-apps/"><u>Ultimate iOS Gamers' Selection: The Four Top Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/virtual-frontiers-current-trends-in-vr-tech/"><u>Virtual Frontiers Current Trends in VR Tech</u></a></li>
 </ul></div>
 

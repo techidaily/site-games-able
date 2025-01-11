@@ -1,7 +1,7 @@
 ---
 title: "From Sign-Up to Subscription: Optimizing Every Gaming Moment in EA Play PS5"
-date: 2024-12-31T16:02:13.962Z
-updated: 2025-01-04T16:01:45.183Z
+date: 2025-01-09T00:57:34.873Z
+updated: 2025-01-10T21:37:37.236Z
 tags:
   - games
 categories:
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
  By the way, EA Play is one of the[ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Subscribe to EA Play on the PS5
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 4. Select**$4.99** and choose**Order & Pay** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
@@ -64,18 +64,18 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 
-![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
@@ -84,11 +84,11 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## EA Play Saves You Money
 
@@ -111,18 +111,24 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-identifying-the-best-on-the-market-for-hdr-photography/"><u>[New] 2024 Approved Identifying the Best on the Market for HDR Photography</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-ultimate-memory-upgrade-for-sony-a7c-for-2024/"><u>[New] Ultimate Memory Upgrade for Sony A7C for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-for-the-tech-sleuth-dissecting-the-best-top-10-fb-videos-downloaders-for-2024/"><u>[Updated] For the Tech Sleuth Dissecting the Best Top 10 FB Videos Downloaders for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-understanding-syma-x8c-sensor-technology/"><u>[Updated] Understanding Syma X8C Sensor Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/friends-at-the-fork-discovering-shared-gaming-paths-in-mc/"><u>Friends at the Fork: Discovering Shared Gaming Paths in MC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-ultimate-campaigns-selecting-the-best-7-total-war-victories/"><u>In 2024, Ultimate Campaigns Selecting the Best 7 Total War Victories</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-guide-transferring-files-between-directories-on-windows-os-yl-computing/"><u>Step-by-Step Guide: Transferring Files Between Directories on Windows OS - YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-the-etymology-of-foddian/"><u>Understanding the Etymology of Foddian</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-endless-entertainment-with-top-10-no-ads-games/"><u>Unleash Endless Entertainment with Top 10 No Ads Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-potential-of-vintage-games-with-raspberry-pi/"><u>Unlock the Potential of Vintage Games with Raspberry Pi</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unraveling-the-thrills-of-space-warfare-in-star-wars-squadrons-our-comprehensive-review/"><u>Unraveling the Thrills of Space Warfare in Star Wars: Squadrons – Our Comprehensive Review</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/your-youtube-shorts-have-been-restored-for-2024/"><u>Your YouTube Shorts Have Been Restored for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/win111087/"><u>バックアップと復元:インストールされているアプリを保護する手順（Win11/10/8/7向けガイド）</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-engaging-viewers-best-practices-and-pitfalls-in-dayly-blogging/"><u>[Updated] In 2024, Engaging Viewers Best Practices & Pitfalls in Dayly Blogging</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-picks-in-affordable-home-cinema-setups-with-4k/"><u>[Updated] Top Picks in Affordable Home Cinema Setups with 4K</u></a></li>
+<li><a href="https://games-able.techidaily.com/495plus-high-framerate-display-by-innocn/"><u>$495+ High Framerate Display by InnoCN</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alteremailonprotonbrowser-a-step-by-step-guide/"><u>AlterEmailOnProtonBrowser: A Step-By-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-creativity-with-these-7-linux-terminal-games/"><u>Boost Creativity with These 7 Linux Terminal Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cutting-edge-performance-in-your-palm-sonys-4k-smartphone/"><u>Cutting Edge Performance in Your Palm Sony's 4K Smartphone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/discovering-win11s-finest-screen-grabbers-for-2024/"><u>Discovering Win11's Finest Screen Grabbers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-steam-big-picture-features/"><u>Exploring the Steam Big Picture Features</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-verizon-nfl-sunday-pass-top-secrets-revealed/"><u>Free Verizon NFL Sunday Pass: Top Secrets Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-hrtf-affect-your-valorant-play/"><u>How Does HRTF Affect Your Valorant Play?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-amazon-prime-video-playback-problems-easily/"><u>How to Resolve Amazon Prime Video Playback Problems Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-firewall-display-settings-on-windows-os/"><u>Mastering Firewall Display Settings on Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/mod007b-gaming-keyboard-akkos-high-performance-review/"><u>Mod007B Gaming Keyboard - Akko's High-Performance Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/primes-pathway-to-premium-twitch-viewing/"><u>Prime's Pathway to Premium Twitch Viewing</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-tech-for-gamers-achieve-new-heights/"><u>Quality Tech for Gamers: Achieve New Heights</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/reversed-trash-can-mistake-restoring-deleted-files-from-recycle-bin/"><u>Reversed Trash Can Mistake - Restoring Deleted Files From Recycle Bin</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-gaming-for-sustained-performance/"><u>Strategic Gaming for Sustained Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/stylus-symphony-tablet-takes-over-mice/"><u>Stylus Symphony: Tablet Takes Over Mice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgraded-performance-and-sturdiness-discover-cooler-masters-reinforced-psu-with-innovative-1nvhpwr-connectors-for-superior-gaming-rigs/"><u>Upgraded Performance & Sturdiness: Discover Cooler Master's Reinforced PSU with Innovative 1nVHPWR Connectors for Superior Gaming Rigs</u></a></li>
 </ul></div>
 

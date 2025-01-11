@@ -1,7 +1,7 @@
 ---
 title: Why GameFi Can't Break Through to Core Gamer Circles
-date: 2025-01-02T16:02:17.128Z
-updated: 2025-01-04T16:00:15.622Z
+date: 2025-01-08T00:36:08.076Z
+updated: 2025-01-11T02:19:14.139Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * GameFi's potential among gamers is limited due to token instability, as crypto assets are known for their price fluctuations. This means that users could potentially lose a significant amount of value earned through gameplay.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  So, what are the problems with GameFi, and why will they seal its fate?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GameFi?
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
@@ -44,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  While GameFi may seem innovative, many downsides affect players and investors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Token Instability
 
  If there's one thing we can all agree on about crypto, it's that assets are almost always unstable in price. From new, smaller tokens to market leaders like Bitcoin, price fluctuations have been a problem from the beginning.
@@ -53,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they[sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
 
  GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scams
 
@@ -78,19 +86,11 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  People invested in CryptoZoo but lost thousands when it was revealed that Paul and his development team had effectively (allegedly) rug-pulled investors. Investors are yet to be refunded, and a lawsuit has been filed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. High Transaction Fees
 
  You'll almost always incur a fee when you conduct a crypto transaction. Some cryptos have low fees, whereas others can reach unreasonable levels. Transaction fees usually increase or decrease with a blockchain network's transaction demand. Other factors, such as the size of the transaction, also play a role here.
 
  Higher transaction fees can put people off getting into GameFi, as a large chunk of their earnings will be stripped away through these mandatory charges. It's a loss and isn't something that attracts gamers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Prioritizing Money Over the Game
 
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  This isn't anyone's fault, but the developer can dodge any liability when gamers ask for compensation. If the game has made any financial promises, the developers may also be able to keep their hands clean if these promises fall through.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will GameFi Last?
@@ -124,13 +124,13 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 ![screenshot of coinmarketcap illuvium seven day price graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/illuvium-price-graph.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Between August 14 and 22, the price of one ILV token went from $53 to $42, a drop of almost 21% in just over a week. This drop doesn't seem to be the result of any major scandal or market crash. Rather, it seems to be a product of a lack of interest.
 
  It's been a while since Illuvium's developers have given gamers anything new, with many getting bored with waiting. While top-tier games without the P2E structure focus heavily on user satisfaction and experience, P2E developers often have more of a focus on increasing the in-game token value.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GameFi's Future Is Precarious
 
@@ -151,24 +151,18 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-crafting-a-tiktok-twosome-film-for-2024/"><u>[New] Crafting a TikTok Twosome Film for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[Updated] From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-tailored-thumbnail-for-twitter-clips-for-2024/"><u>[Updated] Tailored Thumbnail for Twitter Clips for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-10-naming-algorithms-for-podcast-mastery/"><u>[Updated] Top 10 Naming Algorithms for Podcast Mastery</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-gpu-use-for-immediate-replay-access/"><u>Cutting-Edge GPU Use for Immediate Replay Access</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-unique-features-of-steam-and-gog/"><u>Exploring the Unique Features of Steam & GOG</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmony-and-input-which-for-games/"><u>Harmony and Input: Which for Games?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone 12 mini</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-edge-40-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola Edge 40 Pro Is Unlocked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-tempo-a-guide-to-instagram-story-adjustments/"><u>In 2024, Mastering Tempo A Guide to Instagram Story Adjustments</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steam-deck-sd-card-insertion/"><u>Mastering Steam Deck SD Card Insertion</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-privacy-policy-a-critical-examination-of-changes/"><u>Meta's Privacy Policy: A Critical Examination of Changes</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-console-duel-sonys-ps5-against-microsofts-xbox-sx/"><u>Next Gen Console Duel: Sony’s PS5 Against Microsoft’s Xbox SX</u></a></li>
-<li><a href="https://games-able.techidaily.com/rediscover-the-fun-playing-old-school-xbox-on-a-modern-computer/"><u>Rediscover the Fun: Playing Old-School Xbox on a Modern Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-game-changing-strategy-for-enhanced-ai-titles/"><u>Steam’s Game-Changing Strategy for Enhanced AI Titles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-efficiently-changing-vob-format-to-mp4-on-pcs-with-windows-11-or-mac-systems/"><u>Step-by-Step Instructions for Efficiently Changing VOB Format to MP4 on PCs with Windows 11 or Mac Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-top-5-twitch-download-apps/"><u>The Ultimate List of Top 5 Twitch Download Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/who-holds-sway-in-emulator-battle-on-raspberry-pi-batocera-or-retropie/"><u>Who Holds Sway in Emulator Battle on Raspberry Pi: Batocera or RetroPie?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-spark-your-creativity-with-these-free-tools-for-2024/"><u>[New] Spark Your Creativity with These Free Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-most-reliable-and-affordable-passport-photo-makers-ranked/"><u>[New] The Most Reliable and Affordable Passport Photo Makers Ranked</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unveiling-best-free-3d-vids-experience-on-pcmac-systems-for-2024/"><u>[New] Unveiling Best Free 3D Vids Experience on PC/Mac Systems for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevating-your-vlog-through-proper-lighting-for-2024/"><u>[Updated] Elevating Your Vlog Through Proper Lighting for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-guide-to-personalizing-games-using-the-workshop/"><u>A Comprehensive Guide to Personalizing Games Using The Workshop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypassing-the-blues-effective-fixes-for-ntdlldll-complications-on-your-windows-system-windows-7-8-and-10/"><u>Bypassing the Blues: Effective Fixes for ntdll.dll Complications on Your Windows System (Windows 7, 8 & 10)</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-performance-metrics-polling-ratio-insights/"><u>Evaluating Performance Metrics: Polling Ratio Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-leaderboard-best-following-drone-technology/"><u>In 2024, Leaderboard Best-Following Drone Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-tips-to-fix-disconnected-joy-cons-on-your-switch-console/"><u>Quick Tips to Fix Disconnected Joy-Cons on Your Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-storage-of-virtual-games/"><u>Stealthy Storage of Virtual Games</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-oneplus-nord-n30-se-by-drfone-android/"><u>Universal Unlock Pattern for OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-you-need-to-know-about-the-new-ps5-slim-model/"><u>What You Need to Know About the New PS5 Slim Model</u></a></li>
 </ul></div>
 

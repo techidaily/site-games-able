@@ -1,7 +1,7 @@
 ---
 title: Five Steps to a Kid-Safe PS5 Experience
-date: 2024-08-22T22:22:45.246Z
-updated: 2024-08-23T22:22:45.246Z
+date: 2025-01-05T17:29:24.768Z
+updated: 2025-01-10T18:46:59.012Z
 tags:
   - games
 categories:
@@ -34,6 +34,11 @@ Here’s how to set up a child account:
 5. Enter the child’s birthday.  
 ![Add a Child sub-window on the PSN website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-on-the-psn-website.jpeg)
 6. Sony will ask you to pay $0.50 to confirm you’re an adult. You need only pay this once—even for adding subsequent kids—and Sony will credit your PlayStation wallet with the $0.50\. If you’ve never added a payment method to PSN, read our guide on[adding funds and buying games on the PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Enter an email address and password for the account.  
 ![Add a Child sub-window asking for an email address and password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-asking-for-an-email-address-and-password.jpeg)
 8. Choose**Confirm** on each page till you finish.
@@ -53,6 +58,11 @@ Follow these steps:
 2. Select**Restriction level** and choose a preset from the list.  
 ![Parental Controls page with restriction level dropdown menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/parental-controls-page-with-restriction-level-dropdown-menu-on-the-ps5.JPG)
 3. **Optional** : Customize the preset by adjusting the restriction level for all the other options on the page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose**Confirm** when you’re finished.
 
 You can set age restrictions for the following options:
@@ -67,8 +77,9 @@ You can set age restrictions for the following options:
  You’ll find the options to change the restriction levels for all of the above on that parental control page. You should adjust it based on your parenting preferences and the child’s age.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Set Up Console Restrictions and User Passcodes
 
  Console restrictions are a group of features on the PS5 that allows you to control how users can create accounts on the PS5\. A smart kid can bypass your content restrictions by simply creating a new account on the PS5 to use instead of the child account you created for them. Or they could log into an adult account if you haven’t set a passcode on it.
@@ -80,19 +91,10 @@ Here’s how to set up the console restrictions passcode:
 1. Go to **Settings > Family and Parental Controls > PS5 Console Restrictions** .  
 ![Family and Parental Controls page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-and-parental-controls-page-on-the-ps5.JPG)
 2. Enter the default passcode:**0000** .  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Console restriction passcode on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/console-restriction-passcode-on-the-ps5.JPG)
 3. Select**Change Your Console Restriction Passcode** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![PS5 Console Restrictions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-console-restrictions-page.JPG)
 4. Enter the new password twice.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  On the PS5 console restrictions page, apart from changing the console restrictions passcode, you have options to:
 
@@ -103,8 +105,9 @@ Here’s how to set up the console restrictions passcode:
  Don’t forget your console restriction passcode. As far as we know, there’s no way to recover it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Set a Checkout Password and a Monthly Spending Limit
 
  There are internet horror stories of kids spending hundreds to thousands of dollars buying applications and video games with their parents’ cards. Avoid that by setting up spending limits and a checkout password.
@@ -137,13 +140,19 @@ Here’s how to do it:
 4. Set how long they can play using**Duration and Playable Hours** . Selecting**By Days of the Week** from the menu allows you to specify how many hours they can play each day of the week.  
 ![Duration and Playable Hours dropdown meny in the PS5 Playtime Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duration-and-playable-hours-dropdown-meny-in-the-ps5-playtime-settings.JPG)
 5. Select**Every Day** or the days of the week and choose your hours in**Playtime duration** . Inside here, you can also set a**Start time** and**End time** to customize when they can play video games, and you can choose their bedtime as**End time** so they don’t play at night when they should be sleeping.  
-![Playtime Duration dialogue window on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-duration-dialogue-window-on-the-ps5.JPG)
-6. Choose**Save** on the right-hand side of the page when you’re done.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![Playtime Duration dialogue window on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-duration-dialogue-window-on-the-ps5.JPG)
+6. Choose**Save** on the right-hand side of the page when you’re done.
+
  Older children may not appreciate this setting much, so it’s probably a better idea to discuss their playtime rather than outright blocking them from using the console.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The PS5 Offers Extensive Safety Provisions for Children
 
@@ -153,14 +162,11 @@ Here’s how to do it:
 
  But you must remain vigilant, as some kids might still find ways to bypass your restrictions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +175,20 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-prime-sites-to-explore-glossy-golden-typography-designs/"><u>[New] 2024 Approved Prime Sites to Explore Glossy, Golden Typography Designs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-practices-for-procuring-customized-text-files-for-2024/"><u>[New] Best Practices for Procuring Customized Text Files for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-first-film-experience-selecting-best-gopro-gear/"><u>[New] First Film Experience Selecting Best GoPro Gear</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-chortlecraft-funny-visuals-for-social-engagement/"><u>[Updated] ChortleCraft Funny Visuals for Social Engagement</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/diversify-your-ps5-startup-with-these-six-tactics/"><u>Diversify Your PS5 Startup with These Six Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/diy-xbox-360-slim-dismantling-for-enthusiasts/"><u>DIY Xbox 360 Slim Dismantling for Enthusiasts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-zero-5g-2023-turbo-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Zero 5G 2023 Turbo to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-efficient-remote-recording-a-step-by-step-guide/"><u>In 2024, Efficient Remote Recording A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-x9b-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor X9b Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-words-into-worlds-the-essential-guide-to-using-chatgpt-in-rpgs/"><u>Transforming Words Into Worlds: The Essential Guide to Using ChatGPT in RPGs</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-shell-protectors/"><u>Understanding Xbox Shell Protectors</u></a></li>
+<li><a href="https://games-able.techidaily.com/unravel-the-mysteries-of-strands-a-compreranary-guide-for-nyt-players/"><u>Unravel the Mysteries of 'Strands': A Compreranary Guide for NYT Players</u></a></li>
+</ul></div>
 

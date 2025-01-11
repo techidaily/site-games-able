@@ -1,7 +1,7 @@
 ---
 title: "Gaming Grief: 5 Most Agonizing Adventures"
-date: 2024-08-22T22:21:59.931Z
-updated: 2024-08-23T22:21:59.931Z
+date: 2025-01-06T23:46:34.763Z
+updated: 2025-01-11T07:27:37.308Z
 tags:
   - games
 categories:
@@ -40,6 +40,10 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Getting Over It
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
@@ -57,15 +61,13 @@ Let’s explore some of the names leading the scene.
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
  You can move the caveman around as a player and jump on the pogo stick. The pogo stick has an interesting recovery mechanic that launches the caveman higher when they fall from a greater height. One can also rotate the caveman and launch them at an angle for a greater jump distance.
@@ -74,12 +76,13 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
@@ -91,17 +94,14 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Bread & Fred on[Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and[Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 5\. Only Up
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
  Only Up! was developed in Unreal Engine 5, one of the most powerful 3D graphics engines on the market, and it shows in the game quality. Many of the game’s assets come from the Unreal Marketplace, but the developer found a way to organize the chaos. The result is a unique climbing experience as you traverse from one cultural biome to another.
@@ -113,22 +113,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## It’s About the Journey
 
  Foddian games are all, at their core, a passion project. The growth of this genre’s fanbase shows how much the creator’s passion has reached players around the world.
 
  And hopefully, after checking out some of the Foddian games on this list, you’ll be one of those players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +135,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-revolutionizing-home-broadcasts-with-advanced-webcams/"><u>[New] 2024 Approved Revolutionizing Home Broadcasts with Advanced WebCams</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rom-dreamer-to-doer-sign-up-for-a-youtube-channel-for-2024/"><u>[New] From Dreamer To Doer Sign Up for a YouTube Channel for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-next-gen-fb-converter-transform-vids-to-premium-mp4/"><u>[New] In 2024, Next-Gen FB Converter Transform Vids to Premium MP4</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-igniting-engagement-winning-business-strategies-with-tiktok/"><u>[Updated] 2024 Approved Igniting Engagement Winning Business Strategies with TikTok</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-collaborative-spaces-via-facebook-networks/"><u>Creating Collaborative Spaces via Facebook Networks</u></a></li>
+<li><a href="https://facebook.techidaily.com/embarking-into-new-dimensions-understanding-and-importance-of-facebooks-metaverse/"><u>Embarking Into New Dimensions: Understanding and Importance of Facebook's Metaverse</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-the-0x80070643-glitch-during-windows-updates-or-installs/"><u>Expert Tips for Overcoming the '0X80070643' Glitch During Windows Updates or Installs</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-multiplatform-gaming-between-ps5-and-ps4/"><u>Exploring Multiplatform Gaming Between PS5 & PS4?</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-gamepad-to-tablet-bluetooth-bridge-explained/"><u>From Gamepad to Tablet: Bluetooth Bridge Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-the-best-new-gaming-hardware-we-want-to-try/"><u>IFA 2023: The Best New Gaming Hardware We Want to Try</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-insiders-secrets-of-screencastify-recording/"><u>In 2024, The Insider’s Secrets of Screencastify Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-gamer-posture/"><u>Innovative Gamer Posture</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-original-founders-design-more-suitable-for-you/"><u>Is the Original Founders Design More Suitable for You?</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-thrilling-story-sharing-duos-text-edition/"><u>Six Thrilling Story-Sharing Duos: Text Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-launch-issues-for-your-display-driver-a-guide-to-windows-11/"><u>Tackling Launch Issues for Your Display Driver: A Guide to Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-transforming-iphone-into-game-machine/"><u>The Ultimate Guide to Transforming iPhone Into Game Machine</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-free-software-for-viewing-and-editing-avchd-mts-videos-on-windows-and-mac/"><u>Top Free Software for Viewing & Editing AVCHD MTS Videos on Windows and Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-co-op-couch-gaming-top-16-seated-experiences/"><u>Unbeatable Co-Op Couch Gaming: Top 16 Seated Experiences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-creative-potential-with-filmora-answers-for-2024/"><u>Unlocking Creative Potential with Filmora Answers for 2024</u></a></li>
+</ul></div>
 

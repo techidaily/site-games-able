@@ -1,7 +1,7 @@
 ---
 title: "Not By Numbers Alone: A Critical Look at Gaming Ratings"
-date: 2024-08-22T22:26:19.725Z
-updated: 2024-08-23T22:26:19.725Z
+date: 2025-01-06T18:26:21.888Z
+updated: 2025-01-11T06:37:22.733Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
  But should you always trust game reviews? Even when they come from major names like IGN or Games Radar? No, not really. And we’ve detailed why you should use your own judgment before swallowing a game review hook, line, and sinker.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Reviewers Can Approach the Review With Bias
 
  Bias is human, and reviewers are human. While most good reviewers try their best to make sure their personal preferences don’t show when making reviews, it’s something not even the best reviewers can help.
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
  Take Hogwarts Legacy, for instance; IGN gave it a 9/10, PC Gamer gave it an 83/100, and Wired gave it 1/10, essentially saying the game isn’t even worth picking up due to anti-Semitic tropes, bad graphics, and flat storytelling. But how can a game acclaimed by other strong reviewers be virtually unplayable to another?
 
 ![Hogwarts Legacy ratings on IGN, Wired, and PC Gamer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hogwarts-legacy-ratings-on-ign-wired-and-pc-gamer.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The bottom line is that opinions, political stances, and backgrounds matter a lot when it comes to something as subjective as reviews. Do not completely trust any review you read.
 
@@ -36,16 +44,14 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
  The result of such actions is that unassuming potential buyers could get dissuaded from buying a game purely because of a group’s spite. You can avoid falling into that trap if you are skeptical about game reviews.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 3\. Early Impressions Can Be Misleading
 
 ![A screenshot taken from CD Projekt Red of the key art for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cyberpunk-2077-key-art.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit:[CD Projekt Red](https://www.cdprojektred.com/en/our-games)
 
  Most major game reviewing platforms like to give game reviews as early as possible to set the trend for the game’s reception. However, the problem here is that time can really change the way a game is perceived.
@@ -56,16 +62,10 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
  Besides developers literally improving games with updates, some games age quite nicely. And thanks to[community-created mods](https://www.makeuseof.com/mods-video-games/) , you can improve some games the way you like.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Game Studios Sometimes Encourage False Reviews
 
 ![A person holding out a handful of US dollar bills](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/person-holding-money.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  While it’s generally frowned upon as bad marketing practice, some studios pay reviewers to give them positive reviews. The issue with doing this is that it could be difficult to tell when a reviewer is genuine, or they have taken some money under the table.
 
  We can’t name names for obvious reasons, but you should be extra careful when basing your gaming decision on reviews. Stick to watching or reading reviewers you know have a history of stoic integrity.
@@ -73,15 +73,17 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
  In some cases, you might gain more from a criticism made by a not-so-popular reviewer. They are less likely to be approached by big studios, and they will mostly be speaking based on personal interest and nothing as sinister as deceptive capitalism.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reviewers Sometimes Have Tight Time Constraints
 
 ![black bell alarm clock on office desk](https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8b2fab4ba3941b84a9d75cac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The world of game reviews and media is a cutthroat world based on views and attention. Anyone who gets their stuff out early will get the most traction because they’re sharing new and exclusive information.
 
  This can put a lot of pressure on reviewers as they strive to speed-run games to come up with a “comprehensive review.” Even the most faithful gamers might not properly appreciate a game if they had to rush it for work.
@@ -92,14 +94,11 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
  We aren’t saying reviews are useless, but you can now see how fallible they are. It’s a great way to gain insight into other people’s feelings toward a game. In conjunction with reviews, you should assess video games by playing a demo or watching a gameplay video. Those will set more realistic expectations and give you a more direct experience with the game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +107,21 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-compelling-stories-the-art-of-instagram-video-editing/"><u>[Updated] Crafting Compelling Stories The Art of Instagram Video Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-ideal-websites-for-accessing-free-licensed-audio-files/"><u>[Updated] In 2024, Ideal Websites for Accessing Free, Licensed Audio Files</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-content-creation-essential-tips-for-snapchat-success/"><u>[Updated] Mastering Content Creation Essential Tips for Snapchat Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-fundamentals-of-captivating-video-scripts/"><u>[Updated] The Fundamentals of Captivating Video Scripts</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-techniques-for-conquering-clutter-in-steams-game-list/"><u>Essential Techniques for Conquering Clutter in Steam's Game List</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-15-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 15 Pro or iPad?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-f5-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco F5 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/keystroke-countdown-why-it-matters-for-users/"><u>Keystroke Countdown: Why It Matters for Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/kids-gaming-haven-make-your-ps5-safe/"><u>Kids' Gaming Haven: Make Your PS5 Safe</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/live-tv-saving-made-simple-with-free-software-tools-for-2024/"><u>Live TV Saving Made Simple with Free Software Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-filtered-spectacles-for-computers/"><u>Optimal Filtered Spectacles for Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-coolest-gaming-sessions-with-ai-assistant-chatgpt/"><u>Six Coolest Gaming Sessions with AI Assistant, ChatGPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/time-taken-to-watch-an-example-of-a-20mb-video/"><u>Time Taken to Watch An Example of a 20MB Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-potential-in-pokemon-games-on-idevices/"><u>Unleash Potential in Pokémon Games on iDevices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Address Disrespectful Actions on Series X/S Console
-date: 2024-12-24T19:25:43.097Z
-updated: 2024-12-25T17:41:31.600Z
+date: 2025-01-08T05:35:20.893Z
+updated: 2025-01-11T05:58:01.350Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Report an Xbox Player’s Profile
 
  Commonly, if you experience inappropriate online behavior while playing on Xbox, you might not get the chance to report or deal with the behavior while still in your game. Luckily, the most common way of reporting other Xbox players relies on the**Recently played with** option to report the Xbox profile of the offending user.
@@ -34,26 +38,18 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 
 ![A screenshot of the Guide menu for Xbox Series X with the options for People highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2980.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select the Xbox profile of the person who displayed inappropriate behavior.
 * Choose the option for**Report or block** , followed by**Report** .
 
 ![A screenshot of the options for an Xbox Profile on Xbox Series X with the ability to Report highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2983.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From here, you can choose various reasons for submitting your report, like**Unsporting behavior** . Once you have selected the reasons for reporting the player, select**Submit** to send your report.
 
 ![A screenshot of the available categories when reporting an Xbox Profile on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2986.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It's also important to note that you can access people's profiles in multiple ways. You can even[report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
 
@@ -100,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
  However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or[create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Report In-Game Voice Chat on Xbox Series X|S
@@ -115,12 +111,16 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 ![A screenshot of the Parties and Chats section of the Guide menu for Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/guide-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select**Save voice clip (last 60s)** .
 
 ![A screenshot of the Report In Game Voice Chat settings on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/save-voice-clip.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With voice clips featuring evidence of inappropriate behavior saved to your Xbox, you can move forward with reporting in-game voice chat by following these steps:
 
@@ -134,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 ![A screenshot of the behaviour options when reporting someone using Report In Game Voice Chat on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/report-categories.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Much like other reporting methods, your Xbox will then ask you to define specific elements of the report associated with voice chats. Once you have defined these elements, like associated Xbox profiles and Gamertags, you can select**Submit Report** to finalize.
@@ -160,17 +160,20 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-supercharge-your-pc-with-these-win-10-tricks/"><u>[New] 2024 Approved Supercharge Your PC with These Win 10 Tricks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-discover-the-best-of-photo-stickering-ios-and-android-leaders/"><u>[New] In 2024, Discover the Best of Photo Stickering IOS & Android Leaders</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-premier-platform-for-seminar-titles/"><u>[New] In 2024, Premier Platform for Seminar Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/finding-the-link-methods-for-windows-mc-lan-restoration/"><u>Finding the Link: Methods for Windows MC LAN Restoration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipad-pro-or-macbook-air-determining-the-best-fit-for-your-digital-needs-insights-from-tech-experts/"><u>IPad Pro or MacBook Air: Determining the Best Fit for Your Digital Needs - Insights From Tech Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/refinement-of-xbox-series-consoles-vrr-settings-made-simple/"><u>Refinement of Xbox Series Console's VRR Settings Made Simple</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-five-fiercest-frustration-factories-of-video-gaming/"><u>The Five Fiercest Frustration Factories of Video Gaming</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/the-insiders-guide-to-bitcoin-mining-techniques-unveiled-by-yl-software-experts/"><u>The Insider's Guide to Bitcoin Mining: Techniques Unveiled by YL Software Experts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209794532-9781524856915-the-little-book-of-meditations/"><u>The Little Book of Meditations | Free Book</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-ultimate-reddit-trophy-case-top-ten-threads/"><u>The Ultimate Reddit Trophy Case - Top Ten Threads</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/top-techniques-for-awesome-instagram-videos-for-2024/"><u>Top Techniques for Awesome Instagram Videos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-hrtf-how-does-it-impact-valorant/"><u>Understanding HRTF: How Does It Impact Valorant?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-barriers-only-creativity-learn-cost-free-background-substitution-with-4-youtube-pros-for-2024/"><u>[New] No Barriers, Only Creativity Learn Cost-Free Background Substitution with 4 YouTube Pros for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-enhancing-engagement-with-best-practices-for-fb-cover-vids-for-2024/"><u>[Updated] Enhancing Engagement with Best Practices for FB Cover Vids for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-taking-your-instagram-game-up-a-notch-advanced-tracking-tools-overview/"><u>[Updated] Taking Your Instagram Game Up a Notch Advanced Tracking Tools Overview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3x-bluetooth-speaker-enthusiasm-experience-top-audio-quality/"><u>3X Bluetooth Speaker Enthusiasm: Experience Top Audio Quality!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-itel-a70-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Itel A70 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gaming-specifications-unveiled/"><u>Essential Gaming Specifications Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-advice-on-epic-steam-linkage/"><u>Expert Advice on Epic-Steam Linkage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/iconify-your-bandwidth-status-windows-10-adjustment/"><u>Iconify Your Bandwidth Status: Windows 10 Adjustment</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-picture-quality-with-personalized-xbox-variable-refresh-rate/"><u>Optimizing Picture Quality with Personalized Xbox Variable Refresh Rate</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-into-vrs-expensive-ecosystem-exploring-four-factors/"><u>Peak Into VR's Expensive Ecosystem: Exploring Four Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/pure-endless-fun-awaits-with-the-best-mobile-games-free/"><u>Pure, Endless Fun Awaits with the Best Mobile Games (Free!)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-linking-of-console-controllers-on-mobile/"><u>Step-By-Step Linking of Console Controllers on Mobile</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-online-shopping-spots-for-video-games-at-unbeatable-prices/"><u>Top Online Shopping Spots for Video Games at Unbeatable Prices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-gaming-headset-g435-silent-issue-a-step-by-step-guide/"><u>Troubleshooting the Gaming Headset G435 Silent Issue – A Step-by-Step Guide</u></a></li>
 </ul></div>
 

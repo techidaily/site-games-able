@@ -1,7 +1,7 @@
 ---
 title: How to Access the Web Browser Hidden on Your PS5
-date: 2024-08-22T22:23:54.648Z
-updated: 2024-08-23T22:23:54.648Z
+date: 2025-01-03T22:56:06.988Z
+updated: 2025-01-11T01:35:44.183Z
 tags:
   - games
 categories:
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 
 ![PS5 Link With Other Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/01-PS5-Link-With-Other-Services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don't actually log in here. Instead, use the left stick to hover the cursor over the Twitter bird logo at the top of the page, then click it with the**X** button.
 
 ![PS5 Twitter Click Logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/02-PS5-Twitter-Click-Logo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you do this, you'll be faced with a login page like you would in any desktop browser. Since you can't search X without an account anymore, we'll need an alternative method to access the web at large. The trick lies in selecting**Sign in with Google** . Click this to open Google's login page.
 
@@ -40,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 
 ![Google Select Terms Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-select-terms-link.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Use the right stick to scroll down to the very bottom (it will take a moment) and you'll see a link to**Google** at the bottom-left. Click this.
 
 ![PS5 Open Google Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ps5-open-google-link.jpg)
@@ -47,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
  Selecting this link will bring you to a stripped-down version of the familiar Google homepage. From here, you have free reign to search for whatever you like and browse the web using your PS5.
 
 ![Searching MUO on Google PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/searching-muo-on-google-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Because there's no browser address bar, you'll need to search Google and click links to go anywhere. It's clunky, but functional.
 
@@ -65,20 +81,18 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
  Meanwhile, if the lackluster web browser left you wanting more, you should check out other[hidden features of your PS5](https://www.makeuseof.com/ps5-things-you-might-not-know-you-can-do/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Browse the Web on PS5, If You Really Need To
 
  Now you know how to reach the PS5's limited web browser. Hopefully you'll never need it, but it could be a fun trick for showing off to friends. Otherwise, it's not much more than a PS5 Easter egg.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +101,20 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-master-5-strategies-for-copying-files-to-your-system/"><u>[New] 2024 Approved Master 5 Strategies for Copying Files to Your System</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-writers-workshop-for-podcast-creators-examples-included/"><u>[New] 2024 Approved The Writers' Workshop for Podcast Creators (Examples Included)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-innovation-in-your-hands-the-sonic-experience-of-xperia-xz/"><u>[Updated] Innovation in Your Hands The Sonic Experience of Xperia XZ</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/id-and-ios-prime-asmr-software-options-for-2024/"><u>Android & iOS Prime ASMR Software Options for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/go-all-out-top-7-exhilarating-sports-titles-for-iphone-and-android/"><u>Go All Out! Top 7 Exhilarating Sports Titles for iPhone & Android</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-xperia-10-v-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Xperia 10 V?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nokia-c22-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nokia C22 FRP Without Computer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-zte-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your ZTE Phone Hassle-Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-unraveling-the-xbox-360-slim-console/"><u>The Art of Unraveling the Xbox 360 Slim Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-supreme-joy-con-and-controller-compendium-nintendo-switch-2024/"><u>The Supreme Joy-Con & Controller Compendium (Nintendo Switch, 2024)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-xbox-series-x-controller-disassembly/"><u>The Ultimate Guide to Xbox Series X Controller Disassembly</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-benefits-going-from-console-to-pc-gaming/"><u>Top 10 Benefits: Going From Console to PC Gaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unmasking-hidden-treasures-methods-for-exposing-concealed-iphone-applications/"><u>Unmasking Hidden Treasures: Methods for Exposing Concealed iPhone Applications</u></a></li>
+</ul></div>
 

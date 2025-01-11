@@ -1,7 +1,7 @@
 ---
 title: "Weighing the Worth: Mini Pcs Versus Desktop Computers for You"
-date: 2024-08-22T22:22:29.056Z
-updated: 2024-08-23T22:22:29.056Z
+date: 2025-01-06T09:48:14.397Z
+updated: 2025-01-10T22:53:33.653Z
 tags:
   - games
 categories:
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
 ![slotting in graphics card into pcie slot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/slotting-in-graphics-card-into-pcie-slot.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jhet Borja/MakeUseOf
 
  Desktop PCs will always be significantly more powerful than mini PCs because they have better cooling and full-sized graphics cards. However, you shouldn't underestimate the performance of an AMD APU.
@@ -47,23 +44,20 @@ Jhet Borja/MakeUseOf
 
 ![Nanoreview Ryzen 7 5800H vs 5700G](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/nanoreview-ryzen-7-5800h-vs-5700g.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For example, compare the $499[Beelink SER5](https://www.amazon.com/Beelink-SER5-MAX-5800H-Processor/dp/B0CDLD8ZBS/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031444&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmini-pc-vs-desktop-pc-what-should-you-buy%2F&asc%5Fcampaign=Evergreen) MAX's Ryzen 7 5800H APU to an equivalent desktop with a Ryzen 7 5700G APU.[Nanoreview benchmarks](https://nanoreview.net/en/cpu-compare/amd-ryzen-7-5800h-vs-amd-ryzen-7-5700g) show they're quite close in performance, with similar single and multi-core performance. Prebuilt PCs on Amazon and Newegg go for over $600, even up to the $800 mark. With comparable performance, it's hard to deny that the mini PC wins in the low-to-mid-range performance bracket.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Productivity and Ease of Use
 
 ![aerofara-aero-2-pro-mini-pc-review-ports-02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/aerofara-aero-2-pro-mini-pc-review-ports-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Kannon Yamada/MakeUseOf
 
  Mini PCs are functionally the same as a desktop PC. However, what the mini PC has over the desktop is its easy access. You don't have to fuss around the back of your heavy PC with plenty of cables plugged into the back of it, and you have access to all you need right on the tiny PC on your desk.
@@ -75,8 +69,9 @@ Jhet Borja/MakeUseOf
  If you need to get work done quickly while needing to take your system with you, you can easily plug in your mini PC to your office setup and get to work. You can just as easily bring it home and plug it into your home setup, do some work there, or play some games by plugging it into your TV.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is a Mini PC Upgradeable Compared With a Desktop PC?
 
  Upgradability is the mini PC's weakest point. Desktop PCs have near-infinite upgradability where you can easily replace every major component. You won't be able to upgrade a mini PC's CPU/APU, but in many cases, you can upgrade the RAM and the storage with an SSD.
@@ -85,9 +80,6 @@ Jhet Borja/MakeUseOf
 
 [External GPU enclosures](https://www.makeuseof.com/tag/best-external-gpu-macbook-pro/) are expensive, but they might be worth it if you want one PC to do everything for you.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the Cost of a Mini PC vs. Desktop?
 
 ![geekom mini it11 pc in hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/geekom-mini-it11-pc-in-hand.jpg)
@@ -100,25 +92,27 @@ Ste Knight/MakeUseOf
 
 ![PC Part Picker Vs. Beelink SER5 Ryzen 7 5700U](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/pc-part-picker-vs-beelink-ser5-ryzen-7-5700u.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We've taken the $359[Beelink SER5 Mini PC](https://www.amazon.com/Beelink-SER5-5700U-4-34GHz-Computer/dp/B0CFDPLMNM?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031444&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmini-pc-vs-desktop-pc-what-should-you-buy%2F&asc%5Fcampaign=Evergreen) with a Ryzen 7 5700U with 16GB of DDR4 RAM and a 500GB SSD and compared it to the same parts we can find on[PC Part Picker](https://pcpartpicker.com/list/dR7xxH) , and the mini PC won by about $128, with the desktop costing $487 (at the time of writing—hardware prices do fluctuate).
 
  This is because a mini PC has a much simpler case; it already has a motherboard, doesn't need additional fans, and doesn't need a large power supply. The reduced cost does come with some sacrifices, like the aforementioned limited upgradability and a power-limited mobile-class APU instead of a desktop-class one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mini PC vs. Desktop: Which Type of PC Should You Buy?
 
  If peak performance or upgradability isn't your biggest concern, then a mini PC is one of the easiest ways to buy a PC and have it working immediately. Mini PCs have smaller footprints than laptops, making them easy to bring around in a smaller bag—so don't gloss over mini PCs when it comes to your next hardware upgrade.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +121,24 @@ Ste Knight/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-21-innovative-solutions-for-free-recording-of-online-meetings/"><u>[New] 21 Innovative Solutions for Free Recording of Online Meetings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-video-presentations-with-top-30-free-intra-makers/"><u>[New] In 2024, Elevate Your Video Presentations with Top 30 Free Intra Makers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-vidvibes-merge-android-and-ios-insta-photos-for-2024/"><u>[New] VidVibes Merge Android & iOS Insta Photos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-optimizing-endorsements-for-credibility-for-2024/"><u>[Updated] Optimizing Endorsements for Credibility for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-easy-ways-to-distribute-your-iphone-memory-video-collection/"><u>1. Easy Ways to Distribute Your iPhone Memory Video Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-console-setup-with-customizable-light-settings/"><u>Elevate Your Console Setup with Customizable Light Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/ephemeral-games-curiosity-or-concerns/"><u>Ephemeral Games – Curiosity or Concerns?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exposing-ps5s-stealthy-browser-access/"><u>Exposing PS5's Stealthy Browser Access</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-channel-your-earnings-effective-youtube-money-methods/"><u>In 2024, Channel Your Earnings Effective YouTube Money Methods</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/journey-to-metaverse-leading-vr-headsets-reviewed/"><u>Journey to Metaverse Leading VR Headsets Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-steps-for-reviewing-gameplay-durations-on-xbox/"><u>Key Steps for Reviewing Gameplay Durations on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-white-motherboards-within-the-pennywise-budget/"><u>Prime White Motherboards Within the Pennywise Budget</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/resolved-login-issues-post-factory-reset-on-windows-11-a-comprehensive-guide/"><u>Resolved: Login Issues Post-Factory Reset on Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-eliminating-the-this-device-is-absent-problem-on-win10-win8-and-win7-error-code-24/"><u>Step-by-Step Solution: Eliminating the 'This Device Is Absent' Problem on Win10, Win8 & Win7 (Error Code 24)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-steams-friends-error-in-windows-11/"><u>Unblocking Steam's Friends Error in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-extra-features-top-5-advantages-in-paid-mobile-gaming-apps/"><u>Unlock Extra Features: Top 5 Advantages in Paid Mobile Gaming Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-6-ways-to-start-up-ps5/"><u>Unveiling the 6 Ways to Start Up PS5</u></a></li>
+</ul></div>
 

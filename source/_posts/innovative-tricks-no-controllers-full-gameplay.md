@@ -1,7 +1,7 @@
 ---
 title: "Innovative Tricks: No Controllers, Full Gameplay"
-date: 2024-12-28T16:01:33.541Z
-updated: 2025-01-04T16:02:40.677Z
+date: 2025-01-09T22:45:54.455Z
+updated: 2025-01-10T20:24:10.184Z
 tags:
   - games
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
  While that is indeed a bummer, it’s not something to worry about. There are other ways you can control your Xbox One without a controller. We’ve discussed these below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Your Smartphone to Control Your Xbox
 
  You can control your Xbox console using the native Xbox app, available for[iOS](https://apps.apple.com/us/app/xbox/id736179781) and[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027778/https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass&hl=en&gl=US) . This app provides a convenient and user-friendly interface for managing your Xbox remotely.
@@ -46,14 +50,10 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 ![Add an existing console option on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-an-existing-console-option-on-xbox-app.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn on remote features popup on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-on-remote-features-popup-on-xbox-app.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -61,19 +61,23 @@ Close
 
 ![A screenshot of the Remote Features prompt that appears when connecting your Xbox to a mobile device on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/xbox-series-x-remote-features-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ​​​​​​​Finally,**Test remote play** on your Xbox to test your internet connection for remote play.
 
 ![A screenshot of the option to Test Remote Play on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/test-remote-play-on-xbox-series-x.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you pass the test, the Xbox app will automatically detect your console and connect with it. Then, you can remotely play games on your mobile, control your console using the app and manage games on your console, all just by using your smartphone.
 
 ![Living room Xbox on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/living-room-xbox-on-xbox-app.jpeg)
 
 ![Xbox remote control on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-remote-control-on-xbox-app.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -97,6 +101,10 @@ Close
 
 ![xbox digital assistants menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/xbox-enable-digital-assistants.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on[how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and[how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
 
  Once connected, you can use voice commands to control your Xbox by speaking into the digital assistant app. To give a voice command, use the name that you assigned to your Xbox during the setup process. For instance, if you named your Xbox "Living Room Xbox," you can say, "Hey Google, play Fortnite on Living Room Xbox" to launch Fortnite on Xbox or "Hey Alexa, turn off Living Room Xbox" to turn off your Xbox console.
@@ -107,22 +115,14 @@ Close
 
 ![Google Home devices tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-devices-tab.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Google Home voice assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-voice-assistant.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Google Home Xbox remote control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-xbox-remote-control.jpeg)
 
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You Can Now Control and Manage Your Xbox One Even Without a Controller
@@ -146,24 +146,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>[New] Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-path-to-perfect-sims-video-sessions/"><u>[Updated] 2024 Approved The Path to Perfect Sims Video Sessions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y28-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-c210-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia C210? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/essential-tips-for-using-tiktok-on-macwindows-systems-for-2024/"><u>Essential Tips for Using TikTok on Mac/Windows Systems for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo V30 Phone without Any Data Loss</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/incorporating-picture-in-picture-in-browsing-with-edge-for-2024/"><u>Incorporating Picture-In-Picture in Browsing with Edge for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/lullaby-vids-a-critical-look-at-bedtime-narrative-videos/"><u>Lullaby Vids A Critical Look at Bedtime Narrative Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-video-editing-basics-on-windows-8-movie-maker/"><u>Mastering Video Editing Basics on Windows 8 Movie Maker</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastery-in-the-art-of-cleaning-up-ps5-profiles/"><u>Mastery in the Art of Cleaning Up PS5 Profiles</u></a></li>
-<li><a href="https://games-able.techidaily.com/professional-snapshot-management-on-steam/"><u>Professional Snapshot Management on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/seize-the-power-the-ultimate-transition-from-console-to-pc/"><u>Seize the Power: The Ultimate Transition From Console to PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/smartly-store-and-access-your-retrogames-with-chdman-compression/"><u>Smartly Store and Access Your Retrogames with CHDMAN Compression</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategic-fixes-for-persistent-ps5-internet-woes/"><u>Strategic Fixes for Persistent PS5 Internet Woes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/iches-a-deep-dive-into-mr-beasts-wealth/"><u>The Riches A Deep Dive Into Mr. Beast's Wealth</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-16-xbox-series-x-couch-gaming-pairing/"><u>Ultimate 16 Xbox Series X Couch Gaming Pairing</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-guide-top-1440p-gaming-displays-on-any-dime/"><u>Ultimate Guide: Top 1440P Gaming Displays on Any Dime</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-high-refresh-165hz-screens/"><u>Ultimate High Refresh 165Hz Screens</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-modern-multiplayer-games-shift/"><u>Understanding Modern Multiplayer Games' Shift</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-dynamics-behind-t-series-profit-on-youtube/"><u>[New] 2024 Approved The Dynamics Behind T-Series' Profit on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-revenue-rundown-the-profit-of-youtube-star-pewdopeep/"><u>[Updated] In 2024, Revenue Rundown The Profit of YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-playstation-controller-for-pcmac-gaming/"><u>Adapting PlayStation Controller for PC/Mac Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/auditory-acumen-top-mobile-trivia-applications-in-sound/"><u>Auditory Acumen: Top Mobile Trivia Applications in Sound</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010790696-banish-game-crashes-in-league-of-legends-with-these-easy-fixes/"><u>Banish Game Crashes in League of Legends with These Easy Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/digging-into-digital-storefronts-gog-vs-steam-evaluation/"><u>Digging Into Digital Storefronts: GoG Vs Steam Evaluation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972962423-download-instantly-ultimate-usb-webcam-drivers-get-set-up-fast/"><u>Download Instantly: Ultimate USB Webcam Drivers - Get Set Up Fast!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-streaming-the-complete-process-to-pair-chromecast-remote-with-your-device/"><u>Effortless Streaming: The Complete Process to Pair Chromecast Remote with Your Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-multiplayer-console-titles-best-16-for-game-nights/"><u>Ideal Multiplayer Console Titles - Best 16 for Game Nights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-12-pro-max-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 12 Pro Max without Apple Account</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-leading-choice-for-affordable-high-fidelity-webm-playbacks/"><u>In 2024, The Leading Choice for Affordable, High-Fidelity WebM Playbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/infusing-servers-with-games-chess-and-poker-in-discord/"><u>Infusing Servers with Games: Chess and Poker in Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/questionable-quality-why-portable-gaming-isnt-all-it-seems/"><u>Questionable Quality: Why Portable Gaming Isn't All It Seems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-x50iplus-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor X50i+ FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-intricacies-of-metagame-definition-importance-and-obedience/"><u>The Intricacies of Metagame: Definition, Importance & Obedience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-ai-powered-pdf-tools-for-productivity-gains/"><u>Top 10 AI-Powered PDF Tools for Productivity Gains</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ea-play-titles-to-master-on-ps5/"><u>Top EA Play Titles to Master on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-console-or-computer-playing-style-duel/"><u>Ultimate Console or Computer? Playing Style Duel</u></a></li>
 </ul></div>
 

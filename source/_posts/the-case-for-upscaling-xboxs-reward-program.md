@@ -1,7 +1,7 @@
 ---
 title: The Case for Upscaling Xbox's Reward Program
-date: 2024-08-22T22:25:09.337Z
-updated: 2024-08-23T22:25:09.337Z
+date: 2025-01-10T05:37:26.270Z
+updated: 2025-01-10T17:24:55.467Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
  And as time has passed, Microsoft Reward Points have worsened. However, if Microsoft was to address these issues, it could be a viable facet of your Xbox experience. But what issues with Microsoft Reward Points need addressing? Let's take a look.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Earning Microsoft Reward Points Is Painstakingly Slow on Xbox
 
  A vital flaw with Microsoft Reward Points is how the system progresses you towards a desired reward at a snail's pace, especially on Xbox Series X|S.
@@ -26,9 +30,17 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
 ![A screenshot of the Your Activities section of Microsoft Rewards on Xbox with Activities highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/activities.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And even if you complete the more substantial weekly and monthly activities on Xbox that can earn you 100 or 1000 Rewards Points, you're capped at only being able to earn the points once every week or month. Take this into account with a single month of Xbox Live Gold costing 7000 points, and that's a lot of weeks.
 
  So while there may be ways to quickly earn Microsoft Reward Points, readily available rewards earn few points, while heavy-earners are time-capped. This combination creates a timely and frustrating cycle for the service where you can only redeem a reward after months and months of earning.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Xbox Monthly and Weekly Rewards Are Getting Worse
 
@@ -38,13 +50,14 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
 ![A screenshot of the July Monthly Bonus Round for Microsoft Rewards on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/monthly-rewards.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The biggest issue associated with the monthly bonus activities was its capped time frame, forcing you to earn the associated points once a month. But now, with the rewarded points literally slashed in half, the feature becomes even more frustrating.
 
  And with the slashing of points, existing issues are only exacerbated. Together with the sluggish rate you gather points, the unfortunate changes only give you further cause to ignore the feature altogether.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Point Values Are Worth Less When Spending Points on Xbox
 
  Aside from how Microsoft Reward Points have adapted over time, some core features of the service represent glaring ways it could be fairer to gamers.
@@ -55,17 +68,10 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
 ![A screenshot of Xbox messages detailing earned Reward Points for purchases made on the Xbox Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/point-messages.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  To put it in plainer terms, if you go off Microsoft's one-point-per-dollar system, 7000 points for a free month of Xbox Live Gold represents $7000 dollars worth of store purchases. And while this is slightly contrary, it would be ridiculous if points given were equivalent to store purchases, the system seems highly unfair.
 
  If the ratio of earned points to store purchases were more substantial, the method would seem like a legitimate way for you to attain free rewards on Xbox. But as it is, the system seems almost frugal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. The Best Ways to Earn Points Involve Purchasing Xbox Games
 
  Even if you look outside the traditional ways you earn Microsoft Reward Points, other methods involving specific titles can act as Xbox Game Pass advertisements or represent a game you may need to purchase.
@@ -74,30 +80,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![A screenshot of a punch card within the Microsoft Rewards on Xbox application highlighting the rewards and requirements screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/punch-card-rewards.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This method of incentivizing playing games can be great if you already own the game or can access the title through Xbox Game Pass. But if the required game isn't available, or you don't have Game Pass, you have to purchase the game to earn points.
 
  In terms of offering a useful way to earn points, game-specific activities are great on paper but quickly turn into a way for Microsoft Rewards Points to advertise store purchases or Xbox Game Pass. You could even see it as a method of incentivizing the spending of your money.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Microsoft Reward Points Need to Adapt to Remain Functional on Xbox
 
  While Microsoft Reward Points are a free bonus added to the Xbox platform, the more you look into how the service works, the more it starts to resemble more of an issue than a bonus.
 
  And with the service slowly becoming more restrictive and less rewarding, Microsoft Reward Points will likely become a less essential aspect of the Xbox Series X|S unless some of its issues are addressed.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,4 +107,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-prototyping-perfection-the-best-vector-software-of-the-year/"><u>[New] Prototyping Perfection The Best Vector Software of the Year</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-peak-posts-on-reddit-honoring-10-highly-engaging-threads/"><u>[Updated] In 2024, Peak Posts on Reddit Honoring 10 Highly Engaging Threads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-media-landsranking-with-magix-video-pro-x-for-2024/"><u>[Updated] Navigating Media Landsranking with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-clicks-guide-dells-screenshots-made-simple-for-2024/"><u>[Updated] Quick Clicks Guide Dell's Screenshots Made Simple for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hidden-risks-in-linkedins-new-gaming-platform/"><u>Discover the Hidden Risks in LinkedIn’s New Gaming Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722845437826-exploring-the-concept-of-output-impedance-explained/"><u>Exploring the Concept of Output Impedance Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/konvertieren-sie-ihren-soft-dvds-unter-macos-mit-einfachen-schritten-in-das-hochmoderne-mp4-format/"><u>Konvertieren Sie Ihren Soft-DVDs Unter macOS Mit Einfachen Schritten in Das Hochmoderne MP4 Format</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-steams-invalid-file-recovery-issue/"><u>Solving Steam's Invalid File Recovery Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-security-configuring-a-password-lock-on-your-nintendo-console/"><u>Step Into Security: Configuring a Password Lock on Your Nintendo Console</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-into-the-future-use-8-bespoke-ai-options/"><u>Step Into the Future: Use 8 Bespoke AI Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-tactics-why-choose-pc-over-console-games/"><u>Switch Tactics: Why Choose PC Over Console Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-strands-showdown-how-to-beat-the-brain-bending-nyt-puzzle/"><u>The Strands Showdown: How to Beat the Brain-Bending NYT Puzzle</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-cyberpower-cp65-avrg-a-solid-basic-ups-unit-overview/"><u>Unveiling the CyberPower CP6#5 AVRG - A Solid Basic UPS Unit Overview</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Installing SD Card in Steam Deck
-date: 2024-08-22T22:24:32.640Z
-updated: 2024-08-23T22:24:32.640Z
+date: 2025-01-06T23:51:55.228Z
+updated: 2025-01-10T18:05:39.045Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 ---
 
 ## Installing SD Card in Steam Deck
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 ![screenshot of the steam deck storage screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_storage_screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  The Steam Deck is not fussy when it comes to SD cards. Assuming you've brushed up on [mistakes to avoid when choosing an SD card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/), you can't go wrong. The Steam Deck supports SD, SDXC, and SDHC cards, and can handle up to 2TB of capacity.
 
  Write and read speeds are very important for performance reasons, so choosing a faster card is beneficial. Don't spring for the fastest, though. The Steam Deck will only reliably read up to 100MB/s.
@@ -42,19 +43,17 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
  We have a great selection of [the best microSD cards for the Steam Deck](https://www.makeuseof.com/best-microsd-cards-steam-deck/) if you haven't selected one already.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Format Your SD Card for the Steam Deck
 
 ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
 
  Start by inserting your SD card into your Steam Deck. The SD card slot is located on the bottom and to the right of your device, just below the right speaker.
@@ -66,15 +65,17 @@ No advertising on the website.
  When the Steam Deck is done, your SD card will no longer be readable by Windows or Mac devices.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install and Move Games to Your Steam Deck's SD Card
 
 ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
 
  You can move games back and forth freely, but there are a couple of things to keep in mind.
@@ -85,9 +86,6 @@ No advertising on the website.
 
 ![Screenshot of an SD card mounted on the Steam Deck showing its location as primary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_primary_sd_card_location_on_steam_deck.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  You'll find your SD card located at the bottom right-hand side of the Dolphin explorer window. It's named **primary**. Steam games will be located in the **steamapps** folder of this device.
 
  However, unlike Windows, this isn't the true file path. If you need to refer to anything installed on your SD card, the file path is as follows:
@@ -98,14 +96,11 @@ run/media/mmcblk0p1
 
  Considering how crucial extra space is for the Steam Deck experience, it's a good thing an SD card is so easy to set up and get going. Whether you've ordered a brand new SD card or you're pulling one out of an old phone, it's as easy as inserting it and formatting it. Just make sure you're using a fast enough card for the demands of the game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +109,22 @@ run/media/mmcblk0p1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-essential-tips-on-calculating-your-youtube-traffic-and-earnings/"><u>[New] In 2024, Essential Tips on Calculating Your YouTube Traffic & Earnings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-prime-pick-best-microphone-for-youtube-gurus/"><u>2024 Approved Prime Pick Best Microphone for YouTube Gurus</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ad-ds-offline-causes-inability-to-print/"><u>AD DS Offline Causes Inability To Print</u></a></li>
+<li><a href="https://facebook.techidaily.com/chatting-with-flair-the-power-of-textual-variation/"><u>Chatting with Flair: The Power of Textual Variation</u></a></li>
+<li><a href="https://games-able.techidaily.com/energys-evolution-power-and-more/"><u>Energy's Evolution: Power and More</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-neurological-function-with-marijuanas-endocannabinoids/"><u>Enhancing Neurological Function with Marijuana's Endocannabinoids</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphic-card-decision-time-founders-edition-or-vega-aib/"><u>Graphic Card Decision Time: Founders Edition Or Vega AIB?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-beat-breakers-crafting-compelling-video-music-scores/"><u>In 2024, Beat Breakers Crafting Compelling Video Music Scores</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic-5-lite-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic 5 Lite Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-the-revolutionary-nvidia-gaming-app/"><u>Introducing the Revolutionary Nvidia Gaming App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigate-the-maze-of-gopro-4k-an-editors-manual/"><u>Navigate the Maze of GoPro 4K An Editor's Manual</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/overcoming-common-pitfalls-in-job-interviews/"><u>Overcoming Common Pitfalls in Job Interviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-parts-a-complete-gaming-computer-list/"><u>Prioritize Parts: A Complete Gaming Computer List</u></a></li>
+<li><a href="https://win11.techidaily.com/revert-windows-configs-post-reboot-effective-solutions/"><u>Revert Windows Configs Post-Reboot: Effective Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ps5-deserves-a-rest-why-shut-it-down/"><u>Your PS5 Deserves a Rest: Why Shut It Down?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quiet Control: Switch Off Xbox Svibration Mode"
-date: 2025-01-02T16:00:30.146Z
-updated: 2025-01-04T16:00:03.544Z
+date: 2025-01-04T16:41:29.753Z
+updated: 2025-01-11T06:38:26.972Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know Before Turning Off Vibration on Xbox
 
  Generally, turning off controller vibration for your Xbox controllers is quite simple, but it comes with a few caveats you should be aware of:
@@ -33,10 +37,14 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ![A screenshot of an Xbox Wireless Controller Profile on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controller-profile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But aside from the practical caveats of altering controller vibration, the most common way you might otherwise be hindered is due to physical issues with a controller. A build-up of dirt, for instance, can cause stick drift or non-responsive vibration motors, and you may need to[take your Xbox controller apart](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) to fix any vibration problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable Controller Vibration on Xbox Series X|S
@@ -48,12 +56,16 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Under**Accessibility** , select**Controller** .
 
 ![A screenshot of the Accessibility settings on Xbox Series X with Controller highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select**Vibration settings** .
@@ -63,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 * Ensure that**Turn on vibration** is deselected.
 
 ![A screenshot of the button mapping screen for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-vibration.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With**Turn on vibration** unchecked and disabled, your current controller**Profile** will have vibration universally disabled no matter what game or app you use on your Xbox. Inversely, if you ever want to re-enable vibration, simply go back into**Vibration settings** and ensure**Turn on vibration** is selected.
 
@@ -78,19 +86,11 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
  So, by customizing your controller settings to your preferences, you can even go on to do the same for your Xbox Series X|S to help guarantee your gaming experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ### Q: Why Is Your Xbox Series X|S Constantly Vibrating?
 
  If your Xbox Series X|S controller is constantly vibrating or carries on vibrating even after disabling the feature, there may be a fault with your controller. To fix controller vibration, you need to[take apart your Xbox Wireless Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) and replace the vibration motors. Failing this, you will need to replace your Xbox controller.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: Does Controller Vibration Affect Your Xbox Controller’s Battery Life?
 
@@ -115,14 +115,20 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unlocking-video-excellence-on-tiktok-through-effective-templates-use/"><u>[New] 2024 Approved Unlocking Video Excellence on TikTok Through Effective Templates Use</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-windows-for-videographers-hdr-insights/"><u>[Updated] Windows for Videographers HDR Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-ergonomics-in-logitech-mouse-design/"><u>Cutting-Edge Ergonomics in Logitech Mouse Design</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-factors-missing-in-gamefis-popularity-surge/"><u>Essential Factors Missing in GameFi's Popularity Surge</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-locate-your-pcs-sound-card-on-a-windows-machine-a-step-by-step-guide/"><u>How to Locate Your PC's Sound Card on a Windows Machine: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-infinix-smart-8-hd-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Smart 8 HD ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-poco-m6-pro-4g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Poco M6 Pro 4G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-right-device-for-your-gaming-needs/"><u>The Right Device for Your Gaming Needs</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-real-benefits-of-mech-keyboard/"><u>Unveiling the Real Benefits of Mech Keyboard</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-inbuilt-screen-capture-huaweis-mate-series-and-p-lineup-phones-for-2024/"><u>[New] Inbuilt Screen Capture Huawei's Mate Series & P Lineup Phones for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mobile-apps-for-top-notch-introduction-videos-on-iosandroid/"><u>[New] Mobile Apps for Top-Notch Introduction Videos on iOS/Android</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-innovating-your-online-presence-expert-tips-for-video-enhancement-after-upload/"><u>2024 Approved Innovating Your Online Presence Expert Tips for Video Enhancement After Upload</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-print-speed-and-quality-download-hp-officejet-firmware/"><u>Boost Print Speed & Quality - Download HP Officejet Firmware</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-over-troubled-water-restoring-your-pcs-minecraft-connection/"><u>Bridge Over Troubled Water: Restoring Your PC's Minecraft Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparative-study-fe-vs-aib-graphics-card-models/"><u>Comparative Study: FE Vs. AIB Graphics Card Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-alone-to-together-reestablishing-winmc-network-connections/"><u>From Alone to Together: Reestablishing WinMC Network Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-the-go-best-switch-cart-holder-ideas/"><u>Gaming on the Go: Best Switch Cart Holder Ideas</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-navigating-the-tech-for-distance-casting/"><u>In 2024, Navigating the Tech for Distance Casting</u></a></li>
+<li><a href="https://games-able.techidaily.com/lessons-in-tech-pick-correct-oled-screen/"><u>Lessons in Tech: Pick Correct OLED Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-vs-touchscreen-choosing-the-right-gear-for-racers/"><u>Steering Vs. Touchscreen: Choosing the Right Gear for Racers</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-dealing-with-freezing-file-explorer-issues-on-windows-10/"><u>The Ultimate Guide to Dealing with Freezing File Explorer Issues on Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-phone-background-blur-companion/"><u>Ultimate Phone Background Blur Companion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-variants-differences-between-gpt-crafted-models-gpt-4-gpt-4-turbo-gpt-4o/"><u>Understanding the Variants: Differences Between GPT-Crafted Models (GPT-4, GPT-4 Turbo, GPT-4o)</u></a></li>
 </ul></div>
 

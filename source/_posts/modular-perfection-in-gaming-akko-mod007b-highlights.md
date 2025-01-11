@@ -1,7 +1,7 @@
 ---
 title: "Modular Perfection in Gaming: Akko MOD007B Highlights"
-date: 2024-08-22T22:27:23.264Z
-updated: 2024-08-23T22:27:23.264Z
+date: 2025-01-03T20:15:10.120Z
+updated: 2025-01-11T00:25:30.145Z
 tags:
   - games
 categories:
@@ -113,6 +113,10 @@ No
 
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Jowi Morales / MakeUseOf
 
  The Akko MOD007B Hall Effect keyboard is a 75% keyboard, which has ditched the numeric keypad and smushed the control keys together for a more compact form factor. It also comes in two keycap themes: Blue Santorini and Pink Tokyo.
@@ -121,16 +125,14 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Tokyo-Themed Keys and Accessories Included
 
 ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Jowi Morales / MakeUseOf
 
  Beyond the keyboard, you also get several accessories matching the theme. You’ll find a coiled white USB-C cable with a thick matte rubber coating, a lavender keycap puller, a lavender switch remover, and 19 extra Tokyo-themed keycaps.
@@ -139,9 +141,6 @@ No
 
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Jowi Morales / MakeUseOf
 
 ## The Akko MOD007B Means Serious Business Underneath
@@ -170,10 +169,11 @@ Related
 
 ![Akko MOD007B HE Three-Pin Mechanical Switch-Compatible PCB](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-three-pin-mechanical-switch-compatible-pcb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Jowi Morales / MakeUseOf
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Typing on Cloud Nine
 
@@ -181,13 +181,14 @@ Related
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Extensive Customization With the Akko Cloud Driver
 
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
 
  You can also create up to two function layers to map more than 100 keys and shortcuts in just two presses. Finally, there’s the Macro menu for recording macros and the Light menu to change the keyboard’s RGB lighting as you see fit.
@@ -195,13 +196,9 @@ Related
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Confusing Multi-Mode Pairing
 
 ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
@@ -221,8 +218,9 @@ Related
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Jowi Morales / MakeUseOf
 
  Another issue I faced with the Akko MOD007B is its battery life. I’ve never run out of power when reviewing other keyboards, but it’s the first time I did with this keyboard. Even with the RGB lights off, I need to charge more frequently. You also cannot check the power state while you're charging—you have to unplug it to see how much power is left by pressing Fn+Spacebar.
@@ -240,6 +238,10 @@ Related
  So, if you are or plan to be a serious gamer, the Akko MOD007B is an excellent choice for a primary keyboard. And, as long as you don’t frequently switch between Windows and Mac, it’s a great all-around keyboard, too.
 
 ![Akko MOD007B PC eCommerce Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/world-tour-tokyo-mod007b-pc-3-600x600.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### AKKO MOD007B PC
 
@@ -313,14 +315,11 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/) [See at Amazon](https://www.amazon.com/dp/B0CP7CYWRY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031519&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fakko-mod007b-hall-effect-keyboard-review%2F&asc%5Fcampaign=Affiliate)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -329,4 +328,23 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-7-best-free-online-youtube-tag-extractors/"><u>[New] 2024 Approved 7 Best Free Online YouTube Tag Extractors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-mobile-and-desktop-mkv-software/"><u>[New] Premier Mobile & Desktop MKV Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discover-these-27-purely-free-youtube-audio-ripper-tools-for-2024/"><u>[Updated] Discover These 27 Purely Free YouTube Audio Ripper Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/continue-the-saga-dive-into-more-of-fallout-writes/"><u>Continue the Saga: Dive Into More of Fallout’ Writes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-itel-s23plus-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Itel S23+ FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-gadgets-and-mods-for-the-best-ps5-experience/"><u>Exclusive Gadgets and Mods for the Best PS5 Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-virtual-gaming-benefits-and-drawbacks/"><u>Exploring Virtual Gaming: Benefits and Drawbacks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/international-education-summit-at-mansion-house-2022/"><u>International Education Summit at Mansion House 2022</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-it-time-for-a-gtx-to-rtx-transition-in-gaming-pcs/"><u>Is It Time for a GTX to RTX Transition in Gaming PCs?</u></a></li>
+<li><a href="https://games-able.techidaily.com/proven-performers-the-leading-asus-rog-ally-docks-of-24/"><u>Proven Performers: The Leading ASUS ROG Ally Docks of '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagining-gaming-through-xboxs-cloud-service/"><u>Reimagining Gaming Through Xbox's Cloud Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/remedy-for-missed-additional-monitor-win11/"><u>Remedy for Missed Additional Monitor (Win11)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-11-audio-capture-devices-for-live-broadcasts-for-2024/"><u>Top 11 Audio Capture Devices for Live Broadcasts for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-solving-speaker-problems-in-windows-11-and-7/"><u>Troubleshooting Audio Issues - Solving Speaker Problems in Windows 11 and 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-your-pc-when-it-cant-power-off-on-windows-10/"><u>Troubleshooting Guide: Fixing Your PC When It Can’t Power Off on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-the-microsoft-and-activisionblizzard-deal-be-good-or-bad-for-gamers/"><u>Will the Microsoft and Activision/Blizzard Deal Be Good or Bad for Gamers?</u></a></li>
+</ul></div>
 

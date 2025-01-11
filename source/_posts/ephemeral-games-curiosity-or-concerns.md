@@ -1,7 +1,7 @@
 ---
 title: Ephemeral Games – Curiosity or Concerns?
-date: 2025-01-02T16:04:49.078Z
-updated: 2025-01-04T16:06:04.979Z
+date: 2025-01-06T17:12:48.160Z
+updated: 2025-01-10T16:01:48.925Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 * [What Happens When Servers Shut Down?](#what-happens-when-servers-shut-down)
 
  Game servers for two much-loved games recently shut down, destroying millions of user-created levels. Why did this happen and is there anything you can do about it?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are Game Servers?
 
@@ -48,12 +44,16 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
  Worse, servers can be shut down permanently if their owners don’t see enough value in keeping them running. This happened in April 2024 with two much-loved platforming games losing their user-generated levels. Game servers that hosted player-made levels for both Super Mario Maker (Wii U, 3DS) and LittleBigPlanet 3 (PlayStation 3 and 4) were closed forever.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Games Run Using a Server?
 
 ![A promotional image showing a Fortnite character based on Billie Eilish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/fortnite-festival-season-3-1920x1080-5bb5103dc240.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Epic Games](https://www.fortnite.com/news/fortnite-festival-season-3-features-billie-eilish)
 
@@ -70,12 +70,16 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  Such games include Mario Maker and Little Big Planet. Console publishers are often more protective of their IP; Nintendo, in particular, is fiercely protective of its games, locking them down to prevent anything but official, sanctioned access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Long Do Game Servers Last?
 
 ![The inside of an old computer with cobwebs stretched out among the cables.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_688683298.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Gennady Grechishkin/[Shutterstock](https://www.shutterstock.com/image-photo/old-computer-system-unit-spiderweb-dust-688683298)
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
  Meanwhile, the Wii U Super Mario Maker server lasted for just under 9 years. Sony’s LittleBigPlanet 3 lasted for almost 10 years, although its servers were plagued by problems resulting from hacks and mods.
 
  The Overwatch 1 servers lasted just six years, and[the game is now officially dead](https://gamerant.com/overwatch-servers-shutdown-status-offline/) . But that decision was simply to make way for the game’s sequel. Generally, a game server stays up for at least as long as a console generation. Publishers could argue that anything beyond this is a sign of goodwill.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Happens When Servers Shut Down?
 
@@ -121,20 +121,17 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-daily-dose-of-tiktok-motivation-the-elite-fifteen-for-2024/"><u>[New] Daily Dose of TikTok Motivation The Elite Fifteen for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-step-by-step-for-xml-and-ttml-conversion-to-streamlined-srts/"><u>[New] Step-by-Step for XML & TTML Conversion to Streamlined SRTs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transforming-your-phones-alerts-with-tailored-audio-choices-for-android/"><u>[New] Transforming Your Phone's Alerts with Tailored Audio Choices for Android</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-a-list-nintendo-switch-fighter-titles-max-156/"><u>[Updated] A-List Nintendo Switch Fighter Titles (Max 156)</u></a></li>
-<li><a href="https://games-able.techidaily.com/escaping-gaming-fatigue-6-refreshing-approaches/"><u>Escaping Gaming Fatigue: 6 Refreshing Approaches</u></a></li>
-<li><a href="https://games-able.techidaily.com/five-crucial-mouse-features-that-define-elite-gaming-devices/"><u>Five Crucial Mouse Features that Define Elite Gaming Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/gigaware-usb-interface-software-for-windows-secure-your-downloads-now/"><u>Gigaware USB Interface Software for Windows - Secure Your Downloads Now</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-11-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 11 Pro iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ions-pro-3-unveiled-a-camera-ready-to-conquer-action-scenes-for-2024/"><u>ION's Pro 3 Unveiled - A Camera Ready to Conquer Action Scenes for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-xbox-game-pass-ultimate-your-next-step/"><u>Is Xbox Game Pass Ultimate Your Next Step?</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-platform-battle-series-x-vs-pc-builds/"><u>Next Gen Platform Battle: Series X Vs. PC Builds</u></a></li>
-<li><a href="https://games-able.techidaily.com/pros-of-pushing-back-video-game-dates/"><u>Pros of Pushing Back Video Game Dates</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-your-inner-hero-in-the-ultimate-free-game-collection/"><u>Unleash Your Inner Hero in The Ultimate Free Game Collection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-your-graphics-card-to-enable-miracast-functionality-successfully/"><u>Update Your Graphics Card to Enable Miracast Functionality Successfully</u></a></li>
-<li><a href="https://games-able.techidaily.com/using-ps3-games-with-ps4-device/"><u>Using PS3 Games with PS4 Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-capture-creativity-ios-and-android-writing-apps-roundup/"><u>[New] Capture Creativity IOS & Android Writing Apps Roundup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-to-webm-the-10-best-youtube-to-webm-converters/"><u>[New] YouTube to WebM The 10 Best YouTube to WebM Converters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/1723262422364-2024-world-server-destruction-showdown-search-for-rough-and-tumble-gamers-who-brazenly-challenge-computing-power/"><u>2024 World Server Destruction Showdown: Search for Rough-and-Tumble Gamers Who Brazenly Challenge Computing Power!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-broadcasting-the-2024-olympic-games-in-real-time/"><u>Complete Guide: Broadcasting the 2024 Olympic Games in Real-Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-list-celebrating-the-best-8-gaming-sites/"><u>Essential List: Celebrating the Best 8 Gaming Sites</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/from-design-to-functionality-the-complete-review-of-your-new-apple-watch-series-9/"><u>From Design to Functionality: The Complete Review of Your New Apple Watch, Series 9</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-office-seat-style/"><u>Game on, Office Seat Style</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-video-dimensions-and-story-size-the-ultimate-guide-for-perfect-posts-for-2024/"><u>Instagram Video Dimensions & Story Size [The Ultimate Guide for Perfect Posts] for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/itel-a70-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Itel A70 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-graphics-power-the-secrets-of-amds-xt-series/"><u>Mastering Graphics Power: The Secrets of AMD's XT Series</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-setup-for-hp-envy-5055-printers-professional-driver-downloads/"><u>Speedy Setup for HP Envy 5055 Printers: Professional Driver Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-to-global-gaming-set-time-regionally/"><u>Transition to Global Gaming: Set Time Regionally</u></a></li>
 </ul></div>
 

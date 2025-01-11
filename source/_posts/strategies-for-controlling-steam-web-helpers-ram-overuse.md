@@ -1,7 +1,7 @@
 ---
 title: Strategies for Controlling Steam Web Helper's RAM Overuse
-date: 2025-01-02T16:05:53.945Z
-updated: 2025-01-04T16:06:18.137Z
+date: 2025-01-10T07:47:04.455Z
+updated: 2025-01-11T06:46:32.698Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Steam's multiple components, including the Steam Client WebHelper, can consume a lot of memory and impact CPU performance.
@@ -27,13 +31,13 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Steam Use So Much Memory?
 
 ![Steam processes running in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_processes_running_in_task_manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Steam is made up of several components. Its most popular components are its download manager and games list, but it has several other features, and all of these other features run off the Steam Client WebHelper. This is essentially an internet browser that Steam manages. Every store page, friends list, and chat window creates a new Steam Client WebHelper instance.
 
@@ -43,25 +47,17 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable Hardware-Accelerated Rendering
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
@@ -74,9 +70,17 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
  This will ease the burden that Steam's web pages have on your available memory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Enable Low-Performance Mode
 
 ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another simple toggle for performance gains is in the Library tab of the settings menu. Enabling the Low-Performance Mode will disable certain animations when browsing through the Steam library.
 
@@ -100,10 +104,6 @@ steam://open/minigameslist
 ## 5\. Create a Custom Batch File for Minimal Steam
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
@@ -139,18 +139,19 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-turning-vimeo-video-into-reusable-mp3-chunks/"><u>[Updated] 2024 Approved Turning Vimeo Video Into Reusable MP3 Chunks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-achieving-visual-precision-with-the-right-4k-display-selection-for-2024/"><u>[Updated] Achieving Visual Precision with the Right 4K Display Selection for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-av1-decoding-for-newcomers/"><u>[Updated] In 2024, AV1 Decoding for Newcomers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-validating-yourself-a-look-at-verified-insta-posts/"><u>2024 Approved Validating Yourself A Look at Verified Insta Posts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862857266-asus-prime-x670-p-wifi-am5-motherboard-get-yours-for-a-steal-at-only-135/"><u>ASUS Prime X670-P WiFi AM5 Motherboard - Get Yours for a Steal at Only $135</u></a></li>
-<li><a href="https://games-able.techidaily.com/detailed-walkthrough-for-xbox-purchase-cancellations/"><u>Detailed Walkthrough for Xbox Purchase Cancellations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-cinema-from-home-stream-blockbusters-and-originals-on-crackle-free-of-cost/"><u>Enjoy Cinema From Home: Stream Blockbusters and Originals on Crackle - Free of Cost</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steams-gamer-rewards-unlock-all-achievements/"><u>Mastering Steam's Gamer Rewards: Unlock All Achievements</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-controlling-discord-ui/"><u>Mastering the Art of Controlling Discord UI</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-driver-verifier-detected-violation-bluescreen-woes-on-your-windows-10-pc-fixed/"><u>Resolving Driver Verifier Detected Violation Bluescreen Woes on Your Windows 10 PC - Fixed</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-your-consoles-secrets-without-a-mic/"><u>Unlock Your Console's Secrets Without a Mic</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-your-psp-for-nes-snes-and-sega-genesis-simulation/"><u>Unlock Your PSP for NES, SNES, and Sega Genesis Simulation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-secrets-of-the-12-restoring-hidden-videos-posted-on-facebook/"><u>[New] In 2024, Secrets of the 12 Restoring Hidden Videos Posted on Facebook</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-video-snippets-turn-into-dynamic-shareable-gifs/"><u>[New] In 2024, Vimeo Video Snippets Turn Into Dynamic, Shareable GIFs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-shoot-to-screen-mastering-360-degree-video-edits-using-premiere-pro/"><u>2024 Approved From Shoot to Screen Mastering 360-Degree Video Edits Using Premiere Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-glitches-mastery-of-ps5-gamepad-restart/"><u>Clearing Glitches: Mastery of PS5 Gamepad Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/counteracting-steams-reacquire-data-alert/"><u>Counteracting Steam's Reacquire Data Alert</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-playmates-top-15-friendly-games-to-share/"><u>Cross-Platform Playmates: Top 15 Friendly Games to Share</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-vr-companies-for-the-next-decade/"><u>Essential VR Companies for the Next Decade</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oneplus-nord-ce-3-lite-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From OnePlus Nord CE 3 Lite 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-exploring-profit-sharing-in-youtube-short-creation/"><u>In 2024, Exploring Profit Sharing in YouTube Short Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/propel-your-playstation-experience-top-9-game-changing-additions/"><u>Propel Your PlayStation Experience: Top 9 Game-Changing Additions</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-counteract-sagging-monitor-panels/"><u>Strategies to Counteract Sagging Monitor Panels</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-white-gadgets-cost-effective-pc-parts-of-the-year/"><u>Top White Gadgets: Cost-Effective PC Parts of the Year</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tri-tech-freeze-innovation-airjet-pak-coolers-tailored-for-edge-computing-max-power-25w/"><u>Tri-Tech Freeze Innovation: AirJet PAK Coolers Tailored for Edge Computing, Max Power 25W</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-with-toms-gear-guides/"><u>Unveiling the Latest in Computing with Tom's Gear Guides</u></a></li>
 </ul></div>
 

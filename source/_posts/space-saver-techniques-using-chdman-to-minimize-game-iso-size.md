@@ -1,7 +1,7 @@
 ---
 title: "Space-Saver Techniques: Using CHDMAN to Minimize Game ISO Size"
-date: 2024-12-29T16:02:46.416Z
-updated: 2025-01-04T16:03:15.258Z
+date: 2025-01-07T23:08:57.520Z
+updated: 2025-01-11T03:03:27.176Z
 tags:
   - games
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is CHDMAN?
 
  MAME's Compressed Hunks of Data (CHD) manager, or "CHDMAN" for short, allows you to store the files of a ROM in a single compressed archive. Apart from saving space, this can also simplify the management of multi-file ROMs, like optical media backups consisting of a game's data track and many more audio tracks for its music.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 * IMG.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Compress Your ISOs With CHDMAN
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 
 ![A screenshot of a BIN and CUE ROM image from the File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bin-and-cue-in-windows-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run Windows CMD or PowerShell. Then, move to the folder with your game's files with the Change Directory (CD) command:
 
 `cd PATH_TO_FOLDER`
@@ -66,6 +74,10 @@ Our command was:
 `cd "H:\Emulation\ROMs\PS1\Compress-to-CHD"`
 
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To compress your game with CHDMAN to CHD format, use the following:
 
@@ -77,10 +89,6 @@ Our command was:
 `
 
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
 
@@ -100,10 +108,6 @@ Our command was:
 
 ![DuckStation File Selector set to MAME CHD images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duckstation-chd-file-selection-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're looking for a CHD-compatible emulator then, luckily some of the most popular emulators support them. Here are a few examples of emulators that allow you to play CHDs:
 
 * MAME.
@@ -122,10 +126,6 @@ Our command was:
 
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How Can You Check Your CHDs?
 
  CHDMAN isn't only a compression solution but, as its name states, a manager for CHD files. So, you can also use it to...
@@ -133,15 +133,15 @@ Our command was:
 * Get info about CHD files by using the**chdman info -i "FILENAME.chd"** prompt.
 * Check CHD files by using the**chdman verify -i "FILENAME.chd"** prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Can You Decompress CHDs?
 
  Decompressing CHDs is almost the reverse of how you compress them. Since the format supports optical media and HDD backups, you must customize the command you'll use according to the media you're dealing with.
 
 ![A screenshot of the CHD Required category in the MAME emulator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/mame-requires-chd-filter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  CHDMAN can only extract optical media backups back to the CUE & BIN combination with:
 
@@ -172,24 +172,17 @@ Our command was:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-step-by-step-for-quick-chromakey-application/"><u>[New] 2024 Approved Step-by-Step for Quick Chromakey Application</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-chordography-map-your-creative-path-with-iphone/"><u>[New] Chordography Map Your Creative Path with iPhone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-embrace-adventures-with-panasonics-innovative-hx-a1-cam/"><u>[Updated] In 2024, Embrace Adventures with Panasonic's Innovative HX-A1 Cam</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-the-art-of-captivating-vimeo-staff-picks/"><u>[Updated] In 2024, Mastering the Art of Captivating Vimeo Staff Picks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-beauty-vlogs-from-basics-to-brilliance-launching-a-youtube-channel/"><u>2024 Approved Beauty Vlogs From Basics to Brilliance Launching a YouTube Channel</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flawless-pixel-processor-windowsmac/"><u>2024 Approved Flawless Pixel Processor (Windows/Mac)</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-xbox-controller-setup-for-personal-computers-157-chars-slight-overage-allowed-due-to-importance-of-message-content/"><u>Effortless Xbox Controller Setup for Personal Computers (157 Chars) - Slight Overage Allowed Due to Importance of Message Content.</u></a></li>
-<li><a href="https://games-able.techidaily.com/everyones-playground-no-more-exclusive-games/"><u>Everyone's Playground: No More Exclusive Games</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-extended-multi-day-battery-life-on-the-latest-laptops-from-acer-dell-hp-and-lenovo-new-1-099-snapdragon-x-and-windows-copilotplus-pcs-available-n14/"><u>Experience Extended 'Multi-Day Battery Life' On the Latest Laptops From Acer, Dell, HP & Lenovo: New $1, 099 Snapdragon X and Windows Copilot+ PCs Available Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/fast-track-your-decks-performance-via-storage-cloning/"><u>Fast Track Your Deck's Performance via Storage Cloning</u></a></li>
-<li><a href="https://games-able.techidaily.com/future-games-universal-access-over-exclusivity/"><u>Future Games: Universal Access Over Exclusivity</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/monthly-gaming-unlimited-psplus-vs-xbgplus/"><u>Monthly Gaming Unlimited: PS+ VS XBG+</u></a></li>
-<li><a href="https://games-able.techidaily.com/mute-mastery-a-step-by-step-guide-for-xbox/"><u>Mute Mastery: A Step-by-Step Guide for Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-process-of-ps5-controller-restarting/"><u>Navigating the Process of PS5 Controller Restarting</u></a></li>
-<li><a href="https://games-able.techidaily.com/revel-in-the-extended-world-of-fallout-series/"><u>Revel in the Extended World of Fallout Series</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/strategies-for-picking-the-best-tablet-importance-of-form-factor-and-heft/"><u>Strategies for Picking the Best Tablet: Importance of Form Factor and Heft</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essence-of-steam-credits-earning-and-spending-guide/"><u>The Essence of Steam Credits: Earning & Spending Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sky-high-quality-with-your-iphone-camera-essential-tips-top-8/"><u>[New] Sky-High Quality with Your iPhone Camera Essential Tips (Top 8)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-reimagining-streaming-experience-beyond-manycam/"><u>[Updated] 2024 Approved Reimagining Streaming Experience Beyond ManyCam</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-methods-for-rolling-macos-sierra-back-to-el-capitan/"><u>2024 Approved Methods for Rolling MacOS Sierra Back to El Capitan</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-to-change-how-steams-ai-rules-transform-gaming/"><u>Adapting to Change: How Steam's AI Rules Transform Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/backwards-compatibility-for-sonys-gaming-generation-shift/"><u>Backwards Compatibility for Sony's Gaming Generation Shift</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/captivate-crowds-secrets-to-screen-collaboration-via-social-media-for-2024/"><u>Captivate Crowds Secrets to Screen Collaboration via Social Media for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-high-memory-usage-of-roblox-app-on-mobile-phones/"><u>Combatting High Memory Usage of Roblox App on Mobile Phones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gopro-hero5-a-comprehensive-footage-study-for-2024/"><u>GoPro Hero5 A Comprehensive Footage Study for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-minecraft-launcher-error-0x803f8001-in-windows-11-and-10/"><u>How to Fix the Minecraft Launcher Error 0X803f8001 in Windows 11 and 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-xbox-s-controller-links-at-all-times/"><u>Secure Xbox S Controller Links at All Times</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ate-9-free-youtube-channel-branding-solutions/"><u>Ultimate 9 Free YouTube Channel Branding Solutions</u></a></li>
 </ul></div>
 

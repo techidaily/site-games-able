@@ -1,7 +1,7 @@
 ---
 title: One World, One Game - No More Exclusivity
-date: 2024-08-22T22:27:12.451Z
-updated: 2024-08-23T22:27:12.451Z
+date: 2025-01-05T03:55:00.783Z
+updated: 2025-01-10T23:18:56.335Z
 tags:
   - games
 categories:
@@ -14,12 +14,20 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
 ## One World, One Game - No More Exclusivity
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [A Brief History of Platform Exclusivity](#a-brief-history-of-platform-exclusivity)
 * [How Platform Exclusives Are Coming to an End](#how-platform-exclusives-are-coming-to-an-end)
 * [Why Platform Exclusives Are Going Away](#why-platform-exclusives-are-going-away)
 * [Why I'm Glad Platform Exclusives Are No More](#why-i-39-m-glad-platform-exclusives-are-no-more)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,17 +38,9 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
  The end of platform-exclusive games is nigh, and we're here for it. While some key IPs are likely to be kept on one console (and/or PC), many will be available to play on whatever platform you choose. And that has to be a good thing. Here's why...
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Brief History of Platform Exclusivity
 
  For decades, platform exclusives have played a big part in the story of video games. And they have had a hand in deciding which console won each generation.
@@ -50,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Giuseppe Cammino/[Shutterstock](https://www.shutterstock.com/image-photo/joystick-vintage-arcade-videogame-coinop-1089499448)
 
  In the late 80s and early 90s, this platform exclusivity formed around two now-iconic characters: Sonic and Mario. Nintendo and Mario were well-established, but then Sega and Sonic entered the scene. And if you wanted to play the Sonic games, you needed to own a Sega system. And millions duly bought Sega's consoles as a result.
@@ -59,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
  Once we entered the PlayStation/Xbox era, platform exclusivity became an even bigger part of the story. Both Sony and Microsoft created original IP designed to shift units, as well as paying third-party developers and publishers large amounts of money to secure timed exclusives. And that battle of the exclusives (of all kinds) has persisted ever since.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Platform Exclusives Are Coming to an End
 
  Thankfully, things are starting to change. In February 2024, in a post on[Xbox Wire](https://news.xbox.com/en-us/2024/02/21/new-platforms-new-players-xbox-games-switch-playstation/) , Microsoft announced that four Xbox exclusives would also be coming to PS5 and Switch, with more titles to follow. The games currently confirmed to be coming to other platforms are Hi-Fi Rush, Pentiment, Sea of Thieves, and Grounded.
@@ -77,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
@@ -96,32 +95,23 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
  This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why I'm Glad Platform Exclusives Are No More
 
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
 
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
 
  This led me personally to choose PlayStation over Xbox, as Sony's exclusives always suited my tastes better. But had Microsoft's original IP also been available to play on PlayStation, the company would have made money out of me buying Halo, Gears of War, Forza, and others.
 
  The practice of making some games exclusive to one platform is anti-consumer, as it forces gamers to buy multiple consoles to play specific games. And while I can see why it has been standard practice for decades as manufacturers sought to make sure their platform was the essential one, it's about time we opened gaming up to be more inclusive. And this could start by switching to platform agnosticism.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +120,16 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-how-to-quickly-modify-your-voice-for-gameplay-advantage/"><u>[New] In 2024, How to Quickly Modify Your Voice for Gameplay Advantage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-conquer-the-shadows-5-ways-to-fix-black-screen-with-obs-for-2024/"><u>[Updated] Conquer the Shadows 5 Ways to Fix Black Screen with OBS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-archivists-arsenal-pivotal-80s-vhs-tricks-for-editors/"><u>[Updated] The Archivist’s Arsenal Pivotal 80S VHS Tricks for Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-vr-cycling-choose-wisely/"><u>2024 Approved Pioneering VR Cycling Choose Wisely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficient-methods-for-creating-mp3-files-on-your-computer/"><u>Efficient Methods for Creating MP3 Files on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-thermal-efficiency-in-high-end-gaming-systems/"><u>Exploring Thermal Efficiency in High-End Gaming Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-score-up-critical-sites-to-improve-gamerscore/"><u>Game On, Score Up: Critical Sites to Improve Gamerscore</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-controller-keeps-disconnecting-how-to-fix-it/"><u>Xbox Series X Controller Keeps Disconnecting? How to Fix It</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-authority-over-third-party-controllers-a-players-guide-to-the-law/"><u>Xbox's Authority Over Third-Party Controllers: A Player's Guide to the Law</u></a></li>
+</ul></div>
 

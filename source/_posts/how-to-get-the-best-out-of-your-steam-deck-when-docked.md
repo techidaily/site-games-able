@@ -1,7 +1,7 @@
 ---
 title: How to Get the Best Out of Your Steam Deck When Docked
-date: 2024-08-22T22:25:56.117Z
-updated: 2024-08-23T22:25:56.117Z
+date: 2025-01-03T19:00:32.010Z
+updated: 2025-01-10T17:57:31.526Z
 tags:
   - games
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
 ![screenshot of steam deck resolution menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_resolution_menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your choice between maintaining the 720p resolution or pushing the device higher is the first one you'll need to make when it comes to playing any game on the big screen.
 
  The 720p resolution ensures that the Steam Deck will reach playable frame rates on just about any game. However, this resolution is blurry and unpleasant to look at on larger screens.
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
  Now that your image is being output at a higher resolution, you'll be able to access higher resolutions in game. It will look a lot nicer on the big screen, but it's also going to be more taxing on your performance. Let's see what other tools the Steam Deck has to manage performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using Per-Game Settings
 
 ![screenshot of steam deck quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu.jpg)
@@ -51,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  If you've docked your Steam Deck, it's likely you're using a controller instead of the controls on the unit itself. In this case, holding the**system button + A** will display this menu.
 
 ![screenshot of steam deck quick menu game profile selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_game_profile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First thing to do is to enable**Use Per-Game Profile** . This will ensure that any changes you make in this menu will only affect the currently active game.
 
@@ -73,15 +85,17 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  You'll eventually find yourself with a very pleasant image and a comfortable framerate.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Target 30 or 40 FPS Over 60 FPS
 
 ![screenshot of steam deck quick menu framerate limiter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_framerate_cap.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  A major part of gaming on the Steam Deck is being comfortable with lower framerates.
 
  60 FPS is always the goal, but newer games with more demanding visuals will rarely reach 60 FPS on the Steam Deck. This becomes even more difficult when you add the performance overhead of a higher resolution into the mix.
@@ -90,25 +104,17 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
  Steam allows you to target 30 FPS using the performance overlay, but this framerate limiter occurs outside the game itself. For the best results, check if the game you're playing has an inbuilt framerate limiter. These are more accurate and responsive than the Steam Deck's overlay menu.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Docking Your Steam Deck Is a Balancing Act
 
  Just about any game will run well enough once you connect the dock. The problem is, those default settings can result in a blurry or unpleasant image. Increasing settings that improve these visuals will very quickly tax the Steam Deck and result in poor performance.
 
  The result is a lot of tinkering with an impressive collection of performance tools until you get it just right. Whether you're going for a high, consistent frame rate, or a picture that looks as good as it can, you'll find some sort of happy medium when it comes to docking your Steam Deck.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,4 +123,18 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-5-best-photo-editor-for-android-phone-for-2024/"><u>[New] 5 Best Photo Editor for Android Phone for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-elevating-your-unboxing-craft-techniques-for-skyro-written-by-user/"><u>[Updated] Elevating Your Unboxing Craft Techniques for Skyro Written by User</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210346021-9782226460530-les-cles-de-lesoterisme-tarot/"><u>Les Clés de l'ésotérisme - Tarot | Free Book</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/step-by-step-guide-to-eradicating-audios-in-video-projects-using-imovie-for-2024/"><u>Step-by-Step Guide to Eradicating Audios in Video Projects Using iMovie for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-guide-for-epic-and-gog-installation-steam-deck-style/"><u>The Complete Guide for Epic & GOG Installation, Steam Deck Style</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essence-of-hrtf-and-its-use-in-valorant/"><u>The Essence of HRTF and Its Use in Valorant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-automatic-shutdown-for-idle-systems/"><u>The Ultimate Guide to Automatic Shutdown for Idle Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-strategies-for-successful-play-in-cs2-mac/"><u>Top Strategies for Successful Play in CS2, Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-to-downloading-free-dvd-players-on-pc-and-mac-step-by-step-instructions/"><u>Ultimate Guide to Downloading Free DVD Players on PC and Mac – Step-by-Step Instructions</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-ps5-storage-solutions/"><u>Ultimate PS5 Storage Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-mechanics-of-apples-game-mode-in-macos-sonoma-upgrade/"><u>Unveiling the Mechanics of Apple's Game Mode in macOS Sonoma Upgrade</u></a></li>
+</ul></div>
 

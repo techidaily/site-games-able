@@ -1,7 +1,7 @@
 ---
 title: "FlashBack Pocket: Retro Gaming in Your Palm"
-date: 2024-12-19T21:34:16.910Z
-updated: 2024-12-26T01:11:14.527Z
+date: 2025-01-10T03:18:45.280Z
+updated: 2025-01-10T20:22:40.996Z
 tags:
   - games
 categories:
@@ -124,10 +124,6 @@ Dual speakers, Bluetooth audio supported
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is a Retroid Pocket 3+?
 
  Playing old video games is as easy or as difficult as you want it to be. You could opt for a shrunk-down classic console like the NES Mini, or the curated cartridge collections of the[Evercade consoles](https://www.makeuseof.com/evercade-exp-review/) .
@@ -184,7 +180,7 @@ There’s even Nintendo GameCube and Wii support.
  Emulation of these platforms is available via the RetroidLauncher interface, which appears upon first launch. The Retroid community maintains an[online spreadsheet of tested games](https://docs.google.com/spreadsheets/u/0/d/1Vf7SIS7ecWa%5FJ301h0mb2bxMWBMtKLvcpAFyaa5-LDc/edit?usp=sharing&pli=1) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Console Design and Specification
@@ -195,11 +191,19 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retoid Pocket 3+ ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-ports.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Behind the 4.7-inch touchscreen display ([750x1334@60fp](mailto:750x1334@60fp) , maximum 450 nits) is the Unisoc Tiger T618 processor, with <2xA75@2.0GHz> and <6xA55@2.0GHz> CPU. The GPU is the Mali G52 MC2, clocked at 850MHz, and the system relies on 4GB LPDDR4x RAM (3733Mbps). Storage is courtesy of a built-in 128GB eMMC 5.1 chip, but you can expand this via the microSD slot.
 
  Other ports include a 720p micro HDMI port, 3.5mm audio port, and a USB Type C port for charging and data. Powering the Retroid Pocket 3+ on the go is a 4500mAh battery, and the device is built into a metal frame for robustness and passive heat dissipation.
 
  The device also has Wi-Fi 5 and Bluetooth 5.0 and can receive OTA updates to the Android 11 OS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Long Does the Battery Last?
 
@@ -208,10 +212,6 @@ There’s even Nintendo GameCube and Wii support.
  I pushed it to 7 hours after disabling Wi-Fi (the Google Play Store is especially data-hungry), and I suspect playing lower-spec games (such as 8-bit Atari, Nintendo, and Sega titles) will have a noticeable effect on the battery.
 
  Of course, the attraction of the Retroid Pocket 3+ is that the console runs several 16-bit and 32-bit platforms, so your mileage will vary depending on the emulation you’re looking for.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Using the Retroid Pocket 3+ Controls
 
@@ -231,10 +231,6 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retroid Pocket 3+ shoulder buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-shoulder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once formatted, the microSD card can be configured with the necessary directories (this takes a single tap), then you can copy your ROMs copied to the platform-specific directory.
 
  You’re not done yet, though, as the individual emulator cores also need installing. This is done in the RetroArch software, which is a lot less attractive than the RetroidLauncher. Once done, however, you specify the ROM file path (required on the first use only), then launch your favorite retro games.
@@ -243,13 +239,13 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retroid Pocket 3+ D-pad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-d-pad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re coming to the Retroid Pocket platform for the first time and want to play old games as quickly as possible, the Android app library is a good option. Various retro classics are available, from key entries in the Sega arcade pantheon to BANDAI NAMCO and Atari classics.
 
  Failing that, it also comes with Steam Link installed, for playing games over your network from a nearby PC. It’s almost as good as having a[Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) (but not quite).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Retro Gaming and Gameplay on the Retroid Pocket 3+
 
@@ -266,7 +262,7 @@ There’s even Nintendo GameCube and Wii support.
 ![R-Type in PC Engine emulator on Retoid Pocket 3+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-rtype-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Meanwhile, you can bang your gaming onto a big-screen TV with the micro HDMI port. The 3.5mm audio port lets you enjoy private gaming soundtracks on the go, too. I also hooked up my Sony Bluetooth earbuds to the Retroid Pocket 3+, a far superior option to the console’s built-in speakers.
@@ -278,6 +274,10 @@ There’s even Nintendo GameCube and Wii support.
  I was staggered by the range of emulation platforms available on this console. I had expected late Sega consoles, but I was unprepared for the possibility of PSP and Wii support. (In fact, I’ve heard that some Switch games will also run, but we need to keep quiet about that.)
 
 ![Retroid Pocket 3+ by a pool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-pool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The release of the Retroid Pocket 3+ has proved somewhat controversial in the retro gaming handheld emulation community. To all intents and purposes, it is a Retroid Pocket 3, but with more processing and RAM, and a higher price to match, represents a notable upgrade.
 
@@ -298,22 +298,19 @@ There’s even Nintendo GameCube and Wii support.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-a-step-by-step-approach-to-generating-income-with-trailers/"><u>[Updated] A Step-by-Step Approach to Generating Income with Trailers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/htful-digests-a-list-of-top-food-channels-for-2024/"><u>Delightful Digests A List of Top Food Channels for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/essential-5-platforms-beyond-twitter/"><u>Essential 5 Platforms Beyond Twitter</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-reviews-leading-gaming-keyboards/"><u>Expert Reviews: Leading Gaming Keyboards</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-advanced-screen-recording-methods-on-dell-laptops/"><u>In 2024, Advanced Screen Recording Methods on Dell Laptops</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/m1s-effectiveness-in-handling-complex-video-projects-for-2024/"><u>M1's Effectiveness in Handling Complex Video Projects for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/navigating-the-past-accelerated-access-to-archived-content/"><u>Navigating the Past Accelerated Access to Archived Content</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-fix-for-degraded-gameplay-nintendo-switchs-joystick-changeout/"><u>Quick Fix for Degraded Gameplay: Nintendo Switch's Joystick Changeout</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revamp-your-iphones-dictation-5-key-fixes-for-improved-speech-recognition/"><u>Revamp Your iPhone's Dictation: 5 Key Fixes for Improved Speech Recognition</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-snes-and-n64-control-integration/"><u>Seamless SNES & N64 Control Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-devices-in-harmony-clearing-cloud-connectivity/"><u>Steam Devices in Harmony: Clearing Cloud Connectivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/taming-titles-load-time-woes-on-pc/"><u>Taming Title's Load Time Woes on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-of-ea-play-a-ps5-adventure/"><u>The Best of EA Play – A PS5 Adventure</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-quintessential-gaming-experience-starts-with-these-5-key-mice-traits/"><u>The Quintessential Gaming Experience Starts with These 5 Key Mice Traits</u></a></li>
-<li><a href="https://games-able.techidaily.com/winning-at-console-stability-preventing-sudden-severance-of-ps4-connection/"><u>Winning at Console Stability: Preventing Sudden Severance of PS4 Connection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mov-file-keeping-hacks-for-new-win-11-users/"><u>[New] 2024 Approved .MOV File Keeping Hacks for New Win 11 Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-demystifying-gopro-video-capture-with-burst-mode/"><u>[Updated] 2024 Approved Demystifying GoPro Video Capture with Burst Mode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-top-rated-no-cost-m2ts-video-reader-converting-your-avchd-and-blu-ray-disc-footage-for-pcs-and-macs/"><u>1. Top Rated No Cost M2TS Video Reader: Converting Your AVCHD and Blu-Ray Disc Footage for PCs & Macs</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-minecraft-launcher-malfunction-code-0x803f8001/"><u>Correcting Minecraft Launcher Malfunction: Code 0X803F8001</u></a></li>
+<li><a href="https://games-able.techidaily.com/decipher-graphics-card-ram-capacity/"><u>Decipher Graphics Card RAM Capacity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-driving-force-gt-wheel-software-compatible-with-win7-win10-and-win11/"><u>Download Logitech Driving Force GT Wheel Software Compatible with Win7, Win10 & Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-power-of-both-windows-and-steamos-on-your-deck/"><u>Embrace the Power of Both Windows and SteamOS On Your Deck</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-tackle-photo-errors-in-windows-devices/"><u>How to Tackle Photo Errors in Windows Devices</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone XS Max/iPad? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-the-art-of-engaging-facebook-video-ads/"><u>Mastering the Art of Engaging Facebook Video Ads</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-the-inconsistencies-of-steams-data-exchange/"><u>Mending the Inconsistencies of Steam's Data Exchange</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-secure-your-footage-how-to-blur-faces-in-videos/"><u>New In 2024, Secure Your Footage How to Blur Faces in Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-choice-finding-a-top-tier-144hz-monitor/"><u>The Best Choice: Finding a Top-Tier 144Hz Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwind-and-enjoy-netflixs-mobile-game-haven/"><u>Unwind and Enjoy: Netflix’s Mobile Game Haven</u></a></li>
 </ul></div>
 

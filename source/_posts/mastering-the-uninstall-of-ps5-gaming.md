@@ -1,7 +1,7 @@
 ---
 title: Mastering the Uninstall of PS5 Gaming
-date: 2024-08-22T22:28:28.608Z
-updated: 2024-08-23T22:28:28.608Z
+date: 2025-01-09T22:01:45.803Z
+updated: 2025-01-10T20:42:32.476Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 ![Black and white photograph of two DualSense controllers sitting by a PlayStation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/black-and-white-photograph-of-two-dualsense-controllers-sitting-by-a-playstation-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Deleting a game on your PS5 removes it from your system, but your saved data is stored elsewhere on your console. Deleting your saved data is a whole other process, and it’s one that you cannot do on accident.
 
 ## How Do I Delete a Game on My PS5?
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
  If you have been playing the game you want to delete recently, and it’s still on your home page, all you need to do is hover over the**game's icon** , press the**Options button** on your controller, and press**Delete** . The game will then be removed from your system, leaving you free to replace it with something else.
 
 ![delete game from home screen menu PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-game-from-home-screen-menu-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Only the most recently played games appear on your home screen. If the game isn’t on your home screen anymore, scroll to the right and open your**Game Library** . Make sure you’re on the**Installed** tab, find your game, press the options button on your controller, and select**Delete** .
 
@@ -40,11 +48,16 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 ![Sory by Menu PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sory-by-menu-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, not having to go through this process every time you want to download a new game is one of the many[reasons to purchase an SSD for your PS5](https://www.makeuseof.com/you-should-buy-a-second-ps5-ssd-reasons-why/) . If you are tired of not having enough space and would prefer all your games on your console at once, you can purchase an[internal or external SSD for your PS5](https://www.makeuseof.com/internal-vs-external-ps5-ssd-how-to-choose/) to expand your storage.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Redownload a Game on My PS5?
 
  If you’re done with your new adventure and miss the old game you deleted to make room for it, redownloading a game is as easy as deleting it in the first place. Simply head to the**Game Library** again, but instead of looking through the**Installed** tab, flick to**Your Collection** .
@@ -53,29 +66,23 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 ![Redownload Game PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/redownload-game-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  You can check the progress of your download by heading to your**Downloads/Uploads** section. There you can see it downloading in real time, and view an approximate time frame for your download.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Don’t Let Limited Space Prevent You From Playing New PS5 Games
 
  The PS5 doesn’t have all the space in the world, and as games are becoming more amazing, the file sizes are getting bigger. Thankfully, juggling your space by downloading and redownloading games as you need them is a very simple process, and you don’t need any extra devices or storage options to do it.
 
  If you’ve been keeping all your old games on your PS5 because you didn’t want to delete your saved data as well, hopefully this guide has put your mind at ease, and you can rest easy knowing your saved data is tucked safely away in your console even after the game’s gone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -84,4 +91,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-inspiring-movies-to-ignite-your-inner-strength-for-2024/"><u>[New] Inspiring Movies to Ignite Your Inner Strength for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211457959--010-the-great-tao-of-spiritual-science-series-10/"><u>生命奧秘全書010：謙卑踏上靈性的道路──人生是靈魂修煉的道場（處世篇）: The Great Tao of Spiritual Science Series 10 | Free Book</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-reno-10-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Reno 10 Pro 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero5-black-vs-yi-4k-which-takes-the-crown-in-action-cam-war-in-2024/"><u>Hero5 Black Vs. Yi 4K Which Takes the Crown in Action Cam War, In 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nokia-c12-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nokia C12</u></a></li>
+<li><a href="https://games-able.techidaily.com/purely-white-economically-sound-pc-components/"><u>Purely White, Economically Sound PC Components</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-assurance-sweep-keychron-and-lemokey-review/"><u>Quality Assurance Sweep: Keychron & Lemokey Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/slashed-size-heightened-vibrancy-at-tech-fairs-new-models/"><u>Slashed Size, Heightened Vibrancy at Tech Fair's New Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-case-against-early-ps5-acquisition/"><u>The Case Against Early PS5 Acquisition</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-stream-the-evolution-of-online-gaming/"><u>Xbox Game Stream: The Evolution of Online Gaming</u></a></li>
+</ul></div>
 

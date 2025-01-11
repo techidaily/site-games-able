@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Console's Core: An Xbox S Controller Study"
-date: 2024-08-22T22:25:33.000Z
-updated: 2024-08-23T22:25:33.000Z
+date: 2025-01-04T22:46:47.312Z
+updated: 2025-01-10T19:15:17.473Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
  If you're carrying out a complex repair like replacing your thumbsticks, you'll have to go even further and take the daughterboard out as well, as Xbox controllers tend to have two separate PCBs inside. Even[fixing your Xbox controller's drifting issues](https://www.makeuseof.com/xbox-controller-drift/) might require an in-depth teardown.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Equipment Do You Need?
 
  We've already covered[how to take apart your Xbox One controller](https://www.makeuseof.com/how-to-take-apart-an-xbox-one-controller/) , and while the process is largely similar, Xbox Series X|S controllers come with additional circuitry such as the trigger vibration motors which require extra steps. Additionally, Xbox Series X|S controllers come with[Torx Security screws instead of regular Torx screws](https://www.makeuseof.com/torx-screws-vs-torx-security-screws-difference/) , so you'll need the corresponding bits as well.
@@ -44,8 +48,9 @@ Overall, here's everything you need:
  In case you don't have the tools required, you can invest in any of the many toolkits[available on Amazon](https://www.amazon.com/Vastar-Screwdriver-Repair-Controller-Cleaning/dp/B07G122BVS?tag=muo-v2-5jqtuqu-20&ascsubtag=UUmuoUeUpU2027960&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fxbox-series-xs-controller-how-to-take-apart%2F&asc%5Fcampaign=Evergreen) for around $10.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Take Your Xbox Series X|S Controller Apart
 
  Now that you have everything you need on hand, disassembling an Xbox Series X|S controller is actually not that difficult. Just follow these steps.
@@ -54,36 +59,33 @@ Overall, here's everything you need:
 2. Using the plastic prying tool or spudger, remove the plastic panels from the controller's handles where your hands sit. This can be difficult, so be patient and gentle as you wiggle the prying tool under the edge to unclip the panels.  
 ![Xbox Series X|S controller handle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-1.JPG)
 3. Once the panels are off, you'll have to remove the five Torx Security screws—two on each handle, one under the sticker in the battery compartment.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. The front and back panels should simply come off now.
 5. At this point, you'll have access to the thumbsticks, D-pad, triggers, and the face buttons.  
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 6. Flip the controller over and use the prying tool to unclip the plastic tab protecting the USB-C port.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 7. Remove the tabs holding down the shoulder buttons from the left and right. This can be tricky, so be careful not to break the tabs. Once the tabs are open, take off the plastic cover.  
 ![Xbox Series X|S controller shoulder button tabs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-5.JPG)
 8. Use a T6 bit to unscrew the trigger vibration motors. The trigger should automatically come loose at this point.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're looking to replace or repair the triggers, you'll have to be wary of the trigger vibration motors as well. They're soldered onto the mainboard with rather thin wires that'll snap off if you put too much pressure on them. Additionally, the main vibration motors are wired through the face buttons on the right and the left stick on the left, so be careful not to snap them off or bend them too much.
 
 ![Xbox Series X|S controller trigger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-6.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In case you're looking to tear down your controller even further, you'll have to remove the two wires for the built-in wireless receiver from the daughterboard before removing the screws that hold it in place. Do keep in mind that going further will require some additional electronics know-how, so don't proceed unless you know what you're doing.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What Can You Do After Taking Apart Your Xbox Series X|S Controller?
 
  As mentioned above, once you're done with the disassembly, you can carry out just about any maintenance or repair work on your controller, including but not limited to:
@@ -103,14 +105,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Overall, with a few tools and a little bit of time, you can save yourself some money and prevent your controller from ending up in the trash by repairing or customizing it to breathe new life into the peripheral.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +118,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-navigating-virtual-language-basics/"><u>[New] 2024 Approved Navigating Virtual Language Basics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-historical-insights-from-youtubes-top-10-vlogs/"><u>[New] In 2024, Historical Insights From YouTube's Top 10 Vlogs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-luts-application-in-movie-post-production-coloring/"><u>[Updated] In 2024, Luts Application in Movie Post-Production Coloring</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-overcoming-the-barriers-to-distance-podcasting/"><u>2024 Approved Overcoming the Barriers to Distance Podcasting</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-a-safe-environment-for-teens-on-social-platforms-like-discord/"><u>Creating a Safe Environment for Teens on Social Platforms Like Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-desk-surface-accessories-2024/"><u>Cutting-Edge Desk Surface Accessories 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-advances-of-ai-in-nvidias-graphics-suite-dlss-35/"><u>Dissecting the Advances of AI in Nvidia's Graphics Suite: DLSS 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-pc-gaming-fixing-steam-remote-link-failures/"><u>Enhancing PC Gaming: Fixing Steam Remote Link Failures</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-continuous-ps4-connections-tips-for-windows-users/"><u>Ensuring Continuous PS4 Connections: Tips for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-retro-play-ios-and-nintendo-fusion/"><u>Epic Retro Play: IOS & Nintendo Fusion</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-hefty-to-sleek-the-ps5s-transformation/"><u>From Hefty to Sleek: The PS5's Transformation</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719293277231-get-personalized-chatbot-experience-local-clone-for-windows-at-no-cost/"><u>Get Personalized ChatBot Experience: Local Clone for Windows at No Cost</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reverse-latest-controllers-on-xbox-series-xs/"><u>How to Reverse Latest Controllers on Xbox Series X/S</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-a05-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy A05 Without PUK Codes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-poco-c50s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Poco C50s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/launching-into-the-spotlight-instagram-lives-for-2024/"><u>Launching Into the Spotlight Instagram Lives for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-popularity-of-intimate-gaming-styles/"><u>Navigating the Popularity of Intimate Gaming Styles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-mastering-igtv-content-creation/"><u>The Ultimate Guide to Mastering IGTV Content Creation</u></a></li>
+</ul></div>
 

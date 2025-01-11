@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Indulgences: EA Play on PS5"
-date: 2024-12-30T16:06:52.508Z
-updated: 2025-01-04T16:03:46.804Z
+date: 2025-01-09T23:30:33.938Z
+updated: 2025-01-11T07:57:42.412Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. It Takes Two
 
  It Takes Two is an award-winning thrilling local cooperative platformer game by Hazelight Studios. The story follows Cody and May, a husband and wife at the cusp of a divorce, who both get transformed into dolls by a sentient relationship book called Dr. Hakim.
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  Two players must get the tiny characters from the garden shed to their house. They must avoid, maneuver, and overcome obstacles together as they journey to save their marriage. Many reviewers have described this game as genre-bending, and it’s one of the most refreshing games of its decade.
 
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. FIFA 23
 
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
  One of FIFA’s greatest appeals is its easy couch co-op system. It’s one of those games you should just have on your PS5 so you and your pals can have fun together. We placed it on this list as a good solution for multiplayer action for all soccer lovers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. The Sims 4
 
  Thanks to EA Play, you can[get the Sims 4 free of charge](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) . It’s a relatively old game, released in 2014, but it remains evergreen thanks to its timeless style and all the infinite possibilities and playstyles you can have in it. The Sims 4 is one of the best life simulation games, with options that let you create a Sims dynasty and family line that can go on for as long as you have time to play.
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  Additionally, one of the most understated things about The Sims 4 is its architecture and interior decor possibilities. If you don’t mind fiddling about columns and carpets using a joystick instead of a mouse, then The Sims 4 on a PS5 might be a good treat for you. And if you really dislike joystick simulation games, you can also[connect a keyboard and mouse to your PS5](https://www.makeuseof.com/how-to-use-keyboard-mouse-ps5/) .
 
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Need for Speed Heat
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Plants vs Zombies Garden Warfare 2
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  While level progression in the game might be tedious, and you would need a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Star Wars Jedi: Fallen Order
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  As long as you stay away from the micro-transactions (AKA Ultimate Team) part of this game, you will enjoy it if you love combat sports. This version also gets commentary from Snoop Dogg in addition to the usual Joe Rogan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## EA Play Is $5 Per Month of Unlimited Fun
@@ -118,19 +118,20 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-virtualvicar-video-vetting/"><u>[New] In 2024, VirtualVicar Video Vetting</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-investigating-authenticitys-role-in-social-media-selfie-presentation/"><u>[Updated] Investigating Authenticity’s Role in Social Media Selfie Presentation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-longest-flight-drone-champions-unveiled-for-2024/"><u>[Updated] Longest Flight Drone Champions Unveiled for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-innovative-techniques-for-stellar-screen-captures-with-adobe-captivity/"><u>2024 Approved Innovative Techniques for Stellar Screen Captures with Adobe Captivity</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/converter-mkas-com-facilidade-e-sem-custo-utilize-o-conversor-on-line-gratis-da-movavi/"><u>Converter MKAs Com Facilidade E Sem Custo - Utilize O Conversor On-Line Grátis Da Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/momentum-with-these-strategies-for-trending-youtubers-for-2024/"><u>Gain Momentum with These Strategies for Trending YouTubers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/pre-alpha-playtime-your-guide-to-sneaking-into-starfield/"><u>Pre-Alpha Playtime: Your Guide to Sneaking Into Starfield</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5s-big-changes-old-vs-new-designs/"><u>PS5's Big Changes: Old Vs. New Designs</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-emulation-playing-classics-on-steam-deck/"><u>Seamless Emulation: Playing Classics on Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-minecraft-launcher-error-0x803f8001-on-windows-1011/"><u>Troubleshooting Minecraft Launcher Error 0X803F8001 on Windows 10/11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-fortnites-vip-features-with-playstation-5/"><u>Unlocking Fortnite's VIP Features with PlayStation 5</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/44oh44kj44k544kv44gu44kv44oq44o844oz44ki44od44ox5b6m44gr5asx44kp44km44gf5oof5acx44ks5zue5b6p44gz44kl44kz44oe/"><u>ディスクのクリーンアップ後に失われた情報を回復するコツ</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unleashing-creativity-in-youtube-banner-and-thumbnail-design/"><u>2024 Approved Unleashing Creativity in YouTube Banner & Thumbnail Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-chips-that-will-shape-our-future-at-computex-2024/"><u>AI Chips That Will Shape Our Future at Computex 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-gaming-winner-innocn-39g1-r/"><u>Budget Gaming Winner: InnoCN 39G1 R</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-polarrs-secret-ultimate-guide-to-digital-image-editing/"><u>Discover Polarr’s Secret Ultimate Guide to Digital Image Editing</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-development-winner-directx-11-or-12/"><u>Game Development Winner: DirectX 11 or 12?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-13-mini-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 13 mini Lock Screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/impulsive-buy-how-apples-usb-c-enhanced-earpods-became-a-must-have-during-amazons-prime-day-insights/"><u>Impulsive Buy: How Apple's USB-C Enhanced EarPods Became a Must-Have During Amazon's Prime Day - Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/individualized-fan-settings-optimize-gpu-temperature-and-power/"><u>Individualized Fan Settings Optimize GPU Temperature & Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-network-disconnect-on-windows-quick-tips/"><u>Minecraft Network Disconnect on Windows: Quick Tips</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigating the World of Electronics with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-future-is-in-your-cloud-price-rankings-and-bargains-2024/"><u>The Future Is in Your Cloud Price Rankings & Bargains 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-twitch-guide-platform-overview-and-streamer-resources/"><u>The Twitch Guide: Platform Overview and Streamer Resources</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168463782-the-ultimate-arcade-upgrade-wide-front-panels/"><u>The Ultimate Arcade Upgrade: Wide Front Panels!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-nokia-c110-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia C110 Android SIM Unlock APK</u></a></li>
+<li><a href="https://article-tips.techidaily.com/xsplit-compendium-in-depth-gaming-analysis/"><u>XSplit Compendium In-Depth Gaming Analysis</u></a></li>
 </ul></div>
 

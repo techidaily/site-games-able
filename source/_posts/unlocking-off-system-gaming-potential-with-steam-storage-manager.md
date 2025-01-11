@@ -1,7 +1,7 @@
 ---
 title: Unlocking Off-System Gaming Potential with Steam Storage Manager
-date: 2024-08-22T22:25:34.134Z
-updated: 2024-08-23T22:25:34.134Z
+date: 2025-01-08T16:13:11.833Z
+updated: 2025-01-10T20:09:02.887Z
 tags:
   - games
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![Steam Settings storage manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-settings-storage-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Steam Library Folder to Your External Drive
 
  Now that you’ve found the storage manager, you’ll want to plug in your external drive and add it as a Steam Library Folder with the**+** button located beside the rightmost Steam drive.
@@ -38,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  You can install Steam games directly on your external drive once you've added a Steam Library folder into it. Although, we only suggest this if the game isn't already in your internal drives as the existing files will interfere. If the game exists in your internal drives, figure out how to move it to your external drive below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How to Move Your Steam Games to Your External Drive
 
  Moving your Steam games to an external drive is a great way to free up some space on your local drives. If you want to free up some more space, here’s[how to use SpaceSniffer to visualize your files](https://www.makeuseof.com/free-drive-space-by-visualizing-your-files-with-spacesniffer/) and delete ones that you don’t use anymore but are taking up a lot of space.
@@ -50,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![Moving game to external drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/moving-game-to-external-drive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click on the local drive that stores your games and on the right side you can check the boxes of the games you want to move to the external drive.
 
  Once you select at least one game, the**Move** and**Uninstall** buttons will brighten up and become clickable. Click**Move** and choose the external drive you just added. You might want to check out[the best external SSDs](https://www.makeuseof.com/best-portable-ssds/) to speed up the transfer time and improve loading times for more demanding games.
@@ -66,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![Copy and pasting game from local drive to external drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/copy-and-pasting-game-from-local-drive-to-external-drive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  This should open up the**\\steamapps** folder, you can then proceed to open the**\\common** folder. Open the same folder on your external drive so you can paste it afterwards.
 
  The \\common folder is where your games are stored. Simply select and copy the games and paste them into the same \\common folder on your external drive.
@@ -76,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  However, copying the games instead of moving them won’t show up on Steam immediately when adding the drive to the new PC. Getting those games to show up will require extra steps that we will show you in the next section.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Play Steam Games From an External Drive
 
  Storing your games in an external drive is great stuff, but what’s even better is when you can play your Steam games directly from the external drive without transferring them to your local drives. Here’s how to play the Steam games you just moved to your external drive.
@@ -89,9 +89,9 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![Validating Steam game on external drive by installing it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/validating-steam-game-by-installing-it.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Copy-pasting Steam games on your external hard drive will require validation. To do this, simply click**Install** on the game you pasted to the external drive on Steam, making sure to select the external drive, and it will go through the validation process.
 
  That's it, you're ready to play your Steam games from any capable system as long as your drive is with you. We suggest plugging your external drive into a USB 3.0 slot or higher to make sure the drive can catch up to the task. Note that some games may take longer to load as the read and write speeds depend on the port you plug it into and your external drive's speed.
@@ -99,22 +99,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Instead of a bulky external drive, you could even use a high-speed MicroSD card and a fast card reader for an ultra-compact experience that even fits in your wallet, or in your phone! Just make sure to avoid these[common mistakes when buying a MicroSD card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Carry Your Steam Library in Your Pocket
 
  Being able to bring your Steam games with you and play on any system that can handle those games without needing to do any complicated file verification steps like in the past is a great privilege to have thanks to the Steam Storage Manager.
 
  While the feature still needs a lot of work, we're glad Valve finally added it to the two-decade-old platform. We hope it doesn't take another decade for it to improve the Storage Manager, though.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +121,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-clear-skies-in-video-learn-to-trim-logitech-feeds/"><u>[New] In 2024, Clear Skies in Video – Learn to Trim Logitech Feeds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/battle-for-yggdrasil-ragnarok-begins-for-2024/"><u>Battle for Yggdrasil Ragnarok Begins for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-on-moto-g-plays-robust-battery-life-and-solid-performance-metrics/"><u>Comprehensive Review on Moto G Play's Robust Battery Life and Solid Performance Metrics</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-gamers-a-guide-to-streaming-xbox-games-via-discord/"><u>Connecting Gamers: A Guide to Streaming Xbox Games via Discord</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/decoding-and-defeating-the-notorious-0x0000000a-bsod-issue-on-your-pc/"><u>Decoding and Defeating the Notorious 0X0000000A BSOD Issue on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-secrets-of-xbox-game-pass/"><u>Decoding the Secrets of Xbox Game Pass</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-linksys-wusb6300-network-adapter-free-driver-download-guide/"><u>Easy Installation of Linksys WUSB6300 Network Adapter - Free Driver Download Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ensuring-no-loss-of-data-with-superior-backup-solutions-by-yl-software-experts/"><u>Ensuring No Loss of Data with Superior Backup Solutions by YL Software Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/halt-the-discord-gaming-interface/"><u>Halt the Discord Gaming Interface</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-meta-quest-meta-quest-3-upcoming-launch-date-market-price-and-comprehensive-specs-breakdown/"><u>Inside Look at Meta Quest ([Meta Quest 3]: Upcoming Launch Date, Market Price & Comprehensive Specs Breakdown</u></a></li>
+<li><a href="https://fox-links.techidaily.com/is-av1-really-outdo-cooking-vp9-in-2024/"><u>Is AV1 Really Outdo Cooking VP9, In 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-visibility-controls-on-the-windows-11-taskbar-tips-and-tricks-revealed/"><u>Mastering Visibility Controls on the Windows 11 Taskbar: Tips & Tricks Revealed!</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-generation-playground-nine-proposals-to-upgrade-sonys-console/"><u>Next Generation Playground: Nine Proposals to Upgrade Sony's Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-up-envisioning-beyond-energy/"><u>Power Up: Envisioning Beyond Energy</u></a></li>
+<li><a href="https://games-able.techidaily.com/removing-incorrectly-flagged-debit-card-from-console/"><u>Removing Incorrectly Flagged Debit Card From Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-tackle-non-operational-display-driver-in-windows-11/"><u>Steps to Tackle Non-Operational Display Driver in Windows 11</u></a></li>
+</ul></div>
 

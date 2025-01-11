@@ -1,7 +1,7 @@
 ---
 title: How to Quell the Game Bar on Windows 10/11 PCs
-date: 2025-01-01T16:01:20.657Z
-updated: 2025-01-04T16:01:13.797Z
+date: 2025-01-09T17:51:09.128Z
+updated: 2025-01-10T19:10:08.049Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable the Xbox Game Bar in Windows 10
@@ -38,11 +38,11 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 ![disable the xbox gamebar in windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restrict Xbox Game Bar's Background Activity in Windows 11
@@ -55,21 +55,21 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 ![opening the list of installed apps to customize settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/opening-the-list-of-installed-apps-to-customize-settings-1.jpg)
 4. Search**"Xbox"** in the search bar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the**three horizontal dots** next to the**Xbox Game Bar** app and select**Advanced options** .  
 ![open advanced options settings for xbox game bar in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-advanced-options-settings-for-xbox-game-bar-in-the-settings-app.jpg)
 6. Select**Never** in the dropdown menu under**Let this app run in the background** .  
 
-![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
+
  Like disabling the Xbox Game Bar, you can tweak a few settings to[improve your gaming performance on Windows 10](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) and[Windows 11](https://www.makeuseof.com/improve-gaming-experience-windows-11/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't Let the Xbox Game Bar Drain Your System Resources
 
@@ -92,24 +92,24 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-a-beginner-friendly-introduction-to-io-screen-recorder/"><u>[Updated] A Beginner-Friendly Introduction to IO Screen Recorder</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-master-the-art-of-customizing-youtube-thumbnails-and-improving-visibility-for-2024/"><u>[Updated] Master the Art of Customizing YouTube Thumbnails and Improving Visibility for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-analyzing-face-editing-tools-polaroid-cube-vs-gopro-hero-series/"><u>2024 Approved Analyzing Face-Editing Tools Polaroid Cube Vs. GoPro Hero Series</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-pro-level-streaming-tech-innovations-you-need/"><u>2024 Approved Pro-Level Streaming Tech Innovations You Need</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-the-role-of-hrtf-in-valorant-auditory-experience/"><u>Deciphering the Role of HRTF in Valorant Auditory Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/easy-path-to-discord-mac-installation-explained/"><u>Easy Path to Discord: Mac Installation Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-steam-from-autostart/"><u>Eliminating Steam From Autostart</u></a></li>
-<li><a href="https://games-able.techidaily.com/exceptionally-efficient-google-play-pass-exception/"><u>Exceptionally Efficient Google Play Pass - Exception?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/expert-hacks-for-improved-tiktok-visuals-for-2024/"><u>Expert Hacks for Improved TikTok Visuals for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-dxvks-impact-on-windows-gaming-performance/"><u>Exploring DXVK's Impact on Windows Gaming Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/heres-why-hdmi-21-is-so-important-for-gaming/"><u>Here's Why HDMI 2.1 Is So Important For Gaming</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-honor-x7b-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Honor X7b?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-ace-2-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Ace 2 Pro?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>In 2024, Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-streamlining-communication-the-art-of-using-zoom-in-win11/"><u>In 2024, Streamlining Communication The Art of Using Zoom in Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-display-driver-startup-problems-in-windows-11-systems/"><u>Resolving Display Driver Startup Problems in Windows 11 Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-ps5-dualsense-controller-chargers-of-2024/"><u>The Best PS5 DualSense Controller Chargers of 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-competition-testing-and-contrasting-mistral-ais-le-chat-with-chatgpt/"><u>Unveiling the Competition: Testing and Contrasting Mistral AI’s Le Chat with ChatGPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/you-can-play-fortnite-on-a-mac-but-theres-a-big-catch/"><u>You Can Play Fortnite on a Mac, But There’s a Big Catch</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-music-hits-2023s-most-praised-video-responses/"><u>[New] YouTube Music Hits 2023'S Most Praised Video Responses</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-intelligent-volume-modulation-strategies-for-2024/"><u>[Updated] Intelligent Volume Modulation Strategies for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-best-picks-for-dynamic-collage-designers/"><u>Android's Best Picks for Dynamic Collage Designers</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-childhood-fun-with-iphone-gaming-classics/"><u>Bring Back Childhood Fun with iPhone Gaming Classics</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-conscious-ultra-high-precision-gaming-screens/"><u>Budget-Conscious, Ultra-High Precision Gaming Screens</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elgoog-examined-an-in-depth-analysis-of-googles-funny-twin/"><u>ElgooG Examined: An In-Depth Analysis of Google's Funny Twin</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168855962-enhance-performance-install-latest-nvidia-drivers-now/"><u>Enhance Performance! Install Latest Nvidia Drivers Now.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-12-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 12 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/improve-your-homes-digital-television-signal-using-indoor-antennas/"><u>Improve Your Home's Digital Television Signal Using Indoor Antennas</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-civi-3-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi Civi 3 Location | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-brother-mfc-7860dw-drivers-for-windows-free-downloads-available/"><u>Latest Brother MFC- 7860DW Drivers for Windows - Free Downloads Available!</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-your-review-format-for-steam-games/"><u>Perfecting Your Review Format for Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/remediation-techniques-for-low-end-display-effects/"><u>Remediation Techniques for Low-End Display Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-path-to-prosperous-steam-utilization/"><u>The Path to Prosperous Steam Utilization</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-4-imperatives-boosting-xbox-points-strategy/"><u>The Top 4 Imperatives: Boosting Xbox Points Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-from-screen-to-controller-for-fallout-gaming/"><u>Transition From Screen to Controller for Fallout Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-microsoft-edge-holds-the-crown-in-gaming-browsers/"><u>Why Microsoft Edge Holds the Crown in Gaming Browsers</u></a></li>
 </ul></div>
 

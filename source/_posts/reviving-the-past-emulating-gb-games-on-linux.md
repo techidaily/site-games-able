@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Past: Emulating GB Games on Linux"
-date: 2024-08-22T22:25:23.193Z
-updated: 2024-08-23T22:25:23.193Z
+date: 2025-01-06T21:54:45.941Z
+updated: 2025-01-10T21:47:14.834Z
 tags:
   - games
 categories:
@@ -16,9 +16,17 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 
  The Linux terminal, while certainly a fun place, isn't especially well known as a console gaming platform—largely thanks to its limited ASCII and Braille output. But its Spartan interface is almost perfect for replicating the display of an original 1989 Nintendo Game Boy. Here's how to play Game Boy games in your terminal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Emulate a Game Boy in the Terminal?
 
 ![pokemon red star splash screen in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-red-star-splash-screen-in-the-linux-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Nintendo's Game Boy is one of the most wildly successful game consoles ever created, and introduced generations of kids and adults to the joys of games such as Tetris, Pokemon, and the Super Mario Land series.
 
@@ -37,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
  You also won't be able to save games. If these limitations are too restrictive, there are dozens of excellent emulators available on Linux.
 
  You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install php-terminal-gameboy-emulator on Linux
 
@@ -79,8 +91,9 @@ Make it executable with:
 `sudo mv php-gameboy.phar /usr/local/bin/php-gameboy`
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Play Awesome Game Boy Games in Your Linux Terminal
 
  To start a game with php-terminal-gameboy-emulator, you need to pass the filename of the ROM file as an argument. For instance:
@@ -104,22 +117,20 @@ Make it executable with:
 | M                 | Start            |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Impress Your Friends With php-terminal-gameboy-emulator
 
  Playing action, fighting, and adventure games from within the Linux terminal is a technical feat that's sure to inspire your colleagues and relations, and can be an excellent way to convince them of Linux's pre-eminence as a gaming system.
 
  You can also use it as a way to relive your childhood in some idle downtime when you're working.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +139,24 @@ Make it executable with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-learn-to-cut-out-the-unwanted-a-guide-to-erasing-background/"><u>[New] 2024 Approved Learn to Cut Out the Unwanted A Guide to Erasing Background</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-unparalleled-streaming-experience/"><u>[New] The Ultimate Guide to Unparalleled Streaming Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-cut-out-facebook-stories-step-by-step-for-pc-and-phones/"><u>[Updated] Cut Out Facebook Stories Step-By-Step for PC & Phones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-amplify-your-influence-the-ultimate-list-of-instagram-apps/"><u>[Updated] In 2024, Amplify Your Influence The Ultimate List of Instagram Apps</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/exploring-the-distinctive-features-in-each-version-of-aomei-backupper-software/"><u>Exploring the Distinctive Features in Each Version of AOMEI Backupper Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-itel-a05s-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Itel A05s Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-20-best-anime-opening-songs-of-all-time/"><u>In 2024, 20 Best Anime Opening Songs of All Time</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-x-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone X Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-vrr-feature-for-smooth-gameplay-on-xbox-console/"><u>Mastering the VRR Feature for Smooth Gameplay on Xbox Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserve-steam-captures-step-by-step-guide/"><u>Preserve Steam Captures: Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-cloud-synching-on-steam-devices/"><u>Quick Fixes for Cloud Synching on Steam Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-and-efficient-charger-kits-for-ps5-dualsense/"><u>Smart & Efficient Charger Kits for PS5 DualSense</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-missing-opencl-dynamic-libraries/"><u>Tackling Missing OpenCL Dynamic Libraries</u></a></li>
+<li><a href="https://games-able.techidaily.com/tetris-talent-showdowns-on-android-and-ios-devices/"><u>Tetris Talent Showdowns on Android and iOS Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-emulation-guide-for-the-best-steam-deck-gaming/"><u>The Ultimate Emulation Guide for the Best Steam Deck Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-mystery-of-virtual-realitys-exorbitant-pricing/"><u>Unlocking the Mystery of Virtual Reality's Exorbitant Pricing</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-cozy-games-a-haven/"><u>What Makes Cozy Games a Haven?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Gamers' Tips Shouldn't Sway Dev Motivation
-date: 2024-08-22T22:24:44.318Z
-updated: 2024-08-23T22:24:44.318Z
+date: 2025-01-05T19:06:34.044Z
+updated: 2025-01-11T06:08:22.562Z
 tags:
   - games
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 
 ## Why Gamers' Tips Shouldn't Sway Dev Motivation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Tipping game developers could be an option, but other methods like crowdfunding and Patreon already exist.
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 * Tipping culture in gaming may lead to low pay and poor conditions; a sustainable gaming economy is crucial for the future of the industry.
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who’s Suggesting We Tip Game Developers?
 
@@ -31,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Do Game Developers Already Earn?
 
  The quick and unsatisfying answer is: it depends. Game Developer roles vary enormously, from sole indie developers working on their dream projects to in-house employees at the biggest publishing houses. Like many professions, game development can be very lucrative or pitifully rewarding.
@@ -42,15 +51,13 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Tipping is an interesting idea, but do we really need one more payment method?
 
 [Sites like Patreon and Ko-fi](https://www.makeuseof.com/patreon-vs-ko-fi-for-creators/) approach the issue of funding in different ways. The former focuses on subscription and recurring payments to provide creators with a side income; regular tips, if you like. Ko-fi, meanwhile, encourages small, one-off or regular payments, more akin to the nature of tipping, but less directly associated with service.
@@ -60,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Negative Effects of Tipping Culture
 
  My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and[the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
@@ -70,17 +78,10 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
  Game developer[GrimTalin](https://www.grimtalin.com/p/home.html) (The Adventures of Elena Temple) picked up on Ybarra’s point about convenience:
@@ -103,14 +104,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  I think this is a reasonable compromise. I don’t want to see developers taken advantage of by a tipping culture that treats them as disposable. But if tipping is simply one form of recompense among many, and developers are fairly rewarded for their toil and innovation, then maybe it’s not all so bad.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +117,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-xbox-fanatics-manual-perfect-your-screenshot-skills/"><u>[Updated] In 2024, Xbox Fanatics' Manual Perfect Your Screenshot Skills</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/5-best-live-stream-video-conference-recorders/"><u>5 Best Live Stream Video Conference Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boost-expressiveness-with-multi-emojis-on-iphones-a-quick-guide/"><u>Boost Expressiveness with Multi-Emojis on iPhones - A Quick Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/excellent-live-broadcast-achieving-ultra-hd-fb-video-for-2024/"><u>Excellent Live Broadcast Achieving Ultra-HD FB Video for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-voyage-hacks-9-must-know-tips/"><u>Gamer's Voyage Hacks: 9 Must-Know Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-11-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 11 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715854973583-in-2024-vrecorder-how-to-download-and-install/"><u>In 2024, VRecorder How to Download and Install</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mise-a-jour-gratuite-telechargez-votre-convertisseur-de-fichiers-m4a-avec-movavi-line/"><u>Mise À Jour Gratuite : Téléchargez Votre Convertisseur De Fichiers M4A Avec Movavi Line</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionizing-mobile-payments-facebooks-unique-subscriber-tie-ups-explored/"><u>Revolutionizing Mobile Payments: Facebook's Unique Subscriber Tie-Ups Explored</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screen-savvy-secure-your-captures-chromebooks-top-4-techniques-in-2024/"><u>Screen Savvy Secure Your Captures - Chromebook's Top 4 Techniques, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-solutions-for-switch-internet-issues/"><u>Swift Solutions for Switch Internet Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-steps-regain-connectivity-in-your-games/"><u>Swift Steps: Regain Connectivity in Your Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-smartphone-gaming-experience-with-geforce-now/"><u>The Ultimate Smartphone Gaming Experience with GeForce Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/time-traveling-gaming-from-old-to-new-consoles/"><u>Time Traveling Gaming: From Old to New Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-white-pc-boards-reviewed/"><u>Top White PC Boards Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-console-chronicle-tools/"><u>Unmatched Console Chronicle Tools</u></a></li>
+</ul></div>
 

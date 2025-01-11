@@ -1,7 +1,7 @@
 ---
 title: Determining Your Device's VRAM Capacity
-date: 2024-12-22T21:42:47.336Z
-updated: 2024-12-25T23:58:57.567Z
+date: 2025-01-07T05:54:46.785Z
+updated: 2025-01-11T02:54:53.480Z
 tags:
   - games
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  Since just about every gamer and a number of content creators prefer using Windows, there are several tools that can give you varying amounts of information on how much VRAM your computer has.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using Windows Settings
 
  The simplest way of finding out how much VRAM you have is to go through your Windows Settings.
@@ -38,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 ![Screenshot showing VRAM in Windows settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-settings-check-vram-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you've got more than one GPU in your system (one discrete and one integrated) or multiple displays, you might want to check the others as well to make sure you're seeing the right type of VRAM.
 
  Also, remember that while this is one of the simplest methods of looking up your VRAM, it doesn't give you a lot of information, and if you're using a laptop, it will only show the integrated GPU's VRAM here. If you'd like to know more about your computer's VRAM without downloading an external tool, the DirectX Diagnostic Tool is a better option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Using the DirectX Diagnostic Tool
 
@@ -58,15 +62,15 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  Once again, remember that if you have multiple GPUs or displays, you'll see multiple Display tabs here. This is especially true in the case of laptops, where you might see an additional**Render** tab that will show you the VRAM and other information of your dedicated GPU.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Using Third-Party Tools
 
  Last but not least, if the in-built Windows tools don't give you enough information or don't work for whatever reason, you can always default to third-party tools that are readily available, safe to use, and will give you a host of information on just about every component of your computer, including GPU and VRAM.
 
 ![Screenshot showing OpenHardwareMonitor tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openhardwaremonitor-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tools like[GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and[OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
 
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 ![Linux lshw tool showing GPU information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/linux-vram-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can also use the`nvtop` or`radeontop` tools for Nvidia and AMD GPUs, respectively, if you'd like more information. These also include graphs of how your GPU is being used in real time. You can install these tools by using the following commands:
 
 `## For installing nvtop  
@@ -91,7 +91,7 @@ sudo apt-get install nvtop
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## For installing radeontop
@@ -118,7 +118,7 @@ sudo apt-get install radeontop`
 ![asus graphics card on granite surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpu-card-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a general rule of thumb, you should have at least 4GB of VRAM for gaming and 8GB of VRAM for video editing. This requirement can vary based on what games you're playing or the resolution of the video you're editing, but the more, the better. We've already covered[how much VRAM you need for modern games](https://www.makeuseof.com/how-much-vram-do-you-need-modern-games/) in case you need some help.
@@ -144,16 +144,18 @@ sudo apt-get install radeontop`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-detailed-overview-of-lightroom-on-android-devices-for-2024/"><u>[Updated] Detailed Overview of Lightroom on Android Devices for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/determining-the-graphics-hardware-in-your-system-with-ease-expert-advice-from-yl-computing/"><u>Determining the Graphics Hardware in Your System with Ease - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-how-to-upgrade-or-install-the-macos-sierra/"><u>In 2024, How to Upgrade or Install the macOs Sierra</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-silent-no-auto-start-of-steam/"><u>Keep Silent: No Auto-Start of Steam</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-freefire-gameplay-essential-youtube-tips-for-2024/"><u>Mastering FreeFire Gameplay Essential YouTube Tips for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/preeminent-benefits-five-ways-to-upgrade-your-gameplay/"><u>Preeminent Benefits: Five Ways to Upgrade Your Gameplay</u></a></li>
-<li><a href="https://games-able.techidaily.com/quality-gaming-at-a-steal-innocn-39g1r/"><u>Quality Gaming at a Steal: InnoCN 39G1R</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-your-ps4-gamepad-solutions-to-prevalent-control-troubles/"><u>Revive Your PS4 Gamepad: Solutions to Prevalent Control Troubles</u></a></li>
-<li><a href="https://solve-news.techidaily.com/revolutionary-tcl-tab-10-nxtpaper-an-innovative-5g-tablet-experience-for-extended-battery-performance/"><u>Revolutionary TCL Tab 10 NXTPaper: An Innovative 5G Tablet Experience for Extended Battery Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/tapping-beats-tablet-versus-mice-dominance/"><u>Tapping Beats: Tablet Versus Mice Dominance</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-windows-folders-tricks-for-enhanced-efficiency/"><u>Top 5 Windows Folders Tricks for Enhanced Efficiency</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-online-tips-creating-title-magic-for-2024/"><u>[New] Top Online Tips Creating Title Magic for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/iewer-growth-strategy-dynamic-description-templates-for-youtube-success-for-2024/"><u>[New] Viewer Growth Strategy Dynamic Description Templates for YouTube Success for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-top-8-gold-text-wonders-in-the-vast-world-of-3d-sites/"><u>[Updated] In 2024, Top 8 Gold-Text Wonders in the Vast World of 3D Sites</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-adapt-retro-dock-to-work-with-oled-switch/"><u>Can You Adapt Retro Dock to Work With OLED Switch?</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-vintage-gaming-the-power-of-xemu-for-pc/"><u>Emulating Vintage Gaming: The Power of Xemu for PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-most-influential-srt-boosters-for-pc-and-apple-systems/"><u>In 2024, Most Influential SRT Boosters for PC & Apple Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-vs-android-battle-royale-edition-of-tetris/"><u>IOS vs Android: Battle Royale Edition of Tetris</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-currency-obtaination-and-operations/"><u>Mastering Steam Currency: Obtaination and Operations</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-games-necessity-or-luxury-for-mts/"><u>Premium Games: Necessity or Luxury for MTs?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fixes-to-the-d3dx924dll-missing-or-not-found-problem/"><u>The Ultimate Fixes to the d3dx9_24.dll MISSING or NOT FOUND Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-pc-adventures-from-the-latest-google-play-game-beta/"><u>Top 10 PC Adventures From the Latest Google Play Game Beta</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-real-time-ai-voice-changer-revolutionizing-communication-for-2024/"><u>Updated Real-Time AI Voice Changer Revolutionizing Communication for 2024</u></a></li>
 </ul></div>
 

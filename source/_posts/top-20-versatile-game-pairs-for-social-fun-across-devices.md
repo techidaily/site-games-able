@@ -1,7 +1,7 @@
 ---
 title: Top 20 Versatile Game Pairs for Social Fun Across Devices
-date: 2024-08-22T22:23:04.499Z
-updated: 2024-08-23T22:23:04.499Z
+date: 2025-01-04T22:45:44.290Z
+updated: 2025-01-10T17:59:09.269Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
 
 **Download:** Spaceteam for[iOS](https://apps.apple.com/app/spaceteam/id570510529) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.sleepingbeastgames.spaceteam) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Words With Friends 2
 
 The sequel to the acclaimed Words With Friends is more like an update.
@@ -40,9 +44,6 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Words With Friends 2 for[iOS](https://apps.apple.com/app/words-with-friends-2-word-game/id1196764367) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.zynga.words3) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Pokémon UNITE
 
  A MOBA (Multiplayer Online Battle Arena) similar to League of Legends, Pokémon UNITE offers more fast-paced, streamlined gameplay for quick on-demand teamwork battles.
@@ -51,9 +52,6 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Pokémon UNITE for[iOS](https://apps.apple.com/us/app/pok%C3%A9mon-unite/id1512321575) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Teamfight Tactics
 
  Riot Games' auto chess title provides a competitive experience with familiar League of Legends' champions. Draft and play champions while aiming to create the best team.
@@ -63,8 +61,9 @@ The sequel to the acclaimed Words With Friends is more like an update.
 **Download:** Teamfight Tactics for[iOS](https://apps.apple.com/app/tft-teamfight-tactics/id1480616748) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Minecraft
 
  Originally referred to as the Pocket Edition, the mobile version of Minecraft is almost identical to the PC version. The only significant difference is that you can't connect third-party mods or use third-party servers. Also, typically, any update that comes out for Minecraft won't come out for the mobile versions until a later date.
@@ -74,6 +73,10 @@ The sequel to the acclaimed Words With Friends is more like an update.
  Playing Minecraft alone, however, is no fun. No matter the platform, Minecraft was made for socializing, and its cross-compatibility lets you play with your friends. If Minecraft doesn't sate your adventuring itch or allow for enough relaxing world-building, you can try out these[serene gaming apps to help reduce feelings of anxiety and stress](https://www.makeuseof.com/serene-gaming-apps-reduce-anxiety-stress/) .
 
 **Download:** Minecraft for[iOS](https://apps.apple.com/app/minecraft/id479516143) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe) ($6.99 \[iOS\], $6.99 \[Android\], in-app purchases available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Hearthstone
 
@@ -85,9 +88,6 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Hearthstone for[iOS](https://apps.apple.com/app/hearthstone/id625257520) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 7\. Pokémon Go
 
  When it debuted, Pokémon Go smashed the glass ceiling for AR (Augmented Reality) gaming, bringing pocket monsters into the real world. You and your friends can take your phones, whether Android or iOS, and go out into the real world and explore.
@@ -104,6 +104,10 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** PUBG Mobile for[iOS](https://apps.apple.com/app/pubg-mobile-arcane/id1330123889) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.tencent.ig) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Mario Kart Tour
 
  While many cross-platform mobile multiplayer games focus on a more typical battle game archetype, the racing sub-genre shouldn't be forgotten. While Mario Kart remains a strong option on the Nintendo Switch, your friends on mobile don't need to be left out.
@@ -115,17 +119,15 @@ The sequel to the acclaimed Words With Friends is more like an update.
 **Download:** Mario Kart Tour for[iOS](https://apps.apple.com/us/app/mario-kart-tour/id1293634699) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.nintendo.zaka) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Old School RuneScape
 
  Ready to scratch the nostalgia bug with friends? As one of the earliest accessible MMORPGs, many gamers will fondly remember RuneScape. Whether you're ready to fish, mine, or fight, you can resume your adventures in true crossplay form with all of your friends.
 
 **Download:** Old School RuneScape for[iOS](https://apps.apple.com/app/apple-store/id1269648762) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.jagex.oldscape.android) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 11\. League of Legends: Wild Rift
 
  If you've been a fan of Riot Games' League of Legends franchise, taking to the Rift with friends on mobile was previously impossible. While League of Legends: Wild Rift doesn't support crossplay with PC players, Android and iOS users can queue up in duos, trios, or a complete five-person party as you target the enemy's nexus. With Riot's MOBA mobile launch, you can now play a full phone game with your friends.
@@ -136,14 +138,11 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
  So there we have it, a selection of the best cross-platform multiplayer games to play on mobile. With these tested titles, you can download a game you know can play together for a long time. So if you want more fun mobile games to play with friends, it's a simple install away.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +151,20 @@ The sequel to the acclaimed Words With Friends is more like an update.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ecovering-youtube-gems-2-easy-watch-methods-revealed/"><u>[New] Recovering Youtube Gems 2 Easy Watch Methods Revealed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-record-films-seamlessly-across-tech-devices/"><u>[Updated] How to Record Films Seamlessly Across Tech Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/dispelling-myths-around-robloxs-error-262/"><u>Dispelling Myths Around Roblox's Error 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-gaming-worlds-sxs-or-custom-pc/"><u>Exploring Gaming Worlds: SXS or Custom PC?</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-unresponsive-steam-7-straightforward-methods/"><u>Fix Unresponsive Steam: 7 Straightforward Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-spark-20-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Spark 20 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-10-excellent-free-movie-editors-for-mov-files/"><u>In 2024, 10 Excellent Free Movie Editors for MOV Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/insignia-usb-to-ethernet-adapter-drivers-free-download/"><u>Insignia USB-to-Ethernet Adapter Drivers: Free Download</u></a></li>
+<li><a href="https://games-able.techidaily.com/lemokey-l3-gaming-keys-a-quality-revelation/"><u>Lemokey L3 Gaming Keys: A Quality Revelation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-on-windows-10-fast-fixes-for-mute-issues/"><u>Restoring Sound on Windows 10: Fast Fixes for Mute Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-presents-the-perfect-seasonal-video-games/"><u>Steam Presents: The Perfect Seasonal Video Games</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ultimate-list-10-top-ae-text-ideas-for-2024/"><u>Ultimate List 10 Top AE Text Ideas for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-steams-metrics-gametime-credits-and-achievements/"><u>Unveiling Steam's Metrics: Gametime, Credits and Achievements</u></a></li>
+</ul></div>
 

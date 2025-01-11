@@ -1,7 +1,7 @@
 ---
 title: "Subscribe and Dominate: Leveraging the Power of PS5's EA Play"
-date: 2024-08-22T22:27:57.192Z
-updated: 2024-08-23T22:27:57.192Z
+date: 2025-01-08T23:54:10.124Z
+updated: 2025-01-10T21:31:52.780Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
  One of the ways you can save cost on games on an Xbox or a PS5 is by getting a subscription. Sony offers subscriptions in the PlayStation Store apart from PlayStation Plus, and EA Play stands among the best in terms of value for money.
 
  EA has published and developed numerous household titles and franchises, including Need for Speed, the Sims, FIFA, UFC, Star Wars, and many others. EA Play offers a way to tap into EA’s PS4 and PS5 games without buying them all individually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is EA Play?
 
@@ -38,13 +42,14 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-in-playstation-store-s-subscription-page.JPG)
 4. Select**$4.99** and choose**Order & Pay** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
  If you have money in your wallet, EA Play will debit the wallet before any other payment method—even on subsequent renewals.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## How to Use an EA Play Membership on the PS5
 
  You won’t automatically find EA Play games in your library; you must go to the Play List to find and download the games. Here’s how to find them:
@@ -53,30 +58,21 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 2. Select**View Games** , and you’ll find yourself in the**EA Play Play List** .  
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
+
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Cancel an EA Play Membership on the PS5
 
  You might no longer want EA Play after paying for the first month. And this might be the best course of action if you’re only trying to use the membership to get discounts. In that case, head into **Settings > Account > Payment and Subscriptions > Subscriptions > EA Play > Cancel Subscription** .
@@ -84,27 +80,22 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## EA Play Saves You Money
 
  EA Play is one of the underrated money-saving techniques you can use to drive down the cost of console gaming. It stands as one of the ways you can shop discounts, get games free, and quickly figure out if you’ll enjoy titles instead of forking out tens of dollars for them first.
 
  However, it’s just one of the ways you can save money. There are still various ways to make PS4 or PS5 gaming cheaper.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,4 +104,18 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-exposed-the-hazards-of-fake-follower-purchases-on-youtube-for-2024/"><u>[Updated] Exposed The Hazards of Fake Follower Purchases on YouTube for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-tips-for-removing-fisheye-from-gopro-footage/"><u>[Updated] In 2024, Tips for Removing Fisheye From GoPro Footage</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-maximize-your-experience-with-key-iphone-x-hacks/"><u>[Updated] Maximize Your Experience with Key iPhone X Hacks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-swift-streaming-on-instagram-mobile-and-online-secrets/"><u>2024 Approved Swift Streaming on Instagram Mobile & Online Secrets</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-htc-u23-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from HTC U23 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-to-understand-what-is-palworld/"><u>Easy to Understand: What Is PalWorld?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-screen-shopping-10-common-blunders/"><u>Navigating Screen Shopping: 10 Common Blunders</u></a></li>
+<li><a href="https://games-able.techidaily.com/pdw4-game-powerhouse-on-your-wrist/"><u>PDW4: Game Powerhouse on Your Wrist</u></a></li>
+<li><a href="https://win-best.techidaily.com/step-by-step-guide-turn-off-windows-security-on-windows-11-by-yl-computing/"><u>Step-by-Step Guide: Turn Off Windows Security on Windows 11 by YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ottest-youtube-to-mp3-software-picks-top-10/"><u>The Hottest YouTube-to-MP3 Software Picks (Top 10)</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-off-noise-secure-silent-gaming-tips/"><u>Turn Off Noise: Secure Silent Gaming Tips</u></a></li>
+</ul></div>
 

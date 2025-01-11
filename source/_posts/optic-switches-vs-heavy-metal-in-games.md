@@ -1,7 +1,7 @@
 ---
 title: Optic Switches Vs. Heavy Metal in Games
-date: 2024-12-21T19:45:08.141Z
-updated: 2024-12-25T21:09:11.470Z
+date: 2025-01-07T23:54:31.499Z
+updated: 2025-01-11T03:28:37.448Z
 tags:
   - games
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
  There are three main types of mechanical switches: linear, tactile, and clicky. Linear keys are quieter, require less force, and provide no tactile feedback when pressed. Tactile keys are louder and produce a bump in the middle of the keystroke, while clicky keys give a larger bump and a loud "click" in the middle of the keystroke, making them loud but satisfying.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do Optical Switches Work?
 
  In contrast, optical switches use a process called light induction. When you press the key down, the stem (the part that would usually hit the keyboard) blocks a beam of infrared light. An infrared sensor then detects the lack of light and signals the key has been pressed to the computer.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
  Mechanically, both switches are quite similar. For example, pressing the keycap pushes the stem down, and a spring pushes the cap back into position. And optical switches can also have similar characteristics to mechanical switches in terms of being more linear, tactile, or clicky.
 
 So, which is better for gaming?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optical Switches vs. Mechanical Switches
 
@@ -57,7 +57,7 @@ So, which is better for gaming?
 Let's take a look at these four factors in closer detail.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Durability
@@ -69,7 +69,7 @@ Let's take a look at these four factors in closer detail.
  Keep in mind, though, 60 million keystrokes equate to around 10 to 15 years of intense gaming or typing, which is probably going to be long enough for most people to feel they've made a good purchasing decision. Don't forget[hot-swappable keyboards allow you to swap out](https://www.makeuseof.com/why-you-need-hot-swappable-mechanical-keyboard/) the keyboard switches, so in the event you wear a switch out, you can just pop a new one in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Speed
@@ -79,10 +79,6 @@ Let's take a look at these four factors in closer detail.
  Mechanical switches have around a five-millisecond debounce delay. Optical switches, on the other hand, don't suffer from this delay, which means optical switches will generally have around 5 ms faster response time. However, the jury is still out on whether or not this small increase in speed results in better performance while gaming.
 
  Other than that, the reaction speed of optical switches appears to depend largely on the manufacturer. The breadwinners seem to be the[Razer Clicky Optical Purple](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2004621&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Frazer-optical-switch) switches. These are touted as some of the fastest keys on the market and are around 30ms faster than the fastest Cherry MX keys.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Feel and Noisiness
 
@@ -96,6 +92,10 @@ Let's take a look at these four factors in closer detail.
 
  The[Razer Huntsman](https://www.amazon.com/Razer-Huntsman-Tournament-Tenkeyless-Keyboard/dp/B07V25YPVW?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=5b69344691c987a7fdf2e0c9ed994455&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) series offers the Razer Linear Optical Reds and the Razer Clicky Optical Purples. Gateron also has several options, including Gateron Optical Black, Blue, Brown, and Red, each with characteristics similar to their mechanical counterparts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Price and Availability
 
 ![Sleek mechanical keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/jay-zhang-XX8zaI3XbvE-unsplash.jpg)
@@ -107,7 +107,7 @@ Let's take a look at these four factors in closer detail.
  Finally, there are plenty of[excellent budget gaming mechanical keyboards](http://www.makeuseof.com/best-budget-gaming-keyboards/) to choose from, whereas a good set of optical keys generally only comes with a mid-to-high price keyboard. So mechanical switches definitely win when it comes to price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Should You Buy: Optical or Mechanical Switches?
@@ -139,18 +139,18 @@ Let's take a look at these four factors in closer detail.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-groove-gatherers-try-our-cost-free-beats-scanners/"><u>[New] 2024 Approved Groove Gatherers Try Our Cost-Free Beats Scanners</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-broadcast-battle-obs-against-wirecast/"><u>[Updated] Broadcast Battle OBS Against Wirecast</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-10-best-video-calling-app-for-android-and-iphone/"><u>[Updated] In 2024, 10 Best Video Calling App for Android and iPhone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-comprezyme-of-creativity-and-technique-dominating-instagram-interactions/"><u>A Comprezyme of Creativity and Technique Dominating Instagram Interactions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elevate-your-ig-story-engagement-by-mastering-the-art-of-caption-integration-complete-guide/"><u>Elevate Your IG Story Engagement by Mastering the Art of Caption Integration - Complete Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ts-choice-aspertronics-for-phones-for-2024/"><u>Expert's Choice Aspertronics For Phones for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/fix-inconsistent-mouse-wheel-movement/"><u>Fix Inconsistent Mouse Wheel Movement</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-a05s-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy A05s Face Lock?</u></a></li>
-<li><a href="https://games-able.techidaily.com/future-of-tech-spotlighted-at-computex-for-ai/"><u>Future of Tech Spotlighted at Computex for AI</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/global-perspective-inclusive-technology-review/"><u>Global Perspective Inclusive Technology Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-guide-xbox-one-control-connections/"><u>Quick Guide: Xbox One Control Connections</u></a></li>
-<li><a href="https://games-able.techidaily.com/revitalize-your-game-experience-complete-ps4-reset/"><u>Revitalize Your Game Experience: Complete PS4 Reset</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-encompassing-details-inside-googles-podcast-application/"><u>[New] 2024 Approved Encompassing Details Inside Google's Podcast Application</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-shortcut-to-instagram-video-connectivity/"><u>[New] In 2024, The Ultimate Shortcut to Instagram Video Connectivity</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-clearer-anonymity-discreet-faces-deletion-for-2024/"><u>[Updated] Clearer Anonymity Discreet Faces Deletion for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transition-to-hdr-a-step-forward-in-high-quality-video/"><u>[Updated] Transition to HDR A Step Forward in High-Quality Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/compacteconopixelsmonitor-lightgblade-mini-led/"><u>CompactEconoPixelsMonitor: LightGBlade Mini-LED</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-guide-getting-google-play-games-on-desktop/"><u>Essential Guide: Getting Google Play Games on Desktop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/futureproof-your-pc-with-the-elite-ssd-picks-insights-from-zdnet/"><u>Futureproof Your PC with the Elite SSD Picks - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/game-changer-for-bikers-experience-the-magic-of-photochromic-smart-glasses-with-hud-technology-insights/"><u>Game Changer for Bikers: Experience the Magic of Photochromic Smart Glasses with HUD Technology | Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-faces-incorporating-motion-blur-in-photos-with-picsart-for-2024/"><u>Mastering Faces Incorporating Motion Blur in Photos with Picsart for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-roblox-error-262-issues/"><u>Overcoming Roblox Error 262 Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tout-de-suite-gratuit-transformez-vos-fichiers-pcx-en-images-png-avec-des-outils-en-ligne-movavi/"><u>Tout De Suite Gratuit : Transformez Vos Fichiers PCX en Images PNG Avec Des Outils en Ligne - Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-java-games-stands-out-in-the-mobile-arena/"><u>Why Java Games Stands Out in the Mobile Arena</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-printer-nightmares-solutions-here/"><u>Windows 11 Printer Nightmares? Solutions Here</u></a></li>
 </ul></div>
 

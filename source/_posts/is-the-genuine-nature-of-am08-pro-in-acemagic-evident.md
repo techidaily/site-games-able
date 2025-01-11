@@ -1,7 +1,7 @@
 ---
 title: Is The Genuine Nature of AM08 Pro in AceMagic Evident?
-date: 2024-08-22T22:25:52.708Z
-updated: 2024-08-23T22:25:52.708Z
+date: 2025-01-08T02:54:53.041Z
+updated: 2025-01-10T21:34:38.337Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 ---
 
 ## Is The Genuine Nature of AM08 Pro in AceMagic Evident?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -93,9 +97,6 @@ But what is in that box?
 
  But once you’re done with that, it’s time to start installing and playing games.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Who Is This Mini Gaming PC For?
 
  Usually, when reviewing computers, it is clear who the device is aimed at. A laptop for anyone who needs to work anywhere (office/coffee shop/train/school or college). Desktop PCs are for office-anchored staff, small shops, or ticket management at legacy entertainment businesses (bowling alleys, cinema chains, etc.).
@@ -110,9 +111,6 @@ So who would want an AceMagic AM08 Pro?
 
  Fortunately, I have a couple of children in this exact age range. One of them, Bruce, has helped by providing space in his bedroom and considerable time testing various games.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## AceMagic AM08 Pro Device Specifications
 
  Two versions of the AceMagic Pro PC are available: the AM08 AMD model and the AD08 Intel variant (with an Intel Core i9 CPU). We received the AMD model, which features an AMD Ryzen 9 6900HX CPU (8 cores, 16 threads) with an AMD Radeon 680M GPU. (This is the same GPU as the[GPD Win 4 handheld](https://www.makeuseof.com/review-gpd-win-4-handheld-console-review/) ).
@@ -121,6 +119,10 @@ So who would want an AceMagic AM08 Pro?
 
 ![HDMI and Ethernet ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-rear-ports-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Up to three 4K displays can be connected to this computer. Dual HDMI ports are mounted on the device, along with a USB 4.0 Type-C port. This handles other data besides display output.
 
  In addition, the power button is mounted on a fan performance selector rocker switch. Affording control over the high-performance dual fans, this switches between Low, Normal, and Performance, with the middle option the default.
@@ -128,8 +130,9 @@ So who would want an AceMagic AM08 Pro?
 ![ACEMAGIC AM08 Pro LEDs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-leds-1.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Windows 11 Pro is preinstalled, and the computer comes with AceMagic's 30-day refund and return and a 3-year warranty.
 
  A quick note on the size: the user guide indicates that the computer can be mounted on the back of a monitor using a VESA attachment, but no plate is included in the box.
@@ -144,11 +147,19 @@ Perhaps most surprisingly, this unit is expandable.
 
 ![ACEMAGIC AM08 Pro expansion ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-ports.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Admittedly, these are laptop-style upgrades, but they’re upgrades nevertheless. It’s enough to give this machine a bit of longevity.
 
  One thing to note about the hardware is the wireless networking. I live in a small house, and the computer was set up in a room near our router (about 12 feet diagonally). However, there seemed to be an issue maintaining a strong Wi-Fi signal. This isn’t an issue with the room, as a tablet computer is regularly used there.
 
  This may be a quirk of the review device (I checked with the AceMagic people and the problem could not be replicated), but it was easily dealt with thanks to a powerline adapter. While your own experience may differ, this is worth keeping in mind.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Gaming on the AceMagic AM08 Pro
 
@@ -165,9 +176,6 @@ Perhaps most surprisingly, this unit is expandable.
 
  Most importantly, our 12-year-old is seriously impressed, to the extent that he wants to keep it. I’d say that was a pretty good point in the AceMagic AM08 Pro’s favor.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What About PC Tasks That Aren’t Games?
 
  Something as small and relatively cheap as the AM08 Pro is likely to attract attention as a gift. With Windows 11 Pro preinstalled, it is ready-made for media production, and suitable for everything from homework to online shopping.
@@ -177,15 +185,13 @@ But how does this work out in practice?
 ![USB Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-usb.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To find out, we edited a video, and later I updated my blog. I then made an important Amazon purchase (and as I write this, I’m hoping I remembered to log out...)
 
  It should be no surprise to read that it handled them all perfectly. But then, all it has done throughout this review is surprise. Sure, it is a tiny computer, but it appears to be just as capable as any standard PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## No, It’s Not a Gaming PC, But It'll Do
 
  By this point, you’re probably thinking one of two things: “There's no way that’s really a gaming PC” or “Wow, a gaming PC for $500!”.
@@ -194,9 +200,6 @@ But how does this work out in practice?
 
 ![ACEMAGIC AM08 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-vents-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But if you’re new to gaming and found a standard laptop doesn’t do the job, then the AceMagic AM08 Pro will blow your mind. It produces excellent results with recent games, and while you may need to dial back the graphics quality for newer titles, it can still cope.
 
 ## An Entry Level Gaming PC Ideal for Teens
@@ -219,14 +222,11 @@ But how does this work out in practice?
 
 [See at AceMagic](https://www.acemagic.com/collections/gaming-mini-pc/products/ace-am08-pro-amd-ryzen-9%E2%84%A2-6900hx)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -235,4 +235,16 @@ But how does this work out in practice?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-master-the-art-of-editing-story-remix-and-windows-photos-synergy/"><u>[New] Master the Art of Editing Story Remix & Windows Photos Synergy</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strategies-for-adequate-lighting-in-youtube-videos/"><u>[Updated] Strategies for Adequate Lighting in YouTube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulator-face-off-find-the-top-pick-for-raspberry-pi-games/"><u>Emulator Face-Off: Find the Top Pick for Raspberry Pi Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-correcting-the-error-of-stop-0x0000003d-and-preventing-future-bsods/"><u>Expert Advice: Correcting the Error of STOP 0X0000003D and Preventing Future BSODs</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-unearth-excellent-indie-titles-on-itchio/"><u>How to Unearth Excellent Indie Titles on Itch.io</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-blending-beats-into-bits-the-sound-savvy-image/"><u>In 2024, Blending Beats Into Bits The Sound-Savvy Image</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-13-ultra-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 13 Ultra To Phone | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-upgrading-to-ultimate-a-wise-decision/"><u>Is Upgrading to Ultimate a Wise Decision?</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-oculus-vr-installation-errors/"><u>Resolving Oculus VR Installation Errors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Empower Yourself: DIY Xbox Controller Maintenance Guide"
-date: 2024-12-23T05:06:13.955Z
-updated: 2024-12-26T06:10:52.738Z
+date: 2025-01-05T18:27:35.908Z
+updated: 2025-01-11T10:12:08.135Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Is Now Selling Replacement Xbox Controller Parts
@@ -36,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is mainly helpful to gamers with older controllers that are out of warranty. If your controller is still under warranty, sending it back for a free repair or replacement would be cheaper and easier. But if you do feel like you want to have a go yourself, Xbox has announced that opening up your controller to fix it will not void the warranty as long as no damage is done during the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get Started Fixing Your Own Xbox Controller
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like[how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or[how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why You Should Fix Your Own Xbox Controller
@@ -69,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit:[Xbox](https://www.xbox.com/en-us/accessories/controllers/remix-special-edition#regrind)
 
  Inspiring gamers to recycle and reuse their old controllers instead of throwing them out to buy new ones is yet another eco-friendly step in the right direction for Xbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reuse, Recycle, Replay
 
@@ -98,18 +98,17 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-audio-customization-on-sony-playstation-devices/"><u>[New] Explore Audio Customization on Sony PlayStation Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-mac-preview-with-ease-ultimate-guide/"><u>[New] Navigating Mac Preview with Ease Ultimate Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-electronic-conference-logging/"><u>[Updated] 2024 Approved Electronic Conference Logging</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-digital-arena-100plus-titles-for-the-true-gamer/"><u>[Updated] In 2024, Digital Arena 100+ Titles for the True Gamer</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-distribute-your-videos-a-vimeo-guide/"><u>[Updated] In 2024, Distribute Your Videos A Vimeo Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-nokia-c32-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Nokia C32 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/initiating-stronger-security-on-ps5-by-configuring-passcode/"><u>Initiating Stronger Security on PS5 by Configuring Passcode</u></a></li>
-<li><a href="https://games-able.techidaily.com/interactive-playground-awaits-in-youtubes-latest-minigames-tests/"><u>Interactive Playground Awaits in YouTube's Latest Minigames Tests</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-6-predominant-car-ai-integration-obstacles/"><u>Navigating Through 6 Predominant Car AI Integration Obstacles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-windows-driver-power-management-errors/"><u>Step-by-Step Guide: Correcting Windows Driver Power Management Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-non-nvidia-graphics-cards-for-4060-ti-users/"><u>The Best Non-NVIDIA Graphics Cards for 4060 Ti Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-key-to-maxing-out-your-gamerscore-on-steam/"><u>The Key to Maxing Out Your Gamerscore on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-steam-deck-thermal-regulator-guide/"><u>The Ultimate Steam Deck Thermal Regulator Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mp3-recording-made-simple-with-skype-for-free/"><u>[New] 2024 Approved MP3 Recording Made Simple with Skype for FREE</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dji-writes-gaming-history-air-versus-spark-in-the-spotlight/"><u>[New] In 2024, DJI’ Writes Gaming History Air Versus Spark in the Spotlight</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-limiting-video-size-the-mac-way-to-insta-cutting/"><u>[Updated] 2024 Approved Limiting Video Size The Mac Way to Insta-Cutting</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-skyrocket-your-earnings-on-tiktok-discover-the-top-8-ways-for-2024/"><u>[Updated] Skyrocket Your Earnings on TikTok Discover the Top 8 Ways for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-in-focus-review-of-modular-board-mod007b/"><u>Hall Effect Keys in Focus - Review of Modular Board MOD007B</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-halt-steam-initialization/"><u>How to Halt Steam Initialization</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-volume-control-on-xbox-s-and-x-series-x/"><u>Mastering Volume Control on Xbox S & X Series X</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/quick-guide-build-a-windows-server-2019-recovery-drive-using-a-flash-drive/"><u>Quick Guide: Build a Windows Server 2019 Recovery Drive Using a Flash Drive</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-hardware-drivers-in-device-manager/"><u>Resolving Hardware Drivers in Device Manager</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-spotting-hot-photos-on-pexels/"><u>The Ultimate Guide to Spotting Hot Photos on Pexels</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-discords-potential-mac-setup-guide/"><u>Unlocking Discord's Potential: Mac Setup Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-response-to-breaches-the-strike-mechanism/"><u>Xbox's Response to Breaches: The Strike Mechanism</u></a></li>
 </ul></div>
 

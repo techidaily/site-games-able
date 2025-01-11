@@ -1,7 +1,7 @@
 ---
 title: Discovering Absentees in Your Gaming Circle
-date: 2024-08-22T22:27:02.826Z
-updated: 2024-08-23T22:27:02.826Z
+date: 2025-01-10T00:02:54.758Z
+updated: 2025-01-11T07:22:52.994Z
 tags:
   - games
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
  When Xbox friends constantly appear offline, it can be a pain to organize online gaming sessions or, at worst, a sign that someone is avoiding you. But with an Xbox Series X|S, there are a few ways you can tell if someone is appearing offline. Let's take a look.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the Friends & Community App on Your Xbox Series X|S
 
  On Xbox, one of the main ways you can track online behavior is through the**Friends & Community Updates** app. From here, you can view any game captures, achievements, or posts from your friends. And the best part? Even posts from friends appearing offline are shown through the app.
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 * Highlight the option for**Apps** , and select**Friends & Community Updates** .
 
 ![A screenshot of the Apps section of My Games and Apps on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2995.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Find the displayed posts under**Shared by friends** .
 * Scroll through the listed posts, looking for one of your offline friends.
@@ -51,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
  If you know someone hasn't been online for the duration of the time the**Gamerscore leaderboard** has been tracking Achievements, but you can see they have earned Gamerscore, they are appearing offline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Look Through Your Xbox Friend’s Achievements
 
  While the past few methods help you to tell if someone is appearing offline for a long period, there are more direct ways to tell if people are offline on Xbox.
@@ -66,20 +71,18 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
 ![A screenshot of an Xbox Friend profile on Xbox Series X with the option See Full Profile highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3163.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Under**Social** , highlight**Activity Feed** to see recently unlocked Achievements.
 
 ![A screenshot of an Xbox Friend Activity Feed on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3173.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  From here, you should be able to see your friend's most recently unlocked Achievement and how long ago it was unlocked. You know your friend is appearing offline if they are offline but have unlocked Achievements recently.
 
  Alternatively, you can[compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 4\. Use the Time Played Feature for Specific Xbox Games
 
  A final way you can tell if one of your Xbox friends is appearing offline is by checking a friend's**Time played** statistic in a specific Xbox game.
@@ -93,35 +96,31 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
 ![A screenshot of the Gaming option available on Xbox Series X when comparing two Xbox Profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3169.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 * Scroll down the on-screen gaming stats until you find**Time played** .
 
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keep Track of Your Friends on Xbox Series X|S for Smooth Social Gaming
 
  When an Xbox friend appears offline, whether it is to ignore you, not play a specific game, or even to just escape social pressures, it can complicate organizing social gaming sessions. But at least with Xbox Series X|S, you can use any of the above methods to try and get to the bottom of why or if a friend is offline.
 
  With the questions of whether and why someone is offline solved, you can get on with organizing your Xbox parties and sessions without any extra social road bumps caused by offline players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +129,22 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-high-definition-horizons-comparing-ultrawide-and-uhd-4k-monitors/"><u>[New] 2024 Approved High-Definition Horizons Comparing UltraWide and UHD 4K Monitors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-exporting-snapchat-content-to-your-phones-gallery/"><u>[New] In 2024, Exporting SnapChat Content to Your Phone's Gallery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-microsoft-azure-for-text-conversion/"><u>2024 Approved Navigating Microsoft Azure for Text Conversion</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effective-utilization-of-page-number-features-in-flipbuilder-the-ultimate-tutorial/"><u>Effective Utilization of Page Number Features in FlipBuilder: The Ultimate Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/executing-android-programs-via-linux/"><u>Executing Android Programs via Linux</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-dealing-with-a-non-responsive-rocket-league-game/"><u>Expert Tips for Dealing with a Non-Responsive Rocket League Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/four-strong-arguments-to-forgo-ps5-buying/"><u>Four Strong Arguments to Forgo PS5 Buying</u></a></li>
+<li><a href="https://games-able.techidaily.com/ghosting-your-digital-presence/"><u>Ghosting Your Digital Presence</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-change-your-time-zone-on-xbox-series-xs/"><u>How to Change Your Time Zone on Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovos-latest-legion-go-the-ultimate-gaming-tablet/"><u>Lenovo's Latest Legion Go - The Ultimate Gaming Tablet</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-white-computing-gear-under-250/"><u>Optimal White Computing Gear Under $250</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sarah-silverman-spearheads-anti-ai-artists-lawsuit/"><u>Sarah Silverman Spearheads Anti-AI Artists Lawsuit</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-list-of-8-free-video-editing-programs-for-creatives/"><u>The Ultimate List of 8 FREE Video Editing Programs for Creatives</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-a-procedural-world-in-video-games/"><u>What Is a Procedural World in Video Games?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028786952-swf/"><u>アンドロイドスマートフォンでSWFビデオプレイヤーの導入方法：対比分析</u></a></li>
+</ul></div>
 

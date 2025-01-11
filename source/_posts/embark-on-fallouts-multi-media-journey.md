@@ -1,7 +1,7 @@
 ---
 title: Embark on Fallout’s Multi-Media Journey
-date: 2024-08-22T22:28:08.125Z
-updated: 2024-08-23T22:28:08.125Z
+date: 2025-01-05T07:40:13.368Z
+updated: 2025-01-10T23:31:10.108Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 ---
 
 ## Embark on Fallout’s Multi-Media Journey
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 
  The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fallout: New Vegas
 
  It was always going to be easy to start this list: Fallout: New Vegas isn't just a great Fallout game; it's also one of the best RPGs of all time, and that's saying something in such a densely packed genre.
@@ -38,9 +46,9 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fallout 3
 
  Fallout 3 was the first Fallout title I played and was the first to move from its original isometric design into the fully rendered, open world we know and love today. Like Fallout: NV, Fallout 3 is a classic, though the writing isn't as tight in places.
@@ -52,8 +60,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fallout 4
 
  Fallout 4 is the last release in the "numbered" game series ([Fallout 1, 2, 3, & 4](https://www.makeuseof.com/fallout-series-explained/) —the multiplayer game, Fallout 76, doesn't count), launched in 2015\. It received great reviews when it launched, though it simplified many of the in-depth role-playing elements that made previous Fallout titles such unique, personal experiences. However, it did introduce detailed base building and crafting, which were both great new elements to get to grips with.
@@ -65,8 +74,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fallout
 
  Fallout is a great game, and it's the one that started it all. Launched in 1997, Fallout 1 was a remarkable feat of world-building for the time, and the game's scale was breathtaking. It's a little difficult to go back to now as it lacks so many of the mod-cons of modern gaming, but if you're delving into Fallout games, it's absolutely worth a play. It's not considered one of the best RPGs ever for no reason!
@@ -79,14 +89,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Better still, each modern-era Fallout game has extensive modding support and extremely passionate communities. Once you get through with the game, you can install a bunch of mods to change the game, and there are even[enormous total conversion mods](https://gamerant.com/x-best-fallout-new-vegas-total-conversion-mods/) that breathe new life into each title.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +102,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/2024-approved-professional-video-editor-essentials-top-5-macos-sierra-software/"><u>2024 Approved Professional Video Editor Essentials Top 5 macOS Sierra Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-black-background-for-windows-calculator/"><u>Configuring Black Background for Windows Calculator</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-single-gaming-identity-with-epic-and-steam/"><u>Crafting a Single Gaming Identity with Epic & Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-the-best-of-ea-play-on-ps5/"><u>Experience the Best of EA Play on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-gpd-win-4s-exceptional-performance/"><u>Game On: GPD Win 4'S Exceptional Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-nvidia-and-snowflake-are-revolutionizing-data-management-with-cutting-edge-large-language-models-llms-tech-insights/"><u>How Nvidia and Snowflake Are Revolutionizing Data Management with Cutting-Edge Large Language Models (LLMs) | Tech Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-revolutionize-your-classroom-top-animation-tools-for-teachers/"><u>New Revolutionize Your Classroom Top Animation Tools for Teachers</u></a></li>
+<li><a href="https://games-able.techidaily.com/silencing-the-system-restrictions-for-game-bar-activity/"><u>Silencing the System: Restrictions for Game Bar Activity</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-genesis-of-a-gaming-giant/"><u>The Genesis of a Gaming Giant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-top-5-non-windows-solutions-to-the-windows-snipping-tool-limitation/"><u>The Top 5 Non-Windows Solutions to the Window’s Snipping Tool Limitation</u></a></li>
+</ul></div>
 

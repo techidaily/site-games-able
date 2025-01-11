@@ -1,7 +1,7 @@
 ---
 title: How To Achieve Swift & Hassle-Free SD Card Upgrade
-date: 2024-12-18T18:08:54.271Z
-updated: 2024-12-25T22:46:07.702Z
+date: 2025-01-05T10:07:06.376Z
+updated: 2025-01-11T02:10:31.871Z
 tags:
   - games
 categories:
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 * [Step 3: Restore Your Backup Image to Your New SSD](#step-3-restore-your-backup-image-to-your-new-ssd)
 * [Step 4: Insert Your New SSD Into Your Steam Deck](#step-4-insert-your-new-ssd-into-your-steam-deck)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Upgrading your Steam Deck's SSD? Cloning is the best way to go. It saves time and transfers all your files, settings, and games to the new SSD.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 * After restoring the image onto the new SSD, install it onto your Steam Deck. It should boot up without needing to reinstall SteamOS or log in.
 
  Are you upgrading your Steam Deck SSD but don't want to set up your device from scratch? Here’s how to clone your SSD for an easier upgrade.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Cloning Your Steam Deck's SSD Is Better
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
  Once the setup is done, and you’ve installed Macrium Reflect on your PC, you can now head to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Image Your Old SSD
@@ -83,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
  If you only have one SSD slot on your motherboard, then imaging your SSD is the only way to go.
 
 ![Reinstalling Steam Deck SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/reinstalling-steam-deck-ssd-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Jhet Borja/MakeUseOf  
 
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
 ![Prompt before running backup image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/prompt-before-running-backup-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Name your backup image and click OK until it starts creating the image file. It can take anywhere from a few minutes to about an hour depending on the size of the drive and how much is on it. My 64GB SSD only took about five minutes.
 
  If your motherboard has two SSD slots, you can click**Clone this Disk** **...** instead of imaging. You can then follow similar steps, but skip the image restoration process by directly copying the partitions of the old SSD to the new one. This method is faster as it'll do the cloning in one step.
@@ -112,16 +112,24 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
 ![Searching for disk management on Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/searching-for-disk-management-on-windows-searcgh.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you open up Macrium Reflect, search for "**Create and format hard disk partitions"** in the Windows search bar. This will open up the disk manager.
 
 ![Converting to GPT partition scheme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/converting-to-gpt-partition-scheme.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Look for your new SSD—it should be black if it hasn’t been used before. Right-click on it and select**Convert to GPT Disk** . The GPT partitioning scheme is what SteamOS works best with, so it’s best to use that.
 
 ![Restore image tab on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restore-image-tab-on-macrium-reflect-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open up Macrium Reflect, and on the top menu bar, click**Restore** **\> Browse for an image or backup file to restore…** .
@@ -132,16 +140,12 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
 ![Select a disk to restore to-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/select-a-disk-to-restore-to-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A pop-up will appear, allowing you to choose where you want to restore the image to. Click on**Select a disk to restore to…** , and choose your new SSD.
 
 ![Copying partitions to new disk-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/copying-partitions-to-new-disk-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on**Copy partitions** **\> Exact Offset and Length** . This will visualize the partitions on the new SSD. Don’t worry about the empty space, leave that blank as SteamOS will immediately utilize it once you boot up your Steam Deck.
@@ -149,7 +153,7 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
  Click on**Next** until the**Finish** button is clickable. This will start pasting the image onto the new SSD. It can take a while depending on how big the whole operation is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 4: Insert Your New SSD Into Your Steam Deck
@@ -167,10 +171,6 @@ Jhet Borja/MakeUseOf
  You can open up the BIOS by holding down the volume up button and the power button. You should let go of the power button when you hear a chime, but still hold down the volume up button until the BIOS appears.
 
 ![Selecting steamcl.efi in Steam Deck BIOS to boot into SteamOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steamcl-efi-in-steam-deck-bios-to-boot-into-steamos.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -193,18 +193,19 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-avoid-unsolicited-podcast-selections-by-spotify/"><u>[New] Avoid Unsolicited Podcast Selections by Spotify</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-astronomys-best-showcase-10-prime-hd-sky-archives-for-2024/"><u>[Updated] Astronomy's Best Showcase - 10 Prime HD Sky Archives for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-navigate-through-settings-enabledisable-video-comments/"><u>[Updated] Navigate Through Settings Enable/Disable Video Comments</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/28-practical-tips-for-streaming-online-courses-on-a-budget/"><u>28 Practical Tips for Streaming Online Courses on a Budget</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-google-bard-face-off-which-artifice-intelligence-reigns-supreme/"><u>ChatGPT Vs. Google Bard Face-Off: Which Artifice Intelligence Reigns Supreme?</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-gameplay-boost-in-roblox-platform/"><u>Demystifying Gameplay Boost in Roblox Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/eight-recipe-sharing-rounds-to-whip-up-fun-with-words/"><u>Eight Recipe-Sharing Rounds to Whip Up Fun with Words</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-are-mech-keys-essential/"><u>Gamers: Are Mech Keys Essential?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/getting-started-with-google-meet-participation/"><u>Getting Started with Google Meet Participation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-essential-techniques-for-sizing-up-your-instagram-video-reach/"><u>In 2024, Essential Techniques for Sizing Up Your Instagram Video Reach</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-the-future-of-multiplayer-games-with-macos/"><u>Is the Future of Multiplayer Games with MacOS?</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaim-your-games-digital-frontier/"><u>Reclaim Your Game's Digital Frontier</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-fun-analyzing-9-benefits-and-drawbacks-in-the-game-industry/"><u>The Future of Fun: Analyzing 9 Benefits & Drawbacks in the Game Industry</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unleashing-potential-a-moto-z2-deep-dive/"><u>[Updated] 2024 Approved Unleashing Potential A Moto Z2 Deep Dive</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-reel-your-browser-life-the-foremost-tools-for-high-quality-captures/"><u>[Updated] In 2024, Reel Your Browser Life The Foremost Tools for High-Quality Captures</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-why-is-instagram-turning-my-video-sideways-in-2024/"><u>[Updated] Why Is Instagram Turning My Video Sideways, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-must-implement-safety-protocols-on-ps5/"><u>5 Must-Implement Safety Protocols on PS5</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728470692546-windows-10/"><u>讓Windows 10恢復更快: 高效解決方案</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-journey-through-time-foddian-games-origin/"><u>A Journey Through Time: Foddian Games Origin</u></a></li>
+<li><a href="https://games-able.techidaily.com/advice-on-preserving-power-in-your-xbox-joystick/"><u>Advice on Preserving Power in Your Xbox Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/catching-all-audiences-top-6-varied-titles/"><u>Catching All Audiences: Top 6 Varied Titles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-video-multitasking-in-chromes-pip-mode-on-all-devices-for-2024/"><u>Navigating Video Multitasking in Chrome’s PIP Mode on All Devices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/pi-console-showdown-batocera-vs-retropie/"><u>Pi Console Showdown: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-analysis-safe-use-of-roblox-speed-up-tools/"><u>Tech Analysis: Safe Use of Roblox Speed Up Tools?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199746213-troubleshooting-the-video-scheduler-on-windows-11-fixing-internal-errors-once-and-for-all/"><u>Troubleshooting the Video Scheduler on Windows 11 – Fixing Internal Errors Once and For All!</u></a></li>
 </ul></div>
 

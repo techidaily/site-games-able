@@ -1,7 +1,7 @@
 ---
 title: "Lemokey L3 Gaming Keys: A Quality Revelation"
-date: 2024-12-23T01:49:49.980Z
-updated: 2024-12-25T22:48:32.250Z
+date: 2025-01-08T06:04:20.333Z
+updated: 2025-01-11T07:07:26.008Z
 tags:
   - games
 categories:
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 * ![lemokey l3 keyboard in via customization software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/lemokey-l3-keyboard-in-via-customization-software.jpg)  
  Gavin Phillips / MakeUseOf  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Keychron Lemokey L3 is a premium gaming mechanical keyboard with hot-swappable switches, a 1,000Hz polling rate, and 2.4GHz wireless connectivity.
 * It offers impressive battery life of up to 300 hours on Bluetooth and features a robust CNC machined aluminum build for durability.
 * The Lemokey L3 is highly customizable using VIA software and has a tenkeyless design with extra macro keys and a media knob for added functionality.
@@ -40,11 +36,11 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -131,21 +127,25 @@ No
 
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Configuration
 
  Like all Keychron keyboards, the Lemokey L3 is available in several configurations. The Fully Assembled Knob version, which features in this review, will set you back $214, while the barebones version is $194.
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  As I've said with other Keychron mechanical keyboard reviews, the extra 20 bucks is well worth it if you don't have a vast array of switches and keycaps you want to use. There's a choice of three Gateron Jupiter switches: Red (linear), Brown (tactile), and Banana (also tactile, but with more operating force and shorter travel).
 
  It's a good range of options, not forgetting that the Lemokey L3 is a hot-swappable keyboard. Hot-swappable means you can replace the keyboard's switches without soldering; they're plug-and-play.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Style and Construction
 
@@ -161,10 +161,6 @@ No
 
 ![plug-and-switch-on-the-back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/plug-and-switch-on-the-back-of-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  One nice touch is the three lights above the direction keys, each pertaining to a different feature. The left light is the one you'll see most, as it shows the relative charge level of the keyboard. The middle light details your wireless connection status, and the third light shows whether Caps Lock is switched on.
@@ -178,7 +174,7 @@ No
  Inside the Lemokey L3 are multiple layers of sound-absorbing foam, which, along with the double-gasket mounted design, contribute to the smooth typing experience and warming typing sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery Life and Connectivity
@@ -207,6 +203,10 @@ No
 
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Customization With VIA
 
  Keychron has long used VIA for its desktop customization software. It's free, well-supported by the mechanical keyboard community, and has extensive customization options. However, most folks who use a gaming keyboard will be more familiar with the custom, proprietary software created by the big gaming companies. In comparison, VIA is a little different, lacking the straightforward options and menus found in those other desktop software options.
@@ -218,16 +218,12 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Lemokey L3 a Good Gaming Keyboard?
 
@@ -240,6 +236,10 @@ No
  Overall, the Lemokey L3 might not be an outright gaming keyboard, but it's a brilliant keyboard in all other areas.
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
@@ -266,19 +266,18 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-master-discocast-your-discord-recorder-handbook/"><u>[New] 2024 Approved Master DiscoCast Your Discord Recorder Handbook</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/evolutionize-youtube-uploads-speed-enhancing-render-tricks-for-2024/"><u>[New] Revolutionize YouTube Uploads Speed-Enhancing Render Tricks for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-excellence-in-camera-technology-2024-outlooks/"><u>[Updated] Excellence in Camera Technology - 2024 Outlooks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sprint-through-slow-videos-best-8-android-choices/"><u>[Updated] Sprint Through Slow Videos Best 8 Android Choices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/airpods-and-gaming-are-they-compatible-with-your-nintendo-switch/"><u>AirPods and Gaming: Are They Compatible With Your Nintendo Switch?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-enabling-android-apps-on-your-windows-11-machine/"><u>Complete Tutorial: Enabling Android Apps on Your Windows 11 Machine</u></a></li>
-<li><a href="https://games-able.techidaily.com/converting-desktops-to-handheld-steam-link-for-androidios-gaming/"><u>Converting Desktops to Handheld: Steam Link for Android/iOS Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-comforts-exclusive-reviews-of-top-keyboards/"><u>Cutting-Edge Comforts: Exclusive Reviews of Top Keyboards</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-rtx-3amo-driver-version-for-windows-11-8-and-7-free-download-guide/"><u>Get the Newest RTX 3Amo Driver Version for Windows 11, 8 and 7 - Free Download Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/players-and-policy-decoding-xboxs-ban-on-third-party-devices/"><u>Players and Policy: Decoding Xbox’s Ban on Third-Party Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/revive-your-gaming-experience-fixing-non-detection-of-steam-vr-units-in-6-simple-ways/"><u>Revive Your Gaming Experience: Fixing Non-Detection of Steam VR Units in 6 Simple Ways</u></a></li>
-<li><a href="https://games-able.techidaily.com/savvy-shoppers-guide-to-vr-headsets/"><u>Savvy Shoppers' Guide to VR Headsets</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-investment-in-sonys-exclusive-playstation-service/"><u>The Investment in Sony's Exclusive PlayStation Service</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-light-solution-for-dynamic-gaming-rooms/"><u>The Ultimate Light Solution for Dynamic Gaming Rooms</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-improve-real-time-periscope-performance/"><u>[New] Improve Real-Time Periscope Performance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlock-ig-potential-the-best-tools-for-post-management/"><u>[Updated] 2024 Approved Unlock IG Potential The Best Tools for Post Management</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-lunapics-essence-in-photo-editing/"><u>2024 Approved Mastering Lunapic's Essence in Photo Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-recording-mastery-in-windows-10-part-2/"><u>Audio Recording Mastery in Windows 10, Part 2</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-engagement-crafting-anime-subscribe-bars-for-youtube-content/"><u>Elevate Engagement Crafting Anime Subscribe Bars for YouTube Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevated-experience-premium-seating-for-the-taller-set/"><u>Elevated Experience: Premium Seating for the Taller Set</u></a></li>
+<li><a href="https://games-able.techidaily.com/insider-advice-on-digital-xbox-seriess-returns/"><u>Insider Advice on Digital Xbox Series/S Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-roblox-data-consumption-on-iphones/"><u>Managing Roblox Data Consumption on iPhones</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-usb-hubs-tailored-for-playstation-5/"><u>Superior USB Hubs, Tailored for PlayStation 5</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-anticipation-elevating-the-unboxing-experience-for-2024/"><u>The Art of Anticipation Elevating the Unboxing Experience for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-earning-early-starfield-access-credits/"><u>Tips for Earning Early Starfield Access Credits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-youtube-video-techniques-for-2nd4-understanding-dimensions-proportions-and-file-types/"><u>Top YouTube Video Techniques for 2nD4: Understanding Dimensions, Proportions, and File Types</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-serious-games-resist-the-allure-of-gamefi/"><u>Why Serious Games Resist the Allure of GameFi</u></a></li>
 </ul></div>
 

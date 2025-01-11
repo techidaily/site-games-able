@@ -1,7 +1,7 @@
 ---
 title: Solutions to Stop Your Xbox Joystick From Skipping
-date: 2024-08-22T22:22:58.732Z
-updated: 2024-08-23T22:22:58.732Z
+date: 2025-01-04T20:00:44.308Z
+updated: 2025-01-11T03:28:46.789Z
 tags:
   - games
 categories:
@@ -34,20 +34,16 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
 ![A screenshot of the Xbox Series X Xbox Wireless Controller settings with No Update Available highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From**Accessories** , the top option will inform you whether an update is available. If there is an available update, update your controller. Once the update has finished, you should be able to tell immediately if the stick drift has been fixed.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Reset Your Xbox Wireless Controller
 
  Aside from updating your Xbox Wireless Controller, it's possible that simply resetting your controller could fix the stick drift, especially if the issue started suddenly. To reset your Xbox Wireless Controller, follow these steps:
@@ -62,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  If your stick drift issues continue, a larger software fault could be to blame, and you may need to[reset your Xbox console](https://www.makeuseof.com/tag/reset-xbox-one-xbox-360/) . But before doing something that drastic, it's worthwhile attempting to physically fix the stick drift issues with your Xbox Wireless Controller.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Physically Repair Xbox Wireless Controller Stick Drift
 
  If it doesn't seem like a software error is to blame for your controller's stick drift, there is likely a physical fault. In this scenario, it's worth double-checking your controller for obvious physical damage. If there is no apparent cause, the most likely ways to fix Xbox Wireless Controller stick drift physically are as follows:
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Repair Xbox Wireless Controller Stick Drift With Compressed Air
 
  One of the most common issues that may cause your Xbox Wireless Controller to have stick drift is the build-up of dirt within your controller, preventing an analog stick from functioning properly.
@@ -88,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  While it may take multiple attempts, the compressed air should be able to dislodge any potential obstructions causing the stick drift issues with your Xbox controller.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Fix Stick Drift by Taking Your Xbox Wireless Controller Apart
 
  If compressed air doesn't fix your stick drifting issues, you may have to dismantle your Xbox Wireless Controller. Unfortunately, dismantling your Xbox controller is quite fiddly and could potentially further damage the controller if done incorrectly.
@@ -101,39 +88,42 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
 ![A photograph of an Xbox One Controller with the grips removed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/grips-off.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Take the battery cover off the back of the Xbox controller and unscrew the hidden screw beneath the sticker with a T9 screwdriver.
 * With the same screwdriver, move along the grips of the Xbox controller unscrewing the two screws from each side.
 
 ![A photograph of an Xbox One controller with its grips removed and highlighting the revealed screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/grip-screws.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * With all the screws removed, you can take the casing off your Xbox Wireless Controller to reveal the internal parts.
 
 ![A photograph of a dismantled Xbox One controller with the internal parts accessible](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/controller-dismantled.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now the internal parts of your Xbox Wireless Controller are accessible, you should be able to see whether there are any blockages interfering with the analog stick mechanism. If you want to replace the sticks altogether, simply pull each plastic cover off and replace them with your new analog sticks.
 
  You can also take the opportunity to[clean your Xbox Wireless Controller](https://www.makeuseof.com/how-to-clean-xbox-one-controller/) . After all, a clean and well-maintained controller is less likely to develop faults in the first place and the internal parts are a nightmare for gathering dust and muck.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Keep Your Xbox One and Xbox Series X|S Controllers Healthy
 
  Hopefully, by following the above steps, you can attempt to fix the stick drift affecting your Xbox Wireless Controller. If the issue persists, you may have to replace your controller altogether. But ideally, replacing your analog sticks is the most drastic thing you need to do to fix the issue.
 
  And just like fixing analog stick drift, if you experience any other issues with your Xbox Wireless Controller, there are a lot of other quick and simple fixes you can try before getting a replacement. This way, you can ensure your Xbox Wireless Controllers are well-maintained and ready to go.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +132,24 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-visual-impact-editing-videos-for-instagram/"><u>[New] Enhancing Visual Impact Editing Videos for Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-chapters-to-youtube-videos/"><u>[New] In 2024, How to Add Chapters to YouTube Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-20-youtube-time-savers-that-will-skyrocket-engagement-rates/"><u>[Updated] 20 YouTube Time Savers That Will Skyrocket Engagement Rates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-best-free-screen-cast-options-on-windows-ranked-1-to-5/"><u>[Updated] 2024 Approved Best Free Screen Cast Options on Windows, Ranked #1 to #5</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-building-your-signature-solo-podcast-series-for-2024/"><u>[Updated] Building Your Signature Solo Podcast Series for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-rise-with-the-pros-acquire-1k-ig-admirers-daily-for-2024/"><u>[Updated] Rise with the Pros Acquire 1K IG Admirers Daily for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-why-gamers-choose-multi-mode-monitors/"><u>Exploring Why Gamers Choose Multi-Mode Monitors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-a25-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy A25 5G Without Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/kickstart-your-racing-journey-with-499-moza-bundle/"><u>Kickstart Your Racing Journey with $499 MOZA Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gameplay-overcoming-frames-per-second-dip-in-pc-valorant/"><u>Maximizing Gameplay: Overcoming Frames Per Second Dip in PC Valorant</u></a></li>
+<li><a href="https://games-able.techidaily.com/mmo-evolution-how-interactive-gaming-is-transformed/"><u>MMO Evolution: How Interactive Gaming Is Transformed</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-hardware-for-immersive-pc-games/"><u>Optimal Hardware for Immersive PC Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-disconnected-world-in-pokemon-go/"><u>Overcoming Disconnected World in Pokémon GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/palworld-uncovered-your-essential-handbook/"><u>Palworld Uncovered: Your Essential Handbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unauthorized-access-a-step-by-step-process-to-copy-secure-discs-on-apple-computers/"><u>Unauthorized Access: A Step-by-Step Process to Copy Secure Discs on Apple Computers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/vivid-video-visualization-the-essential-5-tools-guide-for-2024/"><u>Vivid Video Visualization The Essential 5 Tools Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-guide-to-claiming-unwanted-xbox-digital-titles/"><u>Your Guide to Claiming Unwanted Xbox Digital Titles</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Raspberry Pi? - 6 Key Benefits for Retro Games
-date: 2024-12-31T16:05:59.661Z
-updated: 2025-01-04T16:05:42.241Z
+date: 2025-01-06T04:53:47.954Z
+updated: 2025-01-10T17:54:54.798Z
 tags:
   - games
 categories:
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
  There will be two RAM options at release, 4GB and 8GB, but other variants should be available later. We might even see a 16GB RAM Raspberry Pi 5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. The GPU Is Better
 
  The Raspberry Pi 5 features a Broadcom VideoCore VII GPU, up from the VideoCore VI found with the Raspberry Pi 4\. The VideoCore VII GPU supports OpenGL ES 3.1 and Vulkan 1.2, with fully open-source Mesa drivers from Igalia.
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
  Additionally, the Raspberry Pi 5 is now capable of running two 4K displays @60Hz with HDR support using the two micro-HDMI ports supplied on the board. Playing retro games on a 4K monitor might be a bit overkill, but it is good to know that you can.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. It Is Still Remarkably Power-Efficient
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
  The Raspberry Pi 5 uses a new power management integrated circuit (PMIC) which provides up to 20A of current to power the Cortex-A76 and other digital logic in the BCM2712 application processor. The PMIC allows the Raspberry Pi to sport a shiny new real-time clock and an actual onboard power button. This means that you can make a[handheld Raspberry Pi gaming console](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) without having to mess around with the GPIO pins. You may be surprised to know that there are several[ways to turn on a Raspberry Pi](https://www.makeuseof.com/how-to-turn-on-a-raspberry-pi/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. It Can Run DreamCast, GameCube, and PSP Games
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
  We are keeping our fingers crossed that this may be the Raspberry Pi that is finally powerful enough to emulate PS2 games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Cheaper Than Alternatives
 
  The Raspberry Pi has not lost its edge when it comes to pricing. Although there are more[powerful single-board computer alternatives](http://www.makeuseof.com/powerful-sbc-extra-computing-power/) on the market, the Raspberry Pi 5 is competitively priced. It is not the cheapest SBC, but it does maintain a fair balance between price and performance.
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
  According to Eben Upton in the[Pi 5 launch announcement](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) , the company will “ring-fence all of the Raspberry Pi 5s we sell until at least the end of the year for single-unit sales to individuals, so you get the first bite of the cherry.” So, that should mitigate[Raspberry Pi availability issues](https://www.makeuseof.com/raspberry-pi-stock-levels-finally-improving/) early on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Better Software Support Than Most Alternatives
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 ![ODROID N2+ SBC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/odroidn2aplusa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Hardkernel](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/)
@@ -120,18 +120,20 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-premier-video-converters-for-tweeting-videos/"><u>[New] Premier Video Converters for Tweeting Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-top-picks-affordable-high-quality-4k-home-theatres/"><u>[New] Top Picks Affordable, High Quality 4K Home Theatres</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-elite-select-best-apps-for-watching-live-boxing-and-international-football/"><u>[Updated] In 2024, Elite Select Best Apps for Watching Live Boxing & International Football</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-youtubes-potential-with-a-subscription-plan/"><u>[Updated] Unlocking YouTube's Potential with a Subscription Plan</u></a></li>
-<li><a href="https://media-tips.techidaily.com/airplay-server-tricks-transferring-iphone-content-to-your-mac-without-cost/"><u>AirPlay Server Tricks: Transferring iPhone Content to Your Mac Without Cost</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-ps5-web-browser-secret/"><u>Decoding the PS5 Web Browser Secret</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/discover-the-best-free-platforms-for-crafting-your-own-youtube-channel-introductions-the-ultimate-5-pick-guide/"><u>Discover the Best Free Platforms for Crafting Your Own YouTube Channel Introductions: The Ultimate 5-Pick Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-xbox-game-pass-ultimate-worth-switching-to/"><u>Is Xbox Game Pass Ultimate Worth Switching To?</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-start-to-discord-on-your-mac-system/"><u>Quick Start to Discord on Your Mac System</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-prevent-auto-start-of-steam/"><u>Steps to Prevent Auto-Start of Steam</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-stm32qeg-starter-kits-with-grove-interface-modules-for-raspberry-pi-and-arduino/"><u>Top Recommended STM32QEG Starter Kits with Grove Interface Modules for Raspberry Pi & Arduino</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-official-4-best-ways-to-get-filmora-discount-codes-for-2024/"><u>Updated Official 4 Best Ways to Get Filmora Discount Codes for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-live-streaming-360-video-to-youtube/"><u>[New] How to Live Streaming 360 Video to Youtube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-audio-enhancement-strategies-using-premiere-pro/"><u>[Updated] In 2024, Audio Enhancement Strategies Using Premiere Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-high-end-hardware-unveiled-by-gaming-influencers/"><u>[Updated] In 2024, High-End Hardware Unveiled by Gaming Influencers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unveiling-the-updated-parrot-ar-drone-experience/"><u>[Updated] In 2024, Unveiling The Updated Parrot AR Drone Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-discover-the-most-reliable-royalty-free-audio-libraries/"><u>2024 Approved Discover the Most Reliable Royalty-Free Audio Libraries</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-game-recognition-errors-in-steam-database/"><u>Correcting Game Recognition Errors in Steam Database</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/filtragem-online-e-conversao-de-videos-mov-para-avis-gratuita-tecnica-simples-e-rapida/"><u>Filtragem Online E Conversão De Vídeos MOV Para Avis Gratuita: Técnica Simples E Rapida</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-disparities-shape-our-progress-in-real-time-technology-breakthroughs-zdnet/"><u>How Disparities Shape Our Progress in Real-Time Technology Breakthroughs | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/initiating-a-gaming-league-on-xbox-10/"><u>Initiating a Gaming League on Xbox 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-game-ideas-for-your-linux-terminal/"><u>Innovative Game Ideas for Your Linux Terminal</u></a></li>
+<li><a href="https://games-able.techidaily.com/level-up-strategy-discover-fun-and-innovative-chess-games/"><u>Level Up Strategy: Discover Fun & Innovative Chess Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-an-unopening-geforce-experience-interface-a-complete-walkthrough/"><u>Overcoming the Challenge of an Unopening GeForce Experience Interface - A Complete Walkthrough</u></a></li>
+<li><a href="https://games-able.techidaily.com/reduce-expenses-increase-fun-with-xbox-s/"><u>Reduce Expenses, Increase Fun with Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-adding-sd-to-steam-deck/"><u>Step-by-Step: Adding SD to Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-intricacies-of-twitch-from-basics-to-broadcasting/"><u>The Intricacies of Twitch: From Basics to Broadcasting</u></a></li>
 </ul></div>
 

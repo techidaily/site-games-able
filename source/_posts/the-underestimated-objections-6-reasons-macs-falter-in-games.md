@@ -1,7 +1,7 @@
 ---
 title: "The Underestimated Objections: 6 Reasons Macs Falter in Games"
-date: 2024-08-22T22:21:37.908Z
-updated: 2024-08-23T22:21:37.908Z
+date: 2025-01-05T03:15:16.945Z
+updated: 2025-01-10T18:41:18.446Z
 tags:
   - games
 categories:
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 
  So, gamers that want to start gaming but don't want to spend a lot of money will find it easier to get an Intel or AMD computer over a Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. You Cannot Upgrade an Apple-Silicon Computer
 
  The Apple-Silicon chips brought interest to Mac gaming, but it's also one of the biggest things holding back Macs and MacBooks. That's because Apple silicon chips are SoCs ([What is an SoC?](https://www.makeuseof.com/what-is-a-system-on-a-chip-soc/) ).
@@ -38,24 +42,22 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 
 ![Apple's M1-powered MacBook Pro laptop on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/Apple_M1_Shutterstock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Girts Ragelis/[Shutterstock](https://www.shutterstock.com/image-photo/riga-latvia-november-18-2020-apple-1856280259)
 
  But that also means you cannot upgrade an Apple-silicon-powered computer. Gaming machines are usually known for their upgradability, so even if you started with a $500 gaming PC, you could eventually upgrade it to a $5,000 beast if you wanted to.
 
  Even gaming laptops, which do not have upgradable CPUs and GPUs, often give you upgradeable RAM and SSDs. But if you have a MacBook Pro with a 512GB SSD and 16GB Unified Memory, you're stuck with that unless you buy a new laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Entry-Level MacBook Airs Don't Have Active Cooling
 
  The M1 MacBook Air is the most affordable Apple laptop, so it will likely be one of the options for gamers on a budget. However, the computer doesn't offer active cooling—it relies on its aluminum shell to passively cool its SoC.
 
 ![15-inch MacBook Air colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/15-inch-macbook-air-colors.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Apple/[YouTube](https://www.youtube.com/watch?v=GYkq9Rgoj8E&t=407s&ab%5Fchannel=Apple)
 
  While this is acceptable for non-demanding office tasks, it's not enough for gaming. I tried playing The Sims 4 on my M1 MacBook Air, and it was noticeably warm after just 30 minutes of gaming. How much hotter will it be if I play demanding titles like Call of Duty?
@@ -63,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
  This heat means the computer is likely either[CPU thermal throttling](https://www.makeuseof.com/what-is-cpu-thermal-throttling/) or[GPU thermal throttling](https://www.makeuseof.com/what-is-gpu-thermal-throttling-in-gaming/) (or both), so I was getting less performance than expected. But when I play on my Acer Predator gaming laptop, I can push it for several hours and not notice any performance drop.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Some Required Gaming Apps Aren't Available on macOS
 
  Many games rely on other apps to run properly. For example, many games rely on DirectX 12 for their visuals. However, Apple does not support DirectX. Instead, it has its own Metal API. So, to run games that do not support Metal API, you need to run a compatibility layer app like CrossOver.
@@ -73,10 +76,11 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 
 ![The homepage of Easy Anti Cheat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/easy-anti-cheat-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And even if some developers port a game to macOS to run natively, some eSports titles require third-party services, like anti-cheat, to run properly. And since most anti-cheat apps aren't compatible with macOS, you cannot run those games at all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. You Only Get a Limited Number of AAA Titles on macOS
 
@@ -86,16 +90,14 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 
  And while you can technically enjoy these games using these apps, you still won't get the best experience as these titles aren't designed to run on a Mac. Nevertheless, you can[check if your Mac can run a game](https://www.makeuseof.com/how-to-check-if-your-mac-can-run-a-game/) if you see a title you like but don't have a gaming PC.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Mac Game Ports Usually Have Lower Quality
 
 ![15-inch MacBook Air displaying Stray video game on-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/15-inch-macbook-air-displaying-stray-video-game-on-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit:[Apple](https://www.apple.com/newsroom/2023/06/apple-introduces-the-15-inch-macbook-air/)
 
  Since most games aren't designed for the Mac, a developer needs to port a title to macOS to make it available to Apple users. You can check out our[deeper explanation of what a game port, remake, remaster, and reboot is](https://www.makeuseof.com/video-game-ports-remakes-remasters-reboots/) . But the gist is that the game developer simply makes a game released on another platform (like the PlayStation 5) natively compatible with another (like the PC).
@@ -108,14 +110,11 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 
  Unless there's a major shift in how gamers think, Apple needs to do much more than just release better hardware. Instead, it requires the perfect blend of gamer demand, developer support, hardware advancement, and more to shake up the gaming industry—much like how the Apple App Store made the smartphone we know today.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +123,22 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-sharpfocusx7-size-your-photography-right/"><u>[New] 2024 Approved SharpFocusX7 Size Your Photography Right</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-realizing-your-audio-based-ppt-with-easy-s2t-tools/"><u>[New] Realizing Your Audio-Based PPT with Easy S2T Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smartphone-lighting-kits-for-improved-footage/"><u>[Updated] Smartphone Lighting Kits for Improved Footage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-space-available-for-windows-11-pin-listings/"><u>Boosting Space Available for Windows 11 Pin Listings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-samsung-galaxy-m34-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Samsung Galaxy M34 5G.</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-data-of-xbox-gameplay-duration-reports/"><u>Decoding the Data of Xbox Gameplay Duration Reports</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-economics-of-ea-play/"><u>Dissecting the Economics of EA Play</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016746729-diy-fixes-for-a-non-functional-logitech-g230-mic-resolved/"><u>DIY Fixes for a Non-Functional Logitech G230 Mic – Resolved!</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-group-of-16-couch-game-pairings-for-xbox-series/"><u>Elite Group of 16 Couch Game Pairings for XBox Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonize-tech-connect-your-xbox-one-remote/"><u>Harmonize Tech: Connect Your Xbox One Remote</u></a></li>
+<li><a href="https://games-able.techidaily.com/impact-analysis-xbox-joining-forces-with-activision-and-blizzard/"><u>Impact Analysis: Xbox Joining Forces with Activision & Blizzard</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/limited-edition-marvels-spiderman-2-how-to-purchase-early/"><u>Limited-Edition Marvel's SpiderMan 2: How to Purchase Early</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-steam-purchase-power-financing-strategies/"><u>Maximizing Steam Purchase Power: Financing Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-battleye-setup-errors-your-guide-to-a-stable-installation/"><u>Overcome BattlEye Setup Errors – Your Guide to a Stable Installation</u></a></li>
+</ul></div>
 

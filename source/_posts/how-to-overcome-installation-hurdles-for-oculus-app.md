@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Installation Hurdles for Oculus App
-date: 2024-08-22T22:25:53.851Z
-updated: 2024-08-23T22:25:53.851Z
+date: 2025-01-10T06:39:13.210Z
+updated: 2025-01-10T22:01:21.676Z
 tags:
   - games
 categories:
@@ -28,14 +28,19 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the**OculusSetup.exe** file and selecting**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the**Use a proxy server** checkbox within Internet Properties. Our[guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
 
@@ -43,23 +48,26 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Turn Off the Windows Firewall
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this[how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Install .NET Framework 4.6.1
 
  It has also been confirmed by Oculus users that installing .NET Framework 4.6.1 can fix the “we encountered an error” installation issue. This is how you can install .NET Framework 4.6.1:
@@ -73,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
  The setup wizard will say if .NET Framework 4.6.1 or later is installed on your PC. If you don’t need to install that framework, try applying the resolution below or others specified here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 7\. Remove Leftovers From a Previous Oculus App Installation
 
  If you’re trying to reinstall the Oculus app after uninstalling it, removing leftover debris from the previous installation might resolve this issue. This means manually deleting Oculus folders left behind from the previous installation. You can erase leftover Oculus folders as follows:
@@ -92,21 +97,15 @@ C:\Users\<User Folder>\AppData`
 
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this[Meta download page](https://www.meta.com/us/en/quest/setup/) . Then click**Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Install the Oculus Windows Software
 
  Many users have resolved the “we encountered an error” Oculus app installation issue by applying those potential solutions. So, there’s a good chance one will fix the Oculus app not installing on your Windows PC. Then you get back to playing all your favorite Rift PC VR games again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +114,24 @@ C:\Users\<User Folder>\AppData`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-harmonizing-vision-and-voice-the-ultimate-guide-for-2024/"><u>[New] Harmonizing Vision and Voice The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-accelerate-your-classic-gaming-top-choices-of-android-emulators-for-ps2/"><u>[New] In 2024, Accelerate Your Classic Gaming - Top Choices of Android Emulators for PS2</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-chronicle-of-the-most-popular-reddit-threads-ever/"><u>[Updated] A Chronicle of the Most Popular Reddit Threads Ever</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-privacy-and-convenience-in-your-nintendo-experience/"><u>Ensuring Privacy and Convenience in Your Nintendo Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-steam-deck-to-superior-handhelds-pdw4/"><u>From Steam Deck to Superior Handhelds - PDW4</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-horizon-captured-which-camera-takes-the-lead/"><u>In 2024, Horizon Captured Which Camera Takes the Lead?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-new-horizons-in-console-gaming-embarking-on-the-4k-odyssey/"><u>Navigating New Horizons in Console Gaming: Embarking on the 4K Odyssey</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-superiority-test-which-display-rules-the-game/"><u>Screen Superiority Test: Which Display Rules the Game?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/tecnicas-para-restaurar-archivos-desaparecidos-en-el-almacenamiento-permanente-del-disco-duro/"><u>Técnicas Para Restaurar Archivos Desaparecidos en El Almacenamiento Permanente Del Disco Duro</u></a></li>
+<li><a href="https://games-able.techidaily.com/temporary-triumph-treasures-secret-code-saga/"><u>Temporary Triumph Treasures: Secret Code Saga</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-white-motherboards-of-2023/"><u>The Best White Motherboards of 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-showcase-of-gaming-evolution-at-ifa-2023/"><u>The Ultimate Showcase of Gaming Evolution at IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-potential-mastering-cs2-as-a-mac-user/"><u>Unleashing Potential: Mastering CS2 as a Mac User</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-you-need-to-know-about-microsofts-creators-updates-diving-into-kb4103429-and-kb4013418-changes/"><u>What You Need to Know About Microsoft's Creators Updates: Diving Into KB4103429 and KB4013418 Changes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-simple-and-straightforward-pathway-to-nft-creation/"><u>Your Simple & Straightforward Pathway To NFT Creation</u></a></li>
+</ul></div>
 

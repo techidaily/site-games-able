@@ -1,7 +1,7 @@
 ---
 title: Transitioning From PS4 Games to PlayOn PS5
-date: 2024-08-22T22:28:11.525Z
-updated: 2024-08-23T22:28:11.525Z
+date: 2025-01-03T18:14:44.391Z
+updated: 2025-01-11T03:11:25.861Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ---
 
 ## Transitioning From PS4 Games to PlayOn PS5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  Whether you still have your old collection of games or you’re wondering how to go about re-downloading and playing them on your new PS5, you’ve come to the right place.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Can I Play PS4 Games on My PS5?
 
  If you have been wondering[if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
@@ -41,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  There are, however, some PS4 games that will not work on the PS5\. The selection of non-playable games pales in comparison to the list of games that are cross-gen, however, so the likelihood of a PS4 game not working on your PS5 is slim.
 
  One example of why this might be the case is if you purchased a PS3 game and then upgraded it to the PS4 version. These PS4 games won’t work on the PS5 because you still need the PS3 disc to play them. While PS4 discs do work on the PS5, PS3 ones don’t.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Play PS4 Games on My PS5?
 
@@ -50,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
 
  Using the disc drive is the simplest and easiest way to play PS4 games on your PS5, but it does come with a catch. This method will only work if your PS5 has a disc drive.
@@ -65,21 +67,19 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![View Details Icon PS5 Game Download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/view-details-icon-ps5-game-download.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select**View Details** to bring up a list of all the games on your console and select the ones you are prepared to delete. Press**Delete** on the right to remove those games and make space for your PS4 title.
 
  Once you have enough space, the data will resume copying onto your PS5.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Download PS4 Games Onto Your PS5
 
  If you prefer saving space on your bookshelf and opting for digital versions of games, you likely have a large library of digital PS4 titles from before you upgraded to the PS5\. These games can be downloaded and played on your new console.
 
 ![Switch User menu on a PS5 with Add User highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/switch-user-menu-on-a-ps5-with-add-user-highlighted.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The first step is to make sure that you are signed into the same PS Account you used to purchase your digital PS4 titles. All the digital games you purchase are linked to the PS Account that you acquired them on.
 
@@ -87,14 +87,15 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![Game Library Tab PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/game-library-tab-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  Head to your**Games Library** by scrolling to the very right on your Home Screen and navigating to**Your Collection** . This is where you will find all the digital titles you have purchased through your PS Account.
 
  Go to the**Sort By icon** on the left, select**Platform** , and select**PS4** . That will allow you to isolate all the PS4 games in your collection. Scroll through the titles until you find your desired PS4 game and select it to re-download it onto your new console.
 
 ![Download PS4 Games onto PS5 via PS Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/download-ps4-games-onto-ps5-via-ps-account-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you would rather save your console's internal storage for PS5 games, you can also store and[play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
 
@@ -107,11 +108,16 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![PS5 Upgrade Offer Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-offer-home-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If there is no box on the right offering a PS5 upgrade, this doesn’t mean there isn’t one available for your PS4 game. Sometimes, a game’s DLC or other offers are displayed there instead. To check if there is a PS5 upgrade available, select the**three dots** below the game title.
 
 ![PS5 Upgrade via Game Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-via-game-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there is an upgrade available, you will see an option labeled**Select Version** . Press that to bring up all versions of the game and select the**PS5 version** to start downloading it.
 
@@ -119,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  These upgrades can cost money, so utilizing them is completely optional. You are more than welcome to simply play the PS4 version if you would prefer.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Are the PS5 Upgrades Worth It?
 
  If you are tempted by a PS5 upgrade but you're not sure if it's worth it, let's go over the benefits. Upgrading your PS4 game to the PS5 version not only gives the graphics a significant boost but also improves overall performance, allowing you to experience the game at a higher frame rate.
@@ -134,14 +137,11 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  Just because you’ve left your old PS4 console behind in preference for the new one, doesn’t mean you have to do the same with your game library. You can still enjoy your favorite games on the PS5, whether they are digital or disc versions. And with an upgrade, they will perform even better than they ever did on your PS4.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +150,21 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-download-all-youtube-images-for-free/"><u>[Updated] 2024 Approved Download All YouTube Images for Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-most-popular-stock-photo-meme-and-their-stories/"><u>2024 Approved The Most Popular Stock Photo Meme and Their Stories</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-100-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor 100 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-techniques-boosting-gameplay-experience-on-a-mac/"><u>Essential Techniques: Boosting Gameplay Experience on a Mac</u></a></li>
+<li><a href="https://techidaily.com/guaranteed-fixes-for-slow-down-and-stop-mouse-speed-changes/"><u>Guaranteed Fixes for Slow Down and Stop Mouse Speed Changes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-a1-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Oppo A1 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-tagging-for-content-visibility/"><u>In 2024, Mastering YouTube Tagging for Content Visibility</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovations-finest-mwcs-top-picks-by-makeuseof/"><u>Innovation's Finest: MWC's Top Picks by MakeUseOf</u></a></li>
+<li><a href="https://games-able.techidaily.com/razers-innovation-at-work-hot-swappable-keyboard-reviewed/"><u>Razer's Innovation at Work - Hot-Swappable Keyboard Reviewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-to-fix-wlan-api-dll-not-found-issue/"><u>Step-by-Step Solutions to Fix WLAN API DLL Not Found Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-online-troubles-lets-fix-it/"><u>Switch Online Troubles? Let's Fix It!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-ultimate-gaming-potential-choose-from-these-top-4-ios-emulators/"><u>Unleash Ultimate Gaming Potential - Choose From These Top 4 iOS Emulators</u></a></li>
+</ul></div>
 

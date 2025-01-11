@@ -1,7 +1,7 @@
 ---
 title: "Master Game Privacy: Hiding Steam Titles"
-date: 2024-08-22T22:24:45.447Z
-updated: 2024-08-23T22:24:45.447Z
+date: 2025-01-09T01:49:01.166Z
+updated: 2025-01-11T00:32:11.706Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 
  Steam's Private Apps feature is officially out of beta, meaning you can hide games in your Steam library that you don't want others to see. Here's what you should know about keeping certain Steam library titles visible only to yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Steam Now Lets You Set Games as Private
 
  Steam announced on the[Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
@@ -37,20 +41,22 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
  But the new feature lets you mark specific titles while keeping the remainder of your library visible. For each private game, Steam hides your in-game status, playtime, and other activity.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Hide a Game on Steam With the Private Feature
 
  If you specifically want to keep friends from seeing a game in your library and prevent them from seeing when you're playing it, you should mark it as private.
 
 ![marking a game as private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/marking-a-game-as-private-on-steam.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To do this, open Steam and head to your**Library.** Scroll down to the game you want to make private and right-click on it. Then select**Manage > Mark as Private** . In the popup box, select the**Mark as Private** button.
 
 ![mark as private notification on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mark-as-private-notification.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I noticed that the feature doesn't work immediately if you are currently playing the game. So it's best to exit the game before setting a title as private. When you re-enter the game, it should no longer show up in your status.
 
@@ -64,12 +70,6 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 
 ![set cart item to private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-cart-item-to-private.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Checking a Game's Private Status
 
  To check that a game is private in your Library, click on your username in the top bar and then select**Profil** **e.** In the menu on the right, select**Games** . This takes you to a list of your games.
@@ -79,8 +79,9 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 ![checking that a game is private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/checking-that-a-game-is-private-on-steam-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also head to your library to remove a game from your private items. Right-click on the title and then select**Manage > Unmark as Private** .
 
  You should also keep in mind that if you[enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
@@ -93,23 +94,21 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 
 ![find your hidden games on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/find-your-hidden-games-on-steam.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't remember the names of the games you've hidden in the past, you can select the**View** option at the top of the Steam app and then select**Hidden Games** . You can then go through each one to mark it as private.
 
 ![hidden games folder on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/hidden-games-folder-on-steam.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Now that you know how to set games as private on Steam, as well as the differences between hidden games and private games, you can maintain more control over which of your games your friends can see on Steam.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +117,24 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-intersection-of-real-and-virtual-defining-mixed-reality/"><u>[New] In 2024, The Intersection of Real and Virtual Defining Mixed Reality</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-transformative-strategies-for-youtube-live-enthusiasts/"><u>[New] In 2024, Transformative Strategies for YouTube Live Enthusiasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-audio-capture-from-facetime-chats/"><u>[Updated] 2024 Approved Mastering Audio Capture From FaceTime Chats</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-best-mobile-film-and-picture-capture-tools-for-iphones-and-androids/"><u>[Updated] In 2024, Best Mobile Film & Picture Capture Tools for iPhones & Androids</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-under-scrutiny-has-openai-slipped-in-oversight/"><u>ChatGPT Under Scrutiny: Has OpenAI Slipped in Oversight?</u></a></li>
+<li><a href="https://games-able.techidaily.com/curb-steam-web-helpers-ram-overuse-with-5-key-techniques/"><u>Curb Steam Web Helper's RAM Overuse with 5 Key Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-foddian-gamings-roots/"><u>Discovering Foddian Gaming's Roots</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-performance-gaming-on-a-new-level-pdw4/"><u>High-Performance Gaming on a New Level - PDW4</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/measure-the-amount-of-visual-ram-in-pcs/"><u>Measure the Amount of Visual RAM in PCs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-instagrams-video-landscape-a-detailed-look/"><u>Navigating Instagram's Video Landscape A Detailed Look</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-your-game-with-enhanced-strategies-for-a-docked-steam-deck/"><u>Perfecting Your Game with Enhanced Strategies for a Docked Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/securely-mounting-an-sd-card-in-steam-deck/"><u>Securely Mounting an SD Card in Steam Deck</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-gt-neo-5-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme GT Neo 5 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-glare-free-guide-to-stellar-gopro-videos/"><u>The Glare-Free Guide to Stellar GoPro Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-playstation-5s-full-potential/"><u>Unlock Your PlayStation 5'S Full Potential</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-smooth-cloud-functionality-on-steam-devices/"><u>Unlocking Smooth Cloud Functionality on Steam Devices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps to Take When Faced with Disrespectful Gaming Partners (Series S/X)
-date: 2024-12-20T23:54:24.512Z
-updated: 2024-12-25T18:37:32.050Z
+date: 2025-01-10T05:31:03.397Z
+updated: 2025-01-11T06:12:26.771Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Report an Xbox Player’s Profile
 
  Commonly, if you experience inappropriate online behavior while playing on Xbox, you might not get the chance to report or deal with the behavior while still in your game. Luckily, the most common way of reporting other Xbox players relies on the**Recently played with** option to report the Xbox profile of the offending user.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 ![A screenshot of the Guide menu for Xbox Series X with the options for People highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2980.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Select the Xbox profile of the person who displayed inappropriate behavior.
 * Choose the option for**Report or block** , followed by**Report** .
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 ![A screenshot of the available categories when reporting an Xbox Profile on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2986.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's also important to note that you can access people's profiles in multiple ways. You can even[report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
@@ -64,16 +64,16 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 ![A screenshot of the Parties and Chats section of the Xbox Series X Guide menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2989.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select the conversation that contains the inappropriate messages you received.
 * Choose the**More** option at the end of the conversation history, and select**Report person** .
 
 ![A screenshot of the available options for Xbox Chats with Report Person highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2992.jpg)
 
  Just as with reporting an Xbox profile, you will then be able to select specific reasons for reporting the player. However, by reporting them through**Chats** , you are linking the report to the player's messages, making it more likely action will be taken.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Report Inappropriate Behavior in the Xbox Activity Feed
 
@@ -90,18 +90,22 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 ![A screenshot of the Apps section of My Games and Apps on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2995.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * From here, select the game capture or post you want to report.
 * With the post open, choose**More actions** , followed by**Report** .
 
 ![A screenshot of the available options for a post on the Xbox Activity Feed with the ability to Report highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-3001.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like with any other Xbox report, you can then define the specific categories of your report and hit**Submit** to finalize it. With the report linked to an individual Xbox Activity Feed post, you can rest assured that Xbox will be able to evaluate your report with the evidence provided.
 
  However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or[create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Report In-Game Voice Chat on Xbox Series X|S
 
@@ -114,17 +118,9 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 ![A screenshot of the Parties and Chats section of the Guide menu for Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/guide-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select**Save voice clip (last 60s)** .
 
 ![A screenshot of the Report In Game Voice Chat settings on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/save-voice-clip.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With voice clips featuring evidence of inappropriate behavior saved to your Xbox, you can move forward with reporting in-game voice chat by following these steps:
 
@@ -132,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 * Select**Review saved clips** .
 
 ![A screenshot of the Saved Voice Clips menu on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/saved-voice-clips.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Choose the clip you saved that features the inappropriate behavior you wish to report.
 
@@ -160,24 +160,18 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-the-top-live-streaming-tech-software-and-hardware-for-youtube-enthusiasts/"><u>[New] 2024 Approved The Top Live Streaming Tech Software & Hardware for YouTube Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-converting-youtube-broadcasts-into-listenable-formats/"><u>[New] In 2024, Converting YouTube Broadcasts Into Listenable Formats</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-supreme-recommendations-best-ios-tone-designers/"><u>[Updated] Supreme Recommendations Best iOS Tone Designers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975156533-ensure-smooth-performance-with-newly-released-realtek-drivers-for-windows-11-download-here/"><u>Ensure Smooth Performance with Newly Released Realtek Drivers for Windows 11 – Download Here</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-changing-rig-razer-basilisk-v3-pro-zero-lag-ultimate-speed/"><u>Game-Changing Rig: Razer Basilisk V3 Pro - Zero Lag, Ultimate Speed</u></a></li>
-<li><a href="https://games-able.techidaily.com/gpu-showdown-exploring-4070-super-ti-and-4080-super-powerhouses/"><u>GPU Showdown: Exploring 4070 Super, Ti & 4080 Super Powerhouses</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-send-large-video-files-from-iphone-to-iphonepcmac/"><u>How to Send Large Video Files From iPhone to iPhone/PC/Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/isolated-world-how-to-unlock-your-pcs-minecraft-link/"><u>Isolated World - How To Unlock Your PC's Minecraft Link</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-file-shift-quick-and-easy-transfer-tactics-for-the-computer/"><u>Mastering File Shift Quick and Easy Transfer Tactics for the Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/methods-to-rectify-launcher-problem-0x803f8001-in-mcpc/"><u>Methods to Rectify Launcher Problem 0X803F8001 in MCPC</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-more-plugins-heres-how-you-can-still-dive-into-flash-games/"><u>No More Plugins? Here’s How You Can Still Dive Into Flash Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-new-tech-ai-meets-realistic-gaming-with-dlss-35/"><u>Nvidia's New Tech: AI Meets Realistic Gaming with DLSS 3.5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-mw3-from-crashing-on-your-pc-a-comprehensive-guide/"><u>Stop MW3 From Crashing on Your PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-windows-and-steam-remote-gaming-links/"><u>Streamlining Windows and Steam Remote Gaming Links</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/tech-hack-effortless-remote-elimination-of-your-ios-devices-data/"><u>Tech Hack: Effortless Remote Elimination of Your iOS Device's Data</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2199181-9781504022606-the-book-of-the-damned/"><u>The Book of the Damned | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-keyboard-roundup-for-elite-gamers-2024-edition/"><u>Ultimate Keyboard Roundup for Elite Gamers - 2024 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-your-mac-for-switch-games/"><u>Unlocking Your Mac for Switch Games</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728480680841-windows-11/"><u>Windows 11について学ぶ - 昔のバージョンから進化した新機能と操作法</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-no-marking-tiktok-mp4-downloader-for-high-quality-clips/"><u>[New] 2024 Approved No Marking TikTok MP4 Downloader for High-Quality Clips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-frameinspector-appraisal-suite-for-2024/"><u>[New] FrameInspector Appraisal Suite for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-securely-logging-live-radio-over-the-web-an-instructional-guide/"><u>[New] In 2024, Securely Logging Live Radio Over the Web An Instructional Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-examining-youtubes-copyright-stance-versus-cc-approach/"><u>[Updated] 2024 Approved Examining Youtube's Copyright Stance Versus CC Approach</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-tecno-spark-10c-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Tecno Spark 10C to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/come-trasformare-i-file-wma-in-mp3-con-le-tecniche-preferite-dagli-utilizzatori/"><u>Come Trasformare I File WMA in MP3 Con Le Tecniche Preferite Dagli Utilizzatori</u></a></li>
+<li><a href="https://blog-min.techidaily.com/demystifying-ethereum-gas-charges-what-you-need-to-know-about-eth-network-expenses/"><u>Demystifying Ethereum Gas Charges: What You Need to Know About ETH Network Expenses</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-guide-is-your-control-right-for-battle/"><u>Gaming Guide: Is Your Control Right for Battle?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-infinix-note-30-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Infinix Note 30 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/necessity-of-having-a-multi-functional-game-display/"><u>Necessity of Having a Multi-Functional Game Display?</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-strategy-for-linking-epic-and-steam/"><u>Simplified Strategy for Linking Epic and Steam</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/step-by-step-guide-converting-webm-video-into-audio-format/"><u>Step-by-Step Guide: Converting WebM Video Into Audio Format</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribing-to-surveillance-owning-for-autonomy/"><u>Subscribing to Surveillance, Owning for Autonomy</u></a></li>
 </ul></div>
 

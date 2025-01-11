@@ -1,7 +1,7 @@
 ---
 title: Evaluating Mechanical Keyboards' Role in Gaming
-date: 2024-12-31T16:06:08.354Z
-updated: 2025-01-04T16:04:40.911Z
+date: 2025-01-04T06:38:39.950Z
+updated: 2025-01-11T01:53:11.179Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ## Benefits of Mechanical Keyboards for Gaming
 
  Since we’re talking about gaming, we’re mainly going to focus on gaming mechanical keyboards since they offer many features that normal mechanical keyboards don’t offer. Of course, we’ll also state the benefits of using any mechanical keyboard for gaming.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lighter Actuation Force
 
@@ -63,9 +63,17 @@ Jhet Borja/MakeUseOf
 
  When you’re gaming intensely, this tactile feedback is precious. It lets you know that you’ve done the action without second-guessing yourself. If you’re not constantly worried about whether you’ve successfully pressed a key on your keyboard or not, you’re left with more mental capacity to worry about what you need to do in the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Gaming Mechanical Keyboards Have Many Functions and Features
 
 ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gaming mechanical keyboards have come a long way since they were first popularized in the early 2010s. Gaming brands have come up with many new features that bring gaming to a different level.
 
@@ -75,13 +83,13 @@ Jhet Borja/MakeUseOf
 
  Most gaming mechanical keyboards also feature dedicated macro buttons—easily accessible buttons that you can assign any action. Arma, for example, has so many keybinds that you’ll often have to either move your hand from one side of the keyboard to the other, or move your other hand from your mouse to your keyboard. Macros and layers would allow you to bring those keys and functions to just one side, saving you time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mechanical Keyboards Are Highly Customizable
 
 ![Switch lubing tools and keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-lubing-tools-and-keyboard.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -91,6 +99,10 @@ Jhet Borja/MakeUseOf
 
  You can choose between[clicky, tactile, or linear switches](https://www.makeuseof.com/linear-vs-tactile-vs-clicky-switches-whats-the-difference/) , or even switches with different actuation points. There are so many different directions that you can go with a mechanical keyboard that you might want to check out our[ultimate beginner’s guide to mechanical keyboards](https://www.makeuseof.com/beginner-custom-mechanical-keyboard-guide/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Drawbacks of Mechanical Keyboards for Gaming
 
  There aren’t many drawbacks to mechanical keyboards since they do everything regular keyboards do but better. However, that doesn’t mean there aren’t any. If you’re using a non-mechanical keyboard right now, you should take these into consideration and see whether it’s worth switching to a mechanical keyboard.
@@ -98,10 +110,6 @@ Jhet Borja/MakeUseOf
 ### Mechanical Keyboards Are Heavier
 
 ![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -111,17 +119,9 @@ Jhet Borja/MakeUseOf
 
  However, the customizable nature of mechanical keyboards means that if you really did want a lightweight, ultra-portable keyboard, you can definitely build one yourself.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mechanical Keyboards Cost More
 
 ![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -138,7 +138,7 @@ Jhet Borja/MakeUseOf
  To get a pretty quiet mechanical keyboard, you’ll have to go to pretty great lengths to achieve it, which might not make it worth it for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do You Need a Mechanical Keyboard for Gaming?
@@ -164,19 +164,15 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-networking-growth-sharing-facebook-content-via-whatsapp/"><u>[New] 2024 Approved Networking Growth Sharing Facebook Content via WhatsApp</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-viewers-toolkit-assistant/"><u>[Updated] 2024 Approved Viewer's Toolkit Assistant</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-variations-6-unique-online-chess-adventures/"><u>Explore Variations: 6 Unique Online Chess Adventures</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-achieve-negative-like-images-effectively/"><u>In 2024, How to Achieve Negative-Like Images Effectively</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a14-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A14 5G Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/keeping-classic-playback-perfect-retro-games-compression-with-chdman/"><u>Keeping Classic Playback Perfect: Retro Games' Compression with ChDMan</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-steams-returns-to-reclaim-your-currency/"><u>Navigating Steam's Returns to Reclaim Your Currency</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/portraying-paradoxes-with-teleportation-cgi-for-2024/"><u>Portraying Paradoxes with Teleportation CGI for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-tips-for-an-enduring-xbox-controlling-experience/"><u>Power Tips for an Enduring Xbox Controlling Experience</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-live-tech-the-most-popular-streaming-tools-reviewed/"><u>Prime Live Tech The Most Popular Streaming Tools Reviewed</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/troubleshooting-guide-how-to-restore-missing-quick-access-icons-on-your-desktop-6-steps/"><u>Troubleshooting Guide: How To Restore Missing Quick Access Icons On Your Desktop (6 Steps)</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrade-your-vr-world-with-ps-vr2-extras/"><u>Upgrade Your VR World with PS VR2 Extras</u></a></li>
-<li><a href="https://games-able.techidaily.com/valve-has-updated-steam-family-sharing-for-the-first-time-in-10-years-heres-whats-new/"><u>Valve Has Updated Steam Family Sharing for the First Time in 10 Years: Here's What's New</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-shoes-for-virtual-ground-leading-treadmill-insights/"><u>[New] 2024 Approved Shoes for Virtual Ground Leading Treadmill Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-illuminating-images-techniques-in-color-science/"><u>[Updated] In 2024, Illuminating Images Techniques in Color Science</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winx-mediatrans-and-iphonewindows-1/"><u>公式 WinX MediaTrans | 高性能データ転送&バックアップソリューション: IPhoneとWindows (1</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-selective-guide-to-exceptional-twitch-download-apps/"><u>A Selective Guide to Exceptional Twitch Download Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-every-gameplay-session-ensuring-optimal-frames-per-second-in-valorant-for-pc-users/"><u>Ace Every Gameplay Session: Ensuring Optimal Frames Per Second in Valorant for PC Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-experience-google-play-games-on-pc/"><u>How to Experience Google Play Games on PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-legally-convert-youtube-to-mp4-format-for-2024/"><u>Step-by-Step Legally Convert YouTube to MP4 Format for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-upside-of-staggered-game-drops/"><u>The Upside of Staggered Game Drops</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-potential-an-in-depth-look-at-the-open-source-capabilities-of-the-linksys-wrt1900ac-wi-fi-router/"><u>Unlocking Potential: An In-Depth Look at the Open Source Capabilities of the Linksys WRT1900AC Wi-Fi Router</u></a></li>
 </ul></div>
 

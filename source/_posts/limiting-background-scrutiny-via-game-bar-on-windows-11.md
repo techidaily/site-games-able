@@ -1,7 +1,7 @@
 ---
 title: Limiting Background Scrutiny via Game Bar on Windows 11
-date: 2024-12-30T16:01:20.557Z
-updated: 2025-01-04T16:00:11.027Z
+date: 2025-01-05T08:14:01.518Z
+updated: 2025-01-10T19:40:33.437Z
 tags:
   - games
 categories:
@@ -34,7 +34,11 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 ![disable the xbox gamebar in windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restrict Xbox Game Bar's Background Activity in Windows 11
@@ -48,27 +52,23 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 4. Search**"Xbox"** in the search bar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click the**three horizontal dots** next to the**Xbox Game Bar** app and select**Advanced options** .  
 ![open advanced options settings for xbox game bar in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-advanced-options-settings-for-xbox-game-bar-in-the-settings-app.jpg)
 6. Select**Never** in the dropdown menu under**Let this app run in the background** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Like disabling the Xbox Game Bar, you can tweak a few settings to[improve your gaming performance on Windows 10](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) and[Windows 11](https://www.makeuseof.com/improve-gaming-experience-windows-11/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't Let the Xbox Game Bar Drain Your System Resources
@@ -92,24 +92,22 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-zipfile-to-srt-conversion-guide-for-subtitle-extraction/"><u>[New] 2024 Approved Zipfile to Srt Conversion Guide for Subtitle Extraction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unraveling-youtube-subtitles-srt-a-triad-of-steps/"><u>[New] Unraveling YouTube Subtitles (SRT) A Triad of Steps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-checklist-tracking-igtv-analytics/"><u>[Updated] The Ultimate Checklist Tracking IGTV Analytics</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-what-is-the-youtube-creator-studio-in-2024/"><u>[Updated] What Is the YouTube Creator Studio, In 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-reimagining-stills-as-continuous-motion-sessions/"><u>2024 Approved Reimagining Stills as Continuous Motion Sessions</u></a></li>
-<li><a href="https://games-able.techidaily.com/confronting-the-hype-around-high-game-refresh-rates/"><u>Confronting the Hype Around High Game Refresh Rates</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-ea-play-ps5-game-selection/"><u>Essential EA Play PS5 Game Selection</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-steams-price-journey-of-video-games/"><u>Exploring Steam's Price Journey of Video Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-streamline-browsing-fb-gaming-in-chrome/"><u>How to Streamline Browsing: FB Gaming in Chrome</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-connection-speed-techniques-for-lower-latency/"><u>Mastering Connection Speed: Techniques for Lower Latency</u></a></li>
-<li><a href="https://games-able.techidaily.com/nine-sentiment-swaying-duets-the-heartfelt-text-challenge/"><u>Nine Sentiment-Swaying Duets: The Heartfelt Text Challenge</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/selective-alarm-tones-optimal-websites-list-for-2024/"><u>Selective Alarm Tones Optimal Websites List for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/tech-guide-easily-project-your-smartphones-display-onto-your-computer/"><u>Tech Guide: Easily Project Your Smartphone's Display Onto Your Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-2024-pioneers-guide-to-next-level-keyboards/"><u>The 2024 Pioneer's Guide to Next-Level Keyboards</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-controlling-console-ambiance-on-xbox/"><u>The Ultimate Guide to Controlling Console Ambiance on Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-full-potential-of-steams-game-milestones/"><u>Unleash Full Potential of Steam's Game Milestones</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-best-10-volume-boosters-for-windows-increase-volume-right-now/"><u>Updated Best 10 Volume Boosters for Windows-Increase Volume Right Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-experience-downloading-and-updating-dells-thunderbolt-tb16-usb-c-docking-station-drivers/"><u>Upgrade Your Experience: Downloading & Updating Dell's Thunderbolt TB16 USB-C Docking Station Drivers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-solving-the-ls-0013-launching-glitch-in-fortnite/"><u>Deciphering and Solving the LS-0013 Launching Glitch in Fortnite</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-places-for-next-gen-vr-content-for-2024/"><u>Exclusive Places for Next-Gen VR Content for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-collection-to-showstopper-editing-techniques-for-hauls-for-2024/"><u>From Collection to Showstopper Editing Techniques for Hauls for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/guard-your-conversations-on-xbox-series-xs/"><u>Guard Your Conversations on Xbox Series X|S</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-smooth-sailing-through-city-skylines-dealing-with-crashes-and-bugs/"><u>How to Ensure Smooth Sailing Through City Skylines - Dealing with Crashes and Bugs</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-activities-on-discord-including-chess-and-poker/"><u>How to Use Activities on Discord (Including Chess and Poker)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-105-classic-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia 105 Classic Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/leveraging-sonys-controller-for-enhanced-pc-gameplay-experience/"><u>Leveraging Sony’s Controller for Enhanced PC Gameplay Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-switch-time-join-the-3-leading-stream-services/"><u>Maximize Your Switch Time: Join the 3 Leading Stream Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-discord-experience-with-top-servers/"><u>Maximizing Your Discord Experience with Top Servers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-mixing-sounds-with-after-effects/"><u>New The Ultimate Guide to Mixing Sounds with After Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/pioneering-the-path-to-play-pre-starfield/"><u>Pioneering the Path to Play Pre-Starfield</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-system-with-4-key-features-of-icue-link-by-corsair/"><u>Revolutionize Your System with 4 Key Features of iCUE Link by Corsair</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-resolving-uncontrolled-mouse-jitter-in-win11/"><u>Secrets: Resolving Uncontrolled Mouse Jitter in Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-guide-to-blur-techniques-for-dynamic-artwork-for-2024/"><u>The Essential Guide to Blur Techniques for Dynamic Artwork for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-excellence-with-nvidias-novel-gaming-app/"><u>Unlocking Excellence with Nvidia's Novel Gaming App</u></a></li>
 </ul></div>
 

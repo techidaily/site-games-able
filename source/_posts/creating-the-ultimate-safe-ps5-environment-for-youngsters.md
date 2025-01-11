@@ -1,7 +1,7 @@
 ---
 title: Creating the Ultimate Safe PS5 Environment for Youngsters
-date: 2024-08-22T22:22:34.801Z
-updated: 2024-08-23T22:22:34.801Z
+date: 2025-01-04T01:58:11.837Z
+updated: 2025-01-11T01:05:23.861Z
 tags:
   - games
 categories:
@@ -30,10 +30,20 @@ Here’s how to set up a child account:
 2. Select**Family Management** and log into your PSN account.  
 ![Add Family Member page on the PS5 with a QR Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-family-member-page-on-the-ps5-with-a-qr-code.JPG)
 3. After you’re logged in, scan the QR code to add a family member using your phone. Alternatively, you can visit the[PSN family management page](https://www.playstation.com/acct/family) on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose**Set Up Now** and select**Add a Child** .
 5. Enter the child’s birthday.  
 ![Add a Child sub-window on the PSN website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-on-the-psn-website.jpeg)
 6. Sony will ask you to pay $0.50 to confirm you’re an adult. You need only pay this once—even for adding subsequent kids—and Sony will credit your PlayStation wallet with the $0.50\. If you’ve never added a payment method to PSN, read our guide on[adding funds and buying games on the PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Enter an email address and password for the account.  
 ![Add a Child sub-window asking for an email address and password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-asking-for-an-email-address-and-password.jpeg)
 8. Choose**Confirm** on each page till you finish.
@@ -66,6 +76,10 @@ You can set age restrictions for the following options:
 
  You’ll find the options to change the restriction levels for all of the above on that parental control page. You should adjust it based on your parenting preferences and the child’s age.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set Up Console Restrictions and User Passcodes
 
  Console restrictions are a group of features on the PS5 that allows you to control how users can create accounts on the PS5\. A smart kid can bypass your content restrictions by simply creating a new account on the PS5 to use instead of the child account you created for them. Or they could log into an adult account if you haven’t set a passcode on it.
@@ -77,11 +91,13 @@ Here’s how to set up the console restrictions passcode:
 1. Go to **Settings > Family and Parental Controls > PS5 Console Restrictions** .  
 ![Family and Parental Controls page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-and-parental-controls-page-on-the-ps5.JPG)
 2. Enter the default passcode:**0000** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Console restriction passcode on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/console-restriction-passcode-on-the-ps5.JPG)
 3. Select**Change Your Console Restriction Passcode** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![PS5 Console Restrictions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-console-restrictions-page.JPG)
 4. Enter the new password twice.
 
@@ -93,9 +109,6 @@ Here’s how to set up the console restrictions passcode:
 
  Don’t forget your console restriction passcode. As far as we know, there’s no way to recover it.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Set a Checkout Password and a Monthly Spending Limit
 
  There are internet horror stories of kids spending hundreds to thousands of dollars buying applications and video games with their parents’ cards. Avoid that by setting up spending limits and a checkout password.
@@ -114,8 +127,9 @@ Here’s how to set up the console restrictions passcode:
  We’re unsure why Sony made the spending limit a dropdown preset menu. But you can’t input a custom amount as a spending limit for now.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Enforce Playtime Limits
 
  Video game addiction could affect your child negatively, but you can try to curtail it by setting playtime limits on the PS5.
@@ -128,20 +142,16 @@ Here’s how to do it:
 2. Select**Playtime Settings** and toggle on**Restrict Playtime** .  
 ![Playtime Settings toggle on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-settings-toggle-on-the-ps5.JPG)
 3. Use**When Playtime Ends** to choose whether you want the child to be forcefully logged out or simply notified when they’ve reached their playtime limit.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Set how long they can play using**Duration and Playable Hours** . Selecting**By Days of the Week** from the menu allows you to specify how many hours they can play each day of the week.  
 ![Duration and Playable Hours dropdown meny in the PS5 Playtime Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duration-and-playable-hours-dropdown-meny-in-the-ps5-playtime-settings.JPG)
 5. Select**Every Day** or the days of the week and choose your hours in**Playtime duration** . Inside here, you can also set a**Start time** and**End time** to customize when they can play video games, and you can choose their bedtime as**End time** so they don’t play at night when they should be sleeping.  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Playtime Duration dialogue window on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-duration-dialogue-window-on-the-ps5.JPG)
 6. Choose**Save** on the right-hand side of the page when you’re done.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Older children may not appreciate this setting much, so it’s probably a better idea to discuss their playtime rather than outright blocking them from using the console.
 
@@ -153,14 +163,11 @@ Here’s how to do it:
 
  But you must remain vigilant, as some kids might still find ways to bypass your restrictions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +176,17 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-best-practices-for-compliant-twitter-videos/"><u>[New] In 2024, Best Practices for Compliant Twitter Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-building-your-brands-buzz-on-youtube-with-fresh-insights/"><u>[Updated] In 2024, Building Your Brand's Buzz on Youtube with Fresh Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-soft-onset-showcasing/"><u>[Updated] In 2024, Soft Onset Showcasing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-oppo-k11x-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Oppo K11x</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-digital-distribution-models-gog-vs-steam/"><u>Dissecting Digital Distribution Models: GoG Vs Steam</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-poco-x6-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Poco X6 Pro Device SIM</u></a></li>
+<li><a href="https://games-able.techidaily.com/highlight-capture-the-gpu-revolution-in-gameplay-recording/"><u>Highlight Capture: The GPU Revolution in Gameplay Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-retro-games-iphone-compatible-nes-and-snes-titles/"><u>Play Retro Games: IPhone-Compatible NES & SNES Titles!</u></a></li>
+<li><a href="https://facebook.techidaily.com/redesigning-reality-from-facebook-to-meta-evolution/"><u>Redesigning Reality: From Facebook to Meta Evolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-value-priced-membrane-keyboards-for-games/"><u>Top Value-Priced Membrane Keyboards for Games</u></a></li>
+</ul></div>
 

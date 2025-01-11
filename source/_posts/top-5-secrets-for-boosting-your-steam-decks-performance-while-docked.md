@@ -1,7 +1,7 @@
 ---
 title: Top 5 Secrets for Boosting Your Steam Deck’s Performance While Docked
-date: 2024-08-22T22:21:44.989Z
-updated: 2024-08-23T22:21:44.989Z
+date: 2025-01-07T18:12:40.817Z
+updated: 2025-01-10T16:21:03.409Z
 tags:
   - games
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
 ![screenshot of steam deck resolution menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_resolution_menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your choice between maintaining the 720p resolution or pushing the device higher is the first one you'll need to make when it comes to playing any game on the big screen.
 
  The 720p resolution ensures that the Steam Deck will reach playable frame rates on just about any game. However, this resolution is blurry and unpleasant to look at on larger screens.
@@ -32,11 +36,19 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
 ![screenshot of steam deck properties menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_properties_menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under**General** , change**Game Resolution** from default to a value of your choosing.
 
  It's best that you choose a resolution that coincides with a specific aspect ratio, or whatever is native to the external device you're using. Make sure you[understand the specifics of how aspect ratio relates to resolution when choosing](https://www.makeuseof.com/what-is-the-difference-between-aspect-ratio-resolution/) .
 
  Now that your image is being output at a higher resolution, you'll be able to access higher resolutions in game. It will look a lot nicer on the big screen, but it's also going to be more taxing on your performance. Let's see what other tools the Steam Deck has to manage performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using Per-Game Settings
 
@@ -72,16 +84,14 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
  You'll eventually find yourself with a very pleasant image and a comfortable framerate.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Target 30 or 40 FPS Over 60 FPS
 
 ![screenshot of steam deck quick menu framerate limiter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_framerate_cap.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  A major part of gaming on the Steam Deck is being comfortable with lower framerates.
 
  60 FPS is always the goal, but newer games with more demanding visuals will rarely reach 60 FPS on the Steam Deck. This becomes even more difficult when you add the performance overhead of a higher resolution into the mix.
@@ -91,22 +101,20 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
  Steam allows you to target 30 FPS using the performance overlay, but this framerate limiter occurs outside the game itself. For the best results, check if the game you're playing has an inbuilt framerate limiter. These are more accurate and responsive than the Steam Deck's overlay menu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Docking Your Steam Deck Is a Balancing Act
 
  Just about any game will run well enough once you connect the dock. The problem is, those default settings can result in a blurry or unpleasant image. Increasing settings that improve these visuals will very quickly tax the Steam Deck and result in poor performance.
 
  The result is a lot of tinkering with an impressive collection of performance tools until you get it just right. Whether you're going for a high, consistent frame rate, or a picture that looks as good as it can, you'll find some sort of happy medium when it comes to docking your Steam Deck.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +123,21 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-stepwise-strategies-to-perfect-youtube-trailers-by-filmora/"><u>[New] 2024 Approved Stepwise Strategies to Perfect YouTube Trailers by Filmora</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-aggregate-attention-masterful-telegram-advertising-approaches/"><u>[New] Aggregate Attention Masterful Telegram Advertising Approaches</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-upload-recycling-101/"><u>[New] Instagram Upload Recycling 101</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-meme-design-collection/"><u>[New] The Ultimate Meme Design Collection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-precision-techniques-for-efficient-keying-processes/"><u>[Updated] In 2024, Precision Techniques for Efficient Keying Processes</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-high-refresh-165hz-screens/"><u>Elite High Refresh 165Hz Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortifying-the-future-of-child-safe-gaming/"><u>Fortifying the Future of Child-Safe Gaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-new-horizons-the-essence-of-vr-travel/"><u>In 2024, Navigating New Horizons The Essence of VR Travel</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-macbook-model-whats-new/"><u>Latest MacBook Model: What's New?</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-gaming-journey-with-steams-storage-wisdom/"><u>Optimize Your Gaming Journey with Steam’s Storage Wisdom</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-z-fold-7-unveiled-anticipated-launch-details-pricing-insights-and-latest-tech-speculations/"><u>Samsung Galaxy Z Fold 7 Unveiled: Anticipated Launch Details, Pricing Insights & Latest Tech Speculations</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-checklist-of-five-essential-game-mouse-features/"><u>The Ultimate Checklist of Five Essential Game Mouse Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-to-macsilicon-running-windows-games-via-crossover/"><u>Transitioning to MacSilicon: Running Windows Games via CrossOver</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173214061-why-im-insisting-on-oled-a-gamers-perspective/"><u>Why I'm Insisting on OLED - A Gamer’s Perspective</u></a></li>
+</ul></div>
 

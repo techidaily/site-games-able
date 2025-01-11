@@ -1,7 +1,7 @@
 ---
 title: "Extending Your Gaming Realm: Laptop as Monitor for Xbox"
-date: 2024-08-22T22:21:28.235Z
-updated: 2024-08-23T22:21:28.235Z
+date: 2025-01-05T21:14:52.535Z
+updated: 2025-01-11T04:05:47.530Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
  It's worth being aware of the differences between Xbox Remote Play and Xbox Cloud Gaming. When opening your Xbox or the Xbox app for PC, you will see an option titled**Cloud Gaming** . This requires an Xbox Game Pass Ultimate subscription and allows you to stream Xbox games to your devices without an Xbox console.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Remote Play on Your Xbox Series X|S
 
  While Remote Play can always be used as long as you have a wireless connection to your Xbox, you'll get the best performance by ensuring you meet the following requirements:
@@ -41,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
  If your laptop and Xbox are both on the same network, you won't need to worry too much about the network settings. However, if you are playing on a different network, you may experience noticeable network lag if you drop too far below these settings.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Set Up Your Xbox for Remote Play
 
  With the preferred requirements for Remote Play outlined you need to make sure your Xbox has Remote Play enabled. Follow these steps to get ready for Remote Play:
@@ -52,11 +53,18 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 2. Highlight the options for**Profile & system** , and select**Settings** .  
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
 3. Under**Devices & connections** , choose**Remote features** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Devices and Connections options for an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/remote-features.jpg)
 4. Ensure the option for**Enable remote features** is selected.  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A screenshot of the Remote Features settings on Xbox Series X with Enable Remote Features highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-remote-features.jpg)
 
  From here, you should see a checkmark next to**Enable remote features** , and your Xbox will take a few moments to test your setup and suggest ways remote play can be improved.
@@ -65,7 +73,15 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
 ![A screenshot of the settings for Xbox App Preferences on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app-preferences.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Similarly, you can also select**Power options** from the**Remote features** screen, to[customize the power settings of your Xbox](https://www.makeuseof.com/how-to-customize-xbox-series-x-s-power-options-to-save-energy/) and ensure it is set to**Sleep** rather than**Shutdown** to enable Remote Play all the time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Start Playing Xbox Series X|S Games With Your Laptop
 
@@ -83,14 +99,8 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 5. Click**Xbox Wireless Controller** when it appears on the**Add a device** screen.  
 ![A screenshot of the Add a Device page available in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-add-a-device-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With your laptop successfully paired with your controller, you're ready to use it with Remote Play. However, if you're having trouble pairing over Bluetooth, you can connect your laptop to your controller using a wired USB-C cable. This will instantaneously sync your devices.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Download the Xbox App and Connect to Your Xbox
 
  With your controller ready to go, you'll need to install[the Xbox app for PC](https://www.xbox.com/en-US/apps/xbox-app-for-pc) on your laptop. Once you've installed it, sign in with the same Microsoft account you use for your Xbox, and perform the following:
@@ -100,9 +110,6 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 3. Click your Xbox. Your Xbox will now connect to your laptop.  
 ![A screenshot of the Console list within the Xbox App for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2815.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  After a brief loading screen, you'll be greeted with the Xbox Cloud Gaming startup screen. From here, you can interact with your Xbox in the exact same way you would with your controller.
 
  However, by clicking the**three-button menu** in the top-left of your screen with your mouse, you can access helpful options. These include**Mute** ,**Feedback** ,**Toggle fullscreen** , and**Disconnect** .
@@ -110,13 +117,11 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 ![A screenshot of the streaming options for Remote Play for an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-stream-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As long as your Xbox is set to**Sleep** , you won't even need to turn your Xbox on first. Just connect to your Xbox via the Xbox app, and your console will turn on remotely. So if you're on a train, on vacation, or even on a break at work, you can play games from your console.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Else Can the Xbox App Do?
 
  If you've only used the Xbox app for PC for Remote Play, you should know this is only a tiny part of its functionality.
@@ -131,14 +136,11 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
  If you don't have a console or want to play with a friend who doesn't have one, you'll want to give Xbox Cloud Gaming a shot. You don't even need an official Xbox controller for this, just a Game Pass Ultimate subscription.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +149,21 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-harnessing-the-power-of-software-for-seamless-vimeo-video-downloads-for-2024/"><u>[New] Harnessing the Power of Software for Seamless Vimeo Video Downloads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-guide-posting-podcast-on-instagram/"><u>[New] Quick Guide Posting Podcast on Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-5-ios-friendly-apps-unlocking-facebooks-richest-media-library/"><u>[New] Top 5 iOS-Friendly Apps Unlocking Facebook's Richest Media Library</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-learn-the-fastest-way-to-retrieve-gifs-directly-from-social-platforms-like-fb/"><u>[Updated] In 2024, Learn the Fastest Way to Retrieve GIFs Directly From Social Platforms Like FB</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-penning-perfectly-captivating-podcast-descriptions/"><u>[Updated] In 2024, Penning Perfectly Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-leading-edge-apps-the-ultimate-10-for-real-time-gymnastics-and-hockey-games/"><u>[Updated] Leading Edge Apps The Ultimate 10 for Real-Time Gymnastics and Hockey Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-30-hashtags-propel-video-views-in-gameplay/"><u>2024 Approved Top 30 Hashtags Propel Video Views in Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-a-tidier-steam-experience-removing-surplus-games/"><u>Achieve a Tidier Steam Experience: Removing Surplus Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/cpu-vs-gpu-upgrade-sequence-for-maximum-benefit/"><u>CPU Vs. GPU: Upgrade Sequence for Maximum Benefit</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-plays-rise-in-prices-means-ending-subscription/"><u>EA Play's Rise in Prices Means Ending Subscription</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-for-premature-starfield-trial-participation/"><u>Secrets for Premature Starfield Trial Participation</u></a></li>
+<li><a href="https://games-able.techidaily.com/three-unconventional-steps-to-re-launch-steam/"><u>Three Unconventional Steps to Re-Launch Steam</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/universal-vmix-adapter/"><u>Universal VMix Adapter</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-full-potential-of-steam-deck-keys/"><u>Unlocking Full Potential of Steam Deck Keys</u></a></li>
+</ul></div>
 

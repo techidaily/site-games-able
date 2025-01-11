@@ -1,7 +1,7 @@
 ---
 title: "IFA 2023: The Best New Gaming Hardware We Want to Try"
-date: 2025-01-03T16:01:21.183Z
-updated: 2025-01-04T16:01:45.417Z
+date: 2025-01-10T00:36:44.721Z
+updated: 2025-01-11T03:52:43.787Z
 tags:
   - games
 categories:
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![Lenovo Legion Go Controller and Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-controller-mouse.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  Lenovo is wisely positioning the Legion GO as a gaming handheld just as capable as a desktop. It beats the Steam Deck and ROG Ally's screen size by nearly two full inches, boasting an impressive 8.8-inch screen. It also includes a kickstand, making it easy to plop onto your desk and play like any gaming PC.
@@ -62,16 +66,12 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![Lenovo Legion Go with Kickstand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-kickstand.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  The Lenovo Legion GO is scheduled to launch on October 31, 2023, for $799.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Lenovo Legion Glasses
 
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![Cord of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-cord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  But are they better than its competition, namely the[XReal Air smart glasses, arguably the best accessory for the Steam Deck](https://www.makeuseof.com/nreal-air-glasses-are-the-best-accessory-for-steam-deck/) ? That remains to be seen. They're a bit heavier at 5oz (142g) than the XReal Air's 2.6oz (75g). But with the adjustable nose pads and its anti-slip adapter, pressure on the nose may not make the glasses feel like they're going to fall off.
@@ -102,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Lenovo Legion 9i
@@ -110,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
@@ -120,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
  An integrated liquid cooling system, for starters. Unlike most laptops that utilize air cooling to safely transfer heat away from the important bits of your PC, the Legion 9i uses liquid cooling technology to keep its internal temperature at a reasonable level. It's the same[principle behind water-cooled PCs](https://www.makeuseof.com/water-cooled-pc/) but in laptop form.
 
 ![Legion 9i's cooling system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-cooling-system.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
@@ -135,16 +143,12 @@ The Legion 9i features a:
 
 The Lenovo Legion 9i will be available starting October 2023.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MSI GAMING SLIM Series Graphics Cards
 
 ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Gavin Phillips/MakeUseOf
@@ -158,10 +162,6 @@ The Lenovo Legion 9i will be available starting October 2023.
  Image Credit: Gavin Phillips/MakeUseOf
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tecno MegaMini Watercooled Mini PC
 
@@ -201,20 +201,17 @@ No word on the price or release date yet, but color us intrigued.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-cinematic-excellence-discover-the-best-15-gopro-action-cam-luts/"><u>[New] Cinematic Excellence Discover the Best 15 GOPRO Action Cam LUTs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-step-by-step-strategies-for-thriving-on-stardews-exotic-hidden-gem-ginger-island/"><u>[New] Step-by-Step Strategies for Thriving on Stardew’s Exotic, Hidden Gem – Ginger Island</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unlocking-the-secrets-of-text-styling-in-discord/"><u>[New] Unlocking the Secrets of Text Styling in Discord</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-sound-fidelity-at-home-mastering-quality-recordings/"><u>[Updated] Sound Fidelity at Home Mastering Quality Recordings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-deciphering-filmora-a-quest-for-visual-storytelling-clarity/"><u>2024 Approved Deciphering Filmora A Quest for Visual Storytelling Clarity</u></a></li>
-<li><a href="https://win-blog.techidaily.com/busting-blockades-effective-fixes-to-launch-tech-savvy-gamers-into-tekken-8-on-personal-computers/"><u>Busting Blockades: Effective Fixes to Launch Tech-Savvy Gamers Into Tekken 8 on Personal Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/economic-gamers-guide-to-premium-refresh-rate-screens/"><u>Economic Gamers' Guide to Premium Refresh Rate Screens</u></a></li>
-<li><a href="https://games-able.techidaily.com/ergonomic-victory-ideal-seating-solutions-for-tall-gamers/"><u>Ergonomic Victory: Ideal Seating Solutions for Tall Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-sony-handheld-console-ps-lite/"><u>Exploring the Sony Handheld Console: PS Lite</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/in-depth-asus-tuf-proart-vs-prime-brand-analysis/"><u>In-Depth: Asus, Tuf, ProArt Vs. Prime Brand Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-adding-gif-reactions-to-your-instagram-comments/"><u>Mastering the Art of Adding GIF Reactions to Your Instagram Comments</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-more-walled-gardens-open-playgrounds-for-all/"><u>No More Walled Gardens: Open Playgrounds For All</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-gaming-and-its-stance-on-in-game-purchases/"><u>Premium Gaming and Its Stance on In-Game Purchases</u></a></li>
-<li><a href="https://games-able.techidaily.com/tie-your-controller-to-your-cell-with-ease/"><u>Tie Your Controller to Your Cell with Ease</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-youtube-title-creation-the-perfect-formula/"><u>[New] Mastering YouTube Title Creation The Perfect Formula</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-endorsed-ae-text-tools/"><u>[Updated] In 2024, Expert-Endorsed AE Text Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/converter-arquivos-gratis-on-line-de-tiff-para-pdf-por-movavi-sem-custo/"><u>Converter Arquivos Grátis On-Line: De Tiff Para Pdf Por Movavi Sem Custo</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-delivery-of-games-a-steam-guide-to-gifts/"><u>Digital Delivery of Games: A Steam Guide to Gifts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-sonic-selection-software-for-android-users/"><u>In 2024, Best Sonic Selection Software for Android Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173155093-my-2-years-in-high-definition-with-an-oled-monitor/"><u>My 2 Years in High Definition with an OLED Monitor</u></a></li>
+<li><a href="https://discover-able.techidaily.com/reason-behind-missing-windows-easy-transfer-option-in-windows-11/"><u>Reason Behind Missing 'Windows Easy Transfer' Option in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sleek-and-powerful-our-experts-top-picks-for-ultra-compact-mini-itx-pc-casing-2024-edition/"><u>Sleek and Powerful: Our Experts' Top Picks for Ultra Compact Mini-ITX PC Casing, 2024 Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-to-subscriber-success-with-strategic-tactics-for-2024/"><u>Surge to Subscriber Success with Strategic Tactics for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-new-frontier-how-mmo-games-are-innovating/"><u>The New Frontier: How MMO Games Are Innovating</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-changer-going-from-console-to-pc/"><u>The Ultimate Game-Changer: Going From Console to PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/walletfriendly-hd-gamerscreen-led27m2v/"><u>WalletFriendly HD GamerScreen LED27M2V</u></a></li>
 </ul></div>
 

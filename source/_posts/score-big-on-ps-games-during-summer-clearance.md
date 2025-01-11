@@ -1,7 +1,7 @@
 ---
 title: Score Big on PS Games During Summer Clearance
-date: 2024-12-29T16:01:52.127Z
-updated: 2025-01-04T16:01:39.415Z
+date: 2025-01-05T22:10:34.786Z
+updated: 2025-01-11T06:55:55.535Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. My Time at Portia Deluxe Edition
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Little Nightmares 1 & 2
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Owlboy
 
  Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of[differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Unravel Two
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
@@ -122,18 +122,22 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-how-to-upgrade-your-iphones-ringtone-selection/"><u>[Updated] How to Upgrade Your iPhone's Ringtone Selection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reimagine-your-content-with-advanced-number-edits-in-tiktok/"><u>[Updated] Reimagine Your Content with Advanced Number Edits in TikTok</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-reviving-rural-vistas-sustainable-transition-for-cities-for-2024/"><u>[Updated] Reviving Rural Vistas Sustainable Transition for Cities for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-action-and-adventure-with-ions-pro-3-camera-insight/"><u>2024 Approved Action and Adventure with ION's Pro 3 Camera Insight</u></a></li>
-<li><a href="https://common-error.techidaily.com/defeating-the-not-responding-error-on-your-windows-10-file-explorer-quick-fixes-revealed/"><u>Defeating the Not Responding Error on Your Windows 10 File Explorer - Quick Fixes Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-6-misconceptions-macs-vs-gaming-computers/"><u>Dissecting 6 Misconceptions: Macs Vs. Gaming Computers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103163615-resolution-zero-connection-woes-wacom-fixed/"><u>Resolution: Zero-Connection Woes, Wacom Fixed!</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-games-at-no-cost-on-series-xs/"><u>Revive Games at No Cost on Series X|S</u></a></li>
-<li><a href="https://win-latest.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederaufbau-einer-gpt-datenpartition-erfahre-alles/"><u>Schritt-Für-Schritt-Anleitung Zum Wiederaufbau Einer GPT-Datenpartition - Erfahre Alles</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-troublesome-display-driver-failed-error-on-windows-1111-update/"><u>Tackling Troublesome Display Driver Failed Error on Windows 11/11 Update</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-unrivaled-power-of-xbox-one-x-a-comprehensive-gaming-console-assessment/"><u>The Unrivaled Power of Xbox One X: A Comprehensive Gaming Console Assessment</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unwrapping-utopia-creating-magical-unboxing-moments-for-2024/"><u>Unwrapping Utopia Creating Magical Unboxing Moments for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/youtubes-newest-fun-interactive-and-playable-mini-games/"><u>YouTube's Newest Fun: Interactive and Playable Mini-Games</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-ethical-download-strategies-for-youtube-to-mp4-files/"><u>[New] Ethical Download Strategies for YouTube to MP4 Files</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-deep-dive-into-3d-color-grading-tools/"><u>[New] In 2024, Deep Dive Into 3D Color Grading Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-beginners-guide-to-video-production-free-course-series/"><u>2024 Approved Beginner's Guide to Video Production Free Course Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-tech-gadgets-from-best-buy-in-2-featured-on-zdnet/"><u>Best Tech Gadgets From Best Buy in 2# #, Featured on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/disc-freeze-the-simple-eject-on-xbox-s/"><u>Disc Freeze? The Simple Eject on Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/expertly-chosen-8-java-environments-mobile-simulations/"><u>Expertly Chosen 8 Java Environments, Mobile Simulations</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-stakes-for-virtual-worlds-four-driving-cost-factors/"><u>High Stakes for Virtual Worlds: Four Driving Cost Factors</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-open-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Open in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-frame-rate-30fps-vs-60fps-for-smooth-recordings/"><u>In 2024, Best Frame Rate 30Fps vs 60Fps for Smooth Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/integration-challenge-switch-oled-and-past-docks/"><u>Integration Challenge: Switch OLED and Past Docks</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/master-your-web-experience-essential-browser-setup-advice-by-yl-software/"><u>Master Your Web Experience: Essential Browser Setup Advice by YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/metaquest-3-the-ultimate-virtual-adventure/"><u>MetaQuest 3: The Ultimate Virtual Adventure</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/optimize-online-presence-video-embellishment-with-logos-and-watermarks-for-2024/"><u>Optimize Online Presence Video Embellishment with Logos and Watermarks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steams-content-conflux-on-mac/"><u>Overcoming Steam's Content Conflux on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/silence-speakers-amplify-headphones-on-console/"><u>Silence Speakers, Amplify Headphones on Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackle-ps4-network-glitches-8-must-try-fixes-explored/"><u>Tackle PS4 Network Glitches: 8 Must-Try Fixes Explored</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Moto G34 5G | Dr.fone</u></a></li>
 </ul></div>
 

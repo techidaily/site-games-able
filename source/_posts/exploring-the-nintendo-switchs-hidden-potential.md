@@ -1,7 +1,7 @@
 ---
 title: Exploring the Nintendo Switch's Hidden Potential
-date: 2024-08-22T22:26:30.193Z
-updated: 2024-08-23T22:26:30.193Z
+date: 2025-01-07T19:44:39.143Z
+updated: 2025-01-11T06:14:51.414Z
 tags:
   - games
 categories:
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
 ![Flight Mode Menu on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/flight-mode-menu-on-nintendo-switch.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To put your phone on Flight Mode. Simply open your settings and scroll down to**Flight Mode** . It’s the second option on the menu and will only take a moment to activate, but could save you precious moments in your game.
 
 ## 3\. Use Quick Archive to Free Up Space on Your Nintendo Switch
@@ -44,16 +48,21 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
 ![Quick Archive on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quick-archive-on-nintendo-switch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  Your options here are to buy a large SD card to give your Switch more storage space or juggle your games. If your Switch is full, but you want to download a new game, don’t worry. You don’t have to delete all of your games to make space, you can quickly archive them instead.[Archiving software on your Switch](https://www.makeuseof.com/nintendo-switch-how-to-archive-software/) still frees up storage space, but leaves an icon of the game on your home screen, so you can quickly and easily redownload it when you’re ready.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enable Bluetooth Audio
 
  Bluetooth audio wasn’t something the Switch supported at launch, but it was later introduced in a system update. So Switch owners are now able to enjoy all the wonderful sounds of the Switch without the pesky wires.
 
 ![Activate Bluetooth Audio on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/activate-bluetooth-audio-on-nintendo-switch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Not everyone keeps up to date with the ins and outs of every Nintendo Switch update that comes out. So, if you, like many others, were still unaware of the fact that you could connect Bluetooth headphones to your Switch, this may come as a welcome surprise to you. Connecting and[using Bluetooth headphones on your Switch](https://www.makeuseof.com/use-bluetooth-headphones-nintendo-switch/) is a simple and easy process that could change the way you listen to your system.
 
@@ -64,24 +73,22 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 ![TV Resolution on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-resolution-on-nintendo-switch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If your TV is capable of displaying a 1080p image, so is your Nintendo Switch. In handheld mode, the Switch is only capable of 720p, but this can be improved in docked mode. You do have to change your**TV Resolution** setting, however.[Improving your Nintendo Switch’s resolution in docked mode](https://www.makeuseof.com/improve-nintendo-switch-docked-graphics/) is as easy as heading to your settings, going to**TV Output** , and selecting**1080p** from your**TV Resolution** settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 6\. Calibrate Your Nintendo Switch Controllers
 
  The Achilles heel of the Nintendo Switch is Joy-Con drift. This is a phenomenon caused by a wearing down of the mechanisms inside the joystick that leads to false input in your controller and makes your character or camera start moving on its own.
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  This issue can cause some serious headaches in-game, but there is a way to fix it (if the case is mild enough.) That is by recalibrating your Joy-Cons or any other controller you may be having issues with. Simply head to your settings, select**Controllers and Sensors** , and press**Calibrate Control Sticks** . The Switch will guide you through the rest of the process, and you should finally experience some relief from drift for a little while, at least.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Alter the MTU Setting to Unlock Faster Download Speeds
 
@@ -90,13 +97,15 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 ![MTU Settings on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mtu-settings-on-nintendo-switch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To begin, make sure your Switch is connected to the internet and go to your**Internet Settings** . From there, select the Wi-Fi you’re connected to and press**Change Settings** . Then scroll down and bump the**MTU** up from**1400** to**1500** . That will ensure that the maximum amount of data is being transferred, and you should experience an improvement in your download speeds.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Extend the Auto-Lock Time on Your Nintendo Switch
 
  You don’t want to drain your Switch’s battery by accidentally leaving the screen on for hours when you’re not using it, but you don’t want to constantly be unlocking it after setting it down for a matter of seconds, either.
@@ -119,23 +128,17 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
  To open Maintenance Mode, hold the**volume up + volume down + power buttons** down for a couple of seconds until the system boots up in Maintenance Mode, and you can troubleshoot your Switch from there.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Level Up Your Switch With These Helpful Switch Tips
 
  The Switch is a great console already, but if you use any or all of these settings, your experience with your Switch could become even better. So, if you’ve been feeling like your Switch is a little on the slow side or the graphics aren’t quite up to scratch, these settings could help.
 
  Even in the worst-case scenario, they could rescue your lost saved data or help fix Joy-Con drift or other software-related issues without the headache of sending your system away for repair.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +147,22 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-tailoring-battery-choices-for-exceptional-drone-performance/"><u>[New] In 2024, Tailoring Battery Choices for Exceptional Drone Performance</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-shenanigans-unleashed-the-wildest-tiktok-game-spectacle-for-2024/"><u>[New] Shenanigans Unleashed The Wildest TikTok Game Spectacle for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-engaging-audien-writes-and-converting-followers-through-instigra/"><u>[Updated] Engaging Audien Writes and Converting Followers Through Instigra</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-enhancing-clarity-for-tiny-treasures-in-minecraft/"><u>[Updated] Enhancing Clarity for Tiny Treasures in Minecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/corrective-measures-for-xbox-joy-con-drifts/"><u>Corrective Measures for Xbox Joy-Con Drifts</u></a></li>
+<li><a href="https://win-data.techidaily.com/einfuhrung-in-den-robocopy-backup-modus-und-seine-einfachen-alternativen/"><u>Einführung in Den RoboCopy-Backup-Modus Und Seine Einfachen Alternativen</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-console-to-convenience-emulating-segas-dreamcatcher-games-on-mobile-devices/"><u>From Console to Convenience: Emulating Sega's Dreamcatcher Games on Mobile Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-money-mastery-made-simple-reddits-13-best-income-streams/"><u>In 2024, Money Mastery Made Simple Reddit's 13 Best Income Streams</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-total-disconnect-from-youtube-shorts-made-simple/"><u>In 2024, Total Disconnect From YouTube Shorts Made Simple</u></a></li>
+<li><a href="https://fox-http.techidaily.com/insightful-cloud-costs-price-comparison-and-recommendations/"><u>Insightful Cloud Costs Price, Comparison & Recommendations</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximum-comfort-sits-gaming-throne-recommendations/"><u>Maximum Comfort Sits: Gaming Throne Recommendations</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-portable-compact-edition-by-sony/"><u>PlayStation Portable Compact Edition by Sony</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-tapping-that-reset-button-preventing-game-crashes-with-top-10-insights/"><u>Stop Tapping That Reset Button: Preventing Game Crashes with Top 10 Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-feasibility-of-ps4-gaming-on-ps5-systems/"><u>The Feasibility of PS4 Gaming on PS5 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-your-windows-app-data-usage/"><u>Unveiling Your Windows App Data Usage</u></a></li>
+</ul></div>
 

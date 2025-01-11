@@ -1,7 +1,7 @@
 ---
 title: "Understanding Returns: Reversing Video Game Purchases, XS/X"
-date: 2025-01-01T16:01:09.232Z
-updated: 2025-01-04T16:01:46.158Z
+date: 2025-01-09T04:57:49.656Z
+updated: 2025-01-11T04:22:52.528Z
 tags:
   - games
 categories:
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do I Qualify for a Refund on the Xbox Series X|S?
 
  If you're a fan of gaming, you will be well versed in how expensive it is and are likely always looking for[ways to save money with your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-ways-to-save-money/) . And refunding purchases that you aren't satisfied with is certainly one of them.
 
 ![an Xbox game controller on a gradient background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/video-game-designer-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While it is possible to return a digital game or product on the Xbox Series X|S, there are some limitations. The two main factors that can affect the success of your refund request are as follows:
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
  The definition of what exactly a ‘significant amount of time’ is isn’t explained on[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Request a Refund for a Digital Game on the Xbox Series X|S
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 3. Once you’ve logged in, scroll down to the**Request availability** section. If there is a valid game there, click the box beside the title and press**Request a refund** to bring up the request form.  
 ![Request a Refund Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/request-a-refund-microsoft.jpg)
 4. Start filling out your form, beginning with the**Reason for request** . The options available are:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Accidental purchase** .
 * **Billing error** .
@@ -73,15 +77,7 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 ![Review Details of Request a Refund Form Page Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/review-details-of-request-a-refund-form-page-microsoft.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your refund request will then be sent away for review, and you should expect an answer within 72 hours.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Happens if the Game I Want to Refund Isn’t Listed?
 
@@ -89,17 +85,21 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
  In most cases, if the game in question doesn’t show up on the returns page, it is non-refundable for one reason or another. In that case, it might pay to go back and review the details of your purchase and make sure you are eligible for a refund.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Happens Once My Refund Request Is Accepted?
 
  If your refund request is successful, you can expect to see an email from Microsoft confirming this, and you will be able to see your refund being processed in your Microsoft account. You will also have your access to the game revoked, so it will no longer be playable.
 
 ![Microsoft account order history page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-account-order-history-page-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To check your Microsoft account and see if your refund is being processed, head back to the Microsoft website and click your**user icon** in the top right corner. Select**My Microsoft account** , and head down to your**Order history** . If your refund was successful, you will see**Refunded** next to the game title.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Sure You Request Your Refunds Before It’s Too Late
 
@@ -122,20 +122,14 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/audio-interface-innovations-for-optimal-podcasting/"><u>Audio Interface Innovations for Optimal Podcasting</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-ultimate-gaming-duo-on-mobile-top-15/"><u>Discover the Ultimate Gaming Duo on Mobile (Top 15)</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-gaming-on-xbox-without-the-d-pad/"><u>Effortless Gaming on Xbox Without the D-Pad</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-game-to-play-streamlining-your-steam-deck-launchers/"><u>From Game to Play: Streamlining Your Steam Deck Launchers</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-connect-a-keyboard-and-mouse-to-your-nintendo-switch-2-ways/"><u>How to Connect a Keyboard and Mouse to Your Nintendo Switch: 2 Ways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/leak-alert-revolutionary-600w-pci-express-50-graphics-card-cable-unveiled/"><u>Leak Alert: Revolutionary 600W PCI Express 5.0 Graphics Card Cable Unveiled</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/anding-movies-overlooked-by-critics/"><u>Outstanding Movies Overlooked by Critics</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-disruption-fixes-for-noisy-xbox-controller/"><u>Overcoming Disruption: Fixes for Noisy Xbox Controller</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ranking-the-best-camcorders-review-guide/"><u>Ranking the Best Camcorders Review Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/seven-verbal-virtuoso-showdowns-for-chat-champions/"><u>Seven Verbal Virtuoso Showdowns for Chat Champions</u></a></li>
-<li><a href="https://games-able.techidaily.com/should-your-system-jump-on-nvidias-new-rtx-trend/"><u>Should Your System Jump on Nvidia's New RTX Trend?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-uses-for-tailored-chatgpt-guidance/"><u>Top 5 Uses for Tailored ChatGPT Guidance</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-final-fantasy-xiv-version-verification-stuck/"><u>Trouble with Final Fantasy XIV - Version Verification Stuck</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastery-over-airwaves-recording-techniques-for-live-sounds/"><u>[New] 2024 Approved Mastery Over Airwaves Recording Techniques for Live Sounds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-elements-of-a-successful-digital-twins-strategy-integrating-ai-for-advanced-insights-zdnet/"><u>Essential Elements of a Successful Digital Twins Strategy: Integrating AI for Advanced Insights | ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-ultimate-chart-watcher-rank-tracking-of-youtube-videos/"><u>In 2024, Ultimate Chart Watcher Rank Tracking of YouTube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-fun-uncover-the-5-advantages-of-investing-in-games/"><u>Maximize Fun: Uncover the 5 Advantages of Investing in Games</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/strategies-for-indefinitely-removing-a-tiktok-profile-for-2024/"><u>Strategies for Indefinitely Removing a TikTok Profile for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-fix-unrecognized-games-by-steam-service/"><u>Strategies to Fix Unrecognized Games by Steam Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-smart-technology-for-xbox-controller-free-use/"><u>Using Smart Technology for Xbox Controller-Free Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-tipping-devs-could-distort-creative-priorities/"><u>Why Tipping Devs Could Distort Creative Priorities</u></a></li>
 </ul></div>
 

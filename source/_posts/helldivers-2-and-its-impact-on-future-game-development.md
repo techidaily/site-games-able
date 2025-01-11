@@ -1,7 +1,7 @@
 ---
 title: Helldivers 2 and Its Impact on Future Game Development
-date: 2024-12-25T00:49:21.119Z
-updated: 2024-12-26T02:57:32.523Z
+date: 2025-01-09T21:33:11.414Z
+updated: 2025-01-11T07:36:58.804Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
 ![Screenshot of Helldivers 2 Super Earth public service announcement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0416461.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Helldivers 2 is a third-person shooter live service game where players become Helldivers fighting for Super Earth. Players join teammates in missions on different planets across the universe to eradicate Terminids (bug-like alien life forms) and Automatons (robots). Helldivers harvest valuable resources from planets that are home to Terminids and Automatons.
 
  Gamers can play Helldivers 2 on the PlayStation 5 and PC. One of the keys to a successful multiplayer game is ensuring that even if your friend has a PC, but you only have a PlayStation, you'll still be able to join each other in the interplanetary fight for democracy in Helldivers 2.
@@ -62,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
 ![Screenshot of Helldivers 2 Warbond menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415451.jpeg)
 
- The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
 
 ## 3 Have A Strong Social Media Presence
 
@@ -78,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
 ![Screenshot of Major Order in Helldivers 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415472.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Helldivers 2 also succeeded in creating a sense of community through weekly challenges known as Major Orders. One recent Major Order required the game's player base to kill 2 million Terminids to receive in-game currency called medals.
 
  The game's developers put out new Major Orders every week to engage the community. The community is not guaranteed to pass each Major Order, making it a challenge for the entire player base. Each mission in Helldivers 2 that a player participates in adds to the progress of the Major Order, making the success of the mission entirely based on community progress.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Have a Free Progression System
 
@@ -92,17 +88,21 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
 ![Screenshot of Helldivers 2 Acquisition Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415430.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Players can find Super Credits, which unlock new monthly Warbonds and cosmetics, across missions at random points on the map. Super Credits are also available for purchase in the game store. Medals can be obtained by completing Major Orders or finding stashes during missions. You can also earn medals by completing missions. The higher the difficulty level of the mission, the more medals players unlock upon completion.
 
 ![Screenshot of Helldivers 2 Super Credits store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415072.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are also samples scattered across each mission depending on the difficulty level. Players can trade in these samples to upgrade their ships and stratagems, which are mission call-ins and weapons, such as airstrikes and turrets. Finally, requisition slips pop up, which players earn by completing missions or locating points of interest on the map, which unlock new stratagems.
 
 ![Screenshot of Helldivers 2 strategem menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415051.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are plenty of other[live service games that are not pay-to-win](https://www.makeuseof.com/live-service-games-that-arent-pay-to-win/) , as well, including Fortnite and Smite.
 
@@ -133,14 +133,18 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-fixing-glitches-seeing-your-own-face-in-fb-live/"><u>[Updated] 2024 Approved Fixing Glitches Seeing Your Own Face in FB Live</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-zen-of-sleep-curated-asmr-vocalists/"><u>[Updated] In 2024, The Zen of Sleep Curated ASMR Vocalists</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-games-the-importance-of-right-gear/"><u>Elevating Games: The Importance of Right Gear</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Android? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-nvidia-driver-release-improve-pc-performance-instantly/"><u>New Nvidia Driver Release – Improve PC Performance Instantly</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-nitro-a-worthwhile-purchase/"><u>Premium Nitro: A Worthwhile Purchase?</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-gaming-experience-with-steam-modding-tips/"><u>Streamline Your Gaming Experience with Steam Modding Tips</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210664367-9782889059744-yoga-et-rituels-des-9-deesses/"><u>Yoga et rituels des 9 déesses | Free Book</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-synchronizing-realism-advanced-green-screen-applications-for-viewers/"><u>[New] In 2024, Synchronizing Realism Advanced Green Screen Applications for Viewers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-12-camera-guide-for-effortless-screen-swivel-use/"><u>[Updated] In 2024, The Ultimate 12 Camera Guide for Effortless Screen Swivel Use</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-top-6-must-try-instagram-reel-apps/"><u>[Updated] In 2024, Top 6 Must-Try Instagram Reel Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-peak-performance-with-corsairs-icue-link-the-4-ultimate-reasons/"><u>Achieve Peak Performance with Corsair's iCUE Link - The 4 Ultimate Reasons</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-joy-con-connectivity-problems-on-switch/"><u>Addressing Joy-Con Connectivity Problems on Switch</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/aligning-phonetablet-zoom-schedules-with-pc-plans/"><u>Aligning Phone/Tablet Zoom Schedules with PC Plans</u></a></li>
+<li><a href="https://win-great.techidaily.com/are-files-deleted-forever-when-placed-in-the-recycle-bin/"><u>Are Files Deleted Forever When Placed in the Recycle Bin?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-poco-x6-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco X6 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lenovo-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lenovo Phone that is Locked?</u></a></li>
+<li><a href="https://games-able.techidaily.com/soundproofing-your-in-game-chat-on-series-sx/"><u>Soundproofing Your In-Game Chat on Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-evolved-tecnos-lighter-more-vibrant-gadgets-at-ifa/"><u>Tech Evolved: Tecno's Lighter, More Vibrant Gadgets at IFA</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-reality-check-unraveling-six-fallacies-of-mac-gaming/"><u>The Reality Check: Unraveling Six Fallacies of Mac Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-ps5-flash-drives/"><u>Top-Ranked PS5 Flash Drives</u></a></li>
 </ul></div>
 

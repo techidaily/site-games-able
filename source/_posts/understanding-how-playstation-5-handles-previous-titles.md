@@ -1,7 +1,7 @@
 ---
 title: Understanding How PlayStation 5 Handles Previous Titles
-date: 2024-08-22T22:23:24.051Z
-updated: 2024-08-23T22:23:24.051Z
+date: 2025-01-05T06:52:21.775Z
+updated: 2025-01-11T07:24:12.771Z
 tags:
   - games
 categories:
@@ -39,20 +39,14 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
  One example of why this might be the case is if you purchased a PS3 game and then upgraded it to the PS4 version. These PS4 games won’t work on the PS5 because you still need the PS3 disc to play them. While PS4 discs do work on the PS5, PS3 ones don’t.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## How Do I Play PS4 Games on My PS5?
 
  There are a couple of ways to play PS4 games on your PS5\. The first is by inserting and installing PS4 game discs into your PS5, and the second is by re-downloading your previously purchased digital PS4 titles.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Play PS4 Games on Your PS5 Using the Disc Drive
 
 ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
@@ -70,24 +64,19 @@ No advertising on the website.
 ![View Details Icon PS5 Game Download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/view-details-icon-ps5-game-download.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select**View Details** to bring up a list of all the games on your console and select the ones you are prepared to delete. Press**Delete** on the right to remove those games and make space for your PS4 title.
 
  Once you have enough space, the data will resume copying onto your PS5.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Download PS4 Games Onto Your PS5
 
  If you prefer saving space on your bookshelf and opting for digital versions of games, you likely have a large library of digital PS4 titles from before you upgraded to the PS5\. These games can be downloaded and played on your new console.
 
 ![Switch User menu on a PS5 with Add User highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/switch-user-menu-on-a-ps5-with-add-user-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The first step is to make sure that you are signed into the same PS Account you used to purchase your digital PS4 titles. All the digital games you purchase are linked to the PS Account that you acquired them on.
 
  If you're not logged in, there's no way to prove that those games actually belong to you. To sign in to your PS Account on your PS5, create a new User and sign in to your PS Account while you're setting it up.
@@ -95,8 +84,9 @@ No advertising on the website.
 ![Game Library Tab PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/game-library-tab-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Head to your**Games Library** by scrolling to the very right on your Home Screen and navigating to**Your Collection** . This is where you will find all the digital titles you have purchased through your PS Account.
 
  Go to the**Sort By icon** on the left, select**Platform** , and select**PS4** . That will allow you to isolate all the PS4 games in your collection. Scroll through the titles until you find your desired PS4 game and select it to re-download it onto your new console.
@@ -118,13 +108,22 @@ No advertising on the website.
 ![PS5 Upgrade via Game Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-via-game-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If there is an upgrade available, you will see an option labeled**Select Version** . Press that to bring up all versions of the game and select the**PS5 version** to start downloading it.
 
 ![PS5 Upgrade Choose Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-choose-version.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These upgrades can cost money, so utilizing them is completely optional. You are more than welcome to simply play the PS4 version if you would prefer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are the PS5 Upgrades Worth It?
 
@@ -138,14 +137,11 @@ No advertising on the website.
 
  Just because you’ve left your old PS4 console behind in preference for the new one, doesn’t mean you have to do the same with your game library. You can still enjoy your favorite games on the PS5, whether they are digital or disc versions. And with an upgrade, they will perform even better than they ever did on your PS4.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +150,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/dissecting-steam-vs-gog-retail-platforms-compared/"><u>Dissecting Steam vs GOG: Retail Platforms Compared</u></a></li>
+<li><a href="https://facebook.techidaily.com/foster-connection-utilize-messenger-for-in-depth-chat-analysis/"><u>Foster Connection: Utilize Messenger for In-Depth Chat Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-hold-a-blessing-in-disguise/"><u>Gaming on Hold: A Blessing in Disguise?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-frequent-freezing-in-your-overwatch-gaming-experience/"><u>How to Stop Frequent Freezing in Your Overwatch Gaming Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-gopro-hero5-session-vs-hero-session/"><u>In 2024, GoPro Hero5 Session Vs Hero Session</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-video-vibrancy-picking-the-best-5-enhancement-aids/"><u>In 2024, Video Vibrancy Picking the Best 5 Enhancement Aids</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-switch-games-into-your-mac-routine/"><u>Integrating Switch Games Into Your Mac Routine</u></a></li>
+<li><a href="https://win-able.techidaily.com/lightsabers-onscreen-once-more-how-to-repair-the-star-wars-battlefront-ii-midnight-void-bug/"><u>Lightsabers Onscreen Once More - How to Repair the 'Star Wars Battlefront II' Midnight Void Bug</u></a></li>
+<li><a href="https://games-able.techidaily.com/resume-rapidity-key-to-xbox-series-xands-gameplay/"><u>Résumé Rapidity: Key to Xbox Series X&S Gameplay?</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-ps-nexus-funding-buying-games/"><u>Streamlining PS Nexus: Funding, Buying Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/task-oriented-desks-vs-entertainment-systems/"><u>Task-Oriented Desks Vs. Entertainment Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gpd-win-4-handheld-is-like-a-super-powered-steam-deck/"><u>The GPD Win 4 Handheld Is Like a Super-Powered Steam Deck</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-visual-editors-journey-cropping-content-for-instagram-standout-for-2024/"><u>The Visual Editor's Journey Cropping Content for Instagram Standout for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-tricks-transforming-chatgpt-into-the-ideal-dungeon-master-companion/"><u>Top 6 Tricks: Transforming ChatGPT Into the Ideal Dungeon Master Companion</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwiring-your-xbox-series-x-controller/"><u>Unwiring Your Xbox Series X Controller</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-desktop-with-these-15-free-windows-11-styles-and-skins/"><u>Upgrade Your Desktop with These 15 Free Windows 11 Styles and Skins</u></a></li>
+<li><a href="https://solve-help.techidaily.com/windows-10d/"><u>Windows 10におけるDドライブの復元手順:修正完了</u></a></li>
+</ul></div>
 

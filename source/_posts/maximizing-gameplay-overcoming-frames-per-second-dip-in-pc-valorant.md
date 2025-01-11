@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Gameplay: Overcoming Frames Per Second Dip in PC Valorant"
-date: 2024-12-23T16:38:10.065Z
-updated: 2024-12-26T02:04:00.903Z
+date: 2025-01-07T05:01:43.410Z
+updated: 2025-01-10T19:22:30.300Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ Here's how to boost FPS in Valorant and keep it stable.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Don't Let Valorant Limit Your Frame Rate
 
  Valorant comes with settings built into it that limit your FPS in various situations. These settings allow you to limit your FPS when the game is idle when you scroll through menus, when the game is minimized, or when you are using the laptop battery as the primary power source. You can also set it to limit your FPS at all times.
@@ -39,6 +35,11 @@ Here's how to configure these settings in Valorant:
 2. Navigate to the**Video** tab at the top and open**General** settings.  
 ![Open General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-general-settings-in-the-video-tab-of-valorant.jpg)
 3. Turn off the options next to**Limit FPS on Battery** and**Limit FPS Always** . Also, increase the maximum frame rate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Turn on the**Limit FPS in Menus** and**Limit FPS in Background** options.  
 ![Enable and Disable Selective Options in General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-enable-and-disable-selective-options-in-general-settings-in-the-video-tab-of-valorant.jpg)
 
@@ -56,12 +57,12 @@ To optimize graphics settings properly in Valorant, follow these steps:
 ![Reduce the Resolution to Increase FPS in Valorant by Changing Settings in the Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4a-reduce-the-resolution-to-increase-fps-in-valorant-by-changing-settings-in-the-game.jpg)
 6. Set the**Anti-Aliasing** to**MSAA 4x** . Also, select**4x** in the**Anisotropic Filtering** menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Disable**Improve Clarity** ,**Experimental Sharpening** ,**Bloom** ,**Distortion** , and**Cast Shadows** .  
 ![Turn Off VIsual Effets in Valorant's Game Settings to Increase FPS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-reduce-the-resolution-to-increase-fps-in-valorant-by-changing-settings-in-the-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Turn Off Hardware-Accelerated GPU Scheduling
 
@@ -75,10 +76,6 @@ To optimize graphics settings properly in Valorant, follow these steps:
 
  If you use any such overlay or keep more than one overlay enabled while playing Valorant, turn them off to see how much of an impact it has on your game's performance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Apply Some Windows-Specific Fixes
 
  If none of the fixes covered so far haven't helped boost your FPS on Valorant, don't fret. Try applying the following Windows-based tweaks and see if they help things:
@@ -88,30 +85,34 @@ To optimize graphics settings properly in Valorant, follow these steps:
 ![Disable the Xbox Game Bar Option in the Gaming Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/8-disable-the-xbox-game-bar-option-in-the-gaming-tab-of-the-windows-settings-app.jpg)
 3. Enable Windows' Game Mode feature. This will automatically turn off background processes and apps as you play. You can even[use Windows Game Mode to prove the performance of any app](https://www.makeuseof.com/windows-game-mode-app-performance/) , not just games. To do that, go to**Settings > Gaming > Game Mode** and enable it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Enable Game Mode in the Gaming Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-enable-game-mode-in-the-gaming-tab-of-the-windows-settings-app.jpg)
 4. [Update your graphics driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to the latest version. Also,[update your copy of Windows](https://www.makeuseof.com/update-windows-manually/) to take care of any minor glitches that might be causing the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Boost the performance of Valorant by setting the**Graphics preference** settings to**High** . This ensures you're[using your preferred graphics card on Windows](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) when running Valorant.  
 ![Set Valorants Graphics Preference to High in the Graphics Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-set-valorants-graphics-preference-to-high-in-the-graphics-settings-of-the-windows-settings-app.jpg)
 6. Set Valorant's process priority to high. To do that, open Task Manager, navigate to the**Details** tab, right-click the**Valorant** process, and select**High** from the**Set priority** menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Set Valorants Process Priority to High in the Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-set-valorants-process-priority-to-high-in-the-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Optimize Your Graphics Card Software
 
  If you've previously tweaked your GPU's software settings (for example, you[customized your graphics card settings using the NVIDIA Control Panel](https://www.makeuseof.com/how-to-customize-graphics-settings-nvidia-control-panel-geforce-experience/) ), open the software again and turn down some of the settings. This is especially true if you told the GPU software to override any in-game settings you've set up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Overclock Your GPU for Better Performance
 
@@ -136,17 +137,17 @@ To optimize graphics settings properly in Valorant, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-fostering-fast-visual-storytelling-with-google-imagery/"><u>[New] 2024 Approved Fostering Fast Visual Storytelling with Google Imagery</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-quick-tunes-on-your-phone-top-speed-up-apps/"><u>[New] 2024 Approved Quick Tunes on Your Phone Top Speed-Up Apps</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-jailbreak-comedy-hour-best-fb-moments-of-amusement-and-awe/"><u>[Updated] Jailbreak Comedy Hour Best FB Moments of Amusement and Awe</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-microsoft-antimalware-engine-overusing-resources-on-your-windows-11-pc/"><u>Comprehensive Solution for Microsoft Antimalware Engine Overusing Resources on Your Windows 11 PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-intel-usb-30-support-software-for-windows-10-get-your-free-copy-today/"><u>Latest Intel USB 3.0 Support Software for Windows 10 – Get Your Free Copy Today!</u></a></li>
-<li><a href="https://games-able.techidaily.com/leverage-glossi-for-accessible-xbox-game-pass-on-steam/"><u>Leverage GlosSI for Accessible Xbox Game Pass on Steam</u></a></li>
-<li><a href="https://video-capture.techidaily.com/microsoft-windows-10-m4a/"><u>Microsoft Windows 10 におけるスタンダードアプリケーションを使用した M4A ファイルの編集手順</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-showdown-top-picks-for-game-browsers-ranked/"><u>Opera GX & Edge Showdown: Top Picks for Game Browsers Ranked</u></a></li>
-<li><a href="https://win11.techidaily.com/refresh-your-display-three-cleansing-methods/"><u>Refresh Your Display: Three Cleansing Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/securing-additional-credits-for-game-purchases/"><u>Securing Additional Credits for Game Purchases</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-game-pass-showdown-psplus-vs-xbox/"><u>The Ultimate Game Pass Showdown: PS+ VS Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-stream-assist-improving-online-play/"><u>Understanding Stream Assist - Improving Online Play</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-producers-roadmap-pioneering-high-quality-asmr-content/"><u>[New] In 2024, A Producer's Roadmap Pioneering High-Quality ASMR Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-digital-layer-combinations-at-home/"><u>[Updated] Mastering Digital Layer Combinations at Home</u></a></li>
+<li><a href="https://games-able.techidaily.com/abolishing-automatic-purchases-in-steam/"><u>Abolishing Automatic Purchases in Steam</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guide-transferring-your-imovie-edit-without-idvd-dvd-creation-steps/"><u>Guide: Transferring Your iMovie Edit Without iDVD - DVD Creation Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-intelligent-systems-are-redefining-game-creation-and-consumption/"><u>How Intelligent Systems Are Redefining Game Creation and Consumption</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78t-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y78t Phone without Any Data Loss</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-background-data-by-xbox-game-bar-in-windows-11/"><u>Managing Background Data by Xbox Game Bar in Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-lightweight-champion-a-thorough-review-of-the-high-performance-lg-gram-17-laptop/"><u>The Lightweight Champion: A Thorough Review of the High-Performance LG Gram 17 Laptop</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-enhancing-media-experience-combining-video-content-with-audio-elements/"><u>Updated In 2024, Enhancing Media Experience Combining Video Content with Audio Elements</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-platform-review-is-vimeo-best-over-youtubes-and-dailymotions/"><u>Video Platform Review Is Vimeo Best Over YouTubes and DailyMotions?</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-cloud-game-platform-a-deep-dive/"><u>Xbox’s Cloud Game Platform: A Deep Dive</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-budget-friendly-switch-gaming-guide/"><u>Your Budget-Friendly Switch Gaming Guide</u></a></li>
 </ul></div>
 

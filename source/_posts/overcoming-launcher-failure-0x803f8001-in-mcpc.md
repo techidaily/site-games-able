@@ -1,7 +1,7 @@
 ---
 title: Overcoming Launcher Failure 0X803F8001 in MCPC
-date: 2024-12-28T16:02:52.014Z
-updated: 2025-01-04T16:00:10.920Z
+date: 2025-01-09T07:55:54.760Z
+updated: 2025-01-10T20:36:20.064Z
 tags:
   - games
 categories:
@@ -49,14 +49,10 @@ Here is how to launch the troubleshooter:
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-windows-store-apps-run-button.jpg)
 4. The troubleshooter will open and scan for app issues. Apply any potential resolutions it suggests.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-store-apps-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Ensure the Windows Time and Date Is Correct
@@ -85,14 +81,10 @@ You can reset your apps in Windows 11 like this:
 7. Note that you can also select a**Repair** option that’s just above the**Reset** button. If resetting doesn’t do the trick, try selecting the**Repair** option for Microsoft Store.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Repeat the above steps for the Microsoft Launcher app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reset the Microsoft Store Cache
 
@@ -103,6 +95,10 @@ You can reset your apps in Windows 11 like this:
 3. Type**wsreset.exe** in the Open dialog box.  
 ![The wsreset Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-wsreset-command.jpg)
 4. Click**OK** to reset Microsoft Store’s cache.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Re-Register the Microsoft Store via an Elevated PowerShell
 
@@ -120,6 +116,10 @@ You can reset your apps in Windows 11 like this:
 
 ![A reregister app package PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/a-reregister-app-package-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall the Microsoft Store
 
  You might need to fix a corrupted Microsoft Store installation to resolve error 0x803f8001\. Reinstalling Microsoft Store will likely fix such an issue. However, you can’t uninstall that app via Settings. To reinstall it, you’ll need to enter a couple of PowerShell commands like this:
@@ -135,7 +135,7 @@ You can reset your apps in Windows 11 like this:
 ![The reinstall app package PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reinistall-app-package-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reinstall the Minecraft Launcher App
@@ -153,15 +153,15 @@ You can reset your apps in Windows 11 like this:
 7. Press the**Get** button for the app.
 8. Then click Minecraft Launcher’s**Play** option in Microsoft Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Install the Minecraft Launcher From the Microsoft Store
 
  Do you use the Minecraft Launcher you downloaded from the Minecraft website? If you do, uninstall the launcher using one of the[ways to uninstall apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, install it from the Microsoft Store.
 
  Several users have reported in a thread within the[Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/when-i-try-to-launch-minecraft-launcher-i-get/dbb2b0aa-f68a-411c-8a9a-662499c8472f) that they have been able to fix the issue by doing this. Therefore, give it a shot and see if it fixes the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Repair Any Corrupted System Files
 
@@ -172,7 +172,7 @@ You can reset your apps in Windows 11 like this:
  Check out[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for further instructions on how to perform both scans.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Update Windows
@@ -180,7 +180,7 @@ You can reset your apps in Windows 11 like this:
  Alternatively, updating your copy of Windows may also fix the issue. Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) for more information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the Minecraft Launcher Error 0x803f8001 Fixed
@@ -202,15 +202,22 @@ You can reset your apps in Windows 11 like this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-perfect-pixels-a-guide-to-using-photoshops-eraser/"><u>[New] Perfect Pixels A Guide to Using Photoshop's Eraser</u></a></li>
-<li><a href="https://fox-that.techidaily.com/discover-the-path-of-facetime-pictures-on-iphone-and-ipad/"><u>Discover the Path of FaceTime Pictures on iPhone and iPad</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-league-of-legends-not-opening-or-stuck-on-the-loading-screen-on-windows/"><u>How to Fix League of Legends Not Opening or Stuck on the Loading Screen on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-gpu-for-you-nvidia-fe-vs-asus-brand-graphics/"><u>Ideal GPU for You: Nvidia FE Vs. ASUS Brand Graphics</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-games-secret-on-steam-platforms/"><u>Keep Games Secret on Steam Platforms</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-reno-10-pro-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-social-gaming-essential-cross-platform-titles/"><u>Seamless Social Gaming: Essential Cross-Platform Titles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-dvd-to-mp4-converter-using-winx-platinum-fast-ripping-of-h2vechevc-video-in-under-5-minutes-for-high-quality-playback/"><u>Ultimate DVD to MP4 Converter Using WinX Platinum – Fast Ripping of H.2vec/HEVC Video in Under 5 Minutes for High-Quality Playback</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/webcam-integration-in-gaming-setup-mastery/"><u>Webcam Integration in Gaming Setup Mastery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-becoming-an-illustration-maestro-best-mac-free-tools/"><u>[New] Becoming an Illustration Maestro - Best Mac Free Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-technology-the-art-of-capturing-ios-devices-in-media/"><u>[Updated] 2024 Approved Harnessing Technology The Art of Capturing iOS Devices in Media</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-learn-how-to-craft-engaging-tiktok-captions-quickly/"><u>[Updated] In 2024, Learn How to Craft Engaging TikTok Captions Quickly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>2024 Approved Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-mini-led-screen-best-value-deal/"><u>Compact Mini-LED Screen: Best Value Deal!</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-game-hunt-best-switch-ftp-experience/"><u>Exclusive Game Hunt: Best Switch FTP Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boy-advance-excellence-with-ioss-leading-emulators/"><u>Game Boy Advance Excellence with iOS's Leading Emulators</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-best-stop-motion-animation-software-for-mac-and-windows/"><u>In 2024, 8 Best Stop Motion Animation Software for Mac and Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-y100-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo Y100 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimalist-meets-maximalism-in-home-computers-mini-vs-desktops/"><u>Minimalist Meets Maximalism in Home Computers (Mini Vs. Desktops)</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-xbox-points-a-quad-of-key-improvements-needed/"><u>Optimizing Xbox Points: A Quad of Key Improvements Needed</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-gamers-dream-list-top-games-in-google-play-game-beta/"><u>PC Gamers’ Dream List - Top Games in Google Play Game Beta</u></a></li>
+<li><a href="https://games-able.techidaily.com/platform-exclusive-games-might-be-a-thing-of-the-past-heres-why-thats-good/"><u>Platform-Exclusive Games Might Be a Thing of The Past: Here's Why That's Good</u></a></li>
+<li><a href="https://games-able.techidaily.com/rapid-recreation-compile-your-favorite-quick-game-titles/"><u>Rapid Recreation: Compile Your Favorite Quick Game Titles</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/sd-card-recovery-how-to-restore-formatted-videos-with-myrecover/"><u>SD Card Recovery: How to Restore Formatted Videos with MyRecover</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-5-best-free-avi-video-rotators/"><u>Updated Top 5 Best Free AVI Video Rotators</u></a></li>
 </ul></div>
 

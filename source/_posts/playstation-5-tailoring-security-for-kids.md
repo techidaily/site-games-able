@@ -1,7 +1,7 @@
 ---
 title: "PlayStation 5: Tailoring Security for Kids"
-date: 2024-08-22T22:22:31.270Z
-updated: 2024-08-23T22:22:31.270Z
+date: 2025-01-05T17:49:25.780Z
+updated: 2025-01-11T07:35:57.295Z
 tags:
   - games
 categories:
@@ -42,6 +42,10 @@ Here’s how to set up a child account:
 
  Next, you have to add the child to your PS5\. To do that, you must[create an account on your PS5](https://www.makeuseof.com/how-to-add-a-new-ps5-user-and-guest-account/) using the email you provided for the child.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use Preset or Custom Content Restriction Levels
 
  Now you have a child account added to the PS5; you can set the restriction level you want.
@@ -51,8 +55,18 @@ Follow these steps:
 1. Go to**Settings > Family and Parental Controls** , choose your child’s account from the list, and select**Parental Controls** .  
 ![Family Management page for a child account on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-management-page-for-a-child-account-on-the-ps5.JPG)
 2. Select**Restriction level** and choose a preset from the list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Parental Controls page with restriction level dropdown menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/parental-controls-page-with-restriction-level-dropdown-menu-on-the-ps5.JPG)
 3. **Optional** : Customize the preset by adjusting the restriction level for all the other options on the page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose**Confirm** when you’re finished.
 
 You can set age restrictions for the following options:
@@ -67,8 +81,9 @@ You can set age restrictions for the following options:
  You’ll find the options to change the restriction levels for all of the above on that parental control page. You should adjust it based on your parenting preferences and the child’s age.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Set Up Console Restrictions and User Passcodes
 
  Console restrictions are a group of features on the PS5 that allows you to control how users can create accounts on the PS5\. A smart kid can bypass your content restrictions by simply creating a new account on the PS5 to use instead of the child account you created for them. Or they could log into an adult account if you haven’t set a passcode on it.
@@ -84,9 +99,6 @@ Here’s how to set up the console restrictions passcode:
 3. Select**Change Your Console Restriction Passcode** .  
 ![PS5 Console Restrictions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-console-restrictions-page.JPG)
 4. Enter the new password twice.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the PS5 console restrictions page, apart from changing the console restrictions passcode, you have options to:
 
@@ -110,15 +122,17 @@ Here’s how to set up the console restrictions passcode:
 4. Open**Monthly Spending Limit** to reveal the dropdown menu.  
 ![PS5 Monthly Spending Limit dropdown menu in Parental Controls page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-monthly-spending-limit-dropdown-menu-in-parental-controls-page.JPG)
 5. Select**Confirm** after you’re finished.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We’re unsure why Sony made the spending limit a dropdown preset menu. But you can’t input a custom amount as a spending limit for now.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Enforce Playtime Limits
 
  Video game addiction could affect your child negatively, but you can try to curtail it by setting playtime limits on the PS5.
@@ -131,16 +145,9 @@ Here’s how to do it:
 2. Select**Playtime Settings** and toggle on**Restrict Playtime** .  
 ![Playtime Settings toggle on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-settings-toggle-on-the-ps5.JPG)
 3. Use**When Playtime Ends** to choose whether you want the child to be forcefully logged out or simply notified when they’ve reached their playtime limit.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Set how long they can play using**Duration and Playable Hours** . Selecting**By Days of the Week** from the menu allows you to specify how many hours they can play each day of the week.  
 ![Duration and Playable Hours dropdown meny in the PS5 Playtime Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duration-and-playable-hours-dropdown-meny-in-the-ps5-playtime-settings.JPG)
 5. Select**Every Day** or the days of the week and choose your hours in**Playtime duration** . Inside here, you can also set a**Start time** and**End time** to customize when they can play video games, and you can choose their bedtime as**End time** so they don’t play at night when they should be sleeping.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Playtime Duration dialogue window on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-duration-dialogue-window-on-the-ps5.JPG)
 6. Choose**Save** on the right-hand side of the page when you’re done.
 
@@ -154,14 +161,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  But you must remain vigilant, as some kids might still find ways to bypass your restrictions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +174,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-film-the-face-of-your-fb-space/"><u>[Updated] In 2024, Film the Face of Your FB Space</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-magic-v2-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Magic V2</u></a></li>
+<li><a href="https://games-able.techidaily.com/consoles-unseen-heroes-choosing-between-intel-and-amd/"><u>Console's Unseen Heroes: Choosing Between Intel and AMD</u></a></li>
+<li><a href="https://solve-news.techidaily.com/extract-audio-from-video-a-comprehensive-guide-to-using-a-video-to-audio-converter/"><u>Extract Audio From Video: A Comprehensive Guide to Using a Video-to-Audio Converter</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-4-typical-gpu-woes-solutions-explored/"><u>Navigating 4 Typical GPU Woes: Solutions Explored</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/precision-home-care-a-comprehensive-review-of-dreame-bot-l10-pro-mopping-and-vacuuming-robot/"><u>Precision Home Care: A Comprehensive Review of Dreame Bot L10 Pro Mopping and Vacuuming Robot</u></a></li>
+<li><a href="https://facebook.techidaily.com/safeguarding-fb-sightings-avoid-strangers-glimpses/"><u>Safeguarding FB Sightings: Avoid Stranger's Glimpses</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-playing-counter-strike-2-on-your-macbook/"><u>The Definitive Guide to Playing Counter-Strike 2 on Your MacBook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transformative-tactics-for-skyrocketing-subscribers-on-youtube/"><u>Transformative Tactics for Skyrocketing Subscribers on Youtube</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-a-new-era-of-online-gaming-for-desktop-users/"><u>Unveiling a New Era of Online Gaming for Desktop Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-of-amds-fsr-3-amidst-the-battle-with-dlss-35/"><u>Unveiling of AMD’s FSR 3 Amidst the Battle with DLSS 3.5?</u></a></li>
+</ul></div>
 

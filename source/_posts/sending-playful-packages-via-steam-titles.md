@@ -1,7 +1,7 @@
 ---
 title: Sending Playful Packages via Steam Titles
-date: 2024-08-22T22:27:31.902Z
-updated: 2024-08-23T22:27:31.902Z
+date: 2025-01-04T17:29:26.778Z
+updated: 2025-01-10T22:52:55.803Z
 tags:
   - games
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
  All of these steps are for the Steam client app, not the web version. The steps are similar for both platforms but might vary slightly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Purchase a Steam Game as a Gift at Checkout
 
  This is the most popular method, and it requires you to[fund your Steam wallet](https://www.makeuseof.com/how-to-fund-steam-wallet-buy-games/) or to use one of the accepted payment methods on Steam. You also need to already have the person as a friend on Steam.
@@ -54,9 +58,6 @@ Once you have all of that ready, follow the steps below:
 
  On the same Inventory page, there’s a menu in the top right, next to the large**Trade Offers** button under an ellipsis (**...**). Click it and select**View Gift History** to see all the gifts you’ve ever sent out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## How to Gift Duplicate Games on Steam
 
  In this instance, a “duplicate game” is one that you already have in your library but that you also have an extra license for.
@@ -69,19 +70,19 @@ Follow these instructions to gift a duplicate game on Steam:
 2. Choose one of the duplicate games from the resulting grid and click**Send Gift** on the right.  
 ![Duplicate games in Steam Inventory grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/duplicate-games-in-steam-inventory-grid.jpg)
 3. The next screen is for choosing how to send the gift. Select**Email my gift** option if the recipient isn’t a friend on Steam or select**Send my gift directly through Steam** to search through your friend list.  
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Delivery method for duplicate games on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/delivery-method-for-duplicate-games-on-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From then on, it’s almost the same as the regular steps. Except, of course, there’s no payment involved.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## How to Send Steam Keys Bought on Other Websites
 
  If a sale happens on another website outside of Steam, you can buy the game on that website and then send the Steam key to your gift recipient.
@@ -102,9 +103,6 @@ We’ll show you how to do this on Humble Bundle:
 
  Alternatively, you could just copy the Steam activation key and send it to someone you would like to gift it to. They’ll then have to follow the instructions outlined in our guide on[how to redeem a game key on Steam](https://www.makeuseof.com/how-to-redeem-game-key-on-steam/) before they can play the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## How to Send a Steam Gift Card
 
  If you’re not sure what game to buy for someone, you could just give them a gift card so that they can choose what they want themselves. Since you can’t gift DLCs on Steam, this is a good way to help the gift recipient get one anyway.
@@ -115,11 +113,17 @@ We’ll show you how to do this on Humble Bundle:
 2. Choose**Redeem a Steam Gift Card or Wallet Code** on the left side of the window.  
 ![Adding funds to wallet page on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-15-47-am.png)
 3. Scroll down and click**Purchase Digital Gift Cards** on the next page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose which gift card you’d like to send and choose a friend you want to send it to.  
 ![List of Steam gift cards on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-21-08-am.png)
 5. Follow the on-screen steps to finish the payment.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This method only works for friends you’ve had on your friends list for at least three days. The recipient must have a Steam account; you can’t send Steam gift cards via email or through any other methods.
@@ -128,14 +132,11 @@ We’ll show you how to do this on Humble Bundle:
 
  That sums up all the ways to gift games to friends on Steam. Be careful not to fall for scams and only send gifts to people that you actually know.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +145,18 @@ We’ll show you how to do this on Humble Bundle:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-the-world-of-haptic-navigation-systems/"><u>[New] 2024 Approved Unveiling the World of Haptic Navigation Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ffortless-entrepreneurship-top-10-easy-to-create-biz-channels-on-youtotube-for-2024/"><u>[New] Effortless Entrepreneurship Top 10 Easy-to-Create Biz Channels on YouToTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-open-source-templates-transform-your-youtube-channel/"><u>[New] In 2024, Open-Source Templates Transform Your YouTube Channel</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-realms-united-identifying-the-7-best-strategy-rivals/"><u>[New] In 2024, Realms United Identifying the 7 Best Strategy Rivals</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-use-of-graphics-cards-for-gaming-capture/"><u>Innovative Use of Graphics Cards for Gaming Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovo-legion-go-innovations-5-standout-features/"><u>Lenovo Legion Go Innovations: 5 Standout Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-directsound-with-series-xs-earbuds/"><u>Mastering DirectSound with Series X/S Earbuds</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essentials-of-typing-velocity-and-its-effects/"><u>The Essentials of Typing Velocity and Its Effects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-overwatch-warzone-dev-error-6634/"><u>Troubleshooting Guide: Resolving Overwatch Warzone Dev Error 66^34</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocked-design-potential-100-free-pp-templates/"><u>Unlocked Design Potential 100% Free PP Templates</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-reliability-enhancement-tips/"><u>Win11 Reliability Enhancement Tips</u></a></li>
+</ul></div>
 

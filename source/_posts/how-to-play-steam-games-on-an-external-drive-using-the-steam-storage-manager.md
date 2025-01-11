@@ -1,7 +1,7 @@
 ---
 title: How to Play Steam Games on an External Drive Using the Steam Storage Manager
-date: 2024-08-22T22:25:07.068Z
-updated: 2024-08-23T22:25:07.068Z
+date: 2025-01-04T03:53:05.445Z
+updated: 2025-01-11T04:13:47.855Z
 tags:
   - games
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![Steam Settings storage manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-settings-storage-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Steam Library Folder to Your External Drive
 
  Now that you’ve found the storage manager, you’ll want to plug in your external drive and add it as a Steam Library Folder with the**+** button located beside the rightmost Steam drive.
@@ -47,15 +51,13 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 ![Moving game to external drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/moving-game-to-external-drive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click on the local drive that stores your games and on the right side you can check the boxes of the games you want to move to the external drive.
 
  Once you select at least one game, the**Move** and**Uninstall** buttons will brighten up and become clickable. Click**Move** and choose the external drive you just added. You might want to check out[the best external SSDs](https://www.makeuseof.com/best-portable-ssds/) to speed up the transfer time and improve loading times for more demanding games.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Copy Your Steam Games to Your External Drive
 
  Moving your games to an external drive is great, but the games disappear from your local drives. If you only want a copy of your games in your external drive to bring your Steam games with you on the go, unfortunately, the Steam Storage Manager doesn’t have that feature yet.
@@ -67,29 +69,28 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 ![Copy and pasting game from local drive to external drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/copy-and-pasting-game-from-local-drive-to-external-drive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This should open up the**\\steamapps** folder, you can then proceed to open the**\\common** folder. Open the same folder on your external drive so you can paste it afterwards.
 
  The \\common folder is where your games are stored. Simply select and copy the games and paste them into the same \\common folder on your external drive.
 
  However, copying the games instead of moving them won’t show up on Steam immediately when adding the drive to the new PC. Getting those games to show up will require extra steps that we will show you in the next section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Play Steam Games From an External Drive
 
  Storing your games in an external drive is great stuff, but what’s even better is when you can play your Steam games directly from the external drive without transferring them to your local drives. Here’s how to play the Steam games you just moved to your external drive.
 
 ![Added external drive on other system on Steam storage manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/added-external-drive-on-other-system-on-steam-storage-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open up the Steam Storage Manager, and add the external drive to the destination PC as we showed you above. Once it’s added, you’ll see the games that you moved to your external drive using the Steam Storage Manager. You’ll be able to play those games immediately as if they were on your local drives.
 
 ![Validating Steam game on external drive by installing it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/validating-steam-game-by-installing-it.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Copy-pasting Steam games on your external hard drive will require validation. To do this, simply click**Install** on the game you pasted to the external drive on Steam, making sure to select the external drive, and it will go through the validation process.
 
@@ -98,22 +99,20 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
  Instead of a bulky external drive, you could even use a high-speed MicroSD card and a fast card reader for an ultra-compact experience that even fits in your wallet, or in your phone! Just make sure to avoid these[common mistakes when buying a MicroSD card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Carry Your Steam Library in Your Pocket
 
  Being able to bring your Steam games with you and play on any system that can handle those games without needing to do any complicated file verification steps like in the past is a great privilege to have thanks to the Steam Storage Manager.
 
  While the feature still needs a lot of work, we're glad Valve finally added it to the two-decade-old platform. We hope it doesn't take another decade for it to improve the Storage Manager, though.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +121,26 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-cutting-edge-strategies-for-igtv-backgrounds-for-2024/"><u>[New] Cutting-Edge Strategies for IGTV Backgrounds for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ominate-youtube-with-effective-content-strategies/"><u>[New] Dominate YouTube with Effective Content Strategies</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-innovative-responses-the-ultimate-guide-to-youtube-reacts/"><u>[Updated] In 2024, Innovative Responses The Ultimate Guide to YouTube Reacts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-boundaries-with-6-top-rated-nft-services/"><u>2024 Approved Breaking Boundaries with 6 Top-Rated NFT Services</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-6-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone 6 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-common-to-coveted-a-pokemon-shiny-tale-92/"><u>From Common to Coveted: A Pokémon Shiny Tale (92)</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-drivers-showdown-reflectors-vs-ratchets/"><u>Game Drivers Showdown: Reflectors Vs. Ratchets</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-add-a-passcode-to-your-nintendo-switch/"><u>How to Add a Passcode to Your Nintendo Switch</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-14-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 14 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-boundless-memories-archive-instagrams-free-saves/"><u>In 2024, Boundless Memories Archive Instagram’s Free Saves</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-how-to-edit-youtube-videos-in-adobe-premiere/"><u>In 2024, How to Edit YouTube Videos in Adobe Premiere</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-performance-with-top-tier-gaming-equipment/"><u>Maximize Performance with Top-Tier Gaming Equipment</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-nintendo-switch-gaming-on-mac/"><u>Navigating Nintendo Switch Gaming on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-ps5s-covert-online-portal/"><u>Navigating Ps5's Covert Online Portal</u></a></li>
+<li><a href="https://article-posts.techidaily.com/swift-solution-for-clownfish-vocal-alteration-on-pc-systems-for-2024/"><u>Swift Solution for Clownfish Vocal Alteration on PC Systems for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-tutorial-for-playnite-on-your-television/"><u>The Essential Tutorial for Playnite on Your Television</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-10-prime-video-communication-apps-on-smartphones/"><u>Ultimate Guide 10 Prime Video Communication Apps on Smartphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-gaming-titles-asus-rog-versus-tuf-and-others/"><u>Understanding Gaming Titles: Asus ROG Versus TUF and Others</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-potential-adding-windows-to-your-steam-deck/"><u>Unlock Potential: Adding Windows to Your Steam Deck</u></a></li>
+</ul></div>
 
