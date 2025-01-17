@@ -1,7 +1,7 @@
 ---
 title: "Explore Creative Linux Terminals: 7 Game Ideas"
-date: 2024-08-15T17:28:57.164Z
-updated: 2024-08-16T17:28:57.164Z
+date: 2025-01-14T23:44:28.764Z
+updated: 2025-01-16T18:49:54.703Z
 tags:
   - games
 categories:
@@ -29,14 +29,12 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
  doom-ascii makes it easy to[play Doom in your Linux terminal](https://www.makeuseof.com/how-to-play-doom-in-linux-terminal/) , with ASCII characters standing in for individual pixels. You'll need to have some original**WAD** files from either Doom or Doom II to play.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. solitaire-tui
 
 ![playing solitaire in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playing-solitaire-in-the-linux-terminal.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Solitaire is the perfect way to waste some time on your own while you wait for binaries to[compile from the source](https://www.makeuseof.com/compile-install-software-from-source-linux/) .
 
@@ -56,12 +54,13 @@ You can now launch solitaire-tui by typing:
 
 `solitaire`
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Conway's Game of Life
 
 ![conway game of life in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/conway-game-in-progress.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Conway's Game of Life](https://www.makeuseof.com/play-conways-game-of-life-in-linux-terminal/) isn't actually a game as such. Rather it's a virtual evolution simulator.
 
@@ -69,9 +68,6 @@ You can now launch solitaire-tui by typing:
 
  Possibilities are endless, and given enough time, Conway's game of life will reveal to you the infinite secrets and mysteries of the universe.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 4\. nInvaders
 
 ![ninvaders in linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ninvaders-in-linux-terminal.jpg)
@@ -101,11 +97,16 @@ You can install nInvaders on Debian-based systems with:
  It's easy to[install Gambit on Linux](https://www.makeuseof.com/play-chess-linux-terminal-multiplayer-over-ssh/) , and you can have a game set up in mere minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Clidle
 
 ![clidle in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clidle-in-the-linux-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wordle is a guessing game where you try to guess a five-letter word, by inputting your word and seeing how many letters they have in common. You're limited to six guesses in total, so the stakes are high, and there are dozens of[tricks and strategies to help you improve your Wordle score](https://www.makeuseof.com/wordle-tips-hints-tricks/) .
 
@@ -119,12 +120,13 @@ Type a five-letter word to begin and see how good your score is!
 
  A green highlighted letter shows that you have the right letter in the right space, while a yellow highlight indicates the letter is present, but in a different slot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Tetris
 
 ![tetris in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tetris-in-the-linux-terminal.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tetris is a quick time-killer that has been around since 1985 and holds the record for the most ported game ever, having been adapted for 65 different platforms.
 
@@ -136,14 +138,11 @@ Type a five-letter word to begin and see how good your score is!
 
  This selection of games for your Linux terminal is great if you just want to waste some time. But if you're playing command-line games because your Linux PC has poor performance, there are a variety of ways to increase the framerate and your gaming experience.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +151,24 @@ Type a five-letter word to begin and see how good your score is!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unleash-creativity-with-these-5-advanced-tiktok-captioning-techniques/"><u>[New] 2024 Approved Unleash Creativity with These 5 Advanced TikTok Captioning Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-choosing-your-recording-champion-pick-obs-or-bandicam-in-2024/"><u>[Updated] Choosing Your Recording Champion Pick OBS or Bandicam, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enchanted-realms-on-reels-for-2024/"><u>[Updated] Enchanted Realms on Reels for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-yearly-recorder-real-time-social-media-events-for-2024/"><u>[Updated] Yearly Recorder Real-Time Social Media Events for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-15-ff-extensions-for-easy-fb-video-download/"><u>2024 Approved Top 15 FF Extensions For Easy FB Video Download</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/amazon-fire-tv-cube-unleashed-top-tier-performance-and-swift-streams/"><u>Amazon Fire TV Cube Unleashed: Top-Tier Performance & Swift Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/assist-controller-on-ps5-a-compre-points-of-entry-for-cannabinoids-into-the-brain-and-body/"><u>Assist Controller on PS5 - A Compre Points of Entry for Cannabinoids Into the Brain and Body</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-efficiency-and-speed-unlocking-potential-in-your-docked-device/"><u>Boosting Efficiency and Speed: Unlocking Potential in Your Docked Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-hidden-gems-a-love-affair-with-indie-titles/"><u>Discovering Hidden Gems: A Love Affair with Indie Titles</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-to-pc-mastering-controller-commands/"><u>From PlayStation to PC: Mastering Controller Commands</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-create-split-screen-videos-for-free-online-and-offline-editor-reviews/"><u>New 2024 Approved Create Split Screen Videos for Free Online and Offline Editor Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaiming-lost-money-refund-strategies-for-console-titles/"><u>Reclaiming Lost Money - Refund Strategies for Console Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-ps5-power-up/"><u>Unlocking the Secrets of PS5 Power-Up</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-windows-11-potential-your-roadmap-to-getting-past-the-trustedinstaller-security-barrier/"><u>Unlocking Windows 11 Potential: Your Roadmap to Getting Past the TrustedInstaller Security Barrier</u></a></li>
+<li><a href="https://games-able.techidaily.com/white-power-white-dollars-gadgets-for-the-thrifty-techie/"><u>White Power, White Dollars: Gadgets for the Thrifty Techie</u></a></li>
+<li><a href="https://games-able.techidaily.com/wireless-playstation-controls-for-your-smartphone/"><u>Wireless PlayStation Controls for Your Smartphone</u></a></li>
+</ul></div>
 

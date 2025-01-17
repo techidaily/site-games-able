@@ -1,7 +1,7 @@
 ---
 title: "Subscription Cancelled: No More for EA’s New Pricing"
-date: 2024-08-15T17:24:32.411Z
-updated: 2024-08-16T17:24:32.411Z
+date: 2025-01-13T18:44:35.726Z
+updated: 2025-01-16T17:01:35.175Z
 tags:
   - games
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ## Subscription Cancelled: No More for EA’s New Pricing
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [EA Play Prices Are Increasing Globally](#ea-play-prices-are-increasing-globally)
@@ -23,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 * [I Can Get EA Play With Xbox Game Pass](#i-can-get-ea-play-with-xbox-game-pass)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * EA Play prices globally are increasing, making the service less cost-effective.
@@ -34,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
  EA Play subscribers received an email from the company in April 2024 announcing a price increase for its subscription services. While I've been using the service since 2019, when it was still called EA Origin, this price increase is finally causing me to end my subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## EA Play Prices Are Increasing Globally
 
 ![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
@@ -55,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
  Even though EA Play is still an affordable service, I'm finally quitting it after five years. So, these are the reasons why I'm canceling my EA Play subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. I Don't Want to Pay Too Much for Just EA Titles
 
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
@@ -67,12 +74,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. EA Isn't Adding New Perks and Features
 
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 
  I understand EA's need to increase prices; after all, it's the company's first time hiking up EA Play's subscription costs. This is especially true as overall operational expenses have steadily increased globally due to inflation.
 
@@ -94,15 +102,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  You can also pick Humble Bundle's Humble Choice subscription. Although it's more expensive at $11.99 a month, you get a mix of titles every month that you get to keep forever; you don't have to rely on a library where your favorite games might come and go at a moment's notice.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. I Can Get EA Play With Xbox Game Pass
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
@@ -112,14 +114,11 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  Because of these reasons, I'm canceling my EA Play subscription and moving to Xbox Game Pass for PC. And unless you're a hardcore EA fan, I suggest you do, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +127,26 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-transform-your-igtv-videos-tips-for-impactful-titles-and-summaries/"><u>[New] 2024 Approved Transform Your IGTV Videos Tips for Impactful Titles & Summaries</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unleash-your-inner-star-bold-steps-for-youtube-success/"><u>[New] In 2024, Unleash Your Inner Star Bold Steps for YouTube Success</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-chilly-ambiance-ideal-winter-bgs-for-videos/"><u>2024 Approved Chilly Ambiance Ideal Winter BGs for Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/50-cent-mobile-hacking-secrets-ransomware-decryption-techniques-and-chatgpt-collaboration-revealed-on-podcast/"><u>50-Cent Mobile Hacking Secrets: Ransomware Decryption Techniques and ChatGPT Collaboration Revealed on Podcast</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-bottom-line-thinking-envisioning-electricitys-role/"><u>Beyond Bottom-Line Thinking: Envisioning Electricity's Role</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-game-performance-with-smart-disk-management-in-steam/"><u>Boost Game Performance with Smart Disk Management in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/break-controller-conundrum-quick-cure-for-ps4-gamepad-glitches/"><u>Break Controller Conundrum: Quick Cure for PS4 Gamepad Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/championship-edge-the-ultimate-7-iosandroid-sports-gaming-hits/"><u>Championship Edge: The Ultimate 7 iOS/Android Sports Gaming Hits</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-devices-phone-or-tablet-gameplay/"><u>Choosing Devices: Phone or Tablet Gameplay?</u></a></li>
+<li><a href="https://games-able.techidaily.com/closing-the-backdoor-in-steams-reimbayer-route/"><u>Closing the Backdoor in Steam’s Reimbayer Route</u></a></li>
+<li><a href="https://games-able.techidaily.com/clubhouse-crafting-for-xbox-10-generation/"><u>Clubhouse Crafting for Xbox 10 Generation</u></a></li>
+<li><a href="https://games-able.techidaily.com/collectors-delight-vs-cashless-commitment/"><u>Collector's Delight Vs. Cashless Commitment</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-chronicles-a-selection-of-top-11-immersive-games/"><u>Command Chronicles: A Selection of Top 11 Immersive Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-t2-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo T2 5G Through Google Earth?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 6s Plus</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-12-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 12 Pro Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-from-ordinary-to-extraordinary-creating-hdr-in-lightroom/"><u>In 2024, From Ordinary to Extraordinary Creating HDR in Lightroom</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y56-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y56 5GFRP Lock</u></a></li>
+</ul></div>
 

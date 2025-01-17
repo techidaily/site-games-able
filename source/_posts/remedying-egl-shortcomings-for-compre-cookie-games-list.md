@@ -1,7 +1,7 @@
 ---
 title: Remedying EGL Shortcomings for Compre Cookie Games List
-date: 2025-01-06T04:03:23.335Z
-updated: 2025-01-11T05:19:23.440Z
+date: 2025-01-15T20:48:03.800Z
+updated: 2025-01-16T17:41:12.756Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Refresh the Library
 
  Sometimes, Epic Games Launcher might have a syncing issue and fail to display newly bought games. In this case, all you have to do is refresh the library. Within the desktop app, open the**Library** and click on the**Refresh** icon.
@@ -37,15 +41,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![Stop Epic Games from running in the background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/end-epic-games-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, relaunch the app and check if all of your games are now showing within the library.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Log Out and Log In to Epic Game
 
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
  If there’s someone else with an Epic Games account using the same device as you, you’ll see only the games purchased by their account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Check the Game’s Availability
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Unhide the Game Library
 
  Epic Games allows you to hide your games in case you don’t want a younger sibling to play games with inappropriate content. Or if you don’t want to lose your competitive rank. Either way, if you can’t find any games, you should check if you didn’t hide them.
@@ -76,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
  In the Epic Games app, click on your profile icon and go to Settings. Then, from the**Preferences** section, uncheck the**Hide Game Library** option. Once you go back to your library, you should see your games list.
 
 ![How to unhide the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hide-game-library-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Remove Library Filters
 
@@ -86,7 +82,11 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Delete the Epic Games Launcher Cache
@@ -120,21 +120,24 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/-gamers-guide-to-twisting-videos-on-youtube-2e/"><u>[New] A Gamer's Guide to Twisting Videos on YouTube (2E)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-essential-steps-to-utilizing-azures-speech-to-text-service-effectively/"><u>[Updated] 2024 Approved Essential Steps to Utilizing Azure's Speech-to-Text Service Effectively</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-techniques-to-create-compelling-vlogger-dialogue-plans/"><u>[Updated] 2024 Approved Techniques to Create Compelling Vlogger Dialogue Plans</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boost-your-channels-subscribers-on-a-shoestring-budget/"><u>[Updated] In 2024, Boost Your Channel's Subscribers on a Shoestring Budget</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-poco-x5-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Poco X5 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-motorola-g24-power-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Motorola G24 Power to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-battle-solutions-to-tackle-xbox-and-pcs-error-0-166-in-call-of-duty-warzone/"><u>Mastering the Battle: Solutions to Tackle Xbox and PC's Error 0-1^66 in Call of Duty: Warzone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-mc-map-downloads-and-implementation/"><u>Navigating MC Map Downloads & Implementation</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-twitch-universe-a-beginners-pathway/"><u>Navigating the Twitch Universe: A Beginner's Pathway</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-noise-canceling-headphones-for-games/"><u>Navigating Through Noise-Canceling Headphones for Games</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-in-thumbnails-creating-impressive-youtube-on-macos-for-2024/"><u>Thriving in Thumbnails Creating Impressive Youtube on macOS for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-logitech-mouse-for-gamers/"><u>Ultimate Logitech Mouse for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-joy-top-11-affordable-word-players-iosandroid/"><u>Unlock the Joy: Top 11 Affordable Word Players (iOS/Android)</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-potential-in-beyerdynamic-mmx-200/"><u>Unlocking Potential in Beyerdynamic MMX 200</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-to-top-quality-1440p-gaming-screens-without-breaking-your-piggy-bank/"><u>Unlocking the Secrets to Top Quality 1440P Gaming Screens Without Breaking Your Piggy Bank</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-paving-the-pathway-to-popularity-thriving-on-instagram/"><u>[New] 2024 Approved Paving the Pathway to Popularity Thriving on Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-desktopiosandroid-zoom-with-a-virtual-board/"><u>[New] Mastering Desktop/iOS/Android Zoom with a Virtual Board</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-handy-hint-downloading-youtube-videos-to-your-apple-device/"><u>[New] Your Handy Hint Downloading YouTube Videos to Your Apple Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-begin-with-class-in-every-screen-best-intro-editor-app/"><u>[Updated] 2024 Approved Begin with Class in Every Screen Best Intro Editor App</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-free-find-instagram-influencers-in-your-niche/"><u>[Updated] In 2024, How to Free Find Instagram Influencers in Your Niche</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-streamlined-conversion-at-your-fingertips-top-6-free-apps-for-youtube-and-mp3/"><u>[Updated] Streamlined Conversion at Your Fingertips Top 6 Free Apps for YouTube & MP3</u></a></li>
+<li><a href="https://win11.techidaily.com/automatic-program-management-in-windows-os/"><u>Automatic Program Management in Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-installing-gaming-apps-on-steam-devices/"><u>Effortlessly Installing Gaming Apps on Steam Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-steam-deck-embracing-gog-and-epic-titles/"><u>Elevate Your Steam Deck: Embracing GOG and Epic Titles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-ring-of-elysium-errors-effective-methods-to-ensure-smooth-gameplay/"><u>End Ring of Elysium Errors: Effective Methods to Ensure Smooth Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-consistent-xbox-s-x-connectivity/"><u>Ensuring Consistent Xbox S X Connectivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-the-most-out-of-bg3-with-right-hardware/"><u>Get the Most Out of BG3 with Right Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-performance-portable-computing-made-simple-pdw4/"><u>High-Performance Portable Computing Made Simple: PDW4</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-steam-content-validation-error/"><u>Mending Steam Content Validation Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-moguls-tips-for-seamless-gaming-on-trips/"><u>Mobile Mogul's Tips for Seamless Gaming on Trips</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-harmony-a-how-to-guide-for-preventive-measures/"><u>PC Harmony: A How-To Guide for Preventive Measures</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-and-power-top-pick-gaming-setups-for-the-year-2024/"><u>Precision & Power: Top Pick Gaming Setups for the Year 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-itel-s23plus-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Itel S23+</u></a></li>
 </ul></div>
 

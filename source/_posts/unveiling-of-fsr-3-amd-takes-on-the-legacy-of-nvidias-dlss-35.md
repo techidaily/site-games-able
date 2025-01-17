@@ -1,7 +1,7 @@
 ---
 title: "Unveiling of FSR 3: AMD Takes on the Legacy of NVIDIA's DLSS 3.5?"
-date: 2025-01-03T18:24:14.708Z
-updated: 2025-01-10T16:10:12.556Z
+date: 2025-01-10T19:19:56.720Z
+updated: 2025-01-16T16:04:18.344Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
 
  However, that doesn't mean AMD has given up on FSR. Far from it, in fact. At Gamescom 2023, alongside the launch of its new GPUs, AMD also announced FSR 3, which promises great improvements over its predecessor in performance and image fidelity. It's a major upgrade, but can it compete with NVIDIA DLSS 3.5?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is AMD's FSR 3?
 
  You might already know what FSR, or[FidelityFX Super Resolution](https://www.makeuseof.com/amd-fsr-explained/) , is, but we'll give you a quick refresh if not. FSR is software that takes games rendered at a lower resolution and upscales them to higher ones. It's AMD's competition to[NVIDIA's DLSS](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) , boosting in-game visuals and frame rates, and FSR 3 is the latest version of this technology. AMD announced the new tech right as it announced its newest GPUs, the[Radeon RX 7800 XT and the Radeon RX 7700 XT](https://www.makeuseof.com/everything-you-need-to-know-amd-radeon-rx-7800-xt-and-rx-7700-xt/) .
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
 
 ![AMD FSR 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/fsr-3-1.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credits: AMD
 
  AMD is employing a series of new party tricks to further improve its experience, including one called "Fluid Motion Frames." Essentially, it's a competitor to DLSS's Frame Generation, which generates and fits new frames between actual rendered frames, dramatically improving your frame rates. Fluid Motion Frames will be supported on games that support FSR 3 and in all DirectX 11 and 12 games, as long as you have a Radeon 7000-Series GPU.
@@ -52,7 +52,7 @@ Image Credits: AMD
  FSR 3 will be available on all Radeon RDNA cards (5000-Series, 6000-Series, and 7000-Series), Intel Arc GPUs, and NVIDIA RTX GPUs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does FSR 3 Compare to DLSS 3.5?
@@ -64,7 +64,7 @@ Image Credits: AMD
  As for how well it works compared to its direct competitor, we'll have to see FSR 3 in use in-game to compare properly. We'd expect things to remain pretty similar to how they are, with FSR producing similar framerate gains but with less detail than DLSS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Use FSR 3?
@@ -72,7 +72,7 @@ Image Credits: AMD
  If you have an AMD GPU or another GPU that doesn't support DLSS, using FSR is a no-brainer. It can greatly help your framerates, especially if you have a higher-resolution monitor. FSR 3 is a great improvement to an already great technology, and you should give it a spin as soon as it's available. AMD says that new titles Forspoken and Immortals of Aveum will get support in September, with other games following suit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FSR 3 is a Big Improvement
@@ -94,16 +94,18 @@ Image Credits: AMD
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-schematic-gamers-graphs/"><u>[New] SCHEMATIC GAMER'S GRAPHS</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-guide-to-ppro-fs-viewing-for-2024/"><u>[New] The Ultimate Guide to PPro FS Viewing for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/2024s-elite-ddr5-memory-modules/"><u>2024'S Elite DDR5 Memory Modules</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/accessing-the-official-samsung-unpacked-presentation-online-how/"><u>Accessing the Official Samsung Unpacked Presentation Online – How?</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-costly-hdr-top-6-reasons-for-gamers/"><u>Avoiding Costly HDR: Top 6 Reasons for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/customizing-headphone-output-on-xbox-sx/"><u>Customizing Headphone Output on Xbox S/X</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-shutting-off-reduces-noise-pollution/"><u>How Shutting Off Reduces Noise Pollution</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-a38-by-drfone-android/"><u>How to Bypass FRP from Oppo A38?</u></a></li>
-<li><a href="https://win-unique.techidaily.com/learn-how-to-extract-and-save-your-favorite-episodes-from-videobash/"><u>Learn How To Extract and Save Your Favorite Episodes From VideoBash</u></a></li>
-<li><a href="https://games-able.techidaily.com/prepare-for-the-next-gen-tech-highlighted-at-ifa-2023/"><u>Prepare for the Next Gen: Tech Highlighted at IFA 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-free-resource-pack-high-quality-pp-samples-for-2024/"><u>The Ultimate Free Resource Pack High-Quality PP Samples for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tips-for-shooting-and-sharing-videos-on-instagram-for-2024/"><u>[New] Tips for Shooting & Sharing Videos on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-avoid-these-8-steps-that-newcomers-often-miss-on-youtube/"><u>[Updated] 2024 Approved Avoid These 8 Steps that Newcomers Often Miss on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/connectivity-boosted-best-3-streamers-for-nintendo-switch/"><u>Connectivity Boosted: Best 3 Streamers for Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/dimming-to-dark-how-to-lower-xbox-controller-backlight-levels/"><u>Dimming to Dark: How to Lower Xbox Controller Backlight Levels</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-user-friendly-nature-of-amazon-lunas-game-streaming-platform/"><u>Exploring the User-Friendly Nature of Amazon Luna's Game Streaming Platform</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-playbox-app-user-testimonials/"><u>In 2024, PlayBox App User Testimonials</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-chat-clean-master-the-art-of-twitch-banning-and-unbanning/"><u>Keep Your Chat Clean: Master the Art of Twitch Banning & Unbanning</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-luster-effective-dust-removal-strategies/"><u>PS5 Luster: Effective Dust-Removal Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-return-strategies-ensuring-money-retrieval-success/"><u>Steam Return Strategies: Ensuring Money Retrieval Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-shine-guide-ps5s-deep-clean/"><u>The Ultimate Shine Guide: PS5's Deep Clean</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-ranked-techniques-for-polished-obs-productions/"><u>Top-Ranked Techniques for Polished OBS Productions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-print-screen-failures-in-windows-operating-systems/"><u>Troubleshooting Guide: Resolving Print Screen Failures in Windows Operating Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoom-mastery-for-top-tier-tiktok-live-events/"><u>Zoom Mastery for Top-Tier TikTok Live Events</u></a></li>
 </ul></div>
 

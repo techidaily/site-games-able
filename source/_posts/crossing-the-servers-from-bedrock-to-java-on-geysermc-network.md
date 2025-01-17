@@ -1,7 +1,7 @@
 ---
 title: "Crossing the Servers: From Bedrock to Java on GeyserMC Network"
-date: 2025-01-07T19:37:54.886Z
-updated: 2025-01-10T18:55:02.668Z
+date: 2025-01-11T20:31:06.315Z
+updated: 2025-01-17T00:12:32.284Z
 tags:
   - games
 categories:
@@ -34,12 +34,16 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  Want to enable Minecraft Java crossplay for Bedrock players? Here's what you need to know about letting Bedrock players join Java servers while using the GeyserMC mod!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja/MUO
 
@@ -51,21 +55,21 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
  However, the GeyserMC mod takes the C++ information and translates it to Java, emulating a Java Minecraft client. This allows Bedrock Edition players to join Java Edition servers and play as if they were on the same version of the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Minecraft Bedrock Edition Players Can Join Java Edition Servers
 
 ![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
  This process involves both versions of Minecraft running at the same time on one computer, connected to the same Java server. We'll show you how to create a server that you can join whether you're playing Minecraft's Java or Bedrock Edition.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Set Up a Server
 
@@ -85,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![Installing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-minecraft-software-on-aternos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on the**Install** button to add PaperMC to your server.
 
 ![Choosing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-geyser-plugin-on-aternos.jpg)
@@ -107,23 +107,23 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the main server screen, click**Start** to turn on the server. You can find the server connection details by clicking on**Connect** just below the server name. Copy the IP and port for the next step.
 
 ![Joining Minecraft Java server from Bedrock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/joining-minecraft-java-server-from-bedrock.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On Minecraft Bedrock Edition, click on the**Servers** tab, scroll all the way down, and click the**Add Server** button.
 
 ![Pasting server IP details on Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pasting-server-ip-details-on-bedrock-edition.jpg)
 
- Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
 
 ## The Limitations of the GeyserMC Mod
 
@@ -150,24 +150,18 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-ensuring-authenticity-and-compliance-in-your-tiktoks-for-2024/"><u>[New] Ensuring Authenticity & Compliance in Your TikToks for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-in-depth-review-screen-capture-with-vlc-player/"><u>[New] In 2024, In-Depth Review Screen Capture with VLC Player</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima-for-2024/"><u>[New] The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-synchronized-device-tutorial-for-efficient-movie-logging/"><u>[Updated] 2024 Approved Synchronized Device Tutorial for Efficient Movie Logging</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-tales-and-truths-the-worlds-finest-schools-top-8/"><u>2024 Approved Mastering Tales & Truths The World's Finest Schools (Top 8)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-data-evolution-understanding-ais-transfer-learning-processes/"><u>Decoding Data Evolution: Understanding AI's Transfer Learning Processes</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-twitch-experience-with-smartphone-streaming/"><u>Elevate Your Twitch Experience with Smartphone Streaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-system-stability-with-breaks/"><u>Enhancing System Stability with Breaks</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-fun-to-profitable-lessons-from-helldivers-2s-success-story/"><u>From Fun to Profitable: Lessons From Helldivers 2'S Success Story</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-ready-designs-optimizing-virtual-models/"><u>Game-Ready Designs: Optimizing Virtual Models</u></a></li>
-<li><a href="https://games-able.techidaily.com/graphics-titans-clash-examining-the-power-of-supers-and-ti-vs-4080/"><u>Graphics Titans Clash: Examining the Power of Supers and Ti Vs. 4080</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-video-content-with-proven-strategies-for-youtube-shorts-growth/"><u>In 2024, Elevate Video Content with Proven Strategies for YouTube Shorts Growth</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-exploring-youtubes-operations-after-video-upload/"><u>In 2024, Exploring YouTube's Operations After Video Upload</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-live-gaming-streams-on-windows-via-intels-toolkit/"><u>Optimize Live Gaming Streams on Windows via Intel's Toolkit</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-series-xs-audio-with-in-headphone-mode/"><u>Optimizing Series X/S Audio with In-Headphone Mode</u></a></li>
-<li><a href="https://article-helps.techidaily.com/storage-capacity-64gb-vs-128gb-for-video-files-for-2024/"><u>Storage Capacity 64GB vs 128GB for Video Files for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-lost-gps-connection-in-pokemon-adventure/"><u>Troubleshooting Lost GPS Connection in Pokémon Adventure</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-true-magic-with-am08-pro-an-examination/"><u>Unveiling True Magic with AM08 Pro: An Examination?</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-pc-games-win-over-consoles-the-ten-points/"><u>Why PC Games Win Over Consoles: The Ten Points</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-intrigue-and-ingenuity-in-leading-escapade-centres-for-2024/"><u>[Updated] Intrigue and Ingenuity in Leading Escapade Centres for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pro-audio-insight-expertly-selected-9-mic-recorder-devices-for-2024/"><u>[Updated] Pro Audio Insight Expertly Selected 9 Mic Recorder Devices for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audible-annotators-top-selections-for-offline-text-conversion/"><u>2024 Approved Audible Annotators Top Selections for Offline Text Conversion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/delving-into-the-world-of-hdr-tv-lg-27ud88-uhd/"><u>Delving Into the World of HDR TV - LG 27UD88-UHD</u></a></li>
+<li><a href="https://games-able.techidaily.com/dynamic-cooling-design-maximizes-graphics-output-speed/"><u>Dynamic Cooling Design Maximizes Graphics Output Speed</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-hdi-display-fidelity-mouse-options/"><u>Elite HDI Display Fidelity Mouse Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-together-dual-gameplay-in-minecraft-switch-edition/"><u>Exploring Together: Dual Gameplay in Minecraft Switch Edition</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-itel-p55-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Itel P55 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-nokia-c22-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nokia C22 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-clearing-the-path-for-your-facebook-visuals-to-shine/"><u>In 2024, Clearing the Path for Your Facebook Visuals to Shine</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-11-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/king-of-construction-showdown-thieye-t5-or-sjcam-s6/"><u>King of Construction Showdown Thieye T5 or SJCAM S6?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-impermanence-of-games-does-it-matter-to-gamers/"><u>The Impermanence of Games – Does It Matter to Gamers?</u></a></li>
 </ul></div>
 

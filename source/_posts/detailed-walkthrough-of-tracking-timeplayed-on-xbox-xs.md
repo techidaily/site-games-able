@@ -1,7 +1,7 @@
 ---
 title: Detailed Walkthrough of Tracking Timeplayed on Xbox X/S
-date: 2025-01-10T01:51:34.295Z
-updated: 2025-01-11T09:05:07.736Z
+date: 2025-01-13T16:41:47.893Z
+updated: 2025-01-16T19:49:26.753Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About the Time Played Stat on Xbox
 
  Unfortunately, before you check your play-time for an Xbox game, you might want to be aware of some key aspects of the feature. And how, despite the**Time played** statistic being a staple feature of Xbox Series X|S game settings, this specific stat can be inconsistent.
@@ -40,10 +36,14 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 ![A screenshot of the Time Played statistic on Xbox Series X showcasing no time played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/001-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Check Your Time Played From Your Xbox Series X|S
 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the game you want to see the**Time played** stat for.
@@ -68,9 +68,17 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 ![A screenshot of the gaming statistics screen for Mass Effect Legendary Edition on Xbox Series X|S](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the**Stats** screen, your**Time played** is displayed as the first metric. And, if you want to compare your**Time played** for the selected game against your friends, you can select**Time played** for a full comparison leaderboard.
 
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
 
@@ -86,15 +94,7 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 ![A screenshot of the game statistics for Mass Effect Legendary Edition taken from the Xbox app for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
 
@@ -117,21 +117,22 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-expert-tips-on-tracking-your-videos-view-counts-and-earnings-potential/"><u>[New] 2024 Approved Expert Tips on Tracking Your Video's View Counts & Earnings Potential</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-behind-the-scenes-how-to-create-youtube-trailers-in-filmora/"><u>[New] Behind the Scenes How-To Create YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-easy-guide-record-mov-files-on-win-11-pc/"><u>[New] Easy Guide Record MOV Files on Win 11 PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-g54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola G54 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-bad-buys-with-these-lessons-from-wrong-oled-choices/"><u>Avoid Bad Buys with These Lessons From Wrong OLED Choices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/el-branding-mastery-securing-a-loyal-youtube-subscriber-base/"><u>Channel Branding Mastery Securing a Loyal YouTube Subscriber Base</u></a></li>
-<li><a href="https://games-able.techidaily.com/evading-inquisitive-trackers-in-games/"><u>Evading Inquisitive Trackers in Games</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-10-proplus-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 10 Pro+ 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12t-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12T Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/installing-apk-files-made-convenient-win-11s-guide-to-easy-setups/"><u>Installing APK Files Made Convenient: Win 11'S Guide to Easy Setups</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-the-gaming-world-bracing-for-higher-chip-costs/"><u>Is the Gaming World Bracing for Higher Chip Costs?</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-nuances-of-xbox-control-panel-brightness-settings/"><u>Navigating the Nuances of Xbox Control Panel Brightness Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-value-of-switchs-online-service/"><u>Navigating the Value of Switch's Online Service</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-audio-enhancements-for-switch-gaming/"><u>Optimal Audio Enhancements for Switch Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-fixing-robloxs-error-403-on-pc/"><u>Step-by-Step Guide to Fixing Roblox's Error 403 on PC</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-curating-your-music-collection-the-easy-guide-to-youtube-playlist-creation-webapp/"><u>[New] Curating Your Music Collection The Easy Guide to YouTube Playlist Creation (Web/App)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-your-content-choose-these-top-10-reel-apps/"><u>[Updated] 2024 Approved Mastering Your Content Choose These Top 10 Reel Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-optimize-your-brand-presence-on-youtube-with-video-embellishments/"><u>[Updated] 2024 Approved Optimize Your Brand Presence on YouTube with Video Embellishments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/androids-harmonious-integration-with-spotify-and-youtube-alerts-redefines-the-streaming-experience-tech-innovations-today/"><u>Android's Harmonious Integration with Spotify and YouTube Alerts Redefines the Streaming Experience | Tech Innovations Today</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-access-denied-window-issues-steps-and-tips/"><u>Bypass 'Access Denied' Window Issues: Steps and Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-ways-to-reboot-your-steam/"><u>Efficient Ways to Reboot Your Steam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
+<li><a href="https://games-able.techidaily.com/methodical-measures-securing-and-sustaining-mc-maps/"><u>Methodical Measures: Securing & Sustaining MC Maps</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-pokemon-titles-on-mobile-platforms/"><u>Navigating Pokémon Titles on Mobile Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-steams-storage-for-faster-gaming-access/"><u>Optimize Steam's Storage for Faster Gaming Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritizing-gaming-over-background-game-bar-noise/"><u>Prioritizing Gaming Over Background Game Bar Noise</u></a></li>
+<li><a href="https://games-able.techidaily.com/pursuit-of-perfection-premium-network-choices-for-gaming/"><u>Pursuit of Perfection: Premium Network Choices for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagine-vintage-fun-6-strong-arguments-for-pi-use/"><u>Reimagine Vintage Fun: 6 Strong Arguments for Pi Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-a-time-at-the-apple-store-a-comprehensive-walkthrough/"><u>Securing a Time at the Apple Store: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-slack-filmora-duo-for-meeting-management-excellence/"><u>The Ultimate Slack-Filmora Duo for Meeting Management Excellence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-solution-removing-you-dont-have-access-to-play-fortnite-barrier/"><u>Unlock the Solution: Removing 'You Don't Have Access to Play Fortnite' Barrier</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-big-with-digital-deals-for-xbox-s/"><u>Win Big with Digital Deals for Xbox S</u></a></li>
 </ul></div>
 

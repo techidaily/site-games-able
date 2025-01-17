@@ -1,7 +1,7 @@
 ---
 title: What's at Stake for Gamers in Xbox & Activision Deal?
-date: 2025-01-07T08:23:01.189Z
-updated: 2025-01-10T20:09:36.034Z
+date: 2025-01-09T23:12:30.710Z
+updated: 2025-01-17T01:05:12.073Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Deal Between Microsoft and Activision/Blizzard?
 
  Before breaking down the consequences of the deal between Activision/Blizzard and Microsoft, you may need a quick refresher regarding what the deal entails.
@@ -36,16 +40,12 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
  And with Xbox owning massive Activision/Blizzard franchises, there is also the worry that the deal will enable Xbox to turn multiplatform franchises into Xbox exclusives. And while platform exclusivity is a more nuanced effect of the deal, with specific clauses, there are undoubtedly consequences of such an industry-shaking deal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Potential Problems the Deal May Cause Gamers
 
  While the deal is good for Xbox as a platform and Xbox gamers, there are many damaging implications for the industry and gamers alike, even if you're a huge Xbox fan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Xbox Owns a Sizable Chunk of the Entire Gaming Industry
 
@@ -55,15 +55,15 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
 ![A promotional image highlighting the key art for Starfield](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/starfield.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit:[Bethesda](https://bethesda.net/en/game/starfield)
 
  Worryingly, the Bethesda acquisition was around nine times less than the Activision/Blizzard deal. And with Activision/Blizzard enjoying a massive presence in the gaming industry, titan franchises like Call of Duty and Overwatch could eventually become Xbox exclusives.
 
  Xbox could use Activision/Blizzard exclusivity to monopolize some of gaming's most popular franchises, forcing you to own an Xbox Series X|S as competitors may not be able to sell specific Activision/Blizzard titles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Both Xbox and PlayStation Are Prioritizing Exclusivity
 
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
  So, another unfortunate implication of the deal between Microsoft and Activision/Blizzard is the furthering of exclusivity competition between all platforms, restricting your choices as a consumer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. A Mismanaged Deal Will Result in Higher Priced Games and Services for Consumers
 
  Aside from implications and problems linked to exclusivity, Microsoft's acquisition of Activision/Blizzard has been flagged by independent experts as possibly increasing the costs of games and services.
@@ -93,17 +97,9 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
  And while there may be many[reasons you will see the price of Xbox Game Pass increasing](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , the price tag of $68.7 billion for Activision/Blizzard will only inflate things further. So, even if you're a fan of Xbox, you may still be affected by price increases associated with the deal.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why the Activision/Blizzard Deal May Not Be as Bad as You Think
 
  While you certainly have good reasons to be dubious of the acquisition of Activision/Blizzard by Microsoft, there is evidence to suggest that the deal isn't as problematic for gamers as previously thought.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Exclusive Games Have Always Been a Pivotal Part of Console Gaming
 
@@ -134,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
  So, if you take the pro-consumer practices Xbox engages in with the changing of the guard at Activision/Blizzard, the deal injects hope into a troubled company, highlighting a positive change for Activision/Blizzard and consumers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Xbox Is the Underdog of the Industry
@@ -146,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
  But if you follow the discussions on Xbox and its place in the industry against competitors, Microsoft president Brad Smith said via[Bloomberg UK](https://www.bloomberg.com/news/articles/2022-12-13/microsoft-says-it-offered-ftc-consent-decree-on-call-of-duty?leadSource=uverify%20wall) that "if you look at the global market, Sony has 70% of that market, and we have 30%".
 
 ![A photograph of an PlayStation 5 console and controller atop a white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playstation-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Brad Smith also cited how PlayStation, at the time of the discussions, had 286 exclusive games and Xbox only had 59 to back up his statements. So, while you may be justifiably worried about the deal's implications, you could see the acquisition as simply allowing Xbox to catch up to PlayStation.
 
@@ -174,20 +174,16 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-snap-and-save-professional-screen-recording-11-version/"><u>[New] In 2024, Snap & Save Professional Screen Recording 11-Version</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-10-funny-youtube-shorts-video-ideas/"><u>[Updated] 2024 Approved Top 10 Funny YouTube Shorts Video Ideas</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-a-playlist-on-youtube-for-2024/"><u>[Updated] How to Create a Playlist on YouTube for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlock-creative-potential-smart-b-roll-incorporation/"><u>[Updated] In 2024, Unlock Creative Potential Smart B Roll Incorporation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-guide-to-drone-visuals/"><u>2024 Approved Comprehensive Guide to Drone Visuals</u></a></li>
-<li><a href="https://games-able.techidaily.com/advantages-and-pitfalls-of-early-access-titles/"><u>Advantages & Pitfalls of Early Access Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/atlasos-for-the-unconventional-gamer/"><u>AtlasOS for the Unconventional Gamer</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-regret-right-oled-display-selection-tips/"><u>Avoid Regret: Right OLED Display Selection Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-broken-link-between-win-and-xbox-controllers/"><u>Fixing Broken Link Between Win and Xbox Controllers</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-refresh-low-price-innocn-39g1r/"><u>High Refresh, Low Price: InnoCN 39G1R</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-moto-g73-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Moto G73 5G?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-t2-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo T2 5G Location | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-voice-over-secrets-boost-your-audio-game/"><u>New Final Cut Pro Voice Over Secrets Boost Your Audio Game</u></a></li>
-<li><a href="https://games-able.techidaily.com/size-matters-in-computing-mini-vs-desktop-decisions/"><u>Size Matters in Computing: Mini Vs. Desktop Decisions</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-adobe-premiere-guide-6-tips-for-smoother-faster-edits-for-2024/"><u>Updated The Ultimate Adobe Premiere Guide 6 Tips for Smoother, Faster Edits for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tand-out-on-youtube-innovative-title-brainstroms/"><u>[New] Stand Out on YouTube Innovative Title Brainstroms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-your-h-videos-on-instagram-tv/"><u>[Updated] 2024 Approved Unlock the Full Potential of Your H-Videos on Instagram TV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-metaverse-with-elite-headsets/"><u>2024 Approved Navigating the Metaverse with Elite Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/deleting-ps5-profile-saved-credentials/"><u>Deleting PS5 Profile Saved Credentials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-5-fpv-hmds-for-high-speed-aerial-sports/"><u>Elite 5 FPV HMDs for High-Speed Aerial Sports</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y27s-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y27s To Phone | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-starfield-early-entry/"><u>Mastering the Art of Starfield Early Entry</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-360-slim-disassembly-repair-and-modify-guide/"><u>Mastering Xbox 360 Slim Disassembly: Repair & Modify Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-using-controllers-with-buttons/"><u>The Ultimate Guide to Using Controllers with Buttons</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ultimate-auditory-performances-for-2024/"><u>Ultimate Auditory Performances for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-starfield-the-elusive-beta-pass-route/"><u>Unlocking Starfield: The Elusive Beta Pass Route</u></a></li>
 </ul></div>
 

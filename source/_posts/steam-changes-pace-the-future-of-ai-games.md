@@ -1,7 +1,7 @@
 ---
 title: "Steam Changes Pace: The Future of AI Games"
-date: 2024-08-15T17:22:19.974Z
-updated: 2024-08-16T17:22:19.974Z
+date: 2025-01-13T23:01:16.503Z
+updated: 2025-01-16T17:18:36.145Z
 tags:
   - games
 categories:
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 * [How Steam's AI Games Policy Could Affect Gamers](#how-steam-39-s-ai-games-policy-could-affect-gamers)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Steam has adjusted its policies towards games using generative AI. A shift from its previously cautious approach.
@@ -29,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 * It will be up to players to report illegal AI content in games using a feature in the in-game overlay.
 
  While Steam initially took a cautious approach to publishing games using generative AI, it has now announced guidelines that will see the company "release the vast majority of games that use it". But what do these new rules on AI games mean for gamers?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Steam Takes a Softer Stance on Games Using AI
 
@@ -46,28 +51,18 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
  In addition, games that use live-generated AI content will need to disclose what guardrails will be in place to make sure that the AI is not generating illegal content.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Steam's AI Games Policy Could Affect Gamers
 
 ![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While many games use AI systems to make non-playable characters (NPCs) and enemies responsive, generative AI is a newer form of AI that involves generating text, images, video, audio, and even code. To learn more, read[our guide to generative AI](https://www.makeuseof.com/what-is-generative-ai/) .
 
  Steam already has[an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 1\. Gamers Will Have More Games to Choose From on Steam
 
  Steam is already home to a vast array of games, with tens of thousands of new titles added each year.
@@ -75,6 +70,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  But with the wide array of capabilities of generative AI, gamers will likely see an increase in the variety of titles on offer. Especially from smaller studios that would be unable to publish games due to their small team size.
 
  We will also likely see developers using generative AI in creative ways, but this is not guaranteed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Gamers May See a Rise in Low-Quality AI Games
 
@@ -86,15 +85,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Luckily, you_can_ [request a refund on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . But you will need to do this within 14 days from purchase, and you can't have played the game for more than two hours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### 3\. Gamers Will Need to Report Illegal AI Content
 
 ![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  Image Credit: g0d4ather/[Shutterstock](https://www.shutterstock.com/image-photo/saransk-russia-january-03-2016-steam-357785195)
 
@@ -106,6 +99,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Considering how often people get around AI guardrails, such as when people use[jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Gamers Will Need to Look Out for AI Disclosures
 
  If you don't want to play games that use AI-generated content, you will need to look out for the relevant disclosures on Steam Store pages. Some gamers may want to avoid these games due to quality concerns, or ethical concerns around who the content truly belongs to.
@@ -114,14 +111,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Whether you're excited to see what creative takes will appear on the Steam store, or you're concerned about the impact on quality and discoverability, games using generative AI are now officially welcome on Steam.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +124,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-arctic-athleticism-revealed-the-top-of-the-line-in-olympic-snowboard-cross/"><u>[New] Arctic Athleticism Revealed The Top of the Line in Olympic Snowboard Cross</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-enhancing-zoom-video-clarity-user-guide/"><u>[New] In 2024, Enhancing Zoom Video Clarity User Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-power-of-symbolism-in-crafting-effective-podcast-logos/"><u>[New] In 2024, The Power of Symbolism in Crafting Effective Podcast Logos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-easy-steps-for-arranging-a-google-meeting/"><u>[Updated] Easy Steps for Arranging a Google Meeting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unboxing-the-market-strategic-essentials-for-2024/"><u>[Updated] Unboxing the Market Strategic Essentials for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-highlight-recording-from-games-using-diverse-graphics-cards/"><u>Effortless Highlight Recording From Games Using Diverse Graphics Cards</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/exploring-benefits-why-choose-a-desktop-pc-over-laptops-and-tablets-insights-from-yl-computing/"><u>Exploring Benefits: Why Choose a Desktop PC Over Laptops & Tablets - Insights From YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/founders-edition-vs-aib-which-gpu-model-is-right-for-you/"><u>Founders Edition Vs. AIB: Which GPU Model Is Right for You?</u></a></li>
+<li><a href="https://games-able.techidaily.com/hidden-behind-hearts-and-pins-the-fallacy-in-reviews/"><u>Hidden Behind Hearts and Pins: The Fallacy in Reviews</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme Phone Now with These Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/"><u>Is Premium Play on Demand Worth It?</u></a></li>
+<li><a href="https://games-able.techidaily.com/leveraging-hrtf-techniques-in-valorant-matches/"><u>Leveraging HRTF Techniques in Valorant Matches</u></a></li>
+<li><a href="https://games-able.techidaily.com/privacy-protocols-for-in-game-chats-on-xbox/"><u>Privacy Protocols for In-Game Chats on Xbox</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pros-and-cons-of-microsofts-latest-innovation-a-detailed-look-at-the-surface-pro-8-for-business-zdnet-insights/"><u>Pros and Cons of Microsoft's Latest Innovation: A Detailed Look at the Surface Pro 8 for Business | ZDNet Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaim-your-voice-restart-xbox-one-reconnect-headset/"><u>Reclaim Your Voice: Restart Xbox One, Reconnect Headset</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-xbox-experience-better-blue-ray/"><u>Transform Your XBox Experience - Better Blue-Ray</u></a></li>
+</ul></div>
 

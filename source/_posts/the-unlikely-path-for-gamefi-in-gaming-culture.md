@@ -1,7 +1,7 @@
 ---
 title: The Unlikely Path for GameFi in Gaming Culture
-date: 2024-08-22T22:20:33.156Z
-updated: 2024-08-23T22:20:33.156Z
+date: 2025-01-09T23:24:51.022Z
+updated: 2025-01-16T19:25:11.807Z
 tags:
   - games
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
  So, what are the problems with GameFi, and why will they seal its fate?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GameFi?
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
@@ -39,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
  While GameFi may seem innovative, many downsides affect players and investors.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Token Instability
 
  If there's one thing we can all agree on about crypto, it's that assets are almost always unstable in price. From new, smaller tokens to market leaders like Bitcoin, price fluctuations have been a problem from the beginning.
@@ -55,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ## 2\. Scams
 
 ![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scams are, unfortunately, native to the crypto realm, and GameFi is no exception to this rule. If there's money to be stolen, chances are criminals will find some way to access it.
 
@@ -73,35 +78,21 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  People invested in CryptoZoo but lost thousands when it was revealed that Paul and his development team had effectively (allegedly) rug-pulled investors. Investors are yet to be refunded, and a lawsuit has been filed.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. High Transaction Fees
 
  You'll almost always incur a fee when you conduct a crypto transaction. Some cryptos have low fees, whereas others can reach unreasonable levels. Transaction fees usually increase or decrease with a blockchain network's transaction demand. Other factors, such as the size of the transaction, also play a role here.
 
  Higher transaction fees can put people off getting into GameFi, as a large chunk of their earnings will be stripped away through these mandatory charges. It's a loss and isn't something that attracts gamers.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Prioritizing Money Over the Game
 
  Naturally, when a game offers digital assets in return for playtime, users will put the earnings at the front and center of why they play the game.
 
  There's nothing inherently wrong with this, but avid gamers may argue that adding real-world tokenomics to a video game somewhat removes the heart of it. Developers may choose to cut corners by leaving in bugs or providing poor game progression, factors which can severely affect the enjoyment and satisfaction people receive when they game.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Lack of Regulation
 
  Cryptocurrency and DeFi already lack proper regulation (though[crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
@@ -113,10 +104,9 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  This isn't anyone's fault, but the developer can dodge any liability when gamers ask for compensation. If the game has made any financial promises, the developers may also be able to keep their hands clean if these promises fall through.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will GameFi Last?
 
  No one knows for sure if GameFi will sink or swim, but the nature of this sector makes long-term success difficult.
@@ -129,25 +119,23 @@ The powerful video editing program for your Windows PC</a>
 
 ![screenshot of coinmarketcap illuvium seven day price graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/illuvium-price-graph.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  Between August 14 and 22, the price of one ILV token went from $53 to $42, a drop of almost 21% in just over a week. This drop doesn't seem to be the result of any major scandal or market crash. Rather, it seems to be a product of a lack of interest.
 
  It's been a while since Illuvium's developers have given gamers anything new, with many getting bored with waiting. While top-tier games without the P2E structure focus heavily on user satisfaction and experience, P2E developers often have more of a focus on increasing the in-game token value.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## GameFi's Future Is Precarious
 
  While GameFi isn't dead in the water yet, its many drawbacks have placed its future in a shaky position. If GameFi developers listen to criticism, things may improve, but the nature of the crypto industry, along with constant scams, still poses many risks and challenges.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +144,18 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-best-of-the-best-cutting-edge-hiring-videos-1-10/"><u>[Updated] Best of the Best Cutting-Edge Hiring Videos #1-10</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-mousepad-roundup-for-players/"><u>Champion Mousepad Roundup for Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-ddr5-gaming-boards-2024/"><u>Cutting-Edge DDR5 Gaming Boards 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/efficiently-clearing-up-disk-space-on-macos-a-comprehensive-guide-for-better-performance/"><u>Efficiently Clearing Up Disk Space on macOS: A Comprehensive Guide for Better Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/games-meta-its-definition-significance-and-obedience/"><u>Game's Meta: Its Definition, Significance & Obedience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harnessing-dynamic-range-expert-hdr-creation-in-adobe/"><u>Harnessing Dynamic Range Expert HDR Creation in Adobe</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-efficiently-process-game-console-returns/"><u>How to Efficiently Process Game Console Returns</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-passcode-solutions-for-ipad-users-securely-restoring-device-access/"><u>No-Passcode Solutions for iPad Users: Securely Restoring Device Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-steam-selections-discreetly/"><u>Secure Steam Selections Discreetly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-converting-dvds-to-mov-files-on-macos-and-windows/"><u>Step-by-Step Guide: Converting DVDs to Mov Files on macOS & Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unplugging-mysteries-a-comprehensive-guide-to-fixing-no-sound-from-conexant-smartaudio-hd-under-windows-11/"><u>Unplugging Mysteries: A Comprehensive Guide to Fixing No Sound From Conexant SmartAudio HD Under Windows 11</u></a></li>
+</ul></div>
 

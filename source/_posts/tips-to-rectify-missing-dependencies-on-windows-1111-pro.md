@@ -1,7 +1,7 @@
 ---
 title: Tips to Rectify Missing Dependencies on Windows 11/11 Pro
-date: 2025-01-09T19:30:08.416Z
-updated: 2025-01-11T08:13:56.001Z
+date: 2025-01-12T22:58:19.260Z
+updated: 2025-01-16T21:22:39.561Z
 tags:
   - games
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  First, try checking for and installing all pending Windows patch updates. This is because some updates will feature fixes for DirectX, so if the error message points to DirectX as the culprit, this will hopefully put it to rest.
 
  Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
@@ -45,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
  If repairing doesn’t work, or you can’t find the Visual C++ package specified in the error, you may need to install missing C++ runtime libraries. Microsoft has a webpage from which you can download numerous different C++ Redistributable packages.
@@ -61,18 +61,14 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 3. Click**I agree** \>**Install** in the Microsoft Visual C++ 2015-2022 window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
@@ -95,21 +91,29 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out[how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
  If you're unsure how to do this, check out[how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Game or Software
 
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
 
@@ -148,17 +148,22 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-audio-upheavals-top-rhythmic-disruptors-for-devices-for-2024/"><u>[Updated] Audio Upheavals Top Rhythmic Disruptors for Devices for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-enlightenment-streams-foremost-ed-resources-online/"><u>2024 Approved Enlightenment Streams Foremost Ed Resources Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-film-makers-guide-to-selecting-between-hero-and-cube-videos/"><u>2024 Approved Film Maker's Guide to Selecting Between Hero and Cube Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-non-alcoholic-pathways-for-endocannabinoid-delivery-to-the-brain/"><u>Exploring Non-Alcoholic Pathways for Endocannabinoid Delivery to the Brain</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-action-camera-showdown-sj-cam-s6-takes-the-spotlight/"><u>In 2024, Action Camera Showdown SJ-CAM S6 Takes the Spotlight</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-12-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 12 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrate-xbox-game-pass-into-steam-link-using-glossi/"><u>Integrate Xbox Game Pass Into Steam Link Using GlosSI</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-launcher-problem-code-0x803f8001-on-windows/"><u>Navigating Launcher Problem Code 0X803F8001 on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/reminiscing-the-past-playing-xbox-games-in-modern-times-pc/"><u>Reminiscing the Past: Playing Xbox Games in Modern Times (PC)</u></a></li>
-<li><a href="https://win11.techidaily.com/screen-capturing-simplified-snip-tool-vs-prtsc/"><u>Screen Capturing Simplified: Snip Tool Vs. PrtSc</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-budget-friendly-240hz-monitors-for-gaming/"><u>The Best Budget-Friendly 240Hz Monitors for Gaming</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/visualizationvirtue-the-art-of-resizing-photos-and-videos-in-instagram-for-2024/"><u>VisualizationVirtue The Art of Resizing Photos and Videos in Instagram for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-channel-your-creativity-crafting-youtube-trailers-in-filmora/"><u>[New] 2024 Approved Channel Your Creativity Crafting YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-record-facebook-messenger-calls/"><u>[New] In 2024, How to Record Facebook Messenger Calls</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-microsoft-edge-crashing-problem-on-windows-11/"><u>[Solved] Microsoft Edge Crashing Problem on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/die-spitzenleistenden-funf-bevorzugte-uhd-4k-videoplayer-fur-pcmac-download-and-rezension/"><u>Die Spitzenleistenden: Fünf Bevorzugte UHD 4K Videoplayer Für PC/Mac, Download & Rezension</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-gaming-top-7-mmos-on-the-go/"><u>Dive Into Gaming: Top 7 MMOs on the Go</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-chrome-aw-snap-glitch-on-windows/"><u>Eliminate Chrome “Aw, Snap!” Glitch on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c110-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C110 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-discovering-gems-20-underrated-tiktok-raps/"><u>In 2024, Discovering Gems 20 Underrated TikTok Raps</u></a></li>
+<li><a href="https://games-able.techidaily.com/lighteconomonitor-27m2v-hd-gamers-choice/"><u>LightEconoMonitor: 27M2V HD Gamers Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-graphics-milestone-for-amd-will-fsr-3-challenge-nvidias-dlss-35/"><u>New Graphics Milestone for AMD, Will FSR 3 Challenge NVIDIA’s DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-performance-gaming-accessories-high-pixels-per-inch/"><u>Peak Performance Gaming Accessories - High Pixels Per Inch</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-for-switch-protection-installing-a-passcode/"><u>Step by Step for Switch Protection: Installing a Passcode</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/supercharge-your-game-trailers-with-keywords-for-2024/"><u>Supercharge Your Game Trailers with Keywords for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-manual-to-boosting-gaming-with-steam-mods/"><u>The Ultimate Manual to Boosting Gaming with Steam Mods</u></a></li>
+<li><a href="https://discover-great.techidaily.com/trova-foto-su-hard-disk-esterno-ecco-i-4-migliori-metodi/"><u>Trova Foto Su Hard Disk Esterno: Ecco I 4 Migliori Metodi</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplug-and-play-the-allure-of-netflixs-gaming/"><u>Unplug and Play: The Allure of Netflix’s Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-victory-joystick-vs-console-command/"><u>Virtual Victory: Joystick Vs. Console Command</u></a></li>
 </ul></div>
 

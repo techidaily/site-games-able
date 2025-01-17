@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Gaming: Steam's New Guidelines on AI"
-date: 2025-01-07T07:28:08.176Z
-updated: 2025-01-11T06:32:39.489Z
+date: 2025-01-14T23:33:12.789Z
+updated: 2025-01-16T18:09:42.055Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Steam Takes a Softer Stance on Games Using AI](#steam-takes-a-softer-stance-on-games-using-ai)
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 * It will be up to players to report illegal AI content in games using a feature in the in-game overlay.
 
  While Steam initially took a cautious approach to publishing games using generative AI, it has now announced guidelines that will see the company "release the vast majority of games that use it". But what do these new rules on AI games mean for gamers?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Steam Takes a Softer Stance on Games Using AI
 
@@ -52,17 +52,21 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
  In addition, games that use live-generated AI content will need to disclose what guardrails will be in place to make sure that the AI is not generating illegal content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Steam's AI Games Policy Could Affect Gamers
 
 ![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While many games use AI systems to make non-playable characters (NPCs) and enemies responsive, generative AI is a newer form of AI that involves generating text, images, video, audio, and even code. To learn more, read[our guide to generative AI](https://www.makeuseof.com/what-is-generative-ai/) .
 
  Steam already has[an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Gamers Will Have More Games to Choose From on Steam
 
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  But with the wide array of capabilities of generative AI, gamers will likely see an increase in the variety of titles on offer. Especially from smaller studios that would be unable to publish games due to their small team size.
 
  We will also likely see developers using generative AI in creative ways, but this is not guaranteed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Gamers May See a Rise in Low-Quality AI Games
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 ![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: g0d4ather/[Shutterstock](https://www.shutterstock.com/image-photo/saransk-russia-january-03-2016-steam-357785195)
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  Considering how often people get around AI guardrails, such as when people use[jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Gamers Will Need to Look Out for AI Disclosures
@@ -131,20 +131,21 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-segmentscreen-examination-for-2024/"><u>[New] SegmentScreen Examination for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-online-video-preservation/"><u>[Updated] The Ultimate Guide to Online Video Preservation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlocking-stream-potential-your-journey-with-obs-youtube-and-twitch/"><u>2024 Approved Unlocking Stream Potential Your Journey with OBS, YouTube, & Twitch</u></a></li>
-<li><a href="https://games-able.techidaily.com/8-day-to-day-strategies-for-circumventing-connections-gaming/"><u>8 Day-to-Day Strategies for Circumventing Connections Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-to-renaming-at-riot-studios/"><u>A Step-by-Step Guide to Renaming at Riot Studios</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-your-arcade-how-to-discover-highest-calibre-apple-titles/"><u>Ace Your Arcade: How to Discover Highest Calibre Apple Titles</u></a></li>
-<li><a href="https://article-files.techidaily.com/converting-social-media-audio-to-personalized-mobile-alerts/"><u>Converting Social Media Audio to Personalized Mobile Alerts</u></a></li>
-<li><a href="https://games-able.techidaily.com/epic-games-unraveling-success-through-helldivers-2/"><u>Epic Games: Unraveling Success Through Helldivers 2</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-c55-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco C55 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-itel-a70-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Itel A70 Phones</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ame-plan-for-thriving-as-a-livestreamer-on-youtube-for-2024/"><u>The Game Plan for Thriving as a Livestreamer on YouTube for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-latest-ps5s-capability-to-support-past-titles/"><u>The Latest PS5's Capability to Support Past Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/tune-trailblazers-discovering-melodies-on-the-move/"><u>Tune Trailblazers: Discovering Melodies on the Move</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-xboxs-game-fairness-system/"><u>Understanding Xbox's Game Fairness System</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/be-profile-pics-templates-available-for-2024/"><u>YouTube Profile Pics Templates Available for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-best-hd-action-recorders-under-100-for-2024/"><u>[New] Best HD Action Recorders Under $100 for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns-for-2024/"><u>[New] Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitching-videos-seamlessly-twitter-and-tumblr-guide/"><u>[Updated] 2024 Approved Twitching Videos Seamlessly Twitter & Tumblr Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-launching-virtual-meetups-in-whatsapp-web-directly-from-your-notebook/"><u>[Updated] In 2024, Launching Virtual Meetups in WhatsApp Web, Directly From Your Notebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-brands-with-language-mastery-techniques/"><u>2024 Approved Transforming Brands with Language Mastery Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-vs-convenience-nintendo-switch-expansion-review/"><u>Cost Vs. Convenience: Nintendo Switch Expansion Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-live-game-with-these-unparalleled-7-bots-for-twitch-enthusiasts/"><u>Elevate Your Live Game With These Unparalleled 7 Bots For Twitch Enthusiasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/facile-et-gratuit-convertissez-votre-mpg-en-mp4-en-temps-reel-sur-movavi/"><u>Facile Et Gratuit : Convertissez Votre MPG en MP4 en Temps Réel Sur Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmony-hunt-top-mobile-music-quizzes/"><u>Harmony Hunt: Top Mobile Music Quizzes</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps-vr2-accessory-showcase-must-haves/"><u>PS VR2 Accessory Showcase: Must-Haves</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/soluzioni-efficaci-per-la-riproduzione-difficoltosa-dei-video-mkv-su-sistemi-operativi-windows-ed-os-x/"><u>Soluzioni Efficaci per La Riproduzione Difficoltosa Dei Video MKV Su Sistemi Operativi Windows Ed OS X</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-long-awaited-revamp-for-family-gaming/"><u>Steam’s Long-Awaited Revamp for Family Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-elgato-stream-deck-models-explained/"><u>Top 5 Elgato Stream Deck Models Explained</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-htc-u23-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for HTC U23 Pro Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/weighing-the-benefits-against-ea-plays-price/"><u>Weighing the Benefits Against EA Play's Price</u></a></li>
 </ul></div>
 

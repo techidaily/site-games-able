@@ -1,7 +1,7 @@
 ---
 title: Revitalizing Retro Gaming With AtlasOS
-date: 2025-01-07T08:05:10.008Z
-updated: 2025-01-10T19:50:33.961Z
+date: 2025-01-12T22:15:40.234Z
+updated: 2025-01-16T21:52:03.740Z
 tags:
   - games
 categories:
@@ -51,14 +51,10 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 3. Download both the**AME Wizard** and**Atlas Playbook** from the next page. For ease of use, make a new folder, and save both files inside it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![AtlasOS Download AME Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-download-ame-wizard.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Before We Continue, Back Up Your Data
 
@@ -77,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![AtlasOS Setup Disable Security Run Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-disable-security-run-action.jpg)
 3. AtlasOS's setup wizard will show you a button,**Open Windows Security** , which you can click to jump to that part of Windows settings quickly.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![AtlasOS Setup Open Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-open-windows-security.jpg)
 4. **Turn off all four types of security measures** on the Windows Security settings page.  
 
@@ -89,23 +81,23 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 
 ![AtlasOS Windows Security is Disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-windows-security-is-disabled.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. AtlasOS is designed for a specific combination of a particular Windows version and some updates, and will inform you if those requirements aren't met. Usually, it will also offer the option to "**Prepare** (the)**System** " according to the conditions required by the loaded Playbook. Click on**Run action** to do that.  
 ![AtlasOS Prepare System Run Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-prepare-system-run-action.jpg)
 2. The setup wizard will start "Preparing (your) system" by installing, removing, or modifying components and settings. Your PC might restart during that part of the process, but apart from that, no user intervention should be required.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![AtlasOS Setup Preparing System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-preparing-system.jpg)
 3. You will also have to**allow** the AME Wizard "**to make changes to your device** " for that part to work.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AtlasOS AME Wizard Beta User Account Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-ame-wizard-beta-user-account-control.jpg)
 4. If the AME Wizard prompts you to do so after that, or it fails, you should manually**download the latest updates** for your version of Windows.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![AtlasOS Setup Next Windows Update Checking for Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-next-windows-update-checking-for-update.jpg)
 5. When, finally, AME Wizard reports that all "**Requirements** (are)**met** ", click on**Next** to proceed to the actual installation.  
@@ -113,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![AtlasOS Setup Requirements Met Next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-requirements-met-next.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Installing AtlasOS
@@ -130,28 +122,36 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![AtlasOS Setup Installing Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-installing-features.jpg)
 4. ...and remove what the loaded Playbook deems "useless fluff", like Microsoft's**OneDrive** cloud storage solution.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AtlasOS Setup Removing OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-removing-onedrive.jpg)
 5. AtlasOS will also "lose" a lot of system packages and turn off many services to "Lighten up" your OS.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![AtlasOS Setup Removing System Packages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-removing-system-packages.jpg)
 6. You'll also be given the option to choose how you deal with**Security Mitigations** . We won't dive into details about them, but you can consider them extra security software patches for older CPUs. If your CPU is newer (released within the last five years), it's (usually) better**not to disable them** . If your CPU is relatively old, by disabling Security Mitigations, you'll be trading reduced security for a boost in performance. It's your choice, but AtlasOS will automatically disable them if you don't answer within 5 minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AtlasOS Setup Security Mitigations Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-security-mitigations-pro.jpg)
 7. When it's mostly done, AtlasOS wizard will inform you that it's "**Finalizing** (the)**configuration** ".  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![AtlasOS Setup Finalizing Configuration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-finalizing-configuration.jpg)
 8. After all steps are complete and all rules in AtlasOS's Playbook are applied, your PC should restart automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![AtlasOS Setup Playbook Complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-playbook-complete.jpg)
 9. Windows might have to perform a reconfiguration during the next startup.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Windows Restart Updating Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-restart-updating-features.jpg)
 
@@ -166,18 +166,18 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![AtlasOS Update Security Unavailable Leads to Troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-update-security-unavailable-leads-to-troubleshoot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can feel the difference compared to a "normal" Windows installation, and it's also apparent if you check the OS's demands on resources.
 
 ![Windows 10 Firefox And Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-10-firefox-and-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In our case, the "vanilla" version of Windows 10 we used before side-grading it to AtlasOS consumed around 8%-10% more resources while idle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Leaner Version of Windows
 
@@ -200,19 +200,20 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-avoiding-common-pitfalls-in-rl-gameplay-recordings/"><u>[New] Avoiding Common Pitfalls in RL Gameplay Recordings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-5-ways-to-transfer-files-to-your-computer/"><u>[Updated] 5 Ways To Transfer Files To Your Computer</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unleash-your-inner-influencer-9-essential-instagram-steps/"><u>[Updated] Unleash Your Inner Influencer 9 Essential Instagram Steps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/after-the-subscription-discontinued-games-fate/"><u>After the Subscription: Discontinued Games' Fate</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easily-access-music-recognition-with-shazam-on-your-iphones-control-panel/"><u>Easily Access Music Recognition with Shazam on Your iPhone's Control Panel</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-definition-showdown-projection-systems-versus-tv-in-4k-world-for-2024/"><u>High-Definition Showdown Projection Systems versus TV in 4K World for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-polling-rates-for-peak-productivity/"><u>Optimal Polling Rates for Peak Productivity?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/securing-a-smooth-display-in-win11/"><u>Securing a Smooth Display in Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/silence-steam-on-boot-process/"><u>Silence Steam On Boot Process</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-selection-of-16-joint-play-console-games/"><u>Superior Selection of 16 Joint Play Console Games</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-smart-8-plus-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Smart 8 Plus Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/unexpected-indie-gems-the-games-that-stood-out/"><u>Unexpected Indie Gems: The Games That Stood Out</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-professional-opinions-best-9-digital-microphone-capture-gear/"><u>[New] 2024 Approved Professional Opinions Best 9 Digital Microphone Capture Gear</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-become-a-social-media-vanguard-top-10-pioneering-igtv-techniques-for-marketing-excellence-for-2024/"><u>[New] Become a Social Media Vanguard Top 10 Pioneering IGTV Techniques for Marketing Excellence for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-5-best-live-streaming-software-for-mac-you-must-know-for-2024/"><u>[Updated] 5 Best Live Streaming Software for Mac You Must Know for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-enhancement-the-art-of-background-blur/"><u>[Updated] YouTube Enhancement The Art of Background Blur</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-budget-no-more-top-5-free-visual-effect-sites/"><u>2024 Approved Budget No More! Top 5 FREE Visual Effect Sites</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/dive-into-the-tiktok-universe-quick-setup-guide-on-macbook/"><u>Dive Into the TikTok Universe Quick Setup Guide on MacBook</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/grit-and-patience-top-5-obdurate-gaming-tests/"><u>Grit and Patience: Top 5 Obdurate Gaming Tests</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-enhancing-roblox-frame-rate-risky/"><u>Is Enhancing Roblox Frame Rate Risky?</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-up-your-playstation-pc-with-game-launchers/"><u>Power Up Your PlayStation PC with Game Launchers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/recensione-completa-dei-migliori-convertitori-video-per-mac-del-periodo-2017-2018/"><u>Recensione Completa Dei Migliori Convertitori Video per Mac Del Periodo 2017-2018</u></a></li>
+<li><a href="https://games-able.techidaily.com/refine-gaming-atmosphere-personalizing-the-xbox-game-bar-for-a-besposkexpenses-windows-pc/"><u>Refine Gaming Atmosphere: Personalizing the Xbox Game Bar for a Besposkexpenses Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/scrutinizing-ea-plays-payment-requirements/"><u>Scrutinizing EA Play's Payment Requirements</u></a></li>
+<li><a href="https://games-able.techidaily.com/unjamming-steams-content-stream-process/"><u>Unjamming Steam's Content Stream Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-cause-of-error-30005-failed-files/"><u>Unraveling the Cause of Error 30005: Failed Files</u></a></li>
 </ul></div>
 

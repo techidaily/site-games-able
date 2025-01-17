@@ -1,7 +1,7 @@
 ---
 title: "Ignite the Passion: Expand on The Fallout Series"
-date: 2025-01-04T18:40:09.293Z
-updated: 2025-01-11T05:31:36.108Z
+date: 2025-01-15T01:09:31.285Z
+updated: 2025-01-17T01:01:00.220Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 3
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 4
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout
@@ -109,19 +109,18 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elite-index-of-public-domain-picture-sources/"><u>[New] In 2024, Elite Index of Public Domain Picture Sources</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-bestiary-of-ios-ps2-game-simulators/"><u>[Updated] 2024 Approved Bestiary of iOS PS2 Game Simulators</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-equipment-starter-guide-for-beginners/"><u>[Updated] YouTube Equipment Starter Guide For Beginners</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieving-an-optimal-steam-inventory-with-simple-steps/"><u>Achieving an Optimal Steam Inventory with Simple Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/advanced-techniques-in-cs2-the-mac-approach/"><u>Advanced Techniques in CS2 - The Mac Approach</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elevate-your-mobile-gaming-experience-a-look-at-the-best-8-on-play-pass/"><u>Elevate Your Mobile Gaming Experience – A Look at the Best 8 on Play Pass</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y78-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y78 5G Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/irksome-quest-five-difficult-games-to-master/"><u>Irksome Quest: Five Difficult Games to Master</u></a></li>
-<li><a href="https://games-able.techidaily.com/more-than-a-series-explore-the-full-fallout-video-game-repertoire/"><u>More than a Series: Explore the Full Fallout Video Game Repertoire</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-titans-must-follow-culinary-creators-online-for-2024/"><u>Taste Titans Must-Follow Culinary Creators Online for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-premier-7-in-mobile-mmo-world/"><u>The Premier 7 in Mobile MMO World</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 11</u></a></li>
-<li><a href="https://win-superb.techidaily.com/yl-softwares-guide-to-risk-free-cryptocurrency-storage-methods/"><u>YL Software's Guide to Risk-Free Cryptocurrency Storage Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-crafting-visual-magic-the-essentials-of-snapchat-photo-editing-for-2024/"><u>[New] Crafting Visual Magic The Essentials of Snapchat Photo Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-leading-free-platforms-for-youtube-openings/"><u>[New] Leading Free Platforms for YouTube Openings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-snap-the-truth-your-manual-to-authenticity-on-instagram/"><u>[Updated] In 2024, Snap the Truth Your Manual to Authenticity on Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfect-your-technique-mastery-of-remote-recording-for-2024/"><u>[Updated] Perfect Your Technique Mastery of Remote Recording for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/directx-enabled-headset-use-on-series-xs/"><u>DirectX Enabled Headset Use on Series X/S</u></a></li>
+<li><a href="https://win-bits.techidaily.com/drei-methoden-zum-austausch-von-nutzerdaten-zwischen-windows-versionen-10-und-11/"><u>Drei Methoden Zum Austausch Von Nutzerdaten Zwischen Windows-Versionen 10 Und 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-blank-display-of-startup-items/"><u>Eradicating Blank Display of Startup Items</u></a></li>
+<li><a href="https://games-able.techidaily.com/establishing-your-ps5s-defense-creating-strong-passwords/"><u>Establishing Your PS5's Defense: Creating Strong Passwords</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/oled-gaming-tech-why-i-made-the-switch-in-2-years/"><u>OLED Gaming Tech: Why I Made the Switch in 2 Years.</u></a></li>
+<li><a href="https://games-able.techidaily.com/prepare-for-fun-dive-into-chatgpts-favorite-6-games/"><u>Prepare For Fun: Dive Into ChatGPT’s Favorite 6 Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-running-the-command-prompt-with-admin-privileges-on-windows-11/"><u>Step-by-Step Guide: Running the Command Prompt with Admin Privileges on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-google-play-pass-shines-almost-perfectly/"><u>Why Google Play Pass Shines, Almost Perfectly</u></a></li>
 </ul></div>
 

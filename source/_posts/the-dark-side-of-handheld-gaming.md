@@ -1,7 +1,7 @@
 ---
 title: The Dark Side of Handheld Gaming
-date: 2024-08-15T17:27:45.861Z
-updated: 2024-08-16T17:27:45.861Z
+date: 2025-01-14T16:33:48.379Z
+updated: 2025-01-16T21:35:02.960Z
 tags:
   - games
 categories:
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
  But the problem with the freemium model is that it's not suitable for making big-budget console-level games. It's too risky for developers to invest so much time and money creating a high-end mobile game, in the vain hope that people might pay for it later... after playing it for free.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. App Store Algorithms Only Favor Top Charts
 
  We can place part of the blame for mobile gaming being so lacking on how app stores organize their directories. To give you some perspective, according to another[Statista report](https://www.statista.com/statistics/266210/number-of-available-applications-in-the-google-play-store/) there are roughly 2.6 million apps on the Google Play Store and almost 2 million apps on the Apple App Store.
@@ -43,11 +44,19 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
 ![App Store closeup on iPhone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/App-Store-closeup-on-iPhone-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This means if you're a game developer—especially a new one—the chances of your game succeeding are very low. Forget standing out from the sea of apps. It's a miracle if you even get discovered. And app stores do little to help new developers get seen.
 
  When searching for an app, most people just pick one from the items at the top of the list. And because of this, winners keep winning and losers keep losing.
 
  There is no real incentive for app stores to support developers other than the ones who are earning them the most revenue. This discourages new developers from taking on the risk of creating better mobile games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Low Consumer Expectations
 
@@ -65,19 +74,21 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
  As cruel as some negative reviews can be, they are helpful for spotting errors. For mobile games, that level of passion and commitment simply doesn't exist.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Poor Touchscreen Controls
 
 ![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unless you buy a dedicated gaming phone with shoulder buttons (such as the[Black Shark 4 we reviewed](https://www.makeuseof.com/black-shark-4-review/) ), regular smartphones simply can't compete with the likes of a console controller. All the controls of a mobile game have to be crammed inside the very limited screen estate of the device.
 
  Given this limitation, those controls often end up being either painfully small or so big that they interrupt gameplay—leading to a poor gaming experience. To counter this, devs have to spend additional resources coming up with new ways to make the controls feel seamless.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Lack of Storage to Dedicate to Games
 
@@ -85,15 +96,9 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
  However, because a higher storage space also means a higher price, the only phones that can take advantage of this are flagships. And since most smartphones sales aren't flagships but budget and mid-range phones, the advantage of higher storage space becomes redundant.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Lack of Standardized Platforms
 
 ![how to use share play on ps5 playstation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/how-to-use-share-play-on-ps5-playstation-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  Unlike standardized consoles such as PlayStation and Xbox, smartphones come in all shapes, sizes, and configurations. This is true even more so for Android phones than iPhones.
 
@@ -113,23 +118,17 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
  Granted, watching in-game ads is a good way to[support mobile game developers without buying in-game items](https://www.makeuseof.com/support-game-developers-without-microtransactions/) , but their frequency matters a lot especially if you're planning to play that game for a long time.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mobile Gaming Could Be So Much More
 
  Mobile gaming has so much potential, and yet, we're exploiting so little of it. Compared to all the other advancements in the tech world, it's surprising how far behind mobile gaming still is when put side-by-side with console gaming.
 
  Out of all companies, Apple has the most to gain if mobile gaming booms given its obvious advantage over Android. And yet, low-immersion games like Candy Crush and Temple Run dominate the app stores. Many still treat mobile gaming as merely a way to pass time, not as an acclaimed hobby or profession.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +137,24 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-best-in-business-4k-cameras-our-leading-choices-18/"><u>[New] 2024 Approved Best in Business 4K Cameras Our Leading Choices (18)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-bringing-dimensions-to-life-the-1-list-of-pcs-top-vr-360-players-for-2024/"><u>[New] Bringing Dimensions to Life The #1 List of PC's Top VR 360 Players for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-mp4-reviews-essential-guidebook/"><u>[New] In 2024, Best MP4 Reviews – Essential Guidebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-exclusive-access-to-facebook-beats/"><u>[Updated] 2024 Approved Exclusive Access to Facebook Beats</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-clear-sound-conference-experience-via-skype/"><u>[Updated] Clear Sound Conference Experience via Skype</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ultimate-guide-to-quality-captures/"><u>[Updated] In 2024, Ultimate Guide to Quality Captures</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-leading-ddr5-motherboards-unveiled/"><u>2024'S Leading DDR5 Motherboards Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-most-stylish-and-functional-switch-accessories/"><u>2024'S Most Stylish and Functional Switch Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-on-selecting-a-portable-games-system-that-suits-you-best/"><u>A Guide on Selecting a Portable Games System that Suits You Best</u></a></li>
+<li><a href="https://games-able.techidaily.com/accessible-xbox-game-pass-playthroughs-using-glossi-and-steam/"><u>Accessible Xbox Game Pass Playthroughs Using GlosSI & Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-order-problems-quickly-on-steam/"><u>Addressing Order Problems Quickly on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/amd-introduces-fsr-3-potential-contender-or-nvidias-loss-leader/"><u>AMD Introduces FSR 3: Potential Contender or NVIDIA's Loss Leader?</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-scenes-of-twitch-live-broadcast-fundamentals/"><u>Behind the Scenes of Twitch: Live Broadcast Fundamentals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-does-the-echo-pop-stand-out-from-the-echo-dot/"><u>How Does the Echo Pop Stand Out From the Echo Dot?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unveil-top-10plus-platforms-for-virtual-worship-spaces/"><u>In 2024, Unveil Top 10+ Platforms for Virtual Worship Spaces</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mac-audio-lab-a-comprehensive-guide-for-2024/"><u>Mac Audio Lab A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170987857-top-3-nintendo-switch-multi-streamer-options/"><u>Top 3 Nintendo Switch: Multi-Streamer Options</u></a></li>
+</ul></div>
 

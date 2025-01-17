@@ -1,7 +1,7 @@
 ---
 title: "Steam's Big Leap: Overhauling Family Sharing for a Decade"
-date: 2025-01-03T17:11:27.308Z
-updated: 2025-01-10T16:53:19.059Z
+date: 2025-01-10T23:53:56.362Z
+updated: 2025-01-16T19:57:35.507Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -37,16 +37,12 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  Between Family Sharing and Family View on Steam, the game sharing features of the platform have historically been a bit difficult to manage. However, an update makes family sharing more streamlined and easier to use.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Steam Families: What Has Changed? How Does It Work?
 
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
@@ -70,19 +66,23 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
 ![Steam Family section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-section-in-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
  If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Pros and Cons of Steam Families
@@ -122,17 +122,18 @@ Some of the drawbacks of the feature include:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-introduce-circular-smoothing-transition-via-adobe-photoshop/"><u>[New] In 2024, Introduce Circular Smoothing Transition via Adobe Photoshop</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-why-are-my-photo-booth-videos-pausing/"><u>[New] Why Are My Photo Booth Videos Pausing?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-revitalizing-a-frozen-obs-video-source-feed/"><u>[Updated] 2024 Approved Revitalizing a Frozen OBS Video Source Feed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-rapidrecord-fullscreen-feature/"><u>[Updated] In 2024, RapidRecord Fullscreen Feature</u></a></li>
-<li><a href="https://games-able.techidaily.com/assessing-quicker-resume-usage-in-xbox-series-gaming/"><u>Assessing Quicker Résumé Usage in Xbox Series Gaming</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 12 mini</u></a></li>
-<li><a href="https://games-able.techidaily.com/investing-in-style-reaping-gameplay-rewards/"><u>Investing in Style, Reaping Gameplay Rewards</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-cs2-strategies-for-mac-users/"><u>Navigating CS2: Strategies for Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/real-time-gaming-footage-extraction-made-effortless/"><u>Real-Time Gaming Footage Extraction Made Effortless</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-tablets-comprehensive-reviews-and-testing-by-tech-experts-zdnet/"><u>Top Rated Tablets : Comprehensive Reviews & Testing by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266329761-top-tools-for-wiping-private-data-from-your-iphone-protect-your-privacy-now/"><u>Top Tools for Wiping Private Data From Your iPhone - Protect Your Privacy Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-hidden-gems-of-high-quality-discords/"><u>Unveiling the Hidden Gems of High-Quality Discords</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-initial-visual-journey-review-with-additional-paths/"><u>[New] 2024 Approved Initial Visual Journey Review with Additional Paths</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-methodical-guide-to-unmute-your-social-network-videos/"><u>[Updated] 2024 Approved Methodical Guide to Unmute Your Social Network Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-quick-fixes-how-to-screen-record-your-google-chats-for-2024/"><u>[Updated] Quick Fixes How to Screen Record Your GooGle Chats for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976240917-amd-ryzen-5-2400g-driver-update-made-easy-fast-downloads-and-setup/"><u>AMD Ryzen 5 2400G Driver Update Made Easy – Fast Downloads and Setup!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-gain-access-and-fix-the-permission-denied-for-fortnite-issue/"><u>How to Gain Access and Fix the 'Permission Denied for Fortnite' Issue</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-7-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 7 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-oversights-how-to-avoid-mistakes-in-purchasing-a-monitor/"><u>Key Oversights: How to Avoid Mistakes in Purchasing a Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/pick-your-performance-the-battle-between-mini-and-desktop-pcs/"><u>Pick Your Performance: The Battle Between Mini & Desktop PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-fresh-up-your-windows-with-updated-canon-pixma-mx490-driver-software/"><u>Step-by-Step Tutorial: Fresh Up Your Windows with Updated Canon PIXMA MX490 Driver Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackle-turbulent-titles-transition-time/"><u>Tackle Turbulent Titles Transition Time</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/theta-sc2-review-smaller-size-bigger-impact/"><u>Theta SC2 Review: Smaller Size, Bigger Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-apple-arcade-bests-with-these-tips/"><u>Uncover Apple Arcade Bests with These Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Helldivers 2: The Ultimate Guide to Designing Engaging, Epic Games"
-date: 2025-01-08T02:33:37.190Z
-updated: 2025-01-11T07:34:14.704Z
+date: 2025-01-14T20:36:28.148Z
+updated: 2025-01-17T00:59:32.109Z
 tags:
   - games
 categories:
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 ![Screenshot of Helldivers 2 Super Earth public service announcement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0416461.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Helldivers 2 is a third-person shooter live service game where players become Helldivers fighting for Super Earth. Players join teammates in missions on different planets across the universe to eradicate Terminids (bug-like alien life forms) and Automatons (robots). Helldivers harvest valuable resources from planets that are home to Terminids and Automatons.
@@ -58,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ![Screenshot of Helldivers 2 Warbond menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415451.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Have A Strong Social Media Presence
 
@@ -84,26 +84,26 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ![Screenshot of Helldivers 2 Acquisition Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415430.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Players can find Super Credits, which unlock new monthly Warbonds and cosmetics, across missions at random points on the map. Super Credits are also available for purchase in the game store. Medals can be obtained by completing Major Orders or finding stashes during missions. You can also earn medals by completing missions. The higher the difficulty level of the mission, the more medals players unlock upon completion.
 
 ![Screenshot of Helldivers 2 Super Credits store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415072.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There are also samples scattered across each mission depending on the difficulty level. Players can trade in these samples to upgrade their ships and stratagems, which are mission call-ins and weapons, such as airstrikes and turrets. Finally, requisition slips pop up, which players earn by completing missions or locating points of interest on the map, which unlock new stratagems.
 
 ![Screenshot of Helldivers 2 strategem menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415051.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are plenty of other[live service games that are not pay-to-win](https://www.makeuseof.com/live-service-games-that-arent-pay-to-win/) , as well, including Fortnite and Smite.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 Balance Gameplay Mechanics
@@ -133,24 +133,22 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-bending-words-altering-text-images-for-2024/"><u>[New] Bending Words Altering Text Images for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hp-envy-27-leading-edge-4k-monitor-review/"><u>[Updated] HP Envy 27 Leading Edge 4K Monitor Review</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtubes-video-editor-essential-tips-and-tricks/"><u>[Updated] Mastering YouTube's Video Editor Essential Tips and Tricks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sky-high-explorations-made-simple-a-compreenasive-review-of-dji-sparks-miniature-drone-design/"><u>[Updated] Sky High Explorations Made Simple A Compreenasive Review of DJI Spark's Miniature Drone Design</u></a></li>
-<li><a href="https://games-able.techidaily.com/barely-safe-the-risky-overclock-saga/"><u>Barely Safe: The Risky Overclock Saga</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breaking-down-nft-development-simplicity/"><u>Breaking Down NFT Development Simplicity</u></a></li>
-<li><a href="https://games-able.techidaily.com/classic-game-play-upgraded-for-the-modern-era/"><u>Classic Game Play, Upgraded for the Modern Era</u></a></li>
-<li><a href="https://games-able.techidaily.com/connecting-retro-nintendo-games/"><u>Connecting Retro Nintendo Games</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversion-gratuit-de-fichiers-3gp-en-flv-a-distance-guide-pratique-et-efficace-par-movavi/"><u>Conversion Gratuit De Fichiers 3GP en FLV À Distance - Guide Pratique Et Efficace Par Movavi</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138544616-9781547545773-guia-de-treinamento-das-caracteristicas-da-empatia-para/"><u>Guia de Treinamento das Características da Empatia para | Free Book</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oneplus-nord-3-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked OnePlus Nord 3 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/level-up-with-pc-games-the-switch-advantages/"><u>Level Up with PC Games: The Switch Advantages</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-twitch-blockunblock-guests/"><u>Mastering Twitch: Block/Unblock Guests</u></a></li>
-<li><a href="https://games-able.techidaily.com/spotting-pc-performance-throttling-by-cpu/"><u>Spotting PC Performance Throttling by CPU</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-insiders-guide-getting-your-steam-purchase-back/"><u>The Insider's Guide: Getting Your Steam Purchase Back</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-quick-fix-manual-to-overcome-4-common-gpu-setbacks/"><u>The Quick Fix Manual to Overcome 4 Common GPU Setbacks</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-strategies-for-restarting-nonfunctional-steam/"><u>Top Strategies for Restarting Nonfunctional Steam</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshoot-youtube-stuttering-with-easy-and-free-techniques/"><u>Troubleshoot YouTube Stuttering with Easy & Free Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-effective-tricks-for-youtube-subscriber-surges-for-2024/"><u>[New] 5 Effective Tricks for YouTube Subscriber Surges for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/androids-photography-hub-is-pickup-at-the-top-of-its-class-in-2024/"><u>Android's Photography Hub Is PickUp at the Top of Its Class, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ceo-change-at-openai-what-about-gpt/"><u>CEO Change at OpenAI - What About GPT?</u></a></li>
+<li><a href="https://games-able.techidaily.com/compile-of-engaging-games-for-universal-player-partnerships/"><u>Compile of Engaging Games for Universal Player Partnerships</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-discords-idle-signal-fact-or-fiction/"><u>Deciphering Discord's 'Idle' Signal - Fact or Fiction?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/exploring-leading-tools-discover-the-top-9-free-brand-designers/"><u>Exploring Leading Tools Discover the Top 9 FREE Brand Designers</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-world-warfare-ps5-vs-inexpensive-pc-gamers/"><u>Game World Warfare: PS5 V/S Inexpensive PC Gamers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-redmi-note-12-proplus-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi Redmi Note 12 Pro+ 5G Through Google Earth?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/max-out-savings-with-xbox-series-xs-promos/"><u>Max Out Savings with Xbox Series X|S Promos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimized-media-playback-on-ps4-say-goodbye-to-lag-issues/"><u>Optimized Media Playback on PS4 - Say Goodbye to Lag Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-unlock-games-locked-in-windows-steam/"><u>Strategies to Unlock Games Locked in Windows Steam</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-dot-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .dot file documents online</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quick-lifecycle-of-game-servers-to-care-or-not/"><u>The Quick Lifecycle of Game Servers: To Care or Not?</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-experience-a-comprehensive-guide-for-steam-play-on-meta-quest-xbox-series-s/"><u>Transform Your Gaming Experience: A Comprehensive Guide for Steam Play on Meta Quest Xbox Series S</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-personalized-steam-login-number/"><u>Unraveling Personalized Steam Login Number</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zero-cost-ebook-info-enhancer-a-comprehensive-metadata-editor-for-epub-files/"><u>Zero Cost eBook Info Enhancer: A Comprehensive Metadata Editor for ePUB Files</u></a></li>
 </ul></div>
 

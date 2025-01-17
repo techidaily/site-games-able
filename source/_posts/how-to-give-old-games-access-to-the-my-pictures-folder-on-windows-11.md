@@ -1,7 +1,7 @@
 ---
 title: How to Give Old Games Access to the My Pictures Folder on Windows 11
-date: 2024-08-15T17:27:28.618Z
-updated: 2024-08-16T17:27:28.618Z
+date: 2025-01-14T20:21:23.641Z
+updated: 2025-01-16T20:57:30.557Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  Let's look at how to fix this issue and get your old games properly reading the My Pictures folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't Some Older Games Read the "My Picture" Folder?
 
 ![screenshot of the my pictures folder highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_highlighted.jpg)
@@ -29,17 +33,15 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 ## How to Give Read Access Rights for Older Games
 
 ![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  The easiest way to enable older games to read the My Pictures folder is to grant global read permissions to this folder. This is a similar process to[solving "Access Denied" folder errors in Windows](https://www.makeuseof.com/tag/fix-access-denied-folders-windows-10/) .
 
  Start by right-clicking the My Pictures folder and hitting**Properties.** Then open the**Security** tab and click**Advanced.**
 
 ![screenshot of advanced security settings selecting principal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_advanced_security_settings_select_principal.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hit**Select a principal** , which will open yet another window. In this new window, underneath**Enter the object name to select** , type in**Everyone** and hit**Check Names.**
@@ -48,54 +50,51 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  Ensure this is selected and then hit**OK** again. You can now close out all of these security windows, boot up your game, and see if this fix has worked.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I Grant Read Access to Other User Folders?
 
 ![screenshot of all the user folders highlighted in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_all_user_folders_highlighted.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should be careful which folders you provide full read rights to. While it's unlikely the old game you're trying to play will do anything untoward to your folders, it can be risky granting full read rights to anything on your computer.
 
  Certain games may try to read information from your My Documents folder as well, so it's worth trying this fix on that folder if it's needed. Otherwise, use this fix sparingly. It might even be a good idea to remove these access rights once you're done.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## New Fixes for Old Games on Windows
 
  Windows 11 has been steadily getting better at maintaining compatibility with older software, but it's no surprise that it can't cover every edge case.
 
  With a few simple security adjustments, you can at least get your old games reading the folders they're supposed to.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## FAQ
 
 ### Q: How Do I Get Old Games to Work on Windows 11?
 
  There are a few ways to make your old games work with your Windows 11 operating system. One way is to run your games in Windows' compatibility mode. This lets you choose the Windows version you want to run your game in. Second way is to use an emulator that lets you play old games on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Q: Does Windows 11 Work With All Games?
 
  Windows 11 is similar to Windows 10, so most of your games compatible with Windows 10 should run just fine on your Windows 11 computer. If a game fails to work on your PC, you can use your PC's compatibility mode to make the game run in an older version of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: Does Windows 11 Delete Games?
 
  Windows 11 doesn't delete your games if you choose to preserve your files when you upgrade from an earlier version of Windows. If you find a game missing, you can always reinstall it on your upgraded system.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +103,23 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-scene-to-video-canons-pathway-to-timelapse-excellence/"><u>[New] From Scene to Video Canon's Pathway to Timelapse Excellence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-initiate-flawless-zoom-sessions-today/"><u>[Updated] Initiate Flawless Zoom Sessions Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-tutorial-for-ps4ps5-to-nintendo-switch-connections/"><u>A Tutorial for PS4/PS5 to Nintendo Switch Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-the-online-setup-for-switch-games/"><u>Ace the Online Setup for Switch Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-refresh-tech-in-gaming-displays-at-240hz/"><u>Advanced Refresh Tech in Gaming Displays at 240Hz</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-visual-performance-excellence/"><u>Affordable Visual Performance Excellence</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-linkedin-games-truly-beneficial-think-again/"><u>Are LinkedIn Games Truly Beneficial? Think Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/bedrock-to-java-networking-with-geysermc/"><u>Bedrock to Java Networking with GeyserMC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-seamlessly-moving-videos-from-your-macbook-to-an-iphone-xsxr/"><u>Guide: Seamlessly Moving Videos From Your Macbook to an iPhone XS/XR</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719158739791-my-journey-with-an-oled-display-the-ultimate-gaming-setup/"><u>My Journey with an OLED Display - The Ultimate Gaming Setup.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-shutdown-time-for-running-tasks/"><u>Optimizing Windows 11 Shutdown Time for Running Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-for-windows-11-computer-system-oversight/"><u>Swift Solutions for Windows 11 Computer System Oversight</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-instagram-insiders-guide-to-dynamic-story-quizzes/"><u>The Instagram Insider's Guide to Dynamic Story Quizzes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-routine-for-accessing-and-playing-fb-videos-via-apple-tv-for-2024/"><u>The Ultimate Routine for Accessing and Playing FB Videos via Apple TV for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unplugged-surfing-expert-tips-for-ditching-cables-and-phones-for-online-access/"><u>Unplugged Surfing: Expert Tips for Ditching Cables & Phones for Online Access</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the Experience with AM08 Pro a True Representation of Magic?
-date: 2024-08-15T17:25:09.527Z
-updated: 2024-08-16T17:25:09.527Z
+date: 2025-01-14T22:54:45.095Z
+updated: 2025-01-16T23:36:50.945Z
 tags:
   - games
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
 ## Is the Experience with AM08 Pro a True Representation of Magic?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The AM08 Pro is a compact and affordable gaming PC that is suitable for casual gamers and teenagers looking for a powerful and reasonably priced gaming option.
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
  It sounds unlikely, but such hardware is now available. While desktop GPUs have grown, motherboards have shrunk. The result is something like this: the AceMagic AM08 Pro, a gaming PC smaller than most laptops.
 
 ![ACEMAGIC AM08 Pro LEDs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-leds-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### ACEMAGICIAN ACEMAGIC AM08 Pro
 
@@ -86,9 +94,6 @@ Wi-Fi 6E, Bluetooth 5.2
 But what is in that box?
 
 ![ACEMAGIC AM08 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-vents.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You get the PC, measuring 5.89 x 3.06 x 7.42 inches (weighing 863 grams, or 30oz), a mains power adapter, power cable, HDMI cable, and a quick start guide. Unsurprisingly, you’ll need to provide your own keyboard and mouse and any other peripherals or input devices.
 
@@ -105,9 +110,6 @@ But what is in that box?
 So who would want an AceMagic AM08 Pro?
 
 ![ACEMAGIC AM08 Pro in bedroom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-bedroom.JPG)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
   I’ll tell you: teens. More specifically, teenagers who want an upgradeable system for gaming (unlike a laptop). Kids over 12 that are looking for a system that has the space and processing power to handle 4K video authoring.
 
@@ -121,13 +123,18 @@ So who would want an AceMagic AM08 Pro?
 
 ![HDMI and Ethernet ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-rear-ports-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Up to three 4K displays can be connected to this computer. Dual HDMI ports are mounted on the device, along with a USB 4.0 Type-C port. This handles other data besides display output.
 
  In addition, the power button is mounted on a fan performance selector rocker switch. Affording control over the high-performance dual fans, this switches between Low, Normal, and Performance, with the middle option the default.
 
 ![ACEMAGIC AM08 Pro LEDs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-leds-1.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows 11 Pro is preinstalled, and the computer comes with AceMagic's 30-day refund and return and a 3-year warranty.
@@ -136,6 +143,10 @@ So who would want an AceMagic AM08 Pro?
 
 Perhaps most surprisingly, this unit is expandable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You Can Upgrade the AceMagic AM08 Pro
 
  The right-hand side of the AM08 Pro (as viewed from the front) is secured only by magnets. Enabling easy access to the RAM and storage media, the side plate is simple to remove and replace, eschewing thumbscrews.
@@ -143,9 +154,6 @@ Perhaps most surprisingly, this unit is expandable.
  You'll find an empty SATA port for a 2.5-inch storage device inside. Beneath this is the M.2 storage, while positioned higher in the case are the dual RAM sticks. All of these items can be removed and upgraded with relative ease.
 
 ![ACEMAGIC AM08 Pro expansion ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-ports.JPG)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Admittedly, these are laptop-style upgrades, but they’re upgrades nevertheless. It’s enough to give this machine a bit of longevity.
 
@@ -168,9 +176,6 @@ Perhaps most surprisingly, this unit is expandable.
 
  Most importantly, our 12-year-old is seriously impressed, to the extent that he wants to keep it. I’d say that was a pretty good point in the AceMagic AM08 Pro’s favor.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## What About PC Tasks That Aren’t Games?
 
  Something as small and relatively cheap as the AM08 Pro is likely to attract attention as a gift. With Windows 11 Pro preinstalled, it is ready-made for media production, and suitable for everything from homework to online shopping.
@@ -183,9 +188,6 @@ But how does this work out in practice?
 
  It should be no surprise to read that it handled them all perfectly. But then, all it has done throughout this review is surprise. Sure, it is a tiny computer, but it appears to be just as capable as any standard PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## No, It’s Not a Gaming PC, But It'll Do
 
  By this point, you’re probably thinking one of two things: “There's no way that’s really a gaming PC” or “Wow, a gaming PC for $500!”.
@@ -193,15 +195,13 @@ But how does this work out in practice?
  Both opinions are right. If you’re a hardcore gamer, this system—LEDs aside—is not for you. It’s baseline stuff; cooling control is useful but nothing hardcore, and you won’t be able to push this system to extremes. You need a totally different setup, let’s be honest.
 
 ![ACEMAGIC AM08 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-vents-1.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But if you’re new to gaming and found a standard laptop doesn’t do the job, then the AceMagic AM08 Pro will blow your mind. It produces excellent results with recent games, and while you may need to dial back the graphics quality for newer titles, it can still cope.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## An Entry Level Gaming PC Ideal for Teens
 
  When I was first asked to review the AceMagic AM08 Pro, I was naturally dubious about its billing.
@@ -222,14 +222,11 @@ But how does this work out in practice?
 
 [See at AceMagic](https://www.acemagic.com/collections/gaming-mini-pc/products/ace-am08-pro-amd-ryzen-9%E2%84%A2-6900hx)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -238,4 +235,23 @@ But how does this work out in practice?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-expert-picks-top-6-fb-lite-extractors/"><u>[New] Expert Picks Top 6 FB Lite Extractors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-face-the-future-with-elite-iphone-and-android-modifiers/"><u>[New] Face the Future with Elite iPhone & Android Modifiers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-lenovo-screenshots-made-quickly-and-easy/"><u>[New] In 2024, Lenovo Screenshots Made Quickly and Easy</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-motion-picture-descriptive-creator/"><u>[New] In 2024, Motion Picture Descriptive Creator</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-proiphone-close-up-techniques-unlocking-creative-vision/"><u>[New] Proiphone Close-Up Techniques Unlocking Creative Vision</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-watch-facebook-videos-on-my-apple-tv-for-2024/"><u>[Updated] How to Watch Facebook Videos on My Apple TV for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-nvidia-g-sync-a-revolution-in-visual-fidelity/"><u>Breaking Down Nvidia G-Sync: A Revolution in Visual Fidelity</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-high-speed-monitors-elevate-your-play/"><u>Budget-Friendly High-Speed Monitors Elevate Your Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-the-no-signal-barrier-in-pokemon-gos-world-exploration/"><u>Bypassing the No Signal Barrier in Pokémon Go's World Exploration</u></a></li>
+<li><a href="https://games-able.techidaily.com/captivate-audiences-showcasing-xbox-playthroughs-on-discord/"><u>Captivate Audiences: Showcasing Xbox Playthroughs on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/case-studies-highlighting-successful-map-designs-that-effectively-integrate-functional-mapping-elements-with-aesthetic-considerations-eg-signage-in-public-s4/"><u>Case Studies Highlighting Successful Map Designs that Effectively Integrate Functional Mapping Elements with Aesthetic Considerations (E.g., Signage in Public Spaces)</u></a></li>
+<li><a href="https://games-able.techidaily.com/channeling-fun-with-board-and-card-games-in-discord-space/"><u>Channeling Fun with Board and Card Games in Discord Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-and-robust-exploring-best-2024-tech-case-options/"><u>Compact & Robust: Exploring Best 2024 Tech Case Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snapdragon-x-cpu-takes-the-lead-in-latest-geekbench-6-testing-marking-65-performance-milestone/"><u>Snapdragon X CPU Takes the Lead in Latest Geekbench 6 Testing, Marking 6.5% Performance Milestone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-guide-to-choosing-your-best-anker-usb-30-hub-features-and-reviews/"><u>The Definitive Guide to Choosing Your Best Anker USB 3.0 Hub: Features & Reviews</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-go-to-list-of-international-adventure-vids-for-2024/"><u>Your Go-To List of International Adventure Vids for 2024</u></a></li>
+</ul></div>
 

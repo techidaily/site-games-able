@@ -1,7 +1,7 @@
 ---
 title: Making the Most of Fortnite on Your Mac, But Carefully
-date: 2025-01-03T20:37:36.152Z
-updated: 2025-01-10T22:11:07.642Z
+date: 2025-01-10T01:21:09.060Z
+updated: 2025-01-16T21:23:56.006Z
 tags:
   - games
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 * [Why Installing Fortnite on Your Mac Is a Bad Idea](#why-installing-fortnite-on-your-mac-is-a-bad-idea)
 * [How to Play the Latest Version of Fortnite on Your Mac](#how-to-play-the-latest-version-of-fortnite-on-your-mac)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can install Fortnite on your Mac using the Epic Games Launcher, but it will be an outdated version.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 * Xbox Cloud Gaming lets you play the latest version of Fortnite on your Mac via a web browser, but you'll need a good internet connection and a controller.
 
  While you can use the Epic Games Launcher to play Fortnite on your Mac natively, it has its fair share of downsides. We'll discuss all about it and teach you how to play the latest version of Fortnite on your Mac.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Get Fortnite on Your Mac
 
@@ -52,10 +52,6 @@ Follow these steps to get Fortnite on your Mac:
 
 ![Fortnite's Epic Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fortnite-s-epic-store-page.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Installing Fortnite on Your Mac Is a Bad Idea
 
  While Fortnite will likely boot and run smoothly on most recent Macs,[the Epic Games vs. Apple lawsuit](https://www.makeuseof.com/epic-games-apple-lawsuit-explained/) has marred the Fortnite experience on macOS because the developer has refused to update its game.
@@ -65,7 +61,7 @@ Follow these steps to get Fortnite on your Mac:
 ![Almost empty outfit section in Fortnite Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/almost-empty-outfit-section-in-fortnite-locker.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Epic Games has also blocked access to V-Bucks and the Item Shop. So, you can't buy new skins, emotes, gifts, back blings, or any other cosmetic items. And if you bought any on another device running a more recent version of Fortnite, you won't see it in your inventory.
@@ -82,18 +78,22 @@ Follow these steps to get Fortnite on your Mac:
 ![Fortnite's Xbox Cloud Gaming page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-32-25-pm.png)
 2. Click**Sign In** and enter your Microsoft account credentials.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. After signing in, click**Play** ​​​​​​. You'll need a controller to play Fortnite.  
 ![Fortnite Xbox Cloud Gaming page with Play button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-35-35-pm.png)
 4. Link your Epic Games and Microsoft accounts by following the instructions in Fortnite.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Fortnite on browser asking to link accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-39-07-pm.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you're done with that, you should be ready to play Fortnite over the cloud. But ensure you have a fast and stable internet connection. Using a slow network means you'll have to log in again frequently.
@@ -119,16 +119,24 @@ Follow these steps to get Fortnite on your Mac:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-streamline-your-channels-customized-end-screen-templates/"><u>[New] 2024 Approved Streamline Your Channels Customized End Screen Templates</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-finding-your-perfect-match/"><u>Comprehensive Guide: Finding Your Perfect Match!</u></a></li>
-<li><a href="https://games-able.techidaily.com/examining-xbox-encasements/"><u>Examining Xbox Encasements</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-6s-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 6s & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-motorola-moto-g24-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Motorola Moto G24 and stops randomly</u></a></li>
-<li><a href="https://games-able.techidaily.com/reversing-windows-gpu-hang-addressing-error-code-0x887a0006/"><u>Reversing Window's GPU Hang: Addressing Error Code 0X887A0006</u></a></li>
-<li><a href="https://extra-support.techidaily.com/rhythm-discoverers-toolkit-all-free-and-online-for-2024/"><u>Rhythm Discoverer’s Toolkit – All FREE & Online for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-your-ultimate-marvel-gaming-experience-now/"><u>Secure Your Ultimate Marvel Gaming Experience Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/sony-playstation-handheld-demystified/"><u>Sony PlayStation Handheld Demystified</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-collection-of-nintendo-switch-cartridge-cases/"><u>Ultimate Collection of Nintendo Switch Cartridge Cases</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-proberen-gegeven-herstellen-on-iphone-comprehensive-guide/"><u>Understanding 'Proberen Gegeven Herstellen' On iPhone - Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-etsy-listing-image-ratio-advice/"><u>[New] 2024 Approved Etsy Listing Image Ratio Advice</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-streamlining-your-site-facebook-live-integration-guide/"><u>[New] 2024 Approved Streamlining Your Site Facebook LIVE Integration Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/onvenient-techniques-for-customizing-your-own-short-videos-for-2024/"><u>[New] Convenient Techniques for Customizing Your Own Short Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagrams-secret-fine-tuning-fcpx-for-high-aspect-videos/"><u>[New] In 2024, Instagram's Secret Fine-Tuning FCPX for High Aspect Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-vanguard-firefox-recording-enhancements-for-2024/"><u>[Updated] Vanguard Firefox Recording Enhancements for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-tripping-up-heres-how-to-avoid-it/"><u>2024 Approved Tripping Up? Here's How to Avoid It!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquering-iphone-x-woes-a-comprehensive-fix-for-seven-common-issues/"><u>Conquering iPhone X Woes: A Comprehensive Fix for Seven Common Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/debugging-techniques-for-roblox-error-262/"><u>Debugging Techniques for Roblox Error 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/echobox-portable-8-bit-flair-on-a-sleeve/"><u>EchoBox Portable: 8-Bit Flair on a Sleeve</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-networking-for-epic-games-and-steam-connection/"><u>Expert Networking for Epic Games & Steam Connection</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-f34-5g-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy F34 5G Lock Screen Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-the-full-version-of-baldurs-gate-3-on-an-m1-or-m2-mac-using-crossover/"><u>How to Play the Full Version of Baldur’s Gate 3 on an M1 or M2 Mac Using CrossOver</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-x7b-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor X7b by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-refunds-fortnite-purchase-fiasco/"><u>Navigating the Refunds: Fortnite Purchase Fiasco</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-smart-play-hard-navigating-macs-fortnite-terrain/"><u>Play Smart, Play Hard: Navigating Mac's Fortnite Terrain</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-technique-for-enabling-ps5-password-lock/"><u>The Essential Technique for Enabling PS5 Password Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-streamers-pathway-embracing-twitch-app-mobile/"><u>The Streamer's Pathway - Embracing Twitch App (Mobile)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gamers-guide-to-choosing-their-perfect-keyboard/"><u>The Ultimate Gamer's Guide to Choosing Their Perfect Keyboard</u></a></li>
 </ul></div>
 

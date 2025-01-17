@@ -1,7 +1,7 @@
 ---
 title: Optimized Airflow for Enhanced GPU Performance & Thermal Control
-date: 2025-01-05T08:09:52.260Z
-updated: 2025-01-11T08:51:52.986Z
+date: 2025-01-13T21:52:52.245Z
+updated: 2025-01-16T17:51:12.736Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 ![1080 Ti fans](https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608c149e23de7fcb6df36e4813.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -51,17 +55,9 @@ Jhet Borja/MakeUseOf
 
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jhet Borja/MakeUseOf
 
  If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out[how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or[undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should Your GPU Fans Run at 100%?
 
@@ -74,7 +70,7 @@ Jhet Borja/MakeUseOf
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
@@ -87,11 +83,11 @@ Jhet Borja/MakeUseOf
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Benchmark and Find Your Temperatures
 
@@ -110,10 +106,6 @@ Jhet Borja/MakeUseOf
 
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At 100% fan speed, it tops out at around 69.5-70 °C. We also found that we could keep the temperature at 70-71 °C while only using 90% fan speed.
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
@@ -122,9 +114,17 @@ Jhet Borja/MakeUseOf
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
 
@@ -151,22 +151,19 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-selection-of-free-streaming-options-reviewed/"><u>[New] Ultimate Selection of Free Streaming Options Reviewed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-best-practices-aspect-ratio-in-twitters-videos/"><u>[Updated] 2024 Approved Best Practices Aspect Ratio in Twitters Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-prime-mobileweb-invest-in-no-cost-imagery-upgrade/"><u>[Updated] In 2024, Prime Mobile/Web Invest in No-Cost Imagery Upgrade</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-rising-stars-choices-top-5-hmds-for-drone-enthusiasts-for-2024/"><u>[Updated] Rising Stars' Choices Top 5 HMDs for Drone Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-backdrop-to-your-podcasts-success-story/"><u>[Updated] The Ultimate Backdrop to Your Podcast's Success Story</u></a></li>
-<li><a href="https://games-able.techidaily.com/breaking-down-the-framework-for-virtual-creation/"><u>Breaking Down the Framework for Virtual Creation</u></a></li>
-<li><a href="https://games-able.techidaily.com/directsound-modes-on-xbox-headphone-use-guide/"><u>DirectSound Modes on Xbox Headphone Use Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-joy-in-play-without-internet-requirements/"><u>Discover Joy in Play Without Internet Requirements</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discovering-unbreakable-ai-watermarks-insights-from-zdnet/"><u>Discovering Unbreakable AI Watermarks - Insights From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-high-end-pc-brands-asus-vs-tuf-vs-proart-vs-prime/"><u>Dissecting High-End PC Brands: Asus Vs. Tuf Vs. ProArt Vs. Prime</u></a></li>
-<li><a href="https://games-able.techidaily.com/enigmas-of-death-decoded-by-artificial-intelligence/"><u>Enigmas of Death Decoded by Artificial Intelligence</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-iems-for-ultimate-gameplay-immersion/"><u>Exploring IEMs for Ultimate Gameplay Immersion</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/subscribing-to-games-psplus-against-xbox-game-pass/"><u>Subscribing to Games: PS+ Against Xbox Game Pass</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-javas-best-game-experiences/"><u>The Ultimate Guide to Java's Best Game Experiences</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-note-50-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme Note 50 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/why-does-imovie-enforce-dimensions/"><u>Why Does iMovie Enforce Dimensions?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-picks-scrutinizing-active-and-leading-recorders-feats/"><u>[New] In 2024, Top Picks Scrutinizing Active and Leading Recorder's Feats</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-your-pc-ran-into-a-problem-and-needs-to-restart/"><u>[Solved] Your PC Ran Into a Problem and Needs to Restart</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-preservation-pathway-digitizing-and-safeguarding-old-family-photos/"><u>2024 Approved The Preservation Pathway Digitizing & Safeguarding Old Family Photos</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-your-key-to-full-baldurs-gate-3-playability-on-macos/"><u>Crossover: Your Key to Full Baldur's Gate 3 Playability on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-setup-illuminated-picking-prime-3d-light-panels/"><u>Gaming Setup Illuminated: Picking Prime 3D Light Panels</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-pc-when-its-not-responding-on-windows-1-hanging-scenarios/"><u>How to Fix Your PC When It's Not Responding on Windows 1# (Hanging Scenarios)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-phantom-v-flip-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Phantom V Flip Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>In 2024, Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/metaverse-odyssey-10-sci-fi-movies-that-redefine-reality/"><u>Metaverse Odyssey 10 Sci-Fi Movies that Redefine Reality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protected-areas-such-as-national-parks-and-wildlife-reserves-safeguard-habitats-from-destructive-activities-like-deforestation-and-overfishing/"><u>Protected Areas Such as National Parks and Wildlife Reserves Safeguard Habitats From Destructive Activities Like Deforestation and Overfishing.</u></a></li>
+<li><a href="https://games-able.techidaily.com/saving-smart-with-top-quality-affordable-gaming-displays/"><u>Saving Smart with Top Quality, Affordable Gaming Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-frugal-gamers-manual-amassing-high-quality-steam-games-for-nothing/"><u>The Frugal Gamer's Manual: Amassing High-Quality Steam Games for Nothing</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-secrets-of-prestigious-discord-groups/"><u>Unlock the Secrets of Prestigious Discord Groups</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-guide-to-fixing-microsoft-outlook-failures/"><u>Windows Guide to Fixing Microsoft Outlook Failures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sustaining Enthusiasm for Long Playtimes
-date: 2024-08-15T17:28:03.574Z
-updated: 2024-08-16T17:28:03.574Z
+date: 2025-01-11T18:47:29.159Z
+updated: 2025-01-16T23:32:43.341Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 
  We’re here to help you get through gaming burnout with a few solutions you might want to try out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Gaming Burnout?
 
 ![woman with sad expression and phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/woman-with-sad-expression-and-phone.jpg)
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
  The worst thing you can do when you’re feeling burnt out is not change anything. You’ll get immensely stressed and potentially even depressed. If you’re going through gaming burnout, here are some tips to cope with it:
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Try Out New Platforms and Game Genres
 
 ![A photograph of someone playing a Nintendo Switch in handheld mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/alternative-feature-1.jpg)
@@ -43,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 
 ![Pokemon game on a Samsung phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/old-pokemon-games-android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, there’s also the myriad of retro consoles and handhelds that you can get for cheap. A Sony PSP would be a great deal as you can even[emulate a Game Boy on a PSP](https://www.makeuseof.com/how-to-turn-psp-into-game-boy-emulator/) , giving you a lot more for your purchase. If you don’t want to buy anything at all, you could always[emulate games on your phone](https://www.makeuseof.com/tag/how-to-emulate-old-pokemon-games-android-phone/) .
 
 Who knows, you might discover another genre to sink your hours into.
@@ -50,15 +59,16 @@ Who knows, you might discover another genre to sink your hours into.
 ## 2\. Try Indie Games
 
 ![collage of indie games](https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a64121c79bffee638bab85472f90.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Indie games set themselves apart from big mainstream titles as in many cases, they’re incredibly varied and unique. Indie games aren’t a genre, they’re a whole industry filled with passionate gamers trying to create a game they want to play themselves.
 
  You’ll discover fresh new mechanics, visuals, storytelling, and so much more that can’t be found in most games. What’s great is that there’s usually a tightly-knit community behind them with the creator just a message away for any suggestions and improvements.
 
  Indie games can send you down a rabbit hole of hidden treasures with strong storylines, interesting mechanics, or incredible replayability. Check out these[indie games on Nintendo Switch](https://www.makeuseof.com/best-indie-games-nintendo-switch/) if you want to start somewhere, some of them are also available on PC and other platforms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set Unique Challenges
 
@@ -70,9 +80,6 @@ Who knows, you might discover another genre to sink your hours into.
 
  If you can’t think of any yet, don’t worry, we have a few[fun gameplay challenges](https://www.makeuseof.com/fun-gameplay-challenges-video-games/) for you to try out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Avoid Games With Addictive Tactics
 
 ![person playing pubg mobile on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-gameplay.jpg)
@@ -86,17 +93,9 @@ Who knows, you might discover another genre to sink your hours into.
  If you have a bad relationship with addicting games, the next tip might be important for you as well.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Take a Break
 
 ![Camping chair with a smart water bottle on the table near river shore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Camping-chair-with-a-smart-water-bottle-on-the-table-near-river-shore.jpg)
@@ -107,16 +106,9 @@ Who knows, you might discover another genre to sink your hours into.
 
  The duration of your break will depend entirely on you. For some people, a day off is enough, but some might want to take longer breaks. If you’re taking a break because of addiction or dependence
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Take Things Less Seriously
 
 ![Man looking horrified at a computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-looking-horrified-at-a-computer-screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
  As someone who has hit their table out of frustration in Counter-Strike, taking things less seriously has improved my gaming experience.
 
@@ -129,22 +121,20 @@ Who knows, you might discover another genre to sink your hours into.
  You can still take games seriously of course, but too much of anything can be detrimental.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reignite Your Gaming Passion
 
  If you know you want to keep playing but it just doesn’t feel the same anymore, you’re most likely burnt out. No matter how passionate we are about something, too much of it can cause many to feel this way.
 
  You don’t have to feel like your gaming days are over though, you just need to try different things, so you can get back to playing passionately and enjoying what you love again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +143,24 @@ Who knows, you might discover another genre to sink your hours into.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-7-key-strategies-for-perfect-macro-video-shooting/"><u>[New] 2024 Approved 7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-cartooncast-comprehensive-24-guidebook/"><u>[Updated] In 2024, CartoonCast Comprehensive '24 Guidebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-games-everywhere-a-new-trend-emerges/"><u>All Games, Everywhere - A New Trend Emerges</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-enhanced-features-in-nitro-justified/"><u>Are Enhanced Features in Nitro Justified?</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-necessity-of-mechanical-inputs-in-competitive-play/"><u>Assessing the Necessity of Mechanical Inputs in Competitive Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-in-class-240hz-refresh-rate-monitors-for-gamers/"><u>Best in Class: 240Hz Refresh Rate Monitors for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-iphoneipad-emulators-for-immersive-gameplay/"><u>Best iPhone/iPad Emulators for Immersive Gameplay</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/crafting-excellence-essential-tips-for-ginger-island-life-for-2024/"><u>Crafting Excellence Essential Tips for Ginger Island Life for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/essential-steps-to-a-successful-vlog-for-2024/"><u>Essential Steps to a Successful Vlog for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169753046-guide-enjoy-xbox-games-anyhow/"><u>Guide: Enjoy Xbox Games Anyhow!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-installing-hp-laserjet-5200-drivers-on-windows-11-10-and-8/"><u>Step-by-Step Guide to Installing HP LaserJet 5200 Drivers on Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamlining-device-management-tips-for-using-the-miniature-driver-easy-app/"><u>Streamlining Device Management: Tips for Using the Miniature Driver Easy App</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-social-lift-transform-from-zero-to-millionth-follower-in-months/"><u>The Social Lift Transform From Zero to Millionth Follower in Months</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166702515-top-4-ios-emulators-resurrect-game-boy-advance-classics/"><u>Top 4 iOS Emulators: Resurrect Game Boy Advance Classics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-resolve-lag-issues-in-war-thunder-updated/"><u>Top Strategies to Resolve Lag Issues in War Thunder - Updated</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164624136-top-ranked-gba-ios-simulators-unveiled/"><u>Top-Ranked GBA iOS Simulators Unveiled!</u></a></li>
+</ul></div>
 

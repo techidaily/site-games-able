@@ -1,7 +1,7 @@
 ---
 title: "Six Thrilling Story-Sharing Duos: Text Edition"
-date: 2025-01-07T21:26:41.010Z
-updated: 2025-01-10T21:14:02.996Z
+date: 2025-01-11T20:12:48.626Z
+updated: 2025-01-16T23:14:01.180Z
 tags:
   - games
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
 
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 Story Builder
 
 Close
@@ -51,6 +55,10 @@ Close
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 I Spy
 
 Close
@@ -60,10 +68,6 @@ Close
  Begin by telling your opponent where you are to at least give them a fighting chance of succeeding. Then look around your environment until your eye fixes on something in particular. Your opponent then has to guess what thing you have spied, with only the first letter of the object to guess from.
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Song Lyrics
 
@@ -86,7 +90,7 @@ Close
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 List Builder
@@ -100,7 +104,7 @@ Close
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 Where Am I?
@@ -112,10 +116,6 @@ Close
  With**Where Am I?** , each player takes it, in turn, to describe one feature of their surroundings, while the other tries to guess where they are. You can make this game as easy or as hard as you like by varying the level of detail you give to your opponent.
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8 Kiss, Marry, Kill
 
@@ -138,7 +138,7 @@ Close
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10 Simple Quiz
@@ -168,20 +168,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-generate-sharable-gifs-with-a-laugh-twist-giphy-for-2024/"><u>[New] Generate Sharable Gifs with a Laugh Twist, Giphy for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-warehouse-in-the-sky-top-pricing-on-demand/"><u>[Updated] In 2024, Warehouse in the Sky Top Pricing on Demand</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-fourfold-approach-to-revolutionize-xboxs-reward-scheme/"><u>A Fourfold Approach to Revolutionize Xbox's Reward Scheme</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audio-alchemy-selecting-melodies-that-enhance-boxings-for-2024/"><u>Audio Alchemy Selecting Melodies that Enhance Boxings for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/diagnosing-and-repairing-windows-steam-remote-play-issues/"><u>Diagnosing and Repairing Windows' Steam Remote Play Issues</u></a></li>
-<li><a href="https://fox-info.techidaily.com/embracing-4k-clarity-the-q500-journey-reviewed/"><u>Embracing 4K Clarity The Q500 Journey Reviewed</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-5-factors-handhayer-games-for-gamers-past/"><u>Essential 5 Factors: Handhayer Games for Gamers Past</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-indispensable-gaming-accessory-traits/"><u>Exploring Indispensable Gaming Accessory Traits</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmonizing-halo-passes-across-x-series/"><u>Harmonizing Halo Passes Across X Series</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-transfer-photos-and-videos-from-android-phone-to-an-iphone/"><u>In 2024, How to Transfer Photos and Videos From Android Phone to an iPhone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-6-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 6 Plus Making It Possible</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-display-driver-startup-woes-with-ease-here/"><u>Navigate Display Driver Startup Woes with Ease, Here</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-world-of-remote-xbox-play/"><u>Navigating the World of Remote Xbox Play</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-docu-script-writers-guide/"><u>The Docu-Script Writer's Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-tips-to-design-an-eye-catching-logo-for-podcasts/"><u>[New] Tips to Design an Eye-Catching Logo for Podcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-djis-miniair-series-blend-like-a-pro-with-free-creative-luts/"><u>[Updated] 2024 Approved DJI's Mini/Air Series Blend Like a Pro with Free, Creative LUTS</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-frame-by-frame-gaming-archives/"><u>Efficient Frame-by-Frame Gaming Archives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y78-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y78 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y28-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-mmos-new-horizon-a-fresh-perspective/"><u>Navigating MMO’s New Horizon: A Fresh Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-boundaries-razer-basilisk-v3-pro-for-gamers/"><u>Pushing Boundaries: Razer Basilisk V3 Pro for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-why-your-ps5-dualsense-wont-charge-and-how-to-resolve-it/"><u>Solving the Issue: Why Your PS5 DualSense Won't Charge and How to Resolve It</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharging-ps5-with-these-essential-features/"><u>Supercharging PS5 with These Essential Features</u></a></li>
 </ul></div>
 

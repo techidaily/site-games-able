@@ -1,7 +1,7 @@
 ---
 title: "Top Online Retailers for Video Games: Where to Save Biggest"
-date: 2024-08-15T17:26:23.653Z
-updated: 2024-08-16T17:26:23.653Z
+date: 2025-01-12T23:31:00.507Z
+updated: 2025-01-16T23:02:32.824Z
 tags:
   - games
 categories:
@@ -36,11 +36,19 @@ With that in mind, here are the best sites to buy cheap video games.
 
 ![cheapshark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/cheapshark.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  CheapShark only aggregates video game prices from a dozen or so online retailers, but lets you search for any game and gives you a quick comparison of what it costs at each one.
 
  Handily, the site shows a game's lowest price ever and when that price occurred, and lets you set a price point to receive an alert when the game drops below it.
 
  CheapShark's deals listing page has an interesting sorting measure called Deal Rating. It considers various factors (e.g., absolute price, percent off, Metascore, release date) to determine how good the deal is.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3. GG.deals
 
@@ -50,15 +58,9 @@ With that in mind, here are the best sites to buy cheap video games.
 
  Not only that, but GG.deals tracks the historical price of a game so that you can ensure you're genuinely getting a good deal. In fact, sometimes you might not have to spend a dime, since the site also notifies you when a service is giving a game away free.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4. Humble Bundle
 
 ![humble bundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/humble-bundle.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Humble Bundle started in 2010 as a discounted collection of video games, with some proceeds donated to charity. Its first few bundles consisted of mainly indie games, but it has since evolved to include AAA titles and other more desirable games.
 
@@ -66,52 +68,44 @@ With that in mind, here are the best sites to buy cheap video games.
 
  You can also browse[the Humble Store](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34649/https://www.humblebundle.com/store) for regular sales. Either way, these two options comprise some of the best ways to save money and get cheap games.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5. Fanatical
 
 ![fanatical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/fanatical.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fanatical is an online game store that always has deep discounts on the latest and greatest games. While the prices on Fanatical are usually great anyway, the site often holds sales or flash deals where you can get even cheaper prices than usual. Since[video gaming is an expensive hobby](https://www.makeuseof.com/is-video-gaming-too-expensive/) , these bargains are most welcome.
 
  You should also check out Fanatical's bundles, where it packages similar games together for a discount rate. Occasionally, you can build your own bundle to get a group discount on a bulk purchase.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6. Green Man Gaming
 
 ![green man gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/green-man-gaming.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Green Man Gaming is one of the best stores and game discount sites. If you want cheap video games, Green Man Gaming has you sorted. It sells Steam and Xbox keys, but you can buy in the knowledge and safety that every key has come direct from the publisher—no shady third-party involvement.
 
  As you buy on Green Man Gaming, you earn XP. The more you buy, the more XP you earn, and you can redeem this on future purchases to get even greater discounts. It applies the discount automatically, so you're always getting the best deal.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7. GamersGate
 
 ![gamersgate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gamersgate-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  GamersGate is officially partnered with publishers large and small, selling Steam keys for PC games across all genres. There are regular sales, meaning you can snag yourself a bargain with ease. If something isn't quite cheap enough for you, GamersGate offers a price drop notification feature—all you need is a free account.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8. WinGameStore
 
 ![wingamestore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/wingamestore.jpg)
@@ -126,9 +120,6 @@ With that in mind, here are the best sites to buy cheap video games.
 
  You may wonder[whether it's safe to buy game keys](https://www.makeuseof.com/are-game-keys-safe/) . When you buy them from authorized sellers like GameBillet, it's no problem. This site serves customers worldwide, offering deals on new and old PC games alike. It even lets you pre-order games; though frankly,[you shouldn't pre-order video games](https://www.makeuseof.com/tag/stop-pre-ordering-video-games/) because a digital supply won't run out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 10. Gamesplanet
 
 ![gamesplanet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gamesplanet.jpg)
@@ -136,14 +127,15 @@ With that in mind, here are the best sites to buy cheap video games.
  Wouldn't it be wonderful to live on a video game planet? Gamesplanet is the next best thing, selling legit game keys for Steam, Ubisoft Connect, GOG, and more. You should check back often because there are always time-limited flash deals that provide an even better price than normal.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11. IndieGala
 
 ![indiegala](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/indiegala.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  IndieGala doesn't just sell indie games, though it has plenty of those, but rather has good deals on all sorts of PC games. On top of that, IndieGala has a neat selection of free games and endless giveaways—sure, the game quality may be questionable, but it's hard to quibble at zero dollars.
@@ -154,14 +146,11 @@ With that in mind, here are the best sites to buy cheap video games.
 
  It can be difficult to know what game to buy next. To help decide, don't forget to read reviews, play demos, and use these discount sites to track deals.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +159,22 @@ With that in mind, here are the best sites to buy cheap video games.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-media-professionals-recommendations-best-5-web-video-recorders/"><u>[New] 2024 Approved Media Professionals' Recommendations Best 5 Web Video Recorders</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-whats-grabbing-twitter-users-attention/"><u>[Updated] In 2024, What's Grabbing Twitter Users' Attention</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-secrets-to-amazing-photo-collages/"><u>[Updated] Unveiling Secrets to Amazing Photo Collages</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2023-facebook-live-video-downloaders-for-2024/"><u>2023 Facebook Live Video Downloaders for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-selection-of-practical-easy-to-use-cartridge-holders/"><u>2024'S Selection of Practical, Easy-to-Use Cartridge Holders</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-reasons-why-you-shouldnt-buy-a-ps5/"><u>4 Reasons Why You Shouldn't Buy a PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-playing-pre-ps5-titles-on-ps5/"><u>A Guide to Playing Pre-PS5 Titles on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-console-setup-mastering-light-intensity-adjustments/"><u>Ace Your Console Setup: Mastering Light Intensity Adjustments</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-6s-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 6s? Find the Best Solution Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-8-light-weighted-virtual-worlds-home-games-pcmac/"><u>Best 8 Light-Weighted Virtual Worlds: Home Games Pc/Mac</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effortless-techniques-for-copying-your-hard-drive-data-onto-an-exterior-storage-device/"><u>Effortless Techniques for Copying Your Hard Drive Data Onto an Exterior Storage Device</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-90-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 90 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/masterpieces-14-animated-textual-works/"><u>Masterpieces 14 Animated Textual Works</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163110616-nvidia-driver-updates-unlock-your-computers-potential-immediately/"><u>Nvidia Driver Updates: Unlock Your Computer's Potential Immediately</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171408490-revolutionize-your-arcade-with-expansive-front-ends/"><u>Revolutionize Your Arcade with Expansive Front Ends</u></a></li>
+</ul></div>
 

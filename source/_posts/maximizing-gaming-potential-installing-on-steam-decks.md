@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Gaming Potential: Installing on Steam Decks"
-date: 2024-08-15T17:25:14.296Z
-updated: 2024-08-16T17:25:14.296Z
+date: 2025-01-12T17:18:01.980Z
+updated: 2025-01-16T20:12:52.636Z
 tags:
   - games
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 
 ![screenshot of Lutris in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_lutris_in_discover_store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Because the Steam Deck natively runs on a Linux operating system, the availability of different game launchers can get a bit muddy.
 
  Linux has had a solution for running just about any Windows program you can imagine before the Steam Deck even released. Lutris is an open gaming platform that can be engineered to run just about any Windows app.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 Instead, we have solutions designed specifically for the Steam Deck.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games
 
 ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
@@ -44,8 +49,9 @@ Instead, we have solutions designed specifically for the Steam Deck.
  Search for Heroic and hit**Install** .
 
 ![screenshot of the heroic games launcher login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_login_page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the installation is finished, you can find the program in the All Applications menu, just like the Discover store.
@@ -53,8 +59,9 @@ Instead, we have solutions designed specifically for the Steam Deck.
  Once in the program, you'll want to log in before anything else. The**Log In** option is available on the left-hand side of the window. You'll have four options. Two login methods for the Epic Games Launcher, as well as options for GOG and Amazon Games.
 
 ![screenshot of the epic library in heroic game launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_epic_library_in_heroic_launcher-1.jpg)
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
@@ -68,8 +75,9 @@ Instead, we have solutions designed specifically for the Steam Deck.
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## NonSteamLaunchers for Battle.net, EA App, and More
 
 ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
@@ -85,29 +93,20 @@ Instead, we have solutions designed specifically for the Steam Deck.
  Make your selection and hit**OK** . You'll be prompted to enter custom URLs, but this is optional and only for users who wish to add website shortcuts to their Steam Deck. Hit**OK** on this window and the installation will begin.
 
 ![screenshot of ubisoft connect in steam list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_ubisoft_connect_in_steam_list.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the installation script has finished, you'll find a new shortcut added to your Steam games list. All you have to do is launch this shortcut to gain access to your chosen launcher.
 
  Just note that these installations require the user to select a specific Proton compatibility layer through Steam, unlike Heroic Games Launcher which manages this for you.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Play Non-Steam Games on the Steam Deck
 
  While it may not be a seamless, out-of-the-box experience, running non-steam games on the Steam Deck is very possible. It's well worth the effort as the amount of games you'll have access to is significant, and you won't have to worry about double-dipping a game you might already own on another storefront.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +115,22 @@ Instead, we have solutions designed specifically for the Steam Deck.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-enhancing-switch-gaming-with-top-cards/"><u>[New] Enhancing Switch Gaming with Top Cards</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiling-the-top-10-4k-computer-screens/"><u>[Updated] In 2024, Unveiling the #Top 10 4K Computer Screens</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-5-high-resolution-film-makers/"><u>[Updated] Premier 5 High-Resolution Film Makers</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-white-models-on-a-limited-dollar-plan/"><u>Best White Models on a Limited Dollar Plan</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-lifespan-of-your-switch-gaming-console-with-easy-tips/"><u>Boosting Lifespan of Your Switch Gaming Console With Easy Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/bust-your-budget-with-xbox-savings/"><u>Bust Your Budget with Xbox Savings</u></a></li>
+<li><a href="https://games-able.techidaily.com/bygoneboard-mini-classic-games-reawakened/"><u>BygoneBoard Mini: Classic Games Reawakened</u></a></li>
+<li><a href="https://games-able.techidaily.com/charge-towards-tomorrow-visionary-ideas/"><u>Charge Towards Tomorrow: Visionary Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-the-new-frontier-of-gaming-scripts/"><u>ChatGPT: The New Frontier of Gaming Scripts</u></a></li>
+<li><a href="https://games-able.techidaily.com/clear-outdated-games-from-playstation-5/"><u>Clear Outdated Games From PlayStation 5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-interface-error-with-steamuidll/"><u>Fixing Steam Interface Error with Steamui.dll</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-s24-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy S24</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-nokia-g42-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Nokia G42 5G Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-real-time-revelations-does-software-trump-hardware/"><u>In 2024, Real-Time Revelations Does Software Trump Hardware?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-notifications-from-the-past-strategies-for-iphones/"><u>Uncover Hidden Notifications From the Past: Strategies for iPhones</u></a></li>
+</ul></div>
 

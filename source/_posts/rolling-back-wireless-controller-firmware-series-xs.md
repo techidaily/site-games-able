@@ -1,7 +1,7 @@
 ---
 title: Rolling Back Wireless Controller Firmware Series X/S
-date: 2024-08-15T17:24:53.412Z
-updated: 2024-08-16T17:24:53.412Z
+date: 2025-01-12T20:24:17.305Z
+updated: 2025-01-16T23:07:46.333Z
 tags:
   - games
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 
  Luckily, if you want to revert a nasty controller update for your Xbox Wireless Controller, you can use your Xbox Series X|S to do so. But how do you revert the firmware of your Xbox Wireless Controller? Let's find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Things to Note Before Reverting Your Xbox Wireless Controller's Firmware
 
  Before you go through with reverting an Xbox Wireless Controller update, there are a few things you should know beforehand, as the process has a few caveats. Specifically, the main points you should be aware of before reverting firmware for your controller are as follows:
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 
  But if the caveats of reverting firmware don't apply to you, your controller issue is likely caused by a firmware problem, and you're all set to go ahead with reverting your controller update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## How to Access the Firmware Options of Your Xbox Wireless Controller
 
  If you have decided to go through with reverting the firmware of your Xbox Wireless Controller, you will need to know how to access the settings specifically for firmware via your Xbox Series X|S. And while these settings are more hidden than regular Xbox settings, they are easy to find if you know where to look.
@@ -48,8 +48,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Navigate to the options for**Profile & System** , and select**Xbox Support** .
 
 ![A screenshot of the Guide menu on an Xbox Series X with the option for Xbox Support highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3117.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Under the options for**Get Help** , highlight**Help topics** and select**Hardware & networking** .
@@ -59,16 +60,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Select**Controllers** followed by**Troubleshoot your Xbox Wireless Controller** .
 
 ![A screenshot of the Controllers section of the Xbox Support app on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3123.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
 * From here, choose the option for **My Xbox controller has connection issues after the last update** .
 
 ![A screenshot of the controller troubleshooting options available within the Xbox Support app on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3126.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will then be taken to the firmware settings page of the**Xbox Support** menus and be shown potential fixes for firmware issues your controller may be experiencing. You can use this settings page to revert the firmware of your Xbox Wireless Controller.
@@ -81,8 +79,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * From the **My Xbox controller has connection issues after the last update** section of the**Xbox Support** page on your Series X|S, select**Check your controller's firmware** .
 
 ![A screenshot of the option to check Xbox controller firmware within the Xbox Support app on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3129.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Your Xbox will then inform you whether your controller's firmware can be reverted. If it can, select**Revert firmware** .
@@ -91,22 +90,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Your Xbox will then start reverting the firmware of your Xbox Wireless Controller. Once the process is finished, your controller will have been downgraded to the prior firmware update and any issues associated with the current firmware should be removed.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Maintain Your Xbox Controller Physically and Through Its Firmware
 
  While it is very important to maintain your Xbox Wireless Controller physically, to keep inputs and the outer shell from becoming non-functioning, problems out of your control, like updates, can still cause issues.
 
  Therefore, it's equally important to keep an eye on any firmware issues your Xbox Wireless Controller is experiencing to keep your controller running as smoothly as possible. And with the firmware settings available on your Xbox Series X|S, you can do just that.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +112,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expert-choice-top-12-non-time-restricted-recorders/"><u>[New] Expert Choice Top 12 Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-preparing-to-go-live/"><u>Behind the Scenes Preparing to Go Live</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-what-makes-cozy-games-beloved/"><u>Breaking Down What Makes Cozy Games Beloved</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-the-isolation-quick-tips-for-rejoining-your-mc-network/"><u>Breaking the Isolation: Quick Tips for Rejoining Your MC Network</u></a></li>
+<li><a href="https://games-able.techidaily.com/captivating-audiences-through-twitch-streaming-on-phone/"><u>Captivating Audiences Through Twitch Streaming on Phone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/choisir-entre-telecharger-dans-le-nuage-et-installer-localement-conseils-essentiels-pour-la-perennite-des-donnees/"><u>Choisir Entre Télécharger Dans Le Nuage Et Installer Localement: Conseils Essentiels Pour La Pérennité Des Données</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-wisely-6-things-before-committing-to-ps5/"><u>Choose Wisely: 6 Things Before Committing to PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-and-high-res-innocn-39g1-display/"><u>Compact & High Res: InnoCN 39G1 Display</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-itel-p40-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Itel P40 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ion-tailgater-plus-review-experience-continuous-high-bass-music-with-easy-one-touch-controls/"><u>ION Tailgater Plus Review: Experience Continuous High-Bass Music with Easy One-Touch Controls</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-or-download-epson-l3150-printer-software-for-various-windows-os-win-111087/"><u>Update or Download Epson L3150 Printer Software for Various Windows OS (Win 11/10/8/7)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quiet Command: Stop Console Rumbles on Xbox"
-date: 2024-08-15T17:27:08.867Z
-updated: 2024-08-16T17:27:08.867Z
+date: 2025-01-11T00:28:32.281Z
+updated: 2025-01-16T21:06:29.169Z
 tags:
   - games
 categories:
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  But aside from the practical caveats of altering controller vibration, the most common way you might otherwise be hindered is due to physical issues with a controller. A build-up of dirt, for instance, can cause stick drift or non-responsive vibration motors, and you may need to[take your Xbox controller apart](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) to fix any vibration problem.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Disable Controller Vibration on Xbox Series X|S
 
  Now you know some of the specifics involved in universally turning off controller vibration on your Xbox, let's take a look at how you actually do so on your own Xbox. To universally disable controller vibration on your Xbox Series X|S, follow these steps:
@@ -41,15 +38,17 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 * Highlight the options for**Profile & system** , and select**Settings** .
 
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Under**Accessibility** , select**Controller** .
 
 ![A screenshot of the Accessibility settings on Xbox Series X with Controller highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-accessibility.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select**Vibration settings** .
@@ -59,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 * Ensure that**Turn on vibration** is deselected.
 
 ![A screenshot of the button mapping screen for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-vibration.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With**Turn on vibration** unchecked and disabled, your current controller**Profile** will have vibration universally disabled no matter what game or app you use on your Xbox. Inversely, if you ever want to re-enable vibration, simply go back into**Vibration settings** and ensure**Turn on vibration** is selected.
 
@@ -76,32 +72,34 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: Why Is Your Xbox Series X|S Constantly Vibrating?
 
  If your Xbox Series X|S controller is constantly vibrating or carries on vibrating even after disabling the feature, there may be a fault with your controller. To fix controller vibration, you need to[take apart your Xbox Wireless Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) and replace the vibration motors. Failing this, you will need to replace your Xbox controller.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: Does Controller Vibration Affect Your Xbox Controller’s Battery Life?
 
  In short, yes. Enabling controller vibration on your Xbox Wireless Controller for Xbox Series X|S will cause the battery to drain much faster than if you were to disable the feature. The extra power utilized by the vibration motors drains the battery life of your controller much faster than other controller inputs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q: Why Do Xbox and PlayStation Use Haptic Feedback?
 
  The Xbox Wireless Controller for Xbox Series X|S and the PlayStation 5 DualSense Controller use haptic feedback to enhance your immersion in a game. Put plainly, by using smaller and more precise rumble effects, haptic feedback allows for intricate and accurate reflections of your gameplay when compared to standard controller vibration. However,[the ways haptic feedback enhances immersion](https://www.makeuseof.com/force-haptic-feedback-games/) are broad and even extend to targeting your senses.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +108,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-video-scaling-on-mac-for-perfect-instagram-posts/"><u>[New] Mastering Video Scaling on Mac for Perfect Instagram Posts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-windows-10-capture-miniapp/"><u>[New] Windows 10 Capture MiniApp</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boosted-visuals-a-beginners-guide-to-gopro-video-editing/"><u>[Updated] Boosted Visuals A Beginner's Guide to GoPro Video Editing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-facebook-live-recorders-playbook/"><u>[Updated] In 2024, The Facebook Live Recorder's Playbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-ways-to-cope-with-gaming-burnout/"><u>6 Ways to Cope With Gaming Burnout</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-list-of-things-to-evaluate-before-buying-your-next-handheld-videogame-console/"><u>A Comprehensive List of Things to Evaluate Before Buying Your Next Handheld Videogame Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/achdman-strategies-preserving-and-accessing-your-vintage-games/"><u>ACHDMAN Strategies: Preserving and Accessing Your Vintage Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-ally-dock-showcase-top-picks-2024/"><u>ASUS ROG Ally Dock Showcase: Top Picks 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/automated-gpu-integration-for-gaming-snippets/"><u>Automated GPU Integration for Gaming Snippets</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-gathering-titles-top-16-seated-players-games-on-xbox/"><u>Best Gathering Titles: Top 16 Seated Players' Games on Xbox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-security-with-a-vpn-the-ultimate-tutorial-for-setting-up-on-apple-vision-pro-zdnet-exclusive/"><u>Enhance Security with a VPN: The Ultimate Tutorial for Setting Up on Apple Vision Pro | ZDNET Exclusive</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-to-saving-your-youtube-playlists/"><u>In 2024, Step-by-Step Guide to Saving Your YouTube Playlists</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unbiased-avs-video-editor-review-what-to-expect-for-2024/"><u>New Unbiased AVS Video Editor Review What to Expect for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/top-photo-storage-sites-for-2024/"><u>Top Photo Storage Sites for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-thaumaturge-from-freezing-and-crashing-on-windowsmac/"><u>Troubleshooting Tips: Stop Thaumaturge From Freezing and Crashing on Windows/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172148302-unlock-excitement-dive-into-netflix-gaming-world/"><u>Unlock Excitement - Dive Into Netflix Gaming World!</u></a></li>
+</ul></div>
 

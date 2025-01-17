@@ -1,7 +1,7 @@
 ---
 title: "MakeUseOf Spotlight: MWC's Top Products"
-date: 2024-08-15T17:29:09.707Z
-updated: 2024-08-16T17:29:09.707Z
+date: 2025-01-09T19:19:09.053Z
+updated: 2025-01-16T18:41:27.176Z
 tags:
   - games
 categories:
@@ -36,11 +36,16 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
  Either way, they've all made MakeUseOf's Best of MWC 2024 list—in no particular order.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Tecno Megabook T16 Pro
 
 ![tecno megabook ultimate t16 with awards mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-ultimate-t16-with-awards-mwc-2024.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -57,14 +62,12 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
  Furthermore, the Megabook T16 Pro ships with a whopping 99.99Wh battery that supports 100W charging, and its upgraded 65W cooling system helps to keep everything purring along nicely.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Honor Magic 6 Pro
 
 ![honor magic 6 pro on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magic-6-pro-on-stand-with-muo-mwc-2024-award.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -82,15 +85,9 @@ Close
 
  Finally, Honor's second-generation silicon-carbon battery allows it to pack in a whopping 5,600mAh while keeping the Magic 6 Pro's design slim and sleek; it's a great bit of kit.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Motorola Adaptive Display Concept
 
 ![motorola adaptive display concept smartphone with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/motorola-adaptive-display-concept-smartphone-with-muo-mwc-2024-award.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -101,14 +98,12 @@ Close
  The concept smartphone features a 6.9-inch pOLED screen. Most interestingly, the battery and other components are built in multiple segments to help the device achieve its bendiness.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Tecno Camon 30 Premier 5G
 
 ![tecno camon on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/tecno-camon-on-stand-with-muo-mwc-2024-award.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -124,9 +119,6 @@ Close
 
  It also includes a substantial 5,000mAh battery and supports 70W fast charging.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. ZTE Nubia Flip 5G
 
 ![zte nubia flip 5g smartphone on stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-flip-5g-smartphone-on-stand.jpg)
@@ -146,9 +138,6 @@ Close
 ## 6\. Ayaneo Pocket S
 
 ![ayaneo pocket s on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/ayaneo-pocket-s-on-stand-at-mwc-2024.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -165,8 +154,9 @@ Close
 ## 7\. Xiaomi 14 Ultra
 
 ![xiaomi 14 ultra on stand mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/xiaomi-14-ultra-on-stand-mwc-2024.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
@@ -181,9 +171,6 @@ Close
 
  Like Honor, Xiaomi has also made the jump to a new silicon carbon cell battery, which delivers greater power density. The Xiaomi 14 Ultra has a 5,300mAh battery, along with 90W wired fast charging and 80W wireless charging.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Honor MagicBook Pro 16
 
 ![honor magicbook pro 16 at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magicbook-pro-16-at-mwc-2024.jpg)
@@ -200,6 +187,10 @@ Close
 
  Furthermore, the MagicBook Pro 16 comes equipped with an Nvidia RTX 4060 GPU, which is plenty powerful, and a 75Wh battery, which Honor says should last up to ten hours (usage dependant).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Tecno Phantom Ultimate Concept
 
 ![tecno phantom ultimate concept smartphone in hand closed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-phantom-ultimate-concept-smartphone-in-hand-closed.jpg)
@@ -212,9 +203,17 @@ Close
 
  It's also decently slimline, measuring 9.93mm thickness, and feels good in your hand. The extra tech for the sliding mechanism doesn't add much to its weight at all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. ZTE Nubia Pad 3D II
 
 ![zte nubia 3d pad II on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-3d-pad-ii-on-stand-at-mwc-2024.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -230,6 +229,10 @@ Close
 
 ![samsung galaxy smart ring on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/samsung-galaxy-smart-ring-on-stand-at-mwc-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gavin Phillips/MakeUseOf
 
  Samsung's Galaxy Ring has been in the works for a while, and other players in the smart ring sphere have been worried about its launch. Well, worried they should be, as it looks great and really pushes the smart ring sector forward.
@@ -240,9 +243,6 @@ Close
 
  The Samsung Galaxy Ring also looks smart, eschewing the matte option delivered by other smart ring options in favor of a shiny metal finish.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 12\. Lenovo ThinkBook Transparent Concept
 
 ![lenovo transparent laptop concept mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/lenovo-transparent-laptop-concept-mwc-2024.jpg)
@@ -257,14 +257,11 @@ Close
 
  Again, I'm slightly perturbed by the screen, but it's a great transparent laptop design and easily one of the best iterations on this growing tech style launched so far.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -273,4 +270,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-in-depth-review-videovision-pro-suite-the-new-frontier/"><u>[Updated] 2024 Approved In-Depth Review VideoVision Pro Suite - The New Frontier</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-realme-v30t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme V30T Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audience-appeal-expert-tips-on-post-production-and-editing-in-garageband/"><u>Audience Appeal Expert Tips on Post-Production and Editing in GarageBand</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beginners-guide-to-visual-storytelling-key-shot-techniques/"><u>Beginner’s Guide to Visual Storytelling Key Shot Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-blogosphere-why-we-should-doubt-critics/"><u>Behind the Blogosphere: Why We Should Doubt Critics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-mp4-video-files-into-mpeg-format-for-free-using-movavis-web-service-sicuro/"><u>Convert MP4 Video Files Into MPEG Format for Free Using Movavi's Web Service - Sicuro</u></a></li>
+<li><a href="https://games-able.techidaily.com/energize-vision-ideas-for-change/"><u>Energize Vision: Ideas for Change</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oneplus-nord-ce-3-lite-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from OnePlus Nord CE 3 Lite 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y100a-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y100A online without jailbreak</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionize-your-listening-experience-apple-podcasts-introduces-auto-generated-subtitles/"><u>Revolutionize Your Listening Experience: Apple Podcasts Introduces Auto-Generated Subtitles</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-gaming-controls-buttons-and-controllers-on-mobile/"><u>The Art of Gaming Controls: Buttons and Controllers on Mobile</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-recharge-strategies-2024s-top-controllers/"><u>Ultimate Recharge Strategies: 2024'S Top Controllers</u></a></li>
+</ul></div>
 

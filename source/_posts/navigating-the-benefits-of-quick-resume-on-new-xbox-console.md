@@ -1,7 +1,7 @@
 ---
 title: Navigating the Benefits of Quick Resume on New Xbox Console
-date: 2024-08-15T17:23:02.497Z
-updated: 2024-08-16T17:23:02.497Z
+date: 2025-01-11T17:58:05.097Z
+updated: 2025-01-16T19:10:17.251Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
 
 ![A photograph of someone playing Fortnite on a gaming console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stock-gaming.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While this is still slightly limited, it certainly beats relying on manual saves only or an in-game auto-save function, which in the event of something like a power cut, wouldn't work anyway. But with Quick Resume, you have an in-built function on your Xbox working to help preserve your progress at all times.
 
  If you already[use Quick Resume on your Xbox Series X|S](https://www.makeuseof.com/how-to-use-xbox-series-x-quick-resume/) and rely on it for saves, just be mindful that the feature can only support up to three save states at once. So as long as you don't have more than three games running through Quick Resume you should be fine.
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
  There are many[tips you can use to get more from your Xbox Series X|S](https://www.makeuseof.com/tips-get-more-xbox-series-x-s/) , but being able to jump past initial loading screens by resuming your games right where you left them completely changes how you play on Xbox.
 
 ![A photograph of wall art depicting a typical loading screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/loading.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is especially prevalent when playing games notorious for bad load times. The first time you inevitably replay The Elder Scrolls V: Skyrim but jump past the barrage of loading with Quick Resume will almost completely sell the feature's worth.
@@ -48,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
  But while this feature is undoubtedly beneficial, it's not perfect, and even the benefits of shortening load times come with caveats.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Problems With Quick Resume on Xbox Series X|S
 
  Quick Resume may provide huge leaps forward when it comes to game preservation and altering the way loading times work on consoles, but the feature is in dire need of fine-tuning. As it is, Quick Resume has a fair share of problems. Let's take a look at some of the biggest offenders:
@@ -61,17 +67,15 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
  For multiplayer or[live-service-based gaming](https://www.makeuseof.com/live-service-games-what-how-work/) , Quick Resume will nearly always load you into the main menu, not where you last left off. Not only does this go against the whole purpose of Quick Resume, but it can also mean needing to restart your entire game.
 
 ![A screenshot of the Multiplayer screen for Halo Infinite after loading with Quick Resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2602.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you play games like Halo Infinite or backwards compatible titles like Call of Duty: Black Ops 3, Quick Resume puts you in the main menu while disconnecting you from the online server. In these cases, you'll need to reconnect or restart your game before you can play online.
 
  If this happens, you could see Quick Resume as prolonging the time it takes to enter a game, and with online-only multiplayer experiences taking control of the gaming industry, this problem will only get worse.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Quick Resume Is a Mandatory Feature of Your Xbox Series X|S
 
  A further complication of Quick Resume on Xbox Series X|S is that if you find yourself affected by some of its issues, like disconnecting from servers or being locked in a main menu, there is no way to disable it.
@@ -79,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
  Quick Resume is baked into Xbox Series X|S consoles and turning the feature off isn't an available option if you have problems with the feature. Instead, you can use the**Quick Resume** tab under**My games & apps** in the Guide menu of your Xbox to individually select**Remove from Quick Resume** before loading a game.
 
 ![A screenshot of the option to Remove From Quick Resume on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2584.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  But even with this function, Quick Resume adds unnecessary steps to loading a game you want to play. And without a way to universally deactivate the feature or, better yet, disable it for online games only, it remains an unreliable and sometimes irritating feature of your Xbox Series X|S.
 
@@ -96,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
  And without changes, you could find Quick Resume going down the same avenue as Xbox features of the past. Luckily, Xbox has stated that it will address this issue at some point, as reported by[Video Games Chronicle](https://www.videogameschronicle.com/news/phil-spencer-says-xbox-will-look-at-letting-players-disable-quick-resume/) . Hopefully, Xbox actually works on a fix soon, and don't hold off until it's too late.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Quick Resume Is a Great Idea With Irritating Issues
 
  The ideas behind Quick Resume are sound, and the feature is amazing when it works, making it a legitimate reason you may look to get an Xbox Series X|S over a PlayStation 5—in theory.
@@ -106,14 +108,11 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
 
  So, unless Quick Resume is fine-tuned, it and the unique features of Xbox Series X|S consoles will be held back.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +121,16 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-perfect-timing-for-on-screen-dialogue-in-your-youtube-productions/"><u>[Updated] 2024 Approved Perfect Timing for On-Screen Dialogue in Your YouTube Productions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/a-guide-to-locating-and-repairing-deleted-songs-from-itunes-library/"><u>A Guide to Locating and Repairing Deleted Songs From iTunes Library</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/discover-15-superior-snap-strategies-for-2024/"><u>Discover 15 Superior Snap Strategies for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evolving-from-traditional-oversight-innovative-approaches-to-staff-supervision-in-transport/"><u>Evolving From Traditional Oversight - Innovative Approaches to Staff Supervision in Transport</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-gadget-alert-keeping-your-deck-cool-and-comfortable/"><u>Hot Gadget Alert: Keeping Your Deck Cool & Comfortable</u></a></li>
+<li><a href="https://games-able.techidaily.com/modern-gaming-systems-old-school-appeal/"><u>Modern Gaming Systems, Old-School Appeal</u></a></li>
+<li><a href="https://discover-community.techidaily.com/reparaturstrategien-fur-windows-11-uber-eingabeaufforderung-erfahren-sie-uber-5-effektive-methoden/"><u>Reparaturstrategien Für Windows 11 Über Eingabeaufforderung - Erfahren Sie Über 5 Effektive Methoden!</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-cure-missing-gems-on-epics-library-platform/"><u>Steps to Cure Missing Gems on Epic’s Library Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-biggest-draws-in-mobile-gameplay/"><u>Unveiling the Biggest Draws in Mobile Gameplay</u></a></li>
+</ul></div>
 

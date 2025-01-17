@@ -1,7 +1,7 @@
 ---
 title: "Stalled Games, Not Good Days: Manually Extracting From SX"
-date: 2025-01-07T09:44:27.664Z
-updated: 2025-01-11T00:35:42.576Z
+date: 2025-01-11T21:13:35.386Z
+updated: 2025-01-17T00:06:54.048Z
 tags:
   - games
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Manually Eject Your Xbox Disc Using the Hidden Eject Hole
 
  Having to force a disc out of your gaming console is never ideal, and manually removing a disc from your Xbox Series X is seen as a last resort by Xbox. However, doing so on Xbox Series X is relatively simple and relies on locating a hidden hole at the base of your console.
@@ -33,17 +37,13 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 ![A photograph of an Xbox Series X resting on its side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/img20231106101548.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Adjacent to the disc drive and along the stand at the console's base, you should be able to see a small**Eject hole** .
 * To manually eject a stuck disc from your Xbox Series X, insert the long end of the paper clip into the**Eject hole** .
 
 ![An official image of the location of the Eject Hole on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/cdbf6aa7-a452-4087-862e-41da990d5801.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Xbox](https://support.xbox.com/en-us/help/hardware-network/console/manually-eject-disc)
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
  However, while utilizing the**Eject hole** is a quick and easy solution, there are some key points surrounding manually ejecting a disc that may prevent you from relying on the**Eject hole** as a permanent solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Things Need to Know About Manually Ejecting an Xbox Disc
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 ![A screenshot of the Home screen option to Eject a disc from an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3183.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * If you continually rely on the**Eject hole** to release a disc, it is likely your console has a hardware problem. To permanently fix this, it's recommended you[send your Xbox Series X in for a repair](https://www.makeuseof.com/how-to-fix-broken-xbox-series-xs-and-send-for-a-repair/) .
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
  But even with these pointers from Xbox regarding how to avoid relying on the**Eject hole** , you can always rely on the manual method to retrieve any disc that may be stuck inside your Series X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ensure You Can Always Retrieve Discs From Your Xbox Series X
@@ -100,22 +100,18 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-soundscapes-how-to-use-auditions-fade-in-effect/"><u>[New] Crafting Soundscapes How to Use Audition's Fade In Effect</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[New] The Compre Point Saving Twitter-Exclusive Gifs on Phones</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-elite-4k-laptops-for-gamers-1-ranked-list/"><u>[Updated] In 2024, Elite 4K Laptops for Gamers – #1 Ranked List</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-lenovo-laptop-screen-logging-made-easy/"><u>[Updated] In 2024, Lenovo Laptop Screen Logging Made Easy</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-vivo-s17e-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Vivo S17e to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-broken-to-superior-reviving-xbox-d-pads/"><u>From Broken to Superior - Reviving Xbox D-Pads</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-f34-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resolve-the-error-when-xlivedll-cant-be-located-or-is-missing-in-windows/"><u>How To Resolve The Error When xlive.dll Can’t Be Located or Is MISSING in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-xbox-utilizes-the-power-of-cloud-computing/"><u>How Xbox Utilizes the Power of Cloud Computing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-remote-power-on-with-wake-on-lan-on-windows-10-and-11/"><u>Mastering Remote Power On with Wake-on-LAN on Windows 10 and 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-far-cry-6-pc-issues-say-goodbye-to-unexpected-shutdowns/"><u>Resolving Far Cry 6 PC Issues – Say Goodbye to Unexpected Shutdowns</u></a></li>
-<li><a href="https://games-able.techidaily.com/revitalize-your-console-fixing-broken-xbox-sandx/"><u>Revitalize Your Console: Fixing Broken Xbox S&X</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-summer-offering-a-hitter-list-of-steals/"><u>Sony’s Summer Offering: A Hitter List of Steals</u></a></li>
-<li><a href="https://games-able.techidaily.com/subscription-stack-up-xbox-vs-psplus-in-depth-comparison/"><u>Subscription Stack-Up: Xbox Vs. PS+ In-Depth Comparison</u></a></li>
-<li><a href="https://games-able.techidaily.com/unbearable-undertakings-the-best-of-frustrating-fiddles/"><u>Unbearable Undertakings: The Best of Frustrating Fiddles</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-battles-increasing-hostility-online/"><u>Virtual Battles: Increasing Hostility Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-gamers-choose-edge-its-unmatched-browsing-skills/"><u>Why Gamers Choose Edge: Its Unmatched Browsing Skills</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-views-through-effective-youtube-thumbnail-selection/"><u>[Updated] In 2024, Boost Views Through Effective YouTube Thumbnail Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-visuals-best-monitors-at-240hz-for-gamers/"><u>Excellent Visuals: Best Monitors at 240Hz for Gamers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a34-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A34 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/late-launches-the-unseen-growth-catalyst/"><u>Late Launches: The Unseen Growth Catalyst</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-twitch-vod-extraction-with-our-best-picks/"><u>Mastering Twitch VOD Extraction with Our Best Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-recovery-restoring-the-lost-enhancement-tab-in-windows-11/"><u>Quick Recovery: Restoring the Lost Enhancement Tab in Window's 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/reduce-battery-drain-enhance-gameplay-with-xbox-techniques/"><u>Reduce Battery Drain, Enhance Gameplay with Xbox Techniques</u></a></li>
+<li><a href="https://fox-where.techidaily.com/rejuvenate-market-segments-one-at-a-time/"><u>Rejuvenate Market Segments One at a Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/shifting-from-bedrocks-world-to-java-via-geysermc-server/"><u>Shifting From Bedrock's World to Java via GeyserMC Server</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138556014-9780486829944-the-fabric-of-dreams/"><u>The Fabric of Dreams | Free Book</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210203636-9781420971620-the-law-of-success/"><u>The Law of Success | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-your-windows-computers-non-functional-built-in-camera/"><u>Troubleshooting Steps: Resolving Your Windows Computer's Non-Functional Built-In Camera</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-past-ios-and-classic-psp-games-combo/"><u>Unlocking the Past: IOS & Classic PSP Games Combo</u></a></li>
 </ul></div>
 

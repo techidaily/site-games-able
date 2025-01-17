@@ -1,7 +1,7 @@
 ---
 title: "From Fun Gameplay to Successful Titles: Lessons From Helldivers 2'S Journey"
-date: 2024-08-15T17:27:16.322Z
-updated: 2024-08-16T17:27:16.322Z
+date: 2025-01-09T21:05:13.211Z
+updated: 2025-01-16T22:12:52.925Z
 tags:
   - games
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ## From Fun Gameplay to Successful Titles: Lessons From Helldivers 2'S Journey
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Allow Cross-Platform Multiplayer Play](#allow-cross-platform-multiplayer-play)
@@ -23,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 * [Have a Free Progression System](#have-a-free-progression-system)
 * [Balance Gameplay Mechanics](#balance-gameplay-mechanics)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Cross-platform play and free progression without making in-game purchases mandatory are key to player satisfaction.
@@ -38,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![Screenshot of Helldivers 2 Super Earth public service announcement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0416461.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Helldivers 2 is a third-person shooter live service game where players become Helldivers fighting for Super Earth. Players join teammates in missions on different planets across the universe to eradicate Terminids (bug-like alien life forms) and Automatons (robots). Helldivers harvest valuable resources from planets that are home to Terminids and Automatons.
 
  Gamers can play Helldivers 2 on the PlayStation 5 and PC. One of the keys to a successful multiplayer game is ensuring that even if your friend has a PC, but you only have a PlayStation, you'll still be able to join each other in the interplanetary fight for democracy in Helldivers 2.
@@ -45,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  Cross-platform multiplayer features allow people to play games with friends who may use different platforms and maintain social connections while increasing the overall player pool. It's one of the reasons[platform-exclusive games are becoming a thing of the past](https://www.makeuseof.com/platform-exclusive-games-thing-of-the-past-good/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 Listen to Community Members
 
  Months after launch, Sony announced that PC players would have to link a PlayStation Network (PSN) account to their Steam account to continue playing Helldivers 2 with multiplayer functionality. This created an uproar across the Helldivers 2 player base, which caused Sony to backtrack on its decision only two days later.
@@ -55,12 +61,12 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![Screenshot of Helldivers 2 Warbond menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415451.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 3 Have A Strong Social Media Presence
 
  The Helldivers 2 social media pages post frequent game updates, challenges, and memes that earn impressive engagement. For instance, the[Helldivers 2 Instagram page](https://www.instagram.com/helldivers2game/?hl=en) boasts over 100,000 followers.
@@ -75,24 +81,19 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  The game's developers put out new Major Orders every week to engage the community. The community is not guaranteed to pass each Major Order, making it a challenge for the entire player base. Each mission in Helldivers 2 that a player participates in adds to the progress of the Major Order, making the success of the mission entirely based on community progress.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Have a Free Progression System
 
  There are multiple forms of in-game currency in Helldivers 2 which players can find in missions for free. If a player is looking to fast-track unlocking items available in Warbonds (battle passes), weapons, and other cosmetics, there are paid options, as well. Importantly, a player does not have to pay to advance in the game.
 
 ![Screenshot of Helldivers 2 Acquisition Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415430.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Players can find Super Credits, which unlock new monthly Warbonds and cosmetics, across missions at random points on the map. Super Credits are also available for purchase in the game store. Medals can be obtained by completing Major Orders or finding stashes during missions. You can also earn medals by completing missions. The higher the difficulty level of the mission, the more medals players unlock upon completion.
 
 ![Screenshot of Helldivers 2 Super Credits store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415072.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are also samples scattered across each mission depending on the difficulty level. Players can trade in these samples to upgrade their ships and stratagems, which are mission call-ins and weapons, such as airstrikes and turrets. Finally, requisition slips pop up, which players earn by completing missions or locating points of interest on the map, which unlock new stratagems.
 
@@ -107,22 +108,16 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  For example, the SG-225 Breaker shotgun got "nerfed", meaning the game developers reduced its overall power by reducing its ammo capacity and increasing its recoil to balance the game and encourage using other weapons.
 
 ![Screenshot of Helldivers 2 SG-225 Breaker automatic shotgun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0504130.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
  Balancing game mechanics helps keep the experience varied and allows people to use different combinations of guns and other strategies to succeed in the game.
 
  The success of Helldivers 2 offers insight into the future of successful online multiplayer games that span console, PC, and mobile gaming. Listening and communicating with the player base, having free progression mechanics, and allowing cross-platform play are some important qualities that turned Helldivers 2 into a global sensation.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +126,22 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-enhanced-connectivity-sending-social-media-content-between-facebook-and-whatsapp/"><u>[New] 2024 Approved Enhanced Connectivity Sending Social Media Content Between Facebook & WhatsApp</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-free-efficient-translation-the-top-8-best-apps-reviewed/"><u>[Updated] In 2024, Free, Efficient Translation The Top 8 Best Apps Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-code-to-content-creator-commerce-with-carminati-ajay/"><u>[Updated] Unlocking the Code to Content Creator Commerce with Carminati (AJay)</u></a></li>
+<li><a href="https://games-able.techidaily.com/11-cross-platform-mobile-multiplayer-games-to-play-with-friends/"><u>11 Cross-Platform Mobile Multiplayer Games to Play With Friends</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-reasons-why-microsoft-reward-points-need-to-improve-on-xbox/"><u>4 Reasons Why Microsoft Reward Points Need to Improve on Xbox</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-roblox-error-262-anomaly/"><u>Addressing Roblox: Error 262 Anomaly</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-apps-adapt-to-linux-ecosystem/"><u>Android Apps Adapt to Linux Ecosystem</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172747292-banish-errors-and-enhance-your-pc-with-new-nvidia-drivers-update/"><u>Banish Errors and Enhance Your PC with New Nvidia Drivers Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-heat-with-steam-decks-best-gadgets/"><u>Beat the Heat with Steam Deck's Best Gadgets</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172771364-elevate-to-new-heights-with-big-box-cabinetry/"><u>Elevate to New Heights with Big Box Cabinetry!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-vsg-screen-snapshots-review-thorough-examination/"><u>In 2024, VSG Screen Snapshots Review Thorough Examination</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-audio-archives-the-essential-guide-with-8-key-techniques/"><u>Mastering Audio Archives The Essential Guide with 8 Key Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movaviape-flac/"><u>Movaviを使ったオンデマンドAPE FLAC変換: 完全無料オプション</u></a></li>
+</ul></div>
 

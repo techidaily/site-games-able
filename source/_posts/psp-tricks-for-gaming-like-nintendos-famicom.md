@@ -1,7 +1,7 @@
 ---
 title: PSP Tricks for Gaming Like Nintendo's Famicom
-date: 2024-08-15T17:25:41.342Z
-updated: 2024-08-16T17:25:41.342Z
+date: 2025-01-15T23:15:24.960Z
+updated: 2025-01-17T00:26:52.765Z
 tags:
   - games
 categories:
@@ -32,9 +32,17 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 
  If you have an old PSP or can get your hands on one for a low price, emulation is a great way to make the most of it and play multiple retro platforms on one convenient handheld. While there are[great emulators on Android](https://www.makeuseof.com/tag/best-game-emulators-for-android/) , a physical device just makes the experience so much better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Emulate Game Boy Games on Your PSP
 
  In this article, we’re going to be focusing on Game Boy emulation, as it’s one of the easiest platforms to get running on a PSP. Many of these steps will still apply for other platforms as the program we’ll be using has many platforms built in already. Let’s get to turning your PSP into a Game Boy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Disclaimer
 
@@ -45,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
  Before we delve further into this step, you’re going to need to update your PSP version 6.61\. Updating your PSP is outside the scope of this article, but updating your PSP follows the same steps as installing custom firmware. You can also quickly watch how to update your PSP in the video above.
 
 ![Downloading PSP custom firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/downloading-psp-custom-firmware.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Firstly, head to the[PSPunk website](https://www.pspunk.com/psp-cfw/) and go to the tab of your PSP model. You’ll want to download the**6.61 Pro C2** and the**Infinity v2.0.3** files.
@@ -54,25 +63,20 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
  We can’t just carelessly paste those downloaded files into your PSP. PSPs rely on a folder structure system and can’t recognize files just because they’re in the Memory Stick.
 
 ![Complete folder structure for PSP update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/complete-folder-structure-for-psp-update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For Infinity, follow this folder structure: PSP/GAME/UPDATE. If the UPDATE folder already exists, skip this step.
 
 ![Moving Infinity update file into PSP UPDATE folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/moving-infinity-update-file-into-psp-update-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Inside the**UPDATE** folder, transfer the**EBOOT.PBP** file from the Infinity ZIP file like in the image above. Make sure to choose the file inside the**pspgo** folder if you have a PSP GO. Otherwise, choose the file in the**standard** folder.
 
 ![Moving custom firmware folder into PSP GAME folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/moving-custom-firmware-folder-into-psp-game-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go back one tier in the folder structure into the**GAME** folder and transfer the**PROUPDATE** folder into it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Install Infinity and Pro C2 Firmware Into Your PSP
 
@@ -80,18 +84,27 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 
 ![Infinity 2 thumbnail on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/infinity-2-thumbnail-on-psp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We’ll start with Infinity first; turn your PSP on and head to**Game > Memory Stick** . Look for the Infinity 2 thumbnail and select it.
 
  Once you open Infinity, you’ll need to install it by pressing**X** on your PSP. After the installation completes, you’ll then be asked to reboot your PSP.
 
 ![Pro-C thumbnail on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-c-thumbnail-on-psp-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After rebooting your PSP, we can now install the custom firmware. To do this, head to**Game** on your PSP again and select the Pro C2 thumbnail.
 
 ![PRO-C installation screen on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-c-installation-screen-on-psp-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After launching it, you’ll see small text on the upper left of your PSP. All you need to do now is press**X** to execute the installation of the firmware. After installation, press**X** again to reboot your PSP and launch the custom firmware.
 
@@ -100,16 +113,16 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
  Now that you’re in the custom firmware, you’ll need to make it persistent with Infinity. If you don’t, rebooting your PSP will revert it back to official firmware.
 
 ![PRO CFW selected in Infinity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-cfw-selected-in-infinity.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  To make the custom firmware permanent, open up Infinity. With Infinity open, press left on your D-Pad. Select**PRO CFW by Coldbird** . You’ll know if you’ve selected it once you see an asterisk beside the text.
 
  Press right on your D-Pad to go back to the main Infinity screen and press the**Home button** on your PSP to exit.
 
 ![PSP system version with Pro-C and Infinity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/psp-system-version-with-pro-c-and-infinity-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can check if the custom firmware is installed by going to**Settings > System Settings > System Information** . You should see an infinity symbol next to the version number of your system software.
 
@@ -118,23 +131,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Now that you’ve got custom firmware installed on your PSP, you can now start installing the emulator. In our case, we’re going to use RetroArch, as it’s easy to download and get running.
 
 ![RetroArch PSP download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-psp-download-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 
  Firstly, head to the[RetroArch Downloads page](https://www.retroarch.com/?page=platforms) . Scroll down until you find the PSP emulator and click on**Download** .
 
 ![Extracting retroarch folder into PSP GAME folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/extracting-retroarch-folder-into-psp-game-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve downloaded RetroArch, plug your PSP in and open the RetroArch ZIP file and transfer the**retroarch** folder into the**PSP/GAME** folder in your PSP.
 
 ![RetroArch main menu with Quit RetroArch highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-main-menu-with-quit-retroarch-highlighted-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Unplug your PSP and on it, head to**Game > Memory Stick** . You should see the RetroArch thumbnail added. Run RetroArch so it creates new folders in your PSP. These new folders are where you place your games, emulator cores, configs, etc. You can now quit RetroArch and plug it back into your computer to add your legally obtained games.
 
@@ -142,27 +146,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  When moving games to your PSP for RetroArch to run, place it in the PSP/RETROARCH/DOWNLOADS folder and you should see them in the Downloads when selecting**Load Content** RetroArch on your PSP.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## An Old Platform to Play Older Platforms
 
  The first PSP was released in 2004, but it was way ahead of its time. The fact that it can play multiple retro platforms despite being considered retro itself is quite impressive.
 
  You can get a used PSP for cheap and be able to play PSP games natively on it, but you can also enjoy classic 2D games from other platforms with ease. Just avoid demanding 3D games as it starts to struggle with those.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -171,4 +165,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-acceleratedecelerate-your-youtube-videos-a-step-by-step-guide/"><u>[New] 2024 Approved Accelerate/Decelerate Your YouTube Videos A Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-chronoscope-effect-flip-your-snapchat-videos-right/"><u>[New] In 2024, Chronoscope Effect Flip Your Snapchat Videos Right</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unlocking-student-potential-with-instructional-videos/"><u>[Updated] 2024 Approved Unlocking Student Potential with Instructional Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-acid-pro-overview-plus-best-software-match-ups/"><u>[Updated] ACID Pro Overview + Best Software Match-Ups</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-ingenious-ways-to-save-on-gaming-expenses/"><u>4 Ingenious Ways to Save on Gaming Expenses</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-gaming-journey-recorders-guide/"><u>Ace Gaming Journey Recorders Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/acquiring-your-steam-identifier-without-hassle/"><u>Acquiring Your Steam Identifier Without Hassle</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginners-tips-using-emudeck-on-steam-deck/"><u>Beginner's Tips: Using EmuDeck on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-scenes-foddian-game-origins/"><u>Behind-the-Scenes: Foddian Game Origins</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-of-breeds-macs-top-console-emulators/"><u>Best of Breeds: Mac's Top Console Emulators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-overcoming-propsysdll-missing-challenges/"><u>Comprehensive Guide: Overcoming Propsys.dll Missing Challenges</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/delve-into-tech-with-toms-hardware-guide/"><u>Delve Into Tech with Tom's Hardware Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172894778-ecoled-gamingpanel-mini-led-big-savings/"><u>EcoLED GamingPanel: Mini-LED, Big Savings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-access-the-ultimate-selection-of-fifa-world-cup-hits-and-tracks-start-listening-today/"><u>Free Access: The Ultimate Selection of FIFA World Cup Hits and Tracks - Start Listening Today!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-conversion-transform-mp4r-audio-files-into-m4a-format-with-ease/"><u>Free Online Conversion: Transform MP4R Audio Files Into M4A Format with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173549570-grasp-the-games-nitty-gritty-championship-manager-free-pc-version/"><u>Grasp the Game's Nitty-Gritty: Championship Manager, Free PC Version!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ideal-enhancements-to-boost-the-functionality-of-chatgpts-marketplace/"><u>Ideal Enhancements to Boost the Functionality of ChatGPT's Marketplace</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/joyous-film-grabber-assessment/"><u>Joyous Film Grabber Assessment</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172227578-top-tier-gba-ios-games-simulation-experience-awaits/"><u>Top-Tier GBA iOS Games Simulation Experience Awaits!</u></a></li>
+</ul></div>
 

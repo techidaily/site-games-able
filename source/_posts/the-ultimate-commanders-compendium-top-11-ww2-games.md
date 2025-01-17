@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Commander’s Compendium: Top 11 WW2 Games"
-date: 2025-01-06T03:28:49.483Z
-updated: 2025-01-11T01:51:45.981Z
+date: 2025-01-14T23:26:47.778Z
+updated: 2025-01-16T23:04:15.094Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1. Company of Heroes 3
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  If you've never played a Company of Heroes game before, it's easy to jump in here thanks to the Full Tactical Pause feature available in single-player, which lets you pause the action and plan an attack at your own pace.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2. Steel Division 2
 
  Steel Division 2 is set during Operation Bagration, across a great single-player campaign that puts you in the roles of General, Colonel, and Weapons Expert. It aims to be historically accurate, with more than 600 units to control across 25 huge maps.
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  One awesome thing about Steel Division 2 is that you can either fight in the fun real-time tactical combat, or you can automatically resolve them if you just want the pure strategic experience.
 
  On top of all that, the game looks great. So much attention has been paid to the vehicles and environments that you'll feel totally immersed in the World War II experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3. Hearts of Iron IV
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  This is a complex game, and it requires a monumental amount of strategic thinking. If you want to see what World War II must have looked from the highest level of command, this is the game for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4. Order of Battle: World War II
@@ -75,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  Once you're done with the game's main content, you can use the powerful scenario editor to build your own campaigns and maps with ease. Panzer Corps 2 is so deep that you may never need to buy another WW2 game again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6. Codename: Panzers
 
  Codename: Panzers was first released in 2004, but it has since been remastered to work with modern systems and support larger resolutions. Despite its age, this is a game that is still worth playing thanks to its timeless tactical fun.
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Across landscapes like small towns, bleak mountains, and murky swamps, Codename: Panzers plunges you into the depths of war and lets you control lots of units like a battle tank, a flame-throwing squad, an organ rocket launcher, and more.
 
  While there is an online multiplayer mode to keep you happy, you should definitely check out the story mode, which is engrossing and supported by great voice acting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7. War in the East
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Beyond combat, you also manage production, supply lines, weather, and fog of war effects. This is a complicated, challenging strategy game that you can sink hundreds of hours into.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8. Men of War: Assault Squad 2
@@ -152,17 +152,20 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-end-screen-how-to-add-end-screen-to-video-on-vimeo/"><u>[Updated] 2024 Approved Vimeo End Screen How to Add End Screen to Video on Vimeo?</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/apex-craftsman-studio-evaluation-for-2024/"><u>Apex Craftsman Studio Evaluation for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/bite-sized-video-lessons-clearly/"><u>Bite-Sized Video Lessons, Clearly</u></a></li>
-<li><a href="https://games-able.techidaily.com/directing-the-flow-of-gaming-power-epic-plus-steam-integration/"><u>Directing the Flow of Gaming Power: Epic + Steam Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/dual-dominion-ruling-the-virtual-world-of-split-screen-minecraft/"><u>Dual Dominion: Ruling the Virtual World of Split-Screen Minecraft</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-through-the-best-of-indie-game-realms/"><u>Journey Through the Best of Indie Game Realms</u></a></li>
-<li><a href="https://games-able.techidaily.com/live-your-xbox-experience-no-controller-needed/"><u>Live Your Xbox Experience, No Controller Needed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-resolving-missing-mingwm10dll-errors-on-your-pc/"><u>Troubleshooting Tips for Resolving Missing mingwm10.dll Errors on Your PC</u></a></li>
-<li><a href="https://article-files.techidaily.com/unveiling-the-secrets-of-youtube-to-mp4mpeg-mastery/"><u>Unveiling the Secrets of YouTube to MP4/MPEG Mastery</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-v30-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-open-and-play-srt-on-different-platforms/"><u>[New] 2024 Approved Open and Play SRT on Different Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-leaders-designing-ultra-realistic-virtual-worlds/"><u>[Updated] 2024 Approved Leaders Designing Ultra-Realistic Virtual Worlds</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-crafting-an-irresistible-brand-image-on-your-fb-page/"><u>2024 Approved Crafting an Irresistible Brand Image on Your FB Page</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-methods-for-monitoring-mobile-and-internet-data-consumption/"><u>Effective Methods for Monitoring Mobile and Internet Data Consumption</u></a></li>
+<li><a href="https://win-unique.techidaily.com/guidelines-per-il-backup-dei-dati-su-server-nas-con-il-software-piu-ottimo/"><u>Guidelines per Il Backup Dei Dati Su Server NAS Con Il Software Più Ottimo</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932715-9781912992430-karma-in-human-life/"><u>Karma in Human Life | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-terminal-fun-zone-discover-7-game-ideas/"><u>Linux Terminal Fun Zone: Discover 7 Game Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-resolution-of-non-starting-display-drivers-in-windows-11/"><u>Mastering the Resolution of Non-Starting Display Drivers in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-selection-of-16-seated-xbox-players-games/"><u>Premium Selection of 16 Seated Xbox Players' Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/preparing-to-invest-in-a-smartwatch-consider-these-5-important-details-first/"><u>Preparing to Invest in a Smartwatch? Consider These 5 Important Details First</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-issues-a-comprehensive-guide-to-get-and-enable-elan-smbus-driver-on-your-windows-pc/"><u>Resolving Issues: A Comprehensive Guide to Get & Enable ELAN SMBus Driver on Your Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-integration-of-sega-dreamcatchers-with-android-technology/"><u>Seamless Integration of Sega Dreamcatchers with Android Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-master-key-to-a-clutter-free-steam-account-game-deletion-guide/"><u>The Master Key to a Clutter-Free Steam Account: Game Deletion Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ww2-command-center-11-game-reviews/"><u>The Ultimate WW2 Command Center: 11 Game Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/time-tested-trends-in-gaming-prices-on-steam/"><u>Time-Tested Trends in Gaming Prices on Steam</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discord Safety: A Compreayer's Checklist for Parents"
-date: 2025-01-10T00:03:36.686Z
-updated: 2025-01-11T06:11:05.521Z
+date: 2025-01-15T19:51:32.862Z
+updated: 2025-01-16T19:09:22.147Z
 tags:
   - games
 categories:
@@ -29,13 +29,13 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
  Discord has millions of active communities, or servers, as they are called. New ones are being created daily, since everyone can set up their own server free of charge. Some are private and invite-only, while others are public and can be accessed by anyone with a link. Like everyone else, kids and adolescents can use Discord to socialize, communicate with friends, and engage in various communities centered around their hobbies or interests.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Discord Have Parental Controls?
 
 ![Discord logo on black and white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/discord-parental-controls.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
 
@@ -48,28 +48,28 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Communicate Openly
 
  As a parent, you should communicate openly with your child about internet safety, and the dangers an underage person can encounter online. Whether you're concerned about cybersecurity or worry your kid might become a target of harassment, communication is key. As long as the youngster feels comfortable talking with you about whatever worries they might have, things should be fine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Educate Your Child
 
  It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Set Time Limits
 
@@ -79,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
  Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Encourage Critical Thinking
 
  And lastly, none of the above will make a real difference if your child isn't encouraged to think critically. It's one thing to be digitally literate, but it's imperative for every kid and teenager to understand how technology actually works, what motivates bad behaviors, how to identify threats, and why taking responsibility is important.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Discord Is as Safe as You Make It
 
@@ -108,22 +108,21 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-starter-guide-to-motion-graphics-mastery-for-2024/"><u>[Updated] Starter Guide to Motion Graphics Mastery for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieve-every-milestone-the-complete-guide-to-steam-awards/"><u>Achieve Every Milestone: The Complete Guide to Steam Awards</u></a></li>
-<li><a href="https://games-able.techidaily.com/ascertaining-maximum-vram-for-your-device/"><u>Ascertaining Maximum VRAM for Your Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-asus-rog-phone-7-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Asus ROG Phone 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-countdown-who-wins-in-the-ps5-vs-xbox-series-x/"><u>Console Countdown: Who Wins in the PS5 Vs. Xbox Series X?</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-magic-behind-procedurally-crafted-games/"><u>Decoding the Magic Behind Procedurally Crafted Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-fun-practical-uses-for-games-trendy-tech/"><u>Enhancing Fun: Practical Uses for Games' Trendy Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-typing-experience-on-steam-deck/"><u>Enhancing Typing Experience on Steam Deck</u></a></li>
-<li><a href="https://video-capture.techidaily.com/free-video-recorders-for-every-android-user-for-2024/"><u>Free Video Recorders for Every Android User for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-saving-game-moments-with-fbx-recorder/"><u>In 2024, Saving Game Moments with FBX Recorder</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/joint-adventures-await-uniting-your-epic-and-steam-life/"><u>Joint Adventures Await: Uniting Your Epic and Steam Life</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/managing-heat-efficiency-in-your-windows-11-computer/"><u>Managing Heat Efficiency in Your Windows 11 Computer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Navigating Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-5-best-video-editors-for-avchd-files-for-2024/"><u>New The 5 Best Video Editors for AVCHD Files for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/secrets-of-single-stream-success-online-broadcast-tips-and-tricks-for-2024/"><u>Secrets of Single-Stream Success Online Broadcast Tips and Tricks for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategic-use-of-reset-button-on-sonys-ps5-remote/"><u>Strategic Use of Reset Button on Sony's PS5 Remote</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-crafting-flawless-transcriptions-googles-speech-magic/"><u>[New] 2024 Approved Crafting Flawless Transcriptions Google’s Speech Magic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unmatched-recording-alternatives-for-modern-gaming-enthusiasts/"><u>[Updated] 2024 Approved Unmatched Recording Alternatives for Modern Gaming Enthusiasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation/"><u>[Updated] Unleashing Satirical Genius in the Metaverse – How-To Meme Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-your-favorite-gaming-buddy-for-rpi-batocera-or-retropie/"><u>Deciding Your Favorite Gaming Buddy for RPi: Batocera or RetroPie?</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-settings-for-a-perfect-typing-experience-on-steam-deck/"><u>Fine-Tuning Settings for a Perfect Typing Experience on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-the-best-way-ultrawide-monitors-at-144hz/"><u>Game the Best Way: Ultrawide Monitors at 144Hz</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-of-sapphire-drivers-free-downloads-and-tutorials-for-windows-pcs/"><u>Get the Latest Version of Sapphire Drivers - Free Downloads and Tutorials for Windows PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-low-cost-screen-recorder-guide-for-old-computers/"><u>In 2024, Low-Cost Screen Recorder Guide for Old Computers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-14-plus-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone 14 Plus and Browser | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/join-the-social-scene-facebook-live-streams-on-roku-tv-for-2024/"><u>Join The Social Scene Facebook Live Streams on Roku TV for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-of-transferring-multitudes-of-tiktok-videos/"><u>Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-ssd-reviews-ps5-edition/"><u>Premium SSD Reviews: PS5 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/pretend-promo-reality-check-in-the-gaming-sphere/"><u>Pretend Promo Reality Check in the Gaming Sphere</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-6-game-dynamics-that-drive-player-engagement/"><u>The 6 Game Dynamics That Drive Player Engagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unlikely-future-of-gamefi-among-serious-gamers/"><u>The Unlikely Future of GameFi Among Serious Gamers</u></a></li>
 </ul></div>
 

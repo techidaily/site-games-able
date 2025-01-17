@@ -1,7 +1,7 @@
 ---
 title: Play on, Play On! New Ways to Experience Flash Games
-date: 2024-08-15T17:24:35.721Z
-updated: 2024-08-16T17:24:35.721Z
+date: 2025-01-15T16:08:04.636Z
+updated: 2025-01-16T16:37:29.514Z
 tags:
   - games
 categories:
@@ -28,14 +28,12 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
  As a lightweight animation tool, it helped turn the static text-based interface of the internet into the interactive portal it has become today. It wouldn’t take long to get noticed by the gaming community, who would start using it to build video games.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## A Gaming Legacy That Spans Over Two Decades
 
 ![dark arcade room with adobe flash logo in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flash-arcade-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Logo Credit: Adobe/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adobe%5FFlash%5FPlayer%5F32.svg)
@@ -53,11 +51,16 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
  The following projects are seeking to preserve Flash games, ensuring we can all continue to enjoy playing Flash games without Flash well into the future:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1. BlueMaxima’s Flashpoint
 
 ![A screenshot of BlueMaxima's Flashpoint home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/bluemaximas-flashpoint-home-page-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Efforts to save Flash games began with the individual contributions of Ben Latimore[(Medium)](https://medium.com/@bluemaximax011) . After Latimore published a[Medium article](https://medium.com/@bluemaximax011/adobe-flashs-gaming-legacy-thousands-upon-thousands-of-titles-and-my-efforts-to-save-it-58c14811558a) that gathered very positive attention over his efforts, Flashpoint turned into the international web game preservation project that it is now.
 
@@ -73,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
 ![flash game archive website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flash-game-archive.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Flash Game Archive is a free archive of Flash games that you can play locally on your computer at any time. Its stated goal is to preserve Flash games before they are completely lost.
 
  This preservation project is headed by the Canadian developer team, Dragom. The Flash Game Archive is a non-profit project and free to use, but if you join[the Flash Game Archive Patreon](https://www.patreon.com/flashgamearchive) you can gain earlier access to all game additions and the ability to request to have new games added.
@@ -84,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 ### 3. The Internet Archive
 
 ![internet archive software library webpage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/internet-archive-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Internet Archive, the non-profit digital library of internet sites and other cultural artifacts famous for[the Wayback Machine](https://archive.org/web/) , is now emulating Flash games and content. Following its tenet, "access drives preservation," the Internet Archive launched the Emularity project, which makes a wide range of old software run.
 
@@ -94,14 +98,12 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
  Together, The Internet Archive and Ruffle allow you to play Flash games without Flash just as you used to do, even after December 2020\. The system works in all browsers that support Webassembly and does not require you to have Adobe Flash Player installed.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4. Newgrounds
 
 ![newgrounds website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-grounds-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Newgrounds, the online entertainment website and company (yes, the same one that helped catapult Flash games to greatness), is another organization that is helping preserve and play Flash games without Flash. Having been home to over 20 years of content built using Flash, it intends to continue to be so even after browsers removed Flash plugin support.
@@ -116,14 +118,11 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
  Furthermore, Flash practically gave birth to web-based games and helped one of the largest indie gaming scenes emerge out of nowhere. The amount of games built using Flash over its 20-year history is so vast that it surpasses the number of games built for any other platform by far.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +131,21 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-quick-shot-guide-for-chromebook-users-for-2024/"><u>[New] Quick Shot Guide for Chromebook Users for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capturing-high-fidelity-games/"><u>[Updated] 2024 Approved Capturing High Fidelity Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audiovisual-harmony-incorporating-audio-into-powerpoint-presentations/"><u>[Updated] Audiovisual Harmony Incorporating Audio Into PowerPoint Presentations</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1728495852396-aomei-backupper/"><u>如何在AOMEI Backupper中管理備份記錄—入出兩方面解決方案</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamic-mmx-200-review-great-sound-but-needs-more-features/"><u>Beyerdynamic MMX 200 Review: Great Sound, But Needs More Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-connections-the-hidden-risks-of-linkedin-gaming/"><u>Beyond Connections: The Hidden Risks of LinkedIn Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-am08-pro-enhance-authenticity-of-magic-play/"><u>Can AM08 Pro Enhance Authenticity of Magic Play?</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-offensive-behavior-xbox-report-guide/"><u>Combatting Offensive Behavior: Xbox Report Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/comet-craftsmanship-evaluating-next-gen-computers/"><u>Comet Craftsmanship: Evaluating Next-Gen Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparative-analysis-steam-vs-gog-game-platforms/"><u>Comparative Analysis: Steam vs GOG Game Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-novice-to-pro-creating-impressive-fb-covers-for-2024/"><u>From Novice to Pro Creating Impressive FB Covers for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-lava-storm-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Storm 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-how-to-download-videoleap-on-macbook/"><u>Updated 2024 Approved How to Download Videoleap on MacBook</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/whatsapp-broadcasting-share-your-tweets-video-style/"><u>WhatsApp Broadcasting Share Your Tweets Video-Style</u></a></li>
+</ul></div>
 

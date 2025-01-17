@@ -1,7 +1,7 @@
 ---
 title: Exploring the Possibilities of PS4 Games on PS5
-date: 2025-01-06T04:17:22.755Z
-updated: 2025-01-11T04:07:20.426Z
+date: 2025-01-10T01:13:36.064Z
+updated: 2025-01-16T18:54:15.946Z
 tags:
   - games
 categories:
@@ -19,16 +19,16 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Can I Play PS4 Games on My PS5?](#can-i-play-ps4-games-on-my-ps5)
 * [How Do I Play PS4 Games on My PS5?](#how-do-i-play-ps4-games-on-my-ps5)
 * [What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?](#what-rsquo-s-the-difference-between-ps4-games-and-ps4-games-with-ps5-upgrades)
 * [Are the PS5 Upgrades Worth It?](#are-the-ps5-upgrades-worth-it)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
  One example of why this might be the case is if you purchased a PS3 game and then upgraded it to the PS4 version. These PS4 games won’t work on the PS5 because you still need the PS3 disc to play them. While PS4 discs do work on the PS5, PS3 ones don’t.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Play PS4 Games on My PS5?
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
 ![View Details Icon PS5 Game Download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/view-details-icon-ps5-game-download.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select**View Details** to bring up a list of all the games on your console and select the ones you are prepared to delete. Press**Delete** on the right to remove those games and make space for your PS4 title.
 
  Once you have enough space, the data will resume copying onto your PS5.
@@ -92,13 +88,25 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
 ![Game Library Tab PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/game-library-tab-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Head to your**Games Library** by scrolling to the very right on your Home Screen and navigating to**Your Collection** . This is where you will find all the digital titles you have purchased through your PS Account.
 
  Go to the**Sort By icon** on the left, select**Platform** , and select**PS4** . That will allow you to isolate all the PS4 games in your collection. Scroll through the titles until you find your desired PS4 game and select it to re-download it onto your new console.
 
 ![Download PS4 Games onto PS5 via PS Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/download-ps4-games-onto-ps5-via-ps-account-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you would rather save your console's internal storage for PS5 games, you can also store and[play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?
 
@@ -116,14 +124,10 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
 ![PS5 Upgrade Choose Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-choose-version.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  These upgrades can cost money, so utilizing them is completely optional. You are more than welcome to simply play the PS4 version if you would prefer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are the PS5 Upgrades Worth It?
@@ -131,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
  If you are tempted by a PS5 upgrade but you're not sure if it's worth it, let's go over the benefits. Upgrading your PS4 game to the PS5 version not only gives the graphics a significant boost but also improves overall performance, allowing you to experience the game at a higher frame rate.
 
 ![PS4 and PS5 version of Marvel Spider Man Remastered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps4-and-ps5-version-of-marvel-spider-man-remastered.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Although the graphics and lighting effects in the PS5 version of Marvel's Spider-Man Remastered are dramatically improved, the PS4 version already looks great.
 
@@ -157,15 +157,24 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-non-gaming-video-capture-and-screen-save-software/"><u>[New] 2024 Approved Best Non-Gaming Video Capture and Screen Save Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-action-cams-reduce-jitter-for-smooth-videos/"><u>[New] Best Action Cams Reduce Jitter for Smooth Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-best-mobile-and-desktop-video-player-for-2024/"><u>[New] Best Mobile and Desktop Video Player for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-steps-to-post-music-on-social-media-stories/"><u>[New] Steps to Post Music on Social Media Stories</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-comparative-analysis-is-pickup-the-best-editor-for-your-android-device-in-2024/"><u>[Updated] Comparative Analysis Is PickUp The Best Editor for Your Android Device, In 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-reasons-to-pay-for-mobile-games-rather-than-play-for-free/"><u>5 Reasons to Pay for Mobile Games Rather Than Play for Free</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-gaming-satisfaction-with-secure-switch-identity-controls/"><u>Enhance Gaming Satisfaction with Secure Switch Identity Controls</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-error-403-on-roblox-tips-and-tricks-for-windows/"><u>Navigating Through Error 403 on Roblox: Tips and Tricks for Windows</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-explore-the-leading-gratis-digital-audio-workstations-for-windowsmac-devices/"><u>New Explore the Leading Gratis Digital Audio Workstations for Windows/Mac Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-10-errors-smart-buying-tips-for-choosing-a-monitor/"><u>Top 10 Errors: Smart Buying Tips for Choosing a Monitor</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-remedying-silent-tweets-with-audio-integration/"><u>[New] In 2024, Remedying Silent Tweets with Audio Integration</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-transition-for-extracting-facebooks-graphic-gems-anywhere/"><u>[New] Seamless Transition for Extracting Facebook's Graphic Gems Anywhere</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2023-facebook-hack-get-your-account-back-for-2024/"><u>[Updated] 2023 | Facebook Hack? Get Your Account Back for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pixelmaster-record-download-use-and-assessment/"><u>[Updated] In 2024, PixelMaster Record Download, Use & Assessment</u></a></li>
+<li><a href="https://games-able.techidaily.com/concealed-engagements-in-the-virtual-realm/"><u>Concealed Engagements in the Virtual Realm</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-z-flip-5-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy Z Flip 5 Device SIM</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-guide-to-updating-to-the-newest-freelibreoffice-on-linux-systems/"><u>Easy Guide to Updating to the Newest FreeLibreOffice on Linux Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-to-refresh-the-driver-of-your-logitech-m310-mouse/"><u>Easy Steps to Refresh the Driver of Your Logitech M310 Mouse</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-solutions-for-error-0x80042306-during-system-restore/"><u>Expert Solutions for Error 0X80042306 During System Restore</u></a></li>
+<li><a href="https://games-able.techidaily.com/expertly-crafted-logitech-gamer-mouse/"><u>Expertly Crafted Logitech Gamer Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-nows-latest-pass-does-it-justify-excitement/"><u>GeForce Now's Latest Pass: Does It Justify Excitement?</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-optimization-unveiled-x-ally-leads-way/"><u>Handheld Optimization Unveiled, X-Ally Leads Way</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-gaming-joy-with-non-responsive-controllers-on-windows/"><u>Restoring Gaming Joy with Non-Responsive Controllers on Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-lost-memories-expert-picks-for-superior-photo-renewal-tools/"><u>Revive Lost Memories: Expert Picks for Superior Photo Renewal Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-resolve-roblox-error-262/"><u>Strategies to Resolve Roblox Error 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/undercover-gaming-techniques/"><u>Undercover Gaming Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-iems-in-esports-performance/"><u>Understanding IEMs in Esports Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-are-foddian-games-and-whats-the-origin-of-the-name/"><u>What Are Foddian Games, and What's the Origin of the Name?</u></a></li>
 </ul></div>
 

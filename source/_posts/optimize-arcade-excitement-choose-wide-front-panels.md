@@ -1,7 +1,7 @@
 ---
 title: Optimize Arcade Excitement - Choose Wide Front Panels
-date: 2024-08-15T17:25:58.090Z
-updated: 2024-08-16T17:25:58.090Z
+date: 2025-01-10T17:23:29.067Z
+updated: 2025-01-16T20:38:29.052Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/c930e94b907356f9a15f0bf147840ab473cafcc14
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like[building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -37,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/c930e94b907356f9a15f0bf147840ab473cafcc14
  Leveraging the power of Big Box via EmuMovies automatically finds all of the metadata for each game automatically, allows you to essentially set it and forget it! But you’ll need to be a premium member of both, then link your EmuMovies account to LaunchBox.
 
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
@@ -49,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/c930e94b907356f9a15f0bf147840ab473cafcc14
 
  But in terms of ease-of-use and the time saved alone, it’s going to be money well spent. Especially if you want your arcade cabinet to grow with you as you keep adding games via Steam or another source.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Big Box Adds Context to Your Library
 
  Want to know the importance of context? Look at this listing below as an example. If I had not used EmuMovies as I discussed a moment ago, this cabinet would be nothing but a list of games.
@@ -59,15 +61,13 @@ thumbnail: https://thmb.techidaily.com/c930e94b907356f9a15f0bf147840ab473cafcc14
  But because I imported the metadata a moment ago, now this listing has a description, trailer, a banner image, and even music from the game. It’s as informative as a listing of an episode or film on your favorite streaming service, making it easy to choose the game you want to play.
 
 ![Game page in EmuMovies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/emu-movies-front-page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
 
  If you’re building your arcade cabinet for the first time, you’re probably wondering how the heck you’re going to be able to exit a game or adjust the volume. You may think you need dedicated buttons, and while that’s one route, Big Box solves this problem by allowing you to hotkey certain tasks.
@@ -81,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/c930e94b907356f9a15f0bf147840ab473cafcc14
  Once you have[set up dual monitors](https://www.makeuseof.com/how-to-set-up-dual-monitors/) for your arcade system, go into Big Box then select**Options > General > Marquee Screen > Screen 2** . Now, whenever you highlight a game in Big Box, your second screen will display the marquee for that particular game, usually reflective of the cabinet it was in during its heyday. It’s a nice touch that goes a long way toward making your cabinet feel authentic yet new.
 
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
@@ -96,21 +97,18 @@ thumbnail: https://thmb.techidaily.com/c930e94b907356f9a15f0bf147840ab473cafcc14
  Next, start Big Box from LaunchBox. Then, go to **System > Options > General > Enable Using Big Box as the Windows Shell > Yes.** The next time you reboot your device, Big Box will replace the Windows shell. If you need to get into Windows, you can still close Big Box via the Task Manager to gain access to Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Big Box Takes the Headache Out of Arcade Frontends
 
  The amount of time and frustration saved alone is worth the cost of admission for LaunchBox and EmuMovies. It’s layered tidily in Big Box, making navigating your library of games via arcade controls so easy, you’ll wonder why other frontends are so complicated. Give it a shot, and you’ll become one of the converted.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +117,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-through-boundaries-with-hdr-in-editing/"><u>[New] Breaking Through Boundaries with HDR in Editing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-effortless-video-downloads-at-fingertips-select-from-these-top-chrome-plugins/"><u>[New] In 2024, Effortless Video Downloads at Fingertips Select From These Top Chrome Plugins</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-harmony-creations-synopsis-studio-25-examination-2-habits/"><u>[Updated] 2024 Approved Harmony Creations Synopsis Studio 25 Examination, 2 Habits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-seamless-audio-prime-websites-for-turning-video-melodies-into-sound-effects/"><u>[Updated] 2024 Approved Seamless Audio Prime Websites for Turning Video Melodies Into Sound Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-era-of-interoperability-for-gaming-hardware/"><u>A New Era of Interoperability for Gaming Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-tale-of-three-missteps-my-rtx-4090-journey/"><u>A Tale of Three Missteps: My RTX 4090 Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-optimal-gaming-learn-how-to-fine-tune-xbox-series-vrr-configurations/"><u>Achieve Optimal Gaming: Learn How to Fine-Tune Xbox Series VRR Configurations</u></a></li>
+<li><a href="https://games-able.techidaily.com/am08-pro-factors-of-a-valid-acemagic-game/"><u>AM08 Pro: Factors of a Valid AceMagic Game?</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-apps-on-linux-a-step-by-step-guide/"><u>Android Apps on Linux – A Step by Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-rtx-now-essential-post-gtx-era/"><u>Are RTX Now Essential Post-GTX Era?</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-8-lite-simulations-playing-android-on-desktop/"><u>Best 8 Lite Simulations: Playing Android on Desktop</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173882396-bid-farewell-to-single-os-on-steam-deck/"><u>Bid Farewell to Single OS on Steam Deck</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tunes-apps-win-edition/"><u>In 2024, Top Tunes Apps Win Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-nokia-105-classic-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Nokia 105 Classic</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/seamless-photo-transfer-tutorial-for-upgraded-users-from-iphone/"><u>Seamless Photo Transfer Tutorial for Upgraded Users: From iPhone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-walkthrough-installing-your-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-insta98/"><u>Step by Step Walkthrough: Installing Your Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mac-video-maker-effortless-slideshow-creation-in-macos/"><u>Updated In 2024, Mac Video Maker Effortless Slideshow Creation in macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170335503-what-is-the-essence-of-meta-in-video-games-compliance-matters/"><u>What Is the Essence of Meta in Video Games? Compliance Matters!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-isnt-my-logitech-mouse-working-diagnosis-and-fixes-revealed/"><u>Why Isn't My Logitech Mouse Working? Diagnosis & Fixes Revealed!</u></a></li>
+</ul></div>
 

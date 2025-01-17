@@ -1,7 +1,7 @@
 ---
 title: The Cooling Cost of Graphics Gamble
-date: 2025-01-08T08:57:55.900Z
-updated: 2025-01-11T07:54:53.256Z
+date: 2025-01-09T16:01:11.499Z
+updated: 2025-01-17T00:55:32.695Z
 tags:
   - games
 categories:
@@ -28,12 +28,16 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  Overclocking lets you squeeze every last drop of performance that your graphics card has to offer. But is it worth all the effort and potential downsides? Well, not in my experience with my GeForce RTX 4090\. Let's discuss why.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Increased Power Draw
 
 ![MSI Afterburner and RTSS showing performance stats for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-and-rtss-showing-performance-stats-for-cyberpunk-2077.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Increased power draw is an inevitable side effect of overclocking, no matter how safely you[overclock your graphics card](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) . That's because to get more performance out of your graphics card, you need to provide it with more voltage in most cases.
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  In my experience with my RTX 4090, the energy consumption skyrocketed by 15-30 percent for a 2-5 percent boost in frame rate across various games. So, is overclocking worth the increased electricity costs? Not in my book.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Higher Operating Temperature
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  However, if your graphics card runs hot most of the time, expect a negative impact on its lifespan. Therefore, if you plan to keep your graphics card for several years, I highly recommend against overclocking it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Screen Flickering
@@ -70,16 +74,12 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  While there are several[ways to fix screen flickering on Windows](https://www.makeuseof.com/tag/fix-windows-10-screen-flashing-problem/) , the only way to resolve it after an overclock is by either raising your GPU voltage or reverting the clocks to their default values.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Occasional Crashes While Gaming
 
 ![Cyberpunk 2077 crash message on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyberpunk-2077-crash-message-on-windows.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Besides screen flickering, your favorite games may occasionally crash after you overclock your GPU. This issue is predominant in games that are GPU-intensive. Once again, this is a good sign that your overclock isn't stable.
@@ -105,22 +105,18 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-fostering-creativity-for-impressive-mac-produced-tiktok-beginnings/"><u>[Updated] Fostering Creativity for Impressive Mac-Produced TikTok Beginnings</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/5lia6acb5oiq5p6c77ya5pit5oec5liu5pyj5pwi5zyw5o235b6r5a2457pluss5qc85byp5yyw5b6m6loh5paz5pc25pwr5oqa5ben/"><u>一頁成果：易懂且有效地捷徑學習格式化後資料搶救技巧</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173627124-elevate-your-arcade-experience-large-format-framing-recommended/"><u>Elevate Your Arcade Experience: Large-Format Framing Recommended!</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-play-establishing-a-4k-environment-on-xbox-series-x/"><u>Elevate Your Play: Establishing a 4K Environment on Xbox Series X</u></a></li>
-<li><a href="https://games-able.techidaily.com/embark-on-virtual-journeys-game-edition/"><u>Embark on Virtual Journeys - Game Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-portable-power-stations-for-gaming/"><u>Exclusive Portable Power Stations for Gaming</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-a-decade-of-dreamy-vacation-flicks-top-10-titles/"><u>In 2024, A Decade of Dreamy Vacation Flicks Top 10 Titles</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-optimizing-your-in-stream-ad-strategy-on-facebooks-platform/"><u>In 2024, Optimizing Your In-Stream Ad Strategy on Facebook's Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/join-the-digital-detective-game-with-ai-partners/"><u>Join the Digital Detective Game with AI Partners</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/qualcomms-game-changing-snapdragon-processors-in-dell-xps-13-plus-achieving-twice-the-battery-life-at-half-the-price-of-intel-options/"><u>Qualcomm's Game-Changing Snapdragon Processors in Dell XPS 13 Plus: Achieving Twice the Battery Life at Half the Price of Intel Options</u></a></li>
-<li><a href="https://games-able.techidaily.com/secrets-to-a-smooth-steam-refund-and-recovery-of-cash/"><u>Secrets to a Smooth Steam Refund and Recovery of Cash</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/stay-current-a-step-by-step-process-on-how-to-check-for-updates-yl-software-solutions/"><u>Stay Current: A Step-by-Step Process on How to Check for Updates - YL Software Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-t2-pro-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo T2 Pro 5G Phone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/top-mp4-to-facebook-video-converter-2023-edition/"><u>Top MP4-to-Facebook Video Converter 2023 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165858880-unleash-your-inner-hero-in-the-ultimate-free-game-collection/"><u>Unleash Your Inner Hero in The Ultimate Free Game Collection!</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-hidden-gems-with-2p-minecraft-on-switch/"><u>Unlock Hidden Gems with 2P Minecraft on Switch</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-guide-to-exporting-pinterest-videos-into-mp3-format/"><u>[New] 2024 Approved Guide to Exporting Pinterest Videos Into MP3 Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unveiling-updates-in-lgs-revolutionary-360-camera-tech/"><u>[New] 2024 Approved Unveiling Updates in LG's Revolutionary 360 Camera Tech</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-hourly-video-consumption-total-daily-gb-amount/"><u>[New] In 2024, Hourly Video Consumption Total Daily GB Amount</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-gaming-recorded-the-complete-breakdown/"><u>[Updated] 2024 Approved Gaming Recorded The Complete Breakdown</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-voiceover-dynamics-for-stellar-ppt-presentations/"><u>[Updated] In 2024, Voiceover Dynamics for Stellar PPT Presentations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/accelerate-creativity-in-photo-editing-using-pixlr-for-2024/"><u>Accelerate Creativity in Photo Editing Using Pixlr for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-evolution-how-the-xbox-series-s-abandons-physical-media/"><u>Gaming Evolution: How the Xbox Series S Abandons Physical Media</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-leading-edge-facebook-film-archives/"><u>In 2024, Leading Edge Facebook Film Archives</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-s23-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S23 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-power-the-ultimate-guide-to-starting-an-fps-game-right/"><u>Precision Power: The Ultimate Guide to Starting an FPS Game Right</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-your-ideal-raspberry-pi-emulator-batocera-vs-retropie/"><u>Selecting Your Ideal Raspberry Pi Emulator: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-stop-your-xbox-joystick-from-skipping/"><u>Solutions to Stop Your Xbox Joystick From Skipping</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-face-off-samsung-galaxy-book-4-versus-apple-macbook-pro-in-the-battle-for-elite-portability-techradar/"><u>Ultimate Face-Off: Samsung Galaxy Book 4 versus Apple MacBook Pro in the Battle for Elite Portability | TechRadar</u></a></li>
 </ul></div>
 

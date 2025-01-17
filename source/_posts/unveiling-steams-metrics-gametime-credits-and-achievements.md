@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Steam's Metrics: Gametime, Credits and Achievements"
-date: 2025-01-06T22:09:07.453Z
-updated: 2025-01-10T22:16:12.445Z
+date: 2025-01-11T22:08:22.871Z
+updated: 2025-01-16T20:16:23.265Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 * [What You'll Find in Your 2023 Steam Year in Review](#what-you-39-ll-find-in-your-2023-steam-year-in-review)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
  Steam lets you see how you spent your 2023 on the platform thanks to its Year in Review report. Here's how you can access your personalized report to see your Steam gaming stats for the year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Steam's Year in Review Is Now Available
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
  Steam released this report as Steam Replay 2022 in late December 2022, and it's doing it again in 2023\. However, Steam changed the name from Steam Replay to Steam Year in Review, and it's also releasing the report about two weeks earlier than last year.
 
  Once you've seen your report, you can share it on social media and other platforms. You can also[check out your Steam Replay 2022](https://www.makeuseof.com/how-to-see-steam-replay-2022/) and compare how your gaming habits changed over the year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to See Your Steam Stats for 2023
 
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 
 ![Steam Year in Review email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-email.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Just look for the email with the subject "**Your Steam Year In Review 2023 is Here!"** from**<noreply@steampowered.com>** . When you open it, press**See Your Year in Review** to see your report in your browser.
 
  If you didn't receive an email from Steam or can't find it, you can still see your Steam Year in Review 2023 by going to View Notifications (the bell icon beside your username) on the Steam app or Steam website and pressing**View All** .
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
  From there, you should see the**Your Year In Review Is Ready!** notification. Just click on it, and you should see your report.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You'll Find in Your 2023 Steam Year in Review
@@ -81,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 
 ![Steam Year in Review What You Play and By the Numbers Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-what-you-play-and-by-the-numbers-section.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Interestingly, the report will also show the types of games you spent the most time in, as well as your participation in the Steam community. This includes the new friends you've added, screenshots you've shared, discussion posts you made, and[game reviews left on Steam](https://www.makeuseof.com/how-to-leave-a-game-review-on-steam/) .
 
  If you use Steam across multiple platforms, like Windows, macOS, ChromeOS (yes, you can[install Steam on your Chromebook](https://www.makeuseof.com/steam-on-chromebook/) ), and Steam Deck, you will also see how much of your gaming was divided among them.
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
  You should see the share button at the bottom of your Steam Year in Review. When you click this, you'll see three photos you can download for sharing on social media.
 
 ![Sharing your Steam Year in Review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/share-steam-year-in-review.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also share it directly on Facebook, X, Reddit, and on your Steam Friends Activity and Steam Profile Showcase. It also has a copy link button to directly share your Steam Year in Review 2023 page via messaging.
 
@@ -112,22 +112,15 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-maximizing-vimeo-video-watch-time/"><u>[New] Maximizing Vimeo Video Watch Time</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-authentic-audience-growth-tricks-for-sustainable-views/"><u>[Updated] In 2024, Authentic Audience Growth Tricks for Sustainable Views</u></a></li>
-<li><a href="https://program-issues.techidaily.com/are-there-any-connectivity-issues-with-xbox-live-today/"><u>Are There Any Connectivity Issues with Xbox Live Today?</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-performance-in-shooter-games-through-sensitivity-tweaks/"><u>Boosting Performance in Shooter Games Through Sensitivity Tweaks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/broadcast-battle-which-platform-wins-in-2024/"><u>Broadcast Battle Which Platform Wins, In 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/choosing-between-ps5-and-xbox-xs-game-systems/"><u>Choosing Between PS5 & Xbox XS Game Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/claim-your-free-digital-content-today/"><u>Claim Your Free Digital Content Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/comprehensive-review-of-the-lenovo-ideapad-3-iaax9-laptop-budget-friendly-and-game-ready/"><u>Comprehensive Review of the Lenovo Ideapad 3 (IAAX9) Laptop - Budget Friendly and Game Ready!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-steps-to-repair-steam-crash-on-startup-due-to-failed-steamuidll-loading/"><u>Comprehensive Steps to Repair Steam Crash on Startup Due to Failed 'steamui.dll' Loading</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-creativity-9-games-for-aspiring-designers/"><u>Elevate Creativity: 9 Games for Aspiring Designers</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/enhancing-your-computers-efficiency-essential-strategies-and-advice-yl-tech-solutions/"><u>Enhancing Your Computer's Efficiency: Essential Strategies and Advice - YL Tech Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-brio-camera-drivers-compatible-with-windows-1087-download-now/"><u>Logitech Brio Camera Drivers Compatible with Windows 10/8/7 - Download Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-gaming-analysis-on-steam-platform/"><u>Maximizing Gaming Analysis on Steam Platform</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/reviving-your-vmware-vcenter-a-step-by-step-guide-to-recovering-from-a-backup/"><u>Reviving Your VMware vCenter: A Step-by-Step Guide to Recovering From a Backup</u></a></li>
-<li><a href="https://games-able.techidaily.com/slowdown-simplicity-discover-idles/"><u>Slowdown Simplicity: Discover Idles</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-tech-ultimate-gaming-mouse/"><u>Superior Tech, Ultimate Gaming Mouse</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-7-fps-configurations-for-optimal-play/"><u>Top 7 FPS Configurations for Optimal Play</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-dominating-viewership-tips-for-your-video-to-be-a-staff-choice-for-2024/"><u>[New] Dominating Viewership Tips for Your Video to Be a Staff Choice for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-rotate-your-upside-down-and-sideway-photos-on-iphone/"><u>2024 Approved How to Rotate Your Upside Down and Sideway Photos on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-techniques-for-sonys-dualsense-upgrade/"><u>Cutting-Edge Techniques for Sony's DualSense Upgrade</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-phantom-v-flip-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Phantom V Flip Phones? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restart-steam-3-different-ways/"><u>How to Restart Steam: 3 Different Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-joys-con-connectivity-hurdles-in-switch-system/"><u>Overcoming Joys-Con Connectivity Hurdles in Switch System</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-tab-navigation-windows-11-enhanced-guide/"><u>The Art of Tab Navigation: Windows 11 Enhanced Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-tips-updating-your-mac-and-mobile-screen-time-password/"><u>Ultimate Troubleshooting Tips: Updating Your Mac and Mobile Screen Time Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/watts-worth-dreams-beyond-volts/"><u>Watt's Worth: Dreams Beyond Volts</u></a></li>
 </ul></div>
 

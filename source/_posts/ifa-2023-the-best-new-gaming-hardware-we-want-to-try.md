@@ -1,7 +1,7 @@
 ---
 title: "IFA 2023: The Best New Gaming Hardware We Want to Try"
-date: 2025-01-10T00:36:44.721Z
-updated: 2025-01-11T03:52:43.787Z
+date: 2025-01-14T17:11:14.915Z
+updated: 2025-01-16T17:12:55.241Z
 tags:
   - games
 categories:
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![Lenovo Legion Go Controller and Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-controller-mouse.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  Lenovo is wisely positioning the Legion GO as a gaming handheld just as capable as a desktop. It beats the Steam Deck and ROG Ally's screen size by nearly two full inches, boasting an impressive 8.8-inch screen. It also includes a kickstand, making it easy to plop onto your desk and play like any gaming PC.
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![Lenovo Legion Go with Kickstand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-kickstand.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
@@ -92,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![Cord of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-cord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
@@ -101,20 +97,20 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![Nosepad of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-nosepad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Lenovo Legion 9i
 
 ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
@@ -126,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![Legion 9i's cooling system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-cooling-system.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
@@ -147,10 +143,6 @@ The Lenovo Legion 9i will be available starting October 2023.
 
 ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Gavin Phillips/MakeUseOf
 
  MSI impressed us with its new line of[GAMING SLIM series of graphics cards](https://www.msi.com/Graphics-Card/GeForce-RTX-4060-Ti-GAMING-X-SLIM-16G) . It effectively shrinks down the GeForce RTX 40 series, making installing it in small or tight spaces easier.
@@ -163,9 +155,17 @@ The Lenovo Legion 9i will be available starting October 2023.
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tecno MegaMini Watercooled Mini PC
 
 ![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Paul Antill/[MakeUseOf](http://www.makeuseof.com)
 
@@ -201,17 +201,24 @@ No word on the price or release date yet, but color us intrigued.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-mastering-youtube-title-creation-the-perfect-formula/"><u>[New] Mastering YouTube Title Creation The Perfect Formula</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-endorsed-ae-text-tools/"><u>[Updated] In 2024, Expert-Endorsed AE Text Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/converter-arquivos-gratis-on-line-de-tiff-para-pdf-por-movavi-sem-custo/"><u>Converter Arquivos Grátis On-Line: De Tiff Para Pdf Por Movavi Sem Custo</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-delivery-of-games-a-steam-guide-to-gifts/"><u>Digital Delivery of Games: A Steam Guide to Gifts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-sonic-selection-software-for-android-users/"><u>In 2024, Best Sonic Selection Software for Android Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173155093-my-2-years-in-high-definition-with-an-oled-monitor/"><u>My 2 Years in High Definition with an OLED Monitor</u></a></li>
-<li><a href="https://discover-able.techidaily.com/reason-behind-missing-windows-easy-transfer-option-in-windows-11/"><u>Reason Behind Missing 'Windows Easy Transfer' Option in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sleek-and-powerful-our-experts-top-picks-for-ultra-compact-mini-itx-pc-casing-2024-edition/"><u>Sleek and Powerful: Our Experts' Top Picks for Ultra Compact Mini-ITX PC Casing, 2024 Edition</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-to-subscriber-success-with-strategic-tactics-for-2024/"><u>Surge to Subscriber Success with Strategic Tactics for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-new-frontier-how-mmo-games-are-innovating/"><u>The New Frontier: How MMO Games Are Innovating</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-game-changer-going-from-console-to-pc/"><u>The Ultimate Game-Changer: Going From Console to PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/walletfriendly-hd-gamerscreen-led27m2v/"><u>WalletFriendly HD GamerScreen LED27M2V</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-delving-into-the-world-of-mukbang-videos/"><u>[New] 2024 Approved Delving Into the World of Mukbang Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhance-every-viewing-moment-with-these-top-6-free-platforms-for-youtube-short-downloads-for-2024/"><u>[New] Enhance Every Viewing Moment with These Top 6 Free Platforms for YouTube Short Downloads for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-comparing-sharex-with-industry-leaders/"><u>[New] In 2024, Comparing ShareX with Industry Leaders</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-exploring-the-dynamics-of-canon-timelapse-imagery/"><u>[Updated] 2024 Approved Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-simply-screen-recording-apowersofts-cost-free-software-review/"><u>[Updated] In 2024, Simply Screen Recording Apowersoft's Cost-Free Software Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/diagnosing-and-remedying-windows-1011-display-errors/"><u>Diagnosing and Remedying Windows 10/11 Display Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-get-early-access-to-starfield/"><u>How to Get Early Access to Starfield</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/interpreting-idle-on-discord-accurate-representation/"><u>Interpreting Idle on Discord: Accurate Representation?</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-xbox-series-x-five-core-mainten-written-by-john-doe/"><u>Maximizing Xbox Series X: Five Core Mainten Written by John Doe</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-play-frames-of-dominance-in-counter-strike/"><u>Precision Play: Frames of Dominance in Counter-Strike</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconciling-missing-games-with-your-steam-database/"><u>Reconciling Missing Games with Your Steam Database</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-stop-cult-of-the-lamb-from-crashing-on-pc-systems/"><u>Step-by-Step Guide to Stop Cult of the Lamb From Crashing on PC Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribe-and-dominate-leveraging-the-power-of-ps5s-ea-play/"><u>Subscribe and Dominate: Leveraging the Power of PS5's EA Play</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/red-engagement-design-your-youtube-sign-up-bar-with-an-animated-approach-using-filmora-for-2024/"><u>Tailored Engagement Design Your YouTube Sign-Up Bar with an Animated Approach Using Filmora for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-toolkit-for-srt-format-mastery/"><u>The Ultimate Toolkit for SRT Format Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-paying-for-your-favorite-game-is-a-smart-move-heres-how/"><u>Why Paying for Your Favorite Game Is a Smart Move! Here's How</u></a></li>
+<li><a href="https://games-able.techidaily.com/x-ally-eradicates-main-gaming-console-flaw/"><u>X-Ally Eradicates Main Gaming Console Flaw</u></a></li>
 </ul></div>
 

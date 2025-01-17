@@ -1,7 +1,7 @@
 ---
 title: "Win at LoL: Resolving Freeze Before Login"
-date: 2024-08-15T17:25:22.945Z
-updated: 2024-08-16T17:25:22.945Z
+date: 2025-01-13T23:23:39.923Z
+updated: 2025-01-16T18:45:03.253Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  This article will discuss the causes of League of Legends not opening and how to resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does League of Legends Refuse to Open on Windows Devices?
 
  There could be several reasons why League of Legends doesn't open on your device or gets stuck on the loading screen. Here are a few major ones:
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  If you encounter a specific error when you launch the game, then you should search for solutions specific to that error. Since every error has a different solution, applying the same fixes covered in this article may not fix all of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apply Preliminary Checks
 
  You should first apply the following preliminary fixes, as they may resolve the problem right away:
@@ -44,12 +52,13 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  If the above fixes don't help, start applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Wait It Out
 
 ![Round silver-colored analog stopwatch on brown wooden panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-anton-makarenko-1078057.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, League of Legends takes a bit longer than usual to start up. It's more likely to happen if your hardware isn't strong enough and barely meets the system requirements. So, if you have just launched League of Legends and it appears to be stuck at the loading screen, wait a while to ensure the game isn't just taking extra time to load.
 
@@ -63,19 +72,12 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  If the device is connected,[check the stability of the internet connection](https://www.makeuseof.com/check-stability-internet-connection-windows/) . If the connection appears to be unstable,[apply the appropriate fixes to stabilize it](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Disable Cheat Software
 
  League of Legends does not tolerate the use of cheats and hacks to gain an advantage in the game. If you modify game files or use cheat software to hack into the game, League of Legends will not let you in. Due to this, the game may not turn on or get stuck on the loading screen.
 
  If you use any third-party cheat software, turn it off. Also, revert any unauthorized changes you might have made in the game files to gain an unfair advantage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 5\. Relaunch the Game After Closing the Riot and LoL Processes
 
  First off, close all Riot and League of Legends processes in Task Manager and launch the game again. Taking this step will ensure League of Legends isn't failing to open due to a temporary glitch. Follow the steps below to close the tasks:
@@ -84,13 +86,15 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 2. Find all Riot and LoL processes.
 3. To end each process, right-click on it and click**End task** .  
 ![Ending the Riot Process in Windows Task Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-ending-the-riot-process-in-windows-task-manager-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Free Up System Resources
 
  League of Legends is an extremely resource-hungry game. It requires substantial processing power to function correctly. If your system hardware barely meets the minimum game requirements, ensure enough resources are available for the game to run smoothly.
@@ -111,14 +115,7 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 3. Find the**Logs** and**Config** folders.
 4. To delete these folders, simply right-click on them and select**Delete** .  
 ![Deleting the Config Folder of League of Legends in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-deleting-the-config-folder-of-league-of-legends-in-windows-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Disable Any Active In-Game Overlays
 
  Do you use any in-game overlays, especially the Discord overlay, when playing League of Legends? If so, you should disable them before starting the game to ensure the game doesn't get stuck on the loading screen because of an overlay. To turn off the Discord overlay, follow the below steps:
@@ -137,15 +134,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  If you use any other overlay, you can also turn it off in a similar manner within the settings of the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Whitelist League of Legends From the Windows Defender Firewall
 
  If the game opens for a few seconds and then closes down, the Windows Defender Firewall might be blocking it. To rule out this possibility, you should whitelist League of Legends from Windows Defender Firewall. If you've never done that before, check out our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
  Similarly, if you're using a third-party antivirus that you think may interfere with the game process, either disable it or whitelist the game files through it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Reinstall League of Legends
 
  If none of the above fixes solve your problem and the game doesn't open, you may need to reinstall it. Before you begin the installation process, you should uninstall the existing installation. Once you have uninstalled it, you can reinstall the game after downloading it from the official website, just as you did the first time.
@@ -154,14 +152,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  When League of Legends does not open, frustration may set in. If your system meets the minimum game requirements and you aren't experiencing any specific errors, the fixes above should fix the problem, and you should be able to play the game. When none of the fixes work, reinstall the game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +165,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-fastforward-lingertap-recording/"><u>[New] FastForward LingerTap Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-sky-high-snapshot-5-top-screen-recorders/"><u>[Updated] 2024 Approved Sky High Snapshot - 5 Top Screen Recorders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-whatsapp-wisdom-top-30-astrology-inspired-biographies/"><u>[Updated] In 2024, WhatsApp Wisdom – Top 30 Astrology-Inspired Biographies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-lapse-magic-a-samsung-photo-guide/"><u>2024 Approved Time-Lapse Magic A Samsung Photo Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/brightening-up-your-gaming-space-controlling-xbox-leds/"><u>Brightening Up Your Gaming Space: Controlling Xbox LEDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-your-game-night-to-discord-with-streamed-xbox/"><u>Bring Your Game Night to Discord with Streamed Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-your-text-based-kingdom-harnessing-the-power-of-chatgpt-rpgs/"><u>Building Your Text-Based Kingdom: Harnessing the Power of ChatGPT RPGs</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-trust-discords-idleness-status-feedback/"><u>Can You Trust Discord’s Idleness Status Feedback?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-use-an-nintendo-switch-oled-in-vintage-docks/"><u>Can You Use an Nintendo Switch OLED in Vintage Docks?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-your-dualsense-navigate-a-previous-console/"><u>Can Your DualSense Navigate a Previous Console?</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-mouse-pad-reviews-by-gamers/"><u>Champion Mouse Pad Reviews by Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/chaos-controlled-the-best-six-uses-for-chatgpt-as-dandd-mentor/"><u>Chaos Controlled: The Best Six Uses for ChatGPT as D&D Mentor</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-enhancing-webcasts-with-dynamic-background-transitions/"><u>In 2024, Enhancing Webcasts with Dynamic Background Transitions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-simplifying-iphoneipad-screen-captures-for-online-sharing/"><u>In 2024, Simplifying iPhone/iPad Screen Captures for Online Sharing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/integrate-tiktok-videos-in-phone-gallery-step-by-step/"><u>Integrate TikTok Videos in Phone Gallery Step-by-Step</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-find-x7-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo Find X7 without Him Knowing | Dr.fone</u></a></li>
+</ul></div>
 

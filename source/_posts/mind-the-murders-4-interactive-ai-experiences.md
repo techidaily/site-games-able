@@ -1,7 +1,7 @@
 ---
 title: "Mind the Murders: 4 Interactive AI Experiences"
-date: 2025-01-05T01:24:07.153Z
-updated: 2025-01-10T21:29:34.201Z
+date: 2025-01-14T00:27:02.243Z
+updated: 2025-01-16T19:03:07.429Z
 tags:
   - games
 categories:
@@ -24,12 +24,16 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1. Solve the Murders
 
 ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -39,17 +43,9 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2. Gron
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -59,12 +55,16 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3. Mystery-o-Matic
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  Hollywood mystery writer G. T. Karber offers one new murder mystery logic puzzle daily at his website Murdle. The long-running successful website has already led to three books of murder mysteries, written by Karber and generated by "Moriarty", a proprietary algorithm capable of planning a million murders a minute.
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
  Murdle follows a similar system to Mystery-o-Matic, giving you three or four suspects, three or four locations, and three or four murder weapons every day. The mysteries get more difficult with each day, with Monday being the easiest and Sunday requiring the skills of Sherlock Holmes.
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
 
@@ -112,19 +112,17 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-steps-to-curate-youtube-music-selections/"><u>[New] 2024 Approved Essential Steps to Curate YouTube Music Selections</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-enrich-engagement-tailored-questions-for-ig-story-boosting/"><u>[Updated] Enrich Engagement Tailored Questions for IG Story Boosting</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-guide-to-time-stamping-for-higher-youtube-rankings/"><u>[Updated] Step-by-Step Guide to Time Stamping for Higher YouTube Rankings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-tecno-phantom-v-flip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Tecno Phantom V Flip to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/advances-in-imaging-techniques-for-monitoring-neurocannabinoid-dynamics-in-real-time/"><u>Advances in Imaging Techniques for Monitoring Neurocannabinoid Dynamics in Real-Time</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-pass-the-next-chapter-for-xbox-live-gold-users/"><u>Game Pass: The Next Chapter for Xbox Live Gold Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-change-steams-default-language/"><u>How to Change Steam’s Default Language</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/integrating-diverse-iphone-media-formats-together-for-2024/"><u>Integrating Diverse iPhone Media Formats Together for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-differences-between-ipad-pro-and-ipad-air-a-comprehve-guide-to-picking-the-best-option-for-you-zdnet/"><u>Navigating the Differences Between iPad Pro and iPad Air: A Comprehve Guide to Picking the Best Option for You | ZDNET</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-titans-of-social-interaction-facebook-twitter-instagram-and-youtube/"><u>Navigating the Titans of Social Interaction – Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-your-gaming-session-a-2-step-guide-to-detecting-android-fps/"><u>Optimize Your Gaming Session: A 2-Step Guide to Detecting Android FPS</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-5-versus-xbox-series-x-the-ultimate-decision/"><u>PlayStation 5 Versus Xbox Series X: The Ultimate Decision</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-delayed-releases-boost-gamer-interest/"><u>Why Delayed Releases Boost Gamer Interest</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-expert-psd-text-framing/"><u>[New] In 2024, Expert PSD Text Framing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-sdr-to-hdri-step-by-step-video-enhancement-guide/"><u>[Updated] In 2024, SDR to HDRI Step-by-Step Video Enhancement Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlock-smooth-communication-best-10-secured-fee-free-apps-for-ios-and-android-users-for-2024/"><u>[Updated] Unlock Smooth Communication Best 10 Secured, Fee-Free Apps for iOS and Android Users for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmatched-storytelling-education-1-8-spotlight/"><u>[Updated] Unmatched Storytelling Education #1-#8 Spotlight</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-the-binkw32dll-missing-error-effective-solutions-inside/"><u>Dealing with the Binkw32.dll MISSING Error: Effective Solutions Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/forget-the-fancy-why-standard-display-is-best-for-pc-gaming/"><u>Forget the Fancy: Why Standard Display Is Best for PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-vr-experience-with-ps-vr-2/"><u>Maximizing VR Experience with PS VR 2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nintendo-switch-photography-101-taking-plus-sharing-your-game-snaps-with-ease/"><u>Nintendo Switch Photography 101: Taking + Sharing Your Game Snaps with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-beyond-conventional-embrace-size-in-gaming-frames/"><u>Step Beyond Conventional: Embrace Size in Gaming Frames!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-realistic-view-on-being-designated-as-idle-in-chat-rooms/"><u>The Realistic View on Being Designated as Idle in Chat Rooms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-reviving-your-pc-or-laptop-when-it-wont-turn-on/"><u>Ultimate Guide: Reviving Your PC or Laptop When It Won't Turn On</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-narrative-enhancer/"><u>Video Narrative Enhancer</u></a></li>
 </ul></div>
 

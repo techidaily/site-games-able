@@ -1,7 +1,7 @@
 ---
 title: "Minecraft Co-Op Quests: Best Ways to Team Up with Friends"
-date: 2025-01-10T00:18:34.774Z
-updated: 2025-01-11T02:21:25.644Z
+date: 2025-01-16T00:06:56.804Z
+updated: 2025-01-16T21:27:57.840Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Join Minecraft Public Servers
@@ -37,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 
  While Java Edition is only on PC, you can[play Minecraft on Steam Link](https://www.makeuseof.com/how-to-play-game-pass-on-steam-link-with-glossi/) and play it on your TV, phone, or tablet and get close to a cross-platform experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Minecraft Java Edition
 
 ![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Public servers are what most Java players use to link up with others. Servers are free to join and you can find them by using any of the many server-listing sites such as[minecraftservers.org](https://minecraftservers.org) (just search "Minecraft Servers" in your web browser to find more listing sites).
 
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 4. If you chose**Add Server** on step two, give the server a name and click**Done** , then double-click on the server from your list or select it and choose**Join Server** . If you chose**Direct Connection** , click**Join Server** .
 
  Joining servers in Bedrock Edition is a lot easier, here's how to do it:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Minecraft Bedrock Edition
 
@@ -69,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 
  If you don't want to pay to host a server, there are third-party services you can try like the ones we'll show you below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Minecraft Server Hosting Services
 
  Hosting your own private Minecraft server is great if you just want to experience it with your friends. However, you either have to pay for Minecraft Realms or get a powerful PC that you'll have to keep on if you want your friends to keep playing on the server while you're away.
@@ -80,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
  Thankfully, there's an alternative method. You can set up a Minecraft server for free with services like Minehut or Aternos. These services have their own computers that host the servers for you so you don't have to keep your computer on all the time. Here's how to set up a server on Aternos:
 
 ![Aternos Create a Server button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/aternos-create-a-server-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Aternos, log in and click on**Create a Server** .
 
@@ -95,9 +99,17 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 
  Minecraft Realms is available for both Java and Bedrock, but they are separate subscriptions. Realms are officially hosted servers that you have to pay for, but it has the benefit of being more convenient, streamlined, and reliable than third-party hosting services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Create a Minecraft Realm
 
 ![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Java Edition** : First, you'll need to purchase a subscription for a Realm (you can check the pricing plans on[Minecraft's website](https://www.minecraft.net/en-us/realms-for-java/plans/) ). You can activate a 30-day free trial to test the waters and cancel anytime.
 
@@ -106,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
  Choose between generating a**new world** , uploading a previous world save, or exploring Realms'**World templates** ,**Adventures** , and**Experiences** .
 
 ![Minecraft Java Edition configure Realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-configure-realm.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that you've created your Realm, choose**Configure Realm** (the wrench icon) and click on**Players** . Now all you have to do to whitelist a friend on your server is click**Invite player** and type in their username before clicking**Invite player** again. Your friend will receive an invitation to join your Realm.
 
@@ -125,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 
  Now that you know how to create a Realm, you probably want to check out your friends' Realms too. Here's how to join a Realm:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Join a Minecraft Realm
 
 ![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
@@ -141,6 +145,10 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 
 ![Minecraft Bedrock Edition join a Realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mcbe-join-realm-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Minecraft, then click**Play** . Head to**Friends** and click on**Join Realm** . Enter the invite code you received from the Realm owner and click**Join** .
 
 ## 4\. Play Minecraft LAN
@@ -151,10 +159,6 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 
 ![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're under the same local IP address as the player you want to join, you can do this pretty easily. Launch Minecraft and click on**Multiplayer** . Minecraft will automatically scan for games on your local network.
 
  If another player has a LAN world available to join, it'll show up in your list of servers. You can either double-tap the server or highlight it and click**Join Server** .
@@ -164,7 +168,7 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
  LAN play is on by default in Bedrock Edition. Just navigate to the**Worlds** tab, and if there are any available games on your network, they'll appear here for you to join.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use Minecraft Split-Screen
@@ -172,10 +176,6 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 ![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
 
  Just like old-school console games, you can play split-screen on Minecraft Bedrock edition with up to four players. This is only available on consoles, but you can get on your couch, and[play split-screen Minecraft on your Nintendo Switch](https://www.makeuseof.com/how-to-play-two-player-minecraft-on-nintendo-switch/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy Minecraft With Your Friends
 
@@ -198,19 +198,20 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-30-youtube-intro-creators-for-spectacular-opening-videos/"><u>[New] Top 30 YouTube Intro Creators for Spectacular Opening Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-how-to-use-b-roll-footage/"><u>[Updated] 2024 Approved How to Use B Roll Footage</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-skyrocket-your-youtube-speed-with-effective-render-techniques/"><u>[Updated] 2024 Approved Skyrocket Your YouTube Speed with Effective Render Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-dazzling-design-discovering-three-instagram-highlight-hacks/"><u>[Updated] Dazzling Design Discovering Three Instagram Highlight Hacks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-motion-animating-stories-on-instagram/"><u>[Updated] Mastering Motion Animating Stories on Instagram</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-brand-identity-asus-vs-tuf-vs-proart-vs-prime-computers/"><u>Decoding Brand Identity: Asus Vs. Tuf Vs. ProArt Vs. Prime Computers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-latest-smartphones-and-their-fit-with-gear-vr-technology/"><u>In 2024, Latest Smartphones and Their Fit With Gear VR Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-performance-obstacles-in-gtfo-solutions-to-dropouts-and-glitches/"><u>Overcoming Performance Obstacles in GTFO – Solutions to Dropouts and Glitches</u></a></li>
-<li><a href="https://games-able.techidaily.com/raise-the-stakes-with-switch-type-decisions/"><u>Raise the Stakes with SWITCH Type Decisions</u></a></li>
-<li><a href="https://games-able.techidaily.com/reactivate-lost-wordle-streak-iosandroid-fixes/"><u>Reactivate Lost Wordle Streak: IOS/Android Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaim-your-gaming-fix-wi-fi-on-switch/"><u>Reclaim Your Gaming: Fix Wi-Fi on Switch</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackle-win11-sound-issues-update-hardware-software/"><u>Tackle Win11 Sound Issues - Update Hardware Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-prevents-gamefi-from-being-a-gamers-dream/"><u>What Prevents GameFi From Being a Gamer's Dream</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-idevices-entice-me-with-top-tier-game-selection-via-apple-arcade/"><u>Why iDevices Entice Me with Top-Tier Game Selection via Apple Arcade</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-stepwise-guide-to-mastering-zoom-on-modern-windows-11/"><u>[New] In 2024, Stepwise Guide to Mastering Zoom on Modern Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chucklechamber-endless-options-to-spread-smiles/"><u>[Updated] ChuckleChamber Endless Options to Spread Smiles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-infinite-a-look-at-lgs-vr-technology/"><u>[Updated] Exploring the Infinite A Look at LG's VR Technology</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/efficient-strategies-for-securing-and-duplicating-bulky-files-across-different-windows-os-platforms/"><u>Efficient Strategies for Securing and Duplicating Bulky Files Across Different Windows OS Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-mono-to-duo-os-decks-evolution-journey/"><u>From Mono to Duo OS: Deck's Evolution Journey</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/how-to-find-your-comments-on-youtube-for-2024/"><u>How to Find Your Comments on YouTube for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-pop-7-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-add-on-feature-valuable-in-switch-gameplay/"><u>Is Add-On Feature Valuable in Switch Gameplay?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-performance-critical-pc-component-selection/"><u>Mastering Performance: Critical PC Component Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-device-how-to-get-more-out-of-your-steam-deck-at-the-dock/"><u>Mastering Your Device: How to Get More Out of Your Steam Deck at the Dock</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-best-aif-to-mp3-converter-convert-audio-files-easily-and-quickly/"><u>New In 2024, Best AIF to MP3 Converter Convert Audio Files Easily and Quickly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/not-just-carjacking-fun-the-best-non-gta-games-for-2024/"><u>Not Just Carjacking Fun The Best Non-GTA Games for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-titans-duel-assessing-super-and-ti-versus-4080/"><u>Nvidia’s Titans Duel: Assessing Super and Ti Versus 4080</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-vs-cheap-pc-console-or-computer/"><u>PS5 vs Cheap PC: Console or Computer?</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-revival-modern-consoles-with-a-legacy-twist/"><u>Retro Revival: Modern Consoles with a Legacy Twist</u></a></li>
 </ul></div>
 

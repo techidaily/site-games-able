@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your Racing Journey with $499 MOZA Bundle
-date: 2025-01-04T16:35:02.806Z
-updated: 2025-01-11T08:45:31.193Z
+date: 2025-01-15T17:04:22.703Z
+updated: 2025-01-16T21:54:22.844Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
  The MOZA R5 Bundle is an entry-level direct drive sim racing wheel bundle priced at just $499\. If you’re looking to upgrade to direct drive or plan on setting up your first sim racing rig, the R5 Bundle is a great entry point.
 
 ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
@@ -112,7 +116,7 @@ Yes
 ![MOZA R5 base, wheel, and clamp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-base-wheel-and-clamp.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
@@ -145,13 +149,13 @@ Yes
 
 ![SR-P Lite pedals with clutch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/sr-p-lite-pedals-with-clutch.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Jhet Borja
 
  The pedals are also heavy with a thick powder coating, but the edges are quite sharp, which makes them a little scary to handle. I was also disappointed to find that all the pedal faces are the same shape and size and completely flat with no adjustability. This could pose a problem, which I’ll discuss in the driving experience later.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MOZA R5 Bundle Hardware Setup Experience
 
@@ -169,6 +173,10 @@ Yes
 
 ![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I thought I’d have a headache trying to get everything ready on the software side for driving, but the MOZA Pit House software on PC impressed me. It was able to detect the wheel and pedals without any hitches and even had pre-configured settings for all the racing simulators I wanted to drive except for Dirt Rally.
 
 ![MOZA Pit House basic wheel base settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-basic-wheel-base-settings.jpg)
@@ -176,6 +184,10 @@ Yes
 ![MOZA Pit House pedal curves](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-pedal-curves.jpg)
 
 ![Pit House Resetting Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pit-house-resetting-software.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -187,10 +199,6 @@ Close
 
  Secondly, and more significantly, the wheel base was turning on its own. It wouldn’t do this while driving, or not that I’ve noticed anyway, but the wheel felt grainy and turned about 60-degrees clockwise on its own. It wasn’t until four weeks into playing with it did I actually attempt to reset the wheel base and it made the wheel feel incredibly smooth, and it didn’t turn on its own anymore.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MOZA Racing Mobile App Experience
 
  The MOZA Racing mobile app is also quite handy, but I wasn’t able to make it work the first time. I left it alone for a few days to focus on the driving experience and using Pit House, but it magically worked when I tried it again. I may have just needed to restart either the wheel base, software, or my PC.
@@ -199,13 +207,13 @@ Close
 
 ![Pedal curve settings bugging out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings-bugging-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Pedal curve settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings.jpg)
 
 ![MOZA Racing moible app connected hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-moible-app-connected-hardware.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![FFB frequency settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/ffb-frequency-settings.jpg)
 
@@ -227,6 +235,10 @@ Close
 
 ![Sticky pads for SR-P Lite pedals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/sticky-pads-for-sr-p-lite-pedals.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Jhet Borja / MakeUseOf
 
  I’m using the pedals as a foot rest to replace a box that I previously used. I used the included sticky pads, and they were pretty effective without the brake mod, but with the brake mod, you will need to mount it to something. The sticky pads are also washable and reusable, so you don’t have to worry about dust getting on them.
@@ -243,17 +255,9 @@ Close
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Quick Release System
 
 ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -262,10 +266,6 @@ Close
  The Fanatec QR system has had many issues, and has since been superceded by their QR2 system, but it's expensive for something that should be considered standard. For the MOZA R5, having to upgrade the QR system isn't a consideration.
 
  The thin black paint on the QR system did eventually get scratched up over a few weeks of use, but that’s to be expected as it’s hard and heavy metal constantly rubbing on each other. Despite the cosmetic damage, I doubt detaching and reattaching wheels would lead to any significant damage. They could probably leave that part unpainted, but that would detract from the overall look of the base.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MOZA R5 Bundle: Driving Experience
 
@@ -293,6 +293,10 @@ Close
 
 ![Brake Performance Kit for SR-P Lite pedals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/brake-performance-kit-for-sr-p-lite-pedals.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Jhet Borja / MakeUseOf
 
  Firstly, the Brake Performance Kit is a must. Without it, the brake feel is just lacking, and it’s hard to become consistent without some form of resistance. With the brake mod, these are great value pedals and it’ll help you get quite close to your full potential. Heck, even the G29 had a small elastomer in the brake. I do appreciate that you have control over the output curves in the Pit House app though, allowing you to simulate a load cell’s behavior to a certain extent.
@@ -303,25 +307,21 @@ Close
 
  On the whole, I’d say they’re good enough if you don’t use heel and toe. For beginner to intermediate-level drivers, these are enjoyable and good enough to make you fast and consistent. I’d suggest adding a little lubrication to the hinges to improve the precision, though.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ES Steering Wheel and Formula Wheel Mod
 
  The ES Steering Wheel is a great D-shaped rim for a bundled item. I wouldn't deliberately opt for it, but it’s a great starting point. It offers 22 face buttons, which is plenty for most people.
 
 ![MOZA R5 front view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-front-view.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Jhet Borja / MakeUseOf
 
  It’s solid and feels nice, even without gloves. It’s on the smaller side at 11 inches, but on a 5.5Nm base, it allows you to feel the forces better than a larger wheel. I did notice a bit of rattling noise, which makes it feel like a toy, but I only ever noticed it when I drove without sound. However, you can upgrade to a 12-inch round wheel mod for drifting and enlarging the rim.
 
 ![Driving with Formula mod for ES Steering Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/driving-with-formula-mod-for-es-steering-wheel.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -330,7 +330,7 @@ Close
  I also like that it has a matte black finish instead of the shiny brushed style on the original ES wheel. I’d be careful driving with it, though, as the thick metal can really hurt the hands during crashes, especially your thumbs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Buy the MOZA R5 Bundle, and Are the Add-Ons Worth It?
@@ -368,20 +368,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-elegant-mosaic-imagery-fusions/"><u>[New] Mastering Elegant Mosaic Imagery Fusions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-perfecting-distance-remote-podcast-capture-techniques/"><u>[Updated] 2024 Approved Perfecting Distance Remote Podcast Capture Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harnessing-hours-of-light-long-exposure-iphone-tips/"><u>Harnessing Hours of Light Long-Exposure iPhone Tips</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-find-n3-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Find N3 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oppo-k11-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo K11 5G Through Google Earth?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-perfect-precision-with-zoom-your-ultimate-youtube-live-stream-toolkit/"><u>In 2024, Perfect Precision with Zoom Your Ultimate YouTube Live Stream Toolkit</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-tiny-tycoon-how-ryans-channel-became-a-millionaire-hub/"><u>In 2024, Tiny Tycoon How Ryan’s Channel Became a Millionaire Hub</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-button-controls-android-games-via-controller-mapping/"><u>Mastering Button Controls: Android Games via Controller Mapping</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-presentations-with-chatgpt/"><u>Mastering the Art of Presentations with ChatGPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-minecraft-launcher-problem-code-0x803f8001-in-win/"><u>Resolving Minecraft Launcher Problem Code 0X803F8001 in Win</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solving-windows-overloaded-chatgpt-limit-error/"><u>Solving Windows: Overloaded ChatGPT Limit Error</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-connect-classic-games-with-mypics-w11/"><u>Step-by-Step: Connect Classic Games with MyPics W11</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-key-elements-of-crafting-engrossing-steam-game-reviews/"><u>The Key Elements of Crafting Engrossing Steam Game Reviews</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-official-method-to-alter-console-regions/"><u>The Official Method to Alter Console Regions</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-20-best-gamer-progress-tools/"><u>Top 20 Best Gamer Progress Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-professional-pathway-setting-up-wm6/"><u>[Updated] 2024 Approved Professional Pathway Setting Up WM6</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/best-capcut-replacements-of-202abbreviated-yearly-as-the-most-effective-alternatives-for-pc-and-online-editing-tools/"><u>Best CapCut Replacements of 202Abbreviated Yearly as the Most Effective Alternatives for PC & Online Editing Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/cybersecurity-education-empowering-kids-on-discord/"><u>Cybersecurity Education: Empowering Kids on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-without-flash-innovative-play-strategies-exposed/"><u>Game On without Flash: Innovative Play Strategies Exposed</u></a></li>
+<li><a href="https://win-updates.techidaily.com/identificando-infecciones-por-software-malintencionado-guia-profesional-de-malwarefox-para-computadoras/"><u>Identificando Infecciones Por Software Malintencionado: Guía Profesional De MalwareFox Para Computadoras</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>New Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-level-handheld-nintendos-upcoming-leap/"><u>The Next Level Handheld - Nintendo's Upcoming Leap</u></a></li>
+<li><a href="https://games-able.techidaily.com/tracing-back-foddian-game-lineage/"><u>Tracing Back: Foddian Game Lineage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/track-and-convert-efficiently-using-the-advanced-cookiebot-analytics-platforms/"><u>Track and Convert Efficiently Using the Advanced Cookiebot Analytics Platforms</u></a></li>
 </ul></div>
 

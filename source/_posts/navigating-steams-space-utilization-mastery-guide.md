@@ -1,7 +1,7 @@
 ---
 title: Navigating Steam's Space Utilization Mastery Guide
-date: 2024-08-15T17:26:16.631Z
-updated: 2024-08-16T17:26:16.631Z
+date: 2025-01-15T21:09:57.930Z
+updated: 2025-01-16T18:54:22.923Z
 tags:
   - games
 categories:
@@ -30,9 +30,17 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 
  This is a huge improvement, and after Steam’s decades of existence, everyone knows this is overdue. Being able to visualize, move, and add folders and files in an easier and more intuitive way is a bare minimum, but we do appreciate finally having it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Open the Steam Storage Manager
 
  While the new Steam Storage Manager is great, it’s still hard to get to. Most people don’t even know it exists yet. Once you know where to find it, it’ll be hard to forget, though. Here are two ways to open the Steam Storage Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open the Steam Storage Manager Through the Steam Settings
 
@@ -40,14 +48,12 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### 2\. Open the Steam Storage Manager Through the Downloads Page
 
 ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
@@ -56,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 
  While you’re at the Downloads page, you might want to check out[how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## How to Add a New Steam Library Folder or Drive
 
  Adding a new Steam Library folder is quite easy. You can add a new Steam Library folder within the same drive, or on a new drive. Simply click on the drive name at the top of the Storage section and click**Add Drive** .
@@ -69,15 +71,13 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
  You can select a drive to automatically add a \\SteamLibrary folder into it, or you could also click on**Let me choose another location.**
 
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
  This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an[external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
 
 ![Create or select new Steam library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/create-or-select-new-steam-library-folder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
@@ -95,15 +95,17 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
  Now that you’ve added a new drive or Steam Library folder, you might want to transfer some games over if you’re planning to do a migration. This is really easy to do with the new storage manager and it only takes a few clicks.
 
 ![Moving Steam games to different Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moving-steam-games-to-different-steam-library-folder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Firstly, select the games you want to transfer by clicking on the empty box on the right side of each game. Once you’ve selected at least one game, the**Move** and**Uninstall** button will have brightened up. Click on**Move** and a pop-up will show.
 
 ![Move Steam games to selected drive or folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/move-steam-games-to-selected-drive-or-folder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the**Move Content** pop-up shows, you can choose where to move your Steam game. Note that the only drives that will show up are the ones that have an existing Steam Library folder inside. If not, go back to adding a new Steam Library folder or drive so that where you want to place it shows.
@@ -114,14 +116,11 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 
  Despite this feature being long overdue and Steam needing a UI revamp for years now, we're glad it's finally here. We don't have to deal with so many headaches and third-party applications just to manage and move Steam games anymore.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +129,26 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-iphone-tips-achieve-softened-images-in-4-easy-steps/"><u>[New] In 2024, IPhone Tips Achieve Softened Images in 4 Easy Steps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cloud-space-costs-analyzing-and-top-tier-savings-guide/"><u>[Updated] In 2024, Cloud Space Costs Analyzing & Top-Tier Savings Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-crafting-memorable-content-the-essentials-of-20-intriguing-tiktok-captions/"><u>[Updated] In 2024, Crafting Memorable Content The Essentials of 20 Intriguing TikTok Captions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-previewed-activities-on-facebook-are-you-exposed-in-2024/"><u>[Updated] Previewed Activities on Facebook Are You Exposed, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-expert-advice-for-xbox-one-zooming-pros/"><u>2024 Approved Expert Advice for Xbox One Zooming Pros</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-spark-10-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Spark 10 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-quick-fixes-for-recognizing-unplugged-headsets-on-xbox/"><u>3 Quick Fixes for Recognizing Unplugged Headsets on Xbox</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oppo-a78-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Oppo A78 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-snapshot-of-fun-exploring-netflix-mobile-games/"><u>A Snapshot of Fun: Exploring Netflix Mobile Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-tale-of-windows-and-steamos-harmony-on-a-single-chip/"><u>A Tale of Windows & SteamOS Harmony on a Single Chip</u></a></li>
+<li><a href="https://games-able.techidaily.com/acquiring-exclusive-items-in-fortnite-for-ps5/"><u>Acquiring Exclusive Items in Fortnite for PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-errors-choose-right-oled-display-wisely/"><u>Avoid Errors: Choose Right OLED Display Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/awesome-google-play-pass-but-not-without-drawbacks/"><u>Awesome Google Play Pass, But Not Without Drawbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-of-the-giants-opera-gx-vs-microsofts-edge-browser/"><u>Battle of the Giants: Opera GX vs Microsoft's Edge Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-screen-finding-ps5s-silent-browser/"><u>Behind the Screen: Finding PS5's Silent Browser</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-most-innovative-nixplay-seed-photo-frame/"><u>Review of the Most Innovative Nixplay Seed Photo Frame</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169318737-revolutionize-game-boy-handhents-on-your-mobile-device/"><u>Revolutionize Game Boy Handhents on Your Mobile Device!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-honor-90-gt-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor 90 GT FRP</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-10-mouse-recorders-for-2024/"><u>Top 10 Mouse Recorders for 2024</u></a></li>
+</ul></div>
 

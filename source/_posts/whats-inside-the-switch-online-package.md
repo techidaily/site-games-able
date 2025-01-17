@@ -1,7 +1,7 @@
 ---
 title: What's Inside the Switch Online Package?
-date: 2024-08-15T17:28:08.910Z
-updated: 2024-08-16T17:28:08.910Z
+date: 2025-01-12T21:04:26.698Z
+updated: 2025-01-16T23:51:17.782Z
 tags:
   - games
 categories:
@@ -25,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
  See our[full overview of Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) for more details.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Switch Online Expansion Pack?
 
  The Expansion Pack includes everything from the base Switch Online plan, plus some additional benefits. It's available as a separate subscription, meaning that the core Switch Online service is still available and unchanged.
@@ -40,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  Like the existing NES and SNES libraries included with Switch Online, the N64, Genesis, and GBA titles include[quality-of-life emulation benefits](https://www.makeuseof.com/pros-cons-playing-video-games-emulator/) . These include save states, which let you stop and pick up from anywhere (not just where the original game had save points).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Nintendo Switch Expansion Pack: Included Games
 
  Your interest in the Expansion Pack will likely depend on how many of its games you want to play, so let's list those next.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Games Included in the N64 Switch Online Library
 
  At the time of writing, the following Nintendo 64 titles are included in the Expansion pack:
@@ -92,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  Interestingly, several of these games were never officially released for the Genesis in North America. As with the N64 titles, any multiplayer-enabled games (including Gunstar Heroes and Streets of Rage 2) are playable with friends online, but there are no public matches.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Games Included in the Game Boy Advance Switch Online Library
 
  Nintendo's 32-bit handheld, the Game Boy Advance (GBA), is the latest system to get a library for Switch Online Expansion Pack members. Here's a list of included games:
@@ -113,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  Titles set to release in the future include Kirby & The Amazing Mirror, F-Zero Maximum Velocity, and the excellent JRPG Golden Sun. Notable in this pack is Super Mario Advance 4, as it includes levels that were previously only available via a GBA accessory called the e-Reader.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Nintendo Switch Expansion Pack: Included DLC
 
  In addition to the included games, the other major part of the Switch Online Expansion Pack is a few DLC packs for big Switch titles. Let's review what you get. Note that you must own the original title to access its DLC.
@@ -128,9 +117,6 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  If you cancel your subscription down the road, you'll retain some items earned for your own home from the DLC, but will lose access to the archipelago where the main vacation home designing takes place. Check out our[tips for New Horizons](http://www.makeuseof.com/tag/animal-crossing-new-horizons-tips-tricks/) to get the most from the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Splatoon 2: Octo Expansion
 
  This single-player add-on for Splatoon 2 allows you to play as an Octoling and take on dozens of missions in a mysterious underground subway.
@@ -138,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
  Compared to the main game's longer missions, these are short, challenging tests of your skill. If you enjoy Splatoon 2's core mechanics and want to push them further, this is the pack for you. When you clear the expansion, you'll also be able to play as an Octoling in Splatoon 2's online multiplayer.
 
  The Octoling Expansion typically costs $19.99\. If you let your Switch Online subscription lapse, you won't be able to access this DLC until you either resubscribe or purchase it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mario Kart 8 Deluxe: Booster Course Pass
 
@@ -154,6 +144,14 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
  To sign up, open the**Nintendo Switch Online** tab at the bottom of your Switch's home screen. You can also visit the[Switch Online membership page](https://ec.nintendo.com/US/en/membership) to sign up using your computer. If you've already paid for a Switch Online membership annually, you can get a prorated discount when you upgrade to the Expansion Pack, based on the time remaining in your plan.
 
 ![Switch Online Expansion Pack July 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Switch-Online-Expansion-Pack-July-2022.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### New Nintendo Switch Replica Controllers
 
@@ -173,6 +171,10 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  Similarly, if you're primarily looking for the Sega Genesis games, you can get more retro titles without a subscription by buying[Sega Genesis Classics](https://www.nintendo.com/games/detail/sega-genesis-classics-switch/) for $30 on the eShop. This doesn't include every game that Switch Online does, but has far more games overall. This compilation also packs in the same convenience features as Switch Online, like rewinding and online multiplayer. It also goes on sale sometimes, offering more value if you're willing to wait for a price drop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### If You Primarily Want N64 Games or GBA Games
 
  The Expansion Pack has more value if you want access to the N64 library. Unless you still have a Wii U and bought N64 games before the Wii U eShop closed, there's no easy way to legally play these games on a modern system—making it a more attractive deal.
@@ -184,18 +186,15 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
  The same is largely true for the GBA titles. If you're a fan of Zelda, Metroid, Mario, or WarioWare and have never played the GBA entries in these franchises, there's enough value here to be worth a year's subscription at least.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### If You Want to Play All the DLCs
 
  If you plan to play the DLCs for Splatoon 2, Mario Kart 8 Deluxe, and Animal Crossing: New Horizons, the Expansion Pack has much more value. Those three packs are valued at $70 total, so if you pay for a year's worth of the service to experience them all, you've gotten a deal.
 
  However, keep in mind that for the Animal Crossing and Mario Kart expansions, you'll probably want ongoing access. The Splatoon 2 DLC isn't something you'll worry about much after clearing it.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Expansion Pack's Price Is Too High
 
  The Expansion Pack being poorly priced compounds its other problems.[PlayStation Plus Essential and Xbox Live Gold each](https://www.makeuseof.com/tag/xbox-live-versus-playstation-plus-get/) cost just $10 more ($60/year), yet they offer free games, deeper discounts during sales, and much better online infrastructure. Switch Online, meanwhile, offers a pitiful excuse for party chat with its janky app implementation, and has additional classic games arrive at a glacial pace.
@@ -205,22 +204,20 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
  We'd recommend finding a few friends and[subscribing to the shareable plan](https://www.makeuseof.com/tag/save-premium-subscriptions-9-shareable-accounts/) . That way, you can drop the price down to as low as $10/person/year, which negates some of the above worries.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Switch Online Expansion Pack: Decent, but Expensive
 
  The Switch Online Expansion Pack adds more classic games to the service, but at a high cost. You can get individual DLC and the Genesis games cheaper by purchasing them outright, and the Switch's N64 emulation isn't the best way to play those games. However, there's still enough here to make it worth the price for some, including some solid Game Boy Advance games.
 
  We'd recommend finding a few friends to bring down the cost if you don't have another way to play these games. That's just one method of spending less on Switch games.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -229,4 +226,21 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-inside-virtual-worlds-todays-insights-and-tomorrows-trials/"><u>[New] Inside Virtual Worlds Today's Insights & Tomorrow's Trials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-intricacies-of-enhanced-digital-worlds/"><u>[New] The Intricacies of Enhanced Digital Worlds</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-fishing-footage-frontier-top-action-cameras-for-the-sea-for-2024/"><u>[Updated] Fishing Footage Frontier Top Action Cameras for the Sea for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-live-cricket-watch-tactics-unveiled/"><u>2024 Approved Best Live Cricket Watch Tactics Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-uncovering-secrets-in-instagram-story-watchers/"><u>2024 Approved Uncovering Secrets in Instagram Story Watchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/adding-language-to-roms-the-translation-tutorial/"><u>Adding Language to ROMs: The Translation Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-compatibility-nintendo-switchs-oled-and-older-setups/"><u>Assessing Compatibility: Nintendo Switch's OLED & Older Setups</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-for-dominance-ps5-vs-xbox-series-x-edition/"><u>Battle for Dominance: PS5 Vs. Xbox Series X Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172637216-discover-the-ultimate-gba-experience-for-iphoneipad-users/"><u>Discover the Ultimate GBA Experience for iPhone/iPad Users!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167441636-discovering-fortnite-on-a-mac-mind-those-hidden-limits/"><u>Discovering Fortnite on a Mac - Mind Those Hidden Limits!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172860509-diy-revamping-your-xbox-controllers/"><u>DIY: Revamping Your Xbox Controllers</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-ultime-telecharger-en-mp4-des-videos-de-jeuxvideo/"><u>Guide Ultime : Télécharger en MP4 Des Vidéos De Jeuxvidéo</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-final-cut-pro-plug-ins/"><u>In 2024, 10 Final Cut Pro-Plug-Ins</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-lenovo-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Lenovo Phone Hassle-Free</u></a></li>
+</ul></div>
 

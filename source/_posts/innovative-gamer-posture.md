@@ -1,7 +1,7 @@
 ---
 title: Innovative Gamer Posture
-date: 2025-01-04T00:41:05.071Z
-updated: 2025-01-10T22:19:13.854Z
+date: 2025-01-10T21:47:36.021Z
+updated: 2025-01-16T21:40:28.318Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Office Chairs Are Often More Ergonomic and Comfortable](#office-chairs-are-often-more-ergonomic-and-comfortable)
@@ -26,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 * [An Office Chair Is Aesthetically Safer](#an-office-chair-is-aesthetically-safer)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  There’s a popular myth that every gaming setup needs a gaming chair. On the surface, it makes sense; where else would you need a gaming chair? However, I’ve used both office chairs and gaming chairs long enough to establish reasons why an office chair is indeed better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 Office Chairs Are Often More Ergonomic and Comfortable
@@ -49,19 +53,11 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
 ![a man playing pc games in a gaming chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-man-playing-pc-games-in-a-gaming-chair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Standret/[Shutterstock](https://www.shutterstock.com/image-photo/next-gen-graphics-online-streamer-playing-2159933123)
 
  All the gaming chairs I’ve bought share a common feature: they’re designed like race-car bucket seats. For those who don’t know, bucket seats have side bolsters on the seat and back that taper and curve out, designed to keep the occupant in place during high-speed turns.
 
  While this design effectively resists G-forces, it becomes a hindrance when gaming at a desk. It could be useful if you’re building a motion-driving simulation rig, but most gamers are not. So, it essentially forces you to remain in one position. However, office chairs allow you to stretch and move about.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Gaming Chairs Are Typically Too Big
 
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
 ![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Dreamchild Obari/MakeUseOf
 
  Lumbar support is one of the key arguments for using ergonomic chairs. You may have heard it a lot as a buzzword in the ergonomic chair industry, but it boils down to supporting the natural curve of your spine.
@@ -86,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  If you look at the profile of most low-end gaming chairs, they have a long, straight back with a pillow as lumbar support. Give it a couple of hours, and that lumbar support pillow will flatten and take away what little lumbar support it provides.
 
  For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an[office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 Gaming Chairs Are Cheaply Built and Overpriced
 
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 ## 3 An Office Chair Is Aesthetically Safer
 
 ![Computer setup with a white office chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/computer-setup-with-a-white-office-chair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Dreamchild Obari/MakeUseOf
 
@@ -132,18 +132,22 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-fresh-footage-feature-film-reviews/"><u>[Updated] Fresh Footage Feature Film Reviews</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-elevate-your-content-with-jujutsu-kaisen-on-tiktok/"><u>2024 Approved Elevate Your Content with Jujutsu Kaisen on TikTok</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726227742420-flvmp4-movavi/"><u>網路直接無限制地將FLV格式順利變更成MP4 - 使用Movavi進行轉檔</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/ace-message-management-on-discord-with-easy-pins/"><u>Ace Message Management on Discord with Easy Pins</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-inspiring-lifestyle-content-for-viewers-for-2024/"><u>Building Inspiring Lifestyle Content for Viewers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gameplay-experience-series-x-vs-custom-pc/"><u>Gameplay Experience: Series X Vs. Custom PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastery-in-missed-tips-on-bypassing-edgenuity-video-instructions-efficiently/"><u>Mastery in Missed Tips on Bypassing Edgenuity Video Instructions Efficiently</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/melodyrecorder-free-an-experts-evaluation-for-2024/"><u>MelodyRecorder Free An Expert's Evaluation for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-itchios-best-indie-game-finds/"><u>Navigating Itch.io's Best Indie Game Finds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-in-ios-18-hands-free-call-recording-now-possible-without-external-apps-insights/"><u>New in iOS 18: Hands-Free Call Recording Now Possible Without External Apps - Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-with-new-york-times-connections/"><u>Playing with New York Times Connections</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-free-video-communication-tools-iphone-and-android-devices-for-2024/"><u>Top 10 Free Video Communication Tools - iPhone and Android Devices for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-your-consoles-potential-with-these-wi-fi-tips/"><u>Unlock Your Console's Potential with These Wi-Fi Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-android-gamers-rejoice-heres-kinemaster-unleashed/"><u>[New] Android Gamers Rejoice! Here's KineMaster Unleashed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-top-5-high-quality-low-speed-video-gear/"><u>[New] In 2024, Top 5 High-Quality Low-Speed Video Gear</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-erasing-your-instagram-identity-step-by-step-guidebook/"><u>[Updated] Erasing Your Instagram Identity Step-by-Step Guidebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pc-sound-logging-simplified-install-x-recorder-app/"><u>[Updated] Pc Sound Logging Simplified - Install X-Recorder App</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-obtaining-and-integrating-mojang-maps/"><u>Essential Tips for Obtaining & Integrating Mojang Maps</u></a></li>
+<li><a href="https://techidaily.com/exploring-how-iphones-dominate-the-world-of-mobile-video/"><u>Exploring How iPhones Dominate the World of Mobile Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-swap-innovation-meets-gaming-in-the-razer-blackwidow-v4/"><u>Hot-Swap Innovation Meets Gaming in the Razer BlackWidow V4</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-poco-f5-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Poco F5 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-15-plus-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 15 Plus by Name | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ingenious-ways-to-appear-stealthy-in-steam/"><u>Ingenious Ways to Appear Stealthy in Steam</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722883904481-must-have-email-apps-for-your-iphone-in-2024-expert-choices-revealed/"><u>Must-Have Email Apps for Your iPhone in 202#4 - Expert Choices Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-amds-rdna-3-written-in-technology-and-launch-dates/"><u>Navigating Through AMD's RDNA 3 Written in Technology and Launch Dates</u></a></li>
+<li><a href="https://games-able.techidaily.com/real-vs-fake-the-tale-of-buzzed-gamer-ads/"><u>Real vs Fake: The Tale of Buzzed Gamer Ads</u></a></li>
+<li><a href="https://games-able.techidaily.com/respect-your-console-no-microphones-here/"><u>Respect Your Console - No Microphones Here!</u></a></li>
+<li><a href="https://games-able.techidaily.com/revisiting-mobile-entertainment-7-hidden-disadvantages/"><u>Revisiting Mobile Entertainment: 7 Hidden Disadvantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-procedure-for-careful-xbox-360-slim-dismantling/"><u>The Procedure for Careful Xbox 360 Slim Dismantling</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-d3dx924dll-file-a-guide/"><u>Troubleshooting the Missing d3dx9_24.dll File: A Guide</u></a></li>
 </ul></div>
 

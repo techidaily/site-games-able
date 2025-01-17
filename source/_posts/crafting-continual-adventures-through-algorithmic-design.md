@@ -1,7 +1,7 @@
 ---
 title: Crafting Continual Adventures Through Algorithmic Design
-date: 2025-01-08T19:16:24.190Z
-updated: 2025-01-11T00:26:15.544Z
+date: 2025-01-15T23:24:12.170Z
+updated: 2025-01-16T16:50:56.225Z
 tags:
   - games
 categories:
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Procedural Generation?
 
 ![procedurally generated game map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/procedurally-generated-game-map.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Most games have manually-created worlds, like the Grand Theft Auto series and Call of Duty. This means that each and every loaded game will look the same, no matter how many times you play it.
 
@@ -34,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  So, to save space and create a unique map for every game, developers used procedural generation. Instead of building a map piece-by-piece, procedurally generated games use an algorithm to create their worlds.
 
  This means that even if you play the game repeatedly, the title will give you unique environments with every play-through. Furthermore, procedural generation isn't limited to creating a game's physical world. Developers also use it so their games will have unique dialogues, storylines, and even NPC decisions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Does Procedural Generation Work?
 
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  With procedural generation, your seed ensures that you get your desired result with each run of your algorithm, while your variables give you unique results. If you pair your variable with a random number generator or RNG ([what is an RNG?](https://www.makeuseof.com/tag/lesson-gamers-rng/) ), you could potentially create an absurdly large or even infinite number of variations for your game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Games Use Procedural Generation?
@@ -58,16 +62,12 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  So, here are a few modern titles which use this method when creating a game session.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### No Man's Sky
 
 ![No Mans Sky trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/no-mans-sky-trailer-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: PlayStation/[YouTube](https://www.youtube.com/watch?v=nLtmEjqzg7M&t=1s&ab%5Fchannel=PlayStation)
 
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  This feature makes Civilization highly replayable. Even if you’re playing the games for several years, each session will be a challenge. That’s why Civilization VI, the latest release of the franchise, is one of[the best offline games you can play on the iPad](https://www.makeuseof.com/tag/best-offline-games-iphone-ipad/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Rust
@@ -116,16 +116,16 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-redefining-visual-storytelling-with-virtual-reality/"><u>[New] 2024 Approved Redefining Visual Storytelling with Virtual Reality</u></a></li>
-<li><a href="https://games-able.techidaily.com/command-line-console-for-revitalizing-nintendo-classics/"><u>Command-Line Console for Revitalizing Nintendo Classics</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-evolved-introducing-razers-v4-hot-swap-design/"><u>Gaming Evolved: Introducing Razer’s V4 Hot-Swap Design</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-use-a-ps4-controller-on-your-pc-or-mac/"><u>How to Use a PS4 Controller on Your PC or Mac</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-14-proipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 14 Pro/iPad Without Computer</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-google-pixel-8-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Google Pixel 8 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/methods-for-correcting-erratic-mouse-scrolling/"><u>Methods for Correcting Erratic Mouse Scrolling</u></a></li>
-<li><a href="https://games-able.techidaily.com/spring-into-action-with-augmented-gaming/"><u>Spring Into Action with Augmented Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-game-crashing-in-life-is-strange-true-colors-a-proven-fix-that-works/"><u>Stop Game Crashing in Life Is Strange: True Colors - A Proven Fix That Works</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y100-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y100 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-innovative-shooting-the-best-cinematographic-tips-and-ideas/"><u>[New] In 2024, Innovative Shooting The Best Cinematographic Tips & Ideas</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-premier-picks-highest-rated-mp4s/"><u>[New] In 2024, Premier Picks Highest Rated MP4s</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-skillful-shortcuts-quick-background-elimination-tactics-for-2024/"><u>[New] Skillful Shortcuts Quick Background Elimination Tactics for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-beyerdynamic-mmx-200-soundscape/"><u>Delving Into Beyerdynamic MMX 200 Soundscape</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-6-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 6 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-syncing-yt-beats-with-visual-timelines/"><u>In 2024, Syncing YT Beats with Visual Timelines</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-the-essential-2023-social-media-video-exploration/"><u>In 2024, The Essential 2023 Social Media Video Exploration</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-saver-secured-step-by-step-for-switch-password-setup/"><u>Screen Saver Secured: Step-by-Step for Switch Password Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/soundproof-gaming-with-xbox-series-xs/"><u>Soundproof Gaming with Xbox Series X/S</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722879347351-the-insiders-look-at-telegram-benefits-functionality-and-user-experience/"><u>The Insider's Look at Telegram: Benefits, Functionality, and User Experience.</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-functionality-of-google-play-games-on-windows/"><u>Understanding the Functionality of Google Play Games on Windows</u></a></li>
 </ul></div>
 

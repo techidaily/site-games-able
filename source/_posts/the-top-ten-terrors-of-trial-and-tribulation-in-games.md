@@ -1,7 +1,7 @@
 ---
 title: The Top Ten Terrors of Trial and Tribulation in Games
-date: 2024-08-22T22:20:22.556Z
-updated: 2024-08-23T22:20:22.556Z
+date: 2025-01-13T17:32:33.413Z
+updated: 2025-01-16T19:33:31.500Z
 tags:
   - games
 categories:
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 
 Let’s explore some of the names leading the scene.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Jump King
 
 ![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you just discovered[what Foddian games are](https://www.makeuseof.com/what-are-foddian-games/) , chances are you’ve heard of Jump King. It’s a massive title in the community, the completion of which holds a lot of sway. Jump King is one of the easiest Foddian games to grasp because of its simple mechanics.
 
@@ -39,6 +47,10 @@ Let’s explore some of the names leading the scene.
  Overall, Jump King will bring you hours of fun for your first introduction to the Foddian genre. This is one of the factors that makes it easy to recommend.
 
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Getting Over It
 
@@ -57,16 +69,13 @@ Let’s explore some of the names leading the scene.
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
  You can move the caveman around as a player and jump on the pogo stick. The pogo stick has an interesting recovery mechanic that launches the caveman higher when they fall from a greater height. One can also rotate the caveman and launch them at an angle for a greater jump distance.
@@ -75,16 +84,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
  Besides the two-player nature, one major difference between this game and other Foddian titles is the movement options. Both players can move the penguins left or right, jump, grab surfaces, swing using the tether binding them together, and anchor themselves by crouching. The map is designed around these mechanics—as certain areas are only accessible using the right movement options.
@@ -99,9 +102,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
  Only Up! was developed in Unreal Engine 5, one of the most powerful 3D graphics engines on the market, and it shows in the game quality. Many of the game’s assets come from the Unreal Marketplace, but the developer found a way to organize the chaos. The result is a unique climbing experience as you traverse from one cultural biome to another.
@@ -113,22 +113,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## It’s About the Journey
 
  Foddian games are all, at their core, a passion project. The growth of this genre’s fanbase shows how much the creator’s passion has reached players around the world.
 
  And hopefully, after checking out some of the Foddian games on this list, you’ll be one of those players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +135,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-perfect-audio-the-10-premier-podcast-mics/"><u>[New] 2024 Approved Perfect Audio The 10 Premier Podcast Mics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-gradual-silence-techniques-in-fl/"><u>[Updated] 2024 Approved Gradual Silence Techniques in FL</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-where-to-download-christian-ringtones-and-how-to-customize-a-christian/"><u>[Updated] In 2024, Where To Download Christian Ringtones And How To Customize A Christian</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-employing-google-trends-to-discover-compelling-video-themes/"><u>2024 Approved Employing Google Trends to Discover Compelling Video Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-dual-windows-mastering-data-consistency-using-aoemi/"><u>Bridging Dual Windows: Mastering Data Consistency Using AOEMi</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-next-generation-handheld-power-pdw4/"><u>Discover Next Generation Handheld Power - PDW4</u></a></li>
+<li><a href="https://games-able.techidaily.com/electrifying-aspirations-power-and-purpose/"><u>Electrifying Aspirations: Power and Purpose</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-switch-experience-with-these-services/"><u>Elevate Your Switch Experience with These Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-habits-to-happiness-elevating-your-existence-through-chatgpt-strategies/"><u>From Habits to Happiness: Elevating Your Existence Through ChatGPT Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-giants-collide-ps5-vs-xbox-series-x-battle/"><u>Gaming Giants Collide - PS5 V/S Xbox Series X Battle</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-i-find-great-indie-games-using-itchio/"><u>How I Find Great Indie Games Using Itch.io</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-s23-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy S23 Ultra to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/live-streaming-software-vs-hardware-which-is-better-for-2024/"><u>Live Streaming Software Vs Hardware Which Is Better for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hannel-theme-images-and-templates-for-2024/"><u>MCB Channel Theme Images and Templates for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-world-of-portable-gaming-steam-link-and-mobile/"><u>Navigate the World of Portable Gaming - Steam Link & Mobile</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-security-enhancement-setting-up-a-passcode-on-switch/"><u>Nintendo's Security Enhancement: Setting Up a Passcode on Switch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-portraits-changing-picture-sizes-on-ios/"><u>Perfect Portraits Changing Picture Sizes on iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-nintendo-switch-online-packaging/"><u>Understanding the Nintendo Switch Online Packaging</u></a></li>
+<li><a href="https://games-able.techidaily.com/zonal-gameplay-changes-tweak-your-consoles-hour/"><u>Zonal Gameplay Changes: Tweak Your Console's Hour</u></a></li>
+</ul></div>
 

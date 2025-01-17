@@ -1,7 +1,7 @@
 ---
 title: How To Achieve Swift & Hassle-Free SD Card Upgrade
-date: 2025-01-05T10:07:06.376Z
-updated: 2025-01-11T02:10:31.871Z
+date: 2025-01-16T00:18:10.891Z
+updated: 2025-01-16T21:46:39.918Z
 tags:
   - games
 categories:
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
  Are you upgrading your Steam Deck SSD but don't want to set up your device from scratch? Here’s how to clone your SSD for an easier upgrade.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Cloning Your Steam Deck's SSD Is Better
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
  Cloning your old SSD to your new one will save you so much time. You won’t need to experience the time-consuming process of manually imaging SteamOS, logging in, waiting for updates, and getting all your old settings right. Here’s how you can do it...
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Download Macrium Reflect on a Separate PC
 
  Since we’re not going to be using an SSD enclosure in this guide, we’re going to need a separate PC that has an NVMe/SATA M.2 slot on the motherboard.
@@ -64,25 +68,33 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
 ![Macrium Reflect trial download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-trial-download-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Register and create a[Macrium Reflect](https://manage.macrium.com/) account and download the free trial as it has everything you need for this process.
 
  Copy your registration code, click on**Download Trial** on the Home version, and run the setup.
 
 ![Macrium Reflect registration code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-registration-code-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  During the setup, check the box for the 30-day trial and enter your registration code when it asks for it.
 
  Once the setup is done, and you’ve installed Macrium Reflect on your PC, you can now head to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 2: Image Your Old SSD
 
  If you only have one SSD slot on your motherboard, then imaging your SSD is the only way to go.
 
 ![Reinstalling Steam Deck SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/reinstalling-steam-deck-ssd-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Jhet Borja/MakeUseOf  
 
@@ -98,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
 ![Prompt before running backup image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/prompt-before-running-backup-image.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Name your backup image and click OK until it starts creating the image file. It can take anywhere from a few minutes to about an hour depending on the size of the drive and how much is on it. My 64GB SSD only took about five minutes.
 
  If your motherboard has two SSD slots, you can click**Clone this Disk** **...** instead of imaging. You can then follow similar steps, but skip the image restoration process by directly copying the partitions of the old SSD to the new one. This method is faster as it'll do the cloning in one step.
@@ -112,16 +120,12 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
 ![Searching for disk management on Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/searching-for-disk-management-on-windows-searcgh.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before you open up Macrium Reflect, search for "**Create and format hard disk partitions"** in the Windows search bar. This will open up the disk manager.
 
 ![Converting to GPT partition scheme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/converting-to-gpt-partition-scheme.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Look for your new SSD—it should be black if it hasn’t been used before. Right-click on it and select**Convert to GPT Disk** . The GPT partitioning scheme is what SteamOS works best with, so it’s best to use that.
@@ -129,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 ![Restore image tab on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restore-image-tab-on-macrium-reflect-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open up Macrium Reflect, and on the top menu bar, click**Restore** **\> Browse for an image or backup file to restore…** .
@@ -144,23 +148,19 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
 ![Copying partitions to new disk-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/copying-partitions-to-new-disk-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on**Copy partitions** **\> Exact Offset and Length** . This will visualize the partitions on the new SSD. Don’t worry about the empty space, leave that blank as SteamOS will immediately utilize it once you boot up your Steam Deck.
 
  Click on**Next** until the**Finish** button is clickable. This will start pasting the image onto the new SSD. It can take a while depending on how big the whole operation is.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 4: Insert Your New SSD Into Your Steam Deck
 
  Once the old SSD’s image has been copied onto your new SSD, you can now shut down your PC and install the drive onto your Steam Deck.
 
 ![Steam Deck playing Palworld](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-playing-palworld-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -193,19 +193,22 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unleashing-potential-a-moto-z2-deep-dive/"><u>[Updated] 2024 Approved Unleashing Potential A Moto Z2 Deep Dive</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-reel-your-browser-life-the-foremost-tools-for-high-quality-captures/"><u>[Updated] In 2024, Reel Your Browser Life The Foremost Tools for High-Quality Captures</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-why-is-instagram-turning-my-video-sideways-in-2024/"><u>[Updated] Why Is Instagram Turning My Video Sideways, In 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-must-implement-safety-protocols-on-ps5/"><u>5 Must-Implement Safety Protocols on PS5</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728470692546-windows-10/"><u>讓Windows 10恢復更快: 高效解決方案</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-journey-through-time-foddian-games-origin/"><u>A Journey Through Time: Foddian Games Origin</u></a></li>
-<li><a href="https://games-able.techidaily.com/advice-on-preserving-power-in-your-xbox-joystick/"><u>Advice on Preserving Power in Your Xbox Joystick</u></a></li>
-<li><a href="https://games-able.techidaily.com/catching-all-audiences-top-6-varied-titles/"><u>Catching All Audiences: Top 6 Varied Titles</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-video-multitasking-in-chromes-pip-mode-on-all-devices-for-2024/"><u>Navigating Video Multitasking in Chrome’s PIP Mode on All Devices for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/pi-console-showdown-batocera-vs-retropie/"><u>Pi Console Showdown: Batocera Vs. RetroPie</u></a></li>
-<li><a href="https://games-able.techidaily.com/tech-analysis-safe-use-of-roblox-speed-up-tools/"><u>Tech Analysis: Safe Use of Roblox Speed Up Tools?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199746213-troubleshooting-the-video-scheduler-on-windows-11-fixing-internal-errors-once-and-for-all/"><u>Troubleshooting the Video Scheduler on Windows 11 – Fixing Internal Errors Once and For All!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726030623013-dvd/"><u>現代車両でDVD視聴不能・解決法：カーナビの再生トラブルに対する最新対策</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/complete-guide-steps-to-freshly-install-windows-7-os-on-your-computer/"><u>Complete Guide: Steps to Freshly Install Windows 7 OS on Your Computer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959924162-download-hp-deskjet-ink-advantage-2652-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download HP Deskjet Ink Advantage 2652 Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-web-experience-minimizing-high-network-latency/"><u>Efficient Web Experience: Minimizing High Network Latency</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-browser-performance-fixing-facebook-games/"><u>Enhance Browser Performance - Fixing Facebook Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/exquisite-office-mat-selection-guide-2024/"><u>Exquisite Office Mat Selection Guide 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-classics-to-cutting-edge-mmo-game-advancements/"><u>From Classics to Cutting-Edge: MMO Game Advancements</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-6-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 6 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-efficient-ways-to-document-gotomeeting-sessions/"><u>In 2024, Efficient Ways to Document GoToMeeting Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-into-the-action-early-preorder-spider-man-2/"><u>Jump Into the Action Early - Preorder Spider-Man 2</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474710283-stuck-with-late-imessages-on-iphone-try-these-effective-methods-for-swift-communication/"><u>Stuck with Late iMessages on iPhone? Try These Effective Methods for Swift Communication.</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-impact-of-rdna-35-amds-future-tech/"><u>Understanding the Impact of RDNA 3.5 - AMD's Future Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribing-minecraft-exporting-kingdoms/"><u>Unsubscribing Minecraft: Exporting Kingdoms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-tailoring-your-viewing-experience-eliminating-background-noise-from-videos/"><u>Updated Tailoring Your Viewing Experience Eliminating Background Noise From Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/visualizing-rhythms-using-tablets-as-tools/"><u>Visualizing Rhythms: Using Tablets as Tools</u></a></li>
 </ul></div>
 

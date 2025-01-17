@@ -1,7 +1,7 @@
 ---
 title: Discreetly Stowing Steam Titles
-date: 2024-08-15T17:26:00.353Z
-updated: 2024-08-16T17:26:00.353Z
+date: 2025-01-11T18:39:24.137Z
+updated: 2025-01-17T00:19:25.541Z
 tags:
   - games
 categories:
@@ -14,11 +14,19 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 
 ## Discreetly Stowing Steam Titles
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Steam Now Lets You Set Games as Private](#steam-now-lets-you-set-games-as-private)
 * [How to Hide a Game on Steam With the Private Feature](#how-to-hide-a-game-on-steam-with-the-private-feature)
 * [Don't Mix Up Private Games and Hidden Games on Steam](#don-39-t-mix-up-private-games-and-hidden-games-on-steam)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
  Steam's Private Apps feature is officially out of beta, meaning you can hide games in your Steam library that you don't want others to see. Here's what you should know about keeping certain Steam library titles visible only to yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Steam Now Lets You Set Games as Private
 
  Steam announced on the[Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
@@ -39,24 +48,15 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 
  But the new feature lets you mark specific titles while keeping the remainder of your library visible. For each private game, Steam hides your in-game status, playtime, and other activity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Hide a Game on Steam With the Private Feature
 
  If you specifically want to keep friends from seeing a game in your library and prevent them from seeing when you're playing it, you should mark it as private.
 
 ![marking a game as private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/marking-a-game-as-private-on-steam.png)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To do this, open Steam and head to your**Library.** Scroll down to the game you want to make private and right-click on it. Then select**Manage > Mark as Private** . In the popup box, select the**Mark as Private** button.
 
 ![mark as private notification on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mark-as-private-notification.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 
  I noticed that the feature doesn't work immediately if you are currently playing the game. So it's best to exit the game before setting a title as private. When you re-enter the game, it should no longer show up in your status.
 
@@ -83,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
  You should also keep in mind that if you[enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Don't Mix Up Private Games and Hidden Games on Steam
 
  When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to[get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
@@ -93,24 +94,21 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 
 ![find your hidden games on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/find-your-hidden-games-on-steam.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't remember the names of the games you've hidden in the past, you can select the**View** option at the top of the Steam app and then select**Hidden Games** . You can then go through each one to mark it as private.
 
 ![hidden games folder on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/hidden-games-folder-on-steam.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 
  Now that you know how to set games as private on Steam, as well as the differences between hidden games and private games, you can maintain more control over which of your games your friends can see on Steam.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +117,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-effortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube/"><u>[Updated] Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlocking-growth-medical-ad-tricks-on-social-media-for-2024/"><u>[Updated] Unlocking Growth Medical Ad Tricks on Social Media for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-blunders-to-steer-clear-of-when-choosing-your-next-monitor/"><u>10 Blunders to Steer Clear of when Choosing Your Next Monitor</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quick-start-easy-iphone-screen-capture-methods/"><u>2024 Approved Quick Start Easy iPhone Screen Capture Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-to-proficient-kinemaster-use-and-top-digital-services/"><u>2024 Approved The Complete Guide to Proficient KineMaster Use and Top Digital Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-ways-to-fix-big-picture-mode-not-working-or-crashing-in-steam-for-windows/"><u>8 Ways to Fix Big Picture Mode Not Working or Crashing in Steam for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-peak-performance-install-updated-nvidia-graphics-driver-now/"><u>Achieve Peak Performance - Install Updated Nvidia Graphics Driver Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-and-gaming-the-revolution-of-nvidias-dlss-technology-in-update-35/"><u>AI and Gaming: The Revolution of Nvidia’s DLSS Technology in Update 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-your-needs-before-committing-to-ps5/"><u>Assessing Your Needs Before Committing to PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-heat-with-ps-summer-sale-winners/"><u>Beat the Heat with PS Summer Sale Winners</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-buys-in-playstation-summer-clearance-sale/"><u>Best Buys in PlayStation Summer Clearance Sale</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/discover-the-ultimate-web-destinations-for-legally-acquiring-hit-hindi-movie-soundtracks/"><u>Discover the Ultimate Web Destinations for Legally Acquiring Hit Hindi Movie Soundtracks</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 15 to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-peak-performance-cameras-for-high-speed-sports/"><u>In 2024, Peak Performance Cameras for High-Speed Sports</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-vn-video-editor-mobile-app-review-editing-made-easy-in-2024/"><u>New VN Video Editor Mobile App Review Editing Made Easy, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166879528-revitalize-your-pc-with-the-newest-nvidia-driver-update/"><u>Revitalize Your PC with the Newest Nvidia Driver Update</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-using-system-file-checker-and-scannow-utility-on-windows-11/"><u>Step-by-Step Tutorial: Using System File Checker and ScanNow Utility on Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Excellence in Technology: MWC & MakeUseOf Best Picks"
-date: 2024-08-15T17:26:05.847Z
-updated: 2024-08-16T17:26:05.847Z
+date: 2025-01-12T18:49:43.924Z
+updated: 2025-01-16T22:10:08.568Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 ---
 
 ## Excellence in Technology: MWC & MakeUseOf Best Picks
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
  Either way, they've all made MakeUseOf's Best of MWC 2024 list—in no particular order.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Tecno Megabook T16 Pro
 
 ![tecno megabook ultimate t16 with awards mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-ultimate-t16-with-awards-mwc-2024.jpg)
@@ -49,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
  The new 2024 Tecno Megabook T16 Pro ships with an AI-enabled Intel Core Ultra 7 (or Core Ultra 5), which enables on-device AI tools using Intel's new Neural Compute Engine, such as AI image generation and AI conference support, all accessed through the onboard PC Manager. Having given the onboard image generation a try, it's fast and responsive, using the latest version of Stable Diffusion to generate AI images.
 
 ![tecno megabook pro t16 ai image generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-pro-t16-ai-image-generator.JPG)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -59,15 +61,9 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
  Furthermore, the Megabook T16 Pro ships with a whopping 99.99Wh battery that supports 100W charging, and its upgraded 65W cooling system helps to keep everything purring along nicely.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 2\. Honor Magic 6 Pro
 
 ![honor magic 6 pro on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magic-6-pro-on-stand-with-muo-mwc-2024-award.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -98,14 +94,12 @@ Close
  The concept smartphone features a 6.9-inch pOLED screen. Most interestingly, the battery and other components are built in multiple segments to help the device achieve its bendiness.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Tecno Camon 30 Premier 5G
 
 ![tecno camon on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/tecno-camon-on-stand-with-muo-mwc-2024-award.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -125,6 +119,10 @@ Close
 
 ![zte nubia flip 5g smartphone on stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-flip-5g-smartphone-on-stand.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gavin Phillips/MakeUseOf
 
  Now, here's a device I wasn't expecting to see: the new ZTE Nubia Flip 5G. ZTE rocked up at MWC 2024 with a heap of new smartphones, tablets, and other hardware, and the Nubia Flip 5G is the best of the bunch (though I also really liked the new ZTE Nubia Music).
@@ -138,8 +136,9 @@ Close
  The budget flip-phone market is heating up, with strong entries like the ZTE Nubia Flip 5G and Tecno Phantom V Flip 5G battling it out with the Motorola Razr.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Ayaneo Pocket S
 
 ![ayaneo pocket s on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/ayaneo-pocket-s-on-stand-at-mwc-2024.jpg)
@@ -156,14 +155,6 @@ Close
 
  The Pocket S also features multiple performance modes, integrated vibration, RGB lighting on the Hall Sensing joysticks, and heaps of gaming integrations.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Xiaomi 14 Ultra
 
 ![xiaomi 14 ultra on stand mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/xiaomi-14-ultra-on-stand-mwc-2024.jpg)
@@ -183,9 +174,6 @@ Close
 ## 8\. Honor MagicBook Pro 16
 
 ![honor magicbook pro 16 at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magicbook-pro-16-at-mwc-2024.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -199,12 +187,13 @@ Close
 
  Furthermore, the MagicBook Pro 16 comes equipped with an Nvidia RTX 4060 GPU, which is plenty powerful, and a 75Wh battery, which Honor says should last up to ten hours (usage dependant).
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Tecno Phantom Ultimate Concept
 
 ![tecno phantom ultimate concept smartphone in hand closed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-phantom-ultimate-concept-smartphone-in-hand-closed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -218,6 +207,10 @@ Close
 
 ![zte nubia 3d pad II on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-3d-pad-ii-on-stand-at-mwc-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gavin Phillips/MakeUseOf
 
  Remember the Nintendo 3DS? Well, static 3D tech has come a long, long way since then. The ZTE Nubia Pad 3D II is an excellent embodiment of everything Nintendo probably wanted the 3DS to achieve, except on a much bigger and higher resolution screen.
@@ -228,12 +221,13 @@ Close
 
  The 3D glasses-free tech is great on its own, but what's better is that the Nubia Pad 3D II will convert images, video, and games from 2D into 3D, giving you incredible depth across an 86-degree viewing angle. It also runs at 2560x1600, giving great resolution, and the 3D effect is evident from a wide range of viewing points.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Samsung Galaxy Ring
 
 ![samsung galaxy smart ring on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/samsung-galaxy-smart-ring-on-stand-at-mwc-2024.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -246,8 +240,9 @@ Close
  The Samsung Galaxy Ring also looks smart, eschewing the matte option delivered by other smart ring options in favor of a shiny metal finish.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 12\. Lenovo ThinkBook Transparent Concept
 
 ![lenovo transparent laptop concept mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/lenovo-transparent-laptop-concept-mwc-2024.jpg)
@@ -262,14 +257,11 @@ Close
 
  Again, I'm slightly perturbed by the screen, but it's a great transparent laptop design and easily one of the best iterations on this growing tech style launched so far.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -278,4 +270,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-pinpoint-premium-video-keywords-on-youtube/"><u>[New] 2024 Approved How to Pinpoint Premium Video Keywords on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-xiaomis-flight-tech-unveiled-in-4k-review/"><u>[New] In 2024, Xiaomi's Flight Tech Unveiled in 4K Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-elevating-enthrallment-yt-storytellers-to-track-in-23-for-2024/"><u>[Updated] Elevating Enthrallment YT Storytellers to Track in '23 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-beyond-the-screen-advanced-techniques-in-logging-virtual-reality-games/"><u>[Updated] In 2024, Beyond the Screen Advanced Techniques in Logging Virtual Reality Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/499-driving-passport-include-moza-r5-in-your-arsenal/"><u>$499 Driving Passport - Include MOZA R5 in Your Arsenal</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-cinema-chronicles-the-quintessential-cinematographic-tips-for-24/"><u>2024 Approved Cinema Chronicles The Quintessential Cinematographic Tips for '24</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-crafting-engaging-youtube-end-credits/"><u>2024 Approved Crafting Engaging YouTube End Credits</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-wise-approach-to-reviving-your-ps5-remote/"><u>A Step-Wise Approach to Reviving Your PS5 Remote</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-software-file-recovery-problem/"><u>Addressing Steam Software File Recovery Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-game-over-top-10-reasons-games-crash-and-how-to-prevent-them/"><u>Avoid Game Over: Top 10 Reasons Games Crash and How to Prevent Them</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/stillness-to-stirring-tips-for-bouncing-text-for-2024/"><u>From Stillness to Stirring Tips for Bouncing Text for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172130344-make-every-sound-count-on-xbox-one-again/"><u>Make Every Sound Count on Xbox One Again</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-easy-way-to-craft-your-digital-self-in-virtual-worlds-for-2024/"><u>The Easy Way to Craft Your Digital Self in Virtual Worlds for 2024</u></a></li>
+</ul></div>
 

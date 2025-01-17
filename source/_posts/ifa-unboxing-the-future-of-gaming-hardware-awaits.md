@@ -1,7 +1,7 @@
 ---
 title: "IFA Unboxing: The Future of Gaming Hardware Awaits"
-date: 2024-08-15T17:22:36.280Z
-updated: 2024-08-16T17:22:36.280Z
+date: 2025-01-10T21:29:33.460Z
+updated: 2025-01-16T19:46:36.848Z
 tags:
   - games
 categories:
@@ -22,15 +22,9 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
  Plenty of brands had a fine showing of their gaming hardware at IFA 2023\. But it was Lenovo that proverbially mopped the floor with the competition. It unveiled not one, or even two, but three pieces of gaming hardware that show Lenovo is making serious moves to become a leader in some of the game tech still in its infancy: portable gaming PCs and AR glasses.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Lenovo Legion GO
 
 ![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -45,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 * 8.8-inch OLED screen
 
 ![Windows running on Lenovo Legion Go](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -59,25 +50,31 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
 ![Lenovo Legion Go Controller and Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-controller-mouse.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  Lenovo is wisely positioning the Legion GO as a gaming handheld just as capable as a desktop. It beats the Steam Deck and ROG Ally's screen size by nearly two full inches, boasting an impressive 8.8-inch screen. It also includes a kickstand, making it easy to plop onto your desk and play like any gaming PC.
 
 ![Lenovo Legion Go with Kickstand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-kickstand.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  The Lenovo Legion GO is scheduled to launch on October 31, 2023, for $799.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lenovo Legion Glasses
 
 ![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -86,15 +83,16 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
  But this kind of tech is still a brave new world, so it's worth covering Lenovo's smart glasses. The Lenovo Legion Glasses feature a micro-OLED display that gives players a 1920x1090 resolution_per eye._ Sounds like an awesome way to lean back and play "Armored Core VI: Fires of Rubicon" for the rest of 2023.
 
 ![legion-glasses-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  The Lenovo Legion Glasses can connect to virtually any device that supports USB-C Alt mode, which includes everything from laptops to iPads sporting a USB-C port via its unattachable 4-foot USB-C cable. If the cord breaks, the glasses are busted. That's still an odd choice by Lenovo, but we'll entertain the idea.
 
 ![Cord of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-cord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
@@ -106,12 +104,13 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Lenovo Legion 9i
 
 ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -139,6 +138,10 @@ The Lenovo Legion 9i will be available starting October 2023.
 
 ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Gavin Phillips/MakeUseOf
 
  MSI impressed us with its new line of[GAMING SLIM series of graphics cards](https://www.msi.com/Graphics-Card/GeForce-RTX-4060-Ti-GAMING-X-SLIM-16G) . It effectively shrinks down the GeForce RTX 40 series, making installing it in small or tight spaces easier.
@@ -146,20 +149,18 @@ The Lenovo Legion 9i will be available starting October 2023.
  Available in both black and white, MSI's GAMING SLIM graphics cards are also cooled by the TRI FROZR 3 and TORX Fan 5.0, directing proper airflow despite its small profile. It keeps itself cool with eight Core Pipes in the heatsink and a metal backplate with an opening to decrease heat.
 
 ![msi 4070 slimline gpu on stand black and white colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-stand-black-and-white-colors.JPG)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Gavin Phillips/MakeUseOf
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tecno MegaMini Watercooled Mini PC
 
 ![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Paul Antill/[MakeUseOf](http://www.makeuseof.com)
 
@@ -186,8 +187,6 @@ No word on the price or release date yet, but color us intrigued.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +194,19 @@ No word on the price or release date yet, but color us intrigued.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-achieving-profitability-at-half-a-million-viewers/"><u>[New] In 2024, Achieving Profitability at Half a Million Viewers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-introductory-walkthrough-how-to-employ-mobizen-screensaver-tools/"><u>[Updated] In 2024, Introductory Walkthrough How to Employ Mobizen Screensaver Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/crushing-gaming-bugs-the-top-10-causes-of-video-game-failures/"><u>Crushing Gaming Bugs: The Top 10 Causes of Video Game Failures</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/effortless-restoration-mastering-the-art-of-seagate-barracuda-drive-recovery/"><u>Effortless Restoration: Mastering the Art of Seagate BarraCuda Drive Recovery</u></a></li>
+<li><a href="https://games-able.techidaily.com/expedition-for-efficient-map-extraction-and-entry/"><u>Expedition for Efficient Map Extraction and Entry</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/get-started-with-cloudbacko-your-new-solution-for-google-drive-management/"><u>Get Started with CloudBacko: Your New Solution for Google Drive Management</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-skyrocket-views-mastery-of-title-and-tag-optimization/"><u>In 2024, Skyrocket Views Mastery of Title and Tag Optimization</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-across-regions-switching-for-better-games/"><u>Journey Across Regions: Switching for Better Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-vs-budget-gaming-pc-which-is-better/"><u>PS5 Vs. Budget Gaming PC: Which Is Better?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/refining-your-craft-making-youtube-friendly-videos-for-2024/"><u>Refining Your Craft Making YouTube-Friendly Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726029412503-step-by-step-tutorial-effortless-transformation-of-dvd-content-to-avi-format/"><u>Step-by-Step Tutorial: Effortless Transformation of DVD Content to AVI Format</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-profile-metamorphosis-your-riot-identity-transition/"><u>Streamlining Profile Metamorphosis: Your Riot Identity Transition</u></a></li>
+</ul></div>
 

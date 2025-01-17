@@ -1,7 +1,7 @@
 ---
 title: "Swift Playtime: Select 20 Mobile Games to Enjoy on Android and iPhone"
-date: 2024-08-15T17:28:35.592Z
-updated: 2024-08-16T17:28:35.592Z
+date: 2025-01-12T00:14:29.022Z
+updated: 2025-01-16T20:49:52.944Z
 tags:
   - games
 categories:
@@ -29,8 +29,9 @@ Close
 **Download:** iSlash Heroes for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.duellogames.iSlash2) |[iOS](https://apps.apple.com/app/islash-heroes/id949498190) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 Fishing Break
 
 Close
@@ -41,9 +42,6 @@ Close
 
 **Download:** Fishing Break for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=ca.roofdog.fishing) |[iOS](https://apps.apple.com/app/fishing-break/id997811612) (Free, in app-purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3 Doodle Jump
 
 Close
@@ -63,6 +61,10 @@ Close
  Each correct tap creates a nice musical tone, but a wrong tap gives an off-key note.
 
 **Download:** Polyforge for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.impactbluestudios.polyforge) |[iOS](https://apps.apple.com/app/polyforge/id1109788041) (Free, in-app purchases available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Two Dots
 
@@ -92,6 +94,10 @@ Close
 
 **Download:** Roll the Ball for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.bitmango.rolltheballunrollme) |[iOS](https://apps.apple.com/app/roll-the-ball-slide-puzzle/id961875786) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 NYT Games
 
 Close
@@ -110,6 +116,10 @@ Close
 
 **Download:** Trivia Crack for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite) |[iOS](https://apps.apple.com/app/trivia-crack/id651510680) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10 Word Chums
 
 Close
@@ -121,8 +131,9 @@ Close
 **Download:** Word Chums for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.peoplefun.wordchums) |[iOS](https://apps.apple.com/app/word-chums/id517840944) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11 Draw With Friends
 
 Close
@@ -133,9 +144,6 @@ Close
 
 **Download:** Draw With Friends for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.fiddlerswork.drawwithfriends) |[iOS](https://apps.apple.com/app/draw-with-friends-multiplayer/id1502088179) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 12 Bowling Crew
 
 Close
@@ -146,9 +154,6 @@ Close
 
 **Download:** Bowling Crew for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.tetrox.bowl) |[iOS](https://apps.apple.com/app/bowling-crew/id1490240246) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 13 Subway Surfers
 
 Close
@@ -159,6 +164,10 @@ Close
 
 **Download:** Subway Surfers for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf) |[iOS](https://apps.apple.com/app/subway-surfers/id512939461) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 14 Horizon Chase
 
 Close
@@ -167,9 +176,6 @@ Close
 
 **Download:** Horizon Chase for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.aquiris.horizonchase) |[iOS](https://apps.apple.com/app/horizon-chase/id991018252) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 15 7 Little Words
 
 Close
@@ -180,9 +186,6 @@ Close
 
 **Download:** 7 Little Words for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.blueoxtech.sevenlittlewords) |[iOS](https://apps.apple.com/app/7-little-words-daily-puzzles/id431434152) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 16 Pokémon GO
 
 Close
@@ -192,6 +195,10 @@ Close
  It's surprisingly deep, too—there are plenty of[Pokémon GO tricks to uncover](https://www.makeuseof.com/tag/pokemon-go-tips-beginners-need-know/) .
 
 **Download:** Pokémon GO for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) |[iOS](https://apps.apple.com/app/pokémon-go/id1094591345) (Free, in-app purchases available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 17 WordBrain
 
@@ -211,10 +218,6 @@ Close
 
 **Download:** Jigsaw Puzzles for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.easybrain.jigsaw.puzzles) |[iOS](https://apps.apple.com/app/jigsaw-puzzles-puzzle-games/id1324604053) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 19 Crossy Road
 
 Close
@@ -225,9 +228,6 @@ Close
 
 **Download:** Crossy Road for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.yodo1.crossyroad) |[iOS](https://apps.apple.com/app/crossy-road/id924373886) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 20 Infinite Tiles
 
 Close
@@ -236,14 +236,11 @@ Close
 
 **Download:** Infinite Tiles for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.opalastudios.infinitetiles) |[iOS](https://apps.apple.com/app/infinite-tiles-edm-piano/id1465612626) (Free, in-app purchases available)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -252,4 +249,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-free-video-editing-programs-you-should-know-for-2024/"><u>[New] Best Free Video Editing Programs You Should Know for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-best-5-tiktok-fonts-generator-of-2023-to-gain-more-views/"><u>[New] In 2024, Best 5 TikTok Fonts Generator of 2023 to Gain More Views</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unbeatable-summer-movie-list-10-familial-classics/"><u>[New] Unbeatable Summer Movie List 10 Familial Classics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-premium-3d-playback-with-superior-blu-ray-systems-for-2024/"><u>[Updated] Premium 3D Playback with Superior Blu-Ray Systems for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/batocera-vs-retropie-the-best-rpi-game-platform-debated/"><u>Batocera Vs. RetroPie: The Best RPi Game Platform Debated</u></a></li>
+<li><a href="https://games-able.techidaily.com/considering-an-immediate-switch-from-gtx-to-the-next-gen-rtx/"><u>Considering an Immediate Switch: From GTX to the Next Gen RTX?</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-puzzles-navigating-through-the-good-and-bad-aspects/"><u>Digital Puzzles: Navigating Through the Good & Bad Aspects</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exploring-all-windows-movie-maker-editions-for-2024/"><u>Exploring All Windows Movie Maker Editions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-ready-for-revolutionary-hardware-at-the-biggest-tech-event/"><u>Get Ready for Revolutionary Hardware at the Biggest Tech Event</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-stepwise-tutorial-adding-professional-edges-to-ig-content/"><u>In 2024, Stepwise Tutorial Adding Professional Edges to IG Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-xbox-casing/"><u>Insights Into Xbox Casing</u></a></li>
+<li><a href="https://games-able.techidaily.com/invest-in-entertainment-smart-money-moves-with-xbox/"><u>Invest in Entertainment: Smart Money Moves with Xbox</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-visual-symphony-infusing-premiere-pro-projects-with-animate-waveform-integration-and-audio-representation/"><u>New The Visual Symphony Infusing Premiere Pro Projects with Animate Waveform Integration and Audio Representation</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-vs-edge-which-is-superior-in-the-online-gaming-arena/"><u>Opera GX vs Edge: Which Is Superior in the Online Gaming Arena?</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/optimizing-windows-7-system-restore-solutions-for-maximum-space-efficiency/"><u>Optimizing Windows 7 System Restore: Solutions for Maximum Space Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/patent-claim-for-disc-drive-on-xbox-s-questioned/"><u>Patent Claim for Disc Drive on Xbox S Questioned</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-c53-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme C53 ? Fix It Easily | Dr.fone</u></a></li>
+</ul></div>
 

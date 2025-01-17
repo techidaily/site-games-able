@@ -1,7 +1,7 @@
 ---
 title: Why Postponing Video Games Can Pay Off
-date: 2024-08-22T22:20:51.494Z
-updated: 2024-08-23T22:20:51.494Z
+date: 2025-01-11T17:09:33.401Z
+updated: 2025-01-16T20:15:11.272Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
 
  But rather than defaulting to being upset that a game is delayed, there is another side of the coin that deserves to be observed. And once you do, you might start to see that could be a good thing when a game gets delayed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Delaying Games Reduces Crunch Culture
 
  Crunch culture is a big issue in the realm of video games. But[what is crunch culture](https://www.makeuseof.com/crunch-culture-video-games/) , you might be wondering? Essentially, crunch culture involves subjecting video game developers to appalling working conditions to get them to work faster and harder in an effort to meet harsh deadlines.
@@ -26,7 +30,15 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
 
 ![Skeleton hunched over messy desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/skeleton-hunched-over-messy-desk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While some people work well under pressure, positive environments often produce the best results. When you actually look at[whether crunch culture creates better video games](https://www.makeuseof.com/does-crunch-culture-deliver-good-bad-games/) , in the end, the answer is far from a resounding yes. Great games have come from crunch culture, sure. But it's simply not worth subjecting workers to crunch culture when it is entirely possible to create brilliant games without it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Delaying Video Games Improves the Final Product
 
@@ -40,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
 
  Developers continued working on Cyberpunk 2077 well after its release date, and it's great now. But it is clear to see that the game would have met a much warmer reception if the developers had been given enough time to finish it before it was released.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Better Games Mean Better Sales
 
  The better a game is, the more people are going to buy it, love it, and tell their friends about it. Creating games costs a lot of money. So the more profit that a game makes, the more resources development teams will have to create even more amazing games in the future.
@@ -50,9 +59,9 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
  Delaying the release of games allows the final product to be better, which means better sales, which means creators have the resources required to make more titles for gamers to enjoy. That is the circle of life for video games, but that cycle stops if a game doesn’t sell well enough to recoup costs.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Gamers Will Actually Get What They Paid For
 
  There’s nothing worse than spending your hard-earned cash on something and feeling ripped off for one reason or another. If you buy a game, boot it up, and experience so many bugs or glitches that it becomes unenjoyable, no one wins.
@@ -60,27 +69,22 @@ The ultimate burning program for all your needs!</a>
 ![Man holding white piece over paper that reads balance over burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-white-piece-over-paper-that-reads-balance-over-burnout.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In situations like this, everyone loses. The consumer loses, the development team loses, and the publisher loses. All for something that could have possibly been avoided if the game’s release date was pushed back a bit and developers had enough time to create a more polished experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Unfinished Games Don’t Benefit Anyone
 
  At the end of the day, you’re presented with two options when it comes to video game delays. Option number one is sticking to release dates, leading to poor working conditions and lower-quality games. Option number two is delaying the release for a little, so the end product is really worth the wait.
 
  Game delays can be disappointing, there's no denying that. But next time you find yourself frustrated about a delay, remind yourself that it means the game's going to be better, and the people creating it won't have to sacrifice their mental health while doing so.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,4 +93,23 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-streamlining-media-edits-storyremix-and-windows-11-photos-integration/"><u>[New] In 2024, Streamlining Media Edits StoryRemix & Windows 11 Photos Integration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sharpening-your-minecraft-landscapes/"><u>[New] Sharpening Your Minecraft Landscapes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-luxury-levels-screen-brightness-on-android/"><u>[Updated] Luxury Levels Screen Brightness on Android</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-meizu-21-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-common-pitfalls-in-game-console-reimbursements/"><u>Avoiding Common Pitfalls in Game Console Reimbursements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-visionary-the-ultimate-reddit-marketing-blueprint-for-2024/"><u>From Novice to Visionary The Ultimate Reddit Marketing Blueprint for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-edge-outperforms-other-gaming-browsers/"><u>How Edge Outperforms Other Gaming Browsers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-speed-up-your-iphone-tips-for-a-swiftly-responsive-device/"><u>How to Speed Up Your iPhone: Tips for a Swiftly Responsive Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-gaming-repair-and-revive-your-own-controllers/"><u>Jumpstart Gaming - Repair and Revive Your Own Controllers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-most-downloaded-and-loved-android-apps-for-2024/"><u>New Most Downloaded and Loved Android Apps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-issues-with-windows-and-steam-remote-play/"><u>Overcoming Issues with Windows & Steam Remote Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-steps-for-windows-to-solve-ps4-controller-dropping-out/"><u>Reconnecting: Steps for Windows to Solve PS4 Controller Dropping Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-ultimate-visual-experience-big-picture/"><u>Steam’s Ultimate Visual Experience: Big Picture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamline-your-media-experience-add-subtitles-in-windows-media-player/"><u>Streamline Your Media Experience Add Subtitles in Windows Media Player</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-changer-essential-nintendo-switch-customizations/"><u>The Game Changer: Essential Nintendo Switch Customizations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-driver-installations-a-step-by-step-guide/"><u>Troubleshooting Invalid Driver Installations - A Step-by-Step Guide</u></a></li>
+</ul></div>
 

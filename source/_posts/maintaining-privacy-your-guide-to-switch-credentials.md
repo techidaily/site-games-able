@@ -1,7 +1,7 @@
 ---
 title: "Maintaining Privacy: Your Guide to Switch Credentials"
-date: 2024-08-15T17:24:38.367Z
-updated: 2024-08-16T17:24:38.367Z
+date: 2025-01-15T17:42:39.287Z
+updated: 2025-01-17T00:49:26.084Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
  Accessing and managing your various accounts for gaming platforms straight from your consoles is an overlooked but highly convenient feature of modern gaming.
 
  And with console gaming becoming more linked with subscription services or premium accounts, the convenience of managing your accounts is only becoming more vital. But on your Nintendo Switch, the process is quite tricky. So, if you want to manage your Nintendo account straight from your Nintendo Switch, we can help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What You Need to Know Before Removing or Adding a Nintendo Account
 
@@ -47,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 * Highlight the options for**User** , and select the user profile linked to your Nintendo account.
 
 ![A screenshot of the User settings on a Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092209550900-57b4628d2267231d57e0fc1078c0596d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Under**Nintendo Account** , select**Check Account Information** .
 
 ![A screenshot of the Nintendo Account settings available through the User options on a Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092209552900-57b4628d2267231d57e0fc1078c0596d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
 * Choose either**View email address** or**View family group members** .
 
@@ -77,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
  From the**Account Information** page, you can edit things like payment methods and your Nintendo eShop funds. And, if you highlight the options for**Nintendo Switch Online** , you can even**Renew** or**Terminate Automatic Renewal** to set up or cancel your subscriptions.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Edit Your Nintendo Account Information
 
  Unfortunately, while you can access and manage some account requirements from your Nintendo Switch, if you want to edit your Nintendo Switch account in more depth, you need to use methods outside your console.
@@ -93,40 +92,40 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 * You can also select**Sign-In and Security Settings** to alter any security options for your account, including your**Password** and**Passkey** , by selecting**Edit** .
 
 ![A screenshot of the Sign In and Security Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sign-in.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
 * Under**Privacy and Other Settings** , you can alter any notifications you receive or information you send regarding things like**Emails from Nintendo** or**Usage Information** by selecting**Change** .
 
 ![A screenshot of the options for Privacy and Other Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/privacy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Or, you can select the**Family Group** tab to add or remove Family members.
 
 ![A screenshot of the Family Group settings available for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And with that, you can alter and edit numerous aspects of your Nintendo account. So, if the options on your Nintendo Switch fail you, you at least have a backup method that may not be as convenient but is sure to address your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Alter Your Nintendo Account With Convenience
 
  With most of the most urgent options for your Nintendo account supported by your Nintendo Switch, you can view your account details or edit payment and subscription information with ease. This way, you don't have to worry about customer service headaches when looking to cancel something like Nintendo Switch Online.
 
  But even if the options on your Switch don't support your account alterations, you can still edit all aspects of your account via the official Nintendo site, just at slightly less convenience than doing so on your console.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +134,20 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ow-to-convert-youtube-videos-to-gifs/"><u>[New] How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-speed-windows-viewer-for-images/"><u>[Updated] High-Speed Windows Viewer for Images</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-simply-saver-top-mobile-apps-for-downloading-youtube-series-and-songs-for-2024/"><u>[Updated] Simply Saver Top Mobile Apps for Downloading YouTube Series & Songs for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-evolution-of-business-embracing-vr-tech-for-2024/"><u>[Updated] The Evolution of Business Embracing VR Tech for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-batteries-future-focus/"><u>Beyond Batteries: Future Focus</u></a></li>
+<li><a href="https://games-able.techidaily.com/challenge-your-skillset-engage-with-the-best-6-alternative-games/"><u>Challenge Your Skillset: Engage With the Best 6 Alternative Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-of-scenery-your-switchs-new-geographic-home/"><u>Change of Scenery: Your Switch's New Geographic Home</u></a></li>
+<li><a href="https://games-able.techidaily.com/chaos-made-calm-6-efficient-gpt-techniques-for-aspiring-dms/"><u>Chaos Made Calm: 6 Efficient GPT Techniques for Aspiring DMs</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-unleashed-6-techniques-to-perfect-your-dungeon-mastering/"><u>ChatGPT Unleashed: 6 Techniques to Perfect Your Dungeon Mastering</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ethereal-escapades-vr-film-adventures/"><u>Ethereal Escapades VR Film Adventures</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-civi-3-disney-100th-anniversary-edition-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Civi 3 Disney 100th Anniversary Edition Devices</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/the-right-time-for-a-digital-spring-clean-pc-maintenance-tips-from-yl-software/"><u>The Right Time for a Digital Spring Clean: PC Maintenance Tips From YL Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-lenovo-thinkphone-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Lenovo ThinkPhone Pattern Lock Screen Everything You Need to Know</u></a></li>
+</ul></div>
 

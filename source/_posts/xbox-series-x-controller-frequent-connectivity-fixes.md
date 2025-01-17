@@ -1,7 +1,7 @@
 ---
 title: "Xbox Series X Controller: Frequent Connectivity Fixes"
-date: 2024-08-15T17:22:26.813Z
-updated: 2024-08-16T17:22:26.813Z
+date: 2025-01-12T20:48:14.320Z
+updated: 2025-01-16T16:30:48.452Z
 tags:
   - games
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
  You may be one of the Xbox Series X owners whose joypads are falling foul of a controller disconnection error. If so, here are several ways you may be able to solve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## What Is the Xbox Series X Controller Issue?
 
  Not long after the release of the Xbox Series X and S, several Xbox owners were experiencing connectivity issues with the Series X controller. Since then,[Microsoft has reportedly fixed the bug](https://www.makeuseof.com/microsoft-fixes-xbox-controller-disconnection-bug/) with a software update. However, you may still experience issues with your Xbox Series X controller disconnecting.
@@ -35,16 +32,16 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
  So, what can you do to fix Xbox Series X controller issues? Give these solutions a try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update Your Xbox Series X Controller
 
  If your Xbox controller keeps disconnecting, you might just need to update the firmware. To check whether your controller has the latest firmware, go to **Profile & system > Settings > Devices & connections > Accessories** . This will allow you to check whether the firmware is up-to-date.
 
  If not, just select the controller and update it. Once your Xbox carries out this update, you'll no longer have issues where your Xbox controller keeps disconnecting. That's because Microsoft pushes out firmware updates regularly to fix minor bugs that crop up—like this one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 2\. Update Your Xbox Series X Console
 
 ![Xbox Series X Update Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-Series-X-Update-Menu.jpg)
@@ -56,8 +53,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To[update your Series X or Series S](https://www.makeuseof.com/how-to-update-xbox-series-x-series-s/) console, go to **Profile & system > Settings > System > Updates** . If a console update is available, it will say so next to your console on this settings page. Just update your console, as this might resolve the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Reset and Re-Sync Your Series X Controller
 
 ![series x joypad power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/series-x-joypad-power-button.png)
@@ -68,14 +66,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You can then switch it on again via the same method and see if that solves the connection issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 4\. Use a Wired Connection
 
 ![xbox series x controller usb c port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-controller-usb-c-port.png)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Xbox Series X controller, you will notice it has a USB-C port, which is typically used for charging. However, you can use it to try to solve any disconnection problems.
@@ -86,12 +82,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Physically connecting your controller and console will immediately overcome the wireless connectivity issue. Once the two devices talk to each other again, you can remove the wired connection and check whether your controller works wirelessly. If it doesn't, you could always stay wired if it's convenient enough.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Hard Restart Your Xbox Series X
 
 ![xbox series x power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-power-button.png)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If all else fails, you can always exercise the IT expert's golden rule... try turning it off and on again. This is an operation you'd only want to carry out as a last resort, especially if you are in the middle of a game and haven't saved recently. Try all the other steps here first, or you risk losing your game progress.
 
@@ -100,6 +97,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  However, to[hard restart your Xbox Series X](https://www.makeuseof.com/tag/reset-xbox-one-xbox-360/) , you need to press and hold the power button on the front of your console (the Xbox logo button above the optical drive). It's important you don't just tap the button, as this will simply put the console to sleep and won't reset anything.
 
  Once you have switched the console off, just press the power button again to start it up. If you have performed the action correctly, the console should initialize with the logo screen before loading up your Xbox dashboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Replace Your Controller's Batteries
 
@@ -114,9 +115,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ## 7\. Use an Xbox One Controller
 
 ![Xbox One controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-One-Pad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Did you know you can[connect an Xbox One controller to your Xbox Series X](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) ? Thanks to backward compatibility, the Xbox One joypad functions almost exactly the same way as a Series X controller.
 
@@ -126,20 +124,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If it's a firmware-related bug like the one Microsoft addressed, you can use your old controller while waiting for an update. Don't forget that the[Xbox One controller has its fair share of issues](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) that prevent it from working, so you might still have the same disconnection problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Game Without Your Xbox Series X Controller Disconnecting
 
  Hopefully, you managed to stop your Xbox Series X controller from disconnecting by following these troubleshooting methods.
 
  However, if you're still out of luck, chances are that your Series X controller is facing hardware issues. In that case, you'll need to check if your controller is still under warranty and request a free replacement from Microsoft.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +147,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-rx-graphics-retrospect-and-report-for-2024/"><u>[New] RX Graphics Retrospect & Report for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-lights-camera-action-youtubes-17-essentials/"><u>[Updated] 2024 Approved Lights, Camera, Action! - YouTube's #17 Essentials</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-windows-music-mastery/"><u>[Updated] Immersive Windows Music Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/cozy-gaming-understanding-its-rise-to-fame/"><u>Cozy Gaming: Understanding Its Rise to Fame</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-your-vantage-point-to-the-worlds-sharing-immersive-photos-online/"><u>From Your Vantage Point to the World's Sharing Immersive Photos Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-run-android-apps-in-linux-systems/"><u>How to Run Android Apps in Linux Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/itel-a60-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/meta-vr-quest-3-a-mixed-reality-odyssey/"><u>Meta VR Quest 3: A Mixed Reality Odyssey</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-ps4-joystick-jams-effective-remedies-at-hand/"><u>Overcoming PS4 Joystick Jams: Effective Remedies at Hand</u></a></li>
+<li><a href="https://games-able.techidaily.com/real-world-wins-with-cutting-edge-game-tech/"><u>Real-World Wins with Cutting-Edge Game Tech</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionize-your-apple-device-use-with-these-barely-noticed-ios-18-updates/"><u>Revolutionize Your Apple Device Use with These Barely-Noticed iOS 18 Updates</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-essential-skills-editing-blurring-and-background-removal/"><u>The Essential Skills Editing, Blurring, and Background Removal</u></a></li>
+</ul></div>
 

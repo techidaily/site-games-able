@@ -1,7 +1,7 @@
 ---
 title: Efficiently Expanding Steam Deck with SD Card
-date: 2024-08-15T17:26:20.439Z
-updated: 2024-08-16T17:26:20.439Z
+date: 2025-01-11T00:39:10.407Z
+updated: 2025-01-16T17:02:40.024Z
 tags:
   - games
 categories:
@@ -14,11 +14,19 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 ## Efficiently Expanding Steam Deck with SD Card
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Can I Use Any SD Card on My Steam Deck?](#can-i-use-any-sd-card-on-my-steam-deck)
 * [How to Format Your SD Card for the Steam Deck](#how-to-format-your-sd-card-for-the-steam-deck)
 * [How to Install and Move Games to Your Steam Deck's SD Card](#how-to-install-and-move-games-to-your-steam-deck-39-s-sd-card)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,15 +36,9 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
  It's time to expand your storage on your Steam Deck. But is it as easy as popping in an SD card? Do you have to do any special formatting? Let's take a look at how to install an SD card on your Steam Deck.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can I Use Any SD Card on My Steam Deck?
 
 ![screenshot of the steam deck storage screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_storage_screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The Steam Deck is not fussy when it comes to SD cards. Assuming you've brushed up on [mistakes to avoid when choosing an SD card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/), you can't go wrong. The Steam Deck supports SD, SDXC, and SDHC cards, and can handle up to 2TB of capacity.
 
@@ -45,15 +47,12 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
  We have a great selection of [the best microSD cards for the Steam Deck](https://www.makeuseof.com/best-microsd-cards-steam-deck/) if you haven't selected one already.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Format Your SD Card for the Steam Deck
 
 ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
 
@@ -65,12 +64,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  When the Steam Deck is done, your SD card will no longer be readable by Windows or Mac devices.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Install and Move Games to Your Steam Deck's SD Card
 
 ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
 
@@ -81,8 +81,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Secondly, accessing folders on your SD card is a little different from accessing your SSD.
 
 ![Screenshot of an SD card mounted on the Steam Deck showing its location as primary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_primary_sd_card_location_on_steam_deck.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll find your SD card located at the bottom right-hand side of the Dolphin explorer window. It's named **primary**. Steam games will be located in the **steamapps** folder of this device.
@@ -95,14 +96,11 @@ run/media/mmcblk0p1
 
  Considering how crucial extra space is for the Steam Deck experience, it's a good thing an SD card is so easy to set up and get going. Whether you've ordered a brand new SD card or you're pulling one out of an old phone, it's as easy as inserting it and formatting it. Just make sure you're using a fast enough card for the demands of the game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,4 +109,22 @@ run/media/mmcblk0p1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-digital-sensations-how-vr-enhances-pleasure/"><u>[New] 2024 Approved Digital Sensations How VR Enhances Pleasure</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-astounding-vlogs-start-here-easy-to-create-projects/"><u>[New] Astounding Vlogs Start Here Easy-to-Create Projects</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-from-vivid-to-velvet-adobe-premiere-transitions-for-2024/"><u>[New] From Vivid To Velvet Adobe Premiere Transitions for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-innovative-storytelling-in-book-trails/"><u>[New] In 2024, Innovative Storytelling in Book Trails</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-the-art-of-farewell-in-the-instagram-world-for-2024/"><u>[New] Mastering the Art of Farewell in the Instagram World for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-your-complete-blueprint-iphone-ringtone-customization-method-for-2024/"><u>[Updated] Your Complete Blueprint IPhone Ringtone Customization Method for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-unique-features-you-should-look-for-in-a-gaming-mouse/"><u>5 Unique Features You Should Look for in a Gaming Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-vip-levels-buying-v-bucks-on-ps5/"><u>Achieving VIP Levels: Buying V-Bucks on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-and-solving-joy-con-connectivity-problems-on-switch/"><u>Addressing and Solving Joy-Con Connectivity Problems on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-desktops-by-apple-outgrowing-traditional-pcs/"><u>Are Desktops by Apple Outgrowing Traditional PCs?</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-practices-for-xbox-membership-juggling-on-x/"><u>Best Practices for Xbox Membership Juggling on X</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165682129-discover-the-greatest-online-fps-browser-gaming-experiences/"><u>Discover the Greatest Online FPS Browser Gaming Experiences</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-amd-radeon-rx-6700-xt-drivers-enhanced-performance-on-windows-operating-systems/"><u>Latest Version of AMD Radeon RX 6700 XT Drivers: Enhanced Performance on Windows Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/skillful-techniques-for-placing-toolbar-icons-on-desktop/"><u>Skillful Techniques for Placing Toolbar Icons on Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-when-your-pc-doesnt-detect-headphones/"><u>Troubleshooting Guide: Resolving When Your PC Doesn't Detect Headphones</u></a></li>
+</ul></div>
 

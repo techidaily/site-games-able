@@ -1,7 +1,7 @@
 ---
 title: "Uniting Different Minecraft Worlds: Bedrock-Java on GeyserMC Server"
-date: 2024-08-15T17:25:46.136Z
-updated: 2024-08-16T17:25:46.136Z
+date: 2025-01-11T17:49:12.827Z
+updated: 2025-01-16T19:53:21.808Z
 tags:
   - games
 categories:
@@ -14,15 +14,16 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ## Uniting Different Minecraft Worlds: Bedrock-Java on GeyserMC Server
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?](#why-can-39-t-minecraft-bedrock-players-join-minecraft-java-servers-normally)
 * [How Minecraft Bedrock Edition Players Can Join Java Edition Servers](#how-minecraft-bedrock-edition-players-can-join-java-edition-servers)
 * [The Limitations of the GeyserMC Mod](#the-limitations-of-the-geysermc-mod)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Minecraft Java and Bedrock editions are written in different programming languages, but the GeyserMC mod allows Bedrock players to join Java servers.
@@ -34,9 +35,9 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ## Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Jhet Borja/MUO
@@ -52,9 +53,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ## How Minecraft Bedrock Edition Players Can Join Java Edition Servers
 
 ![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
@@ -66,25 +64,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Aternos Create a Server button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/aternos-create-a-server-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve made an account on Aternos, click on**Create** to create a server and name it. Make sure to choose**Java Edition** on the blue bar above.
 
  Alternatively, you can[host your Minecraft server on a Raspberry Pi](https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Install GeyserMC
 
 ![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Now that you’ve made your server, don’t turn it on yet. First, head to**Software** , then choose**Paper/Bukkit** on the software selection screen.
 
 ![Installing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-minecraft-software-on-aternos.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on the**Install** button to add PaperMC to your server.
@@ -94,9 +95,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Next, head to**Plugins** . Search for**GeyserMC** and choose**GeyserMC** .
 
 ![Installing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-geyser-plugin-on-aternos.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Finally, click on the small download icon to the very right of the most recent or compatible version.
 
@@ -105,8 +103,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Once that’s all done, you can now turn on and connect to your server in the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Join the Minecraft Java Server on Bedrock Edition
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
@@ -131,14 +130,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  While it has limitations, this can rarely get in the way of having fun. Now you don’t have to be worried that you and your friend have different versions of Minecraft. We hope this guide has helped you enjoy Minecraft with your friends no matter what they’re playing on.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +143,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-iphone-photo-mastering-free-picture-smoothing-techniques/"><u>[New] IPhone Photo Mastering FREE Picture Smoothing Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astery-of-gamers-channel-graphics-with-template-use-for-2024/"><u>[New] Mastery of Gamers' Channel Graphics with Template Use for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastering-cross-platform-communication-twitch-and-whatsapp-synergy/"><u>2024 Approved Mastering Cross-Platform Communication Twitch & WhatsApp Synergy</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024-ddr5-board-excellence-guide/"><u>2024 DDR5 Board Excellence Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719160505091-4-premium-game-boy-advance-emulators-for-your-idevice/"><u>4 Premium Game Boy Advance Emulators for Your iDevice!</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-ways-to-stop-steam-web-helper-from-using-all-your-ram/"><u>5 Ways to Stop Steam Web Helper From Using All Your RAM</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-closer-look-at-postponed-video-game-releases/"><u>A Closer Look at Postponed Video Game Releases</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-comprehensive-guide-switching-from-mkv-to-mp4-using-handbrake-and-other-options/"><u>A Comprehensive Guide: Switching From MKV to MP4 Using HandBrake & Other Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/activate-your-ps5-faster-with-these-6-hacks/"><u>Activate Your PS5 Faster with These 6 Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/astro-artisan-reviewing-exciting-computing-trends/"><u>Astro Artisan: Reviewing Exciting Computing Trends</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-allys-game-changer-premiere-laptop-docks-of-2024/"><u>Asus ROG Ally's Game Changer - Premiere Laptop Docks of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-the-no-map-misstep-with-gps-mastery-in-pokemon-go/"><u>Avoiding the No Map Misstep with GPS Mastery in Pokémon GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166175522-eliminate-glitches-with-the-latest-nvidia-graphics-update/"><u>Eliminate Glitches with the Latest Nvidia Graphics Update.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhanced-with-editing-functions-the-latest-update-to-dall-e-3-requires-further-development/"><u>Enhanced with Editing Functions: The Latest Update to DALL-E 3 Requires Further Development</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-picks-top-body-camera-gear-for-police/"><u>Expert Picks: Top Body Camera Gear for Police</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-obtain-and-install-new-samsung-printer-software-on-your-pc-windows/"><u>How to Obtain & Install New Samsung Printer Software on Your PC (Windows)</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1726027352517-pcyoutube/"><u>PCでプレイしている間、どうやってYouTube用にゲームを記録するか</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-to-obtain-hp-universal-printer-drivers-on-your-pc/"><u>Step-by-Step Instructions to Obtain HP Universal Printer Drivers on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-ssds-in-windows-mastery-of-ssd-fresh/"><u>Supercharge SSDs in Windows - Mastery of SSD Fresh</u></a></li>
+</ul></div>
 

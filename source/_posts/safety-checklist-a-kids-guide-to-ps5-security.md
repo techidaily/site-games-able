@@ -1,7 +1,7 @@
 ---
 title: "Safety Checklist: A Kid’s Guide to PS5 Security"
-date: 2024-08-15T17:22:44.926Z
-updated: 2024-08-16T17:22:44.926Z
+date: 2025-01-15T22:07:58.902Z
+updated: 2025-01-16T22:08:11.157Z
 tags:
   - games
 categories:
@@ -30,6 +30,11 @@ Here’s how to set up a child account:
 2. Select**Family Management** and log into your PSN account.  
 ![Add Family Member page on the PS5 with a QR Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-family-member-page-on-the-ps5-with-a-qr-code.JPG)
 3. After you’re logged in, scan the QR code to add a family member using your phone. Alternatively, you can visit the[PSN family management page](https://www.playstation.com/acct/family) on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose**Set Up Now** and select**Add a Child** .
 5. Enter the child’s birthday.  
 ![Add a Child sub-window on the PSN website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-on-the-psn-website.jpeg)
@@ -42,6 +47,10 @@ Here’s how to set up a child account:
 
  Next, you have to add the child to your PS5\. To do that, you must[create an account on your PS5](https://www.makeuseof.com/how-to-add-a-new-ps5-user-and-guest-account/) using the email you provided for the child.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use Preset or Custom Content Restriction Levels
 
  Now you have a child account added to the PS5; you can set the restriction level you want.
@@ -50,14 +59,13 @@ Follow these steps:
 
 1. Go to**Settings > Family and Parental Controls** , choose your child’s account from the list, and select**Parental Controls** .  
 ![Family Management page for a child account on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-management-page-for-a-child-account-on-the-ps5.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 2. Select**Restriction level** and choose a preset from the list.  
-![Parental Controls page with restriction level dropdown menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/parental-controls-page-with-restriction-level-dropdown-menu-on-the-ps5.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Parental Controls page with restriction level dropdown menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/parental-controls-page-with-restriction-level-dropdown-menu-on-the-ps5.JPG)
 3. **Optional** : Customize the preset by adjusting the restriction level for all the other options on the page.
 4. Choose**Confirm** when you’re finished.
 
@@ -72,9 +80,6 @@ You can set age restrictions for the following options:
 
  You’ll find the options to change the restriction levels for all of the above on that parental control page. You should adjust it based on your parenting preferences and the child’s age.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Set Up Console Restrictions and User Passcodes
 
  Console restrictions are a group of features on the PS5 that allows you to control how users can create accounts on the PS5\. A smart kid can bypass your content restrictions by simply creating a new account on the PS5 to use instead of the child account you created for them. Or they could log into an adult account if you haven’t set a passcode on it.
@@ -86,11 +91,18 @@ Here’s how to set up the console restrictions passcode:
 1. Go to **Settings > Family and Parental Controls > PS5 Console Restrictions** .  
 ![Family and Parental Controls page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-and-parental-controls-page-on-the-ps5.JPG)
 2. Enter the default passcode:**0000** .  
-![Console restriction passcode on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/console-restriction-passcode-on-the-ps5.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Console restriction passcode on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/console-restriction-passcode-on-the-ps5.JPG)
 3. Select**Change Your Console Restriction Passcode** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![PS5 Console Restrictions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-console-restrictions-page.JPG)
 4. Enter the new password twice.
 
@@ -115,16 +127,14 @@ Here’s how to set up the console restrictions passcode:
 3. Select**Parental Controls** and scroll to the bottom to see**Monthly Spending Limit** .
 4. Open**Monthly Spending Limit** to reveal the dropdown menu.  
 ![PS5 Monthly Spending Limit dropdown menu in Parental Controls page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-monthly-spending-limit-dropdown-menu-in-parental-controls-page.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 5. Select**Confirm** after you’re finished.
 
  We’re unsure why Sony made the spending limit a dropdown preset menu. But you can’t input a custom amount as a spending limit for now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Enforce Playtime Limits
 
  Video game addiction could affect your child negatively, but you can try to curtail it by setting playtime limits on the PS5.
@@ -145,9 +155,6 @@ Here’s how to do it:
 
  Older children may not appreciate this setting much, so it’s probably a better idea to discuss their playtime rather than outright blocking them from using the console.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The PS5 Offers Extensive Safety Provisions for Children
 
  Compared to most other video game consoles, including the PS4, the PS5 offers many ways to control how a minor uses it. It’s good to see that Sony is taking a decisive stance on child safety as a company, as clearly reflected with the PS5.
@@ -156,14 +163,11 @@ Here’s how to do it:
 
  But you must remain vigilant, as some kids might still find ways to bypass your restrictions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,4 +176,20 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-artistic-compendium-for-perfect-paste-ups/"><u>[New] Artistic Compendium for Perfect Paste-Ups</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-gratis-vector-design-and-illustration-sites-online/"><u>[New] Top Gratis Vector Design & Illustration Sites Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-level-up-your-playtime-examining-kinemaster-on-android/"><u>[Updated] Level Up Your Playtime Examining KineMaster on Android</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-transformation-tutorial-sdr-to-high-dynamic-range-video-upgrading/"><u>2024 Approved The Ultimate Transformation Tutorial SDR to High-Dynamic Range Video Upgrading</u></a></li>
+<li><a href="https://extra-information.techidaily.com/affordable-high-quality-asmr-recording-devices-revealed-for-2024/"><u>Affordable, High-Quality ASMR Recording Devices Revealed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-nostalgia-unleashed-play-old-games-with-emudeck-on-steam-deck/"><u>Gaming Nostalgia Unleashed: Play Old Games with EmuDeck on Steam Deck</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-activate-or-deactivate-video-commenting-in-youtube/"><u>How To Activate or Deactivate Video Commenting in YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-transform-your-reels-6-advanced-applications-for-instagram/"><u>In 2024, Transform Your Reels 6 Advanced Applications for Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-stunning-upcoming-intel-motherboard-gigabytes-z790-aorus-xtreme-x-with-gold-sockets-and-enormous-heatsinks/"><u>Introducing the Stunning Upcoming Intel Motherboard - Gigabyte's Z790 Aorus Xtreme X with Gold Sockets and Enormous Heatsinks</u></a></li>
+<li><a href="https://games-able.techidaily.com/laser-precision-vs-rigid-robustness-for-gamers/"><u>Laser Precision Vs. Rigid Robustness for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-lost-access-to-steam-services-on-windows/"><u>Restoring Lost Access to Steam Services on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-gaming-experience-with-xbox-cloud/"><u>Streamlining Gaming Experience with Xbox Cloud</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secrets-to-microsoft-edges-stellar-performance-in-games/"><u>The Secrets to Microsoft Edge's Stellar Performance in Games</u></a></li>
+</ul></div>
 

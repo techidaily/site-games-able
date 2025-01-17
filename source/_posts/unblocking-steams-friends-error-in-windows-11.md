@@ -1,7 +1,7 @@
 ---
 title: Unblocking Steam's Friends Error in Windows 11
-date: 2025-01-05T06:43:06.191Z
-updated: 2025-01-11T06:39:40.610Z
+date: 2025-01-11T00:35:02.249Z
+updated: 2025-01-16T23:25:16.947Z
 tags:
   - games
 categories:
@@ -45,10 +45,6 @@ Restart Steam and check if the issue is now fixed.
 
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Opt Out of Steam’s Beta Participation
 
  Signing up for the Steam Client Beta program allows you to use Steam’s latest features before they’re officially released. However, the Beta version might make the[Steam Client unstable](https://www.makeuseof.com/steam-client-crashing-troubleshooting/) , leading to the error. Follow these steps to disable the Steam Beta Client:
@@ -61,15 +57,15 @@ Restart Steam and check if the issue is now fixed.
 
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Edit Steam’s Executable
 
  While this isn’t an official fix, editing the executable file could fix the “Steam friends network unreachable” error. To find Steam’s executable file, search for**Steam** within the Start menu search bar and select**Open file location** . Then, right-click**Steam** and head to**Properties** . Open the**Shortcut** tab and add**\-nofriendsui** into the**Target** field.
 
  Click**Apply** and**OK** to save the new settings and restart Steam.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Delete the Steam Appdata Folder
 
@@ -80,13 +76,13 @@ Restart Steam and check if the issue is now fixed.
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Delete Steam's Web Data
@@ -104,7 +100,11 @@ Restart Steam and check if the issue is now fixed.
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
@@ -126,24 +126,22 @@ Restart Steam and check if the issue is now fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-worldwide-web-watchers-10-top-youtube-stars/"><u>[Updated] Worldwide Web Watchers 10 Top YouTube Stars</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1728470134259-mac/"><u>釐清Mac查不到檔案時的完美修復詳細程序指南</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-ps4-performance-a-comprehensive-guide/"><u>Boosting PS4 Performance: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquer-the-visual-frontier-steps-to-setting-up-your-xbox-series-x-in-4k/"><u>Conquer the Visual Frontier: Steps to Setting Up Your Xbox Series X in 4K</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/gamings-apex-predators-best-7-shooter-titles-for-2024/"><u>Gaming's Apex Predators Best 7 Shooter Titles for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-oneplus-ace-3-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change OnePlus Ace 3 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/installation-made-simple-get-discord-running-on-mac/"><u>Installation Made Simple: Get Discord Running on Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/makeuseofs-pinnacle-innovations-from-mwc-2024/"><u>MakeUseOf's Pinnacle Innovations From MWC 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/moza-r5-unlocking-the-future-of-simulated-driving/"><u>MOZA R5: Unlocking the Future of Simulated Driving</u></a></li>
-<li><a href="https://article-helps.techidaily.com/perfect-windows-photos-implementing-sound-and-visual-filters-guide/"><u>Perfect Windows Photos Implementing Sound & Visual Filters Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/resetting-ps5s-video-game-licenses/"><u>Resetting PS5's Video Game Licenses</u></a></li>
-<li><a href="https://fox-that.techidaily.com/speedy-solutions-for-correcting-predictive-emoji-malfunction-in-apple-devices/"><u>Speedy Solutions for Correcting Predictive Emoji Malfunction in Apple Devices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-essential-steps-for-transitioning-videos-from-youtube-to-dailymotion/"><u>The Essential Steps for Transitioning Videos From YouTube to Dailymotion</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-gaming-enhancing-controllers-remotely/"><u>The Future of Gaming: Enhancing Controllers Remotely</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshooting-popcorn-time-how-to-remove-the-stubborn-controlprogress-bar-and-access-full-screen-viewing/"><u>Troubleshooting Popcorn Time - How to Remove the Stubborn Control/Progress Bar & Access Full Screen Viewing</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-potential-boosting-valorants-frame-rates-on-pc-platform/"><u>Unleashing Potential: Boosting Valorant's Frame Rates on PC Platform</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-c51-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme C51 Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-invest-in-corsairs-icue-link-uncover-the-four-transformative-perks/"><u>Why Invest in Corsair's iCUE Link? Uncover the Four Transformative Perks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-asian-themed-mini-mansions-for-creative-builders/"><u>[New] 2024 Approved Asian Themed Mini Mansions for Creative Builders</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/voiding-storage-woes-removing-youtube-media-for-2024/"><u>[New] Avoiding Storage Woes Removing YouTube Media for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-starlit-secrets-dos-and-donts-of-astrophotography/"><u>[Updated] 2024 Approved Starlit Secrets Do's & Don'ts of Astrophotography</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unraveling-the-process-of-gaining-facebooks-blue-badge/"><u>2024 Approved Unraveling the Process of Gaining Facebook's Blue Badge</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728501832122-aomei-backupper/"><u>如何使用AOMEI Backupper創建伺服器映像版本 - 教學課程</u></a></li>
+<li><a href="https://games-able.techidaily.com/disc-stuck-in-your-xbox-series-x-how-to-manually-eject-it/"><u>Disc Stuck in Your Xbox Series X? How to Manually Eject It</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-device-hang-up-the-0x887a0006-guide-for-win1111/"><u>Eliminating Device Hang-Up – The 0X887A0006 Guide for Win11/11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastery-over-mobile-and-desktop-recording-team-discussions/"><u>In 2024, Mastery Over Mobile & Desktop Recording Team Discussions</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-headphones-on-switch-platform/"><u>Masterful Headphones on Switch Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-controller-settings-with-ryujinx-software/"><u>Navigating Through Controller Settings with Ryujinx Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pioneering-the-vr-world-essential-gear-ranked/"><u>Pioneering the VR World Essential Gear Ranked</u></a></li>
+<li><a href="https://games-able.techidaily.com/resurrecting-headsets-on-xbox-one-with-simple-tricks/"><u>Resurrecting Headsets on Xbox One with Simple Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-response-to-ps5-demand-anticipating-pricing-shifts/"><u>Sony's Response to PS5 Demand: Anticipating Pricing Shifts</u></a></li>
+<li><a href="https://games-able.techidaily.com/stuck-game-cases-answered-with-xbox-sxs-eject-tip/"><u>Stuck Game Cases Answered with Xbox SX's Eject Tip</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-of-the-chatgpt-body-stream-issue-discover-7-troubleshooting-steps-you-need-to-know/"><u>Unraveling the Mystery of the ChatGPT Body Stream Issue: Discover 7 Troubleshooting Steps You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/update-ps5-ambiance-with-new-image/"><u>Update PS5 Ambiance with New Image</u></a></li>
 </ul></div>
 

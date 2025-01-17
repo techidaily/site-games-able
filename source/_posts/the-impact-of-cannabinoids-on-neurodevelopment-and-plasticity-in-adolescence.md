@@ -1,7 +1,7 @@
 ---
 title: The Impact of Cannabinoids on Neurodevelopment and Plasticity in Adolescence
-date: 2024-08-15T17:22:15.629Z
-updated: 2024-08-16T17:22:15.629Z
+date: 2025-01-13T17:40:16.181Z
+updated: 2025-01-17T01:13:27.722Z
 tags:
   - games
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
 ## The Impact of Cannabinoids on Neurodevelopment and Plasticity in Adolescence
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Assist controllers on the PS5 connect two controllers and allow them to operate as one, making gaming more accessible for those with decreased mobility or young gamers who need extra assistance.
@@ -22,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
  Using an assist controller on your PS5 allows you to connect two controllers that act like one. If you want to make use of this handy accessibility feature on your PS5 but you’re not sure how to, we’ve got you covered.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## What Does an Assist Controller Do on the PS5?
 
  Being able to connect an assist controller to your PS5 is Sony's answer to the copilot feature on Xbox. Using an assist controller is a far different experience than simply connecting two DualSense controllers and calling it a day.
@@ -32,17 +33,14 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
  Adding a second controller adds another player, who becomes a player two. An assist controller, however, allows two different controllers to operate the same user profile, so the two controllers behave as one single controller.
 
 ![Person holding DualSense Controller with PS4 controller on a red background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/person-holding-dualsense-controller-with-ps4-controller-on-a-red-background.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 
  This accessibility feature is particularly helpful for those with decreased mobility. One player can control the direction an avatar is moving or attacking, while the other can take control of the camera, for example.
 
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Set Up an Assist Controller on My PS5?
 
@@ -53,28 +51,30 @@ No advertising on the website.
  Once you have ticked the boxes above, you are ready to begin. The process is very similar to[setting up and using the copilot feature on Xbox](https://www.makeuseof.com/how-to-set-up-and-use-co-pilot-on-xbox-series-xs/) , so if you have experience with that, it should be intuitive.
 
 ![Settings Gear Icon PS5 Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/settings-gear-icon-ps5-home-screen.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Start by connecting a controller and logging into a user profile. From there, open the settings by pressing the**gear icon** in the top right corner.
 
 ![PS5 Settings Accessibility Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-accessibility-section.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Head to the**Accessibility** settings and scroll down to**Controllers** .
 
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap**Use Second Controller for Assistance** , and make sure the**Use Assist Controller** switch is on.
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  Take your second controller, turn it on, and select the same**user profile** that the main controller is connected to. It's very important that both controllers are connected to the same user profile. If not, the process will not be successful. You can tell which profile the main controller is connected to by the**controller icon** underneath the profile picture.
 
@@ -83,18 +83,6 @@ No advertising on the website.
  You will now be able to use the second controller to assist the first player in any way they need. You can tell the two controllers have successfully been connected by checking the**battery icon** at the top right. If there are two batteries instead of one, you are good to go.
 
 ![PS5 Assist Controller Battery Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-assist-controller-battery-icons.jpg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To stop using an assist controller, turn one of the controllers off to disconnect it, or head back to the settings and switch**Use Assist Controller** off.
 
@@ -106,14 +94,11 @@ No advertising on the website.
 
  There are many accessibility controllers on the market, but they are often expensive and also have limits to the number of people they can work for. Adding an assist controller to your PS5 is a cheap and effective way to make gaming more accessible on a budget, particularly if you have two controllers already.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +107,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-building-a-skype-group-discussion-in-windowsos-x/"><u>[New] In 2024, Building a Skype Group Discussion in Windows/OS X</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-guide-to-essential-asmr-video-facts/"><u>[Updated] In 2024, A Guide to Essential ASMR Video Facts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-preserving-snaps-screen-record-snapchat-on-smartphones/"><u>[Updated] In 2024, Preserving Snaps Screen Record Snapchat on Smartphones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategies-for-dominating-youtube-search-results-through-seo-for-2024/"><u>[Updated] Strategies for Dominating YouTube Search Results Through SEO for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-radio-dramas-peak-of-creative-scripting/"><u>2024 Approved Radio Dramas Peak of Creative Scripting</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-power-of-xbox-game-pass/"><u>Discover the Power of Xbox Game Pass</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensure-seamless-play-in-robocop-legacy-overcoming-crashes-and-bugs-in-the-new-rogue-city-update/"><u>Ensure Seamless Play in RoboCop: Legacy – Overcoming Crashes & Bugs in the New Rogue City Update</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-windows-10-photos-guide-snatching-stills-from-video-footage/"><u>In 2024, Windows 10 Photos Guide Snatching Stills From Video Footage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/my-satisfactory-experience-with-non-name-brand-tech-items-from-temu-insights-for-zdnet-readers/"><u>My Satisfactory Experience with Non-Name Brand Tech Items From Temu - Insights for ZDNet Readers</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-gaming-future-the-time-for-rtx-rollout/"><u>Nvidia's Gaming Future: The Time for RTX Rollout?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-common-cctv-image-issues/"><u>Overcoming Common CCTV Image Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalized-gpu-temperature-management-strategy/"><u>Personalized GPU Temperature Management Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-ahead-with-smooth-play-overcoming-fps-dips-and-enhancing-valorant-gameplay-windows-edition/"><u>Stay Ahead with Smooth Play: Overcoming FPS Dips and Enhancing Valorant Gameplay, Windows Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-quick-ready-gaming-with-steam-storage-fixes/"><u>Unlock Quick Ready Gaming with Steam Storage Fixes</u></a></li>
+</ul></div>
 

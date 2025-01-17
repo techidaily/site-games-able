@@ -1,7 +1,7 @@
 ---
 title: Industry Titans or Inevitable Oligopoly in Gaming? [Expert Panel Discussion]
-date: 2024-08-15T17:27:19.545Z
-updated: 2024-08-16T17:27:19.545Z
+date: 2025-01-10T18:13:09.391Z
+updated: 2025-01-17T00:00:03.379Z
 tags:
   - games
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Shownotes
 
 Our conversation takes in:
@@ -35,14 +39,11 @@ We finish this week's show with these recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,21 @@ We finish this week's show with these recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-an-edge-in-views-with-these-5-youtube-thumbnail-creators/"><u>[New] In 2024, Gain an Edge in Views with These 5 YouTube Thumbnail Creators</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unleash-video-potential-leading-youtube-seo-tools/"><u>[Updated] In 2024, Unleash Video Potential - Leading YouTube SEO Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chromes-new-soundscape-the-foremost-apps-for-voice-change-exploration/"><u>2024 Approved Chrome’s New Soundscape The Foremost Apps for Voice Change Exploration</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-driver-not-starting-on-modern-windows-pcs/"><u>Addressing Driver Not Starting on Modern Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/adraise-the-curtain-on-amd-rdna-35-when-to-expect/"><u>ADRaise the Curtain on AMD RDNA 3.5 - When to Expect?</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-white-motherboards-2023s-budget-hits/"><u>Affordable White Motherboards: 2023'S Budget Hits</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-clues-to-crack-virtual-crime-scenes/"><u>AI Clues to Crack Virtual Crime Scenes</u></a></li>
+<li><a href="https://games-able.techidaily.com/banish-device-lags-on-windows-fix-for-dxgierrordevicehunk/"><u>Banish Device Lags on Windows: Fix for DXGI_ERROR_DEVICE_HUNK</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-windows-11s-broken-bluetooth-feature/"><u>Effective Solutions for Windows 11'S Broken Bluetooth Feature</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ensuring-amd-freesync-stability-and-support/"><u>Ensuring AMD FreeSync Stability and Support</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-guide-to-crafting-luts-in-3d/"><u>In 2024, The Complete Guide to Crafting LUTs in 3D</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapidly-enhance-win10-touch-interface/"><u>Rapidly Enhance Win10 Touch Interface</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolved-fixing-realtek-wifi-drivers-on-windows-11-10-and-7/"><u>Resolved: Fixing Realtek WiFi Drivers on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170321224-unlocking-androids-gaming-potential-controllers-here-we-come/"><u>Unlocking Android's Gaming Potential: Controllers, Here We Come</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->

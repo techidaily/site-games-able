@@ -1,7 +1,7 @@
 ---
 title: "Keep Your System Running Smoothly: Limit Steam's RAM Consumption"
-date: 2024-08-22T22:20:55.819Z
-updated: 2024-08-23T22:20:55.819Z
+date: 2025-01-12T19:44:34.618Z
+updated: 2025-01-16T19:33:52.553Z
 tags:
   - games
 categories:
@@ -22,18 +22,22 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Steam Use So Much Memory?
 
 ![Steam processes running in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_processes_running_in_task_manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steam is made up of several components. Its most popular components are its download manager and games list, but it has several other features, and all of these other features run off the Steam Client WebHelper. This is essentially an internet browser that Steam manages. Every store page, friends list, and chat window creates a new Steam Client WebHelper instance.
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
@@ -42,18 +46,14 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disable Hardware-Accelerated Rendering
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
  There's one setting that can add a large amount of performance overhead if left enabled.
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
  This will ease the burden that Steam's web pages have on your available memory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Enable Low-Performance Mode
 
 ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
@@ -73,16 +77,10 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
  This will sacrifice some eye candy for the sake of performance, but overall doesn't reduce memory usage beyond superficial levels. If you've tried all these options so far and still find your system struggling, it might be time for more drastic measures.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Launch the Steam Mini Games List
 
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
 
  Thankfully, there's a way around this without having to go offline—it's called the Mini Games List. This launches Steam, but instead of opening all services, it only shows the games on your computer in a small window. Here's how to open it:
@@ -95,15 +93,13 @@ steam://open/minigameslist
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Create a Custom Batch File for Minimal Steam
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
  Thankfully, there exists a combination of commands to completely strip Steam of its ability to create Steam Client WebHelper instances. There are too many commands to easily enter at once, so instead, we'll[make a batch file for it](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) .
@@ -123,14 +119,11 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
  Steam has some great features, but not everyone needs them. If all you want out of Steam is a way to view and manage your games, and you don't care for the social features, then consider some of the above methods. You might be surprised by how little Steam needs to work.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +132,19 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-windows-11-game-snapshots-top-5-capture-strategies-for-2024/"><u>[New] Windows 11 Game Snapshots Top 5 Capture Strategies for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-prowess-the-ultimate-list-of-powerful-hashtags/"><u>[Updated] Instagram Prowess The Ultimate List of Powerful Hashtags</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-attention-grabber-composer/"><u>2024 Approved Top Attention Grabber Composer</u></a></li>
+<li><a href="https://games-able.techidaily.com/do-you-actually-need-a-mechanical-keyboard-for-gaming/"><u>Do You Actually Need a Mechanical Keyboard for Gaming?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/full-data-wipe-of-your-iphone-through-a-computer-windows-or-mac-a-comprehensive-guide-by-stellar/"><u>Full Data Wipe of Your iPhone Through a Computer (Windows or Mac) - A Comprehensive Guide by Stellar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-note-30-vip-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Note 30 VIP? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/memorial-day-sale-save-big-on-the-apple-watch-se-a-review-of-my-top-tech-buy/"><u>Memorial Day Sale: Save Big on the Apple Watch SE - A Review of My Top Tech Buy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mycam-in-action-a-detailed-review-of-its-recording-abilities/"><u>MyCam in Action A Detailed Review of Its Recording Abilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgias-best-kept-secrets-retro-games-and-your-phone/"><u>Nostalgia's Best Kept Secrets: Retro Games & Your Phone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-building-your-own-windows-11-iso-for-tailored-setup-experience/"><u>Step-by-Step Tutorial: Building Your Own Windows 11 ISO for Tailored Setup Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-truth-about-free-to-play-why-premium-games-are-better/"><u>The Truth About 'Free-to-Play': Why Premium Games Are Better</u></a></li>
+<li><a href="https://games-able.techidaily.com/valves-10-year-milestone-reinvigorates-family-sharing-on-steam/"><u>Valve’s 10-Year Milestone: Reinvigorates Family Sharing on Steam</u></a></li>
+</ul></div>
 

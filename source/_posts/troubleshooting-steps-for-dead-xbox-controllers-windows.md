@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Dead Xbox Controllers (Windows)
-date: 2024-08-22T22:20:50.381Z
-updated: 2024-08-23T22:20:50.381Z
+date: 2025-01-11T22:22:27.345Z
+updated: 2025-01-16T21:25:41.198Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
 
  Don’t worry, there's no need to purchase a new controller just yet. Here are some fixes that should get your controller working again on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check if Windows Recognizes Your Controller
 
  The first thing you need to do is check if Windows recognizes your controller. For that, you will need to[open the Game Controller Settings on Windows](https://www.makeuseof.com/how-to-launch-game-controllers-settings-windows-11/) . Here's how to do that.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
 3. In the Game Controllers window, read the status of your controller.  
 ![Controller Status on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controller-status-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your controller does not show up in the Game Controllers window or the status does not say**OK** , you may be experiencing a connection problem.
 
 ## 2\. Disconnect and Reconnect the Controller
@@ -35,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
 
  If it is a wired controller, try connecting it to a different USB port. For a wireless controller, you need to make sure it has enough battery. If it does, try unpairing and pairing it again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 3\. Scan for Hardware Changes
 
  If unplugging and plugging the controller proves ineffective, you can scan your system for hardware changes using Device Manager. To do so, follow these steps:
@@ -47,9 +51,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Right-click anywhere on an empty spot within the Device Manager window and select**Scan for hardware changes** .  
 ![Scan for Hardware Changes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-for-hardware-changes-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Following that, your controller should appear in the Device Manager window and work as expected.
 
 ## 4\. Run the Relevant Window Troubleshooters
@@ -64,9 +65,6 @@ To run the Hardware and Devices troubleshooter, use these steps:
 4. Tick the checkbox that reads**Apply repairs automatically** and click**Next** .  
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  Allow the troubleshooter to find and fix any issues. After that, your controller should work fine on Windows.
 
  If you're experiencing problems with a wireless controller on Windows, you should also run the Bluetooth troubleshooter using the steps below.
@@ -78,10 +76,6 @@ To run the Hardware and Devices troubleshooter, use these steps:
 
  After running the above troubleshooter, try using your controller again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## 5\. Update or Reinstall the Controller's Driver
 
  Another reason why your controller may not work on Windows is if the drivers are outdated. If that's the case, updating the problematic driver should help fix the issue. Here's how to do that.
@@ -97,31 +91,34 @@ The ultimate burning program for all your needs!</a>
  If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to[uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/) . Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update Your Controller’s Firmware
 
 ![Update Controller Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-controller-firmware.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Keeping your controller updated with the latest software can help you avoid any compatibility issues. So, if none of the above tips help, open your controller manufacturer’s app or program and install any available updates.
 
  This step will vary depending on what controller model you own and which company made it. As such, refer to your manufacturer's manual or online help service for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing Controller Issues on Windows Made Easy
 
  Unless your controller is faulty or damaged, one of the above tips should get it to work again. That said, if you find that your controller's performance is lacking precision or responsiveness, it might be a good idea to utilize the built-in Windows tool for calibration.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +127,21 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unlocking-wealth-reddits-top-13-money-making-methods/"><u>[New] In 2024, Unlocking Wealth Reddit's Top 13 Money-Making Methods</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-video-downloader-winmacosmobile-power-up/"><u>[Updated] Facebook Video Downloader Win/macOS/Mobile Power-Up</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-seo-101-boost-your-videos-visibility/"><u>[Updated] In 2024, YouTube SEO 101 Boost Your Video's Visibility</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-top-10-final-cut-pro-plug-ins/"><u>[Updated] Top 10 Final Cut Pro Plug-Ins</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-strategies-for-endless-online-spaces/"><u>2024 Approved Advanced Strategies for Endless Online Spaces</u></a></li>
+<li><a href="https://win-updates.techidaily.com/diagnosing-and-repairing-your-damaged-hard-disk-a-comprehensive-guide-by-yl-computing/"><u>Diagnosing and Repairing Your Damaged Hard Disk: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-plays-costly-hike-subscription-is-over-for-me/"><u>EA Play’s Costly Hike, Subscription Is Over for Me</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-five-minute-backup-solutions-for-your-classicmodern-dvds-preserving-full-fidelity-easily/"><u>Effortless Five-Minute Backup Solutions for Your Classic/Modern DVDs, Preserving Full Fidelity Easily!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-11-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Realme 11 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-controller-syncing-for-android-phonestablets/"><u>Seamless Controller Syncing for Android Phones/Tablets</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-storage-challenges-in-steam-games/"><u>Tackling Storage Challenges in Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-affordable-gaming-list-top-11-sites-of-the-season/"><u>The Ultimate Affordable Gaming List: Top 11 Sites of the Season</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-diverse-titles-for-broadcasters-gameplay/"><u>Top 6 Diverse Titles for Broadcasters' Gameplay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-on-high-performance-live-streaming-cams/"><u>Unbeatable Deals on High-Performance Live Streaming Cams</u></a></li>
+</ul></div>
 

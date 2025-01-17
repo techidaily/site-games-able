@@ -1,7 +1,7 @@
 ---
 title: "Controller or Joystick: A Fighter's Verdict"
-date: 2025-01-06T06:57:47.654Z
-updated: 2025-01-10T19:54:32.940Z
+date: 2025-01-13T20:45:50.524Z
+updated: 2025-01-16T21:30:01.013Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Controller vs. Arcade Stick: Factors to Consider
 
  Most fighting games were first ported to consoles before becoming available on PCs. The controllers that come with these consoles have changed significantly over the years, but the original design concept remains the same.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 ### 1\. Input Precision
 
 ![Darts on a dartboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/darts-g42b26ee2a_1920.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s time to take a closer look at what is required to be competitive in a fighting game. There’s a reason the FGC is thriving after over 30 years of competition.
 
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
 ![Broken controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/broken-controller.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: soepratman/[Freepik](https://www.freepik.com/free-vector/game-crash-icon-logo-design%5F44691241.htm)
 
  Fighting games are input intense and push whatever controller is used to its limit. As such, it is important to consider the durability of your input of choice before purchasing one. So, let’s look at the build quality of most controllers.
@@ -75,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
 ![A yellow arcade stick with blue input buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arcade-stick.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Input specifications are as unique as each fighting game. As such, it is important to research what your game of choice requires to get the best user experience.
 
  Controllers typically have a lot more functional buttons than arcade sticks. They come with face and shoulder buttons which most modern fighting games incorporate into their control schemes.
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 ![A vibrating PS5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/untitled-design-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Feedback in console games has been a big thing since the release of early dual-shock controllers. Most modern fighting game titles allow for varying degrees of feedback. It can be as small as a little vibration when your player gets hit.
@@ -99,17 +99,9 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
  However, some enthusiasts are playing around with the idea of introducing haptic feedback to arcade sticks. It is also worth noting that the DualSense controller, in particular, supports haptic feedback, which can[make your fighting games a bit more immersive](https://www.makeuseof.com/force-haptic-feedback-games/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Ergonomics
 
 ![A father and his son playing video games on a couch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ergonomics.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Ergonomics as a concept has become increasingly important with the emergence of the competitive gaming scene. Assessing the best ways to optimize your environment for prolonged sitting is important, especially when you spend long hours playing your fighting game of choice.
 
@@ -123,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
  However, this is a lot of trouble just to game comfortably. Consequently, there’s no denying that a controller is better ergonomically than an arcade stick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Compatibility
 
  This is the ultimate factor when choosing between a controller and an arcade stick. Now, most fighting games are available both on console and PC. However, does your device support a controller or a fighting stick? Or does it support both? Also, how easily can you hook up your controller or fight stick to your device?
@@ -134,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
  On the other hand, consoles are very picky about the arcade sticks permitted to run on the platform. As such, you'll need to research and discover what arcade sticks your console supports.
 
  Long story short, compatibility is a limiting factor affecting console players more than their PC Counterparts. Both inputs work seamlessly on PC, while only a small selection of both work on consoles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Controller vs. Arcade Stick: Which Is the Better Option?
 
@@ -162,14 +162,24 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/3dr-solo-unveiling-the-single-user-experience/"><u>'3DR Solo' Unveiling the Single User Experience</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-reel-response-to-tiktoks-growth-spurt/"><u>Facebook's Reel Response to TikTok's Growth Spurt</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ornate-asian-dwellings-for-your-next-build-off/"><u>In 2024, Ornate Asian Dwellings for Your Next Build-Off</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-integration-of-microsoft-copilot-into-your-mac-workflow/"><u>Mastering the Integration of Microsoft Copilot Into Your Mac Workflow</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-high-end-features-now-available-in-windows-10/"><u>Missing High-End Features Now Available in Windows 10</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-windows-gaming-on-apple-m1-via-crossover-command-center/"><u>Seamless Windows Gaming on Apple M1 via Crossover Command Center</u></a></li>
-<li><a href="https://games-able.techidaily.com/solving-steam-file-synchronization-issues-on-windows/"><u>Solving Steam File Synchronization Issues on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/unmatched-gameplay-experience-my-oled-journey/"><u>Unmatched Gameplay Experience - My OLED Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/valves-latest-features-expand-steam-sharing-for-families/"><u>Valve’s Latest Features Expand Steam Sharing for Families</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-discovering-prime-frame-rates-for-top-tier-slow-motion-vids-for-2024/"><u>[New] Discovering Prime Frame Rates for Top-Tier Slow-Motion Vids for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-quick-fixes-for-professional-looking-indie-films/"><u>[New] In 2024, Quick Fixes for Professional-Looking Indie Films</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nraveling-the-mystery-of-disappearing-youtube-shorts-thumbnails-for-2024/"><u>[New] Unraveling the Mystery of Disappearing YouTube Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-high-quality-webcam-capture-made-easy-review/"><u>[Updated] In 2024, High-Quality WebCam Capture Made Easy Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-guide-to-pcs-and-macs-best-recorders/"><u>2024 Approved Ultimate Guide to PC's and Mac's Best Recorders</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-the-ultimate-fps-experience-from-day-one/"><u>Crafting the Ultimate FPS Experience From Day One</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-every-moment-optimal-components-for-gamers/"><u>Enhance Every Moment: Optimal Components for Gamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-guide-to-screen-recording-facetime-meetings-for-2024/"><u>Essential Guide to Screen-Recording FaceTime Meetings for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-content-subscribe-with-prime-gaming/"><u>Exclusive Content: Subscribe with Prime Gaming</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-7-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 7 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-privacy-settings-for-gaming-discussions/"><u>Mastering Privacy Settings for Gaming Discussions</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-cooling-blueprint-enhances-graphical-output/"><u>Precision Cooling Blueprint Enhances Graphical Output</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-controller-not-working-how-to-fix-the-most-common-issues/"><u>PS4 Controller Not Working? How to Fix the Most Common Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-server-responses-achieving-faster-internet-connection/"><u>Reducing Server Responses: Achieving Faster Internet Connection</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/showcase-your-style-with-stunning-audi-sq2-background-graphics-curated-images-from-yl-softwares-digital-gallery/"><u>Showcase Your Style with Stunning Audi SQ2 Background Graphics - Curated Images From YL Software's Digital Gallery</u></a></li>
+<li><a href="https://games-able.techidaily.com/steady-gameplay-for-xbox-s-controller/"><u>Steady Gameplay for Xbox S Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-all-games-altering-switch-regions/"><u>Unlock All Games: Altering Switch Regions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unprecedented-milestone-for-evs-mercedes-benzs-latest-model-surpasses-738-miles-on-a-single-charge-inside-the-groundbreaking-test-drive/"><u>Unprecedented Milestone for EVs: Mercedes-Benz's Latest Model Surpasses 738 Miles on a Single Charge – Inside the Groundbreaking Test Drive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-reveals-panasonics-strategic-return-to-us-showcasing-three-cutting-edge-4k-tv-models/"><u>ZDNet Reveals Panasonic's Strategic Return to US, Showcasing Three Cutting-Edge 4K TV Models</u></a></li>
 </ul></div>
 

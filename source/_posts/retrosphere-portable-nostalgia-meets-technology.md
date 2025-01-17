@@ -1,7 +1,7 @@
 ---
 title: "RetroSphere Portable: Nostalgia Meets Technology"
-date: 2024-08-15T17:23:30.034Z
-updated: 2024-08-16T17:23:30.034Z
+date: 2025-01-11T00:03:20.360Z
+updated: 2025-01-16T17:08:24.777Z
 tags:
   - games
 categories:
@@ -119,6 +119,10 @@ Dual speakers, Bluetooth audio supported
 
  One way to satiate the desire for “old skool” gaming is with a pocket-sized emulation console. The Retroid Pocket 3+ claims to fulfill this need—but does it?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Retroid Pocket 3+?
 
  Playing old video games is as easy or as difficult as you want it to be. You could opt for a shrunk-down classic console like the NES Mini, or the curated cartridge collections of the[Evercade consoles](https://www.makeuseof.com/evercade-exp-review/) .
@@ -126,6 +130,10 @@ Dual speakers, Bluetooth audio supported
  Or you can get a bit more hands-on, select the ROMs you want to run, find the right emulator, and game like it’s 1989.
 
 ![Left thumbstick controllers on Retroid Pocket 3+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-left.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While a flexible piece of kit, the Retroid Pocket 3+ encourages the latter approach. It's the third generation of the Retroid Pocket series, supporting 8-, 16-, and 32-bit console systems. You’re not limited to games from the 1980s and early 1990s with this device. Some serious retro gaming is possible, with support for emulation of games first seen on Sony PlayStation 1, Sega Saturn and Dreamcast, and Nintendo 64.
 
@@ -188,6 +196,10 @@ There’s even Nintendo GameCube and Wii support.
 
  The device also has Wi-Fi 5 and Bluetooth 5.0 and can receive OTA updates to the Android 11 OS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Long Does the Battery Last?
 
  The 4500mAh battery takes a few hours to charge, probably 2-3 for a full 0-100% recharge. Once powered up, you can expect to get at least 4 hours out of it, potentially up to 8 hours.
@@ -197,9 +209,9 @@ There’s even Nintendo GameCube and Wii support.
  Of course, the attraction of the Retroid Pocket 3+ is that the console runs several 16-bit and 32-bit platforms, so your mileage will vary depending on the emulation you’re looking for.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using the Retroid Pocket 3+ Controls
 
  The handheld emulator has controls to suit all arcade gaming scenarios, equipped with a D-pad, dual clickable thumb sticks, ABXY buttons, left and right triggers, and left and right shoulder buttons.
@@ -217,9 +229,6 @@ The ultimate burning program for all your needs!</a>
  For the complete ROM-focused option (your legally-acquired disk images of classic game cartridges or disks) should be copied to the device over USB cable. The best option is to use a microSD card, although note this is best formatted in “Portable” mode. If you use the alternative, it cannot be accessed either via USB or by ejecting and inserting in your PC.
 
 ![Retroid Pocket 3+ shoulder buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-shoulder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once formatted, the microSD card can be configured with the necessary directories (this takes a single tap), then you can copy your ROMs copied to the platform-specific directory.
 
@@ -228,25 +237,16 @@ The ultimate burning program for all your needs!</a>
  All sounds like a bit of a chore? Well, the Retroid Pocket 3+ also makes a great Android gaming device. As it has Google Play pre-installed, you can easily find games to play on the device, using the touch screen or (preferably) the controllers.
 
 ![Retroid Pocket 3+ D-pad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-d-pad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re coming to the Retroid Pocket platform for the first time and want to play old games as quickly as possible, the Android app library is a good option. Various retro classics are available, from key entries in the Sega arcade pantheon to BANDAI NAMCO and Atari classics.
 
  Failing that, it also comes with Steam Link installed, for playing games over your network from a nearby PC. It’s almost as good as having a[Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) (but not quite).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Retro Gaming and Gameplay on the Retroid Pocket 3+
 
  An emulation system like the Retroid Pocket 3+ has everything you need to start gaming right away—except the ROMs. While the odd emulator or virtual machine system might have a game built in, it won’t be anything remarkable.
 
 ![RetroidLauncher software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/muo-reviews-retroid-pocket-3-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  In short, you have to do the hard work of finding ROMs and transferring them to the console yourself. This, of course, is the ultimate legal get-out for the manufacturer. They don’t distribute ROMs, so they’re not at risk of prosecution for distributing copyrighted games without a license.
 
@@ -261,38 +261,28 @@ The ultimate burning program for all your needs!</a>
  The USB-C port has all the usual controller support, and even supports keyboards if required.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Retroid Pocket 3+ Delivers the Ultimate Portable Retro Gaming Experience
 
  I was staggered by the range of emulation platforms available on this console. I had expected late Sega consoles, but I was unprepared for the possibility of PSP and Wii support. (In fact, I’ve heard that some Switch games will also run, but we need to keep quiet about that.)
 
 ![Retroid Pocket 3+ by a pool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-pool.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The release of the Retroid Pocket 3+ has proved somewhat controversial in the retro gaming handheld emulation community. To all intents and purposes, it is a Retroid Pocket 3, but with more processing and RAM, and a higher price to match, represents a notable upgrade.
 
  But if you’ve already bought the earlier model, upgrading seems unnecessary unless you want better performance from the 32-bit generation emulators. Conversely, if you’re new to pocket emulation, the Retroid Pocket 3+ is an excellent console to start with.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -301,4 +291,18 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-instagrams-square-videos-using-imovie/"><u>[New] 2024 Approved The Ultimate Guide to Instagram's Square Videos Using iMovie</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-discover-sj7s-breakthrough-in-high-definition-4k-action-cameras/"><u>[Updated] In 2024, Discover SJ7’s Breakthrough in High-Definition 4K Action Cameras</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-cinematic-edge-edging-your-vt-footage-on-final-cut-x/"><u>2024 Approved The Cinematic Edge Edging Your VT Footage on Final Cut X</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-f04-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy F04 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/next-gen-recording-greener-choices-for-2024/"><u>Next-Gen Recording Greener Choices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-wireless-devices-to-non-responsive-xbox-on-pc/"><u>Reconnecting Wireless Devices to Non-Responsive Xbox on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/terminal-techniques-for-gaming-on-outdated-systems/"><u>Terminal Techniques for Gaming on Outdated Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-mobile-games-with-controller-support/"><u>The Best Mobile Games With Controller Support</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-break-free-from-windows-10-photos-discover-the-best-image-editing-tools/"><u>Updated In 2024, Break Free From Windows 10 Photos Discover the Best Image Editing Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-google-play-pass-is-great-yet-it-isnt-flawless/"><u>Why Google Play Pass Is Great, Yet It Isn't Flawless</u></a></li>
+</ul></div>
 

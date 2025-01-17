@@ -1,7 +1,7 @@
 ---
 title: Efficient Repairing of Ps4 Controller Issues - Your Ultimate Guide
-date: 2025-01-09T00:25:10.534Z
-updated: 2025-01-10T20:14:26.460Z
+date: 2025-01-11T18:58:40.286Z
+updated: 2025-01-16T23:27:38.440Z
 tags:
   - games
 categories:
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
 ![PS4 Quick Menu Battery Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Quick-Menu-Battery-Level.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Plug your controller into your PS4 (or a wall outlet) and visit the Quick Menu again to make sure you see the battery charging animation. After your controller charges for some time, try using it as normal.
 
  If the battery wasn't causing your PS4 controller issue, make sure you aren't trying to use your controller too far away from your system. The typical range for Bluetooth is around 30 feet; depending on your setup, you may be able to use your controller further than this or be restricted to using it closer.
@@ -61,20 +65,12 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
 ![PS4 Never Turn Off Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Never-Turn-Off-Controller.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## General Fixes When Your PS4 Controller Isn't Working
 
  We've looked at specific fixes for a few common DualShock 4 problems above. Next, let's look at more general solutions for problems with PS4 controllers. Walk through these if your PS4 controller is still not responding.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Restart Your Console
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
  Try using your controller again after a reboot (connecting it via a USB cable if needed) and see if that helps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Forget and Re-Pair Your PS4 Controller
 
  If you have a second PS4 controller (or a PS Move controller for PS VR), you can use that to access a menu that lets you delete the controller having an issue. Head to**Settings > Devices > Bluetooth Devices** and select the**DualShock 4** entry—it's the one that does not have a green light next to it. (The green light indicates a controller that's currently connected and in use.)
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
  If this doesn't work, turn your PS4 back on and try pairing it the normal way, as above.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Hard Reset Your PS4 Controller
@@ -113,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
 ![PS4 Controller Reset Pinhole](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Controller-Reset-Pinhole.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you've done this, connect your controller to your PS4 again via USB cable and see if it pairs successfully.
 
 ### 4\. Try Connecting the PS4 Controller Elsewhere
@@ -125,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
  It's also a good idea to try using another PS4 controller with your console, if possible. If you borrow a friend's DualShock 4 that you know works properly and find that it has issues with your system, something is probably wrong with your PS4's wireless connectivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Use the Controller in Wired Mode
 
  Before you give up on your PS4 controller, you should try playing with it permanently connected via a USB cable and telling your PS4 not to use the wireless Bluetooth connection. However, keep in mind that this only works for the newer, slightly revised model of the PS4 controller. You'll know you have this model if the light bar is visible inside the touchpad on the front of your controller. If not, you have an older controller and can't force wired communication.
@@ -132,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
  To force your PS4 to connect controllers over USB with a compatible DualShock 4, head to **Settings > Devices > Controllers > Communication Method** and choose**Use USB Cable** . This will prevent the DualShock 4 from using Bluetooth when it's connected via a USB cable.
 
 ![PS4 Use USB Cable Communication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Use-USB-Cable-Communication.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this works, you should get a long USB cable so you can still enjoy gaming from the couch even when wired in.[Ailun's three-pack of 10-foot micro-USB cables](https://www.amazon.com/10ft3Pack-Charging-Smartphone-Connection-Blackwhite/dp/B06XYH75NQ?linkCode=ll1&tag=muo-v2-76tv1pg-20&linkId=f9f8e8d9d67b2bc78306aa8cfd5356be&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU93672&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fps4-controller-not-working-fix-common-issues%2F&asc%5Fcampaign=Evergreen) is a good cost-effective option.
 
@@ -144,10 +148,6 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
  Be sure that you haven't[remapped your PS4 controller buttons](https://www.makeuseof.com/tag/how-to-remap-buttons-on-your-ps4-for-improved-control/) , either inside a certain game or at the system level. This might cause you to think your PS4 controller is faulty when it's just an option you've changed.
 
  Otherwise, you can attempt hardware fixes on your own by opening your controller. If you've gotten this far and still can't fix the problem, chances are that something inside your controller is jammed or disconnected. But depending on the specific issue, this may be difficult or impossible. We recommend speaking to a local repair technician if you don't feel comfortable doing this yourself.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## PS4 Controller Issues, Patched Up
 
@@ -170,18 +170,18 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-quick-guide-accessorizing-windows-with-a-clownfish-speech-modifier/"><u>[New] 2024 Approved Quick Guide Accessorizing Windows with a Clownfish Speech Modifier</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-for-high-quality-movies-on-windowsmac-and-tablets/"><u>[New] 2024 Approved The Ultimate Guide for High-Quality Movies on Windows/Mac & Tablets</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics/"><u>[New] Time-Honored Techniques Incorinastrating Classic VHS Into Modern Cinematics</u></a></li>
-<li><a href="https://games-able.techidaily.com/cheap-gaming-conquered-top-11-websites-for-low-cost-games/"><u>Cheap Gaming Conquered: Top 11 Websites for Low-Cost Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-management-of-multiple-xbox-subscriptions-in-a-single-console/"><u>Effective Management of Multiple Xbox Subscriptions in a Single Console</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-equipment-list-secure-your-zoom-sessions/"><u>Essential Equipment List Secure Your Zoom Sessions</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-turn-your-psp-into-a-game-boy-emulator/"><u>How to Turn Your PSP Into a Game Boy Emulator</u></a></li>
-<li><a href="https://games-able.techidaily.com/join-forces-4-ai-powered-mystery-challenges/"><u>Join Forces: 4 AI-Powered Mystery Challenges</u></a></li>
-<li><a href="https://games-able.techidaily.com/safeguarding-your-playstation-5-games-with-a-passcode/"><u>Safeguarding Your PlayStation 5 Games with a Passcode</u></a></li>
-<li><a href="https://games-able.techidaily.com/solving-the-vanishing-game-issue-on-egs-digital-shelf/"><u>Solving the Vanishing Game Issue on EG's Digital Shelf</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-definitive-guide-to-the-owc-mercury-pro-premium-quality-for-peak-performance/"><u>The Definitive Guide to the OWC Mercury Pro: Premium Quality for Peak Performance</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-missing-printers-from-the-network/"><u>Troubleshooting Missing Printers From the Network</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-tips-and-tricks-recording-conversations-on-whatsapp/"><u>[New] 2024 Approved Tips and Tricks Recording Conversations on WhatsApp</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-add-radial-blur-effect-to-photos-in-photoshop/"><u>[New] How to Add Radial Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-elite-dangerous-crashing-on-pc/"><u>[Solved] Elite Dangerous Crashing on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-elevate-landscape-imaging-with-your-iphone-device/"><u>2024 Approved How to Elevate Landscape Imaging with Your iPhone Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertissez-votre-fichier-mp2-en-mouvideo-format-mov-sans-cout-avec-movavi-online/"><u>Convertissez Votre Fichier MP2 en Mouvidéo Format (MOV) Sans Coût Avec Movavi - Online</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-versatile-cameras-panasonics-fz80-review/"><u>Discover Versatile Cameras: Panasonic's FZ80 Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-experience-what-dpi-works-best-for-you/"><u>Elevate Your Gaming Experience: What DPI Works Best for You?</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-and-care-in-taking-apart-your-xbox-360-slim/"><u>Precision and Care in Taking Apart Your Xbox 360 Slim</u></a></li>
+<li><a href="https://games-able.techidaily.com/rally-the-friends-unveiling-the-most-exciting-sports-apps-iosandroid/"><u>Rally the Friends: Unveiling the Most Exciting Sports Apps (iOS/Android)</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-why-immortals-fenyx-rising-delay-was-a-strategic-move/"><u>Resolved: Why Immortals: Fenyx Rising Delay Was a Strategic Move</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-windows-appearance-in-3-steps/"><u>Transform Window's Appearance in 3 Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-game-controls-xbox-controller-for-pc-connection-147-chars/"><u>Unlocking Game Controls: Xbox Controller for PC Connection (147 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-live-gold-transforms-into-essential-game-pass-access/"><u>Xbox Live Gold Transforms Into Essential Game Pass Access</u></a></li>
 </ul></div>
 

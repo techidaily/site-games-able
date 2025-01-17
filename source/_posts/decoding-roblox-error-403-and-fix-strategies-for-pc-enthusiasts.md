@@ -1,7 +1,7 @@
 ---
 title: Decoding Roblox Error 403 & Fix Strategies for PC Enthusiasts
-date: 2024-08-15T17:24:11.709Z
-updated: 2024-08-16T17:24:11.709Z
+date: 2025-01-14T23:53:20.486Z
+updated: 2025-01-17T00:27:22.172Z
 tags:
   - games
 categories:
@@ -33,12 +33,13 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 
  Now, let's check out all the working fixes to eliminate the error code and get into gaming again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Check the Roblox Server Status
 
 ![Roblox Server status in server page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-Server-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The first port of call is to visit the[Roblox server status page](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d) . Roblox is a multiplayer game; therefore, it's very common for its servers to undergo maintenance now and then.
 
@@ -57,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 3. In the search bar, type**%localappdata%** and click**OK.** It'll open the**Local** folder, which contains the cache folder of all the installed applications.
 4. Search and open the**Roblox** folder.  
 ![Roblox folder in local folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Select everything inside by pressing the**Ctrl + A** hotkeys and then pressing**Shift + Delete** to delete the selected content permanently.
 
 That's it. Now restart your computer and check for the issue.
@@ -75,8 +73,9 @@ That's it. Now restart your computer and check for the issue.
  If you use a third-party VPN application, the steps will vary depending on which app you're using. However, they usually have a visible button or option you can click in the main window that turns the VPN off.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run an SFC and DISM Scan
 
  The error can also occur due to corruption in Windows' files. In this situation, you can run an SFC (System File Checker) scan, a Windows inbuilt tool that scans your system for missing or corrupted files and replace them if necessary.
@@ -99,9 +98,6 @@ Dism.exe /online /cleanup-image /restorehealth`
 
 After the scan is complete, check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Allow Roblox to Run Through Firewall
 
  Oftentimes, online games like Roblox might fail to work and throw error 403 by facing interuption from Windows Firewall. To fix this issue, you'll have to allow Roblox to run through the Windows Firewall. You can check out how to do that on our guide on[how to allow apps through Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
@@ -121,17 +117,15 @@ After the scan is complete, check for the issue.
 5. Select the**Use the following IP addresses** button.
 6. Type**8.8.8.8** in the**Preferred DNS server** box and**8.8.4.4** in the**Alternate** **DNS server** box.  
 ![Switching to the Google Public DNS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Google-Public-DNS.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 7. Click**OK** to save the settings.
 8. Highlight the**Internet Protocol Version 6 (TCP/IPv6)** and select**Properties.**
 9. Type**2001:4860:4860::8888** in the**Preferred DNS server** box and**2001:4860:4860::8844** in the**Alternate DNS server** box.
 10. Click**OK** to save the IPv6 DNS settings.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Make the Registry Edit
 
  Another quick way to solve the issue is to make few registry edits and give the required persmissions to the important folders. Here's how to do that:
@@ -141,26 +135,29 @@ After the scan is complete, check for the issue.
 1. Open the Start Menu, type**regedit** and press Enter.
 2. In the Registry Editor, right click on the**HKEY\_CURRENT\_USER** folder in the left pane, and choose**Permissions** from the context menu.  
 ![Permission option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Check the**Full Control** box and then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Full control option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/full-control-option.jpg)
 
  Similary, give full control to**HKEY\_LOCAL\_MACHINE\_SOFTWARE** folder. Then, restart your computer and you'll see you're no longer facing the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Play Roblox Without Any Issues
 
  Hopefully, one of the above fixes will help you eliminate the error code 403\. But in the worst-case scenario, if you're still facing the problem, you can consider reinstalling Roblox on your computer.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +166,20 @@ After the scan is complete, check for the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-create-brand-symbols-from-templates-at-no-cost/"><u>[Updated] Create Brand Symbols From Templates at No Cost</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-make-your-cash-flow-with-these-13-reddit-techniques-for-beginners/"><u>[Updated] Make Your Cash Flow with These 13 Reddit Techniques for Beginners</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-batteries-desired-innovations/"><u>Beyond Batteries: Desired Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/blazing-speeds-razers-high-end-gaming-rig-basilisk-v3/"><u>Blazing Speeds: Razer's High-End Gaming Rig, Basilisk V3</u></a></li>
+<li><a href="https://games-able.techidaily.com/breakdown-fixing-faulty-xbox-series-xs/"><u>Breakdown: Fixing Faulty Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-xbox-ultimate-price-hike-with-smart-strategies/"><u>Bypass Xbox Ultimate Price Hike with Smart Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-standard-controls-to-play-xbox-one-games/"><u>Bypassing Standard Controls to Play Xbox One Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-video-game-adventures-now-on-your-iphone/"><u>Classic Video Game Adventures, Now on Your iPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-huawei-p60-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Huawei P60</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-a34-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy A34 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-of-dragon-age-origins-not-running-on-windows-10/"><u>Fixing the Issue of Dragon Age: Origins Not Running on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-diy-windows-film-creation-machines-for-windows-11-8-and-7-discover-the-top-models/"><u>Free DIY Windows Film Creation Machines for Windows 11, 8 & 7 - Discover the Top Models!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-charge-pause-problems-top-8-solutions/"><u>Troubleshooting iPhone Charge Pause Problems: Top 8 Solutions</u></a></li>
+</ul></div>
 

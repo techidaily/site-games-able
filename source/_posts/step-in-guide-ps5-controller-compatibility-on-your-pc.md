@@ -1,7 +1,7 @@
 ---
 title: "Step-In Guide: PS5 Controller Compatibility on Your PC"
-date: 2025-01-07T02:50:09.895Z
-updated: 2025-01-10T16:53:32.105Z
+date: 2025-01-09T23:22:32.469Z
+updated: 2025-01-16T21:46:39.684Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -52,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
  That's about it! Your controller is now usable and you can go ahead and play video games. Once you launch a video game with controller support, your PS5 controller will shine with a white glow around the touchpad.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Connect the PS5 DualSense Controller to a PC With Bluetooth
 
 ![PlayStation 5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-dualsense-keymap.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Amir M. Bohlooli/MakeUseOf
@@ -78,11 +78,11 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
 ![Windows 11 Bluetooth settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/bluetooth-add-dualsense.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Obviously, your PS5 controller will consume battery when you use it wirelessly. You'll have to occasionally charge it to keep playing. Conversely, playing with a wired connection will charge your controller as you're playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use the PS5 DualSense Controller with Steam
 
@@ -118,7 +118,7 @@ You can follow these steps in Steam to set a shutdown timer:
 ![Setting idle timeout for controller in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/setting-idle-timeout-for-controller-in-steam.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Change the PS5 Controller Color Light
@@ -131,6 +131,10 @@ You can follow these steps in Steam to set a shutdown timer:
 4. Play with the Color, Saturation, and Brightness sliders to find the combination that suits you best.
 
 ![LED settings for the PS5 controller in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/led-settings-for-the-ps5-controller-in-steam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can enable Player Slot LEDs to distinguish multiple controllers connected to your PC by emitting a different light for each (e.g. P1 and P2).
 
@@ -146,10 +150,6 @@ You can follow these steps in Steam to set a shutdown timer:
 4. Toggle**Game Rumble** to on.
 
 ![Enabling game rumble in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/enabling-game-rumble-in-steam.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Setting up your controller for Steam will ensure that your controller is compatible with all Steam games. Once you've set up your controller, you can use[Steam's Big Picture mode](https://www.makeuseof.com/what-is-steam-big-picture-mode-explained/) to navigate through the Steam interface with your PS5 controller smoothly.
 
@@ -178,21 +178,18 @@ You can follow these steps in Steam to set a shutdown timer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-behind-the-colorscape-a-look-at-hps-z32-x/"><u>[New] 2024 Approved Behind the Colorscape A Look at HP’s Z32 X</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-high-performance-windows-editing-tools-roundup-reviewed/"><u>[New] 2024 Approved High Performance Windows Editing Tools Roundup Reviewed</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daily-dose-of-slovak-language-instant-proficiency/"><u>Daily Dose of Slovak Language, Instant Proficiency!</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-game-with-144hz-ultrawide-monitors/"><u>Elevate Your Game with 144Hz Ultrawide Monitors</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminate-steam-content-blockage-on-your-pc/"><u>Eliminate Steam Content Blockage on Your PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/essential-instagram-video-and-photo-downloads-guide/"><u>Essential Instagram Video & Photo Downloads Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/excellent-ps5-dualsense-battery-enhancers/"><u>Excellent PS5 DualSense Battery Enhancers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-preventing-team-fortress-2-from-unexpectedly-freezing-or-crashing/"><u>Expert Tips for Preventing Team Fortress 2 From Unexpectedly Freezing or Crashing</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/how-to-diagnose-and-fix-malfunctioning-hardware-on-windows-expert-guide-by-yl-computing/"><u>How to Diagnose and Fix Malfunctioning Hardware on Windows: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-enhancing-relaxation-while-exploring-podcast-realms/"><u>In 2024, Enhancing Relaxation While Exploring Podcast Realms</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165844109-indulge-in-the-best-gba-ios-simulation-tools-for-legends/"><u>Indulge in the Best GBA iOS Simulation Tools for Legends!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-dead-keys-a-comprehensive-fix-for-broken-wireless-keyboards-on-pcs-with-windows-os/"><u>No More Dead Keys – A Comprehensive Fix for Broken Wireless Keyboards on PCs with Windows OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplifying-pc-gaming-with-steam-deck-remote-streaming/"><u>Simplifying PC Gaming with Steam Deck Remote Streaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-portable-entertainment-revealed/"><u>Sony’s Portable Entertainment Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-is-the-essence-of-meta-in-video-games-compliance-matters/"><u>What Is the Essence of Meta in Video Games? Compliance Matters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unclouded-vision-leading-online-tools-for-crisp-imagery/"><u>[New] Unclouded Vision Leading Online Tools for Crisp Imagery</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-incorporating-natural-language-processing-siri-into-your-tiktok-strategy/"><u>[Updated] 2024 Approved Incorporating Natural Language Processing (Siri) Into Your TikTok Strategy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-pearlescent-pictures-brighten-with-android/"><u>[Updated] Pearlescent Pictures Brighten with Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-acquisition-of-stock-video-backgrounds/"><u>2024 Approved Navigating the Acquisition of Stock Video Backgrounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-creative-linux-terminals-7-game-ideas/"><u>Explore Creative Linux Terminals: 7 Game Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-to-switching-faultlessness/"><u>Gamer's Guide to Switching Faultlessness</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-control-gaming-interface-elements-in-discord/"><u>How to Control Gaming Interface Elements in Discord</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-google-pixel-8-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Google Pixel 8 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-impressive-scrutiny-and-comparable-proposals/"><u>In 2024, Impressive Scrutiny & Comparable Proposals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-screenshot-and-video-tools-top-8-smartphone-essentials/"><u>In 2024, Innovative Screenshot & Video Tools – Top 8 Smartphone Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-world-of-steam-points/"><u>Navigating the World of Steam Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/reaching-peak-performance-in-windows-gaming/"><u>Reaching Peak Performance in Windows Gaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rip-and-convert-with-wonderfox-dvd-to-ipad-app-update-v11-launched/"><u>Rip & Convert with WonderFox DVD to iPad App, Update v1.1 Launched</u></a></li>
 </ul></div>
 

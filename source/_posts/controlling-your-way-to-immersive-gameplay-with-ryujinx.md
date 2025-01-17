@@ -1,7 +1,7 @@
 ---
 title: Controlling Your Way to Immersive Gameplay with Ryujinx
-date: 2024-08-15T17:25:18.623Z
-updated: 2024-08-16T17:25:18.623Z
+date: 2025-01-13T20:28:25.281Z
+updated: 2025-01-16T23:32:17.010Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  If you use Ryujinx, many expected emulation features are supported but often require a lot of trial and error. Luckily, if you want to map and use a controller for Switch emulation via Ryujinx, the process is quite simple. Let's take a look.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About Ryujinx Before Using a Controller
 
  Instead of diving straight ahead to connecting and mapping your controller, you need to know a few key features of Ryujinx and its controller mapping beforehand. These features can be defined by the following:
@@ -28,7 +32,15 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![A photograph of retro games and gaming consoles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stock-retro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Map a PlayStation, Xbox, or Third-Party Controller in Ryujinx
 
@@ -39,32 +51,24 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 * From the main menu of Ryujinx, select**Options** followed by**Settings** .
 
 ![A screenshot of the Options tab in Ryujinx with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 * Choose**Input** and ensure**Enable Docked Mode** is selected.
 * Under**Player 1** , select**Configure** , and Ryujinx should automatically find your connected controller.
 
 ![A screenshot of the Input screen in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/input.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  From here, you can individually go through each button command and map it to a controller input of your choice. For instance, If you want to remap the**B** button, select the on-screen**B** in Ryujinx, followed by the button on your controller you want**B** to be replaced with.
 
  Once you are done, select**Add** in the top-right of the**Configure** screen. You will then be prompted to name your controller configuration. Confirm your changes by selecting**Ok** followed by**Save** .
 
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Customize Your Ryujinx Controller Settings
 
  Much like other[Nintendo Switch emulators available for Windows](https://www.makeuseof.com/windows-best-nintendo-switch-emulators/) , now you have a connected and mapped controller for Ryujinx, there are a few extra tips to help streamline and customize your emulating experience.
@@ -76,30 +80,24 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 * Changing the designated**Controller Type** , so you can map an entire controller as one Joy-Con controller or vice-versa.
 
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Streamline Nintendo Switch Emulation With Ryujinx
 
  With Ryujinx set up and a mapped controller ready to go, your experience of Nintendo Switch emulation should be a lot less stressful. And with a personalized controller configuration, the games you play should feel all the more intuitive.
 
  But even with a simplified way of mapping a controller through Ryujinx, emulation can sometimes be a bit of a headache. Yet, with all the varieties of emulators and the platforms available, you can always find aspects of emulators better suited to you. With Ryujinx, simple controller support is a bonus.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +106,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-prime-video-recorders-head-on-screen-viewing/"><u>[New] Prime Video Recorders Head-On Screen Viewing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-realities-of-youtube-view-calculation/"><u>[Updated] In 2024, The Realities of YouTube View Calculation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quick-fire-methods-to-record-and-save-your-virtual-gatherings-windows-and-mac-for-2024/"><u>[Updated] Quick-Fire Methods to Record and Save Your Virtual Gatherings (Windows & Mac) for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/bust-open-your-gaming-throne-xbox-360s-controller/"><u>Bust Open Your Gaming Throne - Xbox 360/S Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-the-newer-model-handle-the-classics-playing-ps3-on-ps4/"><u>Can The Newer Model Handle the Classics? Playing PS3 on PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-main-language-settings-on-steam/"><u>Change Main Language Settings on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/clear-and-strong-sounds-on-xbox-by-troubleshooting/"><u>Clear and Strong Sounds on Xbox by Troubleshooting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-benqs-visionary-approach-to-4k-monitors-unraveled-by-the-bl2711u-review/"><u>In 2024, BenQ's Visionary Approach to 4K Monitors, Unraveled by the BL2711U Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-vocal-alteration-in-free-fire-complimentary-tips-for-2024/"><u>Mastering Vocal Alteration in Free Fire Complimentary Tips for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-repairing-your-madden-nfl-22-game-when-it-stops-responding/"><u>Quick Solutions: Repairing Your Madden NFL 22 Game When It Stops Responding</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-im-holding-off-on-the-new-m4-mac-mini-purchase-how-apples-latest-mac-studio-innovation-could-be-game-changing/"><u>Why I'm Holding Off on the New M4 Mac Mini Purchase: How Apple's Latest Mac Studio Innovation Could Be Game-Changing</u></a></li>
+</ul></div>
 

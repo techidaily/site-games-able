@@ -1,7 +1,7 @@
 ---
 title: Personalizing Variable Refresh Rate on Your Xbox Console
-date: 2024-08-15T17:28:28.530Z
-updated: 2024-08-16T17:28:28.530Z
+date: 2025-01-14T00:08:52.943Z
+updated: 2025-01-16T23:25:01.460Z
 tags:
   - games
 categories:
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 
  If you're experiencing screen tearing or stuttering while gaming on your Xbox Series X|S, it might be time to enable Variable Refresh Rate (VRR) on your system. VRR actively works to prevent this issue, so if you want to solve your screen tearing problems, here's everything you need to know.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Variable Refresh Rate?
 
  Variable refresh rate is a feature on the Xbox Series X|S that operates similarly to the way that[VSync (or Vertical Sync) impacts games](https://www.makeuseof.com/what-is-vsync-vertical-sync-impact-games/) on your PC. Both settings work to ensure that your game's frame rate doesn’t exceed your display monitor's refresh rate.
@@ -34,27 +31,33 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
  When you activate VRR on your Xbox Series X|S, your console drops the frame rate of your game when it gets too high, so your monitor can catch up and display your image properly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Enable Variable Refresh Rate on My Xbox Series X|S?
 
  Thankfully, enabling VRR on your Xbox Series X|S is a quick and painless process. Start by booting up your console and heading to the settings by pressing the**gear icon** in the top right corner.
 
 ![Settings Gear Icon on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/settings-gear-icon-on-xbox-series-x.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From the**General** settings, head to the**TV & display** options.
 
 ![Xbox Series X Video Modes Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/xbox-series-x-video-modes-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select**Video modes** from the**Advanced** tab on the right.
 
 ![Xbox Series X VRR Location in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/xbox-series-x-vrr-location-in-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select the box labeled**Variable refresh rate** .
@@ -65,9 +68,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If the box is grayed out, your display is not compatible with this feature. To effectively offer a variable frame rate, your display has to support Free Sync or HDMI-VRR.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## What Are the Drawbacks to Enabling VRR on My Xbox Series X|S?
 
  Enabling VRR is a great way to ensure that your graphics and image quality remain stable. It does, however, drop your framerate.
@@ -81,22 +81,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  VRR only drops your framerate when needed, however, so you shouldn't experience significant amounts of input lag when using it. If you do feel like your gameplay is suffering, and you are seeing a lot of input lag, you can easily switch VRR off in the settings.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Defeat Stuttering and Screen Splitting by Enabling VRR on Your Xbox Series X|S
 
  Enabling variable refresh rate on your Xbox Series X|S is a quick and easy fix to solve any screen splitting or stuttering issues you may be experiencing. It is true that having VRR enabled can increase input lag, but in most cases, you shouldn’t notice a significant drop in the quality of your gameplay experience.
 
  If your display is capable of supporting VRR, it is well worth testing out to see the potential pros and cons yourself.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +103,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-navigating-color-grading-using-luts-to-refine-your-work-in-ae/"><u>[New] Navigating Color Grading Using LUTs to Refine Your Work in AE</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-your-browsing-bliss-discover-the-most-effective-7-android-adblockers/"><u>[New] Your Browsing Bliss Discover the Most Effective 7 Android AdBlockers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-which-recording-tool-wins-a-bandicam-vs-camtasia-comparison-for-2024/"><u>[Updated] Which Recording Tool Wins? - A Bandicam Vs. Camtasia Comparison for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-fail-to-start-driver-issue-on-windows-11-and-11-pcs/"><u>Addressing Fail-To-Start Driver Issue on Windows 11 & 11 PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-need-for-anti-ghosting-features-in-gamers-choice/"><u>Analyzing the Need for Anti-Ghosting Features in Gamers' Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-buyers-remorse-with-pc-compatibility-checks/"><u>Avoid Buyer's Remorse with PC Compatibility Checks</u></a></li>
+<li><a href="https://games-able.techidaily.com/beneath-the-hype-gears-impact-on-gaming/"><u>Beneath the Hype: Gear's Impact on Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-controller-powered-mobile-adventures/"><u>Best Controller-Powered Mobile Adventures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/early-user-insights-is-it-time-to-upgrade-to-ios-17/"><u>Early User Insights: Is It Time to Upgrade to iOS 17?</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/frequent-challenges-with-windows-gpu-solutions-and-advice-from-yl-softwares-experts/"><u>Frequent Challenges with Windows GPU: Solutions and Advice From YL Software's Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-patch-tuesday-impact-your-software-security/"><u>How Does Patch Tuesday Impact Your Software Security?</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-legally-clone-a-website-a-comprehensive-guide/"><u>How to Legally Clone a Website: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-androids-superior-hd-vids-discover-the-best-apps/"><u>In 2024, Android's Superior HD Vids Discover the Best Apps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mulching/"><u>Mulching</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172460954-prepare-for-fun-dive-into-chatgpts-favorite-6-games/"><u>Prepare For Fun: Dive Into ChatGPT’s Favorite 6 Games!</u></a></li>
+</ul></div>
 

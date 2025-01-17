@@ -1,7 +1,7 @@
 ---
 title: "From Console to Components: Dismantling Your Xbox 360 Slim"
-date: 2025-01-08T17:13:44.746Z
-updated: 2025-01-11T02:50:08.911Z
+date: 2025-01-16T00:14:35.333Z
+updated: 2025-01-17T00:07:56.566Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tools Needed to Open an Xbox 360 Slim
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  Remember to ground yourself as you work by touching an unpainted metal surface within the Xbox 360\. This will reduce the likelihood of static electricity damaging the internal components. There is also the option of an anti-static wristband to protect against potential shocks that could damage or even fry your Xbox 360.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Xbox 360 Disassembly Steps
 
 ![xbox 360 slim isolated on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/xbox-360-slim-isolated-on-a-table.jpg)
@@ -56,27 +52,19 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![removing the bottom panel of xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-bottom-panel-of-xbox-360-slim.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In some ways, tearing down the Xbox 360 S is simpler than its previous iterations. You'll need to start by detaching the two side covers. The bottom side cover has a latch that lets you click and release it. Afterward, you'll need to unclip the other side panel portion gently. It's often possible to do this by gently pulling, but you can use your spudger to ease the clips loose if you're in doubt.
 
 ![removing the top grille from an xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-top-grille-from-an-xbox-360-slim.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you've removed the bottom side cover, you'll need to remove the top side cover. The top side cover doesn't have any latch and is instead clipped to the Xbox chassis on all sides. Ease your spudger or screwdriver into the seam between the top side cover and the Xbox 360 until it begins to lift away.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Remove the Side Faceplates
 
 ![removing the top faceplate from an xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-top-faceplate-from-an-xbox-360-slim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you've removed the side covers on both ends of your Xbox 360, you'll need to remove the underlying side faceplates. Unfortunately, these can be quite difficult to remove. You'll need to ease your spudger under the leftmost, middle, and rightmost holes on each side of the faceplate. Angle the blade of the spudger upward until the clip holding the faceplate pops loose.
 
@@ -85,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 ### 3\. Uninstall the Wi-Fi Adapter and Hard Drive
 
 ![unscrewing the wifi adapter screw inside xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/unscrewing-the-wifi-adapter-screw-inside-xbox-360-slim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With the side covers removed and faceplates removed, you're ready to remove the Wi-Fi adapter and hard drive. The Wi-Fi adapter is under the top faceplate, while the hard drive is under the bottom faceplate. You'll need to use your Torx T10 screwdriver to remove the Wi-Fi adapter. Remove the screw, then gently pull the Wi-Fi adapter from its port and out of the chassis.
 
@@ -97,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  Now that you've removed the Wi-Fi adapter and hard drive, you're almost ready to access your Xbox 360 Slim's internal chassis. Before doing that, you'll need to remove the frames on the top and bottom side panels that once held the faceplates and side covers in place. Much like with the faceplates, you can accomplish this by easing your screwdriver behind any clips under the frame as you peel it away from the Xbox.
 
 ![prying loose the side clips on xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prying-loose-the-side-clips-on-xbox-360-slim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After removing both frames, you can access your Xbox 360's internal chassis by prying apart the back panel. Use your spudger to apply pressure beneath the two clips holding the back frame in place. You may need to hold the sides apart to prevent them from clipping back together. Once they're separated, you'll need to ease your spudger or screwdriver down the seam of the Xbox 360 until the bottom side of the back completely bisects.
 
@@ -111,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 ###
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Remove the Internal Case Screws
@@ -119,12 +115,16 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 ![an xbox 360 slim sits with its side panel removed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/an-xbox-360-slim-sits-with-its-side-panel-removed-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you've removed the bottom panel, you should see the underlying metal chassis of your Xbox 360\. Six screws hold the top of the internal case in place, including two screws on the right side, two screws on the left side, and two screws in the indentations in the middle. Remove all the screws with your T12 screwdriver and set them aside in a secure container. It's vital to make sure that you remove the correct screws—in this case, the six pictured above. Each screw is 2.5" long. You will not be able to remove the top panel of your Xbox 360 until the six T12 screws are removed.
 
  If any of the screws on your Xbox 360 are stripped, you'll need to[use an alternative process to remove the screws](https://www.makeuseof.com/how-to-remove-stripped-screw-head/) before you can proceed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Pull Away the Front Panel
 
@@ -161,20 +161,14 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-content-for-success-a-step-by-step-channel-guide/"><u>[New] 2024 Approved Crafting Content for Success A Step-by-Step Channel Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-notable-20-anime-series-theme-tracks-for-2024/"><u>[New] Notable 20 Anime Series Theme Tracks for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-science-of-youtube-success-perfect-thumbnails/"><u>[New] The Science of YouTube Success Perfect Thumbnails</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-expert-methods-for-weaving-in-live-streaming-content-online-for-2024/"><u>[Updated] Expert Methods for Weaving in Live Streaming Content Online for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-masterclass-carving-out-your-digital-self/"><u>[Updated] In 2024, YouTube Masterclass Carving Out Your Digital Self</u></a></li>
-<li><a href="https://games-able.techidaily.com/critical-caveats-5-unexamined-aspects-of-game-scores/"><u>Critical Caveats: 5 Unexamined Aspects of Game Scores</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-and-watch-the-201-8-victorias-secret-runway-show-for-free-high-quality-video/"><u>Download & Watch the 201 8 Victoria's Secret Runway Show for Free - High-Quality Video</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-your-steam-experience-fixes-for-win11/"><u>Enhancing Your Steam Experience: Fixes for Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-robloxs-error-code-262-step-by-step/"><u>Fixing Roblox's Error Code 262 Step-by-Step</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/is-optimal-hdr-with-aurora-worth-it-in-2024/"><u>Is Optimal HDR with Aurora Worth It, In 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-new-worlds-together-playing-minecraft-split-screen-on-switch/"><u>Navigating New Worlds Together: Playing Minecraft Split-Screen on Switch</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721096618625-qualcomm-atheros-bluetooth-drivers-wont-work-on-windows-10-discover-the-fix-now/"><u>Qualcomm Atheros Bluetooth Drivers Won't Work on Windows 10? Discover the Fix Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-financially-smart-gamers-manual-for-series-x/"><u>The Financially-Smart Gamer's Manual for Series X</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-new-dimensions-in-your-steam-deck-gameplay/"><u>Unlocking New Dimensions in Your Steam Deck Gameplay</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/wiederherstellung-der-windows-10-tabelle-ohne-zugangsdaten/"><u>Wiederherstellung Der Windows 10 Tabelle Ohne Zugangsdaten</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-selection-top-10-vimeo-download-tools-unveiled/"><u>[New] In 2024, The Ultimate Selection Top 10 Vimeo Download Tools Unveiled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-create-awe-inspiring-gopro-time-lapse-cinematography/"><u>2024 Approved Create Awe-Inspiring GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-and-set-up-kodi-without-cost-a-detailed-windows-tenth-user-manual/"><u>Download and Set Up Kodi Without Cost: A Detailed Windows Tenth User Manual</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-poco-c50-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-navigating-youtubes-algorithm-as-a-game-streamer/"><u>In 2024, Navigating YouTube's Algorithm as a Game Streamer</u></a></li>
+<li><a href="https://games-able.techidaily.com/interactive-entertainment-battle-ps5-vs-wallet-friendly-pc/"><u>Interactive Entertainment Battle: PS5 V/S Wallet-Friendly PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-wi-fi-problems-discover-8-effective-remedies-here/"><u>PS4 Wi-Fi Problems? Discover 8 Effective Remedies Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-guide-overcome-failure-of-startup-display-driver/"><u>Troubleshooting Guide: Overcome Failure of Startup Display Driver</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-hidden-potential-with-these-7-terminal-games/"><u>Unlock Hidden Potential with These 7 Terminal Games</u></a></li>
 </ul></div>
 

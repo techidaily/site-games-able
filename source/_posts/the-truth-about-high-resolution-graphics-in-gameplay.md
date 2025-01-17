@@ -1,7 +1,7 @@
 ---
 title: The Truth About High-Resolution Graphics in Gameplay
-date: 2025-01-05T02:45:31.163Z
-updated: 2025-01-11T04:32:40.394Z
+date: 2025-01-09T20:45:33.570Z
+updated: 2025-01-16T23:33:35.001Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Limited Monitor Options
 
  You have a lot of options to pick from[when you're shopping around for a new monitor](https://www.makeuseof.com/gaming-monitor-buying-tips/) . However, once you decide that you need a monitor with HDR, your options start to get very limited. True HDR requires a high contrast ratio (10,000:1 or higher), 1,000 nits of peak brightness, and support for a wide color gamut.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ![Dual monitors desk set up for visual comparison.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dual-monitors-desk-set-up-for-visual-comparison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [If you bought an HDR monitor and aren't enjoying the experience](https://www.makeuseof.com/reasons-not-enjoying-true-hdr/) , then you've likely fallen into the HDR400 trap. True HDR (HDR10) monitors require at least 1,000 nits of peak brightness, but you can find plenty of monitors that feature an HDR400 certification. If the monitor has a wide color gamut, you will get better color reproduction and better highlights in brighter scenes with HDR400.
 
  However, HDR400 monitors fall flat when compared to true HDR10 monitors. This is because HDR400 monitors don't call for local dimming, a feature that dims the backlight to improve the depth of blacks.
@@ -50,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
  Since HDR400 monitors lack this feature, they rely on maxing the backlight to achieve that HDR look. This causes blacks to become grayish, and the issue is particularly bad with IPS monitors. You don't get the improvements in contrast either. With some games, a well-calibrated SDR (standard dynamic range) monitor is better than an HDR one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The Metadata Problem
@@ -63,12 +55,16 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ![young boy interacting with game settings on a monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/young-boy-doing-game-settings-on-the-monitor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  HDR is something that should work seamlessly and elevate the immersion in your gaming sessions. However, it can quickly turn into a source of frustration when it doesn't work. You might end up spending a lot of time within game menus, playing around with lighting and other graphical settings.
 
  Outside of gaming, Windows has its fair share of bugs when it comes to using HDR monitors. There are color rendering issues with certain displays, enabling/disabling HDR doesn't always work, and sometimes even SDR content looks dimmer than usual. Some of these issues have been fixed, but your mileage may vary considering how inconsistent Windows can be when it comes to fixing bugs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Most Games Are Not Optimized for HDR
@@ -82,12 +78,16 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 ![computer monitor set up on a desk for gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/big-flat-screen-computer-monitor-set-up-on-a-desk-for-gaming.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's obvious that you care about visuals if you're thinking of buying an HDR monitor. This means cranking all those graphical settings in-game to the max and turning on HDR when it's available. Now while HDR itself doesn't require any extra graphical horsepower, playing games at max settings does require high-end hardware.
 
  The problem is that high-end hardware isn't accessible to most people. You could buy a budget or mid-range PC and pair it with an expensive HDR monitor, but that doesn't make much sense. It's a better idea to dedicate more money toward performance than to a feature that only works well with certain games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Disappointing State of HDR in PC Gaming
 
@@ -110,15 +110,19 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-easy-steps-for-sharing-your-xbox-playtime/"><u>[New] Easy Steps for Sharing Your Xbox Playtime</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-innovative-methods-iphoneipad-recording-2023-revealed/"><u>[New] In 2024, Innovative Methods IPhone/iPad Recording [2023 Revealed]</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-how-can-i-use-twitter-archive/"><u>2024 Approved How Can I Use Twitter Archive?</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-your-audience-with-perfect-fps-settings/"><u>Ace Your Audience with Perfect FPS Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-valorant-speed-solutions-for-overcoming-low-fps-on-pc/"><u>Boost Valorant Speed: Solutions for Overcoming Low FPS on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-rich-world-of-speedy-online-games/"><u>Explore the Rich World of Speedy Online Games</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-13-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 13 SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/organizing-and-managing-games-using-steams-storage-tool/"><u>Organizing and Managing Games Using Steam’s Storage Tool</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/podcast-to-text-discovering-the-top-10-free-and-paid-conversion-tools-for-2024/"><u>Podcast to Text Discovering the Top 10 Free & Paid Conversion Tools for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y27s-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y27s Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-home-studio-ready-essential-webcam-recorders-reviewed-for-2024/"><u>[New] Home Studio Ready Essential WebCam Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-essential-guide-to-twitter-video-posting/"><u>[New] In 2024, The Essential Guide to Twitter Video Posting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero-5-black-vs-nikon-keymission-170-action-camera-which-is-better/"><u>[Updated] GoPro Hero 5 Black vs Nikon Keymission 170 Action Camera Which Is Better?</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-strengths-of-beyerdynamic-mmx-200/"><u>Discovering the Strengths of Beyerdynamic MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifas-best-tv-and-monitor-releases-explored/"><u>IFA's Best TV & Monitor Releases Explored</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-stepwise-approach-to-unlinking-and-removing-youtube-content/"><u>In 2024, A Stepwise Approach to Unlinking and Removing YouTube Content</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-start-into-retro-gaming-with-xemu-powered-pcs/"><u>Jump Start Into Retro Gaming with XemU-Powered PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-player-satisfaction-top-4-reasons-to-enhance-xbox-points/"><u>Maximizing Player Satisfaction: Top 4 Reasons to Enhance Xbox Points</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/most-effective-solutions-for-reviving-deleted-iphone-addresses-and-emails/"><u>Most Effective Solutions for Reviving Deleted iPhone Addresses and Emails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pajama-plots-performed-a-critical-study-of-bedtime-storytelling-vids-for-2024/"><u>Pajama Plots Performed A Critical Study of Bedtime Storytelling Vids for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-huion-tablet-5-quick-solutions-when-the-pen-stops-responding/"><u>Troubleshooting Your Huion Tablet: 5 Quick Solutions When the Pen Stops Responding</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-price-tag-on-virtual-reality-experiences/"><u>Understanding the Price Tag on Virtual Reality Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-consoles-potential-with-9-key-tweaks/"><u>Unleash Your Console's Potential with 9 Key Tweaks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unearthing Indie Wonders: My Top Game Selections"
-date: 2025-01-06T16:30:30.244Z
-updated: 2025-01-10T19:52:14.513Z
+date: 2025-01-14T22:44:49.397Z
+updated: 2025-01-16T19:58:18.598Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 Last Word
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Untitled Goose Game
 
  It’s always worth watching various new games roundups like the Summer Games Fest or[Wholesome Games on YouTube](https://www.youtube.com/c/WholesomeGames) because, even if you’re not into everything shown, it’s always good to know what other people will be playing, and you might even discover a few new favorites for yourself.[Untitled Goose Game](https://goose.game/) is one of those titles, with a trailer that became so popular that developer House House Games ultimately ended up keeping the provisional title.
@@ -49,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 A Short Hike
 
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Adam Robinson-Yu](https://ashorthike.com/)
 
@@ -65,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Storyteller
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
@@ -84,16 +88,12 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 
@@ -120,22 +120,22 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-images-in-your-instagram-profile/"><u>[New] 2024 Approved Mastering Images in Your Instagram Profile</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-lgs-monitor-revolution-the-complete-examination-of-a-4k-screen/"><u>[Updated] 2024 Approved LG's Monitor Revolution The Complete Examination of a 4K Screen</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtube-success-via-creator-studio-complete-handbook-for-2024/"><u>[Updated] Mastering YouTube Success via Creator Studio Complete Handbook for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-motorola-moto-g34-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Motorola Moto G34 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-palworld-inside-out/"><u>Discover PalWorld Inside Out</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-redmi-note-12r-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Redmi Note 12R FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-pdhdll-not-detected-problem-on-your-pc/"><u>Fixing 'pdh.dll' Not Detected Problem on Your PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-with-tomtom-actioncam-new-year/"><u>In 2024, Exploring with TomTom ActionCam New Year</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-8-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 8 Unavailable Issue With Ease</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-hunters-choice-best-camcorders-unveiled/"><u>In 2024, Pro Hunters Choice Best Camcorders Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-game-performance-android-fps-testing-guide-2-techniques/"><u>Maximize Game Performance: Android FPS Testing Guide (2 Techniques)</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-typing-speed-without-sacrificing-accuracy/"><u>Maximizing Typing Speed Without Sacrificing Accuracy</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-accessories-for-perfect-xbox-recording/"><u>Prime Accessories for Perfect Xbox Recording</u></a></li>
-<li><a href="https://games-able.techidaily.com/rendering-rivalry-directx-11-vs-directx-12-benefits/"><u>Rendering Rivalry: DirectX 11 Vs. DirectX 12 Benefits</u></a></li>
-<li><a href="https://games-able.techidaily.com/swiftly-tackle-windows-graphics-hang-code-0x887a0006-solution/"><u>Swiftly Tackle Windows' Graphics Hang: Code 0X887A0006 Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-240hz-displays-the-ultimate-game-setup/"><u>Top 240Hz Displays: The Ultimate Game Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-gaming-wonders-iphone-and-ipads-best-friend-apple-arcade/"><u>Unlocking Gaming Wonders: IPhone and iPad's Best Friend - Apple Arcade</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-instant-grooves-lasting-stories-making-sense-of-music-shorts/"><u>[Updated] Instant Grooves, Lasting Stories Making Sense of Music Shorts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-snapsizestrategy-optimize-your-visual-content-on-ig-for-2024/"><u>[Updated] SnapSizeStrategy Optimize Your Visual Content on IG for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-the-economics-behind-ea-play/"><u>Demystifying the Economics Behind EA Play</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diagnose-a-check-engine-warning-with-this-innovative-bluetooth-obd-ii-adapter-top-picks/"><u>Diagnose a Check Engine Warning with This Innovative Bluetooth OBD-II Adapter - Top Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/eco-conscious-gamers-budget-vr-choices/"><u>Eco-Conscious Gamers' Budget VR Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gaming-experience-with-a-new-joystick/"><u>Elevate Gaming Experience with a New Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-spending-on-mid-range-gaming-mothers/"><u>Essential Spending on Mid-Range Gaming Mothers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-solutions-for-when-minecraft-just-wont-move-past-the-loading-phase/"><u>Expert Solutions for When Minecraft Just Won't Move Past the Loading Phase</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-asus-frp-bypass-by-drfone-android/"><u>In 2024, About Asus FRP Bypass</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-flash-discover-innovative-solutions-to-reload-games/"><u>No More Flash? Discover Innovative Solutions to Reload Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/quick-start-methods-for-producing-and-perfecting-multiple-snaps-in-snapchat-for-2024/"><u>Quick Start Methods for Producing and Perfecting Multiple Snaps in Snapchat for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/resume-efficiency-and-its-role-in-enhancing-xbox-sx-play/"><u>Résumé Efficiency & Its Role in Enhancing Xbox S/X Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/ryujinx-for-playstation-and-nintendo-switch-the-ultimate-guide/"><u>Ryujinx for PlayStation and Nintendo Switch: The Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-sonys-console-controller-in-windowsmacos/"><u>Setting Up Sony's Console Controller in Windows/macOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-photo-and-video-transfer-from-android/"><u>Streamlining Photo & Video Transfer From Android</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tablet-showdown-in-depth-look-at-amazon-fire-versus-samsung-devices-for-tech-savvy-shoppers/"><u>Tablet Showdown: In-Depth Look at Amazon Fire Versus Samsung Devices for Tech Savvy Shoppers</u></a></li>
 </ul></div>
 

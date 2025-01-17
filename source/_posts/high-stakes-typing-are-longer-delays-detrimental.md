@@ -1,7 +1,7 @@
 ---
 title: "High-Stakes Typing: Are Longer Delays Detrimental?"
-date: 2024-08-15T17:23:45.587Z
-updated: 2024-08-16T17:23:45.587Z
+date: 2025-01-12T18:59:30.236Z
+updated: 2025-01-16T18:43:29.533Z
 tags:
   - games
 categories:
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 
 ![keychron q1 pro top down with arm rest to side feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/keychron-q1-pro-top-down-with-arm-rest-to-side-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Gavin Phillips/MakeUseOf
 
 For example:
@@ -47,8 +51,9 @@ For example:
  The standard polling rate used to be around 125Hz, but higher speeds like 500-1,000Hz have become more common recently. Choosing the right polling rate depends on your needs—fast-paced gaming benefits from 500+Hz, while typical typing doesn't require extremely high rates.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Does Keyboard Polling Rate Make a Difference When Gaming?
 
  Yes, the keyboard polling rate absolutely relates to in-game performance. Well, perhaps not for mere mortals, but those that game even vaguely competitively will want faster keyboard polling rates where possible.
@@ -56,8 +61,9 @@ For example:
  It makes sense; the faster your inputs are received and reacted upon by the keyboard and computer, the faster they are enacted in game. It could be the difference between dodging a shot in a competitive FPS versus getting taken down and losing the round.
 
 ![steelseries apex pro mini hand typing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/steelseries-apex-pro-mini-hand-typing.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As mentioned above, a higher polling rate reduces input lag. ESport professionals will use much higher polling rates than regular folks, with some keyboards offering up to 4,000Hz (0.25ms) and some even ramping up to 8,000Hz (0.125ms).
@@ -68,17 +74,11 @@ But nothing can replace actual in-game skills!
 
  It's also worth noting that higher polling rates typically place more strain on the system CPU. An 8,000Hz polling rate requires extremely fast communication at a near-constant rate, which can lead to some CPU overhead.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Do Wired Keyboards Have Better Polling Rates Than Wireless Keyboards?
 
  You do not necessarily need a wired keyboard to achieve a high polling rate. Many modern wireless gaming keyboards can also have high polling rates of 500Hz or 1,000Hz.
 
 ![steelseries apex pro mini wireless switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/steelseries-apex-pro-mini-wireless-switch.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, wired connections generally can more easily achieve higher and more consistent polling rates than wireless keyboards.
 
@@ -105,31 +105,20 @@ But nothing can replace actual in-game skills!
 * **On-Board Switch** : Some keyboards have a physical switch that lets you change the keyboard polling rate. Check if your keyboard has this switch, typically found at the device's rear.
 * **Third-Party Software** : Numerous third-party apps are designed to track and test keyboard polling rates. For example, free and open-source[Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector) can detect your keyboard polling rate in seconds using its test mode, and it's incredibly simple to use.  
 ![keyboard inspector analyzing keyboard polling rate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keyboard-inspector-analyzing-keyboard-polling-rate.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  Note that the above tool is for Windows and Linux. This[handy Reddit post](https://www.reddit.com/r/linux%5Fgaming/comments/15ii0um/how%5Fdo%5Fi%5Ffind%5Fmy%5Flaptop%5Fkeyboard%5Fpolling%5Frate/) explains how to check the keyboard polling rate on Linux using the command line.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Manual Calculation** : If you don't have any of the above tools to hand and can't get hold of them or use them, a manual keyboard polling rate check might suffice. However, it's not particularly accurate. To measure the keyboard polling rate manually, open a text editor, then set a ten-second timer. Hit go on the timer and press a key as many times as possible. Divide the number of keypresses by the time, and you'll get a very, very rough estimate of your polling rate.
 
  The manual option exists, but you're much better off using one of the other methods to track your keyboard polling rate.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Keyboards Have the Highest Polling Rates?
 
 Currently, there are a few keyboards with an 8,000Hz polling rate:
@@ -148,14 +137,11 @@ Currently, there are a few keyboards with an 8,000Hz polling rate:
 
  With that said, the 8,000Hz keyboard options above give you options at the very peak of polling rates, should you need them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +150,22 @@ Currently, there are a few keyboards with an 8,000Hz polling rate:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-enhancing-visuals-on-tiktok-the-digit-editing-guide/"><u>[Updated] 2024 Approved Enhancing Visuals on TikTok The Digit Editing Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-definitive-steps-for-online-streaming-audio-archiving/"><u>[Updated] The Definitive Steps for Online Streaming Audio Archiving</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artistic-ventures-on-ios-the-bestiary-of-the-top-8-drawing-apps-for-2024/"><u>Artistic Ventures on iOS The Bestiary of the Top 8 Drawing Apps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-your-consoles-gameplay-statistics/"><u>Decoding Your Console's Gameplay Statistics</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-computer-glitches-how-to-stop-elex-ii-from-suddenly-closing/"><u>Eliminating Computer Glitches: How to Stop Elex II From Suddenly Closing</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-game-with-v-buck-purchases-on-sony-console/"><u>Enhance Your Game with V-Buck Purchases on Sony Console</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-implemented-how-to-resolve-diablo-ii-re-released-game-crashing-issues/"><u>Fixes Implemented: How To Resolve Diablo II Re-Released Game Crashing Issues</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cheapest-cosmic-storage-service-large-files-on-the-low/"><u>In 2024, Cheapest Cosmic Storage Service Large Files on the Low</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-premium-after-effects-essentials-compact-no-cost-bundle/"><u>In 2024, Premium After Effects Essentials Compact, No-Cost Bundle</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-survival-of-the-undead-cutthroat-top-8-zombie-titles/"><u>In 2024, Survival of the Undead Cutthroat Top 8 Zombie Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/renaming-in-riot-games-username-and-logo-update-guide/"><u>Renaming in Riot Games: Username & Logo Update Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ted-sign-offs-for-the-savvy-viewer-for-2024/"><u>Scripted Sign-Offs for the Savvy Viewer for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-online-oasis-weighing-9-benefits-against-potential-drawbacks/"><u>The Online Oasis: Weighing 9 Benefits Against Potential Drawbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-hidden-treasures-of-gaming-history-using-emudeck-and-steam-deck/"><u>Unlock Hidden Treasures of Gaming History Using EmuDeck and Steam Deck</u></a></li>
+</ul></div>
 

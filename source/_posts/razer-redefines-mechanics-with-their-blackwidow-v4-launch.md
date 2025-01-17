@@ -1,7 +1,7 @@
 ---
 title: Razer Redefines Mechanics with Their BlackWidow V4 Launch
-date: 2025-01-08T01:42:09.686Z
-updated: 2025-01-10T18:32:09.984Z
+date: 2025-01-12T16:40:11.828Z
+updated: 2025-01-17T00:54:30.805Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -104,10 +104,6 @@ Doubleshot ABS Keycaps
 
 ![Razer Blackwidow 75% - Basilisk V3 Pro - Green](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-basilisk-v3-pro-green.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Paul Antill / MakeUseOf
 
 ## Design and Features
@@ -115,6 +111,10 @@ Doubleshot ABS Keycaps
  Out of the box, the BlackWidow V4 75% looks like a smaller twin version of their full-sized BlackWidow V4 Pro. But it is what's inside this condensed design that makes it one of the best keyboards released by Razer to date. For $190 you can get its classic black design, or for another $10, it's all white.
 
 ![Razer Blackwidow 75% - Unboxing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-unboxing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
 
@@ -132,6 +132,10 @@ Doubleshot ABS Keycaps
 
 ![Razer Blackwidow 75% - Media Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-media-keys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
  The included USB-A to USB-C cord is well-constructed. Not being permanently attached, it's great for those who have transitioned to USB-C devices or prefer coiled cables. Interestingly though, the connector rather fat, making it incompatible with Razer's other devices, including some of their mice.
@@ -144,17 +148,21 @@ Doubleshot ABS Keycaps
 
 ![Razer Blackwidow 75% - Wrist Rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-wrist-rest.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
  With it sloped against the keyboard's bottom edge, I found that it stayed in place securely, including during more heated Overwatch 2 matches.
 
 ![Razer Blackwidow 75% - Left Side Angled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-left-side-angled.jpg)
 
- Paul Antill / MakeUseOf
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Paul Antill / MakeUseOf
 
 ### Return of the Orange
 
@@ -174,11 +182,19 @@ Doubleshot ABS Keycaps
 
 ![Razer Blackwidow 75% - Removing Caps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-removing-caps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
  The Green switches provide a loud click with a noticeable bump, with an actuation point of 1.9mm and an actuation force of 50g. In comparison, the Yellow switches—my personal favorite—deliver a smooth and quiet keystroke with an actuation point of just 1.2mm and an actuation force of 45g.
 
 ![Razer Blackwidow 75 - Razer Switches](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-razer-switches.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Razer
 
@@ -202,26 +218,18 @@ Razer
 
 ![Razer Blackwidow 75% - Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-back.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Paul Antill / MakeUseOf
 
  Fair warning to those who may think that Razer's full customization support is unwavering—it's not. On one hand, this is great for users who want the ultimate control over personalization, though that instant sacrifice may have you reconsider the tradeoff.
 
 ![Razer Blackwidow 75 - Internals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-internals.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Razer
 
  In addition to its switch customizability, the BlackWidow V4 75% internal construction has taken even more cues from popular modification designs. These include a gasket-mounted FR4 plate for a "poppier" sound, two layers of sound-dampening foam to prevent unwanted reverb from the aluminum body, and a PCB fire-retardent "tape-mod" that comes pre-installed from the factory. For those unfamiliar with the practice, for years, enthusiasts have taken it upon themselves to use painter's or duct tape to help deaden the reverberation sound from within the deck. While this step is like a rite of passage for every new keyboard, eliminating the need to open it up for this seemingly simple mod makes you feel like Razer understands its community and users' wants.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Lighting
@@ -230,19 +238,11 @@ Razer
 
 ![Razer Blackwidow 75% - FN Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-fn-keys.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Paul Antill / MakeUseOf
 
  It boasts per-key lighting and under glow for an immersive lighting experience that looks incredible whether you're using one of its presets or diving deep into the software to customize fully.
 
 ![Razer Blackwidow 75% - Chroma Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-chroma-studio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
 
@@ -251,7 +251,7 @@ Razer
 ![Razer Blackwidow 75% - Overwatch WASD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-overwatch-wasd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
@@ -260,6 +260,10 @@ Razer
 
 ![Razer Blackwidow 75% - Red Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-red-setup.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
 ## 75% the Size, 100% Worth It
@@ -267,10 +271,6 @@ Razer
  Despite Razer's decision to use less durable ABS caps, lack of pass-through, and its questionable decision to void the warranty if you want to take full advantage of its modification options, the BlackWidow V4 75% delivers a big punch in its debut. If you've already invested in the Razer ecosystem, or you're willing to pay the Razer tax, the BlackWidow V4 75% is one of the best compact mechanical keyboards that will impress long-time keyboard customizers and those looking to get into the hot-swap lifestyle for the first time.
 
 ![Razer Blackwidow 75% - Right Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-right-side.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
@@ -301,18 +301,24 @@ Recommended
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-experience-seamless-video-production-start/"><u>[New] In 2024, Experience Seamless Video Production Start</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-window-management-active-periods-not-permanent-disruptions/"><u>Efficient Window Management: Active Periods, Not Permanent Disruptions</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmonic-heroes-mobile-apps-for-music-trivia-greatness/"><u>Harmonic Heroes: Mobile Apps for Music Trivia Greatness</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-razr-40-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola Razr 40?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-seeing-more-than-ever-samsungs-galaxy-s8-and-4k-breakthrough/"><u>In 2024, Seeing More Than Ever Samsung's Galaxy S8 and 4K Breakthrough</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimize-chatgpt-usage-explore-the-five-best-approaches-for-custom-command-application/"><u>Optimize ChatGPT Usage: Explore the Five Best Approaches for Custom Command Application</u></a></li>
-<li><a href="https://games-able.techidaily.com/peering-into-virtual-world-costs-4-detail-driven-insights/"><u>Peering Into Virtual World Costs: 4 Detail-Driven Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-audio-experience-for-switch/"><u>Superior Audio Experience for Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/tailoring-xbox-series-sxs-vrr-settings-a-step-by-step-guide/"><u>Tailoring Xbox Series S/X's VRR Settings: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-definitive-verdict-on-samsung-galaxy-s2ebeam-and-is-used-to-create-a-beamforming-effect-which-can-help-improve-signal-quality-and-range/"><u>The Definitive Verdict on Samsung Galaxy S2ebeam and Is Used to Create a Beamforming Effect, Which Can Help Improve Signal Quality and Range.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-generation-of-wireless-tech-exploring-the-advantages-of-verizon-5g/"><u>The Next Generation of Wireless Tech: Exploring the Advantages of Verizon 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-racers-question-physical-input-vs-digital-dashboard-dominance/"><u>The Racer's Question: Physical Input Vs. Digital Dashboard Dominance</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-steam-deck-overcoming-cloud-sync-issues/"><u>Troubleshooting Steam Deck: Overcoming Cloud Sync Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-captivating-intros-on-mobile-platforms/"><u>[New] In 2024, Crafting Captivating Intros on Mobile Platforms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-tempo-treasure-hunters-dive-into-free-online-scanners/"><u>[Updated] 2024 Approved Tempo Treasure Hunters Dive Into FREE Online Scanners</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-advanced-tips-for-3d-color-grading/"><u>[Updated] In 2024, Advanced Tips for 3D Color Grading</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebooks-prime-video-snatchers/"><u>[Updated] In 2024, Facebook's Prime Video Snatchers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-initiate-your-streaming-success-story-with-periscope/"><u>[Updated] Initiate Your Streaming Success Story with Periscope</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-professional-recording-software-for-education-sector/"><u>2024 Approved Professional Recording Software for Education Sector</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-y27-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo Y27 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-your-xbox-series-x-stays-peak-performance/"><u>Ensuring Your Xbox Series X Stays Peak Performance</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/exploring-vp9-compatibility-with-handbrake-your-ultimate-guide/"><u>Exploring VP9 Compatibility with Handbrake - Your Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-for-triumph-fps-game-settings/"><u>Fine-Tuning for Triumph: FPS Game Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-individual-to-team-in-the-new-xbox-era/"><u>From Individual to Team in the New Xbox Era</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enhance-copy-paste-efficiency-across-browsers/"><u>How to Enhance Copy-Paste Efficiency Across Browsers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-joy-fast-and-fun-online-gaming-picks/"><u>Jumpstart Joy: Fast and Fun Online Gaming Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/silence-strategy-for-xbox-gaming-voice/"><u>Silence Strategy for Xbox Gaming Voice</u></a></li>
+<li><a href="https://games-able.techidaily.com/store-and-repeat-gaming-achievements-in-cloud/"><u>Store and Repeat Gaming Achievements in Cloud</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-smart-gamers-guide-to-timely-ps5-controller-resets/"><u>The Smart Gamer's Guide to Timely PS5 Controller Resets</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-indie-gaming-success-itchios-path/"><u>Unlocking Indie Gaming Success: Itch.io’s Path</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-2024s-premium-nintendo-switch-holsters/"><u>Unveiling the 2024'S Premium Nintendo Switch Holsters</u></a></li>
 </ul></div>
 

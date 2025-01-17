@@ -1,7 +1,7 @@
 ---
 title: Seamless Integration of Prime and Twitch
-date: 2024-08-15T17:26:31.183Z
-updated: 2024-08-16T17:26:31.183Z
+date: 2025-01-11T22:59:12.432Z
+updated: 2025-01-16T23:30:02.673Z
 tags:
   - games
 categories:
@@ -14,11 +14,19 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 
 ## Seamless Integration of Prime and Twitch
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Enable Prime Gaming](#enable-prime-gaming)
 * [Link Your Twitch and Prime Gaming Accounts](#link-your-twitch-and-prime-gaming-accounts)
 * [How to Use Your Free Twitch Sub With Amazon Prime](#how-to-use-your-free-twitch-sub-with-amazon-prime)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -27,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 * Once the accounts are linked, go to a streamer's channel and use the free subscription option.
 
  Supporting your favorite Twitch streamers by subscribing to their channels can be an expensive hobby. But if you’re an Amazon Prime subscriber, you get one Twitch subscription for free every month. If you want to use your free Twitch sub but aren't sure how to redeem it, here's everything you need to know.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Enable Prime Gaming
 
@@ -37,16 +49,14 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
  You will then be taken to your main Amazon account page, where you will be prompted to enter your phone number.
 
 ![Add Mobile to Enable Prime Gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/add-mobile-to-enable-prime-gaming.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Amazon will send a six-digit code to the number you entered. Type the code into the**text box** to confirm your phone number, and make sure to press**Done** at the bottom of the page before heading back to the Prime Gaming website.
 
 ![Press Done to Confirm Amazon Account Changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/press-done-to-confirm-amazon-account-changes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Below the link to change your phone number, you will see another link labeled**Refresh this page** . Press that to activate your Prime Gaming account.
 
@@ -55,20 +65,18 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
  Now that your Prime Gaming account has been activated, you are ready to move on to the next step, which is to link your Twitch and Prime Gaming accounts. To do so, head back to the Prime Gaming website.
 
 ![Link Twitch Account to Prime Gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/link-twitch-account-to-prime-gaming.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Select your**account name** in the top right corner of the screen and select**Link Twitch account** .
 
 ![Link Accounts to Link Twitch Account to Prime Gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/link-accounts-to-link-twitch-account-to-prime-gaming.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  This will open a popup, so select**Link accounts** to get started. Enter your Twitch account details into the**login box** , and enter the six-digit code that will be sent to the email address associated with your Twitch account.
 
  Press**Confirm** to link your Twitch account to your Prime Gaming account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Use Your Free Twitch Sub With Amazon Prime
 
@@ -79,18 +87,12 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
  At the bottom right of the stream window, you will see a box labeled**Subscribe** . Select that to bring up the subscription window.
 
 ![Subscribe Button Location on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/subscribe-button-location-on-twitch.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  A regular subscription to a Twitch channel costs $4.99/month, which you will see in the bottom right of the subscription window.
 
  If you have a free Prime Gaming sub, however, a checkbox labeled**Use Prime Sub** will be present. Check that box to redeem your free monthly Twitch subscription and select**Subscribe with Prime** to confirm.
 
 ![Use Prime Sub Button on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/use-prime-sub-button-on-twitch.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
  The checkbox will only be available if Twitch subscriptions are allowed in your country, you have already activated Prime Gaming, the channel you are trying to subscribe to is a Twitch Affiliate or Partner, and you haven’t used your free subscription for the month.
 
@@ -104,14 +106,11 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 
  Subscriptions build up, and you no doubt have a growing list of monthly payments to subscription services already. But at least with Amazon Prime, you can scratch one Twitch subscription fee off your list each month.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +119,26 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-from-capture-to-share-precision-cropping-and-export-tips-for-instagram/"><u>[New] From Capture to Share Precision Cropping & Export Tips for Instagram</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/trategies-for-earnings-on-youtube-revealing-minimum-view-targets/"><u>[New] Strategies for Earnings on YouTube Revealing Minimum View Targets</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-things-we-liked-about-java-games/"><u>6 Things We Liked About Java Games</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ace-video-acquisition-strategies-for-savvy-software-and-no-software-use/"><u>Ace Video Acquisition Strategies for Savvy Software & No-Software Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-minecraft-launcher-issue-fix-error-0x803f8001/"><u>Addressing Minecraft Launcher Issue: Fix Error 0X803F8001</u></a></li>
+<li><a href="https://games-able.techidaily.com/amping-up-your-ps5-with-top-gadgets/"><u>Amping Up Your PS5 with Top Gadgets</u></a></li>
+<li><a href="https://games-able.techidaily.com/an-in-depth-look-at-sonys-online-subscription-pricing/"><u>An In-Depth Look at Sony's Online Subscription Pricing</u></a></li>
+<li><a href="https://games-able.techidaily.com/apple-silicon-and-windows-games-mastery-with-crossover-tools/"><u>Apple Silicon and Windows Games: Mastery with CrossOver Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/atlasos-the-gateway-to-modernizing-old-computers/"><u>ATLASOS: The Gateway to Modernizing Old Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-tech-talk-gaming-with-a-controller-or-stick/"><u>Battle Tech Talk: Gaming with a Controller or Stick?</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginners-path-installing-discord-desktop-app-on-apple-gear/"><u>Beginner's Path: Installing Discord Desktop App on Apple Gear</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-best-cable-modems-in-202/"><u>Comprehensive Review of Best Cable Modems in 202</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes-for-2024/"><u>From Blank Canvas to Biggest Hit Mastering YouTube Thumbnail Sizes for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-elevate-audio-standards-integrating-premium-srt-into-mp4-files/"><u>In 2024, Elevate Audio Standards Integrating Premium SRT Into MP4 Files</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-smartphone-youtube-experience-apple-vs-android-review/"><u>In 2024, Smartphone YouTube Experience Apple vs Android Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171169650-minim-led-slim-gammonitor-budget-great-value/"><u>Minim LED Slim - GamMonitor Budget, Great Value!</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/the-ultimate-tutorial-on-changing-names-for-your-avi-videos-by-yl-computing/"><u>The Ultimate Tutorial on Changing Names for Your .avi Videos by YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-fraudgpt-essential-strategies-for-self-protection-against-the-risky-ai/"><u>Understanding FraudGPT: Essential Strategies for Self-Protection Against the Risky AI</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/zero-cost-mp3-the-skype-recording-method-for-2024/"><u>Zero-Cost MP3 The Skype Recording Method for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamline Steam Deck SSD Replacement Procedures
-date: 2024-08-15T17:28:17.691Z
-updated: 2024-08-16T17:28:17.691Z
+date: 2025-01-11T20:46:14.649Z
+updated: 2025-01-16T23:09:44.597Z
 tags:
   - games
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
 ## Streamline Steam Deck SSD Replacement Procedures
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Why Cloning Your Steam Deck's SSD Is Better](#why-cloning-your-steam-deck-39-s-ssd-is-better)
@@ -24,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 * [Step 4: Insert Your New SSD Into Your Steam Deck](#step-4-insert-your-new-ssd-into-your-steam-deck)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Upgrading your Steam Deck's SSD? Cloning is the best way to go. It saves time and transfers all your files, settings, and games to the new SSD.
@@ -34,14 +39,12 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  Are you upgrading your Steam Deck SSD but don't want to set up your device from scratch? Here’s how to clone your SSD for an easier upgrade.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Why Cloning Your Steam Deck's SSD Is Better
 
 ![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Jhet Borja/MakeUseOf  
@@ -56,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  Cloning your old SSD to your new one will save you so much time. You won’t need to experience the time-consuming process of manually imaging SteamOS, logging in, waiting for updates, and getting all your old settings right. Here’s how you can do it...
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Step 1: Download Macrium Reflect on a Separate PC
 
  Since we’re not going to be using an SSD enclosure in this guide, we’re going to need a separate PC that has an NVMe/SATA M.2 slot on the motherboard.
@@ -66,15 +66,16 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
  On the PC, we’re going to use Macrium Reflect to clone the old SSD onto the new one.
 
 ![Macrium Reflect trial download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-trial-download-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Register and create a[Macrium Reflect](https://manage.macrium.com/) account and download the free trial as it has everything you need for this process.
 
  Copy your registration code, click on**Download Trial** on the Home version, and run the setup.
 
 ![Macrium Reflect registration code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-registration-code-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  During the setup, check the box for the 30-day trial and enter your registration code when it asks for it.
 
@@ -94,38 +95,41 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
 ![Image this disk button on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/image-this-disk-button-on-macrium-reflect.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, turn on your PC and open up Macrium Reflect. Select your old Steam Deck SSD in the drives list and click on**Image this disk…** below it.
 
  It will ask you where you want to save your image file. I chose to make a new folder so that I would remember where to get it from later. Macrium Reflect compresses images down to 40% of their original size, so make sure to have at least that much available space where you save it.
 
 ![Prompt before running backup image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/prompt-before-running-backup-image.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Name your backup image and click OK until it starts creating the image file. It can take anywhere from a few minutes to about an hour depending on the size of the drive and how much is on it. My 64GB SSD only took about five minutes.
 
  If your motherboard has two SSD slots, you can click**Clone this Disk** **...** instead of imaging. You can then follow similar steps, but skip the image restoration process by directly copying the partitions of the old SSD to the new one. This method is faster as it'll do the cloning in one step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 3: Restore Your Backup Image to Your New SSD
 
  Now that your backup image is ready, you can now shut down your PC, replace the old SSD with your new one, and boot your PC back up.
 
 ![Searching for disk management on Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/searching-for-disk-management-on-windows-searcgh.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you open up Macrium Reflect, search for "**Create and format hard disk partitions"** in the Windows search bar. This will open up the disk manager.
 
 ![Converting to GPT partition scheme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/converting-to-gpt-partition-scheme.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Look for your new SSD—it should be black if it hasn’t been used before. Right-click on it and select**Convert to GPT Disk** . The GPT partitioning scheme is what SteamOS works best with, so it’s best to use that.
 
 ![Restore image tab on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restore-image-tab-on-macrium-reflect-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Open up Macrium Reflect, and on the top menu bar, click**Restore** **\> Browse for an image or backup file to restore…** .
 
@@ -138,9 +142,6 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
  A pop-up will appear, allowing you to choose where you want to restore the image to. Click on**Select a disk to restore to…** , and choose your new SSD.
 
 ![Copying partitions to new disk-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/copying-partitions-to-new-disk-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click on**Copy partitions** **\> Exact Offset and Length** . This will visualize the partitions on the new SSD. Don’t worry about the empty space, leave that blank as SteamOS will immediately utilize it once you boot up your Steam Deck.
 
@@ -161,8 +162,9 @@ Jhet Borja/MakeUseOf
  You can open up the BIOS by holding down the volume up button and the power button. You should let go of the power button when you hear a chime, but still hold down the volume up button until the BIOS appears.
 
 ![Selecting steamcl.efi in Steam Deck BIOS to boot into SteamOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steamcl-efi-in-steam-deck-bios-to-boot-into-steamos.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -171,14 +173,11 @@ Jhet Borja/MakeUseOf
 
  You can now go ahead and immediately download your games without ever worrying about setting your Steam Deck up from scratch. We hope this guide has made it easier for you to upgrade your SSD.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,4 +186,23 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-unveiling-the-secrets-to-fhd-in-social-tweeting-for-2024/"><u>[New] Unveiling the Secrets to FHD in Social Tweeting for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-visual-templates-free-eco-friendly-options-for-2024/"><u>[New] Visual Templates Free Eco-Friendly Options for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-digital-influencers-riches-exceed-ages-kaji-ryan-story-for-2024/"><u>[Updated] Digital Influencer's Riches Exceed Ages Kaji Ryan Story for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-principles-for-designing-fb-ad-content-for-2024/"><u>[Updated] Principles for Designing FB Ad Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-video-player-face-off-vlc-against-mpc/"><u>2024 Approved Free Video Player Face-Off VLC Against MPC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-rediscover-lost-eyes-only-pics/"><u>2024 Approved Rediscover Lost Eyes-Only Pics</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-best-portable-power-nintendo-switch-docks-guide/"><u>2024'S Best Portable Power: Nintendo Switch Docks Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-valorant-high-fps-and-performance-fixes-guide-for-pc-users/"><u>Ace Valorant: High FPS & Performance Fixes Guide for PC Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-joy-con-communication-errors-with-switch-console/"><u>Addressing Joy-Con Communication Errors with Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-push-for-innovation-with-rdna-35-when-will-it-arrive/"><u>AMD's Push for Innovation with RDNA 3.5 - When Will It Arrive?</u></a></li>
+<li><a href="https://games-able.techidaily.com/atlasos-for-the-vintage-tech-enthusiast/"><u>AtlasOS for the Vintage Tech Enthusiast</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/audio-aces-challenge-apples-airpods-pro-against-galaxy-buds-pro-rivalry/"><u>Audio Aces Challenge: Apple's Airpods Pro Against Galaxy Buds Pro Rivalry</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-boosted-game-pass-rate-strategies-to-save/"><u>Beat the Boosted Game Pass Rate: Strategies to Save!</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161930368-steam-unlocked-discovering-top-notch-games-for-free/"><u>Steam Unlocked: Discovering Top-Notch Games for FREE!</u></a></li>
+</ul></div>
 

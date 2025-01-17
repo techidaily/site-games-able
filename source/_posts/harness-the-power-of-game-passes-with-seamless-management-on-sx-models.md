@@ -1,7 +1,7 @@
 ---
 title: Harness the Power of Game Passes with Seamless Management on S/X Models
-date: 2024-08-15T17:23:19.390Z
-updated: 2024-08-16T17:23:19.390Z
+date: 2025-01-12T16:15:10.753Z
+updated: 2025-01-16T21:33:56.105Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![A promotional image for the advertisement of Xbox Game Pass and Xbox All Access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/xbox-game-pass-stock-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[Xbox](https://www.xbox.com/en-us/xbox-game-pass)
 
  If you need to manage your subscriptions outside the available features of the**Subscriptions** settings, or if you want to join a new subscription, you may need to use an alternative way to manage subscriptions.
@@ -35,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
  Luckily, just like how you can[cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) online or from your console, you can do the same with all other Xbox subscriptions.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add and Remove Subscriptions on Your Xbox Series X|S
 
  Now you know the specific information regarding managing subscriptions from your Xbox Series X|S, let's look at how you can actually manage subscriptions from your console. To manage Xbox subscriptions from your Xbox Series X|S, follow these steps:
@@ -45,15 +50,17 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 * Navigate to the options for**Profile & system** and select**Settings** .
 
 ![A screenshot of the Profile and System option within the Guide menu on an Xbox Series X with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/xbox-series-x-guide-menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Highlight the options for**Account** , and select**Subscriptions** .
 
 ![A screenshot of the Account settings for an Xbox Series X with Subscriptions highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2647-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * From**Subscriptions** , you can manage your**Active** and**Canceled** Xbox subscriptions.
@@ -63,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
  Once you are on the**Subscriptions** page of your Xbox, select an**Active** or**Canceled** subscription to start managing the service.
 
 ![A screenshot of the available features for Subscriptions on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2651.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With a subscription selected, you can manage your Xbox subscription using any of the following settings and processes:
 
@@ -78,8 +82,9 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
  While these features cover the most common ways you can manage your Xbox subscriptions, some of the features require the Microsoft Edge app on your Xbox.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Microsoft Edge to Manage Subscriptions on Xbox
 
  Almost every feature that can manage subscriptions from your Xbox, can be altered from the**Subscriptions** page. However, if you want to**Change plan** or**Turn on recurring billing** , your Xbox will redirect you to the Microsoft Edge app and expect you to manage the subscription from there.
@@ -95,23 +100,17 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
  But with accessible ways of switching and activating subscriptions straight from your Xbox, you at least don't have to worry about hitting any roadblocks when managing subscriptions from your Series X|S.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Remove the Worry of Managing Subscriptions With Your Xbox Series X|S
 
  With an Xbox Series X|S, you can streamline managing your subscriptions by accessing and adjusting supported Xbox services from one device.
 
  And while you may still need to use other applications like Microsoft Edge, you shouldn't have to worry about juggling devices or contacting customer services to adjust your subscriptions as you see fit.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +119,20 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-10-most-popular-tiktok-challenges-deserves-your-try/"><u>[New] 2024 Approved 10 Most Popular TikTok Challenges Deserves Your Try</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/recision-audio-picks-top-10-video-to-mp3-convertors-for-2024/"><u>[New] Precision Audio Picks Top 10 Video-to-Mp3 Convertors for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-masterful-messaging-find-your-go-to-text-transcription-aids/"><u>2024 Approved Masterful Messaging Find Your Go-To Text Transcription Aids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/efficient-methods-for-renaming-users-in-google-meet/"><u>Efficient Methods for Renaming Users in Google Meet</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-top-22-speedy-web-titles-to-entertain-you/"><u>Game On: Top 22 Speedy Web Titles to Entertain You</u></a></li>
+<li><a href="https://games-able.techidaily.com/games-meta-unraveling-its-significance-and-adherence/"><u>Game's Meta: Unraveling Its Significance & Adherence</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-take-apart-your-xbox-series-xs-controller/"><u>How to Take Apart Your Xbox Series X|S Controller</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-g22-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia G22 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intels-lunar-lake-project-outsourced-assembly-and-upgrades-via-panther-lake-incorporating-clearwater-forest-power-systems/"><u>Intel's Lunar Lake Project: Outsourced Assembly and Upgrades via Panther Lake, Incorporating Clearwater Forest Power Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/interior-insights-deconstructing-your-xbox-360series-x-controller/"><u>Interior Insights: Deconstructing Your Xbox 360/Series X Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-unidentified-game-lists-by-steam/"><u>Overcoming Unidentified Game Lists by Steam</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-swift-solution-for-effortless-srt-to-text-txt-transform/"><u>The Swift Solution for Effortless SRT to Text (TXT) Transform</u></a></li>
+</ul></div>
 

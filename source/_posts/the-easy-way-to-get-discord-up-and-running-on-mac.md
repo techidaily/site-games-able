@@ -1,7 +1,7 @@
 ---
 title: The Easy Way to Get Discord Up and Running on Mac
-date: 2025-01-06T00:00:40.624Z
-updated: 2025-01-11T06:23:45.136Z
+date: 2025-01-13T22:16:30.539Z
+updated: 2025-01-16T23:02:01.252Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Download Discord's Installation File to Your Mac
@@ -35,20 +35,20 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 ![Download for Mac button on the Discord website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/download-for-mac-button-on-the-discord-website.jpeg)
 2. Click**Download for Mac** , and a Finder window will appear for you to choose the location to save Discord's installation file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Saving Discord to Downloads on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/saving-discord-to-downloads-on-macos.jpeg)
 3. Choose**Downloads** from the left panel and click**Save** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Wait for the installation file to finish downloading.
 
  You can use Discord online on your browser by clicking**Open Discord** at the top-right corner of Discord's website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install Discord on Your Mac
 
@@ -60,22 +60,22 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 ![Discord logo being dragged into the Applications folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-logo-being-dragged-into-the-applications-folder.jpeg)
 4. Close the Finder window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Launchpad** from the Dock and select**Discord** from one of the pages. Or launch it[using Spotlight search on your Mac](https://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) .
 
  You might receive a security prompt that Discord is an app downloaded from the internet, but click**Open** anyway.
 
  macOS's Gatekeeper might not let you install or run Discord right away. If you run into that problem or any other problems, read our guide on[installing third-party apps on a Mac](https://www.makeuseof.com/how-to-install-third-party-apps-mac/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3: Sign Up or Sign In to Discord
 
 ![Discord's login page on the Mac app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-s-login-page-on-the-mac-app.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When Discord opens, you'll be greeted by its login page. If you already have an account, type in your email or phone number, enter your password, and click**Log In** to sign in.
@@ -103,20 +103,20 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-craft-perfecting-podcast-trailer-production/"><u>[New] Mastering the Craft Perfecting Podcast Trailer Production</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-gain-popularity-power-secrets-to-staff-picked-videos-on-vimeo/"><u>[Updated] 2024 Approved Gain Popularity Power Secrets to Staff-Picked Videos on Vimeo</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-high-end-video-resizer-unparalleled-definition/"><u>[Updated] High-End Video Resizer Unparalleled Definition</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-friendly-gaming-xbox-series-xs-edition/"><u>Budget-Friendly Gaming: Xbox Series X/S Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/disassembling-new-controller-firmware-on-series-xs/"><u>Disassembling New Controller Firmware on Series X/S</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722965658589-get-your-ricoh-mp-c3003-printer-up-and-running-with-newly-updated-drivers/"><u>Get Your Ricoh MP C3003 Printer Up and Running with Newly Updated Drivers!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-minimal-shake-cam-for-dynamic-shooting/"><u>In 2024, Minimal-Shake Cam for Dynamic Shooting</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steams-workshop-for-game-customization/"><u>Mastering Steam's Workshop for Game Customization</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/navigating-the-charge-map-a-comprehensive-look-at-locating-your-next-electric-vehicle-refuel-point/"><u>Navigating the Charge Map: A Comprehensive Look at Locating Your Next Electric Vehicle Refuel Point</u></a></li>
-<li><a href="https://games-able.techidaily.com/re-establishing-win11-steam-connections/"><u>Re-Establishing Win11 Steam Connections</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-setup-psvr2-accessories/"><u>Revolutionize Your Gaming Setup: PSVR2 Accessories</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-steam-login-issues-on-rust-oses/"><u>Streamlining Steam Login Issues on Rust OSes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-4k-video-editing-software-for-professionals/"><u>The Best of the Best 4K Video Editing Software for Professionals</u></a></li>
-<li><a href="https://games-able.techidaily.com/xboxs-quick-resume-an-essential-advantage/"><u>Xbox's Quick Résumé - An Essential Advantage?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-outro-kings-6-top-suggestions/"><u>[New] In 2024, Free YouTube Outro Kings 6 TOP Suggestions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-detailed-guide-crafting-powerful-video-thumbnails-for-content-marketing/"><u>2024 Approved Detailed Guide Crafting Powerful Video Thumbnails for Content Marketing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>2024 Approved Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/compare-and-contrast-best-software-for-screen-grabs-obsfraps/"><u>Compare and Contrast Best Software for Screen Grabs (OBS/Fraps)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-detaille-enregistrer-de-la-video-audio-avec-movavi-sur-un-mac/"><u>Guide Détaillé : Enregistrer De La Vidéo Audio Avec Movavi Sur Un Mac</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-make-safe-and-educational-screen-time-with-the-amazon-fire-hd-10-kids-tablet/"><u>How to Make Safe and Educational Screen Time with the Amazon Fire HD 10 Kids Tablet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-11-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme 11 Prowith/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 8 Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/nebula-navigator-finding-future-forward-computers/"><u>Nebula Navigator: Finding Future-Forward Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-debit-card-errors-false-non-acceptance-on-ps5/"><u>Overcoming Debit Card Errors: False Non-Acceptance on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/spreading-happiness-through-steams-digital-treasures/"><u>Spreading Happiness Through Steam's Digital Treasures</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-backstage-tickets-to-pre-starfield-revelations/"><u>The Backstage Tickets to Pre-Starfield Revelations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-tecno-spark-20-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Tecno Spark 20 for Parents | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-arcade-moments-limited-edition-tricks/"><u>Ultimate Arcade Moments: Limited Edition Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-old-school-xbox-fun-with-xemu/"><u>Unlocking Old-School Xbox Fun with Xemu</u></a></li>
 </ul></div>
 

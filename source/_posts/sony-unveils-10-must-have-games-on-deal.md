@@ -1,7 +1,7 @@
 ---
 title: Sony Unveils 10 Must-Have Games on Deal
-date: 2025-01-08T16:59:54.840Z
-updated: 2025-01-10T21:22:06.010Z
+date: 2025-01-10T21:04:50.207Z
+updated: 2025-01-16T23:40:22.712Z
 tags:
   - games
 categories:
@@ -23,25 +23,21 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Overcooked! 2
 
  The best part of the summer holidays is that your friends are most likely on holiday as well, which means that there is no excuse not to invite them over and have a night of ridiculous fun playing Overcooked! 2\. Overcooked! 2 is a chaotic party game where you have to work together to serve food to some very impatient customers under extreme conditions in a short time limit. If you like laughing, you'll like this.
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Deathloop
 
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Owlboy
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of[differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Unravel Two
 
@@ -83,15 +83,15 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
@@ -122,16 +122,18 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-apple-podcast-listing-essentials/"><u>[New] 2024 Approved Apple Podcast Listing Essentials</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-best-picks-no-charging-high-definition-video-players-for-pcmacos-for-2024/"><u>[Updated] Best Picks No-Charging, High Definition Video Players for PC/MacOS for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/every-game-ever-a-universal-dream-achieved/"><u>Every Game Ever - A Universal Dream Achieved</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-tecno-pova-5-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Tecno Pova 5 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-11f-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 11F 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-gt-3-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme GT 3</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-linkedins-game-add-on-really-worth-your-time/"><u>Is LinkedIn's Game Add-On Really Worth Your Time?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-computing-knowledge-from-toms-hardware-hub/"><u>Precision Computing Knowledge From Tom's Hardware Hub</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-setup-with-emudeck-and-steam-deck/"><u>Revolutionize Your Gaming Setup with EmuDeck & Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-truth-about-being-marked-as-inactive-by-discord/"><u>The Truth About Being Marked as Inactive by Discord</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/usb-device-troubleshooting-guide-expert-tips-and-solutions-by-yl-computing/"><u>USB Device Troubleshooting Guide: Expert Tips and Solutions by YL Computing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-discover-the-best-premiere-pro-templates-free-2023/"><u>[Updated] Discover the Best Premiere Pro Templates (FREE) 2023</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/95868157-2024-approved-enhance-productions-no-cost-sounds-available/"><u>2024 Approved Enhance Productions No-Cost Sounds Available</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/"><u>2024 Approved Masterclass in 3D Color Grading with Custom LUTs</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-spotting-guide-for-premier-apple-arcade-titles/"><u>Game-Spotting Guide for Premier Apple Arcade Titles</u></a></li>
+<li><a href="https://win-dash.techidaily.com/investment-in-human-capital-and-talent-acquisition-strategies/"><u>Investment in Human Capital and Talent Acquisition Strategies.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-steam-file-sync-in-windows-environment/"><u>Mastering Steam File Sync in Windows Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-gps-glitches-pokemon-go-signal-fix/"><u>Navigating GPS Glitches: Pokémon GO Signal Fix</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/short-form-script-template/"><u>Short-Form Script Template</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-ends-refund-trap-consequences-explored/"><u>Steam Ends Refund Trap: Consequences Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-visuals-in-action-choosing-the-right-uw-monitors/"><u>Superior Visuals in Action: Choosing the Right UW Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-compact-android-emulators-windows-and-macos/"><u>Top 8 Compact Android Emulators, Windows & MacOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-latest-in-screen-innovation/"><u>Unveiling the Latest in Screen Innovation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-gopro-quik-for-computer-download-and-alternative-options/"><u>Updated In 2024, GoPro Quik for Computer Download and Alternative Options</u></a></li>
 </ul></div>
 

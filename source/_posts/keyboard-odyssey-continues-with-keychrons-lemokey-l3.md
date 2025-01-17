@@ -1,7 +1,7 @@
 ---
 title: Keyboard Odyssey Continues with Keychron’s Lemokey L3
-date: 2024-08-15T17:28:39.889Z
-updated: 2024-08-16T17:28:39.889Z
+date: 2025-01-13T18:10:58.865Z
+updated: 2025-01-16T17:44:05.887Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 ---
 
 ## Keyboard Odyssey Continues with Keychron’s Lemokey L3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -117,13 +125,18 @@ No
 
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Configuration
 
  Like all Keychron keyboards, the Lemokey L3 is available in several configurations. The Fully Assembled Knob version, which features in this review, will set you back $214, while the barebones version is $194.
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
@@ -137,9 +150,6 @@ No
  The Lemokey L3 feels sublime. It's a premium gaming mechanical keyboard that weighs an excellent 1.97kg (4.3lbs). You're basically buying a block of high-quality CNC machined aluminum that also happens to be a mechanical keyboard; you won't be shoving the Lemokey L3 in your rucksack for the local LAN session, that's for sure. The weight has another important use, though—stopping your keyboard from moving around as you game or type.
 
 ![person-using-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-using-the-keychron-lemokey-l3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -156,26 +166,15 @@ No
  The Lemokey L3 is available in three color schemes: Carbon Black, Navy Blue, and Space Silver. I've been sent the Space Silver design, which looks mechanical and futuristic, but the Navy Blue and Carbon Black designs both look tidy, and the double-shot PBT keycaps are sculpted to maximize efficiency. Each color scheme comes with a unique set of additional keys; in a nod to the keyboard's gaming credentials, some of the additional keys bear the iconic PlayStation symbols.
 
 ![customizable-buttons-on-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/customizable-buttons-on-the-keychron-lemokey-l3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
  Inside the Lemokey L3 are multiple layers of sound-absorbing foam, which, along with the double-gasket mounted design, contribute to the smooth typing experience and warming typing sound.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Battery Life and Connectivity
 
  Battery life is another plus point for the Lemokey L3—though, given its weight, I strongly doubt you'll ever roam too far from a USB-C port or an outlet. The Lemokey L3 is rated for up to 200 hours while using 2.4GHz wireless, rising to a whopping 300 hours while using Bluetooth. I didn't track this precisely, but I never ran out of battery using either wireless mode.
@@ -185,8 +184,9 @@ No
  Hannah Stryker / MakeUseOf
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lemokey L3 Typing Experience
 
  The Lemokey L3 is a dream to type on. I've been sent the Gateron Jupiter Brown switches, which require 55g actuation force, have 2mm pre-travel, and 4mm total travel. You'll bottom out on keypresses, but the overall movement and response of the Jupiter Brown switches are mostly smooth.
@@ -198,9 +198,6 @@ No
  If you're going to use the Lemokey L3 for gaming (it's a gaming mechanical keyboard, after all), I suggest using wired or 2.4GHz wireless mode. This way, you can put the Lemokey's 1,000Hz polling rate to good use, ensuring that your inputs are registered as quickly as possible in-game.
 
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -233,11 +230,12 @@ No
  Overall, the Lemokey L3 might not be an outright gaming keyboard, but it's a brilliant keyboard in all other areas.
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -247,14 +245,11 @@ No
 
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -263,4 +258,20 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-youtube-shorts-presence-with-impactful-strategies-for-2024/"><u>[New] Elevating Your YouTube Shorts Presence with Impactful Strategies for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-live-streamer-showdown-pick-your-champion-between-wirecast-and-obs/"><u>[New] Live Streamer Showdown Pick Your Champion Between Wirecast and OBS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamline-your-watching-with-edge-free-youtube-content/"><u>[New] Streamline Your Watching with Edge-Free YouTube Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-tools-to-capture-crystal-clear-audio-in-wav-format-a-guide-for-all-your-electronics/"><u>Best Tools to Capture Crystal Clear Audio in WAV Format: A Guide for All Your Electronics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-conversion-transforming-m4a-audio-files-into-wma-format-with-ease/"><u>Free Online Conversion: Transforming M4A Audio Files Into WMA Format with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-to-know-amds-newest-graphics-innovation-rdna-35/"><u>Get to Know AMD's Newest Graphics Innovation, RDNA 3.5</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-cannot-locate-a-suitable-printer-driver-step-by-step-tutorials/"><u>How to Fix 'Windows Cannot Locate a Suitable Printer Driver': Step-by-Step Tutorials</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/investment-tactics-fortnite-coins-on-sonys-platform/"><u>Investment Tactics: Fortnite Coins on Sony's Platform</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-best-and-worst-of-the-new-lenovo-thinkpad-x1-fold-an-expert-review/"><u>The Best and Worst of the New Lenovo ThinkPad X1 Fold - An Expert Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-right-moment-when-to-reset-your-ps5-device/"><u>The Right Moment: When to Reset Your PS5 Device</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-review-how-fifa-19-stands-as-a-legend-amongst-sports-game-titles/"><u>Top Rated Review: How FIFA 19 Stands as a Legend Amongst Sports Game Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-great-sound-from-mmx-200/"><u>Unleashing Great Sound From MMX 200</u></a></li>
+</ul></div>
 

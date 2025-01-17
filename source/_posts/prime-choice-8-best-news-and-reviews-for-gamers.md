@@ -1,7 +1,7 @@
 ---
 title: "Prime Choice: 8 Best News & Reviews for Gamers"
-date: 2024-08-15T17:26:48.506Z
-updated: 2024-08-16T17:26:48.506Z
+date: 2025-01-09T21:37:09.980Z
+updated: 2025-01-17T00:36:15.564Z
 tags:
   - games
 categories:
@@ -27,14 +27,12 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
  We encourage you to research these issues and draw your own conclusions about whether you want to follow such mainstream gaming sites. Whatever sites you do choose to read, it's important that you pay attention to the writers you're reading, not just the site. There really isn't a "best game review site" for everyone, since quality differs among the authors at various sites.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1. Destructoid
 
 ![Destructoid Site 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/01-Destructoid-Site-2021.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Destructoid is a great all-around gaming site with a bit of everything. It publishes articles regularly, with lots of news posts, reviews, and features appearing each week. This includes updates on certain games, previews of upcoming games, and opinion pieces.
 
@@ -52,12 +50,13 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
  In the reviews, clear**Pros** /**Cons** lists and a summary of the verdict make them easy to skim. Overall, GamesRadar+ provides lots of content to check out, as well as quick stories for staying abreast of gaming news.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3. Game Informer
 
 ![Game Informer 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/03-Game-Informer-2021-Screenshot.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
  Game Informer is a long-running video game magazine that also has a website. Unlike other gaming websites that also feature content for movies and TV, this one is all about games (occasionally covering movies and TV based on games). You'll find news, previews of upcoming games, reviews, and features.
 
@@ -66,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
  Overall, Game Informer is a website run by people who love video games, built for players. The site doesn't review every little game, but what's here is excellent and there's no political nonsense to worry about.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4. Metacritic
 
 ![Metacritic 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/04-Metacritic-2021-Screenshot.png)
@@ -91,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 ## 6. GameSpot
 
 ![GameSpot 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/06-GameSpot-2021-Screenshot.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
  GameSpot is a well-known gaming site that's worth a visit. You'll find popular and recent news on its homepage, along with lists of upcoming games and recent reviews.
 
@@ -102,8 +99,9 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
  There are some occasional quirks with its reviews, like the writer mentioning that they didn't play through the entire game. Because of this, it is nice to see a summary of what the reviewer played at the bottom of the article. But overall, it's a quality resource.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7. Christ Centered Gamer
 
 ![Chris Centered Gamer Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chris-centered-gamer-site-2023.jpg)
@@ -116,14 +114,12 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
  This page isn't as well-known as some other game review sites, but it's up-front about its biases and hasn't had concerning breaches of ethics. You may find that refreshing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 8. Game Rant
 
 ![GameRant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gamerant.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Game Rant has been a trusted source of gaming information for over ten years. As one of the[250+ million readers of the site](https://gamerant.com/page/press-kit/) , you can access the latest news, reviews, features, interviews, and opinion pieces on everything related to gaming. For instance, you can read game reviews (each game is scored on a scale of 5 stars) and explainers on a wide variety of games, from AAA blockbusters to indie gems.
@@ -135,8 +131,9 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
  The above sites are all professional publications for game news and reviews. However, don't forget that there are tons of resources online to read user-created reviews too. Since opinions on games are subjective, you might prefer to read several reviews from everyday players in addition to, or instead of, professional articles.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### YouTube
 
  Anyone with an opinion and a YouTube channel can make a video reviewing a game. If you prefer to watch gameplay for a game instead of just reading about it, this is a great option. Chances are that you'll be able to find someone talking about the game you're interested in. Have a look at the[best YouTube game review channels](https://www.makeuseof.com/tag/youtube-channels-video-game-reviews/) to start.
@@ -144,17 +141,15 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 ### GameFAQS
 
 ![GameFAQs Review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/GameFAQs-Review.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  In addition to being one of[the best places for game walkthroughs](https://www.makeuseof.com/tag/find-best-game-walkthroughs/) , GameFAQs is a useful resource for user reviews of games too. Search for a game and check its**Reviews** tab to see what others thought about it.
 
  These reviews don't follow any particular pattern, so it's up to each person to discuss what they feel is important and structure the review accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Steam
 
 ![Steam Reviews](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/Steam-Reviews.png)
@@ -163,20 +158,21 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
  A lot of games feature "funny" reviews, which aren't useful, but you can filter some of those out with Steam's tools. Others can give awards for reviews, and the most helpful ones rise to the top. Even if you don't play on PC, checking Steam reviews for any game that you're interested in is a helpful resource.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Top Video Game Websites Worth Your Time
 
  The best video game websites aren't necessarily the ones you hear about often. Many game websites have major drawbacks—whether it's a lack of ethics, poorly justified review scores, or a radical bias. But these sites are great places to get your video game reviews, as well as some news.
 
  In addition to these options, it's a good idea to find some Twitch streamers that you enjoy. Game websites employ dozens of people, which makes it difficult to find a consistent voice. With a single streamer, you can understand their preferences and better see if a game is right for you. Plus, seeing a game in real-time for yourself always helps.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,4 +181,22 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-camera-woes-over-obs-now-functioning/"><u>[New] In 2024, Camera Woes Over OBS Now Functioning</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-guide-to-using-ps5-assist-controller/"><u>A Comprehensive Guide to Using PS5 Assist Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-about-baldurs-gate-3-dlc-and-downloads/"><u>All About Baldur's Gate 3: DLC & Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/anticipating-amds-rdna-35-tech-insights-and-timing/"><u>Anticipating AMD’s RDNA 3.5: Tech Insights & Timing</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-add-on-features-justifying-price-increase-for-switch/"><u>Are Add-On Features Justifying Price Increase for Switch?</u></a></li>
+<li><a href="https://games-able.techidaily.com/benefits-vs-pitfalls-in-mobile-playing/"><u>Benefits vs Pitfalls in Mobile Playing</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173660560-better-computing-awaits-update-with-newest-nvidia-drivers-now/"><u>Better Computing Awaits! Update with Newest Nvidia Drivers Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elite-portable-playstation-storage-best-external-units/"><u>Elite Portable PlayStation Storage Best External Units</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-livestreams-with-the-ultimate-virtual-camera-solutions-discover-top-manycam-substitutes/"><u>Enhance Your Livestreams with the Ultimate Virtual Camera Solutions - Discover Top ManyCam Substitutes!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-mystic-art-of-invisible-storytelling-on-snapchat/"><u>In 2024, The Mystic Art of Invisible Storytelling on Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionize-selfies-with-top-android-and-ios-face-modifiers-for-2024/"><u>Revolutionize Selfies with Top Android & iOS Face Modifiers for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/seamless-content-curation-with-youtubes-watch-later-feature/"><u>Seamless Content Curation with YouTube’s Watch Later Feature</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seo-for-podcasts-ultimate-guide-for-2024/"><u>SEO for Podcasts - Ultimate Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-dvd-shrink-issues-in-windows-1011-with-this-essential-guide/"><u>Solve DVD Shrink Issues in Windows 10/11 with This Essential Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-truth-behind-cryofuze-5s-ai-thermal-paste-unraveling-a-translation-mishap-by-cooler-master/"><u>The Truth Behind CryoFuze 5'S 'AI Thermal Paste': Unraveling a Translation Mishap by Cooler Master</u></a></li>
+</ul></div>
 

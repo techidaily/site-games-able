@@ -1,7 +1,7 @@
 ---
 title: PS5 Delights - Top EA Play Picks
-date: 2024-08-15T17:22:48.129Z
-updated: 2024-08-16T17:22:48.129Z
+date: 2025-01-15T16:05:42.625Z
+updated: 2025-01-16T21:53:06.294Z
 tags:
   - games
 categories:
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. FIFA 23
 
  Save money by buying the last FIFA game released and get it on EA Play. If you love soccer games and you’re tired of buying the same game every year with a different number on it, then go get FIFA through EA Play.
@@ -37,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  One of FIFA’s greatest appeals is its easy couch co-op system. It’s one of those games you should just have on your PS5 so you and your pals can have fun together. We placed it on this list as a good solution for multiplayer action for all soccer lovers.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. The Sims 4
 
  Thanks to EA Play, you can[get the Sims 4 free of charge](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) . It’s a relatively old game, released in 2014, but it remains evergreen thanks to its timeless style and all the infinite possibilities and playstyles you can have in it. The Sims 4 is one of the best life simulation games, with options that let you create a Sims dynasty and family line that can go on for as long as you have time to play.
@@ -49,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Need for Speed Heat
 
  You’ll find almost all the contemporary Need for Speed games available on EA Play membership, but if we had to choose only one, we’d pick Need for Speed Heat. It combines the cars and racing system of Payback and the police chases of Most Wanted ‘05 to create a unique experience.
@@ -60,13 +59,18 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Plants vs Zombies Garden Warfare 2
 
  The last thing people expected PopCap to pull off was an FPS game derived from the award-winning strategy game Plants vs Zombies. The original Garden Warfare was an unexpected hit FPS game when it came out. But the sequel builds on the original and improves the game with more characters, more content, and even a single-player mode.
 
  While level progression in the game might be tedious, and you would need a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Star Wars Jedi: Fallen Order
 
@@ -77,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
  This is definitely one of the more exciting adventure games on EA Play. In fact, we think this is the best single-player action-adventure game available on EA Play’s Play List for the PS5\. You should get it if you want an immersive single-player game with a challenging combat system, a well-written storyline, and a beautiful setting.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. UFC 3
 
  EA Sports UFC 3 is the prequel to EA Sports UFC 4, and it’s one of the most realistic combat games out there. If you don’t want the hack-and-slash hyper magic from games like Mortal Kombat but would like some challenging but realistic 1v1 combat, then this is what you should opt for.
@@ -87,23 +92,17 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  As long as you stay away from the micro-transactions (AKA Ultimate Team) part of this game, you will enjoy it if you love combat sports. This version also gets commentary from Snoop Dogg in addition to the usual Joe Rogan.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## EA Play Is $5 Per Month of Unlimited Fun
 
  EA Play is one of the best ways to save money on a PS5\. With EA Play, you get to play video games that could cost you thousands of dollars, all for $5/month. You can also use it as a great opportunity to test out games you were hoping to buy to see if it’s worth the money to you.
 
  Load up some cash to your PSN Wallet, add a card, and buy an EA Play membership at least once in your PS5’s history. You have only $5 to lose.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +111,22 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-shotsizesavvy-fine-tuning-your-social-media-content-for-instagram-for-2024/"><u>[New] ShotSizeSavvy Fine-Tuning Your Social Media Content for Instagram for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-flip-the-script-ios-method-to-reverse-vids/"><u>[Updated] 2024 Approved Flip the Script IOS Method to Reverse Vids</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-comical-creations-no-cost-memes-available-for-2024/"><u>[Updated] Comical Creations No Cost Memes Available for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-windows-10-must-have-techniques/"><u>[Updated] Navigating Windows 10 Must-Have Techniques</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-quintet-of-browser-novels/"><u>Explore: The Quintet of Browser Novels</u></a></li>
+<li><a href="https://discover-best.techidaily.com/free-ultimate-hd-media-player-download-enjoy-1080p-and-720p-high-definition-playback-on-your-computer/"><u>Free Ultimate HD Media Player Download: Enjoy 1080P & 720P High-Definition Playback on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-breakdown-your-high-tech-gaming-device-xbox-s/"><u>How to Breakdown Your High-Tech Gaming Device: Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-link-your-epic-games-and-steam-accounts/"><u>How to Link Your Epic Games and Steam Accounts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Identify some outdated drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-graphics-select-top-144hz-wide-displays/"><u>Maximize Graphics: Select Top 144Hz Wide Displays</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-version-of-metro-exodus-enhanced-ed-fixes-and-stability-issues/"><u>PC Version of Metro Exodus: Enhanced Ed. - Fixes & Stability Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/pitfalls-in-promoting-pay-for-performance-among-gaming-developers/"><u>Pitfalls in Promoting Pay-for-Performance Among Gaming Developers</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-slim-unboxed-vital-specifications-revealed/"><u>PS5 Slim Unboxed: Vital Specifications Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/simple-steps-to-enable-windows-11s-search-feature-in-task-manager/"><u>Simple Steps to Enable Windows 11'S Search Feature in Task Manager</u></a></li>
+</ul></div>
 

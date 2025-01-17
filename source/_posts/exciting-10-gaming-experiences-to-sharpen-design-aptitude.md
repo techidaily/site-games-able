@@ -1,7 +1,7 @@
 ---
 title: Exciting 10 Gaming Experiences to Sharpen Design Aptitude
-date: 2025-01-09T21:07:27.054Z
-updated: 2025-01-10T17:30:42.859Z
+date: 2025-01-15T23:30:54.311Z
+updated: 2025-01-16T20:34:57.252Z
 tags:
   - games
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/b6dbcc18e11dc426bd1e06a708ba47abaebc27e7b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1. Color
 
@@ -52,21 +56,17 @@ The game presents a gradient color wheel. There are six rounds:
 
  It’s a crushing reality to draw a box and find you were off by over 50px. Back to the drawing board for more practice.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3. I Love Hue
 
 ![I Love Hue app start page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-001.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![I Love Hue app game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-002.jpg)
 
 ![I Love Hue app game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-003.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -75,12 +75,16 @@ Close
  The game developers even released a sequel for I Love Hue called I Love Hue Too. Both games are fun and simple ways to test your color perception.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4. Can’t Unsee
 
 ![Can't Unsee design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cant-unsee-design-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is the design game for perfectionists. Can’t Unsee presents two UX/UI designs, and you must select which one is wrong.
 
@@ -92,6 +96,10 @@ Close
 
 ![Kolor design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kolor-design-game.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Kolor is another great color-matching game. It’s a simple premise: match the color to one of the options.
 
  This game is scored and timed, and with every few rounds, it increases in difficulty. If you’ve got a good eye for color, you’ll enjoy this game and score highly.
@@ -99,10 +107,6 @@ Close
 ## 6. It’s Centred That
 
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-001.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-002.jpg)
 
@@ -113,10 +117,6 @@ Close
  While there are plenty of design shortcuts to help you center elements in place, having a good eye for balance will help. It’s Centred That is an app that tests your designer’s eye.
 
  In ten levels, you’ll be asked if a black dot is central to the shape on which it's placed. Select the happy emoji if you think it is or the poop emoji if you think it isn’t. Keep going through the rounds and find your results. It’s a great practice for eye measurements in design.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7. Hex Invaders
 
@@ -131,20 +131,20 @@ Close
 ![Font Memory Game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/font-memory-game-design-game.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s everybody’s favorite card game—Snap—for typography enthusiasts. This game tests not only your creative knowledge of font recognition, but also your memory.
 
  Flip each card presenting a typographic example and match it with its partner. This game is low-stakes and a reminder to use some[games or apps to improve your memory](https://www.makeuseof.com/best-adult-memory-game-apps/) in your spare time, too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9. The Bézier Game
 
 ![The Bezier Game design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bezier-design-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you draw with the Bézier tool in Illustrator or other software, you’ll know that the best drawings use the least amount of nodes and steps. The Bézier Game is a fun game to test your Bézier skills.
 
@@ -154,15 +154,15 @@ Close
 
 ![Figma Ninja design game in Figma.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/figma-ninja-design-game.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This game is most interesting because it isn’t programmed like a game. There’s no animation or automation. Figma Ninja is an open Figma file where each page is a game screen; it has instructions on the pages, and you move through each page yourself.
 
  The aim of Figma Ninja is to improve your Figma skills and shortcut knowledge. There’s no scoring system or incorrect buzzer when you make a mistake. It’s a self-improvement game.
 
  Figma Ninja has turned design into a game while retaining the background of a design program. Read our[beginner’s guide to Figma](https://www.makeuseof.com/how-to-use-figma-beginners-guide/) if you want a level playing field before playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11. Kerntype
 
@@ -180,21 +180,17 @@ Close
 
  It’s a low-stakes game with no points system or timer. You can get as many wrong as there are available, but it’s better for your creative design skills to think about the HEX code and what each part means for colors.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 13. Dudel Draw
 
 ![Dudel Draw app home page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudle-draw-app-001.jpg)
 
 ![Dudel Draw app with doodle on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudel-draw-app-002.jpg)
 
-![Dudel Draw app game options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudel-draw-app-003.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Dudel Draw app game options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudel-draw-app-003.jpg)
 
 Close
 
@@ -203,6 +199,10 @@ Close
  You can rotate or flip the blob to accentuate your creative mind. After the day’s doodle, you can compare with friends too. Everyone gets the same blob shape daily. If you don’t want to partake in the daily challenge, Dudel Draw also offers practice shapes just for fun.
 
  If the competition of Dudel Draw isn't enough for you, you could also enter[creative design challenges to improve your design skills](https://www.makeuseof.com/design-challenges-to-boost-creativity/) and confidence.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Gamify Your Creative Design Skills
 
@@ -223,24 +223,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-exploring-nikon-d850-vs-d7500-features/"><u>[Updated] In 2024, Exploring Nikon D850 Vs D7500 Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/bypassing-itunes-restrictions-seamless-drm-stripping-and-media-format-changing-techniques/"><u>Bypassing iTunes Restrictions: Seamless DRM Stripping & Media Format Changing Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/claiming-your-money-back-from-xbox-game-bets/"><u>Claiming Your Money Back From Xbox Game Bets</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-access-to-nostalgia-classic-games-new-tech-pc/"><u>Effortless Access to Nostalgia: Classic Games, New Tech (PC)</u></a></li>
-<li><a href="https://win-web3.techidaily.com/expert-guide-detecting-faulty-memory-sections-with-ease-unveiled-by-yl-computing/"><u>Expert Guide: Detecting Faulty Memory Sections with Ease, Unveiled by YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/highlights-in-led-technology-year-2024/"><u>Highlights in LED Technology: Year 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-15-funny-jokes-on-tiktok-for-giggles/"><u>In 2024, 15 Funny Jokes on TikTok for Giggles</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Phone without Any Data Loss</u></a></li>
-<li><a href="https://games-able.techidaily.com/level-up-challenge-the-best-terminal-games-on-linux/"><u>Level Up Challenge: The Best Terminal Games on Linux</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-lockdown-mode-implement-passcode-on-nintendo-switch-console/"><u>Master Lockdown Mode: Implement Passcode on Nintendo Switch Console</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/maximize-conversions-with-cutting-edge-cookiebot-features/"><u>Maximize Conversions with Cutting-Edge Cookiebot Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-harmony-assembling-android-devices-and-controllers/"><u>Perfect Harmony: Assembling Android Devices and Controllers</u></a></li>
-<li><a href="https://games-able.techidaily.com/pulsar-pioneer-top-brand-revelations-in-pcs/"><u>Pulsar Pioneer: Top Brand Revelations in PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-on-high-performance-laptops-during-october-2024-prime-deals-insider-tips-from-zdnet/"><u>Save Big on High-Performance Laptops During October 2024 Prime Deals | Insider Tips From ZDNET</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/h-cinematography-best-stabilizers-listed/"><u>Smooth Cinematography Best Stabilizers Listed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-journey-to-exceptional-educational-content-creating-impactful-vids-on-youtube-for-2024/"><u>The Journey to Exceptional Educational Content Creating Impactful Vids on YouTube for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-gamers-toolkit-razers-v4-unveiled/"><u>The Ultimate Gamer's Toolkit - Razer's V4 Unveiled</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-understanding-imo-messengers-strengths-and-weaknesses/"><u>The Ultimate Guide to Understanding Imo Messenger's Strengths & Weaknesses</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncover-the-11-superb-free-word-puzzle-apps-today/"><u>Uncover the 11 Superb Free Word Puzzle Apps Today</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-clout-not-content-efficient-video-length-reduction/"><u>[New] In 2024, Cutting Clout, Not Content Efficient Video Length Reduction</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-discover-your-ideal-screen-recorder-pc-and-mac-edition/"><u>[New] In 2024, Discover Your Ideal Screen Recorder - PC & Mac Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photo-framing-made-easy-leading-apps-and-sites-reviewed/"><u>[New] Photo Framing Made Easy Leading Apps and Sites Reviewed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unique-conversation-starters-for-streaming/"><u>[Updated] 2024 Approved Unique Conversation Starters for Streaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-eternal-memory-keepsake-blend-free-cloud-services-with-elite-charged-spaces/"><u>[Updated] In 2024, Eternal Memory Keepsake Blend Free Cloud Services with Elite Charged Spaces</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-time-loop-video-recovery-explained/"><u>[Updated] YouTube's Time Loop Video Recovery Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-classic-psp-gaming-on-ios-devices/"><u>Effortless Classic PSP Gaming on iOS Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-graphics-performance-elevate-fps-in-windows/"><u>Enhance Graphics Performance, Elevate FPS in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-simplify-your-youtube-presence-with-flawless-shorts-thumbnails/"><u>In 2024, Simplify Your YouTube Presence with Flawless Shorts Thumbnails</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-error-during-oculus-setup/"><u>Overcoming Error During Oculus Setup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionizing-home-cinema-latest-on-samsungs-ubd-k850u-for-2024/"><u>Revolutionizing Home Cinema Latest on Samsung’s UBD-K850U for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-duos-journey-two-player-minecraft-on-switch/"><u>The Ultimate Duo's Journey: Two-Player Minecraft on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-gamers-need-to-know-why-macs-cant-match-pc-performance/"><u>What Gamers Need to Know: Why Macs Can't Match PC Performance</u></a></li>
 </ul></div>
 

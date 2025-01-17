@@ -1,7 +1,7 @@
 ---
 title: Is Nintendo Switch Online Expansion Pack Worth Buying?
-date: 2024-08-15T17:25:50.481Z
-updated: 2024-08-16T17:25:50.481Z
+date: 2025-01-14T20:56:36.771Z
+updated: 2025-01-16T21:32:24.292Z
 tags:
   - games
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 
  See our[full overview of Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) for more details.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is the Switch Online Expansion Pack?
 
  The Expansion Pack includes everything from the base Switch Online plan, plus some additional benefits. It's available as a separate subscription, meaning that the core Switch Online service is still available and unchanged.
@@ -40,12 +37,13 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 
  Like the existing NES and SNES libraries included with Switch Online, the N64, Genesis, and GBA titles include[quality-of-life emulation benefits](https://www.makeuseof.com/pros-cons-playing-video-games-emulator/) . These include save states, which let you stop and pick up from anywhere (not just where the original game had save points).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Nintendo Switch Expansion Pack: Included Games
 
  Your interest in the Expansion Pack will likely depend on how many of its games you want to play, so let's list those next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Games Included in the N64 Switch Online Library
 
@@ -84,13 +82,18 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
  Any games that support local multiplayer, such as Mario Tennis and Star Fox 64, are also playable online with friends. You can't matchmake with random opponents, though.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Games Included in the Genesis/Mega Drive Switch Online Library
 
  The Switch Expansion Pack also lets you play dozens of classic Sega Genesis titles. There are too many to list here; see[Nintendo's Genesis Switch Online page](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/) for a full list.
 
  Interestingly, several of these games were never officially released for the Genesis in North America. As with the N64 titles, any multiplayer-enabled games (including Gunstar Heroes and Streets of Rage 2) are playable with friends online, but there are no public matches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Games Included in the Game Boy Advance Switch Online Library
 
@@ -122,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 
  If you cancel your subscription down the road, you'll retain some items earned for your own home from the DLC, but will lose access to the archipelago where the main vacation home designing takes place. Check out our[tips for New Horizons](http://www.makeuseof.com/tag/animal-crossing-new-horizons-tips-tricks/) to get the most from the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Splatoon 2: Octo Expansion
 
  This single-player add-on for Splatoon 2 allows you to play as an Octoling and take on dozens of missions in a mysterious underground subway.
@@ -130,9 +137,6 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 
  The Octoling Expansion typically costs $19.99\. If you let your Switch Online subscription lapse, you won't be able to access this DLC until you either resubscribe or purchase it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Mario Kart 8 Deluxe: Booster Course Pass
 
  Instead of announcing the next Mario Kart game, in February 2022, Nintendo announced a huge expansion to Mario Kart 8 Deluxe in the form of the Booster Course Pass. This brings 48 additional courses into the Switch game. Most are from previous Mario Kart titles—including the mobile Mario Kart Tour—but a few are all-new. Nintendo has also added a handful of new racers with the DLC.
@@ -148,8 +152,9 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
  To sign up, open the**Nintendo Switch Online** tab at the bottom of your Switch's home screen. You can also visit the[Switch Online membership page](https://ec.nintendo.com/US/en/membership) to sign up using your computer. If you've already paid for a Switch Online membership annually, you can get a prorated discount when you upgrade to the Expansion Pack, based on the time remaining in your plan.
 
 ![Switch Online Expansion Pack July 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Switch-Online-Expansion-Pack-July-2022.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New Nintendo Switch Replica Controllers
@@ -157,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
  Note that alongside the Expansion Pack, Nintendo also offers replica[N64](https://store.nintendo.com/nintendo-64-controller.html) and[Genesis/Mega Drive](https://store.nintendo.com/sega-genesis-control-pad.html) controllers. Aside from being rechargeable instead of wired, and including Switch controller buttons like Home and Capture, they're almost identical to the original versions.
 
  These cost $49.99 each, and you must subscribe to any Switch Online plan to purchase them. However, both controllers regularly sell out due to high demand and it's not always clear when more stock will arrive. They're not required to play the new games, but do make it a more authentic experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is the Switch Online Expansion Pack Worth It?
 
@@ -170,10 +179,6 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 
  Similarly, if you're primarily looking for the Sega Genesis games, you can get more retro titles without a subscription by buying[Sega Genesis Classics](https://www.nintendo.com/games/detail/sega-genesis-classics-switch/) for $30 on the eShop. This doesn't include every game that Switch Online does, but has far more games overall. This compilation also packs in the same convenience features as Switch Online, like rewinding and online multiplayer. It also goes on sale sometimes, offering more value if you're willing to wait for a price drop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### If You Primarily Want N64 Games or GBA Games
 
  The Expansion Pack has more value if you want access to the N64 library. Unless you still have a Wii U and bought N64 games before the Wii U eShop closed, there's no easy way to legally play these games on a modern system—making it a more attractive deal.
@@ -185,17 +190,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The same is largely true for the GBA titles. If you're a fan of Zelda, Metroid, Mario, or WarioWare and have never played the GBA entries in these franchises, there's enough value here to be worth a year's subscription at least.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### If You Want to Play All the DLCs
 
  If you plan to play the DLCs for Splatoon 2, Mario Kart 8 Deluxe, and Animal Crossing: New Horizons, the Expansion Pack has much more value. Those three packs are valued at $70 total, so if you pay for a year's worth of the service to experience them all, you've gotten a deal.
 
  However, keep in mind that for the Animal Crossing and Mario Kart expansions, you'll probably want ongoing access. The Splatoon 2 DLC isn't something you'll worry about much after clearing it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## The Expansion Pack's Price Is Too High
 
  The Expansion Pack being poorly priced compounds its other problems.[PlayStation Plus Essential and Xbox Live Gold each](https://www.makeuseof.com/tag/xbox-live-versus-playstation-plus-get/) cost just $10 more ($60/year), yet they offer free games, deeper discounts during sales, and much better online infrastructure. Switch Online, meanwhile, offers a pitiful excuse for party chat with its janky app implementation, and has additional classic games arrive at a glacial pace.
@@ -204,23 +207,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  We'd recommend finding a few friends and[subscribing to the shareable plan](https://www.makeuseof.com/tag/save-premium-subscriptions-9-shareable-accounts/) . That way, you can drop the price down to as low as $10/person/year, which negates some of the above worries.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Switch Online Expansion Pack: Decent, but Expensive
 
  The Switch Online Expansion Pack adds more classic games to the service, but at a high cost. You can get individual DLC and the Genesis games cheaper by purchasing them outright, and the Switch's N64 emulation isn't the best way to play those games. However, there's still enough here to make it worth the price for some, including some solid Game Boy Advance games.
 
  We'd recommend finding a few friends to bring down the cost if you don't have another way to play these games. That's just one method of spending less on Switch games.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -229,4 +226,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-amplify-your-brands-voice-the-power-of-shaped-videos/"><u>[Updated] 2024 Approved Amplify Your Brand’s Voice The Power of Shaped Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-dynamic-duels-and-daring-deeds-top-10-gaming-highlights/"><u>[Updated] In 2024, Dynamic Duels & Daring Deeds Top 10 Gaming Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensible-guide-for-itchios-great-gaming-finds/"><u>A Comprehensible Guide for Itch.io’s Great Gaming Finds</u></a></li>
+<li><a href="https://games-able.techidaily.com/achievement-arenas-champion-clusters/"><u>Achievement Arenas: Champion Clusters</u></a></li>
+<li><a href="https://games-able.techidaily.com/akkos-mod007b-keyboard-elevating-gaming-performance/"><u>Akko's MOD007B Keyboard - Elevating Gaming Performance</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-the-marketplace-where-to-invest-in-monetized-channels/"><u>Decoding the Marketplace Where to Invest in Monetized Channels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-obs-streaming-windows-and-mac-guide/"><u>In 2024, OBS Streaming [Windows and Mac Guide]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-solution-dealing-with-enigma-encased-system-crashes/"><u>PC Gaming Solution: Dealing with Enigma-Encased System Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172605573-step-up-your-game-designs-with-wide-cabinetry-options/"><u>Step Up Your Game Designs with Wide Cabinetry Options</u></a></li>
+</ul></div>
 

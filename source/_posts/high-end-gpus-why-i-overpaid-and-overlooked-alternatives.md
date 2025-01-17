@@ -1,7 +1,7 @@
 ---
 title: "High-End GPUs: Why I Overpaid & Overlooked Alternatives"
-date: 2024-08-22T22:20:24.526Z
-updated: 2024-08-23T22:20:24.526Z
+date: 2025-01-14T20:23:56.673Z
+updated: 2025-01-16T23:40:36.436Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 ---
 
 ## High-End GPUs: Why I Overpaid & Overlooked Alternatives
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 
  Despite launching in 2022, the RTX 4090 is still the world's fastest graphics card as of early 2024\. Although I enjoyed using it to play AAA games over the past year and a half, I still regret buying it for a few reasons.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 1 My GPU Usage Is Far From 100 Percent
 
  My biggest issue since upgrading to the RTX 4090 is that my graphics card is often not fully utilized. And that's due to a couple of factors.
@@ -47,13 +47,15 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 Power Consumption Is Very High
 
  The RTX 4090 is a monster of a GPU that consumes a lot of power. The Founders Edition (reference) version of the RTX 4090 has a[TDP (Thermal Design Power)](https://www.makeuseof.com/tag/thermal-design-power-technology-explained/) of 450W. This means the GPU can consume up to 450W under general usage.
@@ -65,15 +67,17 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 ![a triple-monitor PC gaming setup with Cyberpunk 2077 running on the main display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/04/a-triple-monitor-pc-gaming-setup-with-cyberpunk-2077-running-on-the-main-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  That said, it's worth noting that power draw isn't a major issue when I'm playing less GPU-demanding games like Valorant or Fortnite because the GPU usage is typically low.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 Too Expensive for Diminishing Returns
 
  Lastly, it comes down to the money I spent on this graphics card. NVIDIA launched the RTX 4090 with an MSRP of $1,599, which is already way too expensive for a graphics card.
@@ -84,14 +88,11 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 
  So, if you're on the fence about buying an RTX 4090, think about the games you play and the resolution you play at because I don't want you to make the same mistake as I did. I wouldn't recommend buying an RTX 4090 if you don't plan to play AAA games at 4K resolution regularly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +101,22 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-prime-performance-best-windows-player-apps-reviewed-for-2024/"><u>[New] Prime Performance Best Windows Player Apps Reviewed for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722891397367-amazons-prime-day-hottest-and-cheapest-technology-discounts/"><u>Amazon's Prime Day: Hottest & Cheapest Technology Discounts</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-s17e-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo S17e Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-virtual-disks-not-starting/"><u>Corrective Measures for Virtual Disks Not Starting</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-battles-selecting-the-best-game-device/"><u>Digital Battles: Selecting the Best Game Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-creativity-the-essential-16-port-dream-dock-all-artists-need-insights-from-zdnet/"><u>Elevate Your Creativity: The Essential 16-Port Dream Dock All Artists Need - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-with-friends-and-strangers-live-xbox-content-sharing-on-discord/"><u>Engage with Friends and Strangers: Live Xbox Content Sharing on Discord</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enter-the-world-of-funimate-with-ease/"><u>Enter the World of Funimate with Ease</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-a1-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo A1 5G FRP Locks</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-look-what-sets-xbox-game-pass-apart/"><u>Inside Look: What Sets Xbox Game Pass Apart</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-steam-restart-processes/"><u>Simplified Steam Restart Processes</u></a></li>
+<li><a href="https://games-able.techidaily.com/spectacular-led-lighting-innovations/"><u>Spectacular LED Lighting Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepping-up-storage-steam-decks-sd-journey/"><u>Stepping Up Storage: Steam Deck's SD Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gaming-frontier-selecting-best-pc-titles-google-play-beta/"><u>The Gaming Frontier - Selecting Best PC Titles (Google Play Beta)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/where-can-you-enjoy-free-films-for-kids-check-out-our-expertly-chosen-best-6-kid-friendly-streaming-sites/"><u>Where Can You Enjoy Free Films for Kids? Check Out Our Expertly Chosen Best 6 Kid-Friendly Streaming Sites!</u></a></li>
+</ul></div>
 

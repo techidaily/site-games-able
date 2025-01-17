@@ -1,7 +1,7 @@
 ---
 title: Unleashing the Potential of ChatGPT as an Interactive Story Game
-date: 2025-01-06T00:59:50.935Z
-updated: 2025-01-10T20:36:58.025Z
+date: 2025-01-14T21:13:16.337Z
+updated: 2025-01-16T16:22:26.631Z
 tags:
   - games
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
@@ -83,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
 > 4\. Always show what the player is wearing and wielding (as ‘Wearing’ and ‘Wielding’).
@@ -116,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 > 15\. The player can not spend more than the total value of ‘Gold’.
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Craft the Story, Setting, and NPCs
 
@@ -173,6 +161,10 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -187,16 +179,24 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
@@ -318,16 +318,22 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-premium-twelve-full-frame-video-tech-lists/"><u>[New] Premium Twelve Full Frame Video Tech Lists</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamline-editing-how-to-load-music-in-inshot/"><u>[New] Streamline Editing How to Load Music in InShot</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-fantasy-villas-with-oriental-elegance-mc-edition/"><u>[Updated] Fantasy Villas with Oriental Elegance, MC Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-in-game-footage-secrets-of-the-skilled-videographer/"><u>2024 Approved In-Game Footage Secrets of the Skilled Videographer</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-overheat-proper-maintenance-during-gaming-sessions/"><u>Avoiding Overheat: Proper Maintenance During Gaming Sessions</u></a></li>
-<li><a href="https://games-able.techidaily.com/become-a-streaming-pro-mastering-live-xbox-broadcasts-in-discord/"><u>Become a Streaming Pro: Mastering Live Xbox Broadcasts in Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehending-xbox-protective-sheets/"><u>Comprehending Xbox Protective Sheets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-find-and-install-canon-mx-series-mx492-printer-drivers-on-your-windows-pc-tips-and-tricks/"><u>How to Find & Install Canon MX Series (MX492) Printer Drivers on Your Windows PC - Tips & Tricks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-11-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus 11 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/microtransactions-in-premium-gaming-rationale/"><u>Microtransactions in Premium Gaming - Rationale?</u></a></li>
-<li><a href="https://games-able.techidaily.com/restricting-windows-11-game-bar-surveillance/"><u>Restricting Windows 11 Game Bar Surveillance</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-step-by-step-to-faster-tiktok-videos/"><u>[New] 2024 Approved Step-by-Step to Faster TikTok Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-craft-a-closer-vision-5-easy-ways-to-enhance-minecraft-screens-for-2024/"><u>[New] Craft a Closer Vision 5 Easy Ways to Enhance Minecraft Screens for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-unlink-lively-logos-from-your-profile-mobilepc-for-2024/"><u>[Updated] How to Unlink Lively Logos From Your Profile (Mobile/PC) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-preparing-your-pc-and-room-for-the-ultimate-vr-for-2024/"><u>[Updated] Preparing Your PC and Room for the Ultimate VR for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-football-vids-premier-insights-into-youtube-tracks/"><u>2024 Approved Football Vids Premier Insights Into YouTube Tracks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-note-30i-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Note 30i to Roku | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/easily-outsmart-xbox-game-pass-cost-climb-temporarily/"><u>Easily Outsmart Xbox Game Pass Cost Climb, Temporarily</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-to-new-heights-with-big-box-cabinetry/"><u>Elevate to New Heights with Big Box Cabinetry</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-the-go-nintendos-new-era/"><u>Gaming on the Go, Nintendo's New Era?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-6s-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 6s</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-it-time-for-graphics-cards-to-get-more-expensive/"><u>Is It Time for Graphics Cards to Get More Expensive?</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-performance-with-these-8-cpu-cooler-factors/"><u>Maximizing Performance with These 8 CPU Cooler Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgiaport-compact-classic-console-experience/"><u>NostalgiaPort: Compact, Classic Console Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/optic-oscillations-vs-mechanical-motions-in-gaming/"><u>Optic Oscillations Vs. Mechanical Motions in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-joy-con-jitter-on-xbox-one/"><u>Overcoming Joy-Con Jitter on Xbox One</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-magic-behind-immersive-world-creation/"><u>The Magic Behind Immersive World Creation</u></a></li>
 </ul></div>
 

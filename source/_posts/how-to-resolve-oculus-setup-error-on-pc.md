@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Oculus Setup Error on PC
-date: 2024-08-15T17:28:16.578Z
-updated: 2024-08-16T17:28:16.578Z
+date: 2025-01-15T18:49:44.427Z
+updated: 2025-01-16T22:39:47.517Z
 tags:
   - games
 categories:
@@ -25,18 +25,16 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ## 2\. Run the Oculus Installer File With Administrative Rights
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the**OculusSetup.exe** file and selecting**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the**Use a proxy server** checkbox within Internet Properties. Our[guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
 
@@ -45,25 +43,12 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
  Real-time antivirus scanning can cause the “we encountered an error” issue to occur. Temporarily disabling antivirus protection on your PC will ensure it can’t block the Oculus software installation. This[how-to-turn-off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) article includes instructions for disabling the Microsoft Defender antivirus.
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off the Windows Firewall
 
@@ -72,8 +57,9 @@ Key features:
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this[how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Install .NET Framework 4.6.1
 
  It has also been confirmed by Oculus users that installing .NET Framework 4.6.1 can fix the “we encountered an error” installation issue. This is how you can install .NET Framework 4.6.1:
@@ -81,18 +67,15 @@ Key features:
 1. Open this[Microsoft .NET Framework 4.6.1](https://www.microsoft.com/en-US/download/details.aspx?id=49981) webpage.
 2. Click the**Download** option for .NET Framework 4.6.1.  
 ![The Download button for .NET Framework 4.6.1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/download-button-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 3. Bring up the directory containing the downloaded .NET Framework setup file.
 4. Double-click the**NDP461-KB3102438-Web.exe** file to bring up the setup window.
 5. Select to install .NET Framework 4.6.1 if you need to.
 
  The setup wizard will say if .NET Framework 4.6.1 or later is installed on your PC. If you don’t need to install that framework, try applying the resolution below or others specified here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Remove Leftovers From a Previous Oculus App Installation
 
@@ -111,20 +94,18 @@ C:\Users\<User Folder>\AppData`
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this[Meta download page](https://www.meta.com/us/en/quest/setup/) . Then click**Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install the Oculus Windows Software
 
  Many users have resolved the “we encountered an error” Oculus app installation issue by applying those potential solutions. So, there’s a good chance one will fix the Oculus app not installing on your Windows PC. Then you get back to playing all your favorite Rift PC VR games again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +114,18 @@ C:\Users\<User Folder>\AppData`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/achieving-quiet-play-managing-xbox-alerts/"><u>Achieving Quiet Play: Managing Xbox Alerts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-gear-analysis-by-toms-equipment-experts/"><u>Advanced Gear Analysis by Tom's Equipment Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-impact-of-mechanical-keyboards-on-typing-speed/"><u>Assessing the Impact of Mechanical Keyboards on Typing Speed</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-data-disasters-with-steam-image-storage/"><u>Avoid Data Disasters with Steam Image Storage</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-system-hush-your-xbox-series-xs-vibrations/"><u>Beat the System: Hush Your Xbox Series X's Vibrations</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-8-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 8 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/jointly-listening-to-songs-on-spotify-feasible-or-not/"><u>Jointly Listening to Songs on Spotify: Feasible or Not?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-voice-command-functionality-on-csgo-with-these-easy-fixes/"><u>Restore Your Voice Command Functionality on CS:GO with These Easy Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167065620-the-small-vs-big-pc-debate-make-an-informed-decision-today/"><u>The Small Vs. Big PC Debate: Make an Informed Decision Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-exercise-routine-with-airpods-pros-latest-feature-in-ear-fitness-coaching-and-real-time-heart-monitoring-zdnet-news/"><u>Transform Your Exercise Routine with AirPods Pro's Latest Feature: In-Ear Fitness Coaching & Real-Time Heart Monitoring | ZDNET News</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-apex-legends-comprehensive-solutions-to-tackle-the-leaf-error-code/"><u>Ultimate Fix for Apex Legends : Comprehensive Solutions to Tackle the 'Leaf' Error Code</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: YouTube Unveils New Mini-Games; Learn to Play
-date: 2024-08-15T17:24:48.085Z
-updated: 2024-08-16T17:24:48.085Z
+date: 2025-01-13T22:25:11.787Z
+updated: 2025-01-17T00:59:29.121Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/a0065ec58e14aa7a294fd33338e90d4d15fa577ac
 ---
 
 ## YouTube Unveils New Mini-Games; Learn to Play
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -50,9 +54,6 @@ Here are all the games accessible in the YouTube Playables section:
 
  Many of these games have been developed by well-known game developers, such as FRVR, Nitro Games, Vodoo, Aim Lab, Famobi, and Arkadium. And since some of these developers are popular for their free HMTL5 games, you can actually play some of the games listed above outside YouTube Playables through the game developer’s official website or through third-party sites like[HTML5 Games](https://html5games.com/) .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Who Can Play Playables on YouTube?
 
  Playables is an experimental feature within YouTube. Since[only YouTube Premium members can test experimental features](https://www.makeuseof.com/youtube-premium-test-experimental-features/) , the mini-games are only available to YouTube Premium subscribers. This also means that those with YouTube Kids accounts cannot access this section despite the child-friendly nature of all the mini-games within the collection.
@@ -69,24 +70,13 @@ Here are all the games accessible in the YouTube Playables section:
 
 ![YouTube You tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-you-section.jpg)
 
-![YouTube Settings menu with experimental features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/3-youtube-settings-menu.jpg)
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![YouTube Settings menu with experimental features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/3-youtube-settings-menu.jpg)
+
 ![the option to try out YouTube Playables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/4-try-out-youtube-playables-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -94,45 +84,39 @@ Close
 
 ![YouTube compass icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-compass-icon-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Mobile explore section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/2mobile-explore-section.jpg)
 
 ![YouTube playable games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/22youtube-playable-games.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![YouTube homepage scrolling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/403399801_6992387144163435_8787378799009490497_n-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  Alternatively, you can simply keep scrolling through the YouTube homepage past**Shorts** and**Breaking news** until you see the**Playables on YouTube** section. You can then click any of the 40 mini-games available to start playing.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing YouTube Playables
 
  Just like YouTube, Netflix and TikTok have also added mini-games as part of their platforms. What YouTube does differently is requiring no download or installation to play its mini-games. This level of convenience could attract more casual gamers to YouTube, which may boost user engagement and time spent on the platform.
 
  Depending on how Playables perform, we may see more platforms implementing mini-games into their services. Or the experiment could fail miserably.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,4 +125,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-maximizing-your-platforms-posting-tiktok-content-on-twitter/"><u>[New] In 2024, Maximizing Your Platforms Posting TikTok Content on Twitter</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-15-youtube-recording-software-for-gamers/"><u>[New] Top 15 YouTube Recording Software for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-going-back-in-time-your-android-movie-method/"><u>[Updated] Going Back in Time Your Android Movie Method</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-strategies-for-youtube-to-mpeg-conversion/"><u>[Updated] Top 10 Strategies for YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-matches-free-and-paid-ultra-hd-playback-tools-for-windows-macos/"><u>2024 Approved Ideal Matches Free & Paid Ultra HD Playback Tools for Windows, macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-your-xbox-controllers-energy-efficiency/"><u>Boosting Your Xbox Controller's Energy Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-gamepad-and-smartphone-through-bluetooth/"><u>Bridge Gamepad and Smartphone Through Bluetooth</u></a></li>
+<li><a href="https://games-able.techidaily.com/calm-gaming-tame-your-xbox-series-vibration/"><u>Calm Gaming: Tame Your Xbox Series Vibration</u></a></li>
+<li><a href="https://games-able.techidaily.com/chdman-technique-optimizing-old-game-isos-size-and-performance/"><u>ChDMan Technique: Optimizing Old Game ISOs Size & Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-value-your-essential-guide-to-vr-headsets/"><u>Choosing Value: Your Essential Guide to VR Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/color-me-inspired-tecnos-smartphone-revamp-for-ifa-2023/"><u>Color Me Inspired: Tecno’s Smartphone Revamp for IFA 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-a-neural-network-model-inversion-attack-expose-information-through-your-chatbot/"><u>How Does a Neural Network Model Inversion Attack Expose Information Through Your Chatbot?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-lava-blaze-2-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Lava Blaze 2 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/parrots-next-gen-ar-drone-evaluation/"><u>Parrot's Next-Gen AR Drone Evaluation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplifying-multi-bluetooth-speaker-setup-uniting-your-audio-devices/"><u>Simplifying Multi-Bluetooth Speaker Setup: Uniting Your Audio Devices</u></a></li>
+</ul></div>
 

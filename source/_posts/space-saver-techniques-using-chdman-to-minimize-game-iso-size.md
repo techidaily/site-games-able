@@ -1,7 +1,7 @@
 ---
 title: "Space-Saver Techniques: Using CHDMAN to Minimize Game ISO Size"
-date: 2025-01-07T23:08:57.520Z
-updated: 2025-01-11T03:03:27.176Z
+date: 2025-01-13T20:50:01.382Z
+updated: 2025-01-16T23:23:37.372Z
 tags:
   - games
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is CHDMAN?
 
  MAME's Compressed Hunks of Data (CHD) manager, or "CHDMAN" for short, allows you to store the files of a ROM in a single compressed archive. Apart from saving space, this can also simplify the management of multi-file ROMs, like optical media backups consisting of a game's data track and many more audio tracks for its music.
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 * IMG.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Compress Your ISOs With CHDMAN
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 ![A screenshot of a BIN and CUE ROM image from the File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bin-and-cue-in-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run Windows CMD or PowerShell. Then, move to the folder with your game's files with the Change Directory (CD) command:
@@ -75,10 +71,6 @@ Our command was:
 
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To compress your game with CHDMAN to CHD format, use the following:
 
 `chdman.exe createcd -i "ROM_YOU_WANT_TO_COMPRESS.CUE" -o "FILENAME_OF_COMPRESSED.CHD"`
@@ -89,6 +81,10 @@ Our command was:
 `
 
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
 
@@ -101,6 +97,10 @@ Our command was:
 ## What Else Should You Know About CHDs?
 
  Knowing how to compress your large ROMs to leaner CHD files is our target in this article. Still, the following might be helpful if you decide to use that file format for your emulated games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Which Emulators Support CHDs?
 
@@ -133,10 +133,6 @@ Our command was:
 * Get info about CHD files by using the**chdman info -i "FILENAME.chd"** prompt.
 * Check CHD files by using the**chdman verify -i "FILENAME.chd"** prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Can You Decompress CHDs?
 
  Decompressing CHDs is almost the reverse of how you compress them. Since the format supports optical media and HDD backups, you must customize the command you'll use according to the media you're dealing with.
@@ -150,6 +146,10 @@ Our command was:
  You don't have to specify the BIN file; CHDMAN creates it automatically using the same name used for the CUE file. To extract compressed HDD backups, swap "extractcd" with "extracthd" as follows:
 
 `chdman.exe extracthd -i "INPUT.chd" -o "OUTPUT.IMG"`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Storage, More Gaming
 
@@ -172,17 +172,14 @@ Our command was:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-sky-high-quality-with-your-iphone-camera-essential-tips-top-8/"><u>[New] Sky-High Quality with Your iPhone Camera Essential Tips (Top 8)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-reimagining-streaming-experience-beyond-manycam/"><u>[Updated] 2024 Approved Reimagining Streaming Experience Beyond ManyCam</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-methods-for-rolling-macos-sierra-back-to-el-capitan/"><u>2024 Approved Methods for Rolling MacOS Sierra Back to El Capitan</u></a></li>
-<li><a href="https://games-able.techidaily.com/adapting-to-change-how-steams-ai-rules-transform-gaming/"><u>Adapting to Change: How Steam's AI Rules Transform Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/backwards-compatibility-for-sonys-gaming-generation-shift/"><u>Backwards Compatibility for Sony's Gaming Generation Shift</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/captivate-crowds-secrets-to-screen-collaboration-via-social-media-for-2024/"><u>Captivate Crowds Secrets to Screen Collaboration via Social Media for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-high-memory-usage-of-roblox-app-on-mobile-phones/"><u>Combatting High Memory Usage of Roblox App on Mobile Phones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-hero5-a-comprehensive-footage-study-for-2024/"><u>GoPro Hero5 A Comprehensive Footage Study for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-the-minecraft-launcher-error-0x803f8001-in-windows-11-and-10/"><u>How to Fix the Minecraft Launcher Error 0X803f8001 in Windows 11 and 10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-xbox-s-controller-links-at-all-times/"><u>Secure Xbox S Controller Links at All Times</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ate-9-free-youtube-channel-branding-solutions/"><u>Ultimate 9 Free YouTube Channel Branding Solutions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-transforming-srt-files-into-text-a-speedy-expertise-guide/"><u>[New] Transforming SRT Files Into Text A Speedy Expertise Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-latency-issues-with-simple-tweaks-for-chromecast-audio-devices/"><u>Eliminate Latency Issues with Simple Tweaks for Chromecast Audio Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-artificial-intelligence-enhances-nvidias-dlss-technology/"><u>How Artificial Intelligence Enhances Nvidia’s DLSS Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-the-secure-ways-to-disconnect-from-your-ps5/"><u>Learn the Secure Ways to Disconnect From Your PS5</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-smooth-sailing-the-top-free-online-video-stabilization-software/"><u>New In 2024, Smooth Sailing The Top Free Online Video Stabilization Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/prevent-xbox-s-controller-disconnects/"><u>Prevent Xbox S Controller Disconnects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ps5xbox-series-x-the-elite-tvs-for-gamers/"><u>PS5/Xbox Series X The Elite TVs for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-gaming-experience-on-iosandroid-using-steam-link/"><u>Seamless Gaming Experience on iOS/Android: Using Steam Link</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-altering-the-display-language-on-your-windows-7-system/"><u>Step-by-Step Guide: Altering the Display Language on Your Windows 7 System</u></a></li>
 </ul></div>
 

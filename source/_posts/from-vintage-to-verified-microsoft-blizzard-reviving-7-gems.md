@@ -1,7 +1,7 @@
 ---
 title: "From Vintage to Verified: Microsoft, Blizzard - Reviving 7 Gems"
-date: 2024-08-15T17:22:47.051Z
-updated: 2024-08-16T17:22:47.051Z
+date: 2025-01-13T17:23:00.203Z
+updated: 2025-01-16T16:03:51.182Z
 tags:
   - games
 categories:
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
 
  Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of[the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Spyro the Dragon
 
  It’s relatively safe to say that most gamers alive during the golden age of console gaming know Spyro the Dragon. When you think about video games in the 90s, Spyro the Dragon is one of the mascots that immediately springs to mind.
@@ -39,15 +36,16 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
 
  Spyro still has a huge amount of diehard fans who have more than enough room for a brand new Spyro title in their collection, not to mention the younger audience that a successful entry would no doubt appeal to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Skylanders
 
  If you were wondering where Spyro went back in the day, Skylanders is your answer. But Skylanders wasn’t just a Spyro clone that profited off the purple dragon’s name. It also introduced its own unique spin on things.
 
  Skylanders used an interesting toys-to-life gimmick that made billions of dollars thanks mostly to the sales of hundreds of millions of character figures. Those are big numbers that are hard to argue with, but the series still seemed to find itself in the gaming graveyard that exists at the back of every gamer’s basement. But with the right marketing, there is potential for the series to make a serious comeback.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 4\. StarCraft
 
  StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure[what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
@@ -57,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
  Although one entry made it to the Nintendo 64, the series has mostly been confined to PC. That means that there is a whole new world of console gamers who are yet to experience a StarCraft title.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Tony Hawk's Pro Skater
 
  The name Tony Hawk's Pro Skater alone is probably enough to convince you that a new mainline game would be amazing. The series is the unrivaled master of skateboarding games, and although there have been entries in the genre since the reign of Tony Hawk's Pro Skater, none have been able to come close.
@@ -66,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
  The games were known not only for their fluid and satisfying gameplay but their incredible soundtracks that featured some of the most iconic songs of their age. Remastered versions of Tony Hawk's Pro Skater 1 and 2 were released in 2020 and were highly anticipated, so a new entry in the series would no doubt be just as, if not more, hyped than the remaster.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Hexen
 
  If the words Doom, Dark Fantasy, and Dark Souls trigger your interest, Hexen is something you should absolutely look into. It is very similar to Doom in many ways, including but not limited to the fact that it was built in a modified version of the same engine.
@@ -77,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
  Instead of completing one level at a time, Hexen requires you to backtrack and make your way through several areas via a hub world. This added to the game's difficulty and made it far more unforgiving than your average FPS. But for gamers that thrive on a good challenge, it also makes it that much more satisfying when you complete it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Prototype
 
  A modern Prototype game would be amazing. It was great back in the day, but it has an unbelievable amount of potential for a new entry. If there is one modern game that Prototype could be compared to today, it would be Marvel’s Spider-Man: Miles Morales. Of course, it would be far darker and grittier, but one of the best parts of Miles Morales is the satisfaction of effortlessly swinging through the streets on vine-like webs.
@@ -86,22 +87,20 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
  Prototype doesn’t have webs, but Alex Mercer’s venom-like virus powers provided a very similar experience as you parkoured your way around the city. Even if Microsoft doesn’t revive the Prototype series, the games still hold up today and are well worth playing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Hopefully, Microsoft Doesn’t Leave These Games in the Past
 
  Activision Blizzard has seen its fair share of controversy, but it’s fair to say that many of these games played a big part in shaping the history of gaming. Moving forward instead of backwards is important, but there’s nothing wrong with indulging in a bit of nostalgia here and there, and we can’t be the only ones who want to see these games make a comeback.
 
  Call of Duty may seem like the biggest asset Microsoft has bagged for itself out of this deal. But with the right marketing and development teams, these franchises could have the potential to give it a run for its money. You can never beat a good classic, after all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +109,17 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-video-playback-issues-on-instagram/"><u>[New] In 2024, Mastering Video Playback Issues on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-review-and-insight-into-movavi-editor-plus-now-available-for-2024/"><u>[New] Review & Insight Into Movavi Editor Plus, Now Available for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-which-action-camera-takes-the-crown-gopro-vs-yi-for-2024/"><u>[New] Which Action Camera Takes the Crown ? GoPro Vs. YI for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-a-racing-career-with-mozas-moza-r5-bundle/"><u>Embark on a Racing Career with Moza's MOZA R5 Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicating-shaky-wheel-scroll-behavior-on-mouse/"><u>Eradicating Shaky Wheel Scroll Behavior on Mouse</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/harness-the-power-of-instagram-best-free-video-converter-apps-for-windowsmacos/"><u>Harness the Power of Instagram Best Free Video Converter Apps for Windows/macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-retrieve-your-money-from-a-discarded-steam-game/"><u>How to Retrieve Your Money From a Discarded Steam Game</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-humor-and-memes-galore-iphones/"><u>In 2024, Humor & Memes Galore, iPhones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-hp-omnibook-x-experience-a-comprehensive-dive-into-its-16-hour-battery-life-and-xpower-technology/"><u>Inside the HP OmniBook X Experience: A Comprehensive Dive Into Its 16-Hour Battery Life and XPower Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-legacy-in-digital-world/"><u>Nintendo's Legacy in Digital World</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Creating a Hassle-Free Setup on Switch Console
-date: 2024-08-15T17:22:49.169Z
-updated: 2024-08-16T17:22:49.169Z
+date: 2025-01-14T16:31:53.814Z
+updated: 2025-01-16T22:02:39.606Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 
  And with console gaming becoming more linked with subscription services or premium accounts, the convenience of managing your accounts is only becoming more vital. But on your Nintendo Switch, the process is quite tricky. So, if you want to manage your Nintendo account straight from your Nintendo Switch, we can help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know Before Removing or Adding a Nintendo Account
 
  Before you attempt to access and edit your Nintendo account straight from your Switch, however, you need to know a few key issues and points beforehand. This way, you can ensure you don't waste any time on unsupported features or issues you may encounter with your account.
@@ -32,17 +36,10 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 
  While the account information and options available on your Nintendo Switch may be limited, they still offer useful information or quick and easy ways to deal with subscriptions. But how do you access your Nintendo account options from a Switch?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How to Manage and Access Your Account Information on Nintendo Switch
 
  There are two main ways you can manage and access your Nintendo account information on your Switch, either through the**System Settings** of your console or the**Nintendo eShop** . However, the options provided by both methods vary.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Access Your Nintendo Account Information on Your Nintendo Switch
 
  If you simply want to access your Nintendo account information, you can quickly utilize your Nintendo Switch's**System Settings** . To do so, follow these steps:
@@ -50,13 +47,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * From the Home screen of your Nintendo Switch, select**System Settings** .
 
 ![A screenshot of the Home screen for a Nintendo Switch with the System Settings option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2023042110313400-57b4628d2267231d57e0fc1078c0596d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
 * Highlight the options for**User** , and select the user profile linked to your Nintendo account.
 
 ![A screenshot of the User settings on a Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092209550900-57b4628d2267231d57e0fc1078c0596d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Under**Nintendo Account** , select**Check Account Information** .
 
@@ -73,9 +71,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * From the Home screen of your Nintendo Switch, select**Nintendo eShop** .
 
 ![A screenshot of the Nintendo Switch Home screen with the option for Nintendo eShop highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092211225900-57b4628d2267231d57e0fc1078c0596d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Select the user profile linked to your Nintendo account.
 * Once the eShop loads, select your profile icon in the top-right of the screen.
@@ -98,27 +93,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![A screenshot of the Sign In and Security Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sign-in.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Under**Privacy and Other Settings** , you can alter any notifications you receive or information you send regarding things like**Emails from Nintendo** or**Usage Information** by selecting**Change** .
 
 ![A screenshot of the options for Privacy and Other Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/privacy.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Or, you can select the**Family Group** tab to add or remove Family members.
 
 ![A screenshot of the Family Group settings available for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And with that, you can alter and edit numerous aspects of your Nintendo account. So, if the options on your Nintendo Switch fail you, you at least have a backup method that may not be as convenient but is sure to address your needs.
@@ -129,14 +121,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  But even if the options on your Switch don't support your account alterations, you can still edit all aspects of your account via the official Nintendo site, just at slightly less convenience than doing so on your console.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,4 +134,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-blueprint-for-buzz-elevating-interactions-on-instagram/"><u>[New] In 2024, The Blueprint for Buzz Elevating Interactions on Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-fixing-full-screen-in-obs-journey/"><u>[Updated] 2024 Approved Fixing Full Screen in Obs Journey</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screencapture-2023-top-techs-recommendations/"><u>[Updated] 2024 Approved ScreenCapture 2023 Top Tech's Recommendations</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-your-social-interaction-skills-with-these-simple-snapchat-steps/"><u>Boost Your Social Interaction Skills with These Simple Snapchat Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-list-of-unique-charming-indie-games/"><u>Crafting a List of Unique, Charming Indie Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-tools-to-transform-your-youtube-titling-skills/"><u>Cutting-Edge Tools to Transform Your YouTube Titling Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-glitches-with-the-latest-nvidia-graphics-update/"><u>Eliminate Glitches with the Latest Nvidia Graphics Update</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-vivo-g2-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo G2 Phone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/mastering-audio-file-formats-seamlessly-switch-from-flac-to-alac-on-any-device-or-via-web-based-tools/"><u>Mastering Audio File Formats: Seamlessly Switch From FLAC to ALAC on Any Device or via Web-Based Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/peering-into-the-vaults-of-virtual-screenshots/"><u>Peering Into the Vaults of Virtual Screenshots</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-launcher-error-code-0x803f8001-in-mc-for-windows/"><u>Resolving Launcher Error Code 0X803F8001 in MC for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-themed-gaming-cutting-edge-play-style/"><u>Retro-Themed Gaming, Cutting-Edge Play Style</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210102532-9781786784858-sitting-comfortably/"><u>Sitting Comfortably | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-timely-fulfillment-of-steam-sales/"><u>Tips for Timely Fulfillment of Steam Sales</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-digital-challenges-boosting-design-craftsmanship/"><u>Top 9 Digital Challenges Boosting Design Craftsmanship</u></a></li>
+</ul></div>
 

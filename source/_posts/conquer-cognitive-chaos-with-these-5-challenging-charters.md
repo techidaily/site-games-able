@@ -1,7 +1,7 @@
 ---
 title: Conquer Cognitive Chaos with These 5 Challenging Charters
-date: 2024-08-15T17:25:05.205Z
-updated: 2024-08-16T17:25:05.205Z
+date: 2025-01-15T00:23:33.176Z
+updated: 2025-01-16T19:22:46.929Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ Let’s explore some of the names leading the scene.
 
 ![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you just discovered[what Foddian games are](https://www.makeuseof.com/what-are-foddian-games/) , chances are you’ve heard of Jump King. It’s a massive title in the community, the completion of which holds a lot of sway. Jump King is one of the easiest Foddian games to grasp because of its simple mechanics.
 
  The primary objective is to get to the top of the map by jumping from platform to platform while navigating any obstacles you might encounter. This game has a somewhat medieval pixel art, which is one characteristic of classic 2D platformers.
@@ -41,13 +45,15 @@ Let’s explore some of the names leading the scene.
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Getting Over It
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
@@ -62,12 +68,13 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
@@ -77,9 +84,6 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
@@ -95,14 +99,12 @@ Let’s explore some of the names leading the scene.
 **Download** : Bread & Fred on[Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and[Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Only Up
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
@@ -120,14 +122,11 @@ Let’s explore some of the names leading the scene.
 
  And hopefully, after checking out some of the Foddian games on this list, you’ll be one of those players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +135,24 @@ Let’s explore some of the names leading the scene.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-optimal-mic-selection-for-professional-4k-filmmaking-for-2024/"><u>[New] Optimal Mic Selection for Professional 4K Filmmaking for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-from-idea-to-impact-solo-podcasts-that-resonate/"><u>[Updated] From Idea to Impact Solo Podcasts that Resonate</u></a></li>
+<li><a href="https://games-able.techidaily.com/bewilderingly-brutal-the-ultimate-5-game-guide/"><u>Bewilderingly Brutal: The Ultimate 5 Game Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-switch-lifespan-5-key-steps/"><u>Boost Your Switch Lifespan: 5 Key Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-engagement-with-games-on-discord-platforms/"><u>Boosting Engagement with Games on Discord Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-boundaries-meta-quest-3-examined/"><u>Breaking Boundaries: Meta Quest 3 Examined</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-7-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-imac-pros-accelerate-the-evolution-of-games/"><u>Can iMac Pros Accelerate the Evolution of Games?</u></a></li>
+<li><a href="https://games-able.techidaily.com/challenging-the-high-framerate-hype-for-gaming/"><u>Challenging the High-Framerate Hype for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-your-champion-ps5-vs-xbox-series-x-edition/"><u>Choose Your Champion: PS5 V/S Xbox Series X Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/commanding-the-virtual-arena-transforming-chatgpt-into-a-dynamic-rpg/"><u>Commanding the Virtual Arena: Transforming ChatGPT Into a Dynamic RPG</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-pdhdll-not-found-or-missing-errors/"><u>How to Fix Pdh.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-indoors-adopting-the-vibe-of-a-brighter-world/"><u>In 2024, Indoors Adopting the Vibe of a Brighter World</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/successful-guide-updating-and-downloading-d-link-drivers-on-your-windows-pc/"><u>Successful Guide: Updating and Downloading D-Link Drivers on Your Windows PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/text-smarter-not-harder-tips-for-reducing-your-data-usage/"><u>Text Smarter, Not Harder: Tips for Reducing Your Data Usage</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premier-7-voice-silencers-seamless-clip-editing-online-and-offline/"><u>Updated Premier 7 Voice Silencers Seamless Clip Editing Online & Offline</u></a></li>
+</ul></div>
 

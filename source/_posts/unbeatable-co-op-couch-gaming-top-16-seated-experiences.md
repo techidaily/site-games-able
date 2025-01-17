@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Co-Op Couch Gaming: Top 16 Seated Experiences"
-date: 2025-01-08T07:51:39.390Z
-updated: 2025-01-11T06:54:01.782Z
+date: 2025-01-13T22:45:50.922Z
+updated: 2025-01-17T01:13:06.535Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
  Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for[excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2. Rocket League
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
  If you're looking for some kinetic entertainment, you'll find it with the free-to-play Rocket League. You control a fast-paced vehicle, whizzing on the ground and through the air to hit a ball into a goal. It's soccer combined with vehicular chaos. You can either play in couch co-op or against one another.
 
  Rocket League is also one of[the best local multiplayer games for PC](https://www.makeuseof.com/tag/7-best-couch-co-op-games-pc/) . In fact, you can compete against PC players online, thanks to the game's cross compatibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3. It Takes Two
 
@@ -45,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally[decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5. Overcooked! All You Can Eat
 
  In Overcooked, you and your friends are the cute chefs that must keep up with the demands of the customers, with an onslaught of funny obstacles and wacky scenarios to keep you on your toes. You'll need to work in perfect sync to ensure your kitchen doesn't go up in flames. Expect arguments.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6. Portal 2
 
@@ -62,40 +66,36 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
  Stardew Valley is a simulation game that puts you in charge of building your own farm from the ground up, looking after crops and vegetables, and exploring the surrounding world and meeting a cast of charming characters. And you can do all of this in couch co-op, with up to four players. It's a completely relaxing experience, far different from the usual fast-paced shooters.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8. Unravel Two
 
  In Unravel Two, you and a friend take control of Yarnys—two creatures made from yarn, connected by a single thread. You work together to navigate through a series of treacherous landscapes. This is the perfect Xbox game to play locally with someone who doesn't usually play many video games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9. Halo: The Master Chief Collection
 
  Whether you're a Halo novice or veteran, The Master Chief Collection is the ultimate Xbox experience. It bundles six Halo games into a single package. All of them are worth playing—not only to see how they shaped the first-person shooter genre, but just because they're downright fun, especially when played in couch co-op.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10. Minecraft
 
  If you have a single creative bone in your body, you'll love Minecraft. Whatever you imagine, you can build in Minecraft. Don't let its deceptively simple blocky graphics put you off. You'll end up spending the whole day with your friends building and exploring, since Minecraft supports up to four players in local co-op.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11. Dirt 5
 
  Nowadays, it's rare for a racing game to offer split-screen, which is why it's so delightful that Dirt 5 does. It's a globe-trotting arcade racer that really gives you the sensation of being behind the wheel of some amazing vehicles, skirting across gravel, ice, and sand as you rev your way to the finish line. While playing Dirt 5 alone is fun, it really comes alive in local co-op.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 12. Borderlands 3
 
  Whether you opt for Borderlands: The Handsome Collection (which includes Borderlands 2 and Borderlands: The Pre-Sequel) or Borderlands 3, you're in for some rollicking first-person fun as you shoot and loot with your friends through these hilarious games. Come for the action, stay for the witty characters.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 13. Rayman Legends
 
@@ -132,24 +132,18 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unlock-premium-quality-streaming-on-the-worlds-largest-network/"><u>[New] In 2024, Unlock Premium Quality Streaming on the World's Largest Network</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-spectacular-scrutiny-and-different-directions/"><u>[New] Spectacular Scrutiny & Different Directions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-audacity-audio-basics-for-new-mac-users/"><u>[Updated] 2024 Approved Audacity Audio Basics for New Mac Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unleash-the-power-of-zoom-your-win10-journey-begins-here-for-2024/"><u>[Updated] Unleash the Power of Zoom Your Win10 Journey Begins Here for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-new-era-of-gaming-rewards-microsofts-path-forward-with-xbox-points/"><u>A New Era of Gaming Rewards: Microsoft's Path Forward with Xbox Points</u></a></li>
-<li><a href="https://games-able.techidaily.com/dont-follow-my-missteps-select-perfect-oled-tv/"><u>Don't Follow My Missteps: Select Perfect OLED TV</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-javas-best-in-class-gameplay/"><u>Exploring Java's Best-In-Class Gameplay</u></a></li>
-<li><a href="https://games-able.techidaily.com/galactic-genius-identifying-leading-gaming-pcs/"><u>Galactic Genius: Identifying Leading Gaming PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaze-at-pimax-crystal-eye-catching-yet-bug-prone-experience/"><u>Gaze at Pimax Crystal - Eye-Catching, Yet Bug-Prone Experience</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-8-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oneplus-11r-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On OnePlus 11R</u></a></li>
-<li><a href="https://games-able.techidaily.com/joystick-or-trackpad-optimal-device-for-car-simulation/"><u>Joystick or Trackpad: Optimal Device for Car Simulation?</u></a></li>
-<li><a href="https://win-updates.techidaily.com/msi-microsoft-software-specialist-mss-credential-boost-your-it-career/"><u>MSI Microsoft Software Specialist (MSS) Credential - Boost Your IT Career</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pinnacle-phones-the-supreme-choices-in-mobile-video-recording/"><u>Pinnacle Phones The Supreme Choices in Mobile Video Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/quick-fixes-for-perfect-ipad-screenshots-for-2024/"><u>Quick Fixes for Perfect iPad Screenshots for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/revitalizing-your-steam-experience-by-uninstalling-games/"><u>Revitalizing Your Steam Experience by Uninstalling Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/switching-up-your-game-with-optical-flair/"><u>Switching Up Your Game with Optical Flair</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-x6-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco X6 Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-for-unblocking-windows-from-oculus-app-failure/"><u>Tips for Unblocking Windows From Oculus App Failure</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elevate-photos-selecting-a-robust-text-editor/"><u>[New] Elevate Photos Selecting a Robust Text Editor</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mirth-in-monotony-best-humored-fb-jail-cell-captures/"><u>[Updated] 2024 Approved Mirth in Monotony Best-Humored Fb Jail Cell Captures</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-12-leading-motion-capture-camcorders-now-with-global-positioning/"><u>[Updated] In 2024, 12 Leading Motion Capture Camcorders Now With Global Positioning</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-how-nvidia-g-sync-smoothes-out-game-frames/"><u>Discover How Nvidia G-Sync Smoothes Out Game Frames</u></a></li>
+<li><a href="https://games-able.techidaily.com/getting-started-with-discord-on-a-mac-system/"><u>Getting Started with Discord on a Mac System</u></a></li>
+<li><a href="https://games-able.techidaily.com/getting-to-grips-with-xbox-game-pass/"><u>Getting to Grips with Xbox Game Pass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/handbrake-meisterklasse-professionelle-tipps-zum-transcodieren-von-videos-dvd-rippen-und-fehlerbehebungstechniken/"><u>HandBrake-Meisterklasse: Professionelle Tipps Zum Transcodieren Von Videos, DVD-Rippen Und Fehlerbehebungstechniken</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-emulate-old-pokemon-games-on-your-android-phone/"><u>How to Emulate Old Pokemon Games on Your Android Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/outlast-the-ultimate-plan-rise-on-xbox-subscription/"><u>Outlast the Ultimate Plan Rise on Xbox Subscription</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-challenges-with-the-intel-dynamic-platform-and-thermal-framework-complete-fix-for-driver-setup/"><u>Overcoming Challenges with the Intel Dynamic Platform & Thermal Framework - Complete Fix for Driver Setup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-new-legendary-features-of-lenovo-legion-go/"><u>Top 5 New Legendary Features of Lenovo Legion Go</u></a></li>
 </ul></div>
 

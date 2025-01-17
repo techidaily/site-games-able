@@ -1,7 +1,7 @@
 ---
 title: The Gamer's Perspective on Microsoft and Activision Merger
-date: 2024-08-15T17:27:50.241Z
-updated: 2024-08-16T17:27:50.241Z
+date: 2025-01-15T19:11:03.336Z
+updated: 2025-01-16T17:22:41.340Z
 tags:
   - games
 categories:
@@ -28,21 +28,16 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 
 ![A screenshot of the loading screen for Diablo II Resurrected on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/diablo-ii-resurrected-loading-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And with Xbox owning massive Activision/Blizzard franchises, there is also the worry that the deal will enable Xbox to turn multiplatform franchises into Xbox exclusives. And while platform exclusivity is a more nuanced effect of the deal, with specific clauses, there are undoubtedly consequences of such an industry-shaking deal.
 
 ## The Potential Problems the Deal May Cause Gamers
 
  While the deal is good for Xbox as a platform and Xbox gamers, there are many damaging implications for the industry and gamers alike, even if you're a huge Xbox fan.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### 1\. Xbox Owns a Sizable Chunk of the Entire Gaming Industry
 
  One of the main reasons the deal stands to cause issues for gamers is the prospect of Xbox holding a monopoly over the gaming industry. And with a monopoly, competitors are pushed aside, and you could find yourself forced to own an Xbox.
@@ -50,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
  With Microsoft having already acquired Bethesda in 2021 for $7.5 billion, the scope for Xbox to push consumers to Xbox Series X|S for Bethesda titles already exists. If you want to play the AAA Bethesda title Starfield, you have to own an Xbox Series X|S.
 
 ![A promotional image highlighting the key art for Starfield](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/starfield.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Bethesda](https://bethesda.net/en/game/starfield)
 
@@ -64,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
  While there are many[great Xbox Series X|S exclusives](https://www.makeuseof.com/the-best-xbox-exclusives-to-test-out-your-xbox-series-xs/) , acquiring Activision/Blizzard represents a drastic expansion of the exclusive games Xbox could offer. And typically, this is something that PlayStation is notoriously better at doing than Xbox.
 
 ![A promotional image of God of War Ragnarok depicting a scene from the game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/god-of-war.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: [PlayStation](https://www.playstation.com/en-us/games/god-of-war-ragnarok/)
@@ -74,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 
  So, another unfortunate implication of the deal between Microsoft and Activision/Blizzard is the furthering of exclusivity competition between all platforms, restricting your choices as a consumer.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. A Mismanaged Deal Will Result in Higher Priced Games and Services for Consumers
 
  Aside from implications and problems linked to exclusivity, Microsoft's acquisition of Activision/Blizzard has been flagged by independent experts as possibly increasing the costs of games and services.
@@ -85,11 +82,19 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
  While not guaranteed, the acquisition of Activision/Blizzard by Microsoft is connected by the CMA to a potential increase in the costs you may face for your games and gaming services.
 
  And while there may be many[reasons you will see the price of Xbox Game Pass increasing](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , the price tag of $68.7 billion for Activision/Blizzard will only inflate things further. So, even if you're a fan of Xbox, you may still be affected by price increases associated with the deal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why the Activision/Blizzard Deal May Not Be as Bad as You Think
 
@@ -116,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
  Despite Xbox holding exclusivity on franchises like Halo and owning massive games like Minecraft, Xbox prioritizes allowing you to choose how you play. Halo: The Master Chief Collection is on Steam, and Minecraft is available and cross-compatible on all platforms.
 
 ![A screenshot of the loading screen for Halo The Master Chief Collection on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/halo-the-master-chief-collection-loading-screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Along with multiple generations of backwards compatibility for Xbox consoles and Xbox All Access,[Xbox is one of the most consumer-friendly platforms](https://www.makeuseof.com/ways-microsoft-has-made-the-xbox-series-xs-the-most-consumer-friendly-console/) in gaming. Acquiring Activision/Blizzard spreads Xbox's pro-consumer values to Activision/Blizzard titles.
 
@@ -127,8 +129,9 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
  So, if you take the pro-consumer practices Xbox engages in with the changing of the guard at Activision/Blizzard, the deal injects hope into a troubled company, highlighting a positive change for Activision/Blizzard and consumers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Xbox Is the Underdog of the Industry
 
  There are also reasons for you to see the Microsoft and Activision/Blizzard deal as being unable to provide Xbox with a monopoly over the industry, even with Activision/Blizzard titles prioritizing Xbox services.
@@ -138,18 +141,11 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
  But if you follow the discussions on Xbox and its place in the industry against competitors, Microsoft president Brad Smith said via[Bloomberg UK](https://www.bloomberg.com/news/articles/2022-12-13/microsoft-says-it-offered-ftc-consent-decree-on-call-of-duty?leadSource=uverify%20wall) that "if you look at the global market, Sony has 70% of that market, and we have 30%".
 
 ![A photograph of an PlayStation 5 console and controller atop a white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playstation-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Brad Smith also cited how PlayStation, at the time of the discussions, had 286 exclusive games and Xbox only had 59 to back up his statements. So, while you may be justifiably worried about the deal's implications, you could see the acquisition as simply allowing Xbox to catch up to PlayStation.
 
  Even with the acquisition of Activision/Blizzard, it may be more likely that competition between Xbox and PlayStation would increase instead of the industry being monopolized.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Acquisition of Activision/Blizzard by Xbox Improves Competition
 
  Despite the deal between Microsoft and Activision/Blizzard having negative implications, there are plenty of reasons it isn't as damaging as previously thought.
@@ -158,14 +154,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  And with Xbox and PlayStation producing two rival powerhouse consoles in the Xbox Series X and PlayStation 5, you could even see the deal as pushing console generations to be the very best platforms possible.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +167,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-prominently-display-messages-on-discord/"><u>[Updated] How To Prominently Display Messages on Discord</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-scrutinizing-the-latest-in-screen-recording-tech-by-tunefab/"><u>[Updated] In 2024, Scrutinizing the Latest in Screen Recording Tech by Tunefab</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-illuminated-insights-best-practices-for-nighttime-portraiture/"><u>2024 Approved Illuminated Insights Best Practices for Nighttime Portraiture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-imovie-trimming-query-the-reason-behind-video-cropping/"><u>2024 Approved IMovie Trimming Query The Reason Behind Video Cropping</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-strategies-for-ultimate-ps5-gaming-bliss/"><u>5 Strategies for Ultimate PS5 Gaming Bliss</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-view-on-gaming-computing-debunking-six-apple-misconceptions/"><u>A New View on Gaming Computing: Debunking Six Apple Misconceptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-and-adventure-the-best-6-ways-to-employ-chatgpt-for-dandd-excellence/"><u>AI & Adventure: The Best 6 Ways to Employ ChatGPT for D&D Excellence</u></a></li>
+<li><a href="https://games-able.techidaily.com/akko-mod007b-board-insights-for-serious-gaming/"><u>Akko MOD007B Board Insights for Serious Gaming</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-6-cross-platform-explorers-navigating-iphones-on-windows-and-macos/"><u>Best 6 Cross-Platform Explorers: Navigating iPhones on Windows & macOS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bulbarian-in-a-blink-10-min-day-lessons/"><u>Bulbarian in a Blink: 10-Min Day Lessons</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-to-reclaim-blank-login-screen-on-windows-11/"><u>Fixes to Reclaim Blank Login Screen on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-youtube-comment-insights-a-comprehensible-guide/"><u>Unlock YouTube Comment Insights A Comprehensible Guide</u></a></li>
+</ul></div>
 

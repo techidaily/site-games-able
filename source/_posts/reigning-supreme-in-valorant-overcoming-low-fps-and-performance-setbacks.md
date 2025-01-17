@@ -1,7 +1,7 @@
 ---
 title: "Reigning Supreme in Valorant: Overcoming Low FPS and Performance Setbacks"
-date: 2024-08-15T17:23:17.297Z
-updated: 2024-08-16T17:23:17.297Z
+date: 2025-01-11T01:06:08.094Z
+updated: 2025-01-16T18:56:42.199Z
 tags:
   - games
 categories:
@@ -30,8 +30,17 @@ Here's how to configure these settings in Valorant:
 2. Navigate to the**Video** tab at the top and open**General** settings.  
 ![Open General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-general-settings-in-the-video-tab-of-valorant.jpg)
 3. Turn off the options next to**Limit FPS on Battery** and**Limit FPS Always** . Also, increase the maximum frame rate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Turn on the**Limit FPS in Menus** and**Limit FPS in Background** options.  
 ![Enable and Disable Selective Options in General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-enable-and-disable-selective-options-in-general-settings-in-the-video-tab-of-valorant.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Change the Screen Resolution Settings in Valorant
 
@@ -48,13 +57,7 @@ To optimize graphics settings properly in Valorant, follow these steps:
 6. Set the**Anti-Aliasing** to**MSAA 4x** . Also, select**4x** in the**Anisotropic Filtering** menu.
 7. Disable**Improve Clarity** ,**Experimental Sharpening** ,**Bloom** ,**Distortion** , and**Cast Shadows** .  
 ![Turn Off VIsual Effets in Valorant's Game Settings to Increase FPS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-reduce-the-resolution-to-increase-fps-in-valorant-by-changing-settings-in-the-game.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Turn Off Hardware-Accelerated GPU Scheduling
 
  Hardware-accelerated GPU scheduling transfers some CPU workload to your GPU. It enhances the performance of high-priority processes on your device. Although handy, this can put extra strain on your GPU and prevent it from using all its resources when playing Valorant, causing the frame rate to drop.
@@ -62,8 +65,9 @@ To optimize graphics settings properly in Valorant, follow these steps:
  To turn off this feature in Windows settings, check out[what hardware-accelerated GPU scheduling means and how to disable it](https://www.makeuseof.com/hardware-accelerated-gpu-scheduling-disable-windows/) . If you follow the steps and discover that the hardware-accelerated GPU scheduling setting is already disabled, try turning it on and see if it improves or worsens your FPS.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Turn Any Active In-Game Overlays Off
 
  Do you use in-game overlays with Valorant, such as the Discord overlay? While overlays can help you quickly open apps or chats, they also put more strain on your hardware. The additional load can reduce the GPU resources allocated to Valorant, causing the FPS to drop significantly.
@@ -71,8 +75,9 @@ To optimize graphics settings properly in Valorant, follow these steps:
  If you use any such overlay or keep more than one overlay enabled while playing Valorant, turn them off to see how much of an impact it has on your game's performance.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Apply Some Windows-Specific Fixes
 
  If none of the fixes covered so far haven't helped boost your FPS on Valorant, don't fret. Try applying the following Windows-based tweaks and see if they help things:
@@ -81,22 +86,25 @@ To optimize graphics settings properly in Valorant, follow these steps:
 2. Turn off the Xbox Game Bar to stop it from consuming resources. Open the**Settings** app, select the**Gaming** tab, click on**Xbox Game Bar** , and turn it off.  
 ![Disable the Xbox Game Bar Option in the Gaming Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/8-disable-the-xbox-game-bar-option-in-the-gaming-tab-of-the-windows-settings-app.jpg)
 3. Enable Windows' Game Mode feature. This will automatically turn off background processes and apps as you play. You can even[use Windows Game Mode to prove the performance of any app](https://www.makeuseof.com/windows-game-mode-app-performance/) , not just games. To do that, go to**Settings > Gaming > Game Mode** and enable it.  
-![Enable Game Mode in the Gaming Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-enable-game-mode-in-the-gaming-tab-of-the-windows-settings-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Enable Game Mode in the Gaming Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-enable-game-mode-in-the-gaming-tab-of-the-windows-settings-app.jpg)
 4. [Update your graphics driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to the latest version. Also,[update your copy of Windows](https://www.makeuseof.com/update-windows-manually/) to take care of any minor glitches that might be causing the issue.
 5. Boost the performance of Valorant by setting the**Graphics preference** settings to**High** . This ensures you're[using your preferred graphics card on Windows](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) when running Valorant.  
 ![Set Valorants Graphics Preference to High in the Graphics Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-set-valorants-graphics-preference-to-high-in-the-graphics-settings-of-the-windows-settings-app.jpg)
 6. Set Valorant's process priority to high. To do that, open Task Manager, navigate to the**Details** tab, right-click the**Valorant** process, and select**High** from the**Set priority** menu.  
 ![Set Valorants Process Priority to High in the Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-set-valorants-process-priority-to-high-in-the-windows-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Optimize Your Graphics Card Software
 
  If you've previously tweaked your GPU's software settings (for example, you[customized your graphics card settings using the NVIDIA Control Panel](https://www.makeuseof.com/how-to-customize-graphics-settings-nvidia-control-panel-geforce-experience/) ), open the software again and turn down some of the settings. This is especially true if you told the GPU software to override any in-game settings you've set up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Overclock Your GPU for Better Performance
 
@@ -106,14 +114,11 @@ To optimize graphics settings properly in Valorant, follow these steps:
 
  Low FPS can easily ruin your gaming experience. Hopefully, by now, you will have a better understanding of why the FPS drops suddenly or remains low for so long in Valorant. If you carefully optimize the in-game settings and follow the rest of the steps above, you should be able to boost the overall frame rate and make it more stable.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +127,24 @@ To optimize graphics settings properly in Valorant, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/arning-big-on-youtube-shorts-must-haves-opportunities-and-more-for-2024/"><u>[New] Earning Big on YouTube Shorts Must-Haves, Opportunities and More for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-system-evolution-unlocked-a-comprehensive-improvement-pathway/"><u>[Updated] System Evolution Unlocked A Comprehensive Improvement Pathway</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/elevating-your-selfies-the-art-of-drawing-with-filters/"><u>Elevating Your Selfies The Art of Drawing with Filters</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-tech-talk-arcade-vs-console-for-fighters/"><u>Gameplay Tech Talk: Arcade Vs. Console for Fighters</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-navigate-the-complexities-of-game-refunds-on-steam/"><u>How to Navigate the Complexities of Game Refunds on Steam</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-speed-up-your-computers-startup-process-tips-from-yl-computing/"><u>How to Speed Up Your Computer's Startup Process: Tips From YL Computing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 12 Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/leading-free-daw-applications-accessible-via-browsers-for-2024/"><u>Leading Free DAW Applications Accessible via Browsers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-gpu-troubleshooting-four-common-pitfalls/"><u>Mastering GPU Troubleshooting: Four Common Pitfalls</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-fcpx-storage-solutions-how-to-reclaim-disk-space-and-boost-performance/"><u>New In 2024, FCPX Storage Solutions How to Reclaim Disk Space and Boost Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-plan-worth-the-paycheck/"><u>Premium Plan Worth the Paycheck</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-the-six-secrets-of-starting-ps5/"><u>Revel in the Six Secrets of Starting PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-stories-gameplay-indulge-in-idles/"><u>Simple Stories, Gameplay: Indulge in Idles</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ergonomic-mouse-squares/"><u>Superior Ergonomic Mouse Squares</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-pokemon-games-on-iphoneipad/"><u>The Ultimate Guide to Pokémon Games on iPhone/iPad</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unavailable-roblox-due-to-user-configs-on-windows/"><u>Troubleshooting Unavailable Roblox Due to User Configs on WINDOWS</u></a></li>
+<li><a href="https://solve-info.techidaily.com/unlocking-productivity-discover-how-abbyy-intelligent-automation-boosted-efficiency-by-35-insights-from-a-comprehensive-case-study/"><u>Unlocking Productivity: Discover How ABBYY Intelligent Automation Boosted Efficiency by 35% - Insights From a Comprehensive Case Study</u></a></li>
+</ul></div>
 

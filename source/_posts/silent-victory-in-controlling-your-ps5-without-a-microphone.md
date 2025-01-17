@@ -1,7 +1,7 @@
 ---
 title: Silent Victory in Controlling Your PS5 Without a Microphone
-date: 2025-01-05T17:59:40.232Z
-updated: 2025-01-10T18:12:24.401Z
+date: 2025-01-15T17:00:49.057Z
+updated: 2025-01-16T21:39:43.546Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why You Shouldn't Use Your PS5 Controller's Microphone
 
  By default, your DualSense's microphone will activate whenever you're playing a game that supports voice chat, as long as you don't have any other microphones connected. However, when the controller microphone activates, it will also reduce the intensity of two other[key DualSense features](https://www.makeuseof.com/ps5-dualsense-controller-hidden-features/) : adaptive triggers and haptic feedback.
@@ -33,16 +37,12 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 ![PS5 Controller Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is presumably to cut down on the microphone picking up the unnecessary background noise. Since the mic is inside the controller, other players would be able to hear some of the sounds from the vibrations and other mechanical feedback inside your controller. As a courtesy to others, it's thus lowered.
 
  While the people you're chatting with will appreciate this, it makes for a worse experience on your end. You should thus use another mic when you have the option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Automatically Mute Your PS5's Microphone
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 ![PS5 Controller Muted Mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Muted-Mic.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you never use the controller mic anyway, it's easy to mute your PS5 controller's mic by default. Head to**Settings > Sound > Microphone** and change**Microphone Status When Logged In** to**Mute** . You can also change**Microphone Status When Starting Chat or Broadcast** if you want to keep your mic muted when you join a party or start streaming.
@@ -64,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 ![PS5 Microphone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Microphone-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can change other mic settings here, like selecting your mic preference if you have more than one. Don't forget that if you connect another microphone (whether wirelessly or a wired headset connect to your controller), the built-in mic will turn off and thus preserve your trigger and vibration settings. The physical**Mute** button on the controller also works for muting external microphones, and if you hold it for a moment, it will silence all output as well as the mic's input.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fully Enjoy the DualSense Controller
@@ -94,15 +94,20 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-smooth-process-incorporating-igtv-in-stories/"><u>[Updated] 2024 Approved Smooth Process Incorporating IGTV in Stories</u></a></li>
-<li><a href="https://blog-min.techidaily.com/cost-free-techniques-for-transforming-iso-into-mpeg-without-sacrificing-quality/"><u>Cost-Free Techniques for Transforming ISO Into MPEG Without Sacrificing Quality</u></a></li>
-<li><a href="https://games-able.techidaily.com/crossover-instructions-full-bg3-experience-for-macos-users/"><u>CrossOver Instructions: Full BG3 Experience for macOS Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/directive-design-mastery-top-7-online-learning-resources/"><u>Directive Design Mastery: Top 7 Online Learning Resources</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-handheld-games-with-controller-support/"><u>Elite Handheld Games with Controller Support</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-premium-nitro-services/"><u>Evaluating Premium Nitro Services</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-maintain-youtube-session-in-the-background-for-2024/"><u>How to Maintain YouTube Session in the Background for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-kids-edition-smart-filter-feature-2017/"><u>Mondly Kid's Edition: Smart Filter Feature, 2017</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726225675534-movavi-m4r-mp4/"><u>Movavi的無限制網路轉換: 以 M4R 改編成 MP4 - 免費版服務</u></a></li>
-<li><a href="https://games-able.techidaily.com/unwired-playtime-explore-idle-games/"><u>Unwired Playtime: Explore Idle Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-prospects-animation-enhanced-3d-tools-for-2024/"><u>[New] Top Prospects Animation Enhanced 3D Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-game-based-youtube-earning-guide/"><u>[Updated] Game-Based YouTube Earning Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-expanding-steam-deck-with-sd-card/"><u>Efficiently Expanding Steam Deck with SD Card</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-c67-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme C67 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-hrtf-knowledge-for-strategic-gameplay-in-valorant/"><u>Integrating HRTF Knowledge for Strategic Gameplay in Valorant</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-space-utilization-mastery-guide/"><u>Navigating Steam's Space Utilization Mastery Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-new-era-when-is-it-right-for-rtx/"><u>Nvidia's New Era: When Is It Right for RTX?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pinnacle-of-funny-photo-artistry-for-2024/"><u>Pinnacle of Funny Photo Artistry for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-clipboard-malfunctions-for-efficient-copyingpasting/"><u>Resolving Windows 11 Clipboard Malfunctions for Efficient Copying/Pasting</u></a></li>
+<li><a href="https://games-able.techidaily.com/shared-worlds-mastering-2p-gameplay-in-switchs-minecraft/"><u>Shared Worlds: Mastering 2P Gameplay in Switch's Minecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-lags-and-lockups-mastering-epic-launcher-stability-on-pc/"><u>Stop Lags and Lockups: Mastering Epic Launcher Stability on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-swift-steam-purchase-resolutions/"><u>Strategies for Swift Steam Purchase Resolutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-gen-virtual-reality-experience-psvr-amidst-news-on-release-price-points-and-technical-specifications/"><u>The Next-Gen Virtual Reality Experience: PSVR Amidst News on Release, Price Points, and Technical Specifications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-top-usb-c-laptop-chargers-with-efficient-gan-technology/"><u>Ultimate Guide to Top USB-C Laptop Chargers with Efficient GaN Technology</u></a></li>
 </ul></div>
 

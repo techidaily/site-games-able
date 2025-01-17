@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fine-Tuning Your Steam Deck's Input Devices for Better Typing
-date: 2025-01-10T09:09:03.657Z
-updated: 2025-01-10T21:49:16.379Z
+date: 2025-01-12T21:37:55.088Z
+updated: 2025-01-16T23:00:47.561Z
 tags:
   - games
 categories:
@@ -27,6 +27,10 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
  If you need to type in a text field while in-game, selecting the field will usually bring up the Steam Deck's keyboard. Such is the case when renaming a colonist in “RimWorld”.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What if My Steam Deck’s Keyboard Still Doesn’t Appear After Selecting a Text Field?
 
  First, be sure you’ve given the Steam Deck two seconds at most for the Steam Deck keyboard to appear. If nothing is happening,**hold Steam Button > X** (just one of several[secret Steam Deck shortcuts you need to know](https://www.makeuseof.com/steam-deck-shortcuts/) ). The Steam Deck will appear at the bottom of the screen per usual. See it in action below in the classic immersive RPG "Deus Ex".
@@ -38,7 +42,7 @@ Here’s how to bring up the Steam Deck in various scenarios.
  But you don’t need to use this button combo anyway. To bring up the Steam Deck keyboard in SteamOS, select the text field where you want to type. The Steam Deck keyboard automatically appears every time. See an example below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Bring Up the Steam Deck Keyboard in Steam Desktop
@@ -52,34 +56,30 @@ Here’s how to bring up the Steam Deck in various scenarios.
  The Steam Deck keyboard will not appear in Desktop Mode if the Steam Client isn’t running.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Effortlessly Bring Up the Steam Deck’s Keyboard in SteamOS, Desktop Mode, or In-Game
 
  The Steam Deck’s on-screen keyboard may seem like it acts a bit funky once you first use the Steam Deck. But once you learn the ins and outs of the Deck, the keyboard is at your beck and call whenever you need it!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: How Do You Use the Escape Command on Your Steam Deck Keyboard?
 
  Numerous[secret shortcuts for your Steam Deck](https://www.makeuseof.com/steam-deck-shortcuts/) can make navigation a breeze. But, to specifically use the escape command shortcut on your Steam Deck with the on-screen keyboard, press the**Steam Button + D-pad left** at the same time. Your Steam Deck should then close the current software you are running as soon as you enter the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: How Do You Use a Mouse and Keyboard With Your Steam Deck?
 
  You can connect a keyboard and mouse to your Steam Deck via wired connections or Bluetooth. For a wired connection, plug your accessories into your Steam Deck through the USB-C or USB-A ports on your console. For Bluetooth, ensure**Bluetooth** is enabled, and hold down the**Create** button on your console while simultaneously pressing whatever represents the sync button on your accessories. This process is similar to[connecting a DualSense controller to your Steam Deck](https://www.makeuseof.com/how-to-connect-ps5-controller-to-steam-deck/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: How Do You Change the Keyboard Layout on Your Steam Deck?
 
@@ -100,19 +100,22 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-virtuality-unveiled-evolution-of-escapism/"><u>[New] Virtuality Unveiled Evolution of Escapism</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-visionaries-of-interactive-marvel-worlds/"><u>[New] Visionaries of Interactive Marvel Worlds</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-breakdown-of-sharex-scrutiny-and-substitutes-for-2024/"><u>[Updated] Breakdown of ShareX Scrutiny & Substitutes for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-ati-radeon-hd-3450-driver-software-instantly/"><u>Get the Newest AMD ATI Radeon HD 3450 Driver Software Instantly</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-personalizing-console-lighting-on-microsoft-devices/"><u>Guide to Personalizing Console Lighting on Microsoft Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-xltx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to .xltx files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mostly-superb-google-play-pass-with-an-exception/"><u>Mostly Superb Google Play Pass with an Exception</u></a></li>
-<li><a href="https://games-able.techidaily.com/regretting-the-steep-price-tag-for-graphics-power/"><u>Regretting the Steep Price Tag for Graphics Power</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-strategies-efficiently-saving-rocket-league-matches/"><u>Top Strategies Efficiently Saving Rocket League Matches</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-and-correcting-robloxs-error-403-on-windows-systems/"><u>Understanding and Correcting Roblox's Error 403 on Windows Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719166750449-unlocking-full-potential-the-2-year-oled-monitor-life/"><u>Unlocking Full Potential: The 2-Year OLED Monitor Life</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeos-revenue-revolution-strategies-for-successful-advertising-earning/"><u>[New] In 2024, Vimeo's Revenue Revolution Strategies for Successful Advertising Earning</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-breakthrough-ideas-to-amplify-brand-impact-on-reddit-for-2024/"><u>[Updated] Breakthrough Ideas to Amplify Brand Impact on Reddit for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-rescue-absent-watch-thumbnail-icon-for-2024/"><u>[Updated] Rescue Absent Watch Thumbnail Icon for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-tackling-facebook-message-video-not-sending-issue-androidiphone/"><u>2024 Approved Tackling Facebook Message Video Not Sending Issue (Android/iPhone)</u></a></li>
+<li><a href="https://games-able.techidaily.com/complete-game-count-in-epics-library-steps-to-overcome-errors/"><u>Complete Game Count in Epic’s Library - Steps to Overcome Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-to-pc-discover-the-game-changing-reasons/"><u>Console to PC: Discover the Game-Changing Reasons</u></a></li>
+<li><a href="https://games-able.techidaily.com/driving-destiny-physical-vs-virtual-input-choice-for-gamers/"><u>Driving Destiny: Physical Vs. Virtual Input Choice for Gamers</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/free-methods-to-restore-lost-insv-images-from-your-insta360-camera/"><u>Free Methods to Restore Lost INSV Images From Your Insta360 Camera</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-portable-chargers-for-sony-console-gaming/"><u>Ideal Portable Chargers: For Sony Console Gaming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-insights-into-a-common-symbol-the-blue-emoji-in-fb-chat/"><u>In 2024, Insights Into a Common Symbol The Blue Emoji in FB Chat</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-transform-your-audience-engagement-with-ultimate-youtube-banner-guide/"><u>In 2024, Transform Your Audience Engagement with Ultimate YouTube Banner Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/merge-your-pdf-files-effortlessly-with-yls-free-pdf-integrator-try-now/"><u>Merge Your PDF Files Effortlessly with YL's Free PDF Integrator - Try Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/sky-high-performance-windows-for-the-steam-deck/"><u>Sky-High Performance: Windows for the Steam Deck</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-store-error-code-0x80131500/"><u>Solving Windows Store Error Code: 0X80131500</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-experience-on-switch-started-here/"><u>The Ultimate Gaming Experience on Switch Started Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-for-integrating-your-modern-gamepad-into-windows-156-chars/"><u>The Ultimate Guide for Integrating Your Modern Gamepad Into Windows (156 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-corsairs-icue-link-4-reasons-to-upgrade/"><u>What Is Corsair's iCUE LINK? 4 Reasons to Upgrade</u></a></li>
 </ul></div>
 

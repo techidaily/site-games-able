@@ -1,7 +1,7 @@
 ---
 title: Is There Merit to In-Game Purchases in Premiums?
-date: 2025-01-04T05:08:37.529Z
-updated: 2025-01-11T09:04:50.537Z
+date: 2025-01-13T16:52:50.208Z
+updated: 2025-01-16T21:40:49.278Z
 tags:
   - games
 categories:
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 * [Why Do Microtransactions Exist in Video Games At All?](#why-do-microtransactions-exist-in-video-games-at-all)
 * [Why Microtransactions Are Appearing in Premium Games](#why-microtransactions-are-appearing-in-premium-games)
 * [Are Microtransactions Good for the Gaming Industry?](#are-microtransactions-good-for-the-gaming-industry)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 But what about premium games? Should they have microtransactions?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Microtransactions Are Appearing in Premium Games
@@ -81,6 +77,10 @@ But what about premium games? Should they have microtransactions?
 
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Paying More to Experience Less
 
  Let’s look at Middle-earth: Shadow of War as a case study. It was released as a sequel to Shadow of Mordor, a well-received game using the proprietary nemesis system.
@@ -89,13 +89,13 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Bloat and Battle Passes
 
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -108,7 +108,7 @@ But what about premium games? Should they have microtransactions?
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A Dishonest Means of Collecting More Money
@@ -120,7 +120,7 @@ But what about premium games? Should they have microtransactions?
 ![Diablo III selling necromancer class as extra content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/diablo-iii-selling-necromancer-class-as-extra-content.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once again, Blizzard makes an appearance. Diablo III costs $19.99, and the Necromancer expansion costs $14.99\. It’s unfair that a separate expansion pack that pretty much adds only a class is worth almost as much as the base game. That means Blizzard is fairly confident that the necromancer class is the sole reason some people want to play the game. Yet, it’s not included as part of the standard offer.
@@ -146,22 +146,20 @@ But what about premium games? Should they have microtransactions?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-freeze-your-favorite-moves-explore-these-top-9-windows-gif-recipes-for-2024/"><u>[New] Freeze Your Favorite Moves! Explore These Top 9 Windows GIF Recipes for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ideal-pc-emulators-for-retro-ps1-gaming-for-2024/"><u>[New] Ideal PC Emulators for Retro PS1 Gaming for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlock-instagram-videos-on-pc-and-mac-with-free-conversion-software/"><u>[Updated] 2024 Approved Unlock Instagram Videos on PC & Mac with Free Conversion Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-embrace-the-vivid-world-editing-and-viewing-hd-with-windows-hdr-for-2024/"><u>[Updated] Embrace the Vivid World Editing & Viewing HD with Windows HDR for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exclusive-imagery-tale-constructor-for-2024/"><u>[Updated] Exclusive Imagery Tale Constructor for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-next-gen-televisions-elite-10-rankings-for-2024/"><u>[Updated] Next-Gen Televisions Elite #10 Rankings for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-5-choice-of-online-meeting-recorder-gadgets/"><u>[Updated] Ultimate 5 Choice of Online Meeting Recorder Gadgets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/budget-devices-superior-obs-setup-guide-for-2024/"><u>Budget Devices - Superior OBS Setup Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminate-errors-no-pause-in-high-speed-games/"><u>Eliminate Errors: No Pause in High-Speed Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-global-gaming-culture-apply-translation-patches-on-roms/"><u>Embrace Global Gaming Culture: Apply Translation Patches on ROMs</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-guide-to-superior-xbox-capture-tech/"><u>Exclusive Guide to Superior Xbox Capture Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/modify-steam-interface-language/"><u>Modify Steam Interface Language</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaiming-unresponsive-controllers-for-windows-systems/"><u>Reclaiming Unresponsive Controllers for Windows Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/reliving-history-with-microsoft-7-activision-blizzard-game-retrospectives/"><u>Reliving History with Microsoft - 7 Activision Blizzard Game Retrospectives</u></a></li>
-<li><a href="https://games-able.techidaily.com/setting-your-preferred-steam-language/"><u>Setting Your Preferred Steam Language</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplified-pathways-to-restart-steam/"><u>Simplified Pathways to Restart Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/which-gpu-model-is-best-for-you-aib-vs-nvidia-fe-edition/"><u>Which GPU Model Is Best for You? AIB Vs Nvidia FE Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-steps-launching-a-youtube-channel-for-profit/"><u>[New] 2024 Approved First Steps Launching a YouTube Channel for Profit</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-cutting-edge-free-audio-for-youtube-visionaries/"><u>[New] Cutting-Edge Free Audio for YouTube Visionaries</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease-for-2024/"><u>[New] Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-archive-of-awe-high-quality-gif-preservation-for-tweeters/"><u>2024 Approved Archive of Awe High-Quality GIF Preservation for Tweeters</u></a></li>
+<li><a href="https://howto.techidaily.com/asus-rog-phone-7-ultimate-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 7 Ultimate Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/critical-selection-of-1-5-best-snippers-for-windows-for-2024/"><u>Critical Selection of #1-5 Best Snippers for WINDOWS for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-roundup-of-ddr5-boards-2024/"><u>Expert Roundup of DDR5 Boards 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-ace-selecting-the-best-from-google-play-games-beta-pc/"><u>Game Ace: Selecting the Best From Google Play Games Beta PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/lockdown-stealth-mode-activated-on-your-fb-feed/"><u>Lockdown: Stealth Mode Activated on Your FB Feed</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steam-server-accessibility-problems/"><u>Resolving Steam Server Accessibility Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/roblox-fps-unlockers-functionality-and-safety-concerns/"><u>Roblox FPS Unlockers: Functionality & Safety Concerns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-your-lenovo-flex-3-chromebook-at-an-unbelievable-99-price-point-this-black-friday-pre-cyber-monday-deals/"><u>Score Your Lenovo Flex 3 Chromebook at an Unbelievable $99 Price Point This Black Friday, Pre-Cyber Monday Deals!</u></a></li>
+<li><a href="https://games-able.techidaily.com/sky-high-gameplay-maximizing-your-pcs-fps-capability/"><u>Sky-High Gameplay: Maximizing Your PC's FPS Capability</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-nostalgic-console-contemporary-and-timeless/"><u>The Nostalgic Console: Contemporary and Timeless</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-game-potential-5-proven-methods-to-enhance-favourite-games-on-a-mac/"><u>Unleash Game Potential: 5 Proven Methods to Enhance Favourite Games on a Mac</u></a></li>
 </ul></div>
 

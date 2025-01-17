@@ -1,7 +1,7 @@
 ---
 title: "Overcoming PS4 Joystick Jams: Effective Remedies at Hand"
-date: 2024-08-15T17:23:32.646Z
-updated: 2024-08-16T17:23:32.646Z
+date: 2025-01-09T18:09:24.241Z
+updated: 2025-01-16T22:57:43.199Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 
 ![PS4 Controller Light Flashing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Controller-Light-Flashing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This often happens if you've used your DualShock 4 with another console, since the PS4 controller tries to connect to the last device you used it with. For instance, if you[use a PS4 on your PC or Mac](https://www.makeuseof.com/tag/how-to-use-the-ps4-controller-on-your-mac-or-pc/) , or with a friend's console, it will remember that device and try to connect to it the next time you turn the controller on.
 
  In these cases, you'll need to re-pair your DualShock 4 with your own PS4\. To do this, connect your controller to your PS4 using a micro-USB cable (see our[guide to USB cable types](https://www.makeuseof.com/tag/understanding-usb-cable-types-one-use/) if you're not familiar with these). Make sure you're using a high-quality cable that you know works properly.
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 ![PS4 Two Controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Two-Controllers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PS4 Controller Keeps Disconnecting
 
  If your DualShock 4 disconnects randomly while playing, there are a couple of remedies you can try.
@@ -48,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
  First, make sure your controller battery is charged. It sounds simple, but if the battery in your controller is almost dead, it may disconnect. To check your controller battery life, hold the**PS Button** to bring up the Quick Menu on the left side of the screen. You'll see a controller icon with battery life displayed at the bottom.
 
 ![PS4 Quick Menu Battery Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Quick-Menu-Battery-Level.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Plug your controller into your PS4 (or a wall outlet) and visit the Quick Menu again to make sure you see the battery charging animation. After your controller charges for some time, try using it as normal.
@@ -61,16 +67,14 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
  Finally, remember that the PS4 has a setting that turns off controllers after they're idle for some time. If you don't want your PS4 controller to turn off when you're watching media apps like YouTube, go to **Settings > Power Save Settings > Set Time Until Controllers Turn Off** and choose**Never** . Note that this will use up the controller battery even while you're idle.
 
 ![PS4 Never Turn Off Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Never-Turn-Off-Controller.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## General Fixes When Your PS4 Controller Isn't Working
 
  We've looked at specific fixes for a few common DualShock 4 problems above. Next, let's look at more general solutions for problems with PS4 controllers. Walk through these if your PS4 controller is still not responding.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Restart Your Console
 
@@ -96,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 
  If this doesn't work, turn your PS4 back on and try pairing it the normal way, as above.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Hard Reset Your PS4 Controller
 
  If removing and re-pairing the controller didn't work, you can next try the full reset procedure for the DualShock 4\. You'll need a small pointed object, like a bent paper clip or a SIM card ejection tool, to do this. This won't reset anything on your PS4 or affect your controller aside from having to pair it again, so it's a non-intrusive troubleshooting step.
@@ -106,11 +107,12 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
  Fully turn off your PS4, then flip your controller over. You'll see a small hole next to the screw by the L2 button (on the right side of the controller when flipped over). Use your pointed tool to press and hold the button inside this hole for roughly five seconds.
 
 ![PS4 Controller Reset Pinhole](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Controller-Reset-Pinhole.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you've done this, connect your controller to your PS4 again via USB cable and see if it pairs successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Try Connecting the PS4 Controller Elsewhere
 
@@ -125,11 +127,12 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
  To force your PS4 to connect controllers over USB with a compatible DualShock 4, head to **Settings > Devices > Controllers > Communication Method** and choose**Use USB Cable** . This will prevent the DualShock 4 from using Bluetooth when it's connected via a USB cable.
 
 ![PS4 Use USB Cable Communication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Use-USB-Cable-Communication.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 
  If this works, you should get a long USB cable so you can still enjoy gaming from the couch even when wired in.[Ailun's three-pack of 10-foot micro-USB cables](https://www.amazon.com/10ft3Pack-Charging-Smartphone-Connection-Blackwhite/dp/B06XYH75NQ?linkCode=ll1&tag=muo-v2-76tv1pg-20&linkId=f9f8e8d9d67b2bc78306aa8cfd5356be&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU93672&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fps4-controller-not-working-fix-common-issues%2F&asc%5Fcampaign=Evergreen) is a good cost-effective option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## DualShock 4 Hardware Fix Options
 
@@ -147,14 +150,11 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 
  Hopefully, your DualShock 4 issue was easy to fix. While this is on your mind, it might be worth cleaning your controller to help keep it running at its best.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,4 +163,18 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-image-files-management-on-ios-jpegpng-to-pdf/"><u>[Updated] Seamless Image Files Management on IOS JPEG/PNG to PDF</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/clashing-kings-the-top-battle-royale-games-for-2024/"><u>Clashing Kings The Top Battle Royale Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-client-trust-in-financial-institutions-with-abbyy-id-proofing-and-confirmation-services/"><u>Enhancing Client Trust in Financial Institutions with ABBYY ID Proofing and Confirmation Services</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210968745-9781088237458-greta/"><u>Greta | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-revolution-nintendos-next-leap-into-2024/"><u>Handheld Revolution? Nintendo's Next Leap Into 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-a25-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy A25 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-through-in-depth-reviews-by-toms-specialists/"><u>Mastering Tech Essentials Through In-Depth Reviews by Tom's Specialists</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-ethernet-cables-for-gaming/"><u>The Best Ethernet Cables for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-resolving-game-errors-on-chrome/"><u>Troubleshooting: Resolving Game Errors on Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-ventures-top-9-strategies-for-game-journeyers/"><u>Virtual Ventures: Top 9 Strategies for Game Journeyers</u></a></li>
+</ul></div>
 

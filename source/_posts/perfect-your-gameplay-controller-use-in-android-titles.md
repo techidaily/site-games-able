@@ -1,7 +1,7 @@
 ---
 title: "Perfect Your Gameplay: Controller Use in Android Titles"
-date: 2025-01-09T05:34:05.295Z
-updated: 2025-01-10T19:18:06.362Z
+date: 2025-01-09T21:13:31.038Z
+updated: 2025-01-16T21:43:53.496Z
 tags:
   - games
 categories:
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157f
  Plenty of gamepads can turn your smartphone into a portable handheld, but only a minority of Android games actually support physical controls. Fortunately, you can solve this problem by mapping buttons to different parts of the screen using apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Button Mapping?
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157f
  Button mapping refers to the process of manually determining what happens when you press a button on your game controller or keyboard. When it comes to gaming on Android devices, it typically means getting games that lack controller support to work by telling buttons to activate different parts of the touchscreen.
 
  For example, moving the analog stick can simulate dragging your thumb around the left side of the screen. Pressing the**A** button can imitate tapping on the right side of the screen. The task is easiest for games with a virtual game controller spread across the screen, since you can assign a physical button to the location of their virtual counterparts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Get Started With Button Mapping on Android
 
@@ -52,14 +56,10 @@ thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157f
 ![Mantis button mapping app prompting you to enable overlay settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-allow-overlay-settings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Mantis uses an pop-up window to help you enter a pairing code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-overlay-settings-pair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -81,6 +81,10 @@ Close
 
  Mantis Gamepad Pro isn't your only choice if you want to get started with button mapping on your Android device. You should also consider alternatives like[Octopus](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant&hl=en&gl=US) and[Panda Gamepad Pro](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.panda.gamepad&hl=en&gl=US) , which perform the same core function in different ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Assign Buttons to an Android Game
 
  Button mapping software generally requires you to enable the feature per game. To do this in Mantis Gamepad Pro, follow these steps:
@@ -94,7 +98,7 @@ Close
 ![Adding support for a game within Mantis Pro.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-pro-add-games.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Mantis Gamepad Pro with three games added.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-three-games-added.png)
@@ -104,10 +108,6 @@ Close
  When the game opens, you will see a Mantis widget hovering on one side of the screen. Tap this widget to bring up the controller options.
 
 ![Tap the floating Mantis button to begin mapping buttons.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-floating-button.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can select each of the inputs on your controller, such as the analog sticks, face buttons, and triggers. You then drag where on the screen you want the button press to correspond to. Mantis Gamepad Pro also includes support for gestures, so you can make pressing a button the equivalent of swiping rather than tapping.
 
@@ -132,19 +132,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-shortcut-to-achieving-unique-vocal-flair-in-pubg/"><u>[Updated] The Ultimate Shortcut to Achieving Unique Vocal Flair in PUBG</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-noise-the-case-against-ps5s-microphone/"><u>Avoiding Noise: The Case Against PS5's Microphone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/backdrop-bassline-tunes-to-enhance-media-for-2024/"><u>Backdrop Bassline Tunes to Enhance Media for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-ultimate-driving-experience-with-roccats-mouse-driver/"><u>Download the Ultimate Driving Experience with Roccat's Mouse Driver</u></a></li>
-<li><a href="https://games-able.techidaily.com/enter-a-new-era-of-portable-computing-with-pdw4/"><u>Enter a New Era of Portable Computing with PDW4</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-list-elite-8-sites-for-gamers-and-critics/"><u>Exclusive List: Elite 8 Sites for Gamers and Critics</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-audio-enhancement-the-role-of-specialized-headsets/"><u>Game Audio Enhancement: The Role of Specialized Headsets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-internet-connection-speed-update-windows-driver-for-fast-usb-30-ethernet-adapter/"><u>Improve Internet Connection Speed - Update Windows Driver for Fast USB 3.0 Ethernet Adapter</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-note-13-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi Note 13 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/iphone-7-perfect-methods-for-screen-recording/"><u>IPhone 7 Perfect Methods for Screen Recording</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/methodes-faciles-pour-convertir-les-fichiers-mts-en-mp4-gratuits-en-ligne-via-movavi-le-meilleur-choix/"><u>Méthodes Faciles Pour Convertir Les Fichiers MTS en MP4 Gratuits en Ligne via Movavi - Le Meilleur Choix !</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-best-mouse-traits-with-our-top-5-selection/"><u>Navigating the Best Mouse Traits with Our Top 5 Selection</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-ios-gamers-selection-the-four-top-apps/"><u>Ultimate iOS Gamers' Selection: The Four Top Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/virtual-frontiers-current-trends-in-vr-tech/"><u>Virtual Frontiers Current Trends in VR Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reclaiming-gone-reddit-content-a-time-saving-guide/"><u>[New] Reclaiming Gone-Reddit Content A Time-Saving Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/advanced-techniques-for-preserving-lol-skirmishes/"><u>Advanced Techniques for Preserving LOL Skirmishes</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-safety-of-roblox-performance-hacks/"><u>Evaluating Safety of Roblox Performance Hacks</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-se-2022ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone SE (2022)/iPad | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-photography-refinement-removing-backgrounds-and-blurring-effectively/"><u>In 2024, Photography Refinement Removing Backgrounds & Blurring Effectively</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-youtube-music-blends/"><u>Mastering YouTube Music Blends</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-longevity-top-5-preservation-methods/"><u>Nintendo Switch Longevity: Top 5 Preservation Methods</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-zte-nubia-z60-ultra-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About ZTE Nubia Z60 Ultra Reset Code | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-playstation-5-gaming-tips-no-controllers-required/"><u>Top 6 PlayStation 5 Gaming Tips No Controllers Required</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-to-unity-linking-your-epic-game-and-steam-accounts/"><u>Transition to Unity: Linking Your Epic Game & Steam Accounts</u></a></li>
 </ul></div>
 
