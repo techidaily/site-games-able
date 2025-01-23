@@ -1,7 +1,7 @@
 ---
 title: "Neglected Consequences: Devs Getting Paid by Players"
-date: 2025-01-15T19:22:12.808Z
-updated: 2025-01-16T20:06:03.650Z
+date: 2025-01-16T17:13:35.342Z
+updated: 2025-01-22T20:07:25.417Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Who’s Suggesting We Tip Game Developers?
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Much Do Game Developers Already Earn?
 
  The quick and unsatisfying answer is: it depends. Game Developer roles vary enormously, from sole indie developers working on their dream projects to in-house employees at the biggest publishing houses. Like many professions, game development can be very lucrative or pitifully rewarding.
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives Are Already Available
@@ -68,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
@@ -79,12 +75,16 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
@@ -124,19 +124,21 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-channeling-twitter-vids-seamlessly-to-snapchat/"><u>2024 Approved Channeling Twitter Vids Seamlessly to Snapchat</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-sparking-connection-in-videos-top-50plus-quotes-for-virality/"><u>2024 Approved Sparking Connection in Videos Top 50+ Quotes for Virality</u></a></li>
-<li><a href="https://win-web.techidaily.com/best-6-ansatze-zur-fehlerbehebung-in-windows-11-reset-probleme-losen/"><u>Best 6 Ansätze Zur Fehlerbehebung in Windows 11 - Reset-Probleme Lösen</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-your-gameplay-controllers-and-buttons-on-android/"><u>Enhancing Your Gameplay: Controllers and Buttons on Android</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Note 30? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-give-old-games-access-to-the-my-pictures-folder-on-windows-11/"><u>How to Give Old Games Access to the My Pictures Folder on Windows 11</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-techniques-in-artificial-intelligence-for-effective-sonic-clarity-and-denoising/"><u>New In 2024, Techniques in Artificial Intelligence for Effective Sonic Clarity and Denoising</u></a></li>
-<li><a href="https://games-able.techidaily.com/reawakening-your-playstation-4-with-a-system-reset/"><u>Reawakening Your PlayStation 4 with a System Reset</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/stop-equating-siri-with-chatgpt-discover-what-sets-them-apart/"><u>Stop Equating Siri with ChatGPT! Discover What Sets Them Apart</u></a></li>
-<li><a href="https://games-able.techidaily.com/sweat-and-smile-top-7-sports-gaming-hits-for-iphone-and-android/"><u>Sweat & Smile: Top 7 Sports Gaming Hits for iPhone and Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-edge-in-online-gaming-best-fps-browser-games-revealed/"><u>The Ultimate Edge in Online Gaming: Best FPS Browser Games Revealed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-nubia-red-magic-9-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Nubia Red Magic 9 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-restoring-functionality-to-a-non-responsive-discord-webcam/"><u>Troubleshooting Guide: Restoring Functionality to a Non-Responsive Discord Webcam</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-noble-tunes-archiver-android-edition/"><u>[New] 2024 Approved Noble Tunes Archiver, Android Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-essential-iphoneside-by-side-guide-for-fb-sharing/"><u>[New] 2024 Approved The Essential iPhoneside by Side Guide for FB Sharing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-simplified-video-transferring-techniques-for-youtube-enthusiasts/"><u>[Updated] Simplified Video Transferring Techniques for YouTube Enthusiasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-5-ps1-emulation-tools-for-modern-pcs/"><u>[Updated] Ultimate 5 PS1 Emulation Tools for Modern PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-turbo-speed-for-snapchat-newcomers-video-edition/"><u>2024 Approved Turbo Speed for Snapchat Newcomers Video Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-sites-enhancing-your-digital-experience/"><u>Cookiebot-Enabled Sites: Enhancing Your Digital Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-silver-status-to-core-benefits-xbox-live-golds-transformation/"><u>From Silver Status to Core Benefits: Xbox Live Gold’s Transformation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-motorola-edge-40-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Motorola Edge 40</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-waveform-wisdom-dimming-audio-with-expertise-in-premiere/"><u>In 2024, Waveform Wisdom Dimming Audio with Expertise in Premiere</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumping-platforms-in-minecraft-transition-from-bedrock-to-java-geysermc-style/"><u>Jumping Platforms in Minecraft: Transition From Bedrock to Java, GeyserMC Style</u></a></li>
+<li><a href="https://games-able.techidaily.com/living-large-in-fortnite-for-mac-users-but-not-without-exceptions/"><u>Living Large in Fortnite - For Mac Users, But Not Without Exceptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-hunt-for-marvels-space-adventure-ps5/"><u>Mastering The Hunt for Marvel's Space Adventure PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-setup-at-499-ideal-newcomers-bundle/"><u>MOZA R5 Setup at $499 - Ideal Newcomer's Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-selection-of-16-joint-play-couch-experiences-on-xbox/"><u>Premier Selection of 16 Joint Play Couch Experiences on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-bp-mode-freeze-in-steam-windows/"><u>Troubleshooting BP Mode Freeze in Steam Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/vidmaster-pro-8-review-highlights-for-2024/"><u>VidMaster Pro 8 Review Highlights for 2024</u></a></li>
 </ul></div>
 

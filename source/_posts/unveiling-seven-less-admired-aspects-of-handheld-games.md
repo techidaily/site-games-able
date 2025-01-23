@@ -1,7 +1,7 @@
 ---
 title: Unveiling Seven Less-Admired Aspects of Handheld Games
-date: 2024-08-15T17:20:43.512Z
-updated: 2024-08-16T17:20:43.512Z
+date: 2025-01-15T17:21:09.690Z
+updated: 2025-01-22T18:01:37.423Z
 tags:
   - games
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 ![A screenshot of Google Play Store home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Google-play-store-home-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  People just don't like to pay for mobile games, and the rare ones that actually do, pay mostly via in-app purchases and microtransactions. So, it forces game developers to either conform to that model or stick with console gaming.
 
  Now, we're not saying the freemium model isn't profitable. In fact, according to[Business Insider](https://www.businessinsider.in/tech/news/pubg-mobile-was-the-top-grossing-game-globally-in-november-2021/articleshow/88201430.cms) , PUBG Mobile earned nearly $254 million in player spending in November 2021 alone.
@@ -39,11 +43,6 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
  A further[Statista report](https://www.statista.com/statistics/780229/number-of-available-gaming-apps-in-the-google-play-store-quarter/) states that between 11-13.5% of these apps are games, with the Google Play Store alone carrying 477,877 active game titles in December 2021.
 
 ![App Store closeup on iPhone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/App-Store-closeup-on-iPhone-screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  This means if you're a game developer—especially a new one—the chances of your game succeeding are very low. Forget standing out from the sea of apps. It's a miracle if you even get discovered. And app stores do little to help new developers get seen.
 
@@ -51,9 +50,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  There is no real incentive for app stores to support developers other than the ones who are earning them the most revenue. This discourages new developers from taking on the risk of creating better mobile games.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 3\. Low Consumer Expectations
 
  On some level, we the users are also responsible for mobile gaming having a bad image. Unless you've never been on Reddit, you know that people often criticize mobile gaming for not being "real gaming" due to reasons that are too obvious to ignore.
@@ -61,6 +57,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Gamers don't even expect mobile games to be good, so it does not surprise them when the games turn out to be bad.
 
 ![person sitting at desk wearing headphones playing online games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/person_online_gaming.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Mobile gaming is seen as an expendable source of entertainment—something that you can trade away easily for something else. So naturally, users don't bother complaining when a mobile game is bad. In other words, there is no real feedback mechanism.
 
@@ -79,8 +79,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Given this limitation, those controls often end up being either painfully small or so big that they interrupt gameplay—leading to a poor gaming experience. To counter this, devs have to spend additional resources coming up with new ways to make the controls feel seamless.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Lack of Storage to Dedicate to Games
 
  Unlike consoles, smartphones don't just store games but also photos, videos, songs, movies, documents, apps, and more. So naturally, storage space is often an issue. Now, to be fair, we've already seen smartphones with 1TB of storage space, so this isn't as big a problem as the issues above.
@@ -90,10 +91,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ## 6\. Lack of Standardized Platforms
 
 ![how to use share play on ps5 playstation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/how-to-use-share-play-on-ps5-playstation-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  Unlike standardized consoles such as PlayStation and Xbox, smartphones come in all shapes, sizes, and configurations. This is true even more so for Android phones than iPhones.
 
@@ -103,12 +100,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  So, this leaves them with only two options; either create poor games that everyone can download or create good games that only a few can download. It seems the former gets the upper hand in boardroom meetings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Frequent In-Game Ads
 
 ![a man frustrated using his mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upset-young-african-man-reading-message-his-mobile-phone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Aside from microtransactions, mobile game developers also rely on in-game ads to earn money. This allows them to keep the game running and introduce new features such as maps, weapons, outfits, and other similar in-game items.
 
@@ -117,22 +115,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Granted, watching in-game ads is a good way to[support mobile game developers without buying in-game items](https://www.makeuseof.com/support-game-developers-without-microtransactions/) , but their frequency matters a lot especially if you're planning to play that game for a long time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mobile Gaming Could Be So Much More
 
  Mobile gaming has so much potential, and yet, we're exploiting so little of it. Compared to all the other advancements in the tech world, it's surprising how far behind mobile gaming still is when put side-by-side with console gaming.
 
  Out of all companies, Apple has the most to gain if mobile gaming booms given its obvious advantage over Android. And yet, low-immersion games like Candy Crush and Temple Run dominate the app stores. Many still treat mobile gaming as merely a way to pass time, not as an acclaimed hobby or profession.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,4 +137,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-free-android-video-call-apps-compared/"><u>2024 Approved Top Free Android Video Call Apps Compared</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-all-terrain-top-race-rc-rock-crawler-a-thrilling-off-road-experience/"><u>Comprehensive Review of the All-Terrain Top Race RC Rock Crawler – A Thrilling Off-Road Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-star-wars-squadrons-a-comprehensive-review-of-its-thrilling-dogfights-in-space/"><u>Exploring Star Wars: Squadrons - A Comprehensive Review of Its Thrilling Dogfights in Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-xboxs-anti-cheat-measures/"><u>Exploring Xbox's Anti-Cheat Measures</u></a></li>
+<li><a href="https://win11.techidaily.com/five-simple-steps-for-a-personalized-windows-11-search/"><u>Five Simple Steps for a Personalized Windows 11 Search</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-unveiling-best-score-boosting-websites/"><u>Game On - Unveiling Best Score-Boosting Websites</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-sfpr-settings-to-boost-sluggish-clips/"><u>In 2024, Best SFPR Settings to Boost Sluggish Clips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-tecno-pova-5-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Tecno Pova 5 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-gionee-f3-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Gionee F3 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-am08-pro-enhancing-real-magic-playtime/"><u>Is AM08 Pro Enhancing Real Magic Playtime?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/no-fee-guide-converting-skype-to-mp3-for-2024/"><u>No-Fee Guide Converting Skype to Mp3 for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-print-setup-effective-guide-to-updating-printer-drivers-on-win-systems/"><u>Simplify Print Setup: Effective Guide to Updating Printer Drivers on WIN Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-policy-update-ai-games-reimagined-for-players/"><u>Steam's Policy Update: AI Games Reimagined for Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-allure-of-portable-games-my-choice-for-iphone-and-ipad-apple-arcade/"><u>The Allure of Portable Games: My Choice for iPhone and iPad – Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-sneaky-approach-to-steam-use/"><u>The Sneaky Approach to Steam Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-vr-gear-for-ps-vr-2-enthusiasts/"><u>Top VR Gear for PS VR 2 Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribed-titles-what-comes-next/"><u>Unsubscribed Titles: What Comes Next?</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-cabinet-go-big-with-frames/"><u>Upgrade Your Cabinet - Go Big with Frames!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/whos-at-the-apex-youtube-subscribers-ranking/"><u>Who's at the Apex? YouTube Subscribers Ranking</u></a></li>
+</ul></div>
 

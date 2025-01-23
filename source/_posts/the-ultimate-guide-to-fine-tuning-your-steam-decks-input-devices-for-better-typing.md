@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fine-Tuning Your Steam Deck's Input Devices for Better Typing
-date: 2025-01-12T21:37:55.088Z
-updated: 2025-01-16T23:00:47.561Z
+date: 2025-01-16T04:21:31.395Z
+updated: 2025-01-23T06:29:02.250Z
 tags:
   - games
 categories:
@@ -28,22 +28,22 @@ Here’s how to bring up the Steam Deck in various scenarios.
  If you need to type in a text field while in-game, selecting the field will usually bring up the Steam Deck's keyboard. Such is the case when renaming a colonist in “RimWorld”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What if My Steam Deck’s Keyboard Still Doesn’t Appear After Selecting a Text Field?
 
  First, be sure you’ve given the Steam Deck two seconds at most for the Steam Deck keyboard to appear. If nothing is happening,**hold Steam Button > X** (just one of several[secret Steam Deck shortcuts you need to know](https://www.makeuseof.com/steam-deck-shortcuts/) ). The Steam Deck will appear at the bottom of the screen per usual. See it in action below in the classic immersive RPG "Deus Ex".
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Bring Up the Steam Deck Keyboard in SteamOS
 
  If you’re beating your head against your desk and screaming aloud, “Why is the Steam Deck keyboard not appearing when I press the**Steam Button** and**X** in SteamOS,” let me save you the additional headache. The Steam Deck keyboard shortcut does not work in SteamOS so long as a text field is present on-screen (as of August 2023). Whether this is a bug or a feature yet to be implemented is unknown at this time.
 
  But you don’t need to use this button combo anyway. To bring up the Steam Deck keyboard in SteamOS, select the text field where you want to type. The Steam Deck keyboard automatically appears every time. See an example below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Bring Up the Steam Deck Keyboard in Steam Desktop
 
@@ -56,25 +56,25 @@ Here’s how to bring up the Steam Deck in various scenarios.
  The Steam Deck keyboard will not appear in Desktop Mode if the Steam Client isn’t running.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Effortlessly Bring Up the Steam Deck’s Keyboard in SteamOS, Desktop Mode, or In-Game
 
  The Steam Deck’s on-screen keyboard may seem like it acts a bit funky once you first use the Steam Deck. But once you learn the ins and outs of the Deck, the keyboard is at your beck and call whenever you need it!
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### Q: How Do You Use the Escape Command on Your Steam Deck Keyboard?
 
  Numerous[secret shortcuts for your Steam Deck](https://www.makeuseof.com/steam-deck-shortcuts/) can make navigation a breeze. But, to specifically use the escape command shortcut on your Steam Deck with the on-screen keyboard, press the**Steam Button + D-pad left** at the same time. Your Steam Deck should then close the current software you are running as soon as you enter the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: How Do You Use a Mouse and Keyboard With Your Steam Deck?
@@ -100,22 +100,18 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeos-revenue-revolution-strategies-for-successful-advertising-earning/"><u>[New] In 2024, Vimeo's Revenue Revolution Strategies for Successful Advertising Earning</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-breakthrough-ideas-to-amplify-brand-impact-on-reddit-for-2024/"><u>[Updated] Breakthrough Ideas to Amplify Brand Impact on Reddit for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-rescue-absent-watch-thumbnail-icon-for-2024/"><u>[Updated] Rescue Absent Watch Thumbnail Icon for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-tackling-facebook-message-video-not-sending-issue-androidiphone/"><u>2024 Approved Tackling Facebook Message Video Not Sending Issue (Android/iPhone)</u></a></li>
-<li><a href="https://games-able.techidaily.com/complete-game-count-in-epics-library-steps-to-overcome-errors/"><u>Complete Game Count in Epic’s Library - Steps to Overcome Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-to-pc-discover-the-game-changing-reasons/"><u>Console to PC: Discover the Game-Changing Reasons</u></a></li>
-<li><a href="https://games-able.techidaily.com/driving-destiny-physical-vs-virtual-input-choice-for-gamers/"><u>Driving Destiny: Physical Vs. Virtual Input Choice for Gamers</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/free-methods-to-restore-lost-insv-images-from-your-insta360-camera/"><u>Free Methods to Restore Lost INSV Images From Your Insta360 Camera</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-portable-chargers-for-sony-console-gaming/"><u>Ideal Portable Chargers: For Sony Console Gaming</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-insights-into-a-common-symbol-the-blue-emoji-in-fb-chat/"><u>In 2024, Insights Into a Common Symbol The Blue Emoji in FB Chat</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-transform-your-audience-engagement-with-ultimate-youtube-banner-guide/"><u>In 2024, Transform Your Audience Engagement with Ultimate YouTube Banner Guide</u></a></li>
-<li><a href="https://win-popular.techidaily.com/merge-your-pdf-files-effortlessly-with-yls-free-pdf-integrator-try-now/"><u>Merge Your PDF Files Effortlessly with YL's Free PDF Integrator - Try Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/sky-high-performance-windows-for-the-steam-deck/"><u>Sky-High Performance: Windows for the Steam Deck</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-windows-store-error-code-0x80131500/"><u>Solving Windows Store Error Code: 0X80131500</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-experience-on-switch-started-here/"><u>The Ultimate Gaming Experience on Switch Started Here</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-for-integrating-your-modern-gamepad-into-windows-156-chars/"><u>The Ultimate Guide for Integrating Your Modern Gamepad Into Windows (156 Chars)</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-is-corsairs-icue-link-4-reasons-to-upgrade/"><u>What Is Corsair's iCUE LINK? 4 Reasons to Upgrade</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-professional-edge-in-instagram-videos-with-green-screen-tech/"><u>[New] 2024 Approved Professional Edge in Instagram Videos with Green Screen Tech</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elevate-your-slides-with-auditory-elements-powerpoint/"><u>[Updated] 2024 Approved Elevate Your Slides with Auditory Elements (PowerPoint)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-distilling-essential-versions-from-microsofts-movie-maker-for-2024/"><u>[Updated] Distilling Essential Versions From Microsoft's Movie Maker for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-open-source-templates-transform-your-youtube-channel/"><u>[Updated] Open-Source Templates Transform Your YouTube Channel</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-corners-on-the-track-which-device-takes-the-lead/"><u>Cutting Corners on the Track: Which Device Takes the Lead?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/merging-laptops-and-console-a-guide-to-dual-monitor-gaming/"><u>Merging Laptops and Console: A Guide to Dual Monitor Gaming</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-5-best-free-flv-video-editors/"><u>New In 2024, Top 5 Best Free FLV Video Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/painted-canvases-at-your-fingertips-creating-art-in-win-11/"><u>Painted Canvases at Your Fingertips: Creating Art in Win 11</u></a></li>
+<li><a href="https://win-guides.techidaily.com/strategies-pour-proteger-le-secteur-reserve-hdd-sur-windows-8-7-and-11-guide-expert-en-langue-francaise/"><u>Stratégies Pour Protéger Le Secteur Réservé (HDD) Sur Windows 8, 7 & 11: Guide Expert en Langue Française</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-gameplay-remote-dualsense-sync-up/"><u>Streamlining Gameplay: Remote DualSense Sync-Up</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/two-methods-for-updating-your-applications-on-macos-a-comprehensive-guide/"><u>Two Methods for Updating Your Applications on macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-ventures-slowing-down-for-longer-playtimes/"><u>Virtual Ventures: Slowing Down for Longer Playtimes</u></a></li>
 </ul></div>
 

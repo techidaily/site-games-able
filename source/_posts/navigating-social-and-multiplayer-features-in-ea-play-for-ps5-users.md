@@ -1,7 +1,7 @@
 ---
 title: Navigating Social & Multiplayer Features in EA Play for PS5 Users
-date: 2025-01-11T17:18:11.939Z
-updated: 2025-01-17T00:09:06.221Z
+date: 2025-01-19T19:32:46.413Z
+updated: 2025-01-22T16:52:17.584Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is EA Play?
 
  Essentially, EA Play (once known as EA Access) is a subscription service for PlayStation and Xbox that offers select EA titles to “rent” while your subscription is on. It also gives you a 10% discount on some non-free titles, season passes, points packs, and DLCs. Lastly, EA Play membership will give you a free 10-hour early access trial to some EA games, and your progress will sync should you choose to buy the game.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
  By the way, EA Play is one of the[ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Subscribe to EA Play on the PS5
 
  Trying to navigate your PS5 to pay for EA Play could be a little tricky. Before you begin, you must[add a card as a payment method on your PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) (EA Play insists you have a card even though it will charge your wallet). So, we’ve detailed all the steps you should follow to successfully subscribe to it:
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 3. Scroll down till you see EA Play’s banner and choose**Learn More** .  
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-in-playstation-store-s-subscription-page.JPG)
 4. Select**$4.99** and choose**Order & Pay** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
@@ -61,21 +65,17 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
@@ -111,22 +111,22 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-guide-to-advanced-techniques-in-youtube-video-editing/"><u>2024 Approved The Ultimate Guide to Advanced Techniques in YouTube Video Editing</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-options-top-live-streaming-platforms-according-to-types/"><u>Best Options Top Live Streaming Platforms According to Types</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/experience-the-best-in-gaming-pad-technology-razers-firefly-v2-pro-revealed/"><u>Experience the Best in Gaming Pad Technology - Razer's Firefly V2 Pro Revealed!</u></a></li>
-<li><a href="https://games-able.techidaily.com/global-play-schedule-customizing-your-consoles-hour/"><u>Global Play Schedule: Customizing Your Console's Hour</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-does-amds-fsr-3-hold-up-against-nvidias-dlss-35/"><u>How Does AMD’s FSR 3 Hold Up Against NVIDIA's DLSS 3.5?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-g42-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia G42 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-enhance-old-directx-games-with-dxvk-for-windows/"><u>How to Enhance Old DirectX Games With DXVK for Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-grade-handguns-for-ultimate-video-stability/"><u>In 2024, Professional Grade Handguns for Ultimate Video Stability</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-games-and-getaways-key-strategies/"><u>Navigating Games & Getaways: Key Strategies</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-13-mini-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 13 mini</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-6-gaming-picks-for-content-makers/"><u>Perfect 6 Gaming Picks for Content Makers</u></a></li>
-<li><a href="https://games-able.techidaily.com/re-establishing-nintendo-switch-wi-fi-link/"><u>Re-Establishing Nintendo Switch Wi-Fi Link</u></a></li>
-<li><a href="https://games-able.techidaily.com/rhythm-revelation-mobile-tunes-challenge/"><u>Rhythm Revelation: Mobile Tunes Challenge</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-top-5-common-iphone-issues-with-dfu-mode-techniques/"><u>Solving the Top 5 Common iPhone Issues with DFU Mode Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-pathfinder-unearthing-scarlet-and-violet-rarities-91/"><u>The Ultimate Pathfinder: Unearthing Scarlet & Violet Rarities (91)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-xcover-7-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy XCover 7 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/iphonedvdand/"><u>プロ並みiPhone動画DVD化：高画質&スムーズ、コンビニ手順解説</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-canon-camera-insights-for-stunning-time-lapse-vids/"><u>[Updated] In 2024, Canon Camera Insights for Stunning Time-Lapse Vids</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-superior-audience-experiences/"><u>[Updated] Superior Audience Experiences</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-thrilling-twists-and-turns-short-track-22-for-2024/"><u>[Updated] Thrilling Twists & Turns - Short Track '22 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/do-shopping-blogs-have-a-payment-scheme-for-reports/"><u>Do Shopping Blogs Have a Payment Scheme for Reports?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-portable-chargers-for-sony-consoles/"><u>Exclusive Portable Chargers for Sony Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-emulating-neo-geo-on-your-psp-console/"><u>Guide to Emulating Neo Geo on Your PSP Console</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-2022-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE (2022) to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17 Pro Phone without PIN</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/professional-production-pro-the-alluring-tascam-cd-200bt-unveiled-and-reviews/"><u>Professional Production Pro: The Alluring Tascam CD-200BT Unveiled and Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/rejuvenate-and-revamp-gaming-with-windows-setup-on-steam-deck/"><u>Rejuvenate & Revamp Gaming with Windows Setup on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-taking-apart-an-xbox-360-slim/"><u>Step-by-Step Guide to Taking Apart an Xbox 360 Slim</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepping-up-your-gametime-tracking-on-steam/"><u>Stepping Up Your Gametime Tracking on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/two-ways-to-play-tetris-competitively-on-android-and-iphone/"><u>Two Ways to Play Tetris Competitively on Android and iPhone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-list-of-ai-prompt-creators-to-boost-your-tools-intelligence/"><u>Ultimate List of AI Prompt Creators to Boost Your Tool's Intelligence</u></a></li>
+<li><a href="https://games-able.techidaily.com/void-visionary-spotlight-on-new-gaming-systems/"><u>Void Visionary: Spotlight on New Gaming Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winrar-archive-success-nine-ways-to-prevent-checksum-errors/"><u>WinRAR Archive Success: Nine Ways to Prevent Checksum Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-one-mastery-no-need-for-traditional-controls/"><u>Xbox One Mastery: No Need for Traditional Controls</u></a></li>
 </ul></div>
 

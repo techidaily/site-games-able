@@ -1,7 +1,7 @@
 ---
 title: Discover Sony’s Top Games at a Bargain Price
-date: 2024-08-08T09:18:35.467Z
-updated: 2024-08-09T09:18:35.467Z
+date: 2025-01-17T21:39:23.867Z
+updated: 2025-01-22T17:42:31.189Z
 tags:
   - games
 categories:
@@ -24,11 +24,19 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Deathloop
 
@@ -36,23 +44,21 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Little Nightmares 1 & 2
 
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Owlboy
 
  Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of[differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Unravel Two
 
@@ -61,26 +67,21 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. The Last of Us: Part II
 
  Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for[games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Resident Evil Village
 
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
@@ -88,8 +89,9 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Final Fantasy VII Remake
 
  Final Fantasy VII Remake is the first of two parts. The next chapter, Final Fantasy VII Rebirth, is scheduled for release in 2024\. If you are intrigued by the look of Final Fantasy Rebirth, now is your chance to play the first part for 50% off.
@@ -100,14 +102,11 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
  What better way is there to have an adventurous summer than to get your hands on a literal adventure for super cheap? The PlayStation summer sale will end on August 16th, 2023, so make sure you take a look and pick up a great deal before it’s too late.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +115,18 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-innovation-unleashed-experience-our-6-best-signature-removers/"><u>[Updated] In 2024, Innovation Unleashed – Experience Our 6 Best Signature Removers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-ultimate-innovation-in-desktop-computers/"><u>2024 Approved Ultimate Innovation in Desktop Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-on-your-ai-assistant-is-github-copilot-or-chatgpt-the-best-tool-for-programmers/"><u>Deciding on Your AI Assistant: Is GitHub Copilot or ChatGPT the Best Tool for Programmers?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-when-your-device-cant-upgrade-to-windows-1903-feature-edition/"><u>Effective Solutions When Your Device Can't Upgrade to Windows 1903 Feature Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-a-discounted-rtx-3070-gpu-save-220-immediately-with-our-offer-power-your-gaming-today/"><u>Get a Discounted RTX 3070 GPU - Save $220 Immediately with Our Offer! Power Your Gaming Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/head-to-head-comparison-corsair-m65-rgb-ultra-vs-razer-flagship-an-in-depth-review-on-gizhack/"><u>Head-to-Head Comparison: Corsair M65 RGB Ultra Vs. Razer Flagship - An In-Depth Review on GizHack</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/m1-computation-face-off-lightweight-vs-robust-designs-for-2024/"><u>M1 Computation Face-Off Lightweight vs Robust Designs for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sion-audio-picks-top-10-video-to-mp3-convertors-for-2024/"><u>Precision Audio Picks Top 10 Video-to-Mp3 Convertors for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-on-premium-55-roku-smart-led-tv-now-at-an-unbeatable-price-of-649-dont-miss-out-this-labor-day-sale/"><u>Save Big on Premium 55 Roku Smart LED TV: Now at an Unbeatable Price of $649! Don't Miss Out This Labor Day Sale!</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-affordable-televisions-1k-or-less-proven-by-experts-zdnet/"><u>Top Affordable Televisions ($1K or Less) - Proven by Experts | ZDNet</u></a></li>
+</ul></div>
 

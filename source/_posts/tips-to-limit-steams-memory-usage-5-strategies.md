@@ -1,7 +1,7 @@
 ---
 title: "Tips to Limit Steam's Memory Usage: 5 Strategies"
-date: 2025-01-10T23:14:04.922Z
-updated: 2025-01-16T21:46:10.439Z
+date: 2025-01-19T06:00:56.892Z
+updated: 2025-01-23T00:28:16.663Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Does Steam Use So Much Memory?
 
 ![Steam processes running in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_processes_running_in_task_manager.jpg)
@@ -43,29 +39,21 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disable Hardware-Accelerated Rendering
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
@@ -86,9 +74,17 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
  This will sacrifice some eye candy for the sake of performance, but overall doesn't reduce memory usage beyond superficial levels. If you've tried all these options so far and still find your system struggling, it might be time for more drastic measures.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Launch the Steam Mini Games List
 
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
 
@@ -120,6 +116,10 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
  Steam may crash in certain circumstances using this configuration. If this is a problem, remove the command**\-cef-disable-breakpad** from the batch file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Go Bare Bones With Steam
 
  Steam has some great features, but not everyone needs them. If all you want out of Steam is a way to view and manage your games, and you don't care for the social features, then consider some of the above methods. You might be surprised by how little Steam needs to work.
@@ -139,22 +139,18 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-live-methods-for-quieter-track-output/"><u>[Updated] In 2024, Live Methods for Quieter Track Output</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-restoring-missing-sounds-in-obs-recordings/"><u>[Updated] Restoring Missing Sounds in OBS Recordings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/be-open-minded-listen-with-an-open-mind-without-preconceived-notions-or-biases-that-may-affect-understanding/"><u>Be Open-Minded Listen with an Open Mind, without Preconceived Notions or Biases that May Affect Understanding</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-advance-explored-in-metasig-space/"><u>ChatGPT Advance Explored in Metasig Space</u></a></li>
-<li><a href="https://games-able.techidaily.com/deletion-dynamics-streamlining-your-steam-game-inventory/"><u>Deletion Dynamics: Streamlining Your Steam Game Inventory</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/do-ai-output-sizes-have-a-predefined-character-limit/"><u>Do AI Output Sizes Have a Predefined Character Limit?</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-installation-of-adobe-on-microsoft-platform/"><u>Easy Installation of Adobe on Microsoft Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-financial-planning-for-steam-game-buying/"><u>Effective Financial Planning for Steam Game Buying</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-common-geforce-error-x0001-on-windows-pcs/"><u>Fixing Common GeForce Error X0001 on Windows PCs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-clipcreatorassessment-full-dissection/"><u>In 2024, ClipCreatorAssessment – Full Dissection</u></a></li>
-<li><a href="https://games-able.techidaily.com/inside-javas-top-rated-games-and-their-features/"><u>Inside Java's Top-Rated Games and Their Features</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-latest-atheros-drivers-on-windows-11/"><u>Installing Latest Atheros Drivers on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-it-more-important-to-upgrade-your-cpu-or-gpu-first/"><u>Is It More Important to Upgrade Your CPU or GPU First?</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-frame-retrieval-techniques-for-any-graphics-card/"><u>Next-Gen Frame Retrieval Techniques for Any Graphics Card</u></a></li>
-<li><a href="https://games-able.techidaily.com/spine-support-ergonomic-gaming-chair-hacks/"><u>Spine Support: Ergonomic Gaming Chair Hacks</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-peak-performance-in-mobile-gaming-a-dual-method-for-checking-fps/"><u>Unlock Peak Performance in Mobile Gaming: A Dual Method for Checking FPS</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-edge-stands-tall-in-the-browser-wars-gamer-style/"><u>Why Edge Stands Tall in the Browser Wars, Gamer-Style</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-insider-tips-thriving-in-ginger-islet/"><u>[New] In 2024, Insider Tips Thriving in Ginger Islet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-latest-tech-insights-on-sonys-s3700-blu-ray/"><u>[New] Latest Tech Insights on Sony's S3700 Blu-Ray</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>[Updated] In 2024, Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-the-buzz-navigating-a-world-without-social-media/"><u>Beyond the Buzz: Navigating a World without Social Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-gameplay-experience-on-switch-via-efficient-controllers-using-ryujinx/"><u>Enhance Gameplay Experience on Switch via Efficient Controllers Using Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-hardware-info-to-run-bg3-successfully/"><u>Essential Hardware Info to Run BG3 Successfully</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/how-to-add-music-to-kinemaster-for-2024/"><u>How to Add Music to KineMaster for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-watermark-free-videos-how-to-remove-filmora-branding-with-or-without-paying/"><u>New Watermark-Free Videos How to Remove Filmora Branding with or without Paying</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-joystick-jumble-quick-guide-to-common-fault-resolutions/"><u>Ps4 Joystick Jumble - Quick Guide to Common Fault Resolutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-vs-innovative-ps5-redesign-details/"><u>Retro Vs. Innovative: PS5 Redesign Details</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-zero-30-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Zero 30 5G FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlinking-from-ps5-a-comprehensible-approach/"><u>Unlinking From PS5: A Comprehensible Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-full-potential-of-nintendo-switch-and-sony-remotes/"><u>Unlocking Full Potential of Nintendo Switch and Sony Remotes</u></a></li>
 </ul></div>
 

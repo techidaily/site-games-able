@@ -1,7 +1,7 @@
 ---
 title: Top 6 Game Takeaways From Helldivers 2'S Journey
-date: 2025-01-16T00:25:38.486Z
-updated: 2025-01-17T00:23:49.310Z
+date: 2025-01-16T23:59:57.728Z
+updated: 2025-01-23T03:14:44.918Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,19 +44,11 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 ![Screenshot of Helldivers 2 Super Earth public service announcement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0416461.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Helldivers 2 is a third-person shooter live service game where players become Helldivers fighting for Super Earth. Players join teammates in missions on different planets across the universe to eradicate Terminids (bug-like alien life forms) and Automatons (robots). Helldivers harvest valuable resources from planets that are home to Terminids and Automatons.
 
  Gamers can play Helldivers 2 on the PlayStation 5 and PC. One of the keys to a successful multiplayer game is ensuring that even if your friend has a PC, but you only have a PlayStation, you'll still be able to join each other in the interplanetary fight for democracy in Helldivers 2.
 
  Cross-platform multiplayer features allow people to play games with friends who may use different platforms and maintain social connections while increasing the overall player pool. It's one of the reasons[platform-exclusive games are becoming a thing of the past](https://www.makeuseof.com/platform-exclusive-games-thing-of-the-past-good/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 Listen to Community Members
 
@@ -70,17 +66,21 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  Helldivers 2 also has a[Discord server](https://discord.com/invite/zbbZ5rNcuK) with almost 1 million members, where players receive updates from the game's developers. During the Sony PSN linking debacle, development leads updated the game's player base amid ongoing negotiations with Sony.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Offer Community Challenges
 
 ![Screenshot of Major Order in Helldivers 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415472.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Helldivers 2 also succeeded in creating a sense of community through weekly challenges known as Major Orders. One recent Major Order required the game's player base to kill 2 million Terminids to receive in-game currency called medals.
 
  The game's developers put out new Major Orders every week to engage the community. The community is not guaranteed to pass each Major Order, making it a challenge for the entire player base. Each mission in Helldivers 2 that a player participates in adds to the progress of the Major Order, making the success of the mission entirely based on community progress.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Have a Free Progression System
 
@@ -92,15 +92,19 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 ![Screenshot of Helldivers 2 Super Credits store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415072.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are also samples scattered across each mission depending on the difficulty level. Players can trade in these samples to upgrade their ships and stratagems, which are mission call-ins and weapons, such as airstrikes and turrets. Finally, requisition slips pop up, which players earn by completing missions or locating points of interest on the map, which unlock new stratagems.
 
 ![Screenshot of Helldivers 2 strategem menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415051.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There are plenty of other[live service games that are not pay-to-win](https://www.makeuseof.com/live-service-games-that-arent-pay-to-win/) , as well, including Fortnite and Smite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Balance Gameplay Mechanics
 
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
  For example, the SG-225 Breaker shotgun got "nerfed", meaning the game developers reduced its overall power by reducing its ammo capacity and increasing its recoil to balance the game and encourage using other weapons.
 
 ![Screenshot of Helldivers 2 SG-225 Breaker automatic shotgun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0504130.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Balancing game mechanics helps keep the experience varied and allows people to use different combinations of guns and other strategies to succeed in the game.
 
@@ -133,18 +133,17 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-eye-catching-narrative-starter-gadget/"><u>[Updated] Eye-Catching Narrative Starter Gadget</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-leading-the-way-in-video-production-comprerant-free-youtube-intro-makers-for-2024/"><u>[Updated] Leading the Way in Video Production Compreran't Free YouTube Intro Makers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dts-flac-flac-online-movavi/"><u>DTS FLAC 투 FLAC: Online 무료 변환을위한 모바일 친화적 도구 - Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-gameplay-with-the-seamless-magic-of-nvidia-g-sync/"><u>Enhance Your Gameplay with the Seamless Magic of Nvidia G-Sync</u></a></li>
-<li><a href="https://games-able.techidaily.com/handheld-horizon-nintendo-2024-rumor-round-up/"><u>Handheld Horizon: Nintendo 2024 Rumor Round-Up</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-stabilization-tech-for-youtube-content-creators/"><u>In 2024, Professional Stabilization Tech for YouTube Content Creators</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/proven-techniques-securely-archive-your-instagram-story/"><u>Proven Techniques Securely Archive Your Instagram Story</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5s-ability-to-run-ps4-games/"><u>PS5's Ability to Run PS4 Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/reconnecting-issues-revive-your-gaming-experience-with-headsets/"><u>Reconnecting Issues? Revive Your Gaming Experience with Headsets</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-z-flip-5-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy Z Flip 5 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/smartchoice-display-gamemonitor-27m2v-led/"><u>SmartChoice Display: GameMonitor 27M2V LED</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-the-advantages-of-different-elgato-decks/"><u>Understanding the Advantages of Different Elgato Decks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ultimate-guide-to-sustainable-visual-effects-equipment/"><u>[Updated] 2024 Approved Ultimate Guide to Sustainable Visual Effects Equipment</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-foremost-low-impact-screen-recorders-explored-for-2024/"><u>[Updated] Foremost Low-Impact Screen Recorders Explored for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-drones-demystified-crucial-considerations-before-buying/"><u>[Updated] In 2024, Drones Demystified Crucial Considerations Before Buying</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-natural-setups-comprehensive-free-screen-templates-for-cinephiles/"><u>2024 Approved Natural Setups Comprehensive Free Screen Templates for Cinephiles</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-y02t-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo Y02T via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/delayed-drops-not-just-a-setback/"><u>Delayed Drops - Not Just a Setback?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-rectify-steam-problems-on-windows-11-pc/"><u>How to Rectify Steam Problems on Windows 11 PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-hybrid-work-pitfalls-proven-techniques-for-sustaining-effective-remote-and-office-integration-expert-advice-from-zdnet/"><u>Navigating Hybrid Work Pitfalls: Proven Techniques for Sustaining Effective Remote and Office Integration | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-frontiers-in-gaming-combatting-increasing-cyberthreats/"><u>New Frontiers in Gaming: Combatting Increasing Cyberthreats</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/syncing-social-media-post-videos-on-twitter-and-tumblr-for-2024/"><u>Syncing Social Media Post Videos on Twitter and Tumblr for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tackling-chatgpts-compliance-concerns-google-news-modifications-and-achieving-optimal-mobile-internet-performance-on-leisure-trips/"><u>Tackling ChatGPT's Compliance Concerns, Google News Modifications & Achieving Optimal Mobile Internet Performance on Leisure Trips</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-gameplay-potential-using-ryujinxs-controller-features/"><u>Unlock Your Gameplay Potential Using Ryujinx’s Controller Features</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Xbox Lighting Setup 101: Customize Backlit Controls"
-date: 2025-01-11T20:56:45.641Z
-updated: 2025-01-16T17:19:31.588Z
+date: 2025-01-16T02:07:30.906Z
+updated: 2025-01-22T18:31:29.427Z
 tags:
   - games
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![Xbox home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-home-screen-2.jpeg)
 3. Now, go to**General > TV & display options > Night mode** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![General settings on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tv-and-display-options-xbox-setting-1.jpeg)
 4. Under**Preferences** , you’d see the option for**Controller brightness** . Select this and press**A** to access the settings for controller brightness.  
 
@@ -41,11 +45,15 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 5. Check the box next to**Customize brightness** to highlight the slider for brightness adjustment. Select the**Default brightness** option and slide the on-screen slider using the D-pad or the left thumbstick to increase or decrease brightness. You can either slide the slider all the way to the left to turn the light off or adjust brightness across seven different brightness levels according to your preference.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Xbox customize controller brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-customize-controller-brightness-setting-1.jpeg)
 6. Once you are satisfied with the brightness level, press**B** on your controller or press the**Xbox button** and select**Home** to exit the settings menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can also access the**Controller brightness** settings by going to **Settings > Accessibility > Night mode > Controller brightness** .
 
@@ -54,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  Now, every time you turn on your Xbox controller, the light will automatically be adjusted to the set brightness. However, if you see a blinking light or no light on your controller, it's possible that your[Xbox controller is not working properly](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) , and you might need to fix it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Adjust the Brightness of Your Xbox Console Light
@@ -66,21 +74,13 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![Xbox power button brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-power-button-brightness-setting-1.jpeg)
 3. Select and check the checkbox next to**Customize brightness** . Doing so highlights the slider for adjusting the console light’s brightness. Unlike the controller light, which has seven different brightness levels, there are only three brightness options for the console’s light. You can either completely turn it off, keep it at a 50% brightness level or increase the brightness to a full 100%.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Xbox customize power button brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-customize-power-button-brightness-setting-2.jpeg)
 4. Slide the slider left and right using the left thumbstick and leave it on the brightness level that you prefer. Exit the settings menu once you’ve adjusted the brightness according to your liking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With this, you've successfully adjusted your Xbox controller and console light's brightness.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enjoy a More Personalized Experience With Your Xbox Controller
@@ -104,16 +104,20 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-budget-friendly-high-quality-earphones-for-gaming-for-2024/"><u>[Updated] Budget-Friendly, High-Quality Earphones for Gaming for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-easy-guide-to-exceptional-thumbnails-for-2024/"><u>[Updated] YouTube's Easy Guide to Exceptional Thumbnails for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/cool-down-boost-up-secrets-to-gpu-thermal-management/"><u>Cool Down, Boost Up: Secrets to GPU Thermal Management</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/easy-steps-transforming-dav-files-into-avi-format/"><u>Easy Steps: Transforming DAV Files Into AVI Format</u></a></li>
-<li><a href="https://games-able.techidaily.com/experience-the-dreamcast-revival-android-companion-guide-for-gamers/"><u>Experience the Dreamcast Revival: Android Companion Guide for Gamers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hassle-free-adb-driver-installation-process-on-windows-systems/"><u>Hassle-Free ADB Driver Installation Process on Windows Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigate-with-precision-the-complete-guide-to-idevice-podcast-downloads/"><u>In 2024, Navigate with Precision The Complete Guide to iDevice Podcast Downloads</u></a></li>
-<li><a href="https://games-able.techidaily.com/selective-guide-top-5-must-have-specifications-in-a-gamers-mouse/"><u>Selective Guide: Top 5 Must-Have Specifications in a Gamers' Mouse</u></a></li>
-<li><a href="https://games-able.techidaily.com/strengthening-cognition-through-nyts-word-challenge-strands-edition/"><u>Strengthening Cognition Through NYT's Word Challenge - 'Strands' Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-console-connoisseurs-handbook-for-frequent-flyers/"><u>The Console Connoisseur's Handbook for Frequent Flyers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-expert-ff-video-extractor-kit-efficient-file-grabbing-firefox-compatibility/"><u>[New] 2024 Approved Expert FF Video Extractor Kit Efficient File Grabbing, Firefox Compatibility</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-comparing-magix-music-maker-and-studio-max/"><u>[Updated] 2024 Approved Comparing Magix Music Maker and Studio Max</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-roadmap-to-creating-successful-youtube-collaborations/"><u>[Updated] The Roadmap to Creating Successful YouTube Collaborations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-celestial-canvas-unveiled-select-10-sites-for-high-quality-skies/"><u>2024 Approved Celestial Canvas Unveiled Select 10 Sites for High-Quality Skies</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-online-gaming-buddies-steam-way/"><u>Discovering Online Gaming Buddies: Steam Way</u></a></li>
+<li><a href="https://fox-links.techidaily.com/efficient-strategies-for-viewing-youtube-votes-and-reactions/"><u>Efficient Strategies for Viewing YouTube Votes and Reactions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-successfully-downloading-netflix-films-onto-your-laptop/"><u>Guide: Successfully Downloading Netflix Films Onto Your Laptop</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-enable-or-disable-the-game-overlay-in-discord/"><u>How to Enable or Disable the Game Overlay in Discord</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-class-on-resolving-common-graphics-card-problems/"><u>Master Class on Resolving Common Graphics Card Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/non-nvidia-gpus-for-geforce-rtx-4060-ti-fans/"><u>Non-NVIDIA GPUs for GeForce RTX 4060 Ti Fans</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-ai-directive-impact-on-gaming-experience/"><u>Steam's AI Directive: Impact on Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribers-choice-psplus-vs-xbox-game-pass/"><u>Subscriber's Choice: PS+ Vs. Xbox Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-tipping-could-hurt-developer-player-relationships/"><u>Why Tipping Could Hurt Developer-Player Relationships</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unearthing Indie Wonders: My Top Game Selections"
-date: 2025-01-14T22:44:49.397Z
-updated: 2025-01-16T19:58:18.598Z
+date: 2025-01-19T05:06:21.135Z
+updated: 2025-01-23T01:48:59.479Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Last Word](#last-word)
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 Last Word
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Untitled Goose Game
@@ -54,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 A Short Hike
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
  Years and years ago, I came across this short, charming little game called[Storyteller](https://annapurnainteractive.com/en/games/storyteller) where you would click and drag various elements to tell a particular story. I was certainly surprised when I found out the developer was making a full version for PC and console. That game was released last year under the same title, expanding the original with more characters and situations into more complicated puzzles.
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
@@ -120,22 +120,16 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-instant-grooves-lasting-stories-making-sense-of-music-shorts/"><u>[Updated] Instant Grooves, Lasting Stories Making Sense of Music Shorts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-snapsizestrategy-optimize-your-visual-content-on-ig-for-2024/"><u>[Updated] SnapSizeStrategy Optimize Your Visual Content on IG for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-the-economics-behind-ea-play/"><u>Demystifying the Economics Behind EA Play</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diagnose-a-check-engine-warning-with-this-innovative-bluetooth-obd-ii-adapter-top-picks/"><u>Diagnose a Check Engine Warning with This Innovative Bluetooth OBD-II Adapter - Top Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/eco-conscious-gamers-budget-vr-choices/"><u>Eco-Conscious Gamers' Budget VR Choices</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-gaming-experience-with-a-new-joystick/"><u>Elevate Gaming Experience with a New Joystick</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-spending-on-mid-range-gaming-mothers/"><u>Essential Spending on Mid-Range Gaming Mothers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-solutions-for-when-minecraft-just-wont-move-past-the-loading-phase/"><u>Expert Solutions for When Minecraft Just Won't Move Past the Loading Phase</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-asus-frp-bypass-by-drfone-android/"><u>In 2024, About Asus FRP Bypass</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-more-flash-discover-innovative-solutions-to-reload-games/"><u>No More Flash? Discover Innovative Solutions to Reload Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/quick-start-methods-for-producing-and-perfecting-multiple-snaps-in-snapchat-for-2024/"><u>Quick Start Methods for Producing and Perfecting Multiple Snaps in Snapchat for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/resume-efficiency-and-its-role-in-enhancing-xbox-sx-play/"><u>Résumé Efficiency & Its Role in Enhancing Xbox S/X Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/ryujinx-for-playstation-and-nintendo-switch-the-ultimate-guide/"><u>Ryujinx for PlayStation and Nintendo Switch: The Ultimate Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/setting-up-sonys-console-controller-in-windowsmacos/"><u>Setting Up Sony's Console Controller in Windows/macOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlining-photo-and-video-transfer-from-android/"><u>Streamlining Photo & Video Transfer From Android</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tablet-showdown-in-depth-look-at-amazon-fire-versus-samsung-devices-for-tech-savvy-shoppers/"><u>Tablet Showdown: In-Depth Look at Amazon Fire Versus Samsung Devices for Tech Savvy Shoppers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boosting-your-zoom-meetings-chromebook-edition/"><u>[New] Boosting Your Zoom Meetings Chromebook Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-convert-srt-with-ease-the-finest-free-converters-ranked/"><u>2024 Approved Convert SRT with Ease - The Finest FREE Converters Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-researchers-prove-size-doesnt-matter-bigger-artificebots-arent-always-more-efficient-zdnet-insights/"><u>Amazon Researchers Prove Size Doesn't Matter: Bigger Artificebots Aren't Always More Efficient | ZDNET Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-incompatible-files-with-steam-pc/"><u>Fixing Incompatible Files with Steam PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-c67-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme C67 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/maximizing-your-online-speed-effective-strategies-for-enhanced-internet-performance-the-yl-computing-guide/"><u>Maximizing Your Online Speed: Effective Strategies for Enhanced Internet Performance - The YL Computing Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-steam-deck-ssd-replacement-a-step-by-step-guide/"><u>Simplifying Steam Deck SSD Replacement: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-full-power-of-your-nintendo-switch/"><u>Unlock the Full Power of Your Nintendo Switch</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728507878032-windows-11-3/"><u>Windows 11スペースクリア: 最も効果的な上位3つの手法</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-s-controller-keep-it-connected/"><u>Xbox S Controller - Keep It Connected</u></a></li>
 </ul></div>
 

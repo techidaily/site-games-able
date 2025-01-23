@@ -1,7 +1,7 @@
 ---
 title: Key Steps for Reviewing Gameplay Durations on Xbox
-date: 2025-01-12T16:54:42.465Z
-updated: 2025-01-16T23:05:44.687Z
+date: 2025-01-15T20:09:58.823Z
+updated: 2025-01-23T06:25:36.679Z
 tags:
   - games
 categories:
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 ![A screenshot of the Time Played statistic on Xbox Series X showcasing no time played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/001-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
 
 ## How to Check Your Time Played From Your Xbox Series X|S
@@ -48,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select the game you want to see the**Time played** stat for.
 
 ![A screenshot of the Achievements screen for Xbox games on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-selection.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Under**Progress** , highlight**Stats** .
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
@@ -82,18 +82,18 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 ![A screenshot of the Load screen for Mass Effect Legendary Edition on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2893.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, the Xbox app for Windows and PC can help to reveal an accurate**Time played** stat for your Xbox games. By using the**Achievements** tab and selecting a game, you can access the**Time played** stat outside your Xbox Series X|S. You can install the Xbox app through the official[Xbox](https://www.xbox.com/en-US/apps/xbox-app-for-pc) site.
 
 ![A screenshot of the game statistics for Mass Effect Legendary Edition taken from the Xbox app for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
@@ -117,15 +117,24 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-earnings-in-cosmetic-videography/"><u>[New] In 2024, Boosting Earnings in Cosmetic Videography</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-aural-adventures-next-gen-devices/"><u>[Updated] In 2024, Aural Adventures Next-Gen Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-making-fb-video-accessible-on-household-tvs/"><u>[Updated] In 2024, Making Fb Video Accessible on Household TVs</u></a></li>
-<li><a href="https://games-able.techidaily.com/ephemeral-gaming-experiences-worth-considering/"><u>Ephemeral Gaming Experiences – Worth Considering?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-samsung-galaxy-a25-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy A25 5G FRP Bypass</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-your-gaming-setup-with-series-xs-headphones/"><u>Optimize Your Gaming Setup with Series X/S Headphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-evolution-from-playing-classic-ps4-games-to-ps5/"><u>The Evolution: From Playing Classic PS4 Games to PS5</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/ultimate-guide-prime-video-stabilizers-for-2024/"><u>Ultimate Guide Prime Video Stabilizers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-are-the-differences-between-steam-and-gog/"><u>What Are the Differences Between Steam and GOG?</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-zero-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Zero 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-streamlining-your-youtube-music-journey/"><u>[New] 2024 Approved Streamlining Your YouTube Music Journey</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/amplifying-your-playlists-on-instagram-for-2024/"><u>Amplifying Your Playlists on Instagram for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-professional-hazards-of-chatgpt-engagement-analyzing-different-workplace-scenarios-and-their-implications/"><u>Assessing the Professional Hazards of ChatGPT Engagement: Analyzing Different Workplace Scenarios and Their Implications</u></a></li>
+<li><a href="https://games-able.techidaily.com/create-hybrid-gaming-system-xbox-plus-laptop-combination/"><u>Create Hybrid Gaming System: Xbox + Laptop Combination</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-thrills-of-terminal-gaming-on-linux/"><u>Discover the Thrills of Terminal Gaming on Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-faulty-credit-card-recognition-errors/"><u>Eliminating Faulty Credit Card Recognition Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-maintain-a-shadowy-presence-on-instagram-livestreams/"><u>How to Maintain a Shadowy Presence on Instagram Livestreams</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-free-pass-to-premium-video-editing-tools/"><u>In 2024, The Free Pass to Premium Video Editing Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g-stylus-5g-2023-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G Stylus 5G (2023) Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-swap-settings-on-linux-what-you-need-to-know-and-adjustments-for-optimal-performance/"><u>Mastering Swap Settings on Linux: What You Need to Know and Adjustments for Optimal Performance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/night-avenger-black-vs-day-defender-silver/"><u>Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
+<li><a href="https://games-able.techidaily.com/pre-release-gaming-economy-whats-in-it-for-us/"><u>Pre-Release Gaming Economy – What's in It for Us?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-resolve-your-winwordexe-crashing-issues/"><u>Quick Solutions: Resolve Your Winword.exe Crashing Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/remote-play-made-simple-launch-your-pc-games-on-steam-deck/"><u>Remote Play Made Simple: Launch Your PC Games on Steam Deck</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211360115--rest-is-sacred/"><u>Rest Is Sacred | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-decks-enhanced-gaming-experience-via-sd/"><u>Steam Deck's Enhanced Gaming Experience via SD</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-creativity-5-ways-to-enhance-your-xbox-game-bar-on-windows-pcs/"><u>Unleashing Creativity: 5 Ways to Enhance Your Xbox Game Bar on Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-should-mobility-in-games-be-questioned/"><u>Why Should Mobility in Games Be Questioned?</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-xbox-game-pass-is-a-gamers-best-friend/"><u>Why Xbox Game Pass Is a Gamer’s Best Friend</u></a></li>
 </ul></div>
 

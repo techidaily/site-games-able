@@ -1,7 +1,7 @@
 ---
 title: "Valve Breaks a Decade Long Seal: Updates Shared Games"
-date: 2024-08-08T09:18:39.499Z
-updated: 2024-08-09T09:18:39.499Z
+date: 2025-01-20T06:55:11.671Z
+updated: 2025-01-22T17:34:36.839Z
 tags:
   - games
 categories:
@@ -15,8 +15,9 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 ## Valve Breaks a Decade Long Seal: Updates Shared Games
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Steam Families: What Has Changed? How Does It Work?](#steam-families-what-has-changed-how-does-it-work)
@@ -24,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 * [The Pros and Cons of Steam Families](#the-pros-and-cons-of-steam-families)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Steam Families beta includes parental controls, game pooling, and structured playtime. This improves upon prior Family Sharing and Family View features.
@@ -34,14 +36,8 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
  Between Family Sharing and Family View on Steam, the game sharing features of the platform have historically been a bit difficult to manage. However, an update makes family sharing more streamlined and easier to use.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Steam Families: What Has Changed? How Does It Work?
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
 
  Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
@@ -61,22 +57,28 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
  These changes allow you to truly have a parental system for Steam, much like a[kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enter the Steam Families Beta
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
 ![Steam Family section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-section-in-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
  If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Pros and Cons of Steam Families
 
@@ -100,14 +102,11 @@ Some of the drawbacks of the feature include:
 
  Steam Families is still in beta, but it introduces a lot of new perks that a parent or guardian would find useful. Even if you’re not a gamer yourself, having a Steam account and starting your own Steam Family is something you can do as a benefit for your children.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +115,22 @@ Some of the drawbacks of the feature include:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-a-step-by-step-guide-to-rewind-a-livestream-with-these-ten-approaches/"><u>[New] 2024 Approved A Step-by-Step Guide to Rewind a Livestream with These Ten Approaches</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-casual-follower-to-dedicated-subscriber-inspirational-journey/"><u>[Updated] 2024 Approved From Casual Follower to Dedicated Subscriber Inspirational Journey</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-perfecting-the-art-of-borders-in-instagram-photos/"><u>[Updated] 2024 Approved Perfecting the Art of Borders in Instagram Photos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-premium-console-emulation-choosing-the-top-5-for-windows/"><u>[Updated] 2024 Approved Premium Console Emulation Choosing the Top 5 for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-elite-audio-experience-with-200-gaming-sound-card-comprehensive-analysis-on-zdnet/"><u>Affordable Elite Audio Experience with $200 Gaming Sound Card | Comprehensive Analysis on ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-with-the-black-shark-5-pro-expert-analysis-and-recommendations-pcworld-review/"><u>Elevate Your Gameplay with the Black Shark 5 Pro - Expert Analysis and Recommendations | PCWorld Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/enrich-meeting-experience-a-compilation-of-the-top-10-free-apps-for-2024/"><u>Enrich Meeting Experience A Compilation of the Top 10 Free Apps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-deal-grab-fallout-76-on-xbox-at-a-record-low-price-of-just-2-limited-time-offer-dont-miss-out/"><u>Exclusive Deal: Grab Fallout 76 on Xbox at a Record-Low Price of Just $2! Limited Time Offer – Don't Miss Out!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/exploring-the-best-of-gopro-cameras-side-by-side-for-2024/"><u>Exploring the Best of GoPro Cameras Side by Side for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-ready-fortnite-returns-to-ios-devices-learn-your-options-for-immediate-gameplay-tech-insights/"><u>Get Ready: Fortnite Returns to iOS Devices! Learn Your Options For Immediate Gameplay - Tech Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-battle-of-silicon-titans-intel-i7-258v-versus-amd-phoenix-processor-dominates-new-bapco-benchmarks/"><u>The Battle of Silicon Titans: Intel I7-258V Versus AMD 'Phoenix' Processor Dominates New BAPCO Benchmarks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-meizu-21-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Meizu 21 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-top-rated-nintendo-switch-add-ons-choices-for-all-gamers/"><u>Ultimate Guide to Top-Rated Nintendo Switch Add-Ons : Choices for All Gamers!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-power-in-depth-review-of-razers-blackshark-v2-pro-gaming-headset-for-the-dedicated-player-zdnet/"><u>Unleashing Power: In-Depth Review of Razer's Blackshark V2 Pro Gaming Headset for the Dedicated Player | ZDNet</u></a></li>
+</ul></div>
 

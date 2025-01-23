@@ -1,7 +1,7 @@
 ---
 title: Enhancing Graphics Performance in Windows Gaming
-date: 2024-08-15T17:20:18.772Z
-updated: 2024-08-16T17:20:18.772Z
+date: 2025-01-15T19:10:21.889Z
+updated: 2025-01-23T04:46:41.359Z
 tags:
   - games
 categories:
@@ -32,15 +32,9 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  Let's begin by looking at a few fundamental fixes you should perform to boost game frame rates. In many cases, when you wonder why your game FPS is so low, these tweaks will make a big improvement.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Update Your Drivers
 
 ![screenshot of amd radeon program updating drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_radeon_program_updating_drivers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Drivers are special pieces of software that handle the interface between your computer and connected hardware. Average PC users don't usually need to worry about updating them, but it's a different story for gamers. Running out-of-date drivers, especially your video drivers, can hamper gaming performance.
 
@@ -50,12 +44,13 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  Instead of downloading drivers manually, Nvidia and AMD both offer software utilities that make downloading the latest drivers easy. You can download these on the driver pages above, which we recommend doing. In addition to letting you know when a new update is available, they give you access to more tweaks and features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Close Unnecessary Background Programs
 
 ![windows 10 task manager process list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-10-task-manager-process-list.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  When you're playing a game, especially demanding modern titles, it's a good idea to close other processes that you don't need. This frees up resources that your computer can further dedicate to the game.
 
@@ -68,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 ### 3\. Defragment Your HDD
 
 ![Disk defragmentation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/disk-defragmentation.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Most gamers have hopefully upgraded to a solid-state drive (SSD) by now. But in case you're still using an HDD, you should make sure the disk is defragmented. If you use an SSD, you should not defragment, as doing so can shorten the life of your drive.
@@ -78,13 +74,14 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  Modern versions of Windows do this automatically, so you shouldn't need to defrag manually. You can adjust the schedule if you like, though. And if you are using an HDD, prioritize[getting an SSD](https://www.makeuseof.com/tag/5-things-consider-buying-ssd/) as soon as possible for a major boost in gaming performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Low Game FPS With Windows Tweaks
 
  Now that you've performed the basic steps to fix low FPS on your machine, let's take a look at some[Windows settings you can adjust to enhance gaming performance](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### 4\. Adjust Power Options
 
  The power options in Windows let you change settings related to energy consumption with your machine. On the default plan, Windows tries to balance power consumption with performance. Sometimes, especially on laptops, this can lead to decreased performance in games.
@@ -94,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
  Here, choose**Show additional plans** if necessary, then select the**High performance** option.
 
 ![windows power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/windows-power-plan.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note that this will increase the power consumption of your computer. On a desktop, this isn't really a problem, aside from a slightly higher energy bill. But laptops will see worse battery life, so make sure your system is plugged in.
 
@@ -109,9 +110,6 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  Click the**Adjust for best performance** button to disable all these effects, followed by**OK** . It will take a moment as Windows disables them. When it's done, the interface won't look as slick, but you won't notice that when you're playing a game anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Disable the Game Bar and Background Recording
 
  Windows 10 and 11 include a Game Bar feature that allows you to record game clips, take screenshots, and even stream your gameplay. While this is handy in certain situations, it can also negatively impact game performance.
@@ -121,13 +119,11 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
  Next, you should switch to the**Captures** tab and ensure the**Record in the background while I'm playing a game** (Windows 10) or**Record what happened** (Windows 11) toggle is turned off. This is another Windows gaming feature that makes it easy to capture big moments, but uses up system resources that are better put towards graphical performance.
 
 ![Windows 10 Captures Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Captures-Settings-Panel.png)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Enable Game Mode in Windows
 
  Also in the**Gaming** section of Settings, switch to the**Game Mode** tab. Here, confirm that you have the slider turned on.
@@ -147,17 +143,15 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
  You can also turn off individual visual effects, such as reflections and fog. While these can make the game look pretty, they put a strain on your GPU. To further improve the frame rate, disable extraneous options like these.
 
 ![Overwatch PC Graphics Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/05/Overwatch-PC-Graphics-Settings.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Also, keep an eye out for options that let you limit FPS. These can be useful if your GPU sends more frames than your monitor can keep up with, but obviously limiting your FPS may result in a sub-par frame rate. If you have a 144Hz monitor, you don't want to limit the game to 60FPS.
 
  If you're really struggling to run a game smoothly, consider lowering the resolution. Dropping it from 1920x1080 (1080p) to 1080x720 (720p), for instance, will have a positive effect on FPS. And for games where performance matters more than looks (like competitive online games), this is a worthy tradeoff.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 9\. Use Fullscreen Mode
 
  Most games allow you to play in fullscreen, windowed, or borderless windowed modes. For maximum performance, you should choose fullscreen.
@@ -172,20 +166,29 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
 ![Steam Verify Local Files Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Steam-Verify-Local-Files-Button.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Else, try uninstalling and reinstalling the game to see if that improves performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hardware Fixes for Low Game FPS
 
  If you tried all the above and your games are still running at low FPS, your hardware is likely a bottleneck. In this case, you can look at making changes to your graphics card and other hardware for better frame rates.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 11\. Consider Overclocking Your Components
 
  If you don't have the money to upgrade your PC's components right now, you might consider overclocking your existing hardware. This allows you to squeeze a little more power out of what you already have, at essentially no cost.
 
  Overclocking might sound dangerous, but it's safe if you do it properly. See our[guide to overclocking your GPU](https://www.makeuseof.com/overclock-gpu-windows-10-asus-gpu-tweak/) if you'd like to give it a try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 12\. Upgrade Your Hardware
 
@@ -201,23 +204,17 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  Find out[which computer upgrades improve performance the most](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) to see what you should replace first.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Fix Low FPS Issues Easily
 
  We've looked at a number of tips to fix low FPS on your PC. Hopefully, some combination of these helps boost your frame rate back to an acceptable level.
 
  In the end, FPS issues come down to system resources. This is the case whether your computer is wasting resources on other processes or unnecessary features, or doesn't have enough power in the first place.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -226,4 +223,26 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-reviewing-the-pinnacle-of-tv-tech-lg-27ud88-uhd-oled-hdtv/"><u>[New] Reviewing the Pinnacle of TV Tech - LG 27UD88-UHD OLED HDTV</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/capture-and-save-your-favorite-clips-as-mp4-avi-or-mov-using-nowvideo-downloader-for-pc-and-mac/"><u>Capture and Save Your Favorite Clips as MP4, AVI, or MOV Using NowVideo Downloader for PC and Mac</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-geforce-rtx-3080-drivers-now-compatible-with-older-windows-versions/"><u>Download GeForce RTX 3080 Drivers Now - Compatible with Older Windows Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embracing-simplicity-with-windows-photos-generate-delete/"><u>Embracing Simplicity with Windows Photos Generate Delete</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-virtual-retail-steam-revises-policy/"><u>End of Virtual Retail: Steam Revises Policy</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-techniques-to-excel-at-pokemon-on-idevices/"><u>Essential Techniques to Excel at Pokémon on iDevices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-safari-issues-on-your-iphone-top-10-solutions/"><u>Fixing Safari Issues on Your iPhone: Top 10 Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonizing-play-the-finest-dual-platform-games/"><u>Harmonizing Play: The Finest Dual-Platform Games</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-microsofts-growing-paranoia-impacts-us-all-a-deep-dive-on-zdnet/"><u>How Microsoft's Growing Paranoia Impacts Us All - A Deep Dive on ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-11x-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme 11X 5G Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-camon-30-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Camon 30 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-steam-achievement-manager-to-unlock-any-achievement/"><u>How to Use Steam Achievement Manager to Unlock Any Achievement</u></a></li>
+<li><a href="https://games-able.techidaily.com/lead-from-the-sidelines-manage-champions-on-pc-without-costs/"><u>Lead From the Sidelines: Manage Champions on PC without Costs</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-20-mobile-gaming-sets-for-social-interaction/"><u>Perfect 20 Mobile Gaming Sets for Social Interaction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/photographic-fundamentals-in-5-minutes-with-snapseed/"><u>Photographic Fundamentals in 5 Minutes with Snapseed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/screen-and-webcam-recording-made-easy-top-10-windows-10-software-for-2024/"><u>Screen and Webcam Recording Made Easy Top 10 Windows 10 Software for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-subscribe-unlock-and-dive-into-ea-play-on-ps5/"><u>The Ultimate Guide: Subscribe, Unlock, and Dive Into EA Play on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-power-the-raider-hx-experience/"><u>Unleashing Power: The Raider HX Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-secured-access-the-process-of-creating-ps5-passcodes/"><u>Unlocking Secured Access: The Process of Creating PS5 Passcodes</u></a></li>
+</ul></div>
 

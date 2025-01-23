@@ -1,7 +1,7 @@
 ---
 title: Discovering Sony's Handheld Gaming Tech
-date: 2024-08-08T09:18:33.417Z
-updated: 2024-08-09T09:18:33.417Z
+date: 2025-01-22T02:35:03.856Z
+updated: 2025-01-22T18:31:47.011Z
 tags:
   - games
 categories:
@@ -14,15 +14,16 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 ## Discovering Sony's Handheld Gaming Tech
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is the PlayStation Portal?](#what-is-the-playstation-portal)
 * [What Can You Do With the PS Portal?](#what-can-you-do-with-the-ps-portal)
 * [Should You Buy the PlayStation Portal?](#should-you-buy-the-playstation-portal)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The PlayStation Portal is a remote-play device that streams games installed locally on your PS5 via Wi-Fi.
@@ -32,14 +33,16 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Sony launched the PlayStation Portal in November 2023—a gaming device that looks like a DualSense controller bisected by an eight-inch screen. But what exactly is the Portal? Is it Sony’s competitor to the Nintendo Switch and SteamDeck? Or is it a cloud gaming device like the Logitech G Cloud?
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the PlayStation Portal?
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sony PlayStation Portal product image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sony-playstation-portal-product-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Sony](https://blog.playstation.com/2023/08/23/playstations-first-remote-play-dedicated-device-playstation-portal-remote-player-to-launch-later-this-year-at-199-99/)
 
@@ -53,10 +56,11 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 Furthermore, you need a PlayStation Network account to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Close up of Sony Project Q](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/close-up-of-sony-project-q.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [PlayStation](https://blog.playstation.com/2023/05/24/playstation-showcase-recap-everything-announced-at-todays-show/)
 
@@ -66,9 +70,6 @@ Furthermore, you need a PlayStation Network account to use it.
 
  The PlayStation Portal would work best if you use it on the same network that your console is connected to, but as long as you have decent internet speed for both devices (the PlayStation 5 console and the PlayStation Portal handheld), you can play any PlayStation 5 title while away from home. However, games that require other accessories, like[the PlayStation VR2](https://www.makeuseof.com/playstation-vr2-review/) , won’t work with the Portal.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PlayStation Portal with Pulse Explore and Pulse Elite wireless audio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/playstation-portal-with-pulse-explore-and-pulse-elite-wireless-audio.jpg)
 
 [Sony](https://blog.playstation.com/2023/08/23/hands-on-report-playstation-portal-remote-player-pulse-explore-wireless-earbuds-and-pulse-elite-wireless-headset/)
@@ -78,9 +79,9 @@ Furthermore, you need a PlayStation Network account to use it.
  It also doesn’t have streaming compatibility from outside servers, so even if you[have a PlayStation Plus Premium subscription](https://www.makeuseof.com/what-is-playstation-plus/) , you can’t stream titles directly to the PlayStation Portal. Instead, you must install any title you’re interested in on your PlayStation 5 and stream it to the handheld device.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Buy the PlayStation Portal?
 
  If you’re a big PlayStation fan and find yourself missing your games whenever you’re not home, the PlayStation Portal is for you. With this handheld device, you basically take your PlayStation 5 with you wherever you are, as long as you have a robust 5G data connection.
@@ -89,14 +90,11 @@ Furthermore, you need a PlayStation Network account to use it.
 
  If you don't want to just stream PS5 games, you might be better off getting a smartphone gaming controller like[the GameSir X2s Type-C Controller](https://www.makeuseof.com/gamesir-x2s-type-c-controller-review/) . That way, you can use it for non-PlayStation services, like Steam and Xbox Game Pass Ultimate, or even for playing AAA games straight from your phone. Plus, these controllers cost less than $50.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +103,22 @@ Furthermore, you need a PlayStation Network account to use it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-correcting-excessive-encoding-in-obs/"><u>[New] Correcting Excessive Encoding in OBS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fb-moments-snappy-storytime/"><u>[New] FB Moments Snappy Storytime</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transforming-slides-with-external-video-integration/"><u>[Updated] 2024 Approved Transforming Slides with External Video Integration</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-shopback-up-specialists-judgment/"><u>[Updated] ShopBack Up Specialists' Judgment</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-elite-list-of-gamer-speakers-in-depth-review-and-comparisons-zdnet/"><u>2024'S Elite List of Gamer Speakers: In-Depth Review & Comparisons | ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-mp4-player-you-should-know/"><u>In 2024, Best MP4 Player You Should Know</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-f5-pro-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco F5 Pro 5G Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-new-smart-led-technology-govee-unveils-enhanced-ai-gaming-lights-and-stunning-neon-accessories/"><u>Introducing New Smart LED Technology: Govee Unveils Enhanced AI Gaming Lights and Stunning Neon Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-the-latest-innovations-in-gaming-ambiance-govees-advanced-ai-gaming-sync-boxes-and-vibrant-neon-lights/"><u>Introducing the Latest Innovations in Gaming Ambiance - Govee's Advanced AI Gaming Sync Boxes and Vibrant Neon Lights</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-deal-alert-get-a-nintendo-switch-oled-at-60-off-in-walmart-stores-insider-tips-zdnet/"><u>Labor Day Deal Alert: Get a Nintendo Switch OLED at $60 Off in Walmart Stores, Insider Tips | ZDNet</u></a></li>
+<li><a href="https://win-top.techidaily.com/meilleur-logiciel-de-copie-sans-egouture-pour-disques-durs-avec-support-sandisk-ssd/"><u>Meilleur Logiciel De Copie Sans-Égouture Pour Disques Durs Avec Support SanDisk SSD</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-creative-curator-essential-zero-price-text-psds/"><u>The Creative Curator Essential, Zero-Price Text PSDS</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gaming-desks-expert-picks-from-zdnet/"><u>Top-Rated Gaming Desks : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-list-of-2024s-leading-gaming-computers-in-depth-testing-and-analysis-zdnet/"><u>Ultimate List of 2024'S Leading Gaming Computers: In-Depth Testing & Analysis | ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/up-wisdom-for-media-masters-for-2024/"><u>Wrap-Up Wisdom for Media Masters for 2024</u></a></li>
+</ul></div>
 

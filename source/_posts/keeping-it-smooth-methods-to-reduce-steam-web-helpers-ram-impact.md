@@ -1,7 +1,7 @@
 ---
 title: "Keeping It Smooth: Methods to Reduce Steam Web Helper's RAM Impact"
-date: 2025-01-09T20:54:10.864Z
-updated: 2025-01-16T19:24:28.392Z
+date: 2025-01-19T00:13:37.332Z
+updated: 2025-01-22T20:59:16.286Z
 tags:
   - games
 categories:
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
@@ -62,13 +66,13 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  This will ease the burden that Steam's web pages have on your available memory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Enable Low-Performance Mode
 
 ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another simple toggle for performance gains is in the Library tab of the settings menu. Enabling the Low-Performance Mode will disable certain animations when browsing through the Steam library.
 
@@ -79,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
@@ -93,13 +97,13 @@ steam://open/minigameslist
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Create a Custom Batch File for Minimal Steam
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
@@ -115,10 +119,6 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
  Ensure that Steam is closed, and then open this .bat file. Steam should launch, looking very similar to the Steam Mini Games List from earlier. This version of Steam is extremely bare-bones. You will be unable to view friends, visit the store, organize screenshots, or check out the news, but you'll be able to run Steam on essentially anything this way.
 
  Steam may crash in certain circumstances using this configuration. If this is a problem, remove the command**\-cef-disable-breakpad** from the batch file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Go Bare Bones With Steam
 
@@ -139,20 +139,20 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-boost-iphone-visual-quality-selective-photo-and-video-tools/"><u>[New] Boost iPhone Visual Quality Selective Photo and Video Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-selection-showcase-the-premier-15-unboxing-channel-sites-2024-edition/"><u>[New] Ultimate Selection Showcase The Premier 15 Unboxing Channel Sites, 2024 Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-tiktok-number-modification-easy-to-follow-steps/"><u>2024 Approved TikTok Number Modification Easy to Follow Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-classic-gaming-a-comprehensive-list-of-ps3-games-perfectly-emulated-on-pc/"><u>Elevate Classic Gaming: A Comprehensive List of PS3 Games, Perfectly Emulated on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-game-experience-with-xbox-controller-brightness-settings/"><u>Enhancing Game Experience with Xbox Controller Brightness Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/execute-android-software-seamlessly-on-linux/"><u>Execute Android Software Seamlessly on Linux</u></a></li>
-<li><a href="https://solve-news.techidaily.com/harnessing-the-power-of-cookiebot-for-effective-analytics-and-tracking/"><u>Harnessing the Power of Cookiebot for Effective Analytics & Tracking</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/losung-fur-nicht-abspielbare-udf-dvds-mit-winx-dvd-ripper/"><u>Lösung Für Nicht Abspielbare UDF-DVDs Mit WinX DVD Ripper</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-guide-to-delete-windows-graphics-driver-files/"><u>Quick Fix Guide to Delete Windows Graphics Driver Files</u></a></li>
-<li><a href="https://games-able.techidaily.com/re-activating-invalid-account-on-console-platform/"><u>Re-Activating Invalid Account on Console Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/take-charge-of-teams-without-spending-a-dime-pc/"><u>Take Charge of Teams Without Spending a Dime (PC)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-magic-behind-transparent-xbox-streaming/"><u>The Magic Behind Transparent Xbox Streaming</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winx-dvd-ripper-platina-conversao-simples-e-instantanea-de-dvd-para-mp4-em-h264hevc/"><u>WinX DVD Ripper Platina - Conversão Simples E Instantânea De DVD Para MP4 Em H.264/HEVC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-viral-video-vanguard-youtubes-1-24-hours-list/"><u>[New] 2024 Approved Viral Video Vanguard YouTube's #1 24 Hours List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-enhancing-your-vtuber-presence-with-premier-voice-editors/"><u>[Updated] 2024 Approved Enhancing Your VTuber Presence with Premier Voice Editors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-into-the-humor-hub-of-the-world-wide-web-metaverse-memes-101/"><u>2024 Approved Into the Humor Hub of the World Wide Web - Metaverse Memes 101</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-pimaxs-vivid-ventures-with-a-side-of-software-slip-ups/"><u>Discover Pimax's Vivid Ventures with a Side of Software Slip-Ups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enthralling-aesthetics-logo-techniques-for-podcasts/"><u>Enthralling Aesthetics Logo Techniques for Podcasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/error-code-403-the-definitive-guide-to-fixing-it-in-roblox-windows-edition/"><u>Error Code 403: The Definitive Guide to Fixing It in Roblox Windows Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2-a-gateway-into-understanding-game-dynamics/"><u>Helldivers 2: A Gateway Into Understanding Game Dynamics</u></a></li>
+<li><a href="https://games-able.techidaily.com/hide-your-game-banter-with-xbox-privacy-tools/"><u>Hide Your Game Banter with Xbox Privacy Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-lava-blaze-2-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Lava Blaze 2 Pro Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nubia-red-magic-8s-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nubia Red Magic 8S Pro FRP Bypass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/masterclass-watching-and-sharing-the-2024-olympiad-instantly-online/"><u>Masterclass: Watching & Sharing the 2024 Olympiad Instantly Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-vip-content-in-fortnite-via-ps5/"><u>Mastering VIP Content in Fortnite via PS5</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-play-choosing-gamepad-over-console/"><u>Precision Play: Choosing Gamepad Over Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/surging-through-gaming-seas-fixing-fps-woes/"><u>Surging Through Gaming Seas: Fixing FPS Woes</u></a></li>
 </ul></div>
 

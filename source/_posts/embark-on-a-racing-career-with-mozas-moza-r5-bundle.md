@@ -1,7 +1,7 @@
 ---
 title: Embark on a Racing Career with Moza's MOZA R5 Bundle
-date: 2024-08-15T17:21:24.017Z
-updated: 2024-08-16T17:21:24.017Z
+date: 2025-01-20T06:03:32.675Z
+updated: 2025-01-22T19:04:32.861Z
 tags:
   - games
 categories:
@@ -100,13 +100,18 @@ Yes
 
 [$549 at Amazon](https://www.amazon.com/Racing-Gaming-Simulator-Bundle-Steering-PC/dp/B07DW25P3R?tag=muo-v2-51um1p3-20&ascsubtag=UUmuoUeUpU2030726&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmoza-r5-bundle-review%2F&asc%5Fcampaign=Affiliate) [See at MOZA Racing](https://mozaracing.com/product/r5-bundle)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s in the Boxes?
 
  For testing, we received the basic R5 bundle with all the included add-ons: the Formula Wheel Mod for the ES Steering Wheel; Brake Performance Kit; and clutch for the bundled pedals. I’ll be covering these accessories in detail later.
 
 ![MOZA R5 base, wheel, and clamp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-base-wheel-and-clamp.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
@@ -132,38 +137,24 @@ Yes
  The R5 Wheel Base is dense and heavy, more than I imagined, further exciting me and solidifying its presence as serious equipment. It has a thick and durable layer of powder-coating, which is a nice touch, preventing scratches and fingerprints. It also has some fins, which I suppose are for heat dissipation.
 
 ![Closeup of R5 quick release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/closeup-of-r5-quick-release.JPG)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
  However, the quick release on the wheel base feels like it’ll eventually get scratched, especially with a sticker stating that the quick release might have scratches from quality assurance testing.
 
 ![SR-P Lite pedals with clutch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/sr-p-lite-pedals-with-clutch.JPG)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
  The pedals are also heavy with a thick powder coating, but the edges are quite sharp, which makes them a little scary to handle. I was also disappointed to find that all the pedal faces are the same shape and size and completely flat with no adjustability. This could pose a problem, which I’ll discuss in the driving experience later.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## MOZA R5 Bundle Hardware Setup Experience
 
 ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -176,25 +167,14 @@ Yes
 ## MOZA Pit House Software
 
 ![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  I thought I’d have a headache trying to get everything ready on the software side for driving, but the MOZA Pit House software on PC impressed me. It was able to detect the wheel and pedals without any hitches and even had pre-configured settings for all the racing simulators I wanted to drive except for Dirt Rally.
 
 ![MOZA Pit House basic wheel base settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-basic-wheel-base-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
 ![MOZA Pit House pedal curves](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-pedal-curves.jpg)
 
 ![Pit House Resetting Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pit-house-resetting-software.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -206,6 +186,10 @@ Close
 
  Secondly, and more significantly, the wheel base was turning on its own. It wouldn’t do this while driving, or not that I’ve noticed anyway, but the wheel felt grainy and turned about 60-degrees clockwise on its own. It wasn’t until four weeks into playing with it did I actually attempt to reset the wheel base and it made the wheel feel incredibly smooth, and it didn’t turn on its own anymore.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MOZA Racing Mobile App Experience
 
  The MOZA Racing mobile app is also quite handy, but I wasn’t able to make it work the first time. I left it alone for a few days to focus on the driving experience and using Pit House, but it magically worked when I tried it again. I may have just needed to restart either the wheel base, software, or my PC.
@@ -215,50 +199,36 @@ Close
 ![Pedal curve settings bugging out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings-bugging-out.jpg)
 
 ![Pedal curve settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 ![MOZA Racing moible app connected hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-moible-app-connected-hardware.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
 ![FFB frequency settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/ffb-frequency-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Wheel base settings advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/wheel-base-settings-advanced.jpg)
 
-![MOZA Racing Mobile App Wheel Base settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-mobile-app-wheel-base-settings.jpg)
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![MOZA Racing Mobile App Wheel Base settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-mobile-app-wheel-base-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  The app could use some language improvements though, as the wording can be quite strange, such as “Enter the car” to change the settings, “SteeringWheel Recenter,” and “Unconnected to the screen".
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Desk Usage
 
 ![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
  The MOZA R5 is mounted on my desk since I don’t have a dedicated sim rig yet, but as mentioned, I was able to figure out a system for setting it up and stowing it away quickly.
 
 ![Sticky pads for SR-P Lite pedals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/sticky-pads-for-sr-p-lite-pedals.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -271,31 +241,11 @@ Close
  I eventually had a wooden box made and bolted the pedals down to that. It’s not pretty, but it gets the job done, and I’m way more consistent with it bolted down. I don’t have to worry about the pedals moving and messing up my inputs.
 
 ![MOZA R5 on edge of table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-edge-of-table.JPG)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## Quick Release System
 
 ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
@@ -316,6 +266,10 @@ Key features:
 
 ![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Jhet Borja / MakeUseOf
 
  Before I go into any details, I went from a 1:55 to a 1:51 on Monza in Asssetto Corsa Competizione despite not having driven for over a year. This was even before resetting the wheel base to fix the grainy and self-turning issue.
@@ -328,10 +282,6 @@ Key features:
 
  I was able to try the Simagic Alpha Mini at a local tech event before receiving the R5, and I can confidently say that a higher torque wheel base is better. It was more tiring, but I felt the subtle details a lot more clearly. It was also significantly smoother, which I think MOZA could also achieve with some updates.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### MOZA SR-P Lite Pedals and Brake Performance Kit
 
  Considering the prices of the R5 base and the ES Wheel alone are $299 and $129, leaving just $71 for the pedals—the SR-P Lite does its job quite well. Using precise hall-effect sensors and a solid all-metal construction, it’s not a bad set of pedals. However, I do think the pedals are the weakest point of this bundle, and I have a few complaints about them.
@@ -354,13 +304,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![MOZA R5 front view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-front-view.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Jhet Borja / MakeUseOf
 
  It’s solid and feels nice, even without gloves. It’s on the smaller side at 11 inches, but on a 5.5Nm base, it allows you to feel the forces better than a larger wheel. I did notice a bit of rattling noise, which makes it feel like a toy, but I only ever noticed it when I drove without sound. However, you can upgrade to a 12-inch round wheel mod for drifting and enlarging the rim.
 
 ![Driving with Formula mod for ES Steering Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/driving-with-formula-mod-for-es-steering-wheel.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
@@ -368,6 +323,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  The Formula Wheel Mod is one that I enjoy a lot. I don’t use it all the time since I like having the flexibility of driving Rally cars, but the mod looks and feels good. It uses a rubber grip instead of a leather wrap, but I honestly like this as I don’t have to worry about it breaking down in the future. Using the mod got rid of the rattling noise, and it allows you to see more of the virtual dashboard, which I really appreciate.
 
  I also like that it has a matte black finish instead of the shiny brushed style on the original ES wheel. I’d be careful driving with it, though, as the thick metal can really hurt the hands during crashes, especially your thumbs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should You Buy the MOZA R5 Bundle, and Are the Add-Ons Worth It?
 
@@ -389,14 +348,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 [$549 at Amazon](https://www.amazon.com/Racing-Gaming-Simulator-Bundle-Steering-PC/dp/B07DW25P3R?tag=muo-v2-51um1p3-20&ascsubtag=UUmuoUeUpU2030726&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmoza-r5-bundle-review%2F&asc%5Fcampaign=Affiliate) [See at MOZA Racing](https://mozaracing.com/product/r5-bundle)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -405,4 +361,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-top-ten-dos-and-donts-in-the-youtube-world/"><u>[New] 2024 Approved Top Ten Do's and Don'ts in the YouTube World</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-key-information-every-asmr-aficionado-should-know/"><u>[New] In 2024, Key Information Every ASMR Aficionado Should Know</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-uninterrupted-snapstreaks-achievable-or-impossible-in-2024/"><u>[Updated] Uninterrupted Snapstreaks Achievable or Impossible, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-to-ensure-iphone-camera-focus/"><u>2024 Approved Strategies to Ensure iPhone Camera Focus</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-powerful-gpus-to-nvidias-geforce-4060-ti/"><u>Comparing Powerful GPUs to Nvidia's GeForce 4060 Ti</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-down-on-time-spent-error-0x800736cc-in-windows-update/"><u>Cutting Down on Time Spent: Error 0X800736CC in Windows Update</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-overcome-no-rest-for-the-wicked-continuous-crashes-on-pc/"><u>Effective Solutions to Overcome 'No Rest for the Wicked' Continuous Crashes on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-free-gaming-excellence-with-six-titles/"><u>Experience Free Gaming Excellence with Six Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-inconsistent-mouse-wheel-movement/"><u>Fix Inconsistent Mouse Wheel Movement</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-wicket-to-touchdown-these-are-the-best-mobile-sports-apps-iosandroid/"><u>From Wicket to Touchdown, These Are the Best Mobile Sports Apps (iOS/Android)</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-of-tech-spotlighted-at-computex-for-ai/"><u>Future of Tech Spotlighted at Computex for AI</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-choreographing-compelling-screen-trailers/"><u>In 2024, Choreographing Compelling Screen Trailers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-set-sights-on-success-essential-background-music-for-gym-goers/"><u>In 2024, Set Sights on Success Essential Background Music for Gym-Goers</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-xbox-one-control-connections/"><u>Quick Guide: Xbox One Control Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalize-your-game-experience-complete-ps4-reset/"><u>Revitalize Your Game Experience: Complete PS4 Reset</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138566267-9781401948207-the-abundance-loop/"><u>The Abundance Loop | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/zoom-into-playtime-score-with-these-speedy-phone-games/"><u>Zoom Into Playtime: Score with These Speedy Phone Games</u></a></li>
+</ul></div>
 

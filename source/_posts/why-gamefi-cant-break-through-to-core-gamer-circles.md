@@ -1,7 +1,7 @@
 ---
 title: Why GameFi Can't Break Through to Core Gamer Circles
-date: 2025-01-09T21:07:50.801Z
-updated: 2025-01-16T20:23:47.974Z
+date: 2025-01-19T22:31:19.277Z
+updated: 2025-01-22T21:33:37.245Z
 tags:
   - games
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  So, what are the problems with GameFi, and why will they seal its fate?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is GameFi?
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  While GameFi may seem innovative, many downsides affect players and investors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Token Instability
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they[sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
 
  GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scams
 
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  People invested in CryptoZoo but lost thousands when it was revealed that Paul and his development team had effectively (allegedly) rug-pulled investors. Investors are yet to be refunded, and a lawsuit has been filed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. High Transaction Fees
 
  You'll almost always incur a fee when you conduct a crypto transaction. Some cryptos have low fees, whereas others can reach unreasonable levels. Transaction fees usually increase or decrease with a blockchain network's transaction demand. Other factors, such as the size of the transaction, also play a role here.
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  There's nothing inherently wrong with this, but avid gamers may argue that adding real-world tokenomics to a video game somewhat removes the heart of it. Developers may choose to cut corners by leaving in bugs or providing poor game progression, factors which can severely affect the enjoyment and satisfaction people receive when they game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Lack of Regulation
@@ -111,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  For instance, an individual may spend months playing a P2E game they love, amassing a solid holding of tokens or NFTs. But when the time comes to cash out by selling these assets on an exchange or NFT marketplace, it turns out that their value has plummeted due to a drop in demand.
 
  This isn't anyone's fault, but the developer can dodge any liability when gamers ask for compensation. If the game has made any financial promises, the developers may also be able to keep their hands clean if these promises fall through.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will GameFi Last?
 
@@ -127,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Between August 14 and 22, the price of one ILV token went from $53 to $42, a drop of almost 21% in just over a week. This drop doesn't seem to be the result of any major scandal or market crash. Rather, it seems to be a product of a lack of interest.
 
  It's been a while since Illuvium's developers have given gamers anything new, with many getting bored with waiting. While top-tier games without the P2E structure focus heavily on user satisfaction and experience, P2E developers often have more of a focus on increasing the in-game token value.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GameFi's Future Is Precarious
 
@@ -151,19 +151,16 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-visuals-hub-icon-and-banner-crafting-tips/"><u>[New] In 2024, Channel Visuals Hub Icon & Banner Crafting Tips</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-harmonizing-hues-in-online-beauty-videos/"><u>[New] In 2024, Harmonizing Hues in Online Beauty Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-10-best-iphone-and-android-apps-to-make-into-videos/"><u>[Updated] In 2024, The 10 Best iPhone & Android Apps to Make Into Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-a-kid-safe-gentle-steam-experience-for-families/"><u>Crafting a Kid-Safe, Gentle-Steam Experience for Families</u></a></li>
-<li><a href="https://fox-info.techidaily.com/elevate-presents-prime-online-retailers-for-personalized-wrapped-goodies-for-2024/"><u>Elevate Presents Prime Online Retailers for Personalized Wrapped Goodies for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-unveiling-the-intelligent-capabilities-of-the-linksys-ea9500-router/"><u>Expert Review: Unveiling the Intelligent Capabilities of the Linksys EA9500 Router</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-get-the-best-out-of-your-steam-deck-when-docked/"><u>How to Get the Best Out of Your Steam Deck When Docked</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-overcome-installation-hurdles-for-oculus-app/"><u>How to Overcome Installation Hurdles for Oculus App</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-the-genuine-nature-of-am08-pro-in-acemagic-evident/"><u>Is The Genuine Nature of AM08 Pro in AceMagic Evident?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/navigating-social-feed-anomalies-missing-video-ideas/"><u>Navigating Social Feed Anomalies Missing Video Ideas</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-to-get-your-display-driver-up-and-running-on-windows/"><u>Tips to Get Your Display Driver Up and Running on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-essentials-the-ultimate-checklist-for-your-summer-everyday-carry-kit/"><u>Top Essentials: The Ultimate Checklist for Your Summer Everyday Carry Kit</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-potential-4-leading-websites-for-game-mastery/"><u>Unlock Potential: 4 Leading Websites for Game Mastery</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-chatcam-video-saver-app/"><u>[New] 2024 Approved ChatCam Video Saver App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-tools-for-broadcasting-professionals/"><u>[New] Advanced Tools for Broadcasting Professionals</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/reating-impactful-outros-top-6-free-tools/"><u>[New] Creating Impactful Outros Top 6 FREE Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-snag-soundwaves-from-fb-topics/"><u>[Updated] Snag Soundwaves From Fb Topics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-zte-nubia-z60-ultra-by-fonelab-android-recover-messages/"><u>How to recover old messages from your ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-ps5-networked-gaming-features/"><u>Integrating PS5 Networked Gaming Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-controls-for-gamepads-top-joy-con-and-pro-controllers/"><u>Pinnacle Controls for Gamepads – Top Joy-Con and Pro Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-the-dream-playing-classic-dreamcast-on-android-devices/"><u>Revive the Dream: Playing Classic Dreamcast on Android Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/twitch-time-jump-recapturing-lost-moments/"><u>Twitch Time Jump Recapturing Lost Moments</u></a></li>
+<li><a href="https://discover-data.techidaily.com/windows-7-8-10-and-11-aomei/"><u>Windows 7, 8, 10, and 11の代用となるシステムプロットアップツール: AOMEIイメージ展開ソリューション</u></a></li>
+<li><a href="https://games-able.techidaily.com/workstations-vs-gaming-pcs-functionality-overview/"><u>Workstations Vs. Gaming PCs: Functionality Overview</u></a></li>
 </ul></div>
 

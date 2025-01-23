@@ -1,7 +1,7 @@
 ---
 title: The Frugal Gamer's Guide to Xbox Series X/S
-date: 2025-01-14T23:55:44.746Z
-updated: 2025-01-16T18:26:39.949Z
+date: 2025-01-17T01:53:27.441Z
+updated: 2025-01-23T03:17:19.059Z
 tags:
   - games
 categories:
@@ -23,19 +23,11 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Shop for Games That Are on Sale
 
  Taking advantage of sales is a tip that will help you in every aspect of life, not just in terms of gaming. Every little bit counts, so even picking up a $1.00 loaf of bread rather than the $3.00 one at the supermarket will help you save money. But thankfully, choosing games that are on sale usually saves you more than just a couple of dollars here and there.
 
  Picking games that are on sale not only saves you money but also forces you to think outside the box. Maybe none of the games you were initially thinking of purchasing are on sale. Instead of that being a bad thing, look at it as an opportunity. Now you can branch out and try a completely new experience. Who knows? You might even find some hidden gems or your next favorite game using this method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Purchase Games With a Lot of Replayability
 
@@ -45,7 +37,15 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
 ![A photograph of an Xbox Wireless Controller in front of a gaming monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/replacement-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Games that have online multiplayer functionality, like Call of Duty, for example, are great for replayability. If you’re not a fan of first-person shooters or competitive games, life or farming sims such as Stardew Valley can provide you with hundreds or even thousands of hours of playtime.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Download and Play Free Games
 
@@ -59,16 +59,12 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
  For just $10.99 per month, you can play however many of the hundreds of games on offer that your heart desires. The games are also switched up and added to consistently, so there is always something new for you to play.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Collect and Use Microsoft Reward Points
@@ -77,13 +73,25 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
  You can redeem these points for things like gift cards or micro-transactions in supported games and even Xbox Game Pass subscriptions, so you can save more money while you’re saving money.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Take Advantage of Xbox Game Pass Perks
 
  If you didn't know what Microsoft Rewards Points are, you're probably also wondering[what Xbox Game Pass Perks are](https://www.makeuseof.com/game-pass-perks-explained/) all about. Xbox Game Pass Perks are similar to Microsoft Reward Points, but instead of being earned over all Microsoft platforms, these offers are exclusive to those with an Xbox Game Pass Ultimate subscription. These perks are updated frequently, so you always have something new to choose from.
 
 ![Xbox Game Pass Perks Screen on Xbox Game Pass App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-game-pass-perks-screen-on-xbox-game-pass-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Xbox Game Pass Perks on Xbox Game Pass Mobile App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-game-pass-perks-on-xbox-game-pass-mobile-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -115,17 +123,9 @@ Close
 
  The power consumption of your Xbox Series X varies depending on how you're using your console. Active gameplay from your Xbox Series X will use 150 W of energy, for instance, while streaming UHD media will consume only 48 W. But if you're looking to lower your energy consumption to save money or lower your impact on the environment, you can always[adjust the power options of your Xbox Series X](https://www.makeuseof.com/how-to-customize-xbox-series-x-s-power-options-to-save-energy/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Q: Why Is the Xbox Series S So Much Cheaper Than the Xbox Series X?
 
  You can purchase an Xbox Series S for far less than an Xbox Series X because of the differences in specifications between each console. The Xbox Series S has less GPU and CPU power than the Xbox Series X while also having less RAM and storage. However, when saving money on next-gen hardware,[the Xbox Series S sets a new standard for budget consoles](https://www.makeuseof.com/how-the-xbox-series-s-set-a-new-standard-for-budget-consoles/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: What Are the Perks of Having an Xbox Series S?
 
@@ -146,22 +146,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-dissecting-instagrams-per-post-video-quota-for-2024/"><u>[New] Dissecting Instagram's Per-Post Video Quota for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-key-players-transforming-vr-landscape/"><u>[New] In 2024, Key Players Transforming VR Landscape</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-precision-gameplay-savings-made-easy-with-fbx-filming/"><u>[Updated] 2024 Approved Precision Gameplay Savings Made Easy with FBX Filming</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-stardews-ultimate-enhancements-ranked-the-seven-best-mods/"><u>[Updated] 2024 Approved Stardew's Ultimate Enhancements Ranked The Seven Best Mods</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unleash-creativity-designing-awe-inspiring-covers-for-instagram-highlights-for-2024/"><u>[Updated] Unleash Creativity Designing Awe-Inspiring Covers for Instagram Highlights for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-shooter-skills-with-key-settings/"><u>Elevate Your Shooter Skills with Key Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/heat-haze-the-dangerous-overclock-route/"><u>Heat Haze: The Dangerous Overclock Route</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-access-official-manuals-for-each-iphone-version-and-model/"><u>How to Access Official Manuals for Each iPhone Version and Model?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-oneplus-12-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of OnePlus 12?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-install-and-use-snapchat-on-your-mac/"><u>In 2024, How to Install and Use Snapchat on Your Mac?</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovation-and-performance-the-best-nintendo-switch-docks-of-2024/"><u>Innovation & Performance: The Best Nintendo Switch Docks of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-5-unconventional-gameplay-without-controllers/"><u>PlayStation 5: Unconventional Gameplay without Controllers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ps5-debate-pros-and-cons-explored/"><u>The PS5 Debate - Pros and Cons Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-real-cost-of-gaming-why-standard-displays-outweigh-hdrs/"><u>The Real Cost of Gaming: Why Standard Displays Outweigh HDRs</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-secrets-of-steam-points-accumulation/"><u>The Secrets of Steam Points Accumulation</u></a></li>
-<li><a href="https://games-able.techidaily.com/winning-warriors-ways-amplify-your-windows-gaming-speed/"><u>Winning Warrior’s Ways: Amplify Your Window's Gaming Speed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-critical-factors-for-an-effective-4k-camera-upgrade-for-2024/"><u>[New] Critical Factors for an Effective 4K Camera Upgrade for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-advanced-features-in-intova-edge-x/"><u>[New] Exploring Advanced Features in Intova Edge X</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-discover-10-leading-church-live-streaming-sites/"><u>[New] In 2024, Discover 10 Leading Church Live Streaming Sites</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-choosing-excellence-a-buyers-guide-to-hdr-cameras/"><u>[Updated] In 2024, Choosing Excellence A Buyer's Guide to HDR Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-text-that-talks-back-adding-life-to-vids-on-a-budget/"><u>2024 Approved Text that Talks Back Adding Life to Vids on a Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-comeback-solutions-for-broken-xbox-series-sandx/"><u>Console Comeback: Solutions for Broken Xbox Series S&X</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-lcd-to-oled-a-2-year-transformation-story/"><u>From LCD to OLED - A 2-Year Transformation Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-mono-to-multilingual-rom-patch-essentials/"><u>From Mono to Multilingual: ROM Patch Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-link-between-office-spaces-and-organizational-success/"><u>In 2024, The Link Between Office Spaces and Organizational Success</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-stable-diffusion-ai-exploring-the-capabilities-of-a-cutting-edge-image-synthesis-tool/"><u>In-Depth Analysis of Stable Diffusion AI - Exploring the Capabilities of a Cutting-Edge Image Synthesis Tool</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-simplify-your-storytelling-easy-movie-making-techniques/"><u>New 2024 Approved Simplify Your Storytelling Easy Movie Making Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/protective-measures-for-child-gamers-on-ps5/"><u>Protective Measures for Child Gamers on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-you-jump-on-rtx-after-gtx-discontinuation/"><u>Should You Jump on RTX After GTX Discontinuation?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smart-studying-without-dependence-on-chatgpt/"><u>Smart Studying Without Dependence on ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-fptd2x0dll-file-missing-error/"><u>Solutions for Resolving 'fptd2x0.dll' File Missing Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-unseen-tricks-for-steam-offline-look/"><u>Stay Unseen: Tricks for Steam Offline Look</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-pokemon-gameplay-on-idevices-explained/"><u>Step-by-Step Pokémon Gameplay on iDevices Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/tap-into-rhythm-game-magic-with-tablets/"><u>Tap Into Rhythm Game Magic With Tablets</u></a></li>
+<li><a href="https://games-able.techidaily.com/three-streamlined-steam-resets/"><u>Three Streamlined Steam Resets</u></a></li>
 </ul></div>
 

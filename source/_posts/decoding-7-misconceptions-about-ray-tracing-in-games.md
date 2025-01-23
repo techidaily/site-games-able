@@ -1,7 +1,7 @@
 ---
 title: Decoding 7 Misconceptions About Ray Tracing in Games
-date: 2025-01-09T17:01:56.779Z
-updated: 2025-01-16T19:53:53.205Z
+date: 2025-01-19T16:48:25.991Z
+updated: 2025-01-22T23:39:54.222Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Ray Tracing Drastically Affects Performance
 
  Ray tracing is highly effective when it comes to illuminating certain scenes in video games. Battlefield V uses the technique to show reflections of troops in the water. Similarly, the game Control uses contact shadows to generate more accurate and detailed character reflections.
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
  The interesting thing is that you can easily[secure parts for a well-rounded PC](https://www.makeuseof.com/well-rounded-pc-buying-guide/) for a decent price. However, ray tracing can throw a spanner into the works and increase your initial costs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The Experience With Ray Tracing Varies From Title to Title
 
  Let's say you decide to stomach the costs and[buy a powerful graphics card](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) . Great, you'll certainly get better performance in games along with excellent visuals. The only problem is that your experience won't be consistent across the board. It's up to the developers how to implement the technology, and each game will require a different level of attention.
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 ## 4\. Limited Games Support Ray Tracing
 
 ![Man playing computer game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-playing-computer-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  According to a[2021 NVIDIA news post](https://www.nvidia.com/en-us/geforce/news/nvidia-rtx-games-engines-apps/) , the list of video games that support ray tracing is somewhere around a couple of hundred. While that might sound impressive, you need to look at it from a different perspective. Steam is home to over 50,000 games on PC, and the number of games that support ray tracing is tiny in comparison.
 
@@ -77,15 +81,15 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
  Now, even if you buy a graphics card that supports ray tracing, you could get stuck with an older version of DLSS. NVIDIA's RTX 20-series and 30-series GPUs support DLSS 2, but you can only get DLSS 3 on the newer RTX 40 series. Your options are very limited either way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Most Surfaces in Games Aren't Reflective Even With Ray Tracing
 
  The thing about ray tracing is that it looks excellent in games it was specifically designed to look good with. For example, NVIDIA itself pushed the impressive results of ray tracing in Metro: Exodus and Battlefield V. Sure enough, the result is very impressive. The only problem is that a lot of surfaces in games aren't reflective, so a lot of your games won't look that good.
 
  However, ray tracing can be used for more than reflections. You can use it for global illumination, shadows, refractions, and other lighting effects. Unfortunately, most games just use traditional rasterization for visuals and bring out ray tracing for certain scenes. This circles back to the inconsistent experience and lack of optimization.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ray Tracing Needs More Time in the Oven
 
@@ -94,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
  NVIDIA's latest version of DLSS negates some of the performance difference, even if it only works on a select few cards. Ray tracing will eventually become common in most games, and that's when you should worry about having a GPU that supports it. The situation isn't perfect right now, but at least ray tracing is a better experience than HDR gaming on PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -103,16 +107,12 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
  By the nature of[how ray tracing works](https://www.makeuseof.com/what-is-ray-tracing/) , it is very taxing on your GPU. This is because rendering light and shadow in video games is quite difficult and will use up a lot of the processing power of your hardware. But on the bright side, ray tracing does make light and reflections appear more realistic.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Q: How Realistic Is Ray Tracing?
 
  Because ray tracing emulates how light refracts and reflects in the real world, playing a game with ray tracing makes the environment feel alive and representative of real life. Alternatively, if you play a game without ray tracing, you will probably notice static lighting or uncanny environments, which can detract from the fantasy of gaming.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: Is Ray Tracing Worth It if You Run Your Games at 4K?
@@ -134,21 +134,16 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-optimized-video-transformation-on-macios-the-8-list/"><u>[New] Optimized Video Transformation on Mac/iOS The #8 List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-smooth-ocean-footage-proven-film-makers-methods/"><u>[New] Unlocking Smooth Ocean Footage Proven Film-Maker's Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elite-channel-analyzer-top-youtube-positioning-tool/"><u>[Updated] 2024 Approved Elite Channel Analyzer Top YouTube Positioning Tool</u></a></li>
-<li><a href="https://games-able.techidaily.com/creating-a-unique-tv-watch-experience-with-xboxs-variable-refresh-tech/"><u>Creating a Unique TV Watch Experience with Xbox's Variable Refresh Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/criteria-for-selecting-standout-discord-groups-today/"><u>Criteria for Selecting Standout Discord Groups Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/directsound-utilization-in-series-s-console-gaming/"><u>DirectSound Utilization in Series S Console Gaming</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y78plus-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y78+ to iPod | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kodak-pixpro-fz53-zoom-lens-for-the-frugal-shooter/"><u>Kodak PIXPRO FZ53 Zoom Lens for the Frugal Shooter</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/moving-on-from-virtualdub-discover-the-top-video-editing-software-alternatives/"><u>Moving On From Virtualdub Discover the Top Video Editing Software Alternatives</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-play-options-choosing-between-psplus-and-xbgplus/"><u>Premium Play Options: Choosing Between PS+ and XBG+</u></a></li>
-<li><a href="https://games-able.techidaily.com/preventing-crashes-a-guide-to-steam-big-picture/"><u>Preventing Crashes: A Guide to Steam Big Picture</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-classic-psp-titles-iphones-included/"><u>Revive Classic PSP Titles, iPhones Included</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/stepwise-guide-to-updating-synaptics-touchpad-software-for-optimal-performance/"><u>Stepwise Guide to Updating Synaptics Touchpad Software for Optimal Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-steam-deck-ssd-replacement-procedures/"><u>Streamline Steam Deck SSD Replacement Procedures</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-rectifying-windows-msvcr110dll-gap/"><u>Tips for Rectifying Windows' msvcr110.dll Gap</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-mastery-in-motion-building-high-impact-gifs-for-2024/"><u>Vimeo Mastery in Motion Building High-Impact GIFs for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-search-of-prime-zero-dollar-video-improvement-websites-for-2024/"><u>[Updated] In Search of Prime Zero-Dollar Video Improvement Websites for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/four-pathways-to-enriching-the-gaming-experience-with-improved-xbox-points/"><u>Four Pathways to Enriching the Gaming Experience with Improved Xbox Points</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-and-fast-mp4-to-flv-converter-convert-videos-online-instantly/"><u>Free and Fast MP4 to FLV Converter - Convert Videos Online Instantly!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-educators-excellence-the-best-10-recording-equipment-rankings/"><u>In 2024, Educator's Excellence The Best 10 Recording Equipment Rankings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-step-by-step-visual-tutorial-applying-filters-and-masks-in-meet/"><u>In 2024, Step-by-Step Visual Tutorial Applying Filters & Masks in Meet</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-frequent-wi-fi-pauses-in-playstation-5/"><u>Overcoming Frequent Wi-Fi Pauses in PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-mastery-top-11-immersive-world-wars-sims/"><u>Strategic Mastery: Top 11 Immersive World Wars Sims</u></a></li>
+<li><a href="https://games-able.techidaily.com/switching-gears-from-console-to-computer/"><u>Switching Gears: From Console to Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-3-unbeatable-cyber-monday-bargains-laptops-for-under-a-grand-from-costco-amazon-and-dell-featured/"><u>Top 3 Unbeatable Cyber Monday Bargains: Laptops for Under a Grand From Costco, Amazon & Dell - Featured</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-influence-game-in-nyt-sphere/"><u>Understanding Influence Game in NYT Sphere</u></a></li>
 </ul></div>
 

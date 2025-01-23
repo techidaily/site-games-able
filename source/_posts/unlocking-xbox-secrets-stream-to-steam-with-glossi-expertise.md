@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Xbox Secrets: Stream to Steam with GlosSI Expertise"
-date: 2024-08-15T17:21:28.259Z
-updated: 2024-08-16T17:21:28.259Z
+date: 2025-01-15T19:36:42.483Z
+updated: 2025-01-22T17:41:55.197Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
  This guide will help you get the most out of your Game Pass subscription and Microsoft Store purchases by allowing you to play those games through Steam Link with the help of GlosSI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can’t You Easily Import Microsoft Store or Xbox Game Pass Games to Steam?
 
 ![Steam and Xbox logo with question mark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/steam-and-xbox-logo-with-question-mark-1.jpg)
@@ -33,9 +37,9 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ## What Is GlosSI?
 
 ![GlosSI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-logo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Flatspot Pictures/[GlosSI](http://glossi.flatspot.pictures/)
@@ -49,30 +53,22 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ## How to Install GlosSI to Play Xbox Game Pass Games Through Steam Link
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
  Xbox Game Pass allows you to save a ton of money on games through its affordable subscription model. However, Game Pass lacks the ability to locally stream games to your other devices like a TV or tablet/phone. With GlosSI, you’re able to use Steam Link to play your Game Pass games. Here’s how to set GlosSI up so you can play Microsoft or Xbox Games anywhere in your house:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Step 1: Download and Install GlosSI
 
 ![Download GlosSI installer page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/download-glossi-installer-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  To download GlosSI, first head to[GlosSI download page](https://glossi.flatspot.pictures/#downloads) and look for the**Download Installer button** .
 
 ![GlosSI installing components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/glossi-installing-components-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
  Once the installer is downloaded, open it and set it up. When you get to the page where you have to choose the components, make sure everything is selected. Hit next and choose your installation location, then click**Install** . Once you click install, the other components that were selected will also ask to be installed, install those as well.
 
@@ -81,13 +77,18 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ### Step 2: Import GlosSI-Target to Steam
 
 ![GlosSI-Target and GlosSI on Windows Start page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-target-and-glossi-on-windows-start-page-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that your PC is restarted, two programs have been added to your PC; the GlosSI-Target and GlosSI. You will be able to see these on your Windows Start menu. You can also search them up if you can’t find them.
 
 ![Add a Non-Steam Game button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/add-a-non-steam-game-button-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Open up Steam and on the bottom left, you’ll see a**plus** with**Add a Game** next to it. Click that and click on**Add a Non-Steam Game…** when it pops up.
 
@@ -106,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
  After clicking on Steam, a drop-down menu will show. Click on**Settings > Controller** .
 
 ![Enabling Steam Input for Xbox controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-steam-input-for-xbox-controllers-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’re at the Controller tab, switch on**Enable Steam Input for Xbox controllers** .
@@ -117,24 +119,22 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
  Now that the prerequisites to get the controls working are done, we’re now going to add those UWP games to Steam so you can play them on Steam Link.
 
 ![GlosSI-Target and GlosSI on Windows Start page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-target-and-glossi-on-windows-start-page-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Head to the Windows Start menu and search for**GlosSI** , not GlosSI-Target. Open GlosSI.
 
 ![GlosSI config adding UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-config-adding-uwp-app-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once it’s open, click on the**\+ button** on the lower right side of the window. A pop-up will show asking what type of shortcut you want to add to GlosSI, click on**UWP app.**
 
 ![GlosSI config selecting UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-config-selecting-uwp-app-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ll then be prompted to select a UWP app, like the Microsoft programs and Xbox Game Pass games that you’ve already downloaded. In our case, we’ll select Aragami 2\. Here are some suggestions on[low-storage Xbox Game Pass games](https://www.makeuseof.com/low-storage-games-on-xbox-game-pass/) that are perfect to play through Steam Link.
 
@@ -144,11 +144,16 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
 ![GlosSI adding UWP app to Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/glossi-adding-uwp-app-to-steam-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After saving, you’ll see the UWP app you just added on the main screen. However, you’ll need to click on the**gray Steam icon** on the bottom left of the game you just added.
 
 ![GlosSI config restart Steam after adding UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-config-restart-steam-after-adding-uwp-app-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After clicking on the Steam icon, you’ll be told to restart Steam to finalize your settings. You can choose to ignore this to add more games and restart Steam later once you’ve added everything.
@@ -160,9 +165,6 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
  This guide isn’t just about playing UWP games on Steam, our goal is to be able to stream those games onto your mobile device or TV through Steam Link. We’ll do exactly that in this section.
 
 ![Enabling Steam Remote Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-steam-remote-play-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Firstly, make sure Remote Play is enabled. Go to**Steam > Settings > Remote Play** and switch on**Enable Remote Play** .
 
@@ -179,9 +181,6 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
  If it's your first time using Steam Link with the device, a code will pop up to authorize the device. Enter the code and click**Confirm** .
 
 ![Selected Minecraft on tablet with Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/selected-minecraft-on-tablet-with-steam-link-1.JPG)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
@@ -203,14 +202,11 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
  Once everything is set up, there’s nothing stopping you from enjoying your favorite Xbox Game Pass or Microsoft Store games on your TV or tablet powered by your gaming computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -219,4 +215,22 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-the-social-media-puzzle-decoding-ig-data-for-enhanced-campaigns/"><u>[Updated] 2024 Approved Mastering the Social Media Puzzle Decoding IG Data for Enhanced Campaigns</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-charting-the-course-with-youtubes-top-makeup-influencers-for-2024/"><u>[Updated] Charting the Course with YouTube's Top Makeup Influencers for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-supreme-selection-acclaimed-8k-camera-models/"><u>2024 Approved Supreme Selection Acclaimed 8K Camera Models</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/break-new-ground-in-social-sagas-free-extended-versions-await/"><u>Break New Ground in Social Sagas – Free, Extended Versions Await</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962918524-get-your-soundmax-audio-driver-downloaded-and-running-in-no-time/"><u>Get Your SoundMax Audio Driver Downloaded and Running in No Time!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-tecno-launches-slimmed-down-14-megabook-t1-and-color-changing-s1-dazzling-edition/"><u>IFA 2023: Tecno Launches Slimmed Down 14 Megabook T1 & Color Changing S1 Dazzling Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-pursuit-of-speed-i-lost-control/"><u>In Pursuit of Speed, I Lost Control</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-paving-the-way-for-a-new-era-in-medical-care-and-diagnosis/"><u>Is ChatGPT Paving the Way for a New Era in Medical Care and Diagnosis?</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-device-vram-statistics-quickly/"><u>Learn Device VRAM Statistics Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-workspace-flooring-experience/"><u>Pinnacle Workspace Flooring Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-beat-mouse-vs-stylus-efficiency/"><u>Rhythm Beat: Mouse Vs. Stylus Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-list-of-premium-twitch-video-extraction-services/"><u>The Essential List of Premium Twitch Video Extraction Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-methods-maximizing-fun-with-favourite-games-on-macos/"><u>Top 5 Methods: Maximizing Fun with Favourite Games on macOS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/k-your-charm-personalized-youtube-channel-url-essentials-for-2024/"><u>Unlock Your Charm Personalized YouTube Channel URL Essentials for 2024</u></a></li>
+</ul></div>
 

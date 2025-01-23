@@ -1,7 +1,7 @@
 ---
 title: "Exclusive V-Bucks on PS5: The Buying Method"
-date: 2024-08-08T09:18:05.199Z
-updated: 2024-08-09T09:18:05.199Z
+date: 2025-01-18T01:27:04.386Z
+updated: 2025-01-22T16:44:50.268Z
 tags:
   - games
 categories:
@@ -19,17 +19,9 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
  If you’ve never bought it on a PS5 before, getting V-Bucks is similar to buying other game add-ons. You must first add a payment method or fund your wallet, then purchase V-Bucks from an in-game menu. We’ve detailed the steps below.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Add a Payment Method or Preload Your Wallet
 
  The first thing you must do to get V-Bucks is ready a payment method. There are generally two options: fund your PSN wallet with a gift card (or credit/debit card or PayPal account) or add a functioning payment method to your PS5.
@@ -46,46 +38,47 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
  Once you have your money ready, you have to boot Fortnite and buy V-Bucks in-game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Buy Fortnite V-Bucks In-Game
 
  After you open Fortnite and log in, you’ll find yourself in the lobby. Follow the steps below to buy V-Bucks:
 
 1. Continuously tap**R1** on your controller till you reach the**V-Bucks** tab in Fortnite’s menu.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![Fortnite's V-Bucks tab on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fortnite-s-v-bucks-tab-on-a-ps5.JPG)
 2. Select the one you want to buy and press**X** on your controller.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Press and hold**X** on the resulting page.
 4. Optional: click the**three horizontal dots** and select**Change Payment Method** to choose another way to pay if you don’t want your wallet charged.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![V-Bucks confirm purchase screen on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/v-bucks-confirm-purchase-screen-on-a-ps5.JPG)
 5. Select**Confirm Purchase** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Return back to the game and visit the**Battle Pass** and**Item Shop** tabs to buy a Battle Pass or some skins and emotes, respectively.
 
  Your PS5 will charge your wallet first before charging your card, even after selecting your card as the default payment method.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Rock Cool Outfits, Gliders, Emotes and More With V-Bucks
 
  Part of the fun of Fortnite is showing off. V-Bucks is the best way to bedazzle opponents and friends alike as you take on the ever-changing world of Fortnite. Load your PS5 with just as much as you need, and follow the instructions to get into some custom character action.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,4 +87,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-advanced-subtitle-tools-navigate-through-the-best-10-web-edits/"><u>[New] 2024 Approved Advanced Subtitle Tools - Navigate Through the Best 10 Web Edits</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-play-youtube-in-background-on-iphone-and-android/"><u>[Updated] 2024 Approved How to Play YouTube in Background on iPhone and Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-screensnapper-showdown/"><u>[Updated] 2024 Approved ScreenSnapper Showdown</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-flight-paths-revealed-full-review-of-dji-phantom-4/"><u>2024 Approved Flight Paths Revealed Full Review of DJI Phantom 4</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-recording-revelry-capturing-the-thrill-of-sports-games/"><u>2024 Approved Recording Revelry Capturing the Thrill of Sports Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-z50s-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Z50S Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-value-4k-and-hd-tv-screens-for-less-than-a-grand-featured-and-evaluated-by-professionals-zdnet/"><u>Best Value 4K and HD TV Screens for Less Than a Grand, Featured & Evaluated by Professionals | ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boss-loses-cool-over-team-communication-mishaps-on-microsoft-teams/"><u>Boss Loses Cool Over Team Communication Mishaps on Microsoft Teams</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-hyperx-alloy-origins-core-board-outstanding-construction-with-mediocre-keys-a-buyers-guide/"><u>Evaluating the HyperX Alloy Origins Core Board: Outstanding Construction with Mediocre Keys - A Buyer's Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-initial-video-setbacks-in-zoom-sessions/"><u>Expert Tips to Overcome Initial Video Setbacks in Zoom Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-big-savings-walmarts-labor-day-offer-on-nintendo-switch-oled-with-a-sweet-60-discount-according-to-zdnet-news/"><u>Score Big Savings: Walmart's Labor Day Offer on Nintendo Switch OLED with a Sweet $60 Discount, According to ZDNet News</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-strategies-for-utilizing-chatgpt-as-the-ultimate-rpg-game-master/"><u>Top 6 Strategies for Utilizing ChatGPT as the Ultimate RPG Game Master</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-xbox-gaming-headsets-comprehensive-reviews-and-testing-by-experts-zdnet/"><u>Top-Rated Xbox Gaming Headsets : Comprehensive Reviews and Testing by Experts - ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-choosing-an-isp-the-best-9-options-for-online-gaming-according-to-zdnet/"><u>Ultimate Guide to Choosing an ISP: The Best 9 Options for Online Gaming, According to ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-ranking-the-top-game-console-ive-played-on-my-journey-through-gaming-history/"><u>Ultimate Ranking: The Top Game Console I've Played on My Journey Through Gaming History!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-ultimate-sub-100-gaming-experience-in-depth-review-of-drop-plus-epos-h3x-headset-zdnet-insights/"><u>Unveiling the Ultimate Sub-$100 Gaming Experience: In-Depth Review of Drop + Epos H3X Headset | ZDNET Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/wirelessly-hook-up-your-nintendo-switch-to-any-hdtv-detailed-tutorial/"><u>Wirelessly Hook Up Your Nintendo Switch to Any HDTV - Detailed Tutorial</u></a></li>
+</ul></div>
 

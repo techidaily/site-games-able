@@ -1,7 +1,7 @@
 ---
 title: Crafting a List of Unique, Charming Indie Games
-date: 2024-08-15T17:21:14.032Z
-updated: 2024-08-16T17:21:14.032Z
+date: 2025-01-20T18:31:29.950Z
+updated: 2025-01-22T22:57:15.438Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 Last Word
 
 [Last Word](https://store.steampowered.com/app/355530/Last%5FWord/) is an RPG where you do battle not with swords or staves, but with the power of words. You’ve been summoned to a mysterious mansion alongside a cadre of colorful characters (not unlike Clue), where you must investigate matters of international intrigue.
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 2 Untitled Goose Game
 
  It’s always worth watching various new games roundups like the Summer Games Fest or[Wholesome Games on YouTube](https://www.youtube.com/c/WholesomeGames) because, even if you’re not into everything shown, it’s always good to know what other people will be playing, and you might even discover a few new favorites for yourself.[Untitled Goose Game](https://goose.game/) is one of those titles, with a trailer that became so popular that developer House House Games ultimately ended up keeping the provisional title.
@@ -43,16 +44,9 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## 3 A Short Hike
 
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Adam Robinson-Yu](https://ashorthike.com/)
 
@@ -63,13 +57,15 @@ The ultimate burning program for all your needs!</a>
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Storyteller
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
@@ -83,11 +79,16 @@ The ultimate burning program for all your needs!</a>
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 
@@ -99,14 +100,11 @@ The ultimate burning program for all your needs!</a>
 
  There are plenty of ways to find indie gems to play. These are a few of the ways I found some of my own favorites and hopefully they can help you find new indie games to play too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +113,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-harmonizing-content-and-sound-in-instagram-reels/"><u>[New] 2024 Approved Harmonizing Content & Sound in Instagram Reels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-become-a-lol-broadcasting-pro-with-these-three-methods-for-2024/"><u>[New] Become a LOL Broadcasting Pro with These Three Methods for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ilencing-the-spotlight-avoiding-vloggers-fears/"><u>[New] Silencing the Spotlight Avoiding Vlogger's Fears</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-combining-youtube-tunes-and-film-vectors/"><u>[Updated] 2024 Approved Combining YouTube Tunes and Film Vectors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-accessing-googles-video-conference-platform/"><u>[Updated] In 2024, Accessing Google's Video Conference Platform</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-eliminating-barriers-accessing-fcp-at-no-charge/"><u>[Updated] In 2024, Eliminating Barriers Accessing FCP at No Charge</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-a-world-of-games-with-these-9-steam-tips/"><u>Dive Into a World of Games with These 9 Steam Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-steam-auth-delays-on-rust-platform/"><u>Eliminating Steam Auth Delays on Rust Platform</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-generation-ai-enhances-developer-efficiency-insights-and-trends-featuring-a-deep-dive-by-zdnet/"><u>How Generation-AI Enhances Developer Efficiency: Insights and Trends - Featuring a Deep Dive by ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-creative-expression-adding-video-filters-in-zoom/"><u>In 2024, Mastering Creative Expression Adding Video Filters in Zoom</u></a></li>
+<li><a href="https://games-able.techidaily.com/live-on-the-move-mastering-twitch-broadcasts-mobile/"><u>Live on the Move: Mastering Twitch Broadcasts (Mobile)</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-friendly-game-challenges-across-platforms/"><u>Top Picks for Friendly Game Challenges Across Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-4k-power-configuring-xbox-sx-for-optimal-performance/"><u>Unleash 4K Power: Configuring Xbox SX for Optimal Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-ea-play-features-on-ps5-subscribe-and-use-wisely/"><u>Unlocking EA Play Features on PS5 - Subscribe and Use Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-mystery-behind-repeatedly-disconnected-ps4-pad-on-pc/"><u>Unraveling Mystery Behind Repeatedly Disconnected PS4 Pad on PC</u></a></li>
+</ul></div>
 

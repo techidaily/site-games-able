@@ -1,7 +1,7 @@
 ---
 title: Why Tipping Game Devs Would Be a Bad Idea
-date: 2024-08-15T17:21:59.646Z
-updated: 2024-08-16T17:21:59.646Z
+date: 2025-01-19T23:46:56.994Z
+updated: 2025-01-22T22:43:57.435Z
 tags:
   - games
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
 ## Why Tipping Game Devs Would Be a Bad Idea
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Tipping game developers could be an option, but other methods like crowdfunding and Patreon already exist.
@@ -23,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -33,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Much Do Game Developers Already Earn?
 
  The quick and unsatisfying answer is: it depends. Game Developer roles vary enormously, from sole indie developers working on their dream projects to in-house employees at the biggest publishing houses. Like many professions, game development can be very lucrative or pitifully rewarding.
@@ -44,11 +46,16 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
@@ -60,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Negative Effects of Tipping Culture
 
  My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and[the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
@@ -70,17 +78,9 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -104,14 +104,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  I think this is a reasonable compromise. I don’t want to see developers taken advantage of by a tipping culture that treats them as disposable. But if tipping is simply one form of recompense among many, and developers are fairly rewarded for their toil and innovation, then maybe it’s not all so bad.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +117,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-cutting-edge-tech-for-live-broadcasts-the-top-6-microphone-options/"><u>[New] In 2024, Cutting-Edge Tech for Live Broadcasts The Top 6 Microphone Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-propel-your-skills-with-the-finest-android-drawing-software/"><u>[New] Propel Your Skills with the Finest Android Drawing Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-cultivating-connections-friendly-games-growth-with-friends-on-farms/"><u>[Updated] 2024 Approved Cultivating Connections Friendly Games Growth with Friends on Farms</u></a></li>
+<li><a href="https://games-able.techidaily.com/device-decisions-in-the-world-of-portable-games/"><u>Device Decisions in the World of Portable Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-in-transition-evaluating-steams-rules-on-ai-integration/"><u>Gaming in Transition: Evaluating Steam’s Rules on AI Integration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gentle-silence-how-to-fade-out-music-in-adobe-editing/"><u>In 2024, Gentle Silence How to Fade Out Music In Adobe Editing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/learn-how-to-choose-a-proper-video-editor-for-videos-shot-by-canon-camcorders-for-2024/"><u>Learn How to Choose a Proper Video Editor for Videos Shot by Canon Camcorders for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-slovak-online-in-just-10-minutes-a-day/"><u>Learn Slovak Online in Just 10 Minutes a Day</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ryujinx-controller-functions-for-ps4switch/"><u>Mastering Ryujinx Controller Functions for PS4/Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-the-steam-deck-experience-epic-and-gog/"><u>Perfecting the Steam Deck Experience: Epic and GOG</u></a></li>
+<li><a href="https://games-able.techidaily.com/stick-and-button-showdown-best-gaming-tool/"><u>Stick & Button Showdown: Best Gaming Tool?</u></a></li>
+</ul></div>
 

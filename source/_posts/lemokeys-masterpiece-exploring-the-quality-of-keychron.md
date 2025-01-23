@@ -1,7 +1,7 @@
 ---
 title: "Lemokey's Masterpiece: Exploring the Quality of Keychron"
-date: 2025-01-14T23:47:48.615Z
-updated: 2025-01-16T22:08:07.954Z
+date: 2025-01-21T00:39:02.547Z
+updated: 2025-01-22T23:14:10.501Z
 tags:
   - games
 categories:
@@ -19,18 +19,10 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ![lemokey l3 keyboard in via customization software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/lemokey-l3-keyboard-in-via-customization-software.jpg)  
  Gavin Phillips / MakeUseOf  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Keychron Lemokey L3 is a premium gaming mechanical keyboard with hot-swappable switches, a 1,000Hz polling rate, and 2.4GHz wireless connectivity.
 * It offers impressive battery life of up to 300 hours on Bluetooth and features a robust CNC machined aluminum build for durability.
@@ -44,15 +36,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -139,15 +123,15 @@ No
 
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Configuration
 
  Like all Keychron keyboards, the Lemokey L3 is available in several configurations. The Fully Assembled Knob version, which features in this review, will set you back $214, while the barebones version is $194.
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -155,15 +139,15 @@ No
 
  It's a good range of options, not forgetting that the Lemokey L3 is a hot-swappable keyboard. Hot-swappable means you can replace the keyboard's switches without soldering; they're plug-and-play.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Style and Construction
 
  The Lemokey L3 feels sublime. It's a premium gaming mechanical keyboard that weighs an excellent 1.97kg (4.3lbs). You're basically buying a block of high-quality CNC machined aluminum that also happens to be a mechanical keyboard; you won't be shoving the Lemokey L3 in your rucksack for the local LAN session, that's for sure. The weight has another important use, though—stopping your keyboard from moving around as you game or type.
 
 ![person-using-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-using-the-keychron-lemokey-l3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -174,7 +158,7 @@ No
 ![plug-and-switch-on-the-back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/plug-and-switch-on-the-back-of-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
@@ -184,6 +168,10 @@ No
  The Lemokey L3 is available in three color schemes: Carbon Black, Navy Blue, and Space Silver. I've been sent the Space Silver design, which looks mechanical and futuristic, but the Navy Blue and Carbon Black designs both look tidy, and the double-shot PBT keycaps are sculpted to maximize efficiency. Each color scheme comes with a unique set of additional keys; in a nod to the keyboard's gaming credentials, some of the additional keys bear the iconic PlayStation symbols.
 
 ![customizable-buttons-on-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/customizable-buttons-on-the-keychron-lemokey-l3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -209,6 +197,10 @@ No
 
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  Even for someone who doesn't game competitively online, the L3's inputs are noticeably fast and accurate, and if you do frequent games like CS2 (formerly CS:GO), CoD Warzone or Modern Warfare, Overwatch, or any of the myriad first-person shooters, having your inputs registered rapidly is vital.
@@ -229,6 +221,10 @@ No
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is the Lemokey L3 a Good Gaming Keyboard?
 
  The fully assembled knob version of the Lemokey L3 retails for $214\. It's a great price for a truly top-notch keyboard and one that will last you a literal lifetime.
@@ -242,6 +238,10 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -266,21 +266,17 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capture-screens-in-windows-8-4-methods/"><u>[New] 2024 Approved Capture Screens in Windows 8 4 Methods</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-tech-gear-best-win-11-webcam-recorders/"><u>[New] 2024 Approved Ultimate Tech Gear Best Win 11 Webcam Recorders</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-your-path-to-a-unique-auditory-experience-customizing-ringtone-and-sound-on-android/"><u>[Updated] Your Path to a Unique Auditory Experience Customizing Ringtone & Sound on Android</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-quick-correction-quest-how-to-skillfully-edit-images-on-win10/"><u>2024 Approved Quick Correction Quest How to Skillfully Edit Images on WIN10</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-transforming-ideas-into-visual-stories-on-facebook-reels/"><u>2024 Approved Transforming Ideas Into Visual Stories on Facebook Reels</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-secrets-to-winning-at-nyts-new-word-game-strands-edition/"><u>Discover the Secrets to Winning at NYT's New Word Game: 'Strands' Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/easing-into-the-game-after-fatigue-episodes/"><u>Easing Into the Game After Fatigue Episodes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-boy-hacks-for-linux-command-line-enthusiasts/"><u>Game Boy Hacks for Linux Command Line Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-set-up-4k-gaming-on-your-xbox-series-x/"><u>How to Set Up 4K Gaming on Your Xbox Series X</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-infinix-smart-8-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Infinix Smart 8 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/interacting-with-chatgpt-the-art-of-creating-compelling-text-adventures/"><u>Interacting with ChatGPT: The Art of Creating Compelling Text Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-bp-mode-stop-it-from-failing/"><u>Steam BP Mode: Stop It From Failing</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-gaming-keypads-of-2024/"><u>The Best Gaming Keypads of 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-approaches-for-quiet-visuals-capture/"><u>[New] In 2024, Best Approaches for Quiet Visuals Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-launching-educator-channels-10-key-tips-for-youtube-success/"><u>[Updated] Launching Educator Channels 10 Key Tips for YouTube Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-sony-handheld-console-ps-lite/"><u>Exploring the Sony Handheld Console: PS Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/from-start-to-finish-mastering-the-full-installation-process-of-openmeta-and-openinfo-systems/"><u>From Start to Finish: Mastering the Full Installation Process of OpenMeta and OpenInfo Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oneplus-12-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on OnePlus 12 Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-note-13-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi Note 13 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-asus-tuf-proart-vs-prime-brand-analysis/"><u>In-Depth: Asus, Tuf, ProArt Vs. Prime Brand Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-walled-gardens-open-playgrounds-for-all/"><u>No More Walled Gardens: Open Playgrounds For All</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-gaming-and-its-stance-on-in-game-purchases/"><u>Premium Gaming and Its Stance on In-Game Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/tie-your-controller-to-your-cell-with-ease/"><u>Tie Your Controller to Your Cell with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Hub: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/uncover-the-root-of-your-sound-cards-static-issues-a-comprehensive-guide/"><u>Uncover the Root of Your Sound Card's Static Issues: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Six Thrilling Story-Sharing Duos: Text Edition"
-date: 2025-01-11T20:12:48.626Z
-updated: 2025-01-16T23:14:01.180Z
+date: 2025-01-15T22:44:45.035Z
+updated: 2025-01-22T20:00:42.466Z
 tags:
   - games
 categories:
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
 
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Story Builder
 
 Close
@@ -44,6 +40,10 @@ Close
  With**Story Builder** , one of you begins the story by messaging an opening sentence to the other person. The other person then messages the second sentence in the story back to the first person. Slowly but surely, the two of you build a story over the course of several texts or a messaging thread.
 
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 20 Questions
 
@@ -56,7 +56,7 @@ Close
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 I Spy
@@ -79,6 +79,10 @@ Close
 
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Abbreviations
 
 Close
@@ -88,10 +92,6 @@ Close
  To play**Abbreviations** , one of you abbreviates the activity you're currently engaged in. For example: "In a coffee shop in town" becomes "IACSIT", and the other person sets about trying to un-abbreviate your short sentence back to its original form. Be prepared for some rude replies and some long message threads.
 
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6 List Builder
 
@@ -103,10 +103,6 @@ Close
 
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7 Where Am I?
 
 Close
@@ -116,6 +112,10 @@ Close
  With**Where Am I?** , each player takes it, in turn, to describe one feature of their surroundings, while the other tries to guess where they are. You can make this game as easy or as hard as you like by varying the level of detail you give to your opponent.
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8 Kiss, Marry, Kill
 
@@ -127,6 +127,10 @@ Close
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9 What If...?
 
 Close
@@ -136,10 +140,6 @@ Close
  One of you messages the other a What If? scenario and asks what they would do in that situation. There are no correct or incorrect answers here. It's not only fun to see the responses given, it can also give you an insight into your friend or family member's outlook on life.
 
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10 Simple Quiz
 
@@ -168,14 +168,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-tips-to-design-an-eye-catching-logo-for-podcasts/"><u>[New] Tips to Design an Eye-Catching Logo for Podcasts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-djis-miniair-series-blend-like-a-pro-with-free-creative-luts/"><u>[Updated] 2024 Approved DJI's Mini/Air Series Blend Like a Pro with Free, Creative LUTS</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-frame-by-frame-gaming-archives/"><u>Efficient Frame-by-Frame Gaming Archives</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y78-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y78 5G</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y28-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-mmos-new-horizon-a-fresh-perspective/"><u>Navigating MMO’s New Horizon: A Fresh Perspective</u></a></li>
-<li><a href="https://games-able.techidaily.com/pushing-boundaries-razer-basilisk-v3-pro-for-gamers/"><u>Pushing Boundaries: Razer Basilisk V3 Pro for Gamers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-why-your-ps5-dualsense-wont-charge-and-how-to-resolve-it/"><u>Solving the Issue: Why Your PS5 DualSense Won't Charge and How to Resolve It</u></a></li>
-<li><a href="https://games-able.techidaily.com/supercharging-ps5-with-these-essential-features/"><u>Supercharging PS5 with These Essential Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-achieving-cost-free-online-educational-streaming/"><u>[New] Achieving Cost-Free Online Educational Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-master-your-stream-best-cameras-to-capture-every-moment-on-twitch-for-2024/"><u>[New] Master Your Stream Best Cameras to Capture Every Moment on Twitch for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-cinematography-skills-editing-and-sharing-360-videos-on-youtube-for-2024/"><u>[Updated] Elevate Your Cinematography Skills Editing and Sharing 360° Videos on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-for-maximizing-your-iphones-photographic-features/"><u>2024 Approved Expert Advice for Maximizing Your iPhone's Photographic Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211332524-9798869177094-45-minuten-fur-tot-erklart/"><u>45 Minuten für tot erklärt | Free Book</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/all-you-need-to-know-about-samsungs-latest-gem-the-galaxy-s20-fe-5g-professional-opinions/"><u>All You Need to Know About Samsung's Latest Gem – The Galaxy S20 FE (5G): Professional Opinions</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-xboxs-cloud-based-gaming-concept/"><u>Decoding Xbox's Cloud-Based Gaming Concept</u></a></li>
+<li><a href="https://games-able.techidaily.com/dodging-delay-escaping-load-screen-lock-up/"><u>Dodging Delay: Escaping Load Screen Lock-Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/eschew-discords-game-interface-features/"><u>Eschew Discord’s Game Interface Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/guiding-families-to-child-safe-steam-explorations/"><u>Guiding Families to Child-Safe Steam Explorations</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-cool-should-your-pc-be-for-optimal-gameplay/"><u>How Cool Should Your PC Be for Optimal Gameplay?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-optimize-your-pc-reducing-steams-ram-intake/"><u>How to Optimize Your PC: Reducing Steam's RAM Intake</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-rotate-your-upside-down-and-sideway-photos-on-iphone/"><u>How to Rotate Your Upside Down and Sideway Photos on iPhone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ice-cream-recording-tech-deep-dive-analysis/"><u>Ice Cream Recording Tech Deep Dive Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-gaming-insights-with-steam-stats-analysis/"><u>Maximizing Your Gaming Insights with Steam Stats Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/techniques-to-increase-periscope-stream-velocity/"><u>Techniques to Increase Periscope Stream Velocity</u></a></li>
+<li><a href="https://games-able.techidaily.com/zenith-accessories-for-the-ultimate-switch-experience/"><u>Zenith Accessories for the Ultimate Switch Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate EA Play Game Guide for PS5
-date: 2025-01-12T22:28:04.731Z
-updated: 2025-01-16T23:30:16.665Z
+date: 2025-01-18T04:22:40.216Z
+updated: 2025-01-23T01:07:36.600Z
 tags:
   - games
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. FIFA 23
 
  Save money by buying the last FIFA game released and get it on EA Play. If you love soccer games and you’re tired of buying the same game every year with a different number on it, then go get FIFA through EA Play.
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  One of FIFA’s greatest appeals is its easy couch co-op system. It’s one of those games you should just have on your PS5 so you and your pals can have fun together. We placed it on this list as a good solution for multiplayer action for all soccer lovers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The Sims 4
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Need for Speed Heat
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Plants vs Zombies Garden Warfare 2
 
  The last thing people expected PopCap to pull off was an FPS game derived from the award-winning strategy game Plants vs Zombies. The original Garden Warfare was an unexpected hit FPS game when it came out. But the sequel builds on the original and improves the game with more characters, more content, and even a single-player mode.
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  While level progression in the game might be tedious, and you would need a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Star Wars Jedi: Fallen Order
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  This is definitely one of the more exciting adventure games on EA Play. In fact, we think this is the best single-player action-adventure game available on EA Play’s Play List for the PS5\. You should get it if you want an immersive single-player game with a challenging combat system, a well-written storyline, and a beautiful setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. UFC 3
@@ -118,21 +118,22 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-boosting-productivity-with-innovative-win11-features/"><u>[New] 2024 Approved Boosting Productivity with Innovative Win11 Features</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-pinnacle-phones-the-supreme-choices-in-mobile-video-recording/"><u>[New] 2024 Approved Pinnacle Phones The Supreme Choices in Mobile Video Recording</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-resonant-rhythms-where-to-download-classical-ringtones/"><u>[New] In 2024, Resonant Rhythms Where to Download Classical Ringtones</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-vr-tech-pioneers-selecting-pc-vr-headsets/"><u>[New] VR Tech Pioneers Selecting PC VR Headsets</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-explore-the-premier-3d-blu-ray-systems-of-today/"><u>[Updated] 2024 Approved Explore The Premier 3D Blu-Ray Systems of Today</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-acknowledging-talent-free-to-own-outro-templates/"><u>2024 Approved Acknowledging Talent Free-to-Own Outro Templates</u></a></li>
-<li><a href="https://games-able.techidaily.com/craft-your-perfect-gaming-setup-with-these-top-9-emulators/"><u>Craft Your Perfect Gaming Setup with These Top 9 Emulators</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-ideal-cpugpu-pairings-temperature-matters/"><u>Discovering Ideal CPU/GPU Pairings: Temperature Matters</u></a></li>
-<li><a href="https://games-able.techidaily.com/hall-effect-keys-akko-mod007b-reviewed-for-gamers/"><u>Hall Effect Keys: Akko MOD007B Reviewed for Gamers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-whats-new-on-facebook-an-updated-look/"><u>In 2024, What's New on Facebook - An Updated Look</u></a></li>
-<li><a href="https://games-able.techidaily.com/oled-monitor-my-secret-weapon-for-games/"><u>OLED Monitor - My Secret Weapon for Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/sync-your-poke-steps-with-correct-location-data/"><u>Sync Your Poké-Steps with Correct Location Data</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-motorola-edge-40-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Motorola Edge 40 Phone Hassle-Free</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-potential-dangers-lurking-in-linkedins-game-initiative/"><u>The Potential Dangers Lurking in LinkedIn's Game Initiative</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-picks-for-ddr5-motherboards-in-24/"><u>Top Picks for DDR5 Motherboards in '24</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-harnessing-the-potential-of-quantum-hdr-imaging/"><u>[New] Harnessing the Potential of Quantum HDR Imaging</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom/"><u>[Updated] 2024 Approved Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-undead-uncovered-ranking-the-best-zombie-game-clusters/"><u>[Updated] Undead Uncovered Ranking the Best Zombie Game Clusters</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-amazon-prime-and-tweet-fandom-most-appreciated-videos-2023/"><u>2024 Approved Amazon Prime and Tweet Fandom - Most Appreciated Videos, 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-gratuita-da-gsm-a-wav-online-utilizzando-il-software-di-movavi/"><u>Conversione Gratuita Da GSM a WAV Online - Utilizzando Il Software Di Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-visual-bliss-with-the-lg-oled-c9-expert-review-of-the-65-4k-television-marvel/"><u>Experience Visual Bliss with The LG OLED C9: Expert Review of the 65 4K Television Marvel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-workforce-does-ai-substitute-for-jobs/"><u>Future Workforce: Does AI Substitute for Jobs?</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-world-transformed-steams-new-rules-for-ai-titles/"><u>Game World Transformed: Steam's New Rules for AI Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-disabling-and-regulating-game-bar-for-gaming/"><u>Guide to Disabling and Regulating Game Bar for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/monitor-your-console-gameplay-on-xbox-series-xs/"><u>Monitor Your Console Gameplay on Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-4-typical-gpu-malfunctions-with-ease/"><u>Navigating Through 4 Typical GPU Malfunctions with Ease</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-elevate-your-brand-20-professional-adobe-premiere-title-templates-free-to-download/"><u>New In 2024, Elevate Your Brand 20 Professional Adobe Premiere Title Templates Free to Download</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfecting-your-youtube-videos-for-igtv-integration-for-2024/"><u>Perfecting Your Youtube Videos for IGTV Integration for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/precursors-in-selecting-an-ideal-portable-gaming-system/"><u>Precursors in Selecting an Ideal Portable Gaming System</u></a></li>
+<li><a href="https://games-able.techidaily.com/renew-your-gaming-experience-with-a-fixed-xbox-series-xs/"><u>Renew Your Gaming Experience with a Fixed Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-of-xbox-discounts-on-series-sandx/"><u>Secrets of Xbox Discounts on Series S&X</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-maximize-your-steam-deck-experience-with-gog-and-epic-titles/"><u>The Ultimate Guide to Maximize Your Steam Deck Experience with GOG & Epic Titles</u></a></li>
 </ul></div>
 

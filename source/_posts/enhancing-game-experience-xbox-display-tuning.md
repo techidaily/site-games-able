@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Game Experience: Xbox Display Tuning"
-date: 2024-08-08T09:18:34.416Z
-updated: 2024-08-09T09:18:34.416Z
+date: 2025-01-21T16:54:17.897Z
+updated: 2025-01-22T23:45:11.880Z
 tags:
   - games
 categories:
@@ -22,14 +22,13 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
  Calibrating your TV for your Xbox Series X|S involves tweaking your TV's display settings to perfectly suit your Xbox. This includes changing things like your TV's dimensions, brightness, color, contrast, and sharpness so that they are able to work in tandem with your console to bring you the best picture possible.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![A photograph of a white Xbox Wireless Controller held in front of an out of focus monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stock-image.jpg)
 
  TVs come with a plethora of different settings, and it can be daunting trying to figure out what exactly they all do. Even if you're not 100% sure what a particular setting does, the TV Calibration tool provides you with suggestions of ideal settings to make the process as simple as possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Calibrate Your TV for Your Xbox Series X|S
 
@@ -37,11 +36,11 @@ The powerful video editing program for your Windows PC</a>
 
  The first step to calibrating your TV is to find and open the**TV Calibration** tool on your console. You can find this in the**TV & display options** .[Enabling auto HDR on your Xbox Series X|S](https://www.makeuseof.com/how-to-enable-or-disable-auto-hdr-on-xbox-series-xs/) is another setting you can find in this section that will improve your gaming performance even further, but for now, select**Calibrate TV.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Xbox General TV and Display Options Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/xbox-general-tv-and-display-options-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The first screen gives you a general overview of what to expect when using the tool and encourages you to leave your TV on for around five minutes before you begin the process so the display can warm up. Once you’ve waited five minutes and read through the instructions, tap**Next** .
 
@@ -49,10 +48,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  At this point, you will be given several recommended settings for your TV display. To begin applying them, open up your TV settings and head to**Picture** . Start by changing your**Picture Mode** . Xbox recommends you change this to**Cinema** ,**Movie** , or**Standard** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TV Picture Settings Picture Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-picture-settings-picture-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you regularly experience lag when you’re gaming, you may want to have your TV set to**Gaming Mode** instead. This mode can be found in the**General** settings, and while it does increase your performance, it also sacrifices your picture quality.
 
@@ -62,9 +62,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Scroll up or down until you find a setting labeled**Dynamic contrast** ,**black tone** , or**shadow detail** . Turn that off or to 0.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TV Picture Settings Shadow Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-picture-settings-shadow-detail.jpg)
 
  Continue scrolling until you find any of the below settings and ensure they are all switched off:
@@ -76,13 +73,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Once you have completed tweaking those settings, press**Next** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Aspect Ratio and Sharpness
 
  You will then move on to tweaking your aspect ratio and image sharpness. The key to this page is to have the**green lines** match up perfectly with the edges of your TV. If they don’t, open your**Picture** settings once again and select**Picture Size Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![TV Calibration Aspect Ratio and Sharpness](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-aspect-ratio-and-sharpness.jpg)
 
  The setting you will require for most modern TVs is**16:9** . If you’re calibrating on a computer monitor, the settings you need may be different again. If you can’t see the green lines at all, calibrate your monitor using the**blue lines** instead.
@@ -95,27 +93,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The key to getting your perfect brightness level is to create a balance between light and dark. If your brightness is too low, you won't be able to make out objects hidden in dark corners, and if it's too high, your picture could appear blown out during bright scenes.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TV Calibration Brightness Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-brightness-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To set your brightness, head to your**Advanced/Expert** picture settings once again and press**Brightness** . First, scroll all the way up so you can see the**closed eye** . Then, scroll back down again until the**closed eye** just barely disappears into the darkness.
 
  Once complete, you shouldn’t be able to see the closed eye at all, and you should be able to only just see the**open eye** . It’s a good idea to tweak this setting while you are sitting in your usual TV viewing spot, as you might be able to see the eyes differently at different angles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![TV Settings HDMI Black Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-settings-hdmi-black-level.jpg)
 
  If you can't see the**closed eye** at all, go back to your TV's**General** settings and select**External Device Manager** . Open the**HDMI Black Level** setting and change it to**Auto** ,**Low** , or**Limited** . Then head back on your Xbox to reach your**General** settings and select**Video fidelity & overscan** .
@@ -126,10 +113,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Next up is the**Contrast settings** screen. This is a similar setup to the**Brightness** page, but you have**two suns** and**two eyes** now instead. Open your**Advanced/Expert** picture settings and find the**Contrast** setting.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![TV Calibration Contrast Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-contrast-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You want to just barely be able to make out both images. Press**Next** when you’re done.
 
@@ -143,27 +131,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![TV Calibration RGB Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-rgb-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once your TV display is blue, open the**Color** settings on your TV and adjust it so the blue and white columns on the top look the same. Then scroll to**Tint** or**Hue** and adjust it so the pink and cyan columns on the bottom match. Once all the colors are matching, change your**RGB filter** back to normal and press**Done** . Your TV will now be perfectly calibrated to your Xbox Series X|S.
 
  There are plenty more settings to explore on your Xbox Series X|S to make sure it is providing you with the best gaming experience possible.[Boosting the FPS on your Xbox Series](https://www.makeuseof.com/what-is-fps-boost-feature-xbox-series-x/) can give you an even better performance, and there are also a series of[sound settings to optimize on your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-sound-settings/) so your sound quality can match that of your display.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Allow Your Xbox Games to Look as Good as Possible
 
  Calibrating your TV for your Xbox is a lengthy process, but it is entirely worth it to enjoy your games with the best picture quality available to you.
 
  If you’ve had your Xbox Series X|S for a long time and you’ve never calibrated your TV, there’s a good chance that you might not be making the most out of either your Xbox or TV display. And using the TV Calibration tool on your Xbox is certainly cheaper than buying a new TV to get better picture quality.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,4 +158,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-commanding-the-crowd-on-igtv-5-tips-to-gain-traction/"><u>[New] 2024 Approved Commanding the Crowd on IGTV 5 Tips to Gain Traction</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-compreehensive-guide-to-youtube-thumbnail-creation-mac-for-2024/"><u>[New] A Compreehensive Guide to YouTube Thumbnail Creation (Mac) for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-video-storage-assessment-for-128gb-drives/"><u>[Updated] 2024 Approved Video Storage Assessment for 128GB Drives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-pixelperfect-the-modern-recorder-diagnosis/"><u>[Updated] In 2024, 'PixelPerfect' The Modern Recorder Diagnosis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-aviations-new-titans-dji-phantom-pro-and-gopro-k20-ii/"><u>[Updated] In 2024, Aviation's New Titans DJI Phantom Pro & GoPro K20 II</u></a></li>
+<li><a href="https://games-able.techidaily.com/1300-on-the-market-the-samsung-odyssey-neo-x-g95-neo-monitor-now-available-at-best-buy-tech-news/"><u>$1,300 on the Market: The Samsung Odyssey Neo X G95 Neo Monitor Now Available At Best Buy - Tech News</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-elite-vr-devices-unveiled-in-depth-evaluations-and-ratings-from-industry-experts-cnet/"><u>2024'S Elite VR Devices Unveiled: In-Depth Evaluations and Ratings From Industry Experts | CNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-techniques-for-reducing-video-file-size-before-dvd-creation/"><u>Efficient Techniques for Reducing Video File Size Before DVD Creation</u></a></li>
+<li><a href="https://win-special.techidaily.com/ensuring-system-security-how-to-transfer-windows-tenth-from-an-ssd-to-a-hard-drive/"><u>Ensuring System Security: How to Transfer Windows Tenth From an SSD to a Hard Drive</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-unbeatable-savings-hp-victus-cuin-for-just-350-less-at-best-buys-labor-day-sale-event-gadgetflow/"><u>Experience Unbeatable Savings: HP Victus Cuin for Just $350 Less at Best Buy's Labor Day Sale Event | GadgetFlow</u></a></li>
+<li><a href="https://games-able.techidaily.com/fallout-navigate-through-the-post-apocalyptic-world-with-an-unbeatable-deal-save-big-on-fallout-76-for-xbox-at-only-2-this-weekend-featuring-unmatched-disco92/"><u>Fallout Navigate Through the Post-Apocalyptic World with an Unbeatable Deal - Save Big on Fallout 76 for Xbox at Only $2 This Weekend, Featuring Unmatched Discounts | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/first-look-at-the-steelseries-aerox-5-wired-mouse-unveiling-its-impact-on-gaming-experience-techradar/"><u>First Look at the SteelSeries Aerox 5 Wired Mouse: Unveiling Its Impact on Gaming Experience | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/grab-your-sony-playstation-5-and-marvels-spider-man-2-collection-for-huge-savings-at-amazons-spectacular-spring-sale-get-a-cutting-edge-deal-with-a-whopping101/"><u>Grab Your Sony PlayStation 5 and Marvel's Spider-Man 2 Collection for Huge Savings at Amazon’s Spectacular Spring Sale: Get a Cutting Edge Deal with a Whopping $110 Off!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-liberating-your-media-experience-free-movplay-software/"><u>In 2024, Liberating Your Media Experience Free MOV/PLAY Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-a38-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo A38 Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-of-gaming-mice-how-razers-deathadder-v3-pro-redefines-an-iconic-era-wired-innovations/"><u>The Evolution of Gaming Mice: How Razer's DeathAdder V3 Pro Redefines an Iconic Era | Wired Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-features-that-make-opera-gx-a-trendsetting-mobile-web-browser-insights-from-zdnet/"><u>Top 5 Features That Make Opera GX a Trendsetting Mobile Web Browser - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-secret-features-in-whatsapp-the-ultimate-guide-for-efficient-messaging-for-2024/"><u>Top Secret Features in WhatsApp The Ultimate Guide for Efficient Messaging for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tv-offers-over-30-on-labor-day-2024-exclusive-list-and-deals/"><u>Top TV Offers Over $30 on Labor Day 2024 - Exclusive List & Deals!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Retro Vs. Modern: The PS5 Transformation"
-date: 2025-01-10T00:14:11.324Z
-updated: 2025-01-16T20:32:46.908Z
+date: 2025-01-18T17:14:46.078Z
+updated: 2025-01-22T18:02:28.396Z
 tags:
   - games
 categories:
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Sony Is Launching a New (Slimmer) PS5
 
 ![the new slimmer PS5 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/new-slim-version-of-the-ps5.jpg)
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
  With this new PS5 version, Sony has worked on some improvements that go beyond aesthetics. If you already own a PS5, you might be wondering if the differences are worth upgrading, or, if you haven't got one yet, purchase it now. Let's take a look at them in a little more detail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Size and Weight
 
  A major change to the PS5's design is the size. The launch PS5's dimensions were 390mm x 260mm x 104mm (height, width, depth) for the disc edition, while the digital edition had dimensions of 390mm x 260mm x 92mm. The smaller PS5s have dimensions of 358mm x 216mm x 96mm and 358mm x 216mm x 80mm for the disc and digital editions, respectively.
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Attachable Disk Drive
@@ -58,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  One of the other big changes is that the digital version of the new PS5 has an attachable Ultra HD Blu-ray disc drive. The attachment will cost you $79.99, and it's incompatible with the old digital version. However, it's nice to know that the option exists should you decide to use disks later on​​​​.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Specs
 
@@ -79,21 +83,17 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The newer PS5 models come with a horizontal stand, which is not compatible with the old models. You can also purchase a horizontal stand separately, which will cost $29.99\. The good thing about the new horizontal stand is that it will be compatible with all PS5 models.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The New PS5 Model Is Exciting
 
@@ -114,22 +114,20 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-ultimate-compendium-of-top-rated-instagram-analytics-applications/"><u>[Updated] In 2024, The Ultimate Compendium of Top-Rated Instagram Analytics Applications</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-c210-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia C210 FRP Bypass Instantly</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/comment-resoudre-les-difficultes-de-lapplication-handbrake-sous-windows-10-solutions-avancees-et-options-alternatifs-disponibles/"><u>Comment Résoudre Les Difficultés De L'application HandBrake Sous Windows 10 : Solutions Avancées Et Options Alternatifs Disponibles</u></a></li>
-<li><a href="https://driver-download.techidaily.com/efficient-amd-smbus-driver-installation-get-latest-version-now/"><u>Efficient AMD SMBus Driver Installation: Get Latest Version Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escape-from-tarkov-stability-improvement-no-more-pc-crashes/"><u>Escape From Tarkov Stability Improvement: No More PC Crashes!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Max, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-mfp-m428fdw-driver-downloads-for-windows-11107-systems/"><u>HP LaserJet Pro MFP M42ˈ8fdw Driver Downloads for Windows 11/10/7 Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-find-x7-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo Find X7 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-nyts-influence-labyrinth/"><u>Navigating NYT's Influence Labyrinth</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-xbox-joystick-to-computer-setup-guide-140-chars/"><u>Seamless Xbox Joystick to Computer Setup Guide (140 Chars)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/smart-speaker-faceoff-analyzing-differences-between-google-nest-audio-and-apple-homepod/"><u>Smart Speaker Faceoff: Analyzing Differences Between Google Nest Audio and Apple HomePod</u></a></li>
-<li><a href="https://games-able.techidaily.com/stellar-shaper-exploring-innovative-pc-brands/"><u>Stellar Shaper: Exploring Innovative PC Brands</u></a></li>
-<li><a href="https://games-able.techidaily.com/turn-off-visual-overlays-for-games-on-discord/"><u>Turn Off Visual Overlays for Games on Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-the-cryptic-character-set-of-steam-ids/"><u>Unlocking the Cryptic Character Set of Steam IDs</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-7-most-advanced-bot-allies-for-twitch-stars/"><u>Unveiling the 7 Most Advanced Bot Allies for Twitch Stars</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrade-to-state-of-the-art-3d-illumination-in-game-rooms/"><u>Upgrade to State-of-the-Art 3D Illumination in Game Rooms</u></a></li>
-<li><a href="https://games-able.techidaily.com/will-macos-become-central-in-game-development-trends/"><u>Will MacOS Become Central in Game Development Trends?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-who-wins-the-battle-of-cinematic-quality-and-durability-in-2024/"><u>[New] Who Wins the Battle of Cinematic Quality and Durability, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-impact-5-secrets-for-increasing-your-video-writes-for-2024/"><u>[Updated] Maximizing Impact 5 Secrets for Increasing Your Video' Writes for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-real-time-recording-for-gamers-explained/"><u>2024 Approved Real-Time Recording for Gamers Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-success-a-day-by-day-approach-to-nyt-connections/"><u>Crafting Success: A Day by Day Approach to NYT Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-delights-or-dilemmas-discover-the-pros-and-cons-of-games/"><u>Digital Delights or Dilemmas? Discover the Pros & Cons of Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722892291397-discovering-mobile-tracking-techniques-on-ios-devices-find-out-whereabouts/"><u>Discovering Mobile Tracking Techniques on iOS Devices - Find Out Whereabouts</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-reasons-that-diminish-the-impact-of-gamefi/"><u>Five Reasons That Diminish the Impact of GameFi</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-elevate-your-content-game-studio-aptitude-essentials/"><u>In 2024, Elevate Your Content Game Studio Aptitude Essentials</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-narzo-n53-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme Narzo N53 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-the-simplified-audio-experience-of-sonos-new-s2-app-but-dont-overlook-these-key-limitations/"><u>Introducing the Simplified Audio Experience of Sonos' New S2 App - But Don't Overlook These Key Limitations</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steam-deck-variants/"><u>Navigating Steam Deck Variants</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-onedrive-storage-space-a-step-by-step-guide-for-win10/"><u>Reimagine OneDrive Storage Space: A Step-by-Step Guide for Win10</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-dandd-guide-in-six-steps-using-gpt-assistance/"><u>The Ultimate D&D Guide in Six Steps Using GPT Assistance</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-oled-is-superior-to-traditional-monitors/"><u>Why OLED Is Superior to Traditional Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-link-failure-heres-how-to-resolve-it-for-pc/"><u>Xbox Link Failure? Here's How to Resolve It for PC</u></a></li>
 </ul></div>
 

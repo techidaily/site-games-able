@@ -1,7 +1,7 @@
 ---
 title: "The Art of Condensing Classic Games: ChDMan's Approach Revealed"
-date: 2024-08-15T17:20:36.062Z
-updated: 2024-08-16T17:20:36.062Z
+date: 2025-01-17T05:30:53.441Z
+updated: 2025-01-22T21:41:30.030Z
 tags:
   - games
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  What's best is that many emulators support the CHD format. So, you can keep playing your ROMs without extracting or decompressing them. Let's see how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is CHDMAN?
 
  MAME's Compressed Hunks of Data (CHD) manager, or "CHDMAN" for short, allows you to store the files of a ROM in a single compressed archive. Apart from saving space, this can also simplify the management of multi-file ROMs, like optical media backups consisting of a game's data track and many more audio tracks for its music.
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 * CDR.
 * IMG.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Compress Your ISOs With CHDMAN
 
  CHDMAN is distributed with the MAME emulator. If you already use that, you'll find CHDMAN's executable in MAME's installation directory. If not, download[the latest version of MAME from its official site](https://www.mamedev.org/) and install it on your PC to also get CHDMAN.
@@ -61,6 +62,10 @@ Our command was:
 
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To compress your game with CHDMAN to CHD format, use the following:
 
 `chdman.exe createcd -i "ROM_YOU_WANT_TO_COMPRESS.CUE" -o "FILENAME_OF_COMPRESSED.CHD"`
@@ -71,8 +76,9 @@ Our command was:
 `
 
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
@@ -83,24 +89,15 @@ Our command was:
 
  CHDMAN can also back up to the CHD format actual HDDs connected to the PC. That, though, should be rarely needed by the average user.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Else Should You Know About CHDs?
 
  Knowing how to compress your large ROMs to leaner CHD files is our target in this article. Still, the following might be helpful if you decide to use that file format for your emulated games.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Which Emulators Support CHDs?
 
  Although CHD files are now considered a standard for storing optical media and HDD backups in a compressed emulation-friendly format, not all emulators support them.
 
 ![DuckStation File Selector set to MAME CHD images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duckstation-chd-file-selection-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 
  If you're looking for a CHD-compatible emulator then, luckily some of the most popular emulators support them. Here are a few examples of emulators that allow you to play CHDs:
 
@@ -121,8 +118,9 @@ Our command was:
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Can You Check Your CHDs?
 
  CHDMAN isn't only a compression solution but, as its name states, a manager for CHD files. So, you can also use it to...
@@ -144,20 +142,21 @@ Our command was:
 
 `chdman.exe extracthd -i "INPUT.chd" -o "OUTPUT.IMG"`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More Storage, More Gaming
 
  Compressing your emulators' ROMs with CHDMAN will give you back a significant amount of storage space. But there's also a major con.
 
  Freeing up storage space means you can expand your ROM collection further. And that, in turn, translates to even more games in your backlog. With so many games a click away, having a CHDMAN equivalent that could compress and multiply our free time would be great.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +165,18 @@ Our command was:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-your-yt-content-with-the-top-thumbnail-hacks-for-2024/"><u>[New] Elevating Your YT Content with the Top Thumbnail Hacks for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-video-virtuosity-expertly-attaching-audio-to-youtube-videos/"><u>[New] In 2024, Video Virtuosity Expertly Attaching Audio to YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-deciding-between-ultrawide-and-uhd-4k-monitors/"><u>[Updated] 2024 Approved Deciding Between UltraWide and UHD 4K Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gameplay-through-smart-screen-adjustment-techniques/"><u>Elevating Gameplay Through Smart Screen Adjustment Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensure-only-headset-sound-on-new-xbox-console/"><u>Ensure Only Headset Sound on New Xbox Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-evidence-why-gaming-review-metrics-fall-short/"><u>Evaluating Evidence: Why Gaming Review Metrics Fall Short</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exploring-benq-bl2711u-ultra-hd-monitor-deep-dive/"><u>Exploring BenQ BL2711U Ultra-HD Monitor Deep Dive</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-zero-price-picture-frame-media-for-2024/"><u>Exploring Zero-Price Picture Frame Media for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-adds-new-messaging-features-to-messenger-and-instagram/"><u>Facebook Adds New Messaging Features to Messenger and Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-engaging-with-nyt-networks/"><u>Strategies for Engaging with NYT Networks</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/unveiling-distinctions-a-comprehensive-guide-on-converting-ogg-and-flac-audio-files/"><u>Unveiling Distinctions: A Comprehensive Guide on Converting OGG & FLAC Audio Files</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sony Unveils 10 Must-Have Games on Deal
-date: 2025-01-10T21:04:50.207Z
-updated: 2025-01-16T23:40:22.712Z
+date: 2025-01-18T18:12:54.821Z
+updated: 2025-01-22T21:15:47.408Z
 tags:
   - games
 categories:
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Overcooked! 2
 
  The best part of the summer holidays is that your friends are most likely on holiday as well, which means that there is no excuse not to invite them over and have a night of ridiculous fun playing Overcooked! 2\. Overcooked! 2 is a chaotic party game where you have to work together to serve food to some very impatient customers under extreme conditions in a short time limit. If you like laughing, you'll like this.
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. My Time at Portia Deluxe Edition
 
@@ -45,15 +45,15 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Little Nightmares 1 & 2
 
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Owlboy
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Unravel Two
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  Unravel Two is a beautifully rendered puzzle platformer that can be enjoyed alone, but it is best experienced with a friend. It has some incredibly unique and satisfying mechanics where you can use the yarn that makes up your body to interact with your surroundings and solve puzzles. It is very similar to It Takes Two, so if you were a fan of that, this should be at the top of your backlog.
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. The Last of Us: Part II
 
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
@@ -122,18 +122,22 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-discover-the-best-premiere-pro-templates-free-2023/"><u>[Updated] Discover the Best Premiere Pro Templates (FREE) 2023</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/95868157-2024-approved-enhance-productions-no-cost-sounds-available/"><u>2024 Approved Enhance Productions No-Cost Sounds Available</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/"><u>2024 Approved Masterclass in 3D Color Grading with Custom LUTs</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-spotting-guide-for-premier-apple-arcade-titles/"><u>Game-Spotting Guide for Premier Apple Arcade Titles</u></a></li>
-<li><a href="https://win-dash.techidaily.com/investment-in-human-capital-and-talent-acquisition-strategies/"><u>Investment in Human Capital and Talent Acquisition Strategies.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-steam-file-sync-in-windows-environment/"><u>Mastering Steam File Sync in Windows Environment</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-gps-glitches-pokemon-go-signal-fix/"><u>Navigating GPS Glitches: Pokémon GO Signal Fix</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/short-form-script-template/"><u>Short-Form Script Template</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-ends-refund-trap-consequences-explored/"><u>Steam Ends Refund Trap: Consequences Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-visuals-in-action-choosing-the-right-uw-monitors/"><u>Superior Visuals in Action: Choosing the Right UW Monitors</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-8-compact-android-emulators-windows-and-macos/"><u>Top 8 Compact Android Emulators, Windows & MacOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-latest-in-screen-innovation/"><u>Unveiling the Latest in Screen Innovation</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-gopro-quik-for-computer-download-and-alternative-options/"><u>Updated In 2024, GoPro Quik for Computer Download and Alternative Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-subscriber-acquisition-for-enhanced-viewership/"><u>[New] 2024 Approved Effortless Subscriber Acquisition for Enhanced Viewership</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hannel-progression-reach-and-maintain-10k-viewer-threshold-for-2024/"><u>[New] Channel Progression Reach and Maintain 10K Viewer Threshold for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-innovation-at-speed-how-to-make-stunning-slow-motion-content-with-an-android/"><u>[New] Innovation at Speed How to Make Stunning Slow-Motion Content with an Android</u></a></li>
+<li><a href="https://facebook.techidaily.com/examining-the-backbone-of-facebooks-operations/"><u>Examining The Backbone of Facebook's Operations</u></a></li>
+<li><a href="https://games-able.techidaily.com/field-day-frenzy-your-ultimate-list-of-iosandroid-sports-game-picks/"><u>Field Day Frenzy: Your Ultimate List of iOS/Android Sports Game Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-the-latest-surface-driver-software-with-hassle-free-installation/"><u>Getting the Latest Surface Driver Software with Hassle-Free Installation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-logitech-c920-ultra-hd-streaming-camera/"><u>In-Depth Analysis of the Logitech C920 Ultra HD Streaming Camera</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-turning-off-xbox-game-bar/"><u>Mastering the Art of Turning Off Xbox Game Bar</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-xbox-sx-mastering-4k-gaming-settings/"><u>Maximizing Xbox SX: Mastering 4K Gaming Settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-honor-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Honor</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-revamped-crafting-the-best-experience-through-9-upgrades/"><u>PS5 Revamped: Crafting the Best Experience Through 9 Upgrades</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sculpt-your-own-ai-dialogues/"><u>Sculpt Your Own AI Dialogues</u></a></li>
+<li><a href="https://games-able.techidaily.com/system-upgrades-unraveled-cpu-vs-gpu-placement-order/"><u>System Upgrades Unraveled: CPU Vs. GPU Placement Order</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-case-for-paying-5-strong-reasons-for-gamers/"><u>The Case for Paying: 5 Strong Reasons for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unifying-your-consoles-gamepad-with-smartphone-technology/"><u>Unifying Your Console's Gamepad with Smartphone Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-mechanics-of-steam-currency-exchange/"><u>Unveiling the Mechanics of Steam Currency Exchange</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-ultimate-voice-communication-applications-for-gaming-community-2023-edition-for-2024/"><u>Updated Ultimate Voice Communication Applications for Gaming Community - 2023 Edition for 2024</u></a></li>
 </ul></div>
 

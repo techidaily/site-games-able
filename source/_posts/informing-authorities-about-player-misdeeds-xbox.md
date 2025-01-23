@@ -1,7 +1,7 @@
 ---
 title: Informing Authorities About Player Misdeeds (Xbox)
-date: 2024-08-08T09:18:04.146Z
-updated: 2024-08-09T09:18:04.146Z
+date: 2025-01-18T22:09:10.943Z
+updated: 2025-01-22T17:00:41.029Z
 tags:
   - games
 categories:
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
  If you choose the Xbox Series X|S as your console of choice, there are tons of ways of dealing with each form of inappropriate behavior you may encounter, but this can get confusing. So, if you're looking for a way to report people's behavior on Xbox, we can help.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Report an Xbox Player’s Profile
 
  Commonly, if you experience inappropriate online behavior while playing on Xbox, you might not get the chance to report or deal with the behavior while still in your game. Luckily, the most common way of reporting other Xbox players relies on the**Recently played with** option to report the Xbox profile of the offending user.
@@ -30,18 +31,15 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 * Press the**Xbox button** on your controller to open the Guide menu.
 * Navigate to**People** , and select**Recently played with** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the Guide menu for Xbox Series X with the options for People highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2980.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Select the Xbox profile of the person who displayed inappropriate behavior.
 * Choose the option for**Report or block** , followed by**Report** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![A screenshot of the options for an Xbox Profile on Xbox Series X with the ability to Report highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2983.jpg)
 
  From here, you can choose various reasons for submitting your report, like**Unsporting behavior** . Once you have selected the reasons for reporting the player, select**Submit** to send your report.
@@ -50,9 +48,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  It's also important to note that you can access people's profiles in multiple ways. You can even[report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Report Inappropriate Xbox Messages
 
  Aside from experiencing inappropriate behavior from in-game gameplay or a way associated with a player's profile, another common form of social disruption is presented through online messaging.
@@ -67,9 +62,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * Select the conversation that contains the inappropriate messages you received.
 * Choose the**More** option at the end of the conversation history, and select**Report person** .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the available options for Xbox Chats with Report Person highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2992.jpg)
 
  Just as with reporting an Xbox profile, you will then be able to select specific reasons for reporting the player. However, by reporting them through**Chats** , you are linking the report to the player's messages, making it more likely action will be taken.
@@ -88,6 +80,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * Highlight**Apps** , and open the**Friends & Community Updates** application.
 
 ![A screenshot of the Apps section of My Games and Apps on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2995.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * From here, select the game capture or post you want to report.
 * With the post open, choose**More actions** , followed by**Report** .
@@ -111,9 +107,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 * Select**Save voice clip (last 60s)** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the Report In Game Voice Chat settings on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/save-voice-clip.jpg)
 
  With voice clips featuring evidence of inappropriate behavior saved to your Xbox, you can move forward with reporting in-game voice chat by following these steps:
@@ -121,19 +114,25 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * Re-enter the**Report in-game voice chat** section of the Xbox Guide menu.
 * Select**Review saved clips** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the Saved Voice Clips menu on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/saved-voice-clips.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Choose the clip you saved that features the inappropriate behavior you wish to report.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![A screenshot of the behaviour options when reporting someone using Report In Game Voice Chat on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/report-categories.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Much like other reporting methods, your Xbox will then ask you to define specific elements of the report associated with voice chats. Once you have defined these elements, like associated Xbox profiles and Gamertags, you can select**Submit Report** to finalize.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Report Toxic Gaming and Keep Your Xbox Experience Safe
 
@@ -141,14 +140,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  And as Xbox supports your Xbox Friends and gaming communities, you can simultaneously enhance and protect your online gaming experience, especially on Xbox Series X|S.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +153,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-refine-your-beauty-videos-with-youtubes-palette-tweaking/"><u>[New] 2024 Approved Refine Your Beauty Videos with Youtube's Palette Tweaking</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-enhancing-profits-creating-compelling-video-trailers-for-2024/"><u>[New] Enhancing Profits Creating Compelling Video Trailers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-photo-distortion-techniques-in-ps/"><u>[New] Mastering Photo Distortion Techniques in PS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-next-level-play-the-best-gaming-tech-on-display/"><u>[Updated] 2024 Approved Next-Level Play The Best Gaming Tech on Display</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-photographic-prose-weaving-words-into-images-across-operating-systems-for-2024/"><u>[Updated] Photographic Prose Weaving Words Into Images Across Operating Systems for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-legal-footprints-in-the-digital-age-photowatermarking-for-instagram/"><u>2024 Approved Legal Footprints in the Digital Age Photowatermarking for Instagram</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-11-proplus-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/black-shark-5-pro-gaming-mouse-assessment-advanced-features-unveiled-techreview/"><u>Black Shark 5 Pro Gaming Mouse Assessment: Advanced Features Unveiled | TechReview</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-lightning-reflexes-with-the-corsair-k10-the-fastest-gaming-keyboard-zdnet-review/"><u>Experience Lightning Reflexes with the Corsair K10 the Fastest Gaming Keyboard | ZDNET Review!</u></a></li>
+<li><a href="https://games-able.techidaily.com/govee-unveils-enhanced-artificial-intelligence-sync-gadgets-for-gamers-featuring-dynamic-neon-rope-lighting-options/"><u>Govee Unveils Enhanced Artificial Intelligence Sync Gadgets for Gamers, Featuring Dynamic Neon Rope Lighting Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/grab-the-deal-premium-85-inch-tcl-television-at-an-unbeatable-price-of-only-900-over-labor-day-shopping-guide-by-zdnet/"><u>Grab the Deal: Premium 85 Inch TCL Television at an Unbeatable Price of Only $900 Over Labor Day - Shopping Guide by ZDNet.</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-hyperx-alloy-origins-keyboard-analysis-superb-durability-meets-subpar-keycap-design-is-it-worth-the-purchase/"><u>In-Depth HyperX Alloy Origins Keyboard Analysis: Superb Durability Meets Subpar Keycap Design - Is It Worth the Purchase?</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-savings-alert-our-favorite-premium-samsung-tv-cuts-price-by-43-exclusive-zdnet-find/"><u>Labor Day Savings Alert: Our Favorite Premium Samsung TV Cuts Price by 43% – Exclusive ZDNET Find!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-watch-call-troubleshooting-techniques-what-to-do-when-you-cant-receive-calls/"><u>Samsung Galaxy Watch Call Troubleshooting Techniques: What to Do When You Can't Receive Calls</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-choosing-a-quality-ps5-external-drive-expert-picks-from-zdnet/"><u>The Ultimate Guide to Choosing a Quality PS5 External Drive - Expert Picks From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-the-ultimate-selection-of-43-televisions-in-202/"><u>Top Picks: The Ultimate Selection of 43 Televisions in 202</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/voc-online-wav/"><u>VOC 파일을 무료로 Online에서 WAV 형식으로 변환: 모바일 격차를 해소하는 단계별 가이드</u></a></li>
+</ul></div>
 

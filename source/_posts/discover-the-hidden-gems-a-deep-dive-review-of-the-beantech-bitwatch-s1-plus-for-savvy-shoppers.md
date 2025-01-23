@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: A Deep Dive Review of the Beantech Bitwatch S1 Plus for Savvy Shoppers"
-date: 2024-08-08T09:17:45.900Z
-updated: 2024-08-09T09:17:45.900Z
+date: 2025-01-17T17:25:54.273Z
+updated: 2025-01-22T16:30:05.867Z
 categories:
   - BestProducts
 description: "This Article Describes Discover the Hidden Gems: A Deep Dive Review of the Beantech Bitwatch S1 Plus for Savvy Shoppers"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 ## Fitbit Versa Lite
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/cLfckr_Y6BZxrI48GvfteHPwShs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-HeroSquare-771afa6a985240f0ab5fe71246b3d502.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -68,11 +72,12 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/A3jXmqXMfkFi3FKj8NYHxxYKi84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-03-849db13f6309480cb88c9d05e512f1a1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## **Design: Customizable and instinctive**
 
  With a host of different color options, wristbands, and downloadable clock faces, the Fitbit Versa Lite is a stylish digital watch that’s ready to be customized. The full-color[LCD](https://www.lifewire.com/what-is-liquid-crystal-display-lcd-2625913) touch screen exudes a smartwatch look with a square screen and metallic bezels that lay flush against it to prevent dirt or moisture from getting trapped. The unit is thoroughly water-resistant, making a day at the ocean or laps at the pool no cause for worry.
@@ -85,32 +90,24 @@ Lifewire / Todd Braylor
 
  Touch and swipe commands are easy and effective, even with sweaty fingers. Across its various[wellness monitoring features](https://www.lifewire.com/best-hidden-fitbit-features-4158279) and apps, the Versa Lite's software takes you step-by-step without getting you lost or feeling redundant.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/ehQeP3qIsRUrUZp6p58PkmyfjZs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-02-cbb859573ea64d6bbd3cb967820dbdec.jpg)
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## **Setup Process: Quick-tips and syncing**
 
  The Fitbit Versa Lite is quick and easy to set up—the most involved part of the process is downloading the Fitbit app to your smartphone and connecting it to your watch. The Fitbit app is available for both iOS and Android platforms, and syncing it to the Versa Lite via Bluetooth is very straightforward.
 
  When you connect your watch to the app the first time, the touchscreen guides you through a series of “Quick Tips” to get you acquainted with the Versa Lite's layout. The whole process takes about 10 minutes and then you are ready to go.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/BD_8kRJ7n6qQdf5LY9rLKiYigTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-05-fac178f5e6b240c29ff8d1e1e4fcb96f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## **Comfort: Attractive and confident wearability**
 
  The Fitbit Versa Lite feels nice in your hands and on your wrist. The device is relatively lightweight at 1.41 ounces and the screen unit sits naturally on the back of your wrist. The Versa Lite comes with two wristbands, one small and one large, measuring four and 5.25 inches long. Both are a little less than an inch wide and are made of a smooth, soft polymer material which is very comfortable for extended periods of wear.
@@ -119,9 +116,6 @@ Lifewire / Todd Braylor
 
  Aesthetically, the Versa Lite's screen and wrist band are attractive and look sleek. You can confidently wear the Versa Lite in any professional setting—it's good-looking but not overly flashy. Size-wise, it’s not the most ideal fitness tracker for sleep monitoring. It really feels like you are wearing a watch to bed and you might find yourself wanting to leave it on the bedside table instead.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## **Performance: Lean and effective**
 
  The Versa Lite uses an optical heart rate monitor which applies photoplethysmography (PPG) technology to measure your pulse and gauge your heart rate. This feature shines a rapidly-pulsating LED into your skin and measures how your blood flow affects the dispersion of light, producing a constant stream of heart rate data.
@@ -140,10 +134,11 @@ Lifewire / Todd Braylor
 
  It is unclear how many users are affected by this glitch (it seems other users are unaffected) but we experienced it with the Versa Lite Edition we tested. The only way for us to exit the swim exercise app was to hold down the side button for about 10 seconds in order to escape with the factory power cycle feature. This was one of the only significant flaws we found with the Versa Lite, but it did mean that all data for the swim workout was lost after restarting the Fitbit. This essentially rendered the swim mode unusable on our unit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/97XADSG__Ti-9y6W9YfT6A-sRLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-04-a5baf62c5de749cb93986be2eab3ad2d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Todd Braylor
 
@@ -172,8 +167,9 @@ Lifewire / Todd Braylor
  The ability to train in-depth with the Fitbit app and various Versa Lite exercise apps makes this fitness tracker a pretty good deal for under $200\. Avid swimmers, on the other hand, may want to look elsewhere.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Fitbit Versa Lite Edition vs. Apple Watch Series 4**
 
  Fitbit and Apple have fundamentally different business models, but one thing is certain: the Fitbit Versa Lite wins in the price category and accomplishes all the key health monitoring features of the Apple Watch Series 4\.
@@ -190,6 +186,10 @@ Lifewire / Todd Braylor
 
  Though we can’t recommend this watch to swimmers (pending a potential software solution for that glitch), the Fitbit Versa Lite is a great way to chart your progress throughout a training program or competitive season. The combination of the Fitbit Basics and dedicated exercise apps makes this watch both an insightful wellness monitor for everyday activity and a great tool for tracking your fitness progress.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Garmin Forerunner 945](https://www.lifewire.com/garmin-forerunner-945-review-4768586)
@@ -197,8 +197,9 @@ Lifewire / Todd Braylor
 * [Samsung Galaxy Watch Active](https://www.lifewire.com/samsung-galaxy-watch-active-review-4766873)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Versa Lite
@@ -218,14 +219,11 @@ Lifewire / Todd Braylor
 * Memory Capacity  7 days of activity data, 30 days of daily totals
 * What's included  Fitbit Versa Lite Edition watch, small wrist band, large wrist band, USB charging cradle
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -234,4 +232,21 @@ Lifewire / Todd Braylor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-alarm-tones-optimal-websites-list/"><u>[New] In 2024, Ultimate Alarm Tones Optimal Websites List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-free-12-best-video-players-and-apps-for-pc-and-mobile-devices/"><u>[Updated] FREE 12 Best Video Players and Apps for PC and Mobile Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-saving-parts-of-youtube-a-comprehensive-tutorial/"><u>[Updated] Saving Parts of YouTube A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-essential-strategies-to-enhance-your-use-of-macs-preview-app/"><u>2024 Approved Essential Strategies to Enhance Your Use of Mac's Preview App</u></a></li>
+<li><a href="https://games-able.techidaily.com/cyber-threats-a-new-frontier-for-gamers/"><u>Cyber Threats: A New Frontier for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-strategies-for-finding-scvs-unique-catches-76/"><u>Exclusive Strategies for Finding SCV's Unique Catches (76)</u></a></li>
+<li><a href="https://games-able.techidaily.com/expand-your-steam-decks-capacity-with-an-sd-card/"><u>Expand Your Steam Deck's Capacity with an SD Card</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-huawei-p60-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Huawei P60 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-team-videos-to-foster-viewership-and-following/"><u>In 2024, Crafting Team Videos to Foster Viewership and Following</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-the-metaverse-essential-gear-to-consider-top-7/"><u>In 2024, Transforming the Metaverse Essential Gear to Consider (Top 7)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-genius-of-mobile-in-depth-moto-z2-analysis/"><u>The Genius of Mobile In-Depth Moto Z2 Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-essential-dlc-for-bg3-enthusiasts/"><u>Uncover Essential DLC for BG3 Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-todays-game-mechanics-in-mmos/"><u>Understanding Today’s Game Mechanics in MMOs</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-mouse-sensitivity-is-ideal-for-fps-games/"><u>Which Mouse Sensitivity Is Ideal for FPS Games?</u></a></li>
+</ul></div>
 

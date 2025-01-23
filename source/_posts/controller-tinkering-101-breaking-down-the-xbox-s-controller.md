@@ -1,7 +1,7 @@
 ---
 title: "Controller Tinkering 101: Breaking Down the Xbox S Controller"
-date: 2024-08-08T09:19:03.497Z
-updated: 2024-08-09T09:19:03.497Z
+date: 2025-01-16T17:05:55.936Z
+updated: 2025-01-23T05:38:54.568Z
 tags:
   - games
 categories:
@@ -22,10 +22,11 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
  Depending on how often you play games, your Xbox Series X|S controller gets a fair bit of action. Not only can frequent use lead to issues like stick drift, but regular maintenance every now and then won't hurt.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-3.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For most things, you will have to at least take apart the external shell of your Xbox controller. Simple tasks like repairing or replacing a button or trigger, checking battery connections, and even cleaning any accumulated dirt around the controls will require basic disassembly.
 
@@ -42,12 +43,13 @@ Overall, here's everything you need:
 * A plastic prying tool or spudger (a thick guitar pick would work too)
 * A pair of tweezers
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Torx screwdriver bits](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/torx-screwdriver-bits.jpg)
 
  In case you don't have the tools required, you can invest in any of the many toolkits[available on Amazon](https://www.amazon.com/Vastar-Screwdriver-Repair-Controller-Cleaning/dp/B07G122BVS?tag=muo-v2-5jqtuqu-20&ascsubtag=UUmuoUeUpU2027960&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fxbox-series-xs-controller-how-to-take-apart%2F&asc%5Fcampaign=Evergreen) for around $10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Take Your Xbox Series X|S Controller Apart
 
@@ -55,33 +57,33 @@ Overall, here's everything you need:
 
 1. Remove the door to the battery compartment and take out the batteries. You'll also have to remove the sticker inside the battery compartment as it hides a screw underneath. You can either heat it up with a hair dryer or just punch through with your screwdriver.
 2. Using the plastic prying tool or spudger, remove the plastic panels from the controller's handles where your hands sit. This can be difficult, so be patient and gentle as you wiggle the prying tool under the edge to unclip the panels.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox Series X|S controller handle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-1.JPG)
 3. Once the panels are off, you'll have to remove the five Torx Security screws—two on each handle, one under the sticker in the battery compartment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. The front and back panels should simply come off now.
 5. At this point, you'll have access to the thumbsticks, D-pad, triggers, and the face buttons.  
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 6. Flip the controller over and use the prying tool to unclip the plastic tab protecting the USB-C port.
-7. Remove the tabs holding down the shoulder buttons from the left and right. This can be tricky, so be careful not to break the tabs. Once the tabs are open, take off the plastic cover.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Remove the tabs holding down the shoulder buttons from the left and right. This can be tricky, so be careful not to break the tabs. Once the tabs are open, take off the plastic cover.  
 ![Xbox Series X|S controller shoulder button tabs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-5.JPG)
 8. Use a T6 bit to unscrew the trigger vibration motors. The trigger should automatically come loose at this point.
 
  If you're looking to replace or repair the triggers, you'll have to be wary of the trigger vibration motors as well. They're soldered onto the mainboard with rather thin wires that'll snap off if you put too much pressure on them. Additionally, the main vibration motors are wired through the face buttons on the right and the left stick on the left, so be careful not to snap them off or bend them too much.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Xbox Series X|S controller trigger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-6.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In case you're looking to tear down your controller even further, you'll have to remove the two wires for the built-in wireless receiver from the daughterboard before removing the screws that hold it in place. Do keep in mind that going further will require some additional electronics know-how, so don't proceed unless you know what you're doing.
 
@@ -98,24 +100,17 @@ Overall, here's everything you need:
 
  The Xbox button's color can also be changed by putting a thin film of colored plastic under the button when putting the controller back again. Since the front and the back panels are off now, spray-painting them to a different color is also not a bad idea. Do keep in mind though that if your controller is any other color except white, the end result may not be exactly what you expected. However, once all the pieces are out, the sky is the limit.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Xbox Controllers Might Be Hard to Disassemble, but Not Impossible
 
  With the right tools, taking apart your Xbox Series X|S controller is only a matter of a few minutes. Once it’s disassembled, you can carry out general maintenance, repairs, replace parts, and even customize your controller the way you want.
 
  Overall, with a few tools and a little bit of time, you can save yourself some money and prevent your controller from ending up in the trash by repairing or customizing it to breathe new life into the peripheral.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +119,26 @@ Overall, here's everything you need:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-15-best-youtube-channels-for-stock-market-to-follow-for-2024/"><u>[Updated] 15 Best YouTube Channels for Stock Market to Follow for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-obs-broadcasting-directly-on-instagram/"><u>[Updated] In 2024, OBS Broadcasting Directly on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-azure-guide-to-speech-to-text-integration/"><u>[Updated] The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-united-creatives-brands-meet-youtube/"><u>[Updated] United Creatives Brands Meet YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/2-the-new-champion-why-pc-gamers-prefer-windows-11-over/"><u>2. The New Champion: Why PC Gamers Prefer Windows 11 Over</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginning-gaming-adventures-on-linux-with-steam-your-ultimate-guide/"><u>Beginning Gaming Adventures on Linux with Steam - Your Ultimate Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-lava-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Lava FRP Locks</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-the-ultimate-gaming-rig-without-breaking-the-bank-the-hp-victus-15l-pc-slashed-to-a-steal-at-480-for-the-holiday-weekend-says-zdnet/"><u>Get the Ultimate Gaming Rig Without Breaking the Bank: The HP Victus 15L PC Slashed to a Steal at $480 for the Holiday Weekend, Says ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/grip-it-right-tips-for-eliminating-jitter-in-action-cam-movies-for-2024/"><u>Grip It Right Tips for Eliminating Jitter in Action Cam Movies for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-cloud-data-costs-comparison-and-best-price-paths/"><u>Navigating Cloud Data Costs Comparison & Best Price Paths</u></a></li>
+<li><a href="https://games-able.techidaily.com/samsung-unveils-new-gaming-controller-range-meet-their-debut-model-exclusive-coverage-by-zdnet/"><u>Samsung Unveils New Gaming Controller Range: Meet Their Debut Model - Exclusive Coverage by ZDNet</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/scarica-gratis-comme-faire-versione-dvd-per-penna-usb-sul-tuo-pc/"><u>Scarica Gratis Comme Faire - Versione DVD per Penna USB Sul Tuo PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/silencing-the-quiet-how-to-enhance-tweeted-vids/"><u>Silencing the Quiet How to Enhance Tweeted Vids</u></a></li>
+<li><a href="https://games-able.techidaily.com/story-1-believing-that-the-technology-only-complicates-data-analysis-wrong-answer/"><u>Story 1: Believing that the Technology only Complicates Data Analysis (Wrong Answer)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-the-new-nintendo-switch-oled-why-it-outshines-rivals-expert-review-by-zdnet/"><u>The Definitive Guide to the New Nintendo Switch OLED: Why It Outshines Rivals | Expert Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-cutting-edge-electronic-presents-featured-on-zdnet/"><u>Top 10 Cutting-Edge Electronic Presents - Featured on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-elite-gaming-mechanical-keyboards-recommendations-by-zdnet/"><u>Top 5 Elite Gaming Mechanical Keyboards : Recommendations by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deal-hp-victus-15l-laptop-now-at-only-480-this-labor-day-exclusive-insights-from-zdnet/"><u>Unbeatable Deal: HP Victus 15L Laptop Now at Only $480 This Labor Day - Exclusive Insights From ZDNet</u></a></li>
+</ul></div>
 

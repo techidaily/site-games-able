@@ -1,7 +1,7 @@
 ---
 title: Customize In-Game Overlay Display on Discord
-date: 2025-01-14T18:13:57.684Z
-updated: 2025-01-16T17:57:26.427Z
+date: 2025-01-16T00:56:30.576Z
+updated: 2025-01-23T03:03:41.108Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/b38051c9d12a2b8d1315fdc2f1d84dde69fd749e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable the Discord Overlay
 
  To use the Discord overlay in a game, you must enable the feature in Discord. The app must also recognize the game you want to use the overlay in.
@@ -44,6 +40,10 @@ To turn on the Discord overlay, follow these steps:
 
 ![Discord Detecting the Game Being Played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-detecting-the-game-being-played.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Discord doesn't automatically detect the game, you must troubleshoot the problem. If you fail to[fix the game detection feature in Discord](https://www.makeuseof.com/windows-discord-game-detection-not-working/) , you can manually add the game.
 
 Here's how:
@@ -56,17 +56,13 @@ Here's how:
 5. Select the game you want to add from the list and hit**Add Game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Manually Add Roblox in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/manually-add-roblox-in-discord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the Discord Overlay During Gaming
@@ -76,6 +72,10 @@ Here's how:
  If you need to respond to a text or call, open the overlay window using the shortcut key. If you want to engage with a specific server or contact, you can pin the chat so that it always remains visible to you. To do this, open the overlay window and click the**pin icon** in the top-right corner.
 
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
 
@@ -94,11 +94,11 @@ Follow these steps to disable the in-game overlay:
 
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Keep Track of Conversations Through Discord Overlay
 
@@ -119,14 +119,22 @@ Follow these steps to disable the in-game overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-total-guide-to-video-dimensions-and-proportion-harmony-on-youtube/"><u>[New] Total Guide to Video Dimensions & Proportion Harmony on YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-the-ps5-game-top-9-exclusive-benefits/"><u>Elevating the PS5 Game: Top 9 Exclusive Benefits</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-flailing-ps4-controllers-a-step-by-step-guide/"><u>Fixing Flailing Ps4 Controllers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-new-technology-trends-at-toms-hardware-source/"><u>Navigating New Technology Trends at Tom's Hardware Source</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-easy-guide-using-ripit-to-fast-track-dvd-conversion-on-your-windows-pc/"><u>Quick & Easy Guide: Using Ripit to Fast-Track DVD Conversion on Your Windows PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unspoken-flaw-in-macs-fortnite-experience/"><u>The Unspoken Flaw in Mac's Fortnite Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-the-impact-on-storage-space/"><u>Understanding the Impact on Storage Space</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/vintage-voices-where-to-download-classical-ringtones/"><u>Vintage Voices Where to Download Classical Ringtones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-strategy-for-flawless-selfies-on-tiktok-repeatedly/"><u>[New] The Strategy for Flawless Selfies on TikTok, Repeatedly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seeing-beyond-our-elite-rankings-of-camera-lenses-1-10/"><u>[Updated] Seeing Beyond Our Elite Rankings of Camera Lenses #1-10</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-ea-play-ps5-game-selection/"><u>Essential EA Play PS5 Game Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-steams-price-journey-of-video-games/"><u>Exploring Steam's Price Journey of Video Games</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96261018-9781788172776-goddess-wisdom-made-easy/"><u>Goddess Wisdom Made Easy | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonizing-home-entertainment-taming-console-alerts/"><u>Harmonizing Home Entertainment: Taming Console Alerts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-z-flip-5-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy Z Flip 5 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-reorganize-overlapping-system-icons/"><u>Methods to Reorganize Overlapping System Icons</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ate-the-looping-world-with-our-yt-video-playback-hacks-for-2024/"><u>Navigate the Looping World with Our YT Video Playback Hacks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/nine-sentiment-swaying-duets-the-heartfelt-text-challenge/"><u>Nine Sentiment-Swaying Duets: The Heartfelt Text Challenge</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-ts-wav-omzetten-zonder-enkele-cent-expertise-van-movavi/"><u>Online TS-Wav Omzetten Zonder Enkele Cent - Expertise Van Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-sticking-issue-rehabilitate-your-gaming-experience/"><u>PS4 Sticking Issue? Rehabilitate Your Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2007-stellar-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2007 | Stellar</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-2024-pioneers-guide-to-next-level-keyboards/"><u>The 2024 Pioneer's Guide to Next-Level Keyboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-your-display-driver-from-failure-on-windows-1011/"><u>Unblocking Your Display Driver From Failure on Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-full-potential-of-steams-game-milestones/"><u>Unleash Full Potential of Steam's Game Milestones</u></a></li>
 </ul></div>
 

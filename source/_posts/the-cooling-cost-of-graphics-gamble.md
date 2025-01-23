@@ -1,7 +1,7 @@
 ---
 title: The Cooling Cost of Graphics Gamble
-date: 2025-01-09T16:01:11.499Z
-updated: 2025-01-17T00:55:32.695Z
+date: 2025-01-18T17:51:36.139Z
+updated: 2025-01-23T05:55:12.801Z
 tags:
   - games
 categories:
@@ -29,16 +29,12 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  Overclocking lets you squeeze every last drop of performance that your graphics card has to offer. But is it worth all the effort and potential downsides? Well, not in my experience with my GeForce RTX 4090\. Let's discuss why.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Increased Power Draw
 
 ![MSI Afterburner and RTSS showing performance stats for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-and-rtss-showing-performance-stats-for-cyberpunk-2077.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Increased power draw is an inevitable side effect of overclocking, no matter how safely you[overclock your graphics card](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) . That's because to get more performance out of your graphics card, you need to provide it with more voltage in most cases.
 
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  In my experience with my RTX 4090, the energy consumption skyrocketed by 15-30 percent for a 2-5 percent boost in frame rate across various games. So, is overclocking worth the increased electricity costs? Not in my book.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Higher Operating Temperature
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  However, if your graphics card runs hot most of the time, expect a negative impact on its lifespan. Therefore, if you plan to keep your graphics card for several years, I highly recommend against overclocking it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Screen Flickering
@@ -74,12 +70,16 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  While there are several[ways to fix screen flickering on Windows](https://www.makeuseof.com/tag/fix-windows-10-screen-flashing-problem/) , the only way to resolve it after an overclock is by either raising your GPU voltage or reverting the clocks to their default values.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Occasional Crashes While Gaming
 
 ![Cyberpunk 2077 crash message on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyberpunk-2077-crash-message-on-windows.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Besides screen flickering, your favorite games may occasionally crash after you overclock your GPU. This issue is predominant in games that are GPU-intensive. Once again, this is a good sign that your overclock isn't stable.
@@ -105,18 +105,22 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-guide-to-exporting-pinterest-videos-into-mp3-format/"><u>[New] 2024 Approved Guide to Exporting Pinterest Videos Into MP3 Format</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unveiling-updates-in-lgs-revolutionary-360-camera-tech/"><u>[New] 2024 Approved Unveiling Updates in LG's Revolutionary 360 Camera Tech</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-hourly-video-consumption-total-daily-gb-amount/"><u>[New] In 2024, Hourly Video Consumption Total Daily GB Amount</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-gaming-recorded-the-complete-breakdown/"><u>[Updated] 2024 Approved Gaming Recorded The Complete Breakdown</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-voiceover-dynamics-for-stellar-ppt-presentations/"><u>[Updated] In 2024, Voiceover Dynamics for Stellar PPT Presentations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/accelerate-creativity-in-photo-editing-using-pixlr-for-2024/"><u>Accelerate Creativity in Photo Editing Using Pixlr for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-evolution-how-the-xbox-series-s-abandons-physical-media/"><u>Gaming Evolution: How the Xbox Series S Abandons Physical Media</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-leading-edge-facebook-film-archives/"><u>In 2024, Leading Edge Facebook Film Archives</u></a></li>
-<li><a href="https://techidaily.com/is-your-samsung-galaxy-s23-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S23 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/precision-power-the-ultimate-guide-to-starting-an-fps-game-right/"><u>Precision Power: The Ultimate Guide to Starting an FPS Game Right</u></a></li>
-<li><a href="https://games-able.techidaily.com/selecting-your-ideal-raspberry-pi-emulator-batocera-vs-retropie/"><u>Selecting Your Ideal Raspberry Pi Emulator: Batocera Vs. RetroPie</u></a></li>
-<li><a href="https://games-able.techidaily.com/solutions-to-stop-your-xbox-joystick-from-skipping/"><u>Solutions to Stop Your Xbox Joystick From Skipping</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-face-off-samsung-galaxy-book-4-versus-apple-macbook-pro-in-the-battle-for-elite-portability-techradar/"><u>Ultimate Face-Off: Samsung Galaxy Book 4 versus Apple MacBook Pro in the Battle for Elite Portability | TechRadar</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-elevate-views-not-video-length-expert-guide-to-yt-desc-templates/"><u>[New] In 2024, Elevate Views, Not Video Length Expert Guide to YT Desc Templates</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-sync-facebook-media-for-larger-display-views-for-2024/"><u>[Updated] Sync Facebook Media for Larger Display Views for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-barriers-with-excellent-job-interview-techniques/"><u>2024 Approved Breaking Barriers with Excellent Job Interview Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-key-cutting-strategies-in-modern-cinema/"><u>2024 Approved Key Cutting Strategies in Modern Cinema</u></a></li>
+<li><a href="https://games-able.techidaily.com/easily-reinstate-lost-licenses-on-ps5-console/"><u>Easily Reinstate Lost Licenses on PS5 Console</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-download-the-most-recent-acer-monitor-driver-today/"><u>Find & Download the Most Recent Acer Monitor Driver Today</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-ace-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus Ace 2 Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-sd-card-with-steam-deck/"><u>Integrating SD Card with Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/international-xbox-shift-change-locale-and-zone/"><u>International Xbox Shift: Change Locale & Zone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/leading-no-cost-screen-capture-software-find-your-perfect-match/"><u>Leading No-Cost Screen Capture Software: Find Your Perfect Match!</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-gaming-environment-personalizing-the-xbox-game-bar-in-windows-systems/"><u>Master Your Gaming Environment: Personalizing the Xbox Game Bar in Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-elgato-stream-decks-which-one-suits-you-best/"><u>Top Elgato Stream Decks: Which One Suits You Best?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-hig-hdmi-gaming-mouse-experience/"><u>Ultimate HIG HDMI Gaming Mouse Experience</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-emeditor-issues-unraveling-regex-and-function-quirks/"><u>Understanding EmEditor Issues: Unraveling Regex and Function Quirks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-5-reasons-older-handhelds-worth-buying-now/"><u>Unmatched 5 Reasons: Older Handhelds Worth Buying Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-headset-woes-3-key-steps-for-troubleshooting/"><u>Xbox Headset Woes? 3 Key Steps for Troubleshooting</u></a></li>
 </ul></div>
 

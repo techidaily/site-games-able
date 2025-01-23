@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11 Steam Disconnect Glitch
-date: 2024-08-08T09:19:15.932Z
-updated: 2024-08-09T09:19:15.932Z
+date: 2025-01-15T18:40:48.521Z
+updated: 2025-01-23T03:07:48.876Z
 tags:
   - games
 categories:
@@ -18,22 +18,20 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 
  Even if you’re not sure about the cause, there’s no reason you should miss out on having fun with your friends. We’ve put together a list of fixes that you should try to get rid of the network unreachable error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Steam
 
  There’s a chance you’ve run into the network unreachable error due to a temporary Steam glitch. Before going through more complicated fixes, try restarting the Steam app.
 
  Most of the time, this is enough to fix minor bugs or glitches. Once you close the app, ensure no background process is still running. Right-click on the taskbar and select**Task Manager** . Then, right-click**Steam** and select**End task** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![End Steam Client process from running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-task-manager-1.jpg)
 
 Restart Steam and check if the issue is now fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Check Steam Friends & Chat Settings
 
  If restarting Steam didn’t fix the issue, you should check your account’s Friends & Chat settings. Here’s how you can do it:
@@ -59,13 +57,22 @@ Restart Steam and check if the issue is now fixed.
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Edit Steam’s Executable
 
  While this isn’t an official fix, editing the executable file could fix the “Steam friends network unreachable” error. To find Steam’s executable file, search for**Steam** within the Start menu search bar and select**Open file location** . Then, right-click**Steam** and head to**Properties** . Open the**Shortcut** tab and add**\-nofriendsui** into the**Target** field.
 
  Click**Apply** and**OK** to save the new settings and restart Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Delete the Steam Appdata Folder
 
@@ -73,16 +80,14 @@ Restart Steam and check if the issue is now fixed.
 
  To delete Steam’s cache, press**Windows key + R** to launch a Run dialog. Then, type**%appdata%** and press**Enter** . In the File Explorer window, locate and permanently delete the**Steam** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Delete Steam's Web Data
 
  If you’ve deleted Steam's appdata folder and you're still dealing with the same issue, you should delete Steam’s web browser data. Here’s how you can do it:
@@ -95,23 +100,17 @@ Restart Steam and check if the issue is now fixed.
 6. Confirm the action.
 7. Close the game, restart Steam, and check if the issue is now solved.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
 
 ## Get Back to Playing With Your Friends
 
  The tricky part about the ”Steam friends network unreachable” error is that Steam doesn’t tell you what’s wrong and how you can fix it. If you still can’t join your friends' server, you can use Steam’s Remote Play Together. Using this feature, you can even try new games as you can join your friends even if you don’t own the game or have it installed.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +119,22 @@ Restart Steam and check if the issue is now fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-benqs-bl2711u-showcase-the-quest-for-perfect-4k-visual-fidelity/"><u>[New] BenQ's BL2711U Showcase The Quest for Perfect 4K Visual Fidelity</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-live-streamer-audience-metrics-for-2024/"><u>[Updated] Live Streamer Audience Metrics for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-best-youtube-channel-titles-a-must-have-guide-for-vloggers-limit-to-156-characters/"><u>[Updated] Unveiling the Best Youtube Channel Titles A Must-Have Guide for Vloggers (Limit to 156 Characters)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-enhancing-visuals-a-compreenas-guide-to-zoomed-snapshots/"><u>2024 Approved Enhancing Visuals A Compreenas Guide to Zoomed Snapshots</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-remote-play-on-ps5-console/"><u>Enabling Remote Play on PS5 Console</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-employment-prospects-with-gpt-insights/"><u>Enhancing Employment Prospects with GPT Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-system-efficiency-prioritize-these-8-cpu-cooling-factors/"><u>Enhancing System Efficiency: Prioritize These 8 CPU Cooling Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-inventive-jabberwocky-rounds-for-humorous-texting/"><u>Five Inventive Jabberwocky Rounds for Humorous Texting</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-best-144hz-display-options/"><u>Navigating Through Best 144Hz Display Options</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-magic-5-lite-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor Magic 5 Lite? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-oculus-installation-error-in-windows-os/"><u>Resolving Oculus Installation Error in Windows OS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/snap-it-all-complimentary-android-recordings/"><u>Snap It All Complimentary Android Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-steam-deck-accessories/"><u>The Best Steam Deck Accessories</u></a></li>
+<li><a href="https://win-lab.techidaily.com/wma-m4r-movavi/"><u>오피니 공간에서 WMA펫스를 M4R 파일로 자유성적으로 전환: 무료 해상도 - MOVAVI</u></a></li>
+</ul></div>
 

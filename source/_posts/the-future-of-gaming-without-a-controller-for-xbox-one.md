@@ -1,7 +1,7 @@
 ---
 title: The Future of Gaming Without a Controller for Xbox One
-date: 2024-08-15T17:22:04.922Z
-updated: 2024-08-16T17:22:04.922Z
+date: 2025-01-20T23:22:19.982Z
+updated: 2025-01-22T18:55:53.894Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 
  Luckily, there are alternative methods to control your Xbox One that can come in handy in these situations. In this article, we will explore these options and help you operate your console even when your trusty controller isn't available.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can You Use Any Other Controller for Xbox One?
 
  As per Microsoft's guidelines, the Xbox One console is compatible only with wired or wireless Xbox One controllers. These controllers are specifically manufactured either by Microsoft or by verified third-party manufacturers for use with the Xbox One platform.
@@ -26,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 
  While that is indeed a bummer, it’s not something to worry about. There are other ways you can control your Xbox One without a controller. We’ve discussed these below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Use Your Smartphone to Control Your Xbox
 
  You can control your Xbox console using the native Xbox app, available for[iOS](https://apps.apple.com/us/app/xbox/id736179781) and[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027778/https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass&hl=en&gl=US) . This app provides a convenient and user-friendly interface for managing your Xbox remotely.
@@ -45,11 +46,19 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 
 ![Turn on remote features popup on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-on-remote-features-popup-on-xbox-app.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  On your Xbox One console, you’ll be asked to**Set up remote features** . From there, select**Enable** .
 
 ![A screenshot of the Remote Features prompt that appears when connecting your Xbox to a mobile device on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/xbox-series-x-remote-features-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ​​​​​​​Finally,**Test remote play** on your Xbox to test your internet connection for remote play.
 
@@ -60,24 +69,18 @@ Close
 ![Living room Xbox on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/living-room-xbox-on-xbox-app.jpeg)
 
 ![Xbox remote control on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-remote-control-on-xbox-app.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
 Close
 
  However, it’s worth noting that you may not be able to play most of the games using the remote control on the Xbox app. The virtual remote control within the app is primarily designed for basic tasks and navigation within the Xbox console interface rather than fully-fledged gaming experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Connect a Keyboard and Mouse to Your Xbox
 
 ![Mouse keyboard iphone and xbox controller on wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-keyboard-and-xbox-controller.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 
  For those seeking greater accessibility and precision, connecting a keyboard and mouse to your Xbox One is an excellent option. By doing so, you can perform all the functions typically carried out with a regular Xbox controller but with added convenience. While not all games support keyboard and mouse inputs, many do, especially those with cross-platform compatibility.
 
@@ -92,8 +95,9 @@ Close
  The process of setting up and using digital assistants on an Xbox One is pretty straightforward. Go to **Settings > Devices & connections > Digital assistants** and check the box next to**Enable digital assistants** . If you do not have a controller, you can also perform these actions using the keyboard shortcuts mentioned in the above section.
 
 ![xbox digital assistants menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/xbox-enable-digital-assistants.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on[how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and[how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
@@ -105,16 +109,14 @@ Close
  Additionally, you can control your Xbox console with these digital assistant apps through touch on your smartphone. This eliminates the need for voice input, and you can simply use your smartphone to manage your Xbox console.
 
 ![Google Home devices tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-devices-tab.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Google Home voice assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-voice-assistant.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Google Home Xbox remote control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-xbox-remote-control.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -124,14 +126,11 @@ Close
 
  Each method offers its advantages and allows you to navigate menus, launch games, control media playback, and perform various tasks. While these alternatives may not provide the experience of a physical controller, they are still viable solutions that help you enjoy your Xbox until you get a new controller.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,4 +139,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-from-amateur-to-pro-instagram-video-tutorials/"><u>[New] In 2024, From Amateur to Pro Instagram Video Tutorials</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cut-the-cost-not-your-content-quality-try-these-top-8-free-tools/"><u>[Updated] In 2024, Cut The Cost, Not Your Content Quality - Try These Top 8 Free Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-zte-axon-40-lite-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/buy-bitraser-drive-eraser/"><u>Buy - BitRaser Drive Eraser</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/diving-into-nvidia-g-sync-the-key-to-smoother-games/"><u>Diving Into Nvidia G-Sync: The Key to Smoother Games</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effective-approaches-to-thriving-in-the-world-of-cryptocurrency-investments-insights-from-yl-computing-and-yl-software/"><u>Effective Approaches to Thriving in the World of Cryptocurrency Investments: Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-the-thrill-play-six-amazing-chatgpt-games/"><u>Experience the Thrill: Play Six Amazing ChatGPT Games!</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-fun-frenzy-top-20-engaging-mobile-games-on-androidiphone/"><u>Fast Fun Frenzy: Top 20 Engaging Mobile Games on Android/iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-your-joyful-gaming-on-nintendo-switch/"><u>Jumpstart Your Joyful Gaming on Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-game-files-with-efficient-disk-management/"><u>Streamline Game Files with Efficient Disk Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/surround-silence-managing-system-noises-on-xbox/"><u>Surround Silence: Managing System Noises on Xbox</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-comprehensive-guide-for-dynamic-snaps-and-boomers/"><u>The Comprehensive Guide for Dynamic Snaps & Boomers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-ultra-hd-on-xbox-series-xs-blue-ray/"><u>Unveiling Ultra HD on Xbox Series X's Blue-Ray</u></a></li>
+</ul></div>
 

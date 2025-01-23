@@ -1,7 +1,7 @@
 ---
 title: "Steam's Big Leap: Overhauling Family Sharing for a Decade"
-date: 2025-01-10T23:53:56.362Z
-updated: 2025-01-16T19:57:35.507Z
+date: 2025-01-16T02:09:07.615Z
+updated: 2025-01-23T00:21:33.955Z
 tags:
   - games
 categories:
@@ -19,15 +19,15 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Steam Families: What Has Changed? How Does It Work?](#steam-families-what-has-changed-how-does-it-work)
 * [How to Enter the Steam Families Beta](#how-to-enter-the-steam-families-beta)
 * [The Pros and Cons of Steam Families](#the-pros-and-cons-of-steam-families)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -37,12 +37,16 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  Between Family Sharing and Family View on Steam, the game sharing features of the platform have historically been a bit difficult to manage. However, an update makes family sharing more streamlined and easier to use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Steam Families: What Has Changed? How Does It Work?
 
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
@@ -61,28 +65,24 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  These changes allow you to truly have a parental system for Steam, much like a[kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enter the Steam Families Beta
 
 ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
 ![Steam Family section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-section-in-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
  If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Pros and Cons of Steam Families
@@ -122,18 +122,24 @@ Some of the drawbacks of the feature include:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-initial-visual-journey-review-with-additional-paths/"><u>[New] 2024 Approved Initial Visual Journey Review with Additional Paths</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-methodical-guide-to-unmute-your-social-network-videos/"><u>[Updated] 2024 Approved Methodical Guide to Unmute Your Social Network Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-quick-fixes-how-to-screen-record-your-google-chats-for-2024/"><u>[Updated] Quick Fixes How to Screen Record Your GooGle Chats for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722976240917-amd-ryzen-5-2400g-driver-update-made-easy-fast-downloads-and-setup/"><u>AMD Ryzen 5 2400G Driver Update Made Easy – Fast Downloads and Setup!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-gain-access-and-fix-the-permission-denied-for-fortnite-issue/"><u>How to Gain Access and Fix the 'Permission Denied for Fortnite' Issue</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-7-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 7 Plus with a Broken Screen?</u></a></li>
-<li><a href="https://games-able.techidaily.com/key-oversights-how-to-avoid-mistakes-in-purchasing-a-monitor/"><u>Key Oversights: How to Avoid Mistakes in Purchasing a Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/pick-your-performance-the-battle-between-mini-and-desktop-pcs/"><u>Pick Your Performance: The Battle Between Mini & Desktop PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-fresh-up-your-windows-with-updated-canon-pixma-mx490-driver-software/"><u>Step-by-Step Tutorial: Fresh Up Your Windows with Updated Canon PIXMA MX490 Driver Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackle-turbulent-titles-transition-time/"><u>Tackle Turbulent Titles Transition Time</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/theta-sc2-review-smaller-size-bigger-impact/"><u>Theta SC2 Review: Smaller Size, Bigger Impact</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncover-apple-arcade-bests-with-these-tips/"><u>Uncover Apple Arcade Bests with These Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-apple-excellence-iphones-best-no-cost-image-assemblers-and-layouts/"><u>[New] Apple Excellence – iPhone's Best No-Cost Image Assemblers & Layouts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-evaluationcast-breakdown/"><u>[New] In 2024, EvaluationCast Breakdown</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-complete-guide-to-morphvox-voice-changer-find-the-best-way/"><u>2024 Approved Complete Guide to MorphVOX Voice Changer Find the Best Way</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-chatgpts-latest-enhancements-and-must-see-improvements/"><u>Discover ChatGPT's Latest Enhancements and Must-See Improvements</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-outlook-for-affordable-ps5-purchases/"><u>Future Outlook for Affordable PS5 Purchases</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-civi-3-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Civi 3 Lock Screen Password?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-synopsis-exploring-googles-podcast-ecosystem/"><u>In 2024, Comprehensive Synopsis Exploring Google's Podcast Ecosystem</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone XS Max</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-borders-on-instagrams-short-films/"><u>Mastering Borders on Instagram's Short Films</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-through-the-new-era-ranking-the-top-8-pc-and-laptop-makers-of-2024/"><u>Navigating Through the New Era: Ranking the Top 8 PC and Laptop Makers of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/sculpting-simple-yet-stunning-3d-game-assets/"><u>Sculpting Simple Yet Stunning 3D Game Assets</u></a></li>
+<li><a href="https://games-able.techidaily.com/seeking-silent-players-4-ways-to-find-disconnects/"><u>Seeking Silent Players: 4 Ways to Find Disconnects</u></a></li>
+<li><a href="https://games-able.techidaily.com/seven-fun-fact-challenge-spells-for-text-bonding/"><u>Seven Fun Fact Challenge Spells for Text Bonding</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-addressing-failure-of-display-driver-startup-in-windows-11/"><u>Strategies for Addressing Failure of Display Driver Startup in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-sending-digital-games-from-steam/"><u>The Art of Sending Digital Games From Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/uninstall-new-xbox-controller-settings/"><u>Uninstall New Xbox Controller Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-linkedin-games-might-not-be-as-fun-as-they-seem/"><u>Why LinkedIn Games Might Not Be as Fun as They Seem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-warcraft-halted-by-error-132-heres-how-to-get-you-back-in-game/"><u>World of Warcraft Halted by Error 132? Here's How to Get You Back In-Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-xs-game-on-the-wallet/"><u>Xbox Series X/S: Game on the Wallet</u></a></li>
 </ul></div>
 

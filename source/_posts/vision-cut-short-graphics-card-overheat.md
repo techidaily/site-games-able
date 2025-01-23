@@ -1,7 +1,7 @@
 ---
 title: "Vision Cut Short: Graphics Card Overheat"
-date: 2024-08-15T17:20:39.133Z
-updated: 2024-08-16T17:20:39.133Z
+date: 2025-01-20T01:10:39.743Z
+updated: 2025-01-22T23:15:26.490Z
 tags:
   - games
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 
 ## Vision Cut Short: Graphics Card Overheat
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Increased Power Draw](#increased-power-draw)
@@ -24,13 +28,15 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
  Overclocking lets you squeeze every last drop of performance that your graphics card has to offer. But is it worth all the effort and potential downsides? Well, not in my experience with my GeForce RTX 4090\. Let's discuss why.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Increased Power Draw
 
 ![MSI Afterburner and RTSS showing performance stats for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-and-rtss-showing-performance-stats-for-cyberpunk-2077.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Increased power draw is an inevitable side effect of overclocking, no matter how safely you[overclock your graphics card](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) . That's because to get more performance out of your graphics card, you need to provide it with more voltage in most cases.
@@ -41,11 +47,16 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 
  In my experience with my RTX 4090, the energy consumption skyrocketed by 15-30 percent for a 2-5 percent boost in frame rate across various games. So, is overclocking worth the increased electricity costs? Not in my book.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Higher Operating Temperature
 
 ![MSI Afterburner running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-running-on-windows-11.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another downside of raising the voltage while overclocking is increased heat dissipation. Simply put, the more voltage you supply, the more heat your graphics card generates. And nobody wants their graphics card to run too hot.
@@ -54,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 
  However, if your graphics card runs hot most of the time, expect a negative impact on its lifespan. Therefore, if you plan to keep your graphics card for several years, I highly recommend against overclocking it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Screen Flickering
 
  Screen flickering is an issue you'll encounter when your GPU overclock isn't stable. In most cases, this happens when the voltage supplied to your graphics card isn't enough to keep the clocks stable.
@@ -65,15 +73,9 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 
  While there are several[ways to fix screen flickering on Windows](https://www.makeuseof.com/tag/fix-windows-10-screen-flashing-problem/) , the only way to resolve it after an overclock is by either raising your GPU voltage or reverting the clocks to their default values.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Occasional Crashes While Gaming
 
 ![Cyberpunk 2077 crash message on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyberpunk-2077-crash-message-on-windows.png)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
  Besides screen flickering, your favorite games may occasionally crash after you overclock your GPU. This issue is predominant in games that are GPU-intensive. Once again, this is a good sign that your overclock isn't stable.
 
@@ -83,14 +85,11 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 
  As you can see, overclocking isn't for everybody. Unless you really need that last bit of performance and think it'd make a noticeable difference in your favorite games, it's not worth the effort because of the problems you may have to deal with.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -99,4 +98,20 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-video-edits-in-youtube-studios-editor/"><u>[New] In 2024, Mastering Video Edits in YouTube Studio's Editor</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup-for-2024/"><u>[Updated] Embedded Recorder Usage in Huawei's Mate Series and the P Lineup for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-live-mastery-elevating-your-360-degree-videos-on-facebook-for-2024/"><u>[Updated] Live Mastery Elevating Your 360 Degree Videos on Facebook for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-craft-impressive-images-with-photoshops-radial-distortion-features/"><u>2024 Approved Craft Impressive Images with Photoshop's Radial Distortion Features</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-screen-savvy-the-ultimate-recorders-digest/"><u>2024 Approved Screen Savvy The Ultimate Recorder's Digest</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-6-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/guidance-for-resolving-self-detaching-ps4-remote-in-windows/"><u>Guidance for Resolving Self-Detaching PS4 Remote in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-selection-top-discords-you-should-explore/"><u>Mastering Selection: Top Discords You Should Explore</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwc-2024-star-products-featured-in-makeuseof/"><u>MWC 2024 Star Products Featured in MakeUseOf</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-gaming-ears-on-switch/"><u>Optimal Gaming Ears on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-escalating-danger-of-game-hacking/"><u>The Escalating Danger of Game Hacking</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-the-giants-asus-rog-against-tuf-proart-and-prime/"><u>Uniting the Giants: Asus ROG Against TUF, ProArt & Prime</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-expert-advice-for-recovering-erased-phone-numbers-from-android-smartphones/"><u>Unlock the Secrets: Expert Advice for Recovering Erased Phone Numbers From Android Smartphones</u></a></li>
+</ul></div>
 

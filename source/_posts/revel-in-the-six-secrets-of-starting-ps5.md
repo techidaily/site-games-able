@@ -1,7 +1,7 @@
 ---
 title: Revel in the Six Secrets of Starting PS5
-date: 2024-08-08T09:18:21.120Z
-updated: 2024-08-09T09:18:21.120Z
+date: 2025-01-18T19:41:29.196Z
+updated: 2025-01-22T23:04:22.503Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 
  Did you know that there are approximately six different ways to turn your PS5 on? Most of them don’t even involve you touching it or being anywhere near it at all. If you want to trick your friends into thinking your PS5 is haunted by turning it on when they're alone in the house, there are a couple of ways you can do so.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn Your PS5 On by Pressing the Power Button
 
  Pressing the power button is the most common way that gamers turn their trusty PS5s on. Almost immediately after taking your brand new PS5 out of the box and plugging it in, your trigger finger is just itching to press that power button and see what all the PS5 hype is about. And that is probably how you still turn it on to this day.
@@ -25,16 +29,18 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
  But it is also, by far, the most boring way to turn on your PS5\. Not to mention the most labor-intensive since you have to lift yourself out of the couch and walk yourself all the way over to it. Thankfully, there is a much easier way. In fact, there are a number of easier ways.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Turn Your PS5 On in Safe Mode
 
  But before we get to the easiest and most convenient ways to turn your PS5 on, there is one other way to turn your console on using the power button, and it’s quite possibly the most important one of them all. That’s turning your PS5 on in Safe Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe Mode Menu On PS5 Console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/safe-mode-menu-on-ps5-console.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can turn your PS5 on in Safe Mode by holding the button down for six to eight seconds until you hear a second longer beep. Safe Mode allows you to access the backend of your system, where you can address many technical issues you may be having with your console.
 
@@ -46,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 
  To turn your PS5 on via Remote Play, you must have downloaded the Remote Play app and connected it to your PS5 console previously.[Setting up Remote Play and using it to operate your PS5](https://www.makeuseof.com/ps5-how-to-set-up-and-use-remote-play/) is quick and easy and allows you to do much more than just turn it on. With Remote Play, you can fully control your console through your phone, so you can play an entire campaign on your mobile if you want to.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Turn Your PS5 On by Pressing the PS Button on Your DualSense Controller
 
  If you didn’t know that you can turn your PS5 on by pressing the PS button on your DualSense controller, your mind is about to be blown. This is by far the easiest way to turn your PS5 on, because even if your console may not always be within arm's reach, there is a good chance your DualSense is calmly waiting for you on your coffee table.
@@ -65,17 +68,10 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 
  And, of course, you can turn your PS5 on. To do that, make sure your console is in Rest Mode, open the app, press the**controller icon** at the bottom of the screen, and scroll to the game you want to play. As long as the game is currently installed on your PS5, you will be able to press**Play on Console** , and your PS5 will turn on for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 6\. Turn On Your PS5 With Your TV
 
  For those extra avid gamers out there, there is yet another way you can turn your PS5 on without going anywhere near it. You can set your console up to turn on as soon as you turn on your TV. This feature can be activated in a just couple of moments from your console’s settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Black PS5 controller in a person's hand with a TV in the background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/black-ps5-controller-in-a-person-s-hand-with-a-tv-in-the-background.jpg)
 
  It is only recommended for the most dedicated of gamers, however, who know that a majority of the time they turn their TV on, it will be to use their PS5\. If not, it can be more bothersome than helpful to have your PS5 turning on every time you want to watch Netflix or the news. That just wastes power and requires more effort from you to turn it off again.
@@ -89,33 +85,32 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
  The PS5 is absolutely full of surprises and capabilities. Having all of these methods to turn it on is just the tip of the iceberg in terms of what this next-gen console can do. But now that you know all the extra ways to turn your PS5 on, you are one step further to discovering all of its secrets.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQ
 
 ### Q: What Are the Power Options Available on Your PlayStation 5?
 
  In terms of power options, your PlayStation 5 has one extra mode you can use beyond simply having your console switch on and off: Rest Mode.[Putting your PlayStation 5 into Rest Mode](https://www.makeuseof.com/how-to-ps5-rest-mode/) enables your PlayStation 5 to use less power while maintaining background processes, like charging your controllers or keeping active games suspended.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q: How Do You Adjust Your PlayStation 5 Power Settings?
 
  Your PlayStation 5 comes with customizable power settings for Rest Mode, a mode that lowers energy usage while maintaining background features. Specifically, you can customize Rest Mode to set the amount of time it takes for your console to enter Rest Mode, the enabled features your console uses in Rest Mode, and how long it takes before your controllers turn off. To access these settings, from the home screen of your PlayStation 5, select**Settings** \>**System** \>**Power Saving** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: Why Is Your PlayStation 5 Power Light Blinking White?
 
  If you have attempted to turn on your PlayStation 5 and have instead been faced with either a blinking white power light or the power light not transitioning to a solid white light, your console is likely frozen and needs troubleshooting. To do this, unplug your console for 60 seconds and then plug the console back in and boot it up. If the problem persists, you will need to troubleshoot further by[placing your PlayStation 5 in Safe Mode](https://www.makeuseof.com/how-to-use-ps5-safe-mode/) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +119,21 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-speedy-tiktok-video-performance-a-step-by-step-plan-for-2024/"><u>[New] Speedy TikTok Video Performance A Step-by-Step Plan for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-cutting-edge-videography-bordering-techniques-for-ig/"><u>[Updated] In 2024, Cutting-Edge Videography Bordering Techniques for IG</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-harness-the-sun-and-bulbs-for-stellar-iphone-photos/"><u>[Updated] In 2024, Harness the Sun and Bulbs for Stellar Iphone Photos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-picture-by-picture-insta-gallery-for-2024/"><u>[Updated] Picture by Picture Insta Gallery for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-upgrade-your-youtube-bio-with-pro-templates/"><u>2024 Approved Upgrade Your Youtube Bio with Pro Templates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972033710-download-and-update-amd-radeon-rx-480-drivers-with-simple-steps/"><u>Download and Update AMD Radeon RX 480 Drivers with Simple Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-labor-day-deal-grab-your-nintendo-switch-oled-for-just-60-at-walmart-insider-tips-from-zdnet/"><u>Exclusive Labor Day Deal: Grab Your Nintendo Switch OLED for Just $60 at Walmart - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-look-at-sonys-latest-marvel-playstation-5-pro-key-specifications-cost-analysis-and-launch-timeline-covered/"><u>In-Depth Look at Sony's Latest Marvel: PlayStation 5 Pro - Key Specifications, Cost Analysis & Launch Timeline Covered</u></a></li>
+<li><a href="https://games-able.techidaily.com/organizing-an-interactive-quiz-or-game-based-activity-that-reinforces-the-students-knowledge-of-periodic-trends-particularly-focabulary-related-to-reactivit91/"><u>Organizing an Interactive Quiz or Game-Based Activity that Reinforces the Students' Knowledge of Periodic Trends, Particularly Focabulary Related to Reactivity Series, and Allows Them to Apply This Information in a Fun and Competitive Environment.</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-gaming-preference-shift-windows-11-surpasses-windows-10-in-popularity-zdnet/"><u>PC Gaming Preference Shift: Windows 11 Surpasses Windows 10 in Popularity | ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-pubg-call-audio-troubles-quick-tips-and-solutions-for-gamers/"><u>Solving PUBG Call Audio Troubles: Quick Tips & Solutions for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-40-greatest-discounts-on-gaming-rigs-for-festive-season-2023-explore-the-latest-offers/"><u>Top 40 Greatest Discounts on Gaming Rigs for Festive Season 2023 - Explore the Latest Offers!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-inner-gamers-with-the-stealthy-samsung-gaming-projector-save-200-this-labor-day-zdnet/"><u>Unleash Your Inner Gamers with the Stealthy Samsung Gaming Projector - Save $200 This Labor Day! | ZDNet</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/what-actions-after-failed-video-repaire/"><u>What Actions After Failed Video Repaire?</u></a></li>
+</ul></div>
 

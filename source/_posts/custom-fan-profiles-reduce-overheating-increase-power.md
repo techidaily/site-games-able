@@ -1,7 +1,7 @@
 ---
 title: "Custom Fan Profiles: Reduce Overheating, Increase Power"
-date: 2024-08-08T09:19:00.415Z
-updated: 2024-08-09T09:19:00.415Z
+date: 2025-01-21T17:03:09.686Z
+updated: 2025-01-22T17:40:25.768Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
 ## Custom Fan Profiles: Reduce Overheating, Increase Power
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Should You Use a Custom GPU Fan Curve?](#why-should-you-use-a-custom-gpu-fan-curve)
@@ -33,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
  Unfortunately, that's the truth, but you can adjust your GPU fans to unlock better GPU performance, delivering much lower GPU temps in the process. You might even claw some extra lifespan from your GPU, too!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Should You Use a Custom GPU Fan Curve?
 
 ![1080 Ti fans](https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608c149e23de7fcb6df36e4813.JPG)
@@ -45,9 +46,17 @@ Jhet Borja/MakeUseOf
 
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jhet Borja/MakeUseOf
 
  If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out[how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or[undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should Your GPU Fans Run at 100%?
 
@@ -55,17 +64,14 @@ Jhet Borja/MakeUseOf
 
  However, in rare cases, the motor might need replacing as well. However, a[replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
 
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
@@ -74,9 +80,6 @@ Jhet Borja/MakeUseOf
 
  To create a custom fan curve, we'll be using[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and[HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
@@ -96,9 +99,6 @@ Jhet Borja/MakeUseOf
 
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
 
  At 100% fan speed, it tops out at around 69.5-70 °C. We also found that we could keep the temperature at 70-71 °C while only using 90% fan speed.
@@ -106,21 +106,20 @@ Jhet Borja/MakeUseOf
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
 
@@ -132,14 +131,11 @@ Jhet Borja/MakeUseOf
 
  By creating your own custom fan curve, you're taking more control over your graphics card and making the most out of it. You'll extend the lifespan and improve performance (all performance—not just gaming performance) by preventing thermal throttling, hitting two birds with one stone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +144,24 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-all-encompassing-look-at-the-ricoh-theta-s-design-for-2024/"><u>[New] All-Encompassing Look at the Ricoh Theta S Design for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-quick-and-easy-caption-crafting-for-engaging-fb-video-posts/"><u>[New] In 2024, Quick and Easy Caption Crafting for Engaging FB Video Posts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-following-paths-those-whove-left-instagram/"><u>[Updated] Following Paths Those Who've Left Instagram</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-download-your-favorite-shows-anytime-everywhere-with-these-apps/"><u>[Updated] In 2024, Download Your Favorite Shows Anytime, Everywhere with These Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-enhanced-entertainment-with-the-incredible-deal-50-ultra-hd-toshiba-tv-for-only-729-limited-time-offer-this-labor-day-weekend/"><u>Experience Enhanced Entertainment with the Incredible Deal: 50 Ultra HD Toshiba TV for Only $729 – Limited Time Offer This Labor Day Weekend!</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-hands-on-the-latest-gaming-tech-with-nintendo-switch-oled-discounted-by-60-this-labor-day-only-at-walmart-zdnet-news/"><u>Get Your Hands on the Latest Gaming Tech with Nintendo Switch OLED Discounted by $60 This Labor Day, Only at Walmart | ZDNET News.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nokia-130-music-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nokia 130 Music</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-luts-premiere-pro-essentials-for-2024/"><u>Mastering LUTs Premiere Pro Essentials for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-playback-hiccups-in-powerpoint-audio-a-comprehensive-guide/"><u>Overcoming Playback Hiccups in PowerPoint Audio: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-a-bargain-exclusive-offer-on-high-quality-85-tcl-tv-for-less-than-1k-during-the-holiday-weekend-insider-info-from-zdnet/"><u>Score a Bargain! Exclusive Offer on High-Quality 85 TCL TV for Less Than $1K During the Holiday Weekend – Insider Info From ZDNET.</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-premium-85-inch-tcl-television-at-an-unbeatable-price-of-1000-post-prime-day-exclusive-deal/"><u>Secure Your Premium 85-Inch TCL Television at an Unbeatable Price of $1,000 Post-Prime Day - Exclusive Deal!</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-releases-the-playstation-5-pro-key-specifications-cost-details-launch-timeline-and-comprehensive-insights-covered-by-zdnet/"><u>Sony Releases the PlayStation 5 Pro: Key Specifications, Cost Details, Launch Timeline, and Comprehensive Insights Covered by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/story-3-believing-that-the-technology-would-have-no-significant-impact-on-business-operations-wrong-answer/"><u>Story 3: Believing that the Technology Would Have No Significant Impact on Business Operations (Wrong Answer)</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-eradicate-windows-steam-game-e84-blunders/"><u>Swiftly Eradicate Windows Steam Game E84 Blunders</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ram-choices-optimize-your-pcs-performance-for-work-and-play-latest-reviews-by-zdnet/"><u>Top Ram Choices : Optimize Your PC's Performance for Work & Play - Latest Reviews by ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ultimate-tutorial-simplifying-youtube-subscriptions/"><u>Ultimate Tutorial Simplifying YouTube Subscriptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-huge-savings-up-to-32-off-the-xbox-fire-tv-stick-4k-and-secure-exclusive-access-to-xbox-game-pass-for-free-read-more-on-zdnet/"><u>Unlock Huge Savings: Up to 32% Off the Xbox Fire TV Stick 4K & Secure Exclusive Access to Xbox Game Pass for Free - Read More on ZDNet!</u></a></li>
+</ul></div>
 

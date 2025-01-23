@@ -1,7 +1,7 @@
 ---
 title: "Roots Unearthed: Tracing Foddian History"
-date: 2024-08-08T09:19:35.329Z
-updated: 2024-08-09T09:19:35.329Z
+date: 2025-01-15T21:40:46.159Z
+updated: 2025-01-23T05:39:33.784Z
 tags:
   - games
 categories:
@@ -18,19 +18,16 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
  As a result, Foddian games are some of the most challenging titles currently available. But what are they exactly? What is the origin of the name and the concept behind these games? Also, how far has this base concept evolved to accommodate newer, unique titles? Let’s find out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Foddian Games: The Origins and Revolution
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The First Bennet Foddy Game
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
 
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
@@ -40,6 +37,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Another attribute of Getting Over It’s success is the sheer difficulty and the entertainment tied to watching people either fail or succeed. Popular creators like Ludwig and CdawgVA saw the content potential and have helped popularize this title.
 
  Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Rise of Jump King
 
@@ -53,14 +54,8 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Foddian Games and Content Creation
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
@@ -70,8 +65,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Ultimately, Foddian games are[a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Evolution of Foddian Games
 
  Getting Over It created an exciting format that other game developers have explored to varying extents. A few other games fall into this genre, but only a couple have left a mark on the community.
@@ -83,13 +79,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Only Up! has become popular enough to dominate the viewership on Twitch for concurrent weeks. And while the hype is not the same as it was during release, many people still actively play the title.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foddian Games: Difficult but Rewarding Platforming
 
  There is a gradual shift in the type of video game content enjoyed live on stream or alone on a slow Saturday afternoon.
 
  While Foddian games are simple in design, the execution is magnificently intricate. They present a fun challenge for players, one you can ride all the way to victory at the top of the map.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -105,14 +106,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  While Only Up! was popularized by streaming communities, if you're wondering which streamer first brought the game to a larger audience, KaiCenet first played Only Up! on the ninth of June 2023, to an audience of 55.8 thousand viewers. From this point on, the popularity of Only Up!, much like other Foddian games, grew exponentially within gaming communities.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,4 +119,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-meta-meaning-necessity-and-rules-enforcement/"><u>Dissecting 'Meta': Meaning, Necessity, and Rules Enforcement</u></a></li>
+<li><a href="https://games-able.techidaily.com/dxgi-hang-in-check-correcting-windows-device-stalls/"><u>DXGI Hang in Check - Correcting Windows' Device Stalls</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-efficient-access-connecting-win-prefixes-and-microsoft-accounts/"><u>Enabling Efficient Access: Connecting Win Prefixes & MICROSOFT ACCOUNTS</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-ps5-gadgets-that-transform-games/"><u>Exclusive PS5 Gadgets That Transform Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-analysis-top-picks-of-the-best-5-slow-motion-cams-for-2024/"><u>Expert Analysis Top Picks of the Best 5 Slow Motion Cams for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-nvidias-artificial-intelligence-in-dlss-35-development/"><u>Exploring Nvidia's Artificial Intelligence in DLSS 3.5 Development</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-intricacies-of-whatsapp-voice-calls-for-2024/"><u>Exploring the Intricacies of WhatsApp Voice Calls for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro Max System? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-g310-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia G310 and Browser | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-your-pc-install-todays-latest-nvidia-driver-release/"><u>Revive Your PC – Install Today's Latest Nvidia Driver Release.</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ideal-combo-3-streaming-apps-for-nintendo-switch/"><u>The Ideal Combo: 3 Streaming Apps for Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-razers-ultimate-pc-setup-low-latency-and-high-performance/"><u>Unveiling Razer's Ultimate PC Setup - Low Latency & High Performance</u></a></li>
+</ul></div>
 

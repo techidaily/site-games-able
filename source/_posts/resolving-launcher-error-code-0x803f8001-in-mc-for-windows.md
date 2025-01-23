@@ -1,7 +1,7 @@
 ---
 title: Resolving Launcher Error Code 0X803F8001 in MC for Windows
-date: 2024-08-15T17:21:09.753Z
-updated: 2024-08-16T17:21:09.753Z
+date: 2025-01-15T21:57:26.116Z
+updated: 2025-01-22T17:39:38.260Z
 tags:
   - games
 categories:
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
  If you're already logged into the Microsoft Store with the correct account, sign out once and sign back in again. This will feasibly resolve any account synchronization issues and glitches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the Windows Store Apps Troubleshooter
 
  As the Microsoft Launcher and Microsoft Store are both UWP (Universal Windows Platform) apps, the Windows Store Apps troubleshooter might provide a solution. The Windows Store Apps troubleshooter can fix various app issues, which fortunately includes this 0x803f8001 error.
@@ -42,15 +46,15 @@ Here is how to launch the troubleshooter:
 2. Click the**Troubleshoot** and**Other trouble-shooters** navigation options in Settings.
 3. Scroll down to Windows Store Apps, and click the**Run** button for that troubleshooter.  
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-windows-store-apps-run-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 4. The troubleshooter will open and scan for app issues. Apply any potential resolutions it suggests.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-store-apps-troubleshooter.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Ensure the Windows Time and Date Is Correct
@@ -60,6 +64,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  An independent advisor on the[Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/date-and-time-issue-while-launching-rocket-league/e003f53d-1cac-409f-bbfd-843fb289a6fb) also recommends selecting the correct time and date format to avoid facing such issues. They recommend using the ISO 8601 time and date format, which starts with the year and continues with the month, day, hour, minutes, seconds, and milliseconds.
 
  Keeping that in mind, check the time and date in the bottom-right corner of your screen. If the date and time are correct but not in the format described above, refer to our guide on[how to change the date and time format in Windows](https://www.makeuseof.com/windows-change-date-time-format/) and select the appropriate one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reset the Microsoft Store and Minecraft Launcher via Settings
 
@@ -72,16 +80,20 @@ You can reset your apps in Windows 11 like this:
 3. Click**Apps & features** to view your PC’s app list.
 4. Next, click the three-dot button for the Microsoft Store app.  
 ![The three-dot button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-three-dot-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Select**Advanced options** to bring up the**Reset** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the**Reset** option. Select**Reset** again on the confirmation prompt.  
 ![The Repair and Reset buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-repair-and-reset-buttons.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Note that you can also select a**Repair** option that’s just above the**Reset** button. If resetting doesn’t do the trick, try selecting the**Repair** option for Microsoft Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Repeat the above steps for the Microsoft Launcher app.
 
 ## 5\. Reset the Microsoft Store Cache
@@ -92,14 +104,8 @@ You can reset your apps in Windows 11 like this:
 2. Open Run by selecting it on that menu.
 3. Type**wsreset.exe** in the Open dialog box.  
 ![The wsreset Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-wsreset-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click**OK** to reset Microsoft Store’s cache.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 6\. Re-Register the Microsoft Store via an Elevated PowerShell
 
  Sometimes, reregistering the Microsoft Store using an Elevated Powershell does the trick. Here's how to do that:
@@ -107,10 +113,12 @@ You can reset your apps in Windows 11 like this:
 1. First, open Windows’ search box and enter the keyword**PowerShell** there.
 2. Select**Run as administrator** for the PowerShell search result to launch that app.  
 ![The Run as Administrator option for Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/run-as-administrator-option-for-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. [Copy and paste](https://www.makeuseof.com/windows-11-copy-paste-methods/) this command into PowerShell and hit**Enter** to execute:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"} Get-AppXPackage -AllUsers -Name Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml" -Verbose}`
 4. Then input this second command in the PowerShell window:  
 `Get-AppXPackage -AllUsers -Name Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml" -Verbose}`
@@ -142,6 +150,11 @@ You can reset your apps in Windows 11 like this:
 4. Select the**Uninstall** option to remove Microsoft Launcher.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-uninstall-option-for-apps.jpg)
 5. Click the**Restart** Start menu option before reinstalling the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Go to the[Minecraft for Windows](https://apps.microsoft.com/store/detail/minecraft-for-windows/9NBLGGH2JHXJ) Store app page.
 7. Press the**Get** button for the app.
 8. Then click Minecraft Launcher’s**Play** option in Microsoft Store.
@@ -152,9 +165,6 @@ You can reset your apps in Windows 11 like this:
 
  Several users have reported in a thread within the[Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/when-i-try-to-launch-minecraft-launcher-i-get/dbb2b0aa-f68a-411c-8a9a-662499c8472f) that they have been able to fix the issue by doing this. Therefore, give it a shot and see if it fixes the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Repair Any Corrupted System Files
 
  There’s a possibility that corrupted system file dependencies for the Microsoft Store are causing an error 0x803f8001\. Therefore, running a System File Checker (SFC) scan via the Command Prompt to repair files could be a potential error 0x803f8001 solution for some users.
@@ -163,28 +173,19 @@ You can reset your apps in Windows 11 like this:
 
  Check out[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for further instructions on how to perform both scans.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 11\. Update Windows
 
  Alternatively, updating your copy of Windows may also fix the issue. Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get the Minecraft Launcher Error 0x803f8001 Fixed
 
  Those are some of the potential resolutions with which players have fixed Minecraft Launcher error 0x803f8001 in Windows 11/10\. Hopefully, one of those fixes resolved the error on your PC too.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,4 +194,20 @@ You can reset your apps in Windows 11 like this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-incredible-inexpensive-stopwatch-solutions-for-2024/"><u>[New] Incredible Inexpensive Stopwatch Solutions for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-shots-vloggers-guide-to-the-9-finest-camera-gadgets/"><u>[Updated] 2024 Approved Elevate Your Shots Vlogger's Guide to the 9 Finest Camera Gadgets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-navigating-through-the-world-of-vlc-features-mac-for-2024/"><u>[Updated] Navigating Through the World of VLC Features (Mac) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-experience-mastering-steams-space/"><u>Enhancing Gaming Experience: Mastering Steam's Space</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209974919-9781493046294-haunted-massachusetts-2nd-ed/"><u>Haunted Massachusetts (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apples-ios-175-brought-back-lost-images-insights-and-next-steps-techtrends/"><u>How Apple's iOS 17.5 Brought Back Lost Images: Insights & Next Steps | TechTrends</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterclass-in-monochrome-magic-a-professionals-guide/"><u>Masterclass in Monochrome Magic A Professional's Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-motion-controls-connect-and-sync-xbox-one/"><u>Mastering Motion Controls: Connect & Sync Xbox One</u></a></li>
+<li><a href="https://games-able.techidaily.com/tablet-skills-for-perfect-rhythm-game-play/"><u>Tablet Skills for Perfect Rhythm Game Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-high-stakes-in-vr-development-understanding-four-costs/"><u>The High Stakes in VR Development: Understanding Four Costs</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-steam-decks-reviewed/"><u>Top-Ranked Steam Decks Reviewed</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/umfassende-tipps-fur-das-klonen-von-ihrem-alten-iphone-auf-die-neueste-modellreihe-iphone-14/"><u>Umfassende Tipps Für Das Klonen Von Ihrem Alten iPhone Auf Die Neueste Modellreihe iPhone 14</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-fun-6-games-not-needing-payments/"><u>Unlocking Fun: 6 Games Not Needing Payments</u></a></li>
+</ul></div>
 

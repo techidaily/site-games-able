@@ -1,7 +1,7 @@
 ---
 title: "Innovative Tricks: No Controllers, Full Gameplay"
-date: 2025-01-09T20:28:10.535Z
-updated: 2025-01-16T23:17:29.139Z
+date: 2025-01-21T17:16:02.556Z
+updated: 2025-01-22T20:40:36.918Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can You Use Any Other Controller for Xbox One?
 
  As per Microsoft's guidelines, the Xbox One console is compatible only with wired or wireless Xbox One controllers. These controllers are specifically manufactured either by Microsoft or by verified third-party manufacturers for use with the Xbox One platform.
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
  Therefore, you cannot use any other controller, such as an Xbox 360 controller or any other non-Xbox controller lying around, to directly control the Xbox One.
 
  While that is indeed a bummer, it’s not something to worry about. There are other ways you can control your Xbox One without a controller. We’ve discussed these below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Your Smartphone to Control Your Xbox
 
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
 ![Add an existing console option on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-an-existing-console-option-on-xbox-app.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn on remote features popup on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-on-remote-features-popup-on-xbox-app.jpeg)
 
 Close
@@ -56,10 +60,6 @@ Close
  On your Xbox One console, you’ll be asked to**Set up remote features** . From there, select**Enable** .
 
 ![A screenshot of the Remote Features prompt that appears when connecting your Xbox to a mobile device on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/xbox-series-x-remote-features-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ​​​​​​​Finally,**Test remote play** on your Xbox to test your internet connection for remote play.
 
@@ -85,6 +85,10 @@ Close
 
  However, note that although you can use a keyboard on Home and while navigating the Xbox interface, the use of a mouse is not supported for this purpose. You can only use a mouse in games that allow mouse input. Therefore, it’s best to check individual games for mouse compatibility before connecting a mouse to your Xbox One console.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Digital Assistants to Control Your Xbox One
 
  Another alternative method to control your Xbox One console without a controller is by using digital assistants such as[Google Assistant](https://www.makeuseof.com/tag/what-is-google-assistant/) or Alexa. With the integration of these voice-activated assistants, you can conveniently navigate through menus, launch games, control media playback, and perform various other tasks using voice commands.
@@ -94,7 +98,7 @@ Close
 ![xbox digital assistants menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/xbox-enable-digital-assistants.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on[how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and[how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
@@ -107,23 +111,19 @@ Close
 
 ![Google Home devices tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-devices-tab.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Google Home voice assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-voice-assistant.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Google Home Xbox remote control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-xbox-remote-control.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You Can Now Control and Manage Your Xbox One Even Without a Controller
 
@@ -146,18 +146,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-eagle-essentials-best-laptop-options-for-video-editors-in-4k/"><u>[Updated] Eagle Essentials Best Laptop Options for Video Editors in 4K</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-secrets-for-capturing-powerpoint-perfection-on-camera/"><u>[Updated] Secrets for Capturing PowerPoint Perfection on Camera</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-vanguard-pc-issues-resolved-fixes-and-updates/"><u>CoD Vanguard PC Issues Resolved : Fixes and Updates</u></a></li>
-<li><a href="https://games-able.techidaily.com/correcting-minecraft-launcher-issues-code-0x803f8001/"><u>Correcting Minecraft Launcher Issues Code 0X803F8001</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-xbox-gaming-hours-tracking/"><u>Exploring Xbox Gaming Hours Tracking</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/nombren-de-fauna-en-espanol-60-estudios-ideales/"><u>Nombren De Fauna en Español, 60 Estudios Ideales</u></a></li>
-<li><a href="https://games-able.techidaily.com/operas-secret-weapon-gaining-month-long-free-disco-access/"><u>Opera's Secret Weapon: Gaining Month-Long FREE Disco Access</u></a></li>
-<li><a href="https://games-able.techidaily.com/past-glories-which-7-games-should-see-the-light-of-day-again/"><u>Past Glories: Which 7 Games Should See the Light of Day Again?</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-playstation-delights-explored/"><u>Portable PlayStation Delights Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/regaining-true-navigational-aid-for-pokemon-go/"><u>Regaining True Navigational Aid for Pokémon Go</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-integration-of-nvidia-7025-in-win11/"><u>Smooth Integration of Nvidia 7025 in Win11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-checklist-for-protecting-your-digital-assets-for-2024/"><u>The Ultimate Checklist for Protecting Your Digital Assets for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-try-before-you-buy-tech/"><u>Virtual Try-Before-You-Buy Tech</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unlock-your-screen-androids-premier-free-recorder-tools-for-2024/"><u>[Updated] Unlock Your Screen Android's Premier Free Recorder Tools for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-free-graphic-hubs-best-websites-for-quality-vector-art/"><u>2024 Approved Free Graphic Hubs Best Websites for Quality Vector Art</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-insights-adjusting-tempo-for-optimal-snapchat-viewing-for-2024/"><u>Expert Insights Adjusting Tempo for Optimal Snapchat Viewing for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-selection-of-premium-3d-light-panels-for-enthusiasts/"><u>Expert Selection of Premium 3D Light Panels for Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamings-transitory-nature-a-point-for-thought/"><u>Gaming's Transitory Nature: A Point for Thought?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-efficient-strategies-to-log-facetime-discussions/"><u>In 2024, Efficient Strategies to Log FaceTime Discussions</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-adobe-playtime-secrets-for-a-seamless-gaming-experience/"><u>Post-Adobe Playtime: Secrets for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-troubleshooting-of-steams-order-system/"><u>Quick Troubleshooting of Steam's Order System</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-blueprint-for-telegram-marketplace-success/"><u>The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-auto-startup-diagnosing-why-windows-11-turns-on-by-itself/"><u>Unexpected Auto Startup: Diagnosing Why Windows 11 Turns On by Itself</u></a></li>
 </ul></div>
 

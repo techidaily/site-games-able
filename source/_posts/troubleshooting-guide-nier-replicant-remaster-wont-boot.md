@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: NieR Replicant Remaster Won't Boot"
-date: 2024-08-08T09:17:39.326Z
-updated: 2024-08-09T09:17:39.326Z
+date: 2025-01-18T21:05:50.248Z
+updated: 2025-01-23T03:18:33.108Z
 tags:
   - win11
   - win10
@@ -35,12 +35,18 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 1. Launch Steam and navigate to**the LIBRARY tab** , then**right-click** on**It Takes Two** and select**Properties** .  
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 2. Click the**Installed Files** tab, then click**Verify integrity of game files** . Wait for the verification to be completed.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -68,9 +74,6 @@ There are mainly two ways you can update your graphics drivers:
 
 **Or**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -85,11 +88,13 @@ There are mainly two ways you can update your graphics drivers:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -99,9 +104,6 @@ There are mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  Hazelight (the developer of It Takes Two) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -110,9 +112,6 @@ There are mainly two ways you can update your graphics drivers:
 
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
  If you have 3rd party antivirus software installed on your computer, make sure you’ve added It Takes Two as an exception to your antivirus software, because those third-party antivirus software hooks very deep into your system, and it may interfere with the game.
@@ -124,8 +123,9 @@ There are mainly two ways you can update your graphics drivers:
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -134,15 +134,16 @@ There are mainly two ways you can update your graphics drivers:
 
  If this issue persists after you stop overclocking, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Update or reinstall DirectX files
 
  Most games require DirectX 11 to run properly, and It Takes Two is no exception. If there’s a problem with DirectX, the game would crash on startup. If that’s the case, updating the DirectX to the latest version may help. Here is how to do it:
 
 1. Go to[the Microsoft DirectX End-User Runtime Web Install page](https://www.microsoft.com/en-us/download/details.aspx?id=35) .
 2. Click the Download button to start the download.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
 
@@ -164,8 +165,6 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +172,26 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-quick-growth-on-youtube-mastering-the-art-of-video-outros/"><u>[New] In 2024, Quick Growth on YouTube Mastering the Art of Video Outros</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-5-emulators-for-reviving-ps1-classics-on-pc/"><u>[New] In 2024, Top 5 Emulators for Reviving PS1 Classics on PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-top-8-ios-and-pc-tools-for-effortlessly-altering-your-videos/"><u>[Updated] 2024 Approved Top 8 iOS & PC Tools for Effortlessly Altering Your Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-12-youtube-game-openers-a-comparative-guide-no-expense-for-2024/"><u>[Updated] Best 12 YouTube Game Openers A Comparative Guide (No Expense) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-inverted-intrigue-mastering-the-art-of-turning-photos-for-instagram-glory-for-2024/"><u>[Updated] Inverted Intrigue Mastering the Art of Turning Photos for Instagram Glory for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-beginners-bible-to-your-youtube-audio-visual-arsenal/"><u>2024 Approved Beginner's Bible to Your YouTube Audio-Visual Arsenal</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-controlling-who-can-leave-a-comment-on-your-youtube-videos/"><u>2024 Approved Controlling Who Can Leave a Comment on Your YouTube Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-non-filtered-youtube-video-trail/"><u>Cease Non-Filtered YouTube Video Trail</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-xboxs-response-to-in-game-misconduct/"><u>Deciphering Xbox’s Response to In-Game Misconduct</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-zero-to-hero-setting-up-discord-on-apple-computers/"><u>From Zero to Hero: Setting Up Discord on Apple Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-overwork-navigating-life-between-levels/"><u>Game Overwork: Navigating Life Between Levels</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-gaming-again-ps4-control-corrections-for-beginners/"><u>Get Gaming Again! Ps4 Control Corrections for Beginners</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-buy-fortnite-v-bucks-on-a-ps5/"><u>How to Buy Fortnite V-Bucks on a PS5</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2020-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2020) iOS? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-ps5-assist-controller-easily/"><u>Navigating the Ps5 Assist Controller Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-ergonomics-meet-gaming/"><u>Office Ergonomics Meet Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/twitch-deep-dive-an-insiders-take-on-live-broadcast-tech/"><u>Twitch Deep Dive: An Insider's Take on Live Broadcast Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-potential-why-switch-to-ultimate-edition/"><u>Unleash Potential: Why Switch to Ultimate Edition?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unraveling-the-mystery-of-eternal-return-the-resilience-strategies-of-the-dark/"><u>Unraveling the Mystery of 'Eternal Return': The Resilience Strategies of the Dark</u></a></li>
+</ul></div>
 

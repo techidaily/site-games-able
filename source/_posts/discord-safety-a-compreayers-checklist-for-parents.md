@@ -1,7 +1,7 @@
 ---
 title: "Discord Safety: A Compreayer's Checklist for Parents"
-date: 2025-01-15T19:51:32.862Z
-updated: 2025-01-16T19:09:22.147Z
+date: 2025-01-22T00:29:20.853Z
+updated: 2025-01-22T23:16:40.859Z
 tags:
   - games
 categories:
@@ -23,19 +23,23 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Discord, and Why Do Kids Use It?
 
  Discord was launched in 2015, and initially served primarily as a[communication platform for gamers](https://www.makeuseof.com/how-to-get-started-discord-beginners-guide/) . Over the years, it's become a lot more than that, with millions of people around the globe using it every single day. Discord is available on pretty much all platforms and operating systems and can also run in web browsers, so children can access it very easily.
 
  Discord has millions of active communities, or servers, as they are called. New ones are being created daily, since everyone can set up their own server free of charge. Some are private and invite-only, while others are public and can be accessed by anyone with a link. Like everyone else, kids and adolescents can use Discord to socialize, communicate with friends, and engage in various communities centered around their hobbies or interests.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does Discord Have Parental Controls?
 
 ![Discord logo on black and white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/discord-parental-controls.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
 
@@ -48,24 +52,16 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Communicate Openly
 
  As a parent, you should communicate openly with your child about internet safety, and the dangers an underage person can encounter online. Whether you're concerned about cybersecurity or worry your kid might become a target of harassment, communication is key. As long as the youngster feels comfortable talking with you about whatever worries they might have, things should be fine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Educate Your Child
 
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 ### 3\. Set Time Limits
 
  Setting time limits is a must as well. Excessive Discord usage (and excessive screen time in general) can have a major impact on a child's mental and physical well-being, influencing their academic performance and social development negatively. It's important to encourage other interests and set boundaries early on, so that the child doesn't develop addiction-like behaviors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Remind Your Kid to Lead by Example
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
  And lastly, none of the above will make a real difference if your child isn't encouraged to think critically. It's one thing to be digitally literate, but it's imperative for every kid and teenager to understand how technology actually works, what motivates bad behaviors, how to identify threats, and why taking responsibility is important.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Discord Is as Safe as You Make It
@@ -108,21 +108,20 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-crafting-flawless-transcriptions-googles-speech-magic/"><u>[New] 2024 Approved Crafting Flawless Transcriptions Google’s Speech Magic</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unmatched-recording-alternatives-for-modern-gaming-enthusiasts/"><u>[Updated] 2024 Approved Unmatched Recording Alternatives for Modern Gaming Enthusiasts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation/"><u>[Updated] Unleashing Satirical Genius in the Metaverse – How-To Meme Creation</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciding-your-favorite-gaming-buddy-for-rpi-batocera-or-retropie/"><u>Deciding Your Favorite Gaming Buddy for RPi: Batocera or RetroPie?</u></a></li>
-<li><a href="https://games-able.techidaily.com/fine-tuning-settings-for-a-perfect-typing-experience-on-steam-deck/"><u>Fine-Tuning Settings for a Perfect Typing Experience on Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-the-best-way-ultrawide-monitors-at-144hz/"><u>Game the Best Way: Ultrawide Monitors at 144Hz</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-of-sapphire-drivers-free-downloads-and-tutorials-for-windows-pcs/"><u>Get the Latest Version of Sapphire Drivers - Free Downloads and Tutorials for Windows PCs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-low-cost-screen-recorder-guide-for-old-computers/"><u>In 2024, Low-Cost Screen Recorder Guide for Old Computers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-14-plus-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone 14 Plus and Browser | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/join-the-social-scene-facebook-live-streams-on-roku-tv-for-2024/"><u>Join The Social Scene Facebook Live Streams on Roku TV for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastery-of-transferring-multitudes-of-tiktok-videos/"><u>Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-ssd-reviews-ps5-edition/"><u>Premium SSD Reviews: PS5 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/pretend-promo-reality-check-in-the-gaming-sphere/"><u>Pretend Promo Reality Check in the Gaming Sphere</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-6-game-dynamics-that-drive-player-engagement/"><u>The 6 Game Dynamics That Drive Player Engagement</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unlikely-future-of-gamefi-among-serious-gamers/"><u>The Unlikely Future of GameFi Among Serious Gamers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-20plus-secrets-to-insta-wonderful-videos-for-2024/"><u>[Updated] 20+ Secrets to Insta-Wonderful Videos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-snicker-surgeons-top-7-sketches-for-youtube-laughter-aficionados/"><u>[Updated] In 2024, Snicker Surgeons Top 7 Sketches for YouTube Laughter Aficionados</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-elevate-your-recordings-doing-without-a-microphone/"><u>2024 Approved Elevate Your Recordings Doing Without a Microphone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-effective-strategies-leveraging-chatgpt-for-enhanced-job-hunting/"><u>6 Effective Strategies: Leveraging ChatGPT for Enhanced Job Hunting</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-windows-compatible-brother-l2540dw-printer-drivers-instructions/"><u>Easy Setup: Windows Compatible Brother L2540DW Printer Drivers Instructions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-japanese-on-calls-compilation/"><u>Essential Japanese On-Calls Compilation</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-impact-of-patents-on-console-design/"><u>Examining the Impact of Patents on Console Design</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/french-lingo-fast-track-to-pronounce-right/"><u>French Lingo Fast-Track to Pronounce Right</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-v27e-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V27e Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-stop-the-intrusion-of-xbox-game-bar-activities/"><u>How to Stop the Intrusion of Xbox Game Bar Activities</u></a></li>
+<li><a href="https://games-able.techidaily.com/interactive-adventures-top-6-games-powered-by-chatgpt/"><u>Interactive Adventures: Top 6 Games Powered by ChatGPT</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-portable-power-solutions-for-your-laptop-the-definitive-list-of-2024/"><u>Leading Portable Power Solutions for Your Laptop: The Definitive List of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-game-pass-hikes-a-short-term-fix-guide/"><u>Mastering Game Pass Hikes: A Short-Term Fix Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-your-dream-144hz-display/"><u>Selecting Your Dream 144Hz Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-approach-to-mastering-ps4switch-games-with-ryujinx/"><u>Step-by-Step Approach to Mastering PS4/Switch Games with Ryujinx</u></a></li>
 </ul></div>
 

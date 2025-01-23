@@ -1,7 +1,7 @@
 ---
 title: Unblocking Steam's Friends Error in Windows 11
-date: 2025-01-11T00:35:02.249Z
-updated: 2025-01-16T23:25:16.947Z
+date: 2025-01-15T16:19:23.198Z
+updated: 2025-01-23T00:21:28.323Z
 tags:
   - games
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart Steam
 
@@ -45,6 +49,14 @@ Restart Steam and check if the issue is now fixed.
 
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Opt Out of Steam’s Beta Participation
 
  Signing up for the Steam Client Beta program allows you to use Steam’s latest features before they’re officially released. However, the Beta version might make the[Steam Client unstable](https://www.makeuseof.com/steam-client-crashing-troubleshooting/) , leading to the error. Follow these steps to disable the Steam Beta Client:
@@ -58,7 +70,11 @@ Restart Steam and check if the issue is now fixed.
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Edit Steam’s Executable
@@ -75,15 +91,7 @@ Restart Steam and check if the issue is now fixed.
 
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Delete Steam's Web Data
 
@@ -98,14 +106,6 @@ Restart Steam and check if the issue is now fixed.
 7. Close the game, restart Steam, and check if the issue is now solved.
 
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
 
@@ -126,22 +126,24 @@ Restart Steam and check if the issue is now fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-asian-themed-mini-mansions-for-creative-builders/"><u>[New] 2024 Approved Asian Themed Mini Mansions for Creative Builders</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/voiding-storage-woes-removing-youtube-media-for-2024/"><u>[New] Avoiding Storage Woes Removing YouTube Media for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-starlit-secrets-dos-and-donts-of-astrophotography/"><u>[Updated] 2024 Approved Starlit Secrets Do's & Don'ts of Astrophotography</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-unraveling-the-process-of-gaining-facebooks-blue-badge/"><u>2024 Approved Unraveling the Process of Gaining Facebook's Blue Badge</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728501832122-aomei-backupper/"><u>如何使用AOMEI Backupper創建伺服器映像版本 - 教學課程</u></a></li>
-<li><a href="https://games-able.techidaily.com/disc-stuck-in-your-xbox-series-x-how-to-manually-eject-it/"><u>Disc Stuck in Your Xbox Series X? How to Manually Eject It</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-device-hang-up-the-0x887a0006-guide-for-win1111/"><u>Eliminating Device Hang-Up – The 0X887A0006 Guide for Win11/11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastery-over-mobile-and-desktop-recording-team-discussions/"><u>In 2024, Mastery Over Mobile & Desktop Recording Team Discussions</u></a></li>
-<li><a href="https://games-able.techidaily.com/masterful-headphones-on-switch-platform/"><u>Masterful Headphones on Switch Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-controller-settings-with-ryujinx-software/"><u>Navigating Through Controller Settings with Ryujinx Software</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/pioneering-the-vr-world-essential-gear-ranked/"><u>Pioneering the VR World Essential Gear Ranked</u></a></li>
-<li><a href="https://games-able.techidaily.com/resurrecting-headsets-on-xbox-one-with-simple-tricks/"><u>Resurrecting Headsets on Xbox One with Simple Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-response-to-ps5-demand-anticipating-pricing-shifts/"><u>Sony's Response to PS5 Demand: Anticipating Pricing Shifts</u></a></li>
-<li><a href="https://games-able.techidaily.com/stuck-game-cases-answered-with-xbox-sxs-eject-tip/"><u>Stuck Game Cases Answered with Xbox SX's Eject Tip</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-of-the-chatgpt-body-stream-issue-discover-7-troubleshooting-steps-you-need-to-know/"><u>Unraveling the Mystery of the ChatGPT Body Stream Issue: Discover 7 Troubleshooting Steps You Need to Know</u></a></li>
-<li><a href="https://games-able.techidaily.com/update-ps5-ambiance-with-new-image/"><u>Update PS5 Ambiance with New Image</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-four-pioneering-methods-to-record-teaching-sessions-on-apple-devices/"><u>[New] In 2024, Four Pioneering Methods to Record Teaching Sessions on Apple Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pioneering-basics-in-dynamic-design-techniques/"><u>[New] Pioneering Basics in Dynamic Design Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unlocking-subtext-converting-srt-to-sub/"><u>[New] Unlocking Subtext Converting SRT to SUB</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-time-travellers-guide-sharing-past-photos-as-snaps/"><u>2024 Approved Time Traveller's Guide - Sharing Past Photos as Snaps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/common-iphone-screen-faults-here-are-7-ways-to-fix-them-efficiently/"><u>Common iPhone Screen Faults? Here Are 7 Ways to Fix Them Efficiently!</u></a></li>
+<li><a href="https://games-able.techidaily.com/disconnecting-minecraft-downloading-and-redefining-worlds/"><u>Disconnecting Minecraft: Downloading & Redefining Worlds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/download-the-ultimate-macx-dvd-ripper-and-player-bundle-transform-dvds-blu-ray-discs-and-more-into-quality-iphoneipad-formats/"><u>Download the Ultimate MacX DVD Ripper & Player Bundle – Transform DVDs, Blu-Ray Discs, & More Into Quality iPhone/iPad Formats</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-back-up-your-steam-screenshots/"><u>How to Back Up Your Steam Screenshots</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-defy-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Defy 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-15-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 15 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unraveling-facebooks-latest-hits-a-rundown-of-top-vids/"><u>In 2024, Unraveling Facebook's Latest Hits A Rundown of Top Vids</u></a></li>
+<li><a href="https://games-able.techidaily.com/leap-forward-in-connectivity-update-your-sonys-dualsense-remotely/"><u>Leap Forward in Connectivity: Update Your Sony's DualSense Remotely</u></a></li>
+<li><a href="https://games-able.techidaily.com/leverage-geforce-now-for-immersive-mobile-gameplay-on-ios/"><u>Leverage GeForce Now for Immersive Mobile Gameplay on iOS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cutting-avi-files-made-easy-tips-tricks-and-tools-for-video-editing/"><u>New Cutting AVI Files Made Easy Tips, Tricks, and Tools for Video Editing</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-clash-with-microsofts-edge-to-find-best-browser/"><u>Opera GX Clash with Microsoft's Edge to Find Best Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-establishing-functionality-of-invalid-payment-methods/"><u>Re-Establishing Functionality of Invalid Payment Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-steps-to-fixing-broken-xbox-series-xands/"><u>Simple Steps to Fixing Broken Xbox Series X&S</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-performance-with-mechanical-f-keys/"><u>Unlocking Performance with Mechanical F-Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-voyages-top-9-strategies-for-mobile-gaming-explorers/"><u>Virtual Voyages: Top 9 Strategies for Mobile Gaming Explorers</u></a></li>
 </ul></div>
 

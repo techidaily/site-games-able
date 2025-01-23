@@ -1,7 +1,7 @@
 ---
 title: Sharing Live Gaming Sessions From Xbox to Discord
-date: 2025-01-12T20:37:30.542Z
-updated: 2025-01-16T17:21:07.534Z
+date: 2025-01-17T06:20:26.749Z
+updated: 2025-01-22T19:11:54.142Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About Discord on Xbox
 
  Before we jump into streaming gameplay from your Xbox Series X|S to Discord, there are a few things about how the streaming feature works on Xbox, and Discord functionality, that you may need to be aware of. To be specific, the key aspects of how streaming to Discord on Xbox Series X|S works can be defined by the following:
@@ -37,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
 ![A promotional image for the advertisement of Xbox Game Pass and Xbox All Access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/xbox-game-pass-stock-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[Xbox](https://www.xbox.com/en-us/xbox-game-pass)
 
  If you already[use Discord voice chat on your Xbox console](https://www.makeuseof.com/use-discord-voice-chat-xbox-console/) , your accounts should be linked and ready to go. However, if you're new to using Discord on Xbox, the process to link your accounts is simple as long as you have a pre-existing Discord account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up Discord on Your Xbox
 
@@ -55,26 +51,26 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
 ![A screenshot of the Account settings available on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/linked-social-accounts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * From here, find the**Discord** tab and select**Link** .
 
 ![A screenshot of the Linked Social Accounts settings on Xbox Series X with Discord highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/link-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Select**Continue on console** to be taken to the Microsoft Edge application.
 * When prompted, sign into your Discord account and select**Authorize** .
 
 ![A screenshot of the Microsoft Edge application on Xbox Series X highlighting Discord authorisation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/authorize.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With permission given for your Discord and Xbox accounts to share information, you can access all the supported Discord features available on Xbox Series X|S.
 
  However, while the features for Discord on Xbox are plentiful, it's best to support your experience of Discord on Xbox with the official Discord app. If you want to[find and join some of the best Discord Servers](https://www.makeuseof.com/tag/how-to-find-best-discord-servers/) or even manage your servers and accounts, you're best doing so on the Discord app: it is not supported on Xbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Stream Games Using Discord on Xbox
 
@@ -91,18 +87,22 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
 ![A screenshot of the available Discord Voice Channels for an Xbox account on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/discord-voice-channels.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * From here, select**Stream your game** .
 
 ![A screenshot of the Guide menu options for a Discord Voice Channel on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/start-streaming-initial.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Choose your streaming preferences by altering**Stream settings** .
 * Finally, select**Start streaming** .
 
 ![A screenshot of the Stream Settings for Discord on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stream-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And with**Start streaming** selected, Discord will stream any game you play directly to the Discord Voice Channel of your choice. You can even alter your**Stream settings** throughout the stream by re-entering the**Discord** menu on the**Parties & chats** screen.
 
@@ -129,16 +129,18 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-passive-to-profitable-youtube-revenue-techniques/"><u>[New] In 2024, From Passive to Profitable YouTube Revenue Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-setup-procedure-for-google-meet-users-for-2024/"><u>[Updated] Setup Procedure for Google Meet Users for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-vivo-y100i-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Vivo Y100i PIN</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lenovo-phone-without-pin-by-drfone-android/"><u>How to Unlock Lenovo Phone without PIN</u></a></li>
-<li><a href="https://games-able.techidaily.com/nine-comic-relief-conversations-to-cut-the-tension-anytime/"><u>Nine Comic-Relief Conversations to Cut the Tension Anytime</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-selections-the-finest-in-xbox-streaming-gear/"><u>Superior Selections: The Finest in Xbox Streaming Gear</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-easiest-way-to-convert-4k-video-to-mp4-for-offline-viewing/"><u>Updated In 2024, The Easiest Way to Convert 4K Video to MP4 for Offline Viewing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-free-wmv-video-editors-you-need-to-try-for-2024/"><u>Updated The Best Free WMV Video Editors You Need to Try for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-top-10-free-mkv-cutter-tools-you-should-try-for-2024/"><u>Updated The Top 10 Free MKV Cutter Tools You Should Try for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-shooter-showdown-best-online-fps-browser-titles-announced/"><u>Virtual Shooter Showdown: Best Online FPS Browser Titles Announced</u></a></li>
-<li><a href="https://games-able.techidaily.com/workstation-vs-console-a-technical-dichotomy/"><u>Workstation Vs. Console: A Technical Dichotomy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-the-full-potential-of-iphone-7-screen-save-for-2024/"><u>[New] Unlocking the Full Potential of iPhone 7 Screen Save for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-pathway-for-pixels-transferring-data-to-computers/"><u>[Updated] 2024 Approved Pathway for Pixels Transferring Data to Computers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-visual-voyage-charting-a-course-through-costless-tiktok-landscapes/"><u>[Updated] 2024 Approved Visual Voyage Charting a Course Through Costless TikTok Landscapes</u></a></li>
+<li><a href="https://games-able.techidaily.com/computex-showcase-next-gen-ai-prototypes/"><u>Computex Showcase: Next-Gen AI Prototypes</u></a></li>
+<li><a href="https://games-able.techidaily.com/cover-band-network-cbn/"><u>Cover Band Network (CBN)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descubre-las-mejores-opciones-gratuitas-alternativas-al-pinnacle-studio-en-sistemas-operativos-windows-y-mac-clasificacion-completa/"><u>Descubre Las Mejores Opciones Gratuitas Alternativas Al Pinnacle Studio en Sistemas Operativos Windows Y Mac: Clasificación Completa</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/expanding-capabilities-with-cloud-based-ocr-sdks-insights-from-the-abbyy-experts/"><u>Expanding Capabilities with Cloud-Based OCR SDKs – Insights From the ABBYY Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/facebook-tutorial-efficiently-posting-a-series-of-pictures/"><u>Facebook Tutorial: Efficiently Posting a Series of Pictures</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-best-starting-points-on-youtube-top-16-opener-list-for-growth/"><u>In 2024, Best Starting Points on YouTube Top 16 Opener List for Growth</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/secrets-back-on-snapchat-screen-for-2024/"><u>Secrets Back on Snapchat Screen for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/set-your-desired-steam-language/"><u>Set Your Desired Steam Language</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-essential-guide-to-choosing-between-a-macbook-air-or-macbook-pro/"><u>The Essential Guide to Choosing Between a MacBook Air or MacBook Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/weighing-up-early-access-games-value/"><u>Weighing Up Early Access Games' Value</u></a></li>
 </ul></div>
 

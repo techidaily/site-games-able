@@ -1,7 +1,7 @@
 ---
 title: Play Along with YouTube's Newest Test Mini-Games
-date: 2025-01-13T16:18:51.894Z
-updated: 2025-01-16T23:06:40.311Z
+date: 2025-01-17T18:40:06.105Z
+updated: 2025-01-23T04:48:08.906Z
 tags:
   - games
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 * [Who Can Play Playables on YouTube?](#who-can-play-playables-on-youtube)
 * [How Can You Activate Playables?](#how-can-you-activate-playables)
 * [Testing YouTube Playables](#testing-youtube-playables)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -55,10 +59,6 @@ Here are all the games accessible in the YouTube Playables section:
 
  Many of these games have been developed by well-known game developers, such as FRVR, Nitro Games, Vodoo, Aim Lab, Famobi, and Arkadium. And since some of these developers are popular for their free HMTL5 games, you can actually play some of the games listed above outside YouTube Playables through the game developer’s official website or through third-party sites like[HTML5 Games](https://html5games.com/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Who Can Play Playables on YouTube?
 
  Playables is an experimental feature within YouTube. Since[only YouTube Premium members can test experimental features](https://www.makeuseof.com/youtube-premium-test-experimental-features/) , the mini-games are only available to YouTube Premium subscribers. This also means that those with YouTube Kids accounts cannot access this section despite the child-friendly nature of all the mini-games within the collection.
@@ -73,23 +73,15 @@ Here are all the games accessible in the YouTube Playables section:
 
 ![YouTube landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/1-youtube-landing-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![YouTube You tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-you-section.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![YouTube Settings menu with experimental features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/3-youtube-settings-menu.jpg)
 
-![the option to try out YouTube Playables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/4-try-out-youtube-playables-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![the option to try out YouTube Playables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/4-try-out-youtube-playables-1.jpg)
 
 Close
 
@@ -97,19 +89,27 @@ Close
 
 ![YouTube compass icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-compass-icon-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Mobile explore section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/2mobile-explore-section.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![YouTube playable games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/22youtube-playable-games.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![YouTube homepage scrolling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/403399801_6992387144163435_8787378799009490497_n-1.jpg)
 
 Close
 
  Alternatively, you can simply keep scrolling through the YouTube homepage past**Shorts** and**Breaking news** until you see the**Playables on YouTube** section. You can then click any of the 40 mini-games available to start playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing YouTube Playables
 
@@ -132,24 +132,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-dominating-the-digital-space-with-trending-content/"><u>[Updated] Dominating the Digital Space with Trending Content</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-embarking-on-style-and-niche-discovery-journey/"><u>[Updated] Embarking on Style & Niche Discovery Journey</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-essential-guide-to-creating-stunning-boomerangs-for-2024/"><u>[Updated] The Essential Guide to Creating Stunning Boomerangs for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-vidfx-tricks-top-10-text-transformations-for-2024/"><u>[Updated] VidFX Tricks Top 10 Text Transformations for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-essential-tactics-for-control-panel-entry/"><u>10 Essential Tactics for Control Panel Entry</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boost-your-feed-instagram-collages-made-simple-for-2024/"><u>Boost Your Feed Instagram Collages Made Simple for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-nitros-value/"><u>Discovering Nitro's Value</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-airdrop-glitches-instantly-discover-the-ultimate-guide-to-16-effective-fixes/"><u>Fix AirDrop Glitches Instantly: Discover the Ultimate Guide to 16 Effective Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/nextgen-visual-delights-ifa-2023-highlights/"><u>NextGen Visual Delights - IFA 2023 Highlights</u></a></li>
-<li><a href="https://games-able.techidaily.com/pro-gaming-setup-premium-240hz-refresh-monitors/"><u>Pro Gaming Setup: Premium 240Hz Refresh Monitors</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ps4-film-viewing-made-easy-with-external-hard-drive-tutorial-how-to-stream-movies-using-usb/"><u>PS4 Film Viewing Made Easy with External Hard Drive Tutorial: How To Stream Movies Using USB</u></a></li>
-<li><a href="https://games-able.techidaily.com/revamp-your-system-experience-with-four-powerful-benefits-of-corsairs-icue-link/"><u>Revamp Your System Experience with Four Powerful Benefits of Corsair's iCUE Link</u></a></li>
-<li><a href="https://games-able.techidaily.com/safety-of-using-roblox-fps-enhancement-tools/"><u>Safety of Using Roblox FPS Enhancement Tools?</u></a></li>
-<li><a href="https://games-able.techidaily.com/tailoring-your-gaming-mastery-of-steam-deck-keys/"><u>Tailoring Your Gaming: Mastery of Steam Deck Keys</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-8-nature-inspired-ar-apps-for-active-adventures/"><u>Top 8 Nature-Inspired AR Apps for Active Adventures</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ugreen-nexode-pro-65w-pd-charger-test-and-analysis-the-definitive-guide-for-high-power-usb-c-adapters/"><u>Ugreen Nexode Pro 65W PD Charger Test and Analysis: The Definitive Guide for High-Power USB-C Adapters</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-switch-gamepads-guide/"><u>Ultimate Switch Gamepads Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/unearth-exclusive-perks-3-essential-xbox-redemption-techniques/"><u>Unearth Exclusive Perks: 3 Essential Xbox Redemption Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-your-macs-secrets-a-guide-to-finding-passwords-in-macos-keychain-insights/"><u>Unlocking Your Mac's Secrets: A Guide to Finding Passwords in macOS Keychain - Insights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-art-of-converting-faded-photos-into-dynamic-videos/"><u>[New] 2024 Approved The Art of Converting Faded Photos Into Dynamic Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unlock-the-potential-of-youtube-videos-the-ultimate-chapter-addition-technique/"><u>2024 Approved Unlock the Potential of YouTube Videos The Ultimate Chapter Addition Technique</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-50-discount-on-top-rated-weber-electric-grills-exclusive-offer-from-zdnet/"><u>Get a $50 Discount on Top-Rated Weber Electric Grills - Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmony-and-input-which-for-games/"><u>Harmony and Input: Which for Games?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-6-social-sites-for-enterprise-communication/"><u>In 2024, Leading 6 Social Sites for Enterprise Communication</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-deck-sd-card-insertion/"><u>Mastering Steam Deck SD Card Insertion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-reviving-a-sluggish-windows-11-experience/"><u>Quick Tips: Reviving a Sluggish Windows 11 Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscover-the-fun-playing-old-school-xbox-on-a-modern-computer/"><u>Rediscover the Fun: Playing Old-School Xbox on a Modern Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/rethinking-display-choices-top-6-considerations-for-gamers/"><u>Rethinking Display Choices: Top 6 Considerations for Gamers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/selective-sharpening-tips-for-modern-image-editors-for-2024/"><u>Selective Sharpening Tips for Modern Image Editors for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/social-media-marketing-get-more-viewers-with-youtube-for-2024/"><u>Social Media Marketing Get More Viewers with YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-game-changing-strategy-for-enhanced-ai-titles/"><u>Steam’s Game-Changing Strategy for Enhanced AI Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fix-guide-for-windows-10-error-0xc19001e1-bottleneck/"><u>Step-by-Step Fix Guide for Windows 10 Error 0xC19001E1 Bottleneck</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-top-5-twitch-download-apps/"><u>The Ultimate List of Top 5 Twitch Download Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/turning-off-the-sticky-key-functionality-on-your-pc-easy-instructions-for-windows-users/"><u>Turning Off the Sticky Key Functionality on Your PC: Easy Instructions for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/unfreezing-hangs-in-win10win11-addressing-error-code-0x887a0006/"><u>Unfreezing Hangs in Win10/Win11: Addressing Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/who-holds-sway-in-emulator-battle-on-raspberry-pi-batocera-or-retropie/"><u>Who Holds Sway in Emulator Battle on Raspberry Pi: Batocera or RetroPie?</u></a></li>
 </ul></div>
 

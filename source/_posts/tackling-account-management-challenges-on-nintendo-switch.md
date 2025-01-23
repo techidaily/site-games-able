@@ -1,7 +1,7 @@
 ---
 title: Tackling Account Management Challenges on Nintendo Switch
-date: 2025-01-11T00:31:52.811Z
-updated: 2025-01-16T21:20:05.841Z
+date: 2025-01-20T02:04:15.826Z
+updated: 2025-01-23T05:00:54.715Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Need to Know Before Removing or Adding a Nintendo Account
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  There are two main ways you can manage and access your Nintendo account information on your Switch, either through the**System Settings** of your console or the**Nintendo eShop** . However, the options provided by both methods vary.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Access Your Nintendo Account Information on Your Nintendo Switch
 
  If you simply want to access your Nintendo account information, you can quickly utilize your Nintendo Switch's**System Settings** . To do so, follow these steps:
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 ![A screenshot of the Nintendo Account settings available through the User options on a Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092209552900-57b4628d2267231d57e0fc1078c0596d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Choose either**View email address** or**View family group members** .
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  From the**Account Information** page, you can edit things like payment methods and your Nintendo eShop funds. And, if you highlight the options for**Nintendo Switch Online** , you can even**Renew** or**Terminate Automatic Renewal** to set up or cancel your subscriptions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Edit Your Nintendo Account Information
 
  Unfortunately, while you can access and manage some account requirements from your Nintendo Switch, if you want to edit your Nintendo Switch account in more depth, you need to use methods outside your console.
@@ -102,21 +102,21 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A screenshot of the Sign In and Security Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sign-in.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Under**Privacy and Other Settings** , you can alter any notifications you receive or information you send regarding things like**Emails from Nintendo** or**Usage Information** by selecting**Change** .
 
 ![A screenshot of the options for Privacy and Other Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/privacy.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Or, you can select the**Family Group** tab to add or remove Family members.
 
 ![A screenshot of the Family Group settings available for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And with that, you can alter and edit numerous aspects of your Nintendo account. So, if the options on your Nintendo Switch fail you, you at least have a backup method that may not be as convenient but is sure to address your needs.
 
@@ -141,20 +141,22 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-compact-player-showcase-the-very-best-portables/"><u>[New] 2024 Approved Compact Player Showcase The Very Best Portables</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-streamlining-your-archive-converting-snapchats-ephemeral-snaps/"><u>[New] 2024 Approved Streamlining Your Archive Converting Snapchat's Ephemeral Snaps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-apex-legends-cross-play-how-to-turn-off-cross-play-and-best-platforms/"><u>[New] Apex Legends Cross-Play How to Turn Off Cross-Play and Best Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-powerpoint-and-voice-a-seamless-journey-explored/"><u>[New] PowerPoint and Voice A Seamless Journey Explored</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-resolved-inaccessible-full-screen-obs/"><u>[Updated] Resolved Inaccessible Full Screen OBS</u></a></li>
-<li><a href="https://facebook.techidaily.com/8-things-to-do-before-deleting-your-facebook-account/"><u>8 Things to Do Before Deleting Your Facebook Account</u></a></li>
-<li><a href="https://article-helps.techidaily.com/captivating-copy-creator-pro-for-2024/"><u>Captivating Copy Creator Pro for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoy-immersive-worlds-a-step-by-step-guide-to-playing-games-on-meta-quest-and-steam-headset/"><u>Enjoy Immersive Worlds - A Step-by-Step Guide to Playing Games on Meta Quest & Steam Headset</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-playstation-portable-to-windows-the-steam-deck-method/"><u>From PlayStation Portable to Windows - The Steam Deck Method</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-together-15-companionable-pairing-games-on-smartphones/"><u>Gaming Together: 15 Companionable Pairing Games on Smartphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-keep-your-dualsense-in-top-form-virtually/"><u>How to Keep Your DualSense in Top Form Virtually</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-ai-powered-dlss-unveiled-in-update-35/"><u>Nvidia's AI-Powered DLSS: Unveiled in Update 3.5</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-plus-vs-xbox-games-galore/"><u>PlayStation Plus vs Xbox Games Galore</u></a></li>
-<li><a href="https://discover-able.techidaily.com/transferring-your-itunes-library-command-line-guide-to-saving-backups-on-an-external-hardware/"><u>Transferring Your iTunes Library: Command Line Guide to Saving Backups on an External Hardware</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-no-wi-fi-game-hits-for-iphone-and-ipad/"><u>Ultimate No-Wi-Fi Game Hits for iPhone and iPad</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ively-letters-on-screen-bounce-with-ease-and-style/"><u>[New] Lively Letters on Screen Bounce with Ease and Style</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevate-your-photography-with-polarrs-complete-features/"><u>[Updated] 2024 Approved Elevate Your Photography with Polarr's Complete Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-step-by-step-approach-to-yt-channel-descriptors/"><u>[Updated] In 2024, A Step-by-Step Approach to YT Channel Descriptors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-viral-visionaries-top-ten-meme-templates-exposed/"><u>2024 Approved Viral Visionaries Top Ten Meme Templates Exposed</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175706728-beat-the-heat-the-ultimate-liquid-cooler-mo-ra-iv-600-packed-with-9-big-fans-and-weighs-over-35lbs-at-just-600/"><u>Beat the Heat: The Ultimate Liquid Cooler MO-RA IV 600, Packed with 9 Big Fans & Weighs over 35Lbs at Just $600!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capturafx-firefox-add-ons-for-2024/"><u>CapturaFX FireFox Add-Ons for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/current-currents-of-change/"><u>Current Currents of Change</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-console-playback-control-on-pc-games-150-chars/"><u>Enabling Console Playback Control on PC Games (150 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-very-best-8-game-news-plus-sites/"><u>Explore: The Very Best 8 Game News + Sites</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-navigating-the-world-of-media-with-vlc-on-mac/"><u>In 2024, Navigating the World of Media with VLC on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-pilgrimages-a-top-9-travelers-guide-to-games/"><u>Pixel Pilgrimages: A Top 9 Traveler's Guide to Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-gaming-revolution-new-era-of-ai-opportunities/"><u>Steam's Gaming Revolution: New Era of AI Opportunities</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/troubleshooting-guide-how-to-successfully-add-hevc-footage-in-after-effects/"><u>Troubleshooting Guide: How to Successfully Add HEVC Footage in After Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-pre-released-video-games/"><u>Understanding Pre-Released Video Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-a-new-era-of-portability-connecting-pc-and-steam-deck-with-barrier-methods/"><u>Unleashing a New Era of Portability: Connecting PC & Steam Deck with Barrier Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-potential-of-ea-play-a-guide-for-newcomers-and-veterans-alike/"><u>Unlock the Potential of EA Play - A Guide for Newcomers & Veterans Alike</u></a></li>
 </ul></div>
 

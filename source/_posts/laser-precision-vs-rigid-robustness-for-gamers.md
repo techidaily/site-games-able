@@ -1,7 +1,7 @@
 ---
 title: Laser Precision Vs. Rigid Robustness for Gamers
-date: 2024-08-15T17:21:34.627Z
-updated: 2024-08-16T17:21:34.627Z
+date: 2025-01-16T05:33:06.112Z
+updated: 2025-01-23T03:57:31.815Z
 tags:
   - games
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
  There are three main types of mechanical switches: linear, tactile, and clicky. Linear keys are quieter, require less force, and provide no tactile feedback when pressed. Tactile keys are louder and produce a bump in the middle of the keystroke, while clicky keys give a larger bump and a loud "click" in the middle of the keystroke, making them loud but satisfying.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do Optical Switches Work?
 
  In contrast, optical switches use a process called light induction. When you press the key down, the stem (the part that would usually hit the keyboard) blocks a beam of infrared light. An infrared sensor then detects the lack of light and signals the key has been pressed to the computer.
@@ -34,15 +38,12 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 So, which is better for gaming?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Optical Switches vs. Mechanical Switches
 
 ![Mechanical keyboard with back-lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/vipul-jha-a4X1cdC1QAc-unsplash.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are a few important aspects of mechanical switches you must consider when deciding which is better for gaming, including:
@@ -55,8 +56,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 Let's take a look at these four factors in closer detail.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Durability
 
  The average lifespan of mechanical or optical keys depends largely on the manufacturer. That being said, most optical switches have a lifespan of around 100 million keystrokes. For example, Roccat rates its Titan Switch Optical for 100m keystrokes, as does Razer for its Razer Clicky and Linear Optical Switches.
@@ -66,8 +68,9 @@ Let's take a look at these four factors in closer detail.
  Keep in mind, though, 60 million keystrokes equate to around 10 to 15 years of intense gaming or typing, which is probably going to be long enough for most people to feel they've made a good purchasing decision. Don't forget[hot-swappable keyboards allow you to swap out](https://www.makeuseof.com/why-you-need-hot-swappable-mechanical-keyboard/) the keyboard switches, so in the event you wear a switch out, you can just pop a new one in.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Speed
 
  The speed of switches depends on a couple of things, including the amount of force required and the distance the key has to travel to actuate.
@@ -76,10 +79,6 @@ Let's take a look at these four factors in closer detail.
 
  Other than that, the reaction speed of optical switches appears to depend largely on the manufacturer. The breadwinners seem to be the[Razer Clicky Optical Purple](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2004621&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Frazer-optical-switch) switches. These are touted as some of the fastest keys on the market and are around 30ms faster than the fastest Cherry MX keys.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Feel and Noisiness
 
  How mechanical or optical keys feel is largely down to preference, which also goes for the loudness. But, with more options available, it's more likely you'll find a mechanical keyset matching your preferences.
@@ -103,8 +102,9 @@ Let's take a look at these four factors in closer detail.
  Finally, there are plenty of[excellent budget gaming mechanical keyboards](http://www.makeuseof.com/best-budget-gaming-keyboards/) to choose from, whereas a good set of optical keys generally only comes with a mid-to-high price keyboard. So mechanical switches definitely win when it comes to price.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Should You Buy: Optical or Mechanical Switches?
 
  Choosing between optical and mechanical switches can feel a little overwhelming, so we've summarized the considerations you have to make.
@@ -119,14 +119,11 @@ Let's take a look at these four factors in closer detail.
 
  But, we may see a change in the coming years as more options become available.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +132,18 @@ Let's take a look at these four factors in closer detail.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-the-simple-guide-making-your-windows-computer-speak-like-a-fish-for-2024/"><u>[New] The Simple Guide Making Your Window's Computer Speak Like a Fish for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-xiaomi-redmi-k70-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Xiaomi Redmi K70 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-sales-pitch-discovering-spousal-affection-quotients/"><u>Apple Vision Pro Sales Pitch: Discovering Spousal Affection Quotients</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tial-strategies-for-successful-mukbang-production/"><u>Essential Strategies for Successful Mukbang Production</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-graphics-on-a-tight-budget/"><u>Excellent Graphics on a Tight Budget</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-honor-100-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Honor 100 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-phone-memory-management-fixing-roblox-alerts-on-iphone/"><u>Mastering Phone Memory Management: Fixing Roblox Alerts on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-0x887a0006-dxgi-hanging-issue-windows-edition/"><u>Overcoming 0X887A0006 DXGI Hanging Issue, Windows Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-supply-spike-implications-on-retail-price-points/"><u>PS5 Supply Spike: Implications on Retail Price Points</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/sonic-layers-in-reels-weaving-audio-into-visuals-for-2024/"><u>Sonic Layers in Reels Weaving Audio Into Visuals for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-determining-percentage-growth-with-microsoft-excel/"><u>Step-by-Step Guide: Determining Percentage Growth with Microsoft Excel</u></a></li>
+</ul></div>
 

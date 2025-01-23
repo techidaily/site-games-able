@@ -1,7 +1,7 @@
 ---
 title: Navigating Controllers for Switch Games via Ryujinx
-date: 2025-01-09T19:04:11.910Z
-updated: 2025-01-16T20:57:18.786Z
+date: 2025-01-19T23:37:22.321Z
+updated: 2025-01-22T23:42:48.802Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Need to Know About Ryujinx Before Using a Controller
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A photograph of retro games and gaming consoles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stock-retro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A screenshot of the Options tab in Ryujinx with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Choose**Input** and ensure**Enable Docked Mode** is selected.
@@ -69,14 +69,10 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Customize Your Ryujinx Controller Settings
 
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
 
  While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Streamline Nintendo Switch Emulation With Ryujinx
 
@@ -113,24 +113,18 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-essential-tweets-de-following-aids-the-ultimate-list-for-2024/"><u>[Updated] Essential Tweets De-Following Aids The Ultimate List for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-jocular-video-hacker-review/"><u>[Updated] Jocular Video Hacker Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sticker-free-showcase-crafting-cleansed-tiktok-videos/"><u>2024 Approved Sticker-Free Showcase Crafting Cleansed TikTok Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/end-of-ps5-scarcity-anticipated-price-reduction/"><u>End of PS5 Scarcity: Anticipated Price Reduction</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-14-pro-max-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 14 Pro Max Without Apple ID Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-se-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone SE</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-what-makes-a-youtube-short-go-viral/"><u>In 2024, What Makes a YouTube Short Go Viral?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instagram-live-without-a-trace-the-unseen-spectators-playbook-for-2024/"><u>Instagram Live without a Trace The Unseen Spectator's Playbook for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/not-by-numbers-alone-a-critical-look-at-gaming-ratings/"><u>Not By Numbers Alone: A Critical Look at Gaming Ratings</u></a></li>
-<li><a href="https://games-able.techidaily.com/peak-performance-positions-top-game-sitting-choices/"><u>Peak Performance Positions: Top Game Sitting Choices</u></a></li>
-<li><a href="https://games-able.techidaily.com/push-the-limits-prime-websites-for-gamerpoints-surge/"><u>Push the Limits - Prime Websites for Gamerpoints Surge</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/synchronizing-silence-avoid-redundant-vibrations-on-your-ipad-when-your-iphone-goes-ring-free/"><u>Synchronizing Silence: Avoid Redundant Vibrations on Your iPad When Your iPhone Goes Ring-Free</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-complete-story-of-amds-rx-7800xt-and-7700xt-performance/"><u>The Complete Story of AMD's RX 7800XT & 7700XT Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-great-processor-race-who-wins-in-gaming/"><u>The Great Processor Race: Who Wins in Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-quad-of-qualities-to-upgrade-in-the-xbox-reward-system/"><u>The Quad of Qualities to Upgrade in the Xbox Reward System</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-a56s-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo A56s 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-tier-tools-to-transform-your-gaming-world/"><u>Top-Tier Tools to Transform Your Gaming World</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-hardware-covers-unveiled/"><u>Xbox Hardware Covers Unveiled</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728491815159-mp3-winpcandroid/"><u>プロ録音MP3を大切に - WinPC/Android上で失われたものが無料復元可能</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-convert-subtitles-effortlessly-top-8-best-converters-from-sub-to-srt-format/"><u>[New] 2024 Approved Convert Subtitles Effortlessly - Top 8 Best Converters From SUB to SRT Format</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-podcasters-playground-unleashing-full-potential-in-video-and-audio-recording-on-zoom/"><u>[New] 2024 Approved Podcaster's Playground Unleashing Full Potential in Video and Audio Recording on Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-10-powerful-igtv-video-tips-for-amplified-brand-impact/"><u>[New] In 2024, 10 Powerful IGTV Video Tips for Amplified Brand Impact</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-key-principles-to-deliver-dynamic-ppt-in-online-meets/"><u>[New] Key Principles to Deliver Dynamic PPT in Online Meets</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-itel-s23-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Itel S23? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-clickthrough-rates-with-attention-grabbing-youtube-thumbnails-for-2024/"><u>Boosting Clickthrough Rates with Attention-Grabbing YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-top-5-must-have-traits-in-advanced-gaming-mice/"><u>Decoding the Top 5 Must-Have Traits in Advanced Gaming Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-forward-essential-gaming-equipment-guide-2024-edition/"><u>Future Forward: Essential Gaming Equipment Guide - 2024 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immerse-in-hd-celestial-wonders-online-for-2024/"><u>Immerse in HD Celestial Wonders Online for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-eyevid-fb-content-grabber/"><u>In 2024, EyeVid FB Content Grabber</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/pc-video-editors-similar-to-gopro-quik-top-picks-for-2024/"><u>PC Video Editors Similar to GoPro Quik Top Picks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/spotlight-your-gaming-skills-xbox-streams-on-discord/"><u>Spotlight Your Gaming Skills: Xbox Streams on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/static-freeze-clear-cache-for-chrome-gaming/"><u>Static Freeze? Clear Cache for Chrome Gaming</u></a></li>
 </ul></div>
 

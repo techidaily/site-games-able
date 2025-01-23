@@ -1,7 +1,7 @@
 ---
 title: Unlock Adventure in the Linux Terminals With These Games
-date: 2024-08-15T17:20:37.103Z
-updated: 2024-08-16T17:20:37.103Z
+date: 2025-01-15T21:53:31.809Z
+updated: 2025-01-23T00:53:37.357Z
 tags:
   - games
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 ## 1\. doom-ascii
 
 ![playing Doom in the Linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/playing-doom-in-the-linux-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Doom is possibly the best-known first-person shooter ever created, and was insanely popular at schools and campuses throughout the 1990s.
 
@@ -50,15 +54,9 @@ You can now launch solitaire-tui by typing:
 
 `solitaire`
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 3\. Conway's Game of Life
 
 ![conway game of life in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/conway-game-in-progress.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 [Conway's Game of Life](https://www.makeuseof.com/play-conways-game-of-life-in-linux-terminal/) isn't actually a game as such. Rather it's a virtual evolution simulator.
 
@@ -66,12 +64,13 @@ You can now launch solitaire-tui by typing:
 
  Possibilities are endless, and given enough time, Conway's game of life will reveal to you the infinite secrets and mysteries of the universe.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. nInvaders
 
 ![ninvaders in linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ninvaders-in-linux-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  nInvaders is a reimagining of the classic Space Invaders arcade games—one of the first and most successful video games ever.
 
@@ -85,12 +84,13 @@ You can install nInvaders on Debian-based systems with:
 
  Alternatively, you can clone the nInvaders[GitHub](https://github.com/doctorfree/ninvaders) repository and build from the source.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Gambit
 
 ![gambit chessboard with checkmate imminent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gambit-chessboard-with-checkmate-imminent.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Chess is one of the greatest adversarial games ever invented and pits strategic thinkers against each other in a battle of wits.
 
@@ -116,12 +116,13 @@ Type a five-letter word to begin and see how good your score is!
 
  A green highlighted letter shows that you have the right letter in the right space, while a yellow highlight indicates the letter is present, but in a different slot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Tetris
 
 ![tetris in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tetris-in-the-linux-terminal.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  Tetris is a quick time-killer that has been around since 1985 and holds the record for the most ported game ever, having been adapted for 65 different platforms.
 
@@ -130,21 +131,18 @@ Type a five-letter word to begin and see how good your score is!
  While it sounds simple, working out the optimum rotation can be difficult at higher difficulty levels.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## There’s No Shortage of Terminal Games on Linux
 
  This selection of games for your Linux terminal is great if you just want to waste some time. But if you're playing command-line games because your Linux PC has poor performance, there are a variety of ways to increase the framerate and your gaming experience.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +151,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-ps5-ssd-and-hdd-wonders-top-10-exteriors-for-2024/"><u>[New] PS5 SSD & HDD Wonders Top 10 Exteriors for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-scaling-up-content-convert-youtube-to-igtv/"><u>[Updated] In 2024, Scaling Up Content Convert YouTube to IGTV</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unraveling-youtubes-monetization-policy-overhaul/"><u>[Updated] Unraveling YouTube’s Monetization Policy Overhaul</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-y27-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo Y27 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/bitcoins-impressive-surge-of-26-in-october-insights-from-yl-computing-and-yl-software-analysis/"><u>Bitcoin's Impressive Surge of 26% in October - Insights From YL Computing & YL Software Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-g-sync-nvidias-innovation-in-gameplay-fluidity/"><u>Demystifying G-Sync: Nvidia's Innovation in Gameplay Fluidity</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-channel-the-top-6-game-variety/"><u>Elevate Your Channel: The Top 6 Game Variety</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicating-error-during-steam-content-coordination/"><u>Eradicating Error During Steam Content Coordination</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-version-of-your-hp-laserjet-p1007-driver-start-with-these-tips/"><u>Get the Most Recent Version of Your HP LaserJet P1007 Driver - Start with These Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-mobile-face-off-determining-if-iphone-or-android-suits-you-best/"><u>The Ultimate Mobile Face-Off: Determining if iPhone or Android Suits You Best</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/troubleshooting-failed-graphics-cards-in-windows-with-expert-tips-from-yl-software/"><u>Troubleshooting Failed Graphics Cards in Windows with Expert Tips From YL Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-royal-match-hierarchy-exploring-its-tiered-structure/"><u>Understanding the 'Royal Match' Hierarchy: Exploring Its Tiered Structure</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-essential-nintendo-switch-customizations/"><u>Unveiling Essential Nintendo Switch Customizations</u></a></li>
+<li><a href="https://games-able.techidaily.com/windows-11-solving-steam-folder-read-only-issues/"><u>Windows 11: Solving Steam Folder Read-Only Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-wireless-button-tuning-guide-reverting/"><u>Xbox Wireless Button Tuning Guide (Reverting)</u></a></li>
+</ul></div>
 

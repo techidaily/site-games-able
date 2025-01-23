@@ -1,7 +1,7 @@
 ---
 title: "EA's Rising Cost: My Next-Gen Gaming Future Unsubscribed"
-date: 2024-08-15T17:21:27.195Z
-updated: 2024-08-16T17:21:27.195Z
+date: 2025-01-20T18:03:14.586Z
+updated: 2025-01-22T18:39:51.885Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 ---
 
 ## EA's Rising Cost: My Next-Gen Gaming Future Unsubscribed
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -49,13 +53,15 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
  Even though EA Play is still an affordable service, I'm finally quitting it after five years. So, these are the reasons why I'm canceling my EA Play subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. I Don't Want to Pay Too Much for Just EA Titles
 
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The biggest reason I'm no longer signing up for EA Play is its limited library. The standard EA Play library only features 90 titles at the time of writing. While EA Play Pro gives you 60 more games, they're mostly niche titles that I don't really care for.
@@ -64,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 2\. EA Isn't Adding New Perks and Features
 
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I understand EA's need to increase prices; after all, it's the company's first time hiking up EA Play's subscription costs. This is especially true as overall operational expenses have steadily increased globally due to inflation.
 
@@ -80,20 +86,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Furthermore, EA's price hikes across the pond and in other parts of the world are way over the compounded rate. A 117% increase in one year is simply too much, even if the company had added features like VR gaming or free DLCs.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 3\. Other Gaming Subscriptions Offer Better Value for Money
 
 ![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Humble Bundle](https://support.humblebundle.com/hc/en-us/articles/202742060-Bundle-Logos)
 
@@ -103,12 +98,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  You can also pick Humble Bundle's Humble Choice subscription. Although it's more expensive at $11.99 a month, you get a mix of titles every month that you get to keep forever; you don't have to rely on a library where your favorite games might come and go at a moment's notice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. I Can Get EA Play With Xbox Game Pass
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
@@ -118,14 +114,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Because of these reasons, I'm canceling my EA Play subscription and moving to Xbox Game Pass for PC. And unless you're a hardcore EA fan, I suggest you do, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +127,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-intensifying-interaction-with-enhanced-zoom-on-roblox/"><u>[Updated] 2024 Approved Intensifying Interaction with Enhanced Zoom on Roblox</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-instant-guide-image-to-thumbnail-magic-for-your-youtube-channel/"><u>[Updated] In 2024, Instant Guide Image-To-Thumbnail Magic for Your YouTube Channel</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-speeding-up-your-instagram-video-watch-time/"><u>[Updated] In 2024, Speeding Up Your Instagram Video Watch Time</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-set-up-and-use-an-assist-controller-on-the-ps5/"><u>How to Set Up and Use an Assist Controller on the PS5</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 11 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-language-of-truth-writing-documentaries/"><u>In 2024, The Language of Truth Writing Documentaries</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-15-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 15 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-macro-mastery-tips-for-clear-detail-focused-photos-for-2024/"><u>IPhone Macro Mastery Tips for Clear, Detail-Focused Photos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps-store-funding-and-purchasing-games/"><u>Mastering PS Store: Funding & Purchasing Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-oculus-app-crash-on-windows/"><u>Troubleshooting Oculus App Crash on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-the-mechanics-of-vlc-media-player-on-macos/"><u>Understanding the Mechanics of VLC Media Player on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-victories-dive-into-netflixs-game-oasis/"><u>Virtual Victories - Dive Into Netflix's Game Oasis</u></a></li>
+</ul></div>
 

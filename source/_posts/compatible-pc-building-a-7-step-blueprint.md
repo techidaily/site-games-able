@@ -1,7 +1,7 @@
 ---
 title: Compatible PC Building - A 7-Step Blueprint
-date: 2024-08-15T17:21:44.162Z
-updated: 2024-08-16T17:21:44.162Z
+date: 2025-01-15T21:58:29.467Z
+updated: 2025-01-22T21:10:03.319Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
  Figuring out hardware compatibility isn't always easy, so we've compiled a list of seven ways to check hardware compatibility before you buy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. PCPartPicker
 
  Top of any PC hardware compatibility list is always[PCPartPicker](ttps://pcpartpicker.com) . It's the ultimate go-to for anyone building a new PC or considering a hardware upgrade. It's filled with a vast array of PC hardware, and you can use it to build out a whole configuration or to check if two parts work together.
@@ -26,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
  You can find motherboards, hard drives, CPUs, power supply units, and everything else you need on PCParkPicker, and its easy-to-use interface, Build Guides, and Completed Builds sections are great for newcomers or those that want some inspiration.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 2\. Manufacturer Website
 
  Unsurprisingly, the hardware manufacturers know a thing or two about compatibility. While PCPartPicker makes this process even easier, sometimes the hardware manufacturer's additional information and clarity is useful.
@@ -36,13 +37,15 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  Most manufacturers provide extensively detailed information on their hardware, including compatibility, updates, warranty information, and more. For example, if you head on over to the Intel site and search for a CPU, it'll tell you the exact chipset to use (which tells you which type of motherboard to buy), along with the supported amount and type of RAM.
 
 ![intel i9 13900k spec sheet 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intel-i9-13900k-spec-sheet-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. GPU Check
 
 [GPU Check](https://www.gpucheck.com/gpu-benchmark-comparison) is a handy tool for figuring out how your CPU and GPU might perform together. Sure, the go-to is typically to buy the biggest and best of both, and when you're building a new PC from scratch, that's a straightforward option.
@@ -73,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ![google bard ai custom pc build prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-ai-custom-pc-build-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bard suggested the following build for a PC that can "play FPS games at least 1080p 60FPS" with "a high-end CPU and good GPU."
 
 * **CPU** : I[ntel Core i5-12600KF](https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=1a6fdfcfd07f1dc95f9124bd1a532c0a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
@@ -91,27 +98,22 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  The second way you can use Google Bard is to cross-check a custom PC build list for compatibility issues.
 
 ![google bard checks custom pc build list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-checks-custom-pc-build-list.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  In both scenarios, Google Bard helped figure out which PC components were compatible.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Power Supply Calculator
 
  A power supply unit (PSU) calculator is a handy tool that helps you figure out the size of PSU your custom PC will need. There are[several power supply unit calculators](https://www.makeuseof.com/best-online-power-supply-calculators/) , including options from OuterVision, Cooler Master, and Be Quiet!, all of which can help you figure out what you need.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Forums and Communities
 
  One of the greatest ways to find out what works and what doesn't is to use a PC hardware forum or community, like Linus Tech Tips Forums, Reddit's r/buildapc, and so on. These forums are packed with people passionate about PC building and ensuring your hardware works as it should, and the knowledge of many folks on these forums is second-to-none.
 
  On some forums, you're encouraged to post your proposed build and ask for feedback or use the search function to see if someone has already asked about the compatibility of your selected components. If you find a build similar to yours, you can check if it worked or not, while if you're still in the planning stages, you might receive friendly advice regarding your upcoming build.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Always Check Your PC Hardware Compatibility Before Buying
 
@@ -125,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +134,20 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-techniques-for-transforming-twitter-vids-to-mp3-audios/"><u>[New] Techniques for Transforming Twitter Vids to MP3 Audios</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-complete-guide-to-capturing-and-storing-youtube-livestreams-seamlessly-for-2024/"><u>[Updated] The Complete Guide to Capturing and Storing YouTube Livestreams Seamlessly for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/craft-images-with-orbital-soft-edge-psx-tech-for-2024/"><u>Craft Images with Orbital Soft Edge PSX Tech for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-expensive-move-i-skip-the-sub/"><u>EA’s Expensive Move, I Skip the Sub</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-online-conversor-de-imagens-ppm-para-jpeg-com-o-software-mais-eficiente-experimente-o-movavi/"><u>Gratis Online Conversor De Imagens PPM Para JPEG Com O Software Mais Eficiente: Experimente O Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-minecraft-with-friends-5-different-ways/"><u>How to Play Minecraft With Friends: 5 Different Ways</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-smartphone-solutions-top-voice-changer-applications/"><u>In 2024, Smartphone Solutions Top Voice Changer Applications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-creativity-the-top-10-after-effects-templates/"><u>In 2024, Unleashing Creativity The Top 10 After Effects Templates</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-lip-sync-experience-5-must-try-apps-for-2024/"><u>New The Ultimate Lip Sync Experience 5 Must-Try Apps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-online-predators-and-ensuring-kids-privacy-on-discord/"><u>Preventing Online Predators and Ensuring Kids' Privacy on Discord</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pinnacle-of-presentation-aids-top-7-ai-excellence/"><u>The Pinnacle of Presentation Aids: Top 7 AI Excellence</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-accessory-selection/"><u>The Ultimate Guide to PS5 Accessory Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-marketing-journey-begins-here-experience-the-full-spectrum-of-over-50-free-ads-for-2024/"><u>Your Marketing Journey Begins Here - Experience the Full Spectrum of Over 50 FREE Ads for 2024</u></a></li>
+</ul></div>
 

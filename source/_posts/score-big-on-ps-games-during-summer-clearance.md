@@ -1,7 +1,7 @@
 ---
 title: Score Big on PS Games During Summer Clearance
-date: 2025-01-11T23:15:54.342Z
-updated: 2025-01-16T21:30:01.530Z
+date: 2025-01-16T16:28:59.319Z
+updated: 2025-01-22T18:00:14.452Z
 tags:
   - games
 categories:
@@ -23,21 +23,25 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Overcooked! 2
 
  The best part of the summer holidays is that your friends are most likely on holiday as well, which means that there is no excuse not to invite them over and have a night of ridiculous fun playing Overcooked! 2\. Overcooked! 2 is a chaotic party game where you have to work together to serve food to some very impatient customers under extreme conditions in a short time limit. If you like laughing, you'll like this.
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Deathloop
 
@@ -50,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Owlboy
 
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. The Last of Us: Part II
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Resident Evil Village
@@ -86,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Final Fantasy VII Remake is the first of two parts. The next chapter, Final Fantasy VII Rebirth, is scheduled for release in 2024\. If you are intrigued by the look of Final Fantasy Rebirth, now is your chance to play the first part for 50% off.
 
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
 
@@ -122,16 +122,19 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ideo-marketing-mastery-for-youtube-success-for-2024/"><u>[New] Video Marketing Mastery for YouTube Success for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-decoded-for-everyone-to-grasp/"><u>Artificial Intelligence Decoded - For Everyone to Grasp</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-stylus-unmatched-tablet-mastery-claim/"><u>Digital Stylus: Unmatched Tablet Mastery Claim</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-ace-octobers-prime-deals-for-gamers-huge-savings-up-to-1000-insider-tips/"><u>Don't Miss Out: Ace October's Prime Deals for Gamers - Huge Savings Up to $1,000 Insider Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/identifying-disconnected-gamers-with-xbox-sx-insight/"><u>Identifying Disconnected Gamers with Xbox S/X Insight</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-your-steam-deck-gameplay-with-our-top-9-choices-of-emulators/"><u>Mastering Your Steam Deck Gameplay with Our Top 9 Choices of Emulators</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-opera-experience-secure-free-discord-nitro/"><u>Maximize Opera Experience: Secure Free Discord Nitro</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-horizons-of-gaming-await-discover-chatgpts-best-6/"><u>New Horizons of Gaming Await: Discover ChatGPT's Best 6!</u></a></li>
-<li><a href="https://facebook.techidaily.com/tips-for-sharing-vacancies-via-facebook/"><u>Tips for Sharing Vacancies via Facebook</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlocking-potential-with-cookiebot-technology/"><u>Unlocking Potential with Cookiebot Technology</u></a></li>
-<li><a href="https://facebook.techidaily.com/virtual-vagueness-uncovered-a-glimpse-at-puzzling-content-sharing/"><u>Virtual Vagueness Uncovered: A Glimpse at Puzzling Content Sharing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-visual-polishing-in-meetings-blurring-backgrounds-on-teammeeting-for-2024/"><u>[New] Visual Polishing in Meetings Blurring Backgrounds on TeamMeeting for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-amplifying-online-videos-best-5-tools-and-tricks-for-2024/"><u>[Updated] Amplifying Online Videos Best 5 Tools & Tricks for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unlocking-faster-more-effective-vocal-alterations-for-pubg-players-for-2024/"><u>[Updated] Unlocking Faster, More Effective Vocal Alterations for PUBG Players for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-dealing-with-mistakes-self-representation-during-online-chats/"><u>2024 Approved Dealing with Mistakes Self-Representation During Online Chats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-use-free-countdown-timer/"><u>2024 Approved How to Use Free Countdown Timer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-premier-hashtags-monitoring-on-facebook-twitter-and-instagram/"><u>2024 Approved Premier Hashtags Monitoring on Facebook, Twitter & Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-and-mastering-your-gaming-profile-with-steam-stats/"><u>Exploring & Mastering Your Gaming Profile with Steam Stats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-navigating-discords-video-chat-features-on-gadgets/"><u>In 2024, Navigating Discord's Video Chat Features on Gadgets</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-media-connections-nyt-edition/"><u>Mastering Media Connections: NYT Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-pokemon-iphone-and-ipad-edition-guide/"><u>Mastering Pokémon: IPhone & iPad Edition Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-direct-image-access-with-windows-11/"><u>Maximizing Direct Image Access with Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-opera-usage-with-discounted-monthly-nitro-membership/"><u>Optimize Opera Usage with Discounted Monthly Nitro Membership</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-common-problems-with-inactive-closed-captions-in-your-amazon-prime-video-library/"><u>Solving Common Problems with Inactive Closed Captions in Your Amazon Prime Video Library</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-gamers-need-to-hear-for-better-performance/"><u>What Gamers Need to Hear for Better Performance?</u></a></li>
 </ul></div>
 

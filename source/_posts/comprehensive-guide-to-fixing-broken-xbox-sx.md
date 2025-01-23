@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Fixing Broken Xbox S/X
-date: 2024-08-08T09:18:49.212Z
-updated: 2024-08-09T09:18:49.212Z
+date: 2025-01-21T06:49:07.713Z
+updated: 2025-01-23T00:08:05.247Z
 tags:
   - games
 categories:
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
  So, if you're looking to book a repair for your Xbox Series X|S with Xbox, we can help guide you through the necessary details, like warranty information and serial numbers, and help with the repair process. Let's take a look.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Register Your Xbox Series X|S With Microsoft
 
  Before you attempt to book a service repair for your Xbox Series X|S through Xbox, you will need to register your device with Microsoft. This will enable you to access warranty information for your console, and ultimately book a repair for your console.
@@ -30,25 +31,16 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 * Enter the Microsoft devices tab by signing into your Microsoft account on any web browser via[the official Microsoft webpage](https://account.microsoft.com/devices/?) .
 * Under**Devices** , find your Xbox Series X|S console, and select**Register** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the Devices page for a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3091.jpg)
 
 * You will then be faced with a terms and conditions pop-up. Select**Confirm** to register your Xbox.
 
  Alternatively, if your Xbox isn't listed under**Devices** , you can select**Register device** and input the serial number of your Xbox Series X|S to register your console manually. You can find the serial number of your Series X|S by examining the back label of your console, or by accessing the**Console info** tab under**System** settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![A screenshot of the Register Device option for a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3094.jpg)
 
  But with that, your Xbox Series X|S will be registered with Microsoft, and you should be well on your way to booking a repair with Xbox for your Series X|S.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Check the Warranty Status of Your Xbox Series X|S
 
  Now your Xbox Series X|S is registered with Microsoft, you can move on to checking the warranty status of your console to see whether your repair will be free.
@@ -59,14 +51,23 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 
 ![A screenshot of a registered device in the Devices section of a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3097.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, if you feel the**Warranty** message is inaccurate or not displayed, you can select the**Info & support** tab for your Xbox Series X|S. From here, you can view your**Standard Limited Warranty** details or any other account warranty information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the Device Coverage Information for an Xbox Series X registered under a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3100.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bear in mind, that standard Xbox Series X|S warranties for consoles last for 12 months, so if you purchase your Xbox upon release, its warranty will have unfortunately expired. Because of this, you should[maintain consoles like the Xbox Series X](https://www.makeuseof.com/ways-to-maintain-xbox-series-x-hardware/) throughout its generation. This way, you may avoid ever needing to repair your Xbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Book a Repair for Your Broken Xbox Series X|S
 
@@ -77,10 +78,11 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 * Select a**Category** for your repair. For an Xbox Series X|S, select**Device** .
 * Choose an**Issue type** matching the issue your console is experiencing.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of a Microsoft account Device Service and Repair screen for an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3103-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Enter a short description of your issue and select**Next** .
 * Choose a delivery address for the return of your repair and select**Next** .
@@ -102,14 +104,11 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 
  With a console under warranty, it could even be less expensive as Xbox could repair your console for free, just as long as you pay for delivery. Either way, if you want an easy and effective repair service for your Xbox, utilizing Xbox's official service is likely your best bet.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +117,17 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-prime-choices-cheap-pc-capture-software-listed/"><u>[New] In 2024, Prime Choices Cheap PC Capture Software Listed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-movavi-video-editors-2024-update-a-deep-dive-review/"><u>[New] Movavi Video Editor's 2024 Update A Deep Dive Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unveiling-elite-selection-9-best-mic-recorders-online/"><u>[New] Unveiling Elite Selection 9 Best Mic Recorders Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-onedrive-login-hiccup-zero-based-code-error-on-win11/"><u>Fixing OneDrive Login Hiccup: Zero-Based Code Error on Win11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamlessly-update-to-the-perfect-amd-driver-with-simple-one-click-solution/"><u>Seamlessly Update to the Perfect AMD Driver with Simple One-Click Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/snag-your-discounted-nintendo-switch-oled-from-walmart-save-60-for-the-labor-day-sale-zdnet/"><u>Snag Your Discounted Nintendo Switch OLED From Walmart - Save $60 for the Labor Day Sale! | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-releases-upgraded-playstation-5-pro-discover-the-top-features-price-info-release-schedule-and-everything-you-should-know-a-comprehensive-guide-by-zdnet95/"><u>Sony Releases Upgraded PlayStation 5 Pro: Discover the Top Features, Price Info, Release Schedule & Everything You Should Know - A Comprehensive Guide by ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-affordable-gaming-headsets-your-ultimate-guide-according-to-zdnet/"><u>Top Affordable Gaming Headsets: Your Ultimate Guide (According to ZDNet)</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-sherlock-holmes-into-an-interactive-gaming-experience-with-chatgpt/"><u>Transforming Sherlock Holmes Into an Interactive Gaming Experience with ChatGPT</u></a></li>
+</ul></div>
 

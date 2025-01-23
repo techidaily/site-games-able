@@ -1,7 +1,7 @@
 ---
 title: Procedural Generation Explained in Gaming Contexts
-date: 2024-08-08T09:18:30.347Z
-updated: 2024-08-09T09:18:30.347Z
+date: 2025-01-19T17:56:30.499Z
+updated: 2025-01-22T21:34:29.469Z
 tags:
   - games
 categories:
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
  So, let's explore what a procedurally generated world is, how it works, and a few examples of games that use this technology.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Procedural Generation?
 
 ![procedurally generated game map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/procedurally-generated-game-map.jpg)
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
  This means that even if you play the game repeatedly, the title will give you unique environments with every play-through. Furthermore, procedural generation isn't limited to creating a game's physical world. Developers also use it so their games will have unique dialogues, storylines, and even NPC decisions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## How Does Procedural Generation Work?
 
  Procedural generation starts with the algorithm and the seed. This is the basis of what you're trying to make, and the game will use this as the template for its creation. As the[X-Team blog](https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/) puts it, the seed is "the DNA for a specific copy of whatever you're trying to procedurally produce."
@@ -45,13 +39,18 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
  With procedural generation, your seed ensures that you get your desired result with each run of your algorithm, while your variables give you unique results. If you pair your variable with a random number generator or RNG ([what is an RNG?](https://www.makeuseof.com/tag/lesson-gamers-rng/) ), you could potentially create an absurdly large or even infinite number of variations for your game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Games Use Procedural Generation?
 
  Many titles use procedural generation for their titles. In fact, this method of creating game worlds has been around since 1978, with its introduction in Beneath Apple Manor and Rogue in 1980.
 
  So, here are a few modern titles which use this method when creating a game session.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### No Man's Sky
 
@@ -64,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
  Because of this technique, each planet has its own unique ecosystem—including plants, animals, climates, and even alien species you may engage in trade or combat. Despite this massive game world, the game is only 15GB.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Civilization VI
 
 ![Civilization VI trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/civilization-vi-trailer-screenshot.jpg)
@@ -77,14 +77,16 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
  This feature makes Civilization highly replayable. Even if you’re playing the games for several years, each session will be a challenge. That’s why Civilization VI, the latest release of the franchise, is one of[the best offline games you can play on the iPad](https://www.makeuseof.com/tag/best-offline-games-iphone-ipad/) .
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Rust
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Rust trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rust-trailer-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Facepunch/[YouTube](https://www.youtube.com/watch?v=LGcECozNXEw&t=17s&ab%5Fchannel=Facepunch)
 
@@ -94,14 +96,11 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
  Although procedural generation has been around for decades, it’s still a great technique for generating unique game worlds in the latest titles. So, if you’re looking for a game you can play over and over again, look for one that features a procedurally generated map.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +109,23 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-video-editor-battle-is-inshot-reigning-supreme/"><u>[New] In 2024, Top Video Editor Battle Is InShot Reigning Supreme?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-ultimate-gear-premium-lenses-for-vloggers/"><u>[Updated] Ultimate Gear Premium Lenses for Vloggers</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-gaming-monitor-showdown-find-the-top-picks-cnet-review/"><u>Affordable Gaming Monitor Showdown: Find the Top Picks | CNET Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209309454-asus-laptop-issues-heres-a-solution-for-non-responsive-fn-keys/"><u>ASUS Laptop Issues? Here's a Solution for Non-Responsive Fn Keys!</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/automate-daily-incremental-file-backups-a-step-by-step-guide/"><u>Automate Daily Incremental File Backups: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hp-victus-15l-gaming-pc-at-a-steal-for-only-520-enjoy-an-unbeatable-nearly-half-off-discount/"><u>Discover the HP Victus 15L Gaming PC at a Steal for Only $520, Enjoy an Unbeatable Nearly Half-Off Discount!</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-list-of-2023s-premier-tech-gadgets-with-zdnets-expert-picks/"><u>Discover the Ultimate List of 2023'S Premier Tech Gadgets with ZDNet’s Expert Picks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-talk-the-leading-web-based-speech-conversion-services/"><u>Elevate Your Talk The Leading Web-Based Speech Conversion Services</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/is-the-discontinuation-of-roku-streambar-pro-on-the-horizon/"><u>Is the Discontinuation of Roku Streambar Pro on the Horizon?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-watching-dvds-on-your-hp-laptop-whether-it-has-a-built-in-disc-player-or-not/"><u>Step-by-Step Guide: Watching DVDs on Your HP Laptop, Whether It Has a Built-In Disc Player or Not</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-recommended-gaming-monitors-expert-picks-by-zdnet/"><u>Top Recommended Gaming Monitors : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-ps5-gaming-headsets-a-comprehensive-guide-by-zdnet/"><u>Top-Rated PS5 Gaming Headsets - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-building-your-dream-gaming-rig-with-ease-pcmag/"><u>Ultimate Guide: Building Your Dream Gaming Rig with Ease | PCMag</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deal-why-i-continue-to-advocate-for-these-classic-samsung-televisions-now-with-a-50-discountzdnet-exclusive/"><u>Unbeatable Deal: Why I Continue to Advocate for These Classic Samsung Televisions - Now with a 50% Discount![ZDNet Exclusive]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-fullscreen-fiasco-fixing-glitches-in-sonic-adventure-w11/"><u>Unraveling the Fullscreen Fiasco: Fixing Glitches in Sonic Adventure (W11)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Undo New Xbox Joy Sticks Sync in X and S Systems
-date: 2025-01-14T20:36:30.147Z
-updated: 2025-01-16T22:23:34.959Z
+date: 2025-01-16T22:09:04.728Z
+updated: 2025-01-23T00:25:26.471Z
 tags:
   - games
 categories:
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Things to Note Before Reverting Your Xbox Wireless Controller's Firmware
 
@@ -54,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 ![A screenshot of the Guide menu on an Xbox Series X with the option for Xbox Support highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3117.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Under the options for**Get Help** , highlight**Help topics** and select**Hardware & networking** .
 
 ![A screenshot of the Xbox Support service on an Xbox Series X with Hardware And Netorking highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3120.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select**Controllers** followed by**Troubleshoot your Xbox Wireless Controller** .
@@ -67,18 +67,18 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 ![A screenshot of the Controllers section of the Xbox Support app on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3123.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * From here, choose the option for **My Xbox controller has connection issues after the last update** .
 
 ![A screenshot of the controller troubleshooting options available within the Xbox Support app on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3126.jpg)
 
- You will then be taken to the firmware settings page of the**Xbox Support** menus and be shown potential fixes for firmware issues your controller may be experiencing. You can use this settings page to revert the firmware of your Xbox Wireless Controller.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You will then be taken to the firmware settings page of the**Xbox Support** menus and be shown potential fixes for firmware issues your controller may be experiencing. You can use this settings page to revert the firmware of your Xbox Wireless Controller.
 
 ## How to Revert Your Xbox Wireless Controller’s Firmware
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
  Your Xbox will then start reverting the firmware of your Xbox Wireless Controller. Once the process is finished, your controller will have been downgraded to the prior firmware update and any issues associated with the current firmware should be removed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Maintain Your Xbox Controller Physically and Through Its Firmware
@@ -119,24 +119,24 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-mac-microphone-software-a-detailed-look-at-the-five-top-picks/"><u>[New] In 2024, Best Mac Microphone Software A Detailed Look at the Five Top Picks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-which-screen-recorder-excels-obs-or-fraps-for-2024/"><u>[New] Which Screen Recorder Excels OBS or Fraps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extending-the-frame-in-depth-slomo-app-assessment-2024/"><u>[Updated] Extending the Frame In-Depth SloMo App Assessment, 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unboxing-excellence-a-compreayers-guide-to-sj-cam-s6/"><u>[Updated] In 2024, Unboxing Excellence A Compreayer's Guide to SJ-CAM S6</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-setting-up-your-youtube-studio-essential-equipment-list/"><u>[Updated] Setting Up Your YouTube Studio Essential Equipment List</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/a-window-into-future-skies-top-weather-apps-for-pc/"><u>A Window Into Future Skies: Top Weather Apps for PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-a-winning-appeal-to-eas-beta-selection-panel/"><u>Crafting a Winning Appeal to EA's Beta Selection Panel</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-note-30i-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Note 30i Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-high-end-graphics-selection/"><u>Economical High-End Graphics Selection</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-single-board-pcs-for-windows-users/"><u>Efficient Single-Board PCs for Windows Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/embark-on-a-server-switch-journey-from-bedrock-to-java-using-geysermc/"><u>Embark on a Server Switch Journey: From Bedrock to Java Using GeyserMC</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-privacy-by-excluding-mics-from-your-ps5-setup/"><u>Enhance Privacy by Excluding Mics From Your PS5 Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/gauge-gpus-vram-knowledge-at-hand/"><u>Gauge GPU's VRAM: Knowledge at Hand</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-scorching-speedways-ranking-the-top-5-virtual-race-titles/"><u>In 2024, Scorching Speedways Ranking the Top 5 Virtual Race Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-steams-refund-process-for-complete-reimbursement/"><u>Streamlining Steam's Refund Process for Complete Reimbursement</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-finest-office-mats-for-enhanced-productivity/"><u>The Finest Office Mats for Enhanced Productivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncover-hidden-treasures-for-your-overheating-deck/"><u>Uncover Hidden Treasures for Your Overheating Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-audio-configuration-exclusive-for-headphones/"><u>Xbox Audio Configuration: Exclusive for Headphones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-codec-battlegrounds-assessing-the-advantages-of-av1-and-vp9/"><u>[New] Codec Battlegrounds Assessing the Advantages of Av1 and VP9</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ey-information-every-asmr-aficionado-should-know/"><u>[New] Key Information Every ASMR Aficionado Should Know</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-creating-a-multimedia-guide-adding-videos-to-text-articles/"><u>[Updated] Creating a Multimedia Guide Adding Videos to Text Articles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-best-video-snatchers-for-optimal-use-in-win11/"><u>2024 Approved Best Video Snatchers for Optimal Use in Win11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-fundamentals-unveiling-internet-storys-essence/"><u>2024 Approved Fundamentals Unveiling Internet Story's Essence</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-instagrams-hidden-qanda-features/"><u>2024 Approved Unlocking Instagram’s Hidden Q&A Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comparing-streaming-tools-the-verdict-on-xsplit-and-obs/"><u>Comparing Streaming Tools The Verdict on XSplit & OBS</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-meaning-of-xbox-cases/"><u>Decoding the Meaning of Xbox Cases</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-connections-superior-choices-for-high-speed-gaming/"><u>Elite Connections: Superior Choices for High-Speed Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/gain-control-over-play-rate-2-methods-for-checking-frame-rates-on-android/"><u>Gain Control Over Play Rate: 2 Methods for Checking Frame Rates on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-cost-chronicles-steam-edition/"><u>Game Cost Chronicles: Steam Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/is-it-possible-to-use-samsung-data-migration-tool-for-cloning-non-samsung-ssds/"><u>Is It Possible to Use Samsung Data Migration Tool for Cloning Non-Samsung SSDs?</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/metodos-efectivos-para-localizar-y-restaurar-favoritos-desaparecidos-en-la-navegador-microsoft-edge/"><u>Métodos Efectivos Para Localizar Y Restaurar Favoritos Desaparecidos en La Navegador Microsoft Edge</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-era-of-home-entertainment-ifa-unveiled/"><u>New Era of Home Entertainment: IFA Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-screen-capture-in-steam-games/"><u>Optimizing Screen Capture in Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/proactive-strategies-for-resolving-4-typical-gpu-issues/"><u>Proactive Strategies for Resolving 4 Typical GPU Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-gaming-blizzards-classic-calls-for-redemption-by-xbox/"><u>Retro Gaming: Blizzard's Classic Calls for Redemption by Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/split-screen-showdown-top-mobile-games-for-dual-players-15-great-options/"><u>Split Screen Showdown: Top Mobile Games for Dual Players (15 Great Options)</u></a></li>
 </ul></div>
 

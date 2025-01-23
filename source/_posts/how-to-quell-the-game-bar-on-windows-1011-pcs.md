@@ -1,7 +1,7 @@
 ---
 title: How to Quell the Game Bar on Windows 10/11 PCs
-date: 2025-01-12T21:04:02.355Z
-updated: 2025-01-16T19:16:52.448Z
+date: 2025-01-21T23:27:44.791Z
+updated: 2025-01-23T05:21:24.852Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable the Xbox Game Bar in Windows 10
@@ -37,6 +37,14 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 4. Turn off the toggle under the**Xbox Game Bar** .  
 ![disable the xbox gamebar in windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Restrict Xbox Game Bar's Background Activity in Windows 11
 
  Unlike Windows 10, Windows 11 does not offer an easy way to disable the Xbox Game Bar completely. Therefore, you will have to block the app from running in the background to save system resources. Here's how you can do that:
@@ -47,28 +55,20 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 ![opening the list of installed apps to customize settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/opening-the-list-of-installed-apps-to-customize-settings-1.jpg)
 4. Search**"Xbox"** in the search bar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the**three horizontal dots** next to the**Xbox Game Bar** app and select**Advanced options** .  
 ![open advanced options settings for xbox game bar in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-advanced-options-settings-for-xbox-game-bar-in-the-settings-app.jpg)
 6. Select**Never** in the dropdown menu under**Let this app run in the background** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Like disabling the Xbox Game Bar, you can tweak a few settings to[improve your gaming performance on Windows 10](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) and[Windows 11](https://www.makeuseof.com/improve-gaming-experience-windows-11/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't Let the Xbox Game Bar Drain Your System Resources
@@ -92,19 +92,19 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-ultimate-insights-into-the-art-of-srt-file-creation/"><u>[New] Ultimate Insights Into the Art of SRT File Creation</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-snicker-scribbles-humorhub/"><u>[Updated] Snicker Scribbles HumorHub</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-gaming-experience-fixing-low-fps-issues/"><u>Elevating Gaming Experience: Fixing Low FPS Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-soundmax-driver-software-for-a-seamless-windows-experience/"><u>Get the Latest SoundMAX Driver Software for a Seamless Windows Experience</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/highlight-hacks-a-practical-guide-to-boosting-brand-engagement-on-insta-for-2024/"><u>Highlight Hacks A Practical Guide to Boosting Brand Engagement on Insta for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>In 2024, 360 Degree Cameras Vs 3D Cameras What Are the Differences?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-magic-6-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor Magic 6?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-your-gaming-setup-key-mice-traits-on-the-rise/"><u>Mastering Your Gaming Setup: Key Mice Traits on the Rise</u></a></li>
-<li><a href="https://games-able.techidaily.com/preventing-freezes-load-facebook-games-flawlessly-on-chrome/"><u>Preventing Freezes: Load Facebook Games Flawlessly on Chrome</u></a></li>
-<li><a href="https://games-able.techidaily.com/protecting-game-moments-steam-screenshots-copyright/"><u>Protecting Game Moments: Steam Screenshots Copyright</u></a></li>
-<li><a href="https://games-able.techidaily.com/seven-conversation-crafting-rounds-to-deepen-bonds/"><u>Seven Conversation Crafting Rounds to Deepen Bonds</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-benefits-of-gaming-delays/"><u>Unveiling the Benefits of Gaming Delays</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/windowstsutaya/"><u>マックとWindowsのどちらでも対応！レンタル映像のコピー・ダビングガイド：TSUTAYA、ゲオ向けトリック!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-streaming-wars-understanding-vimeo-and-youtubes-distinctions/"><u>[New] In 2024, Streaming Wars Understanding Vimeo and YouTube's Distinctions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-techniques-for-effortless-documentation-of-your-online-classesmeets/"><u>[New] Top Techniques for Effortless Documentation of Your Online Classes/Meets</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-effective-4k-experience-cards/"><u>Cost-Effective 4K Experience Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-tvs-fullscreen-capabilities-with-playnite/"><u>Discover TV's Fullscreen Capabilities with Playnite</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-guide-to-retrieving-historic-facebook-stories/"><u>In 2024, A Guide to Retrieving Historic Facebook Stories</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ideal-matches-mac-and-pc-video-decoders-freepaid/"><u>In 2024, Ideal Matches Mac & PC Video Decoders (FREE/PAID)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insightful-comparisons-the-upsides-and-downsides-of-opting-for-chatgpt-plus/"><u>Insightful Comparisons: The Upsides and Downsides of Opting for ChatGPT Plus</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/solution-manual-overcoming-extensive-pc-harm-from-multiple-viruses-using-malwarefox-tools/"><u>Solution Manual: Overcoming Extensive PC Harm From Multiple Viruses Using MalwareFox Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-setting-up-password-on-nintendo-switch/"><u>Step-by-Step: Setting Up Password on Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gamers-workshop-manual-xbox-s-controller-disassembly/"><u>The Gamer's Workshop Manual: Xbox S Controller Disassembly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-cartoon-combo-merging-filters-and-snaps-seamlessly-for-2024/"><u>The Ultimate Cartoon Combo Merging Filters and Snaps Seamlessly for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-imperative-components-of-a-game-monitor/"><u>Unveiling the Imperative Components of a Game Monitor</u></a></li>
 </ul></div>
 

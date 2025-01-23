@@ -1,7 +1,7 @@
 ---
 title: Eradicating Shaky Wheel Scroll Behavior on Mouse
-date: 2024-08-15T17:21:25.088Z
-updated: 2024-08-16T17:21:25.088Z
+date: 2025-01-17T06:23:16.797Z
+updated: 2025-01-23T00:12:44.509Z
 tags:
   - games
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
  To fix a jumpy scroll wheel, one option is to buy yourself a new encoder and replace it with the existing one in your mouse, and all will be set. However, if you don't want to take that route, you can fix the encoder and the loose scroll wheel yourself—we will show you how you can do that.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Perform Some Preliminary Checks
 
  Before you begin fixing the mouse scroll wheel to make it more stable, perform the preliminary checks and fixes below, as they may resolve the issue right away:
@@ -37,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
  If none of the above attempts resolve the issue, you can proceed to troubleshoot the hardware issue with your mouse.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Do You Need to Fix Your Mouse Scroll Wheel?
 
  There is no need for special equipment to fix the mouse scroll wheel, nor do you need to be an avid DIYer. To fix a jumpy mouse scroll wheel, you only need a screwdriver to unscrew the screws holding your mouse in place. Besides, you may need to replace your old encoder if worn out.
@@ -45,12 +46,13 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
  It is important to note that the instructions below are for the Razor Naga 2014 model. The steps to fix the jumpy scroll wheel could vary depending on the brand and model of the mouse and the type of encoders it has.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix the Mouse Scroll Wheel
 
  Here's a step-by-step guide for how to stop your mouse scroll wheel from jumping up and down.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Disassemble the Mouse Casing
 
@@ -67,17 +69,15 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
  Your mouse may have a connection that connects the LED on the top panel of the casing with the main circuit. If there is, unplug it first and carefully place the top panel of your mouse casing on your desk. Remove the rest of the necessary connections from the mouse circuit as well.
 
 ![Person Unplugging the LED Cable Connected to the Upper Panel of the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Person-Unplugging-the-LED-Cable-Connected-to-the-Upper-Panel-of-the-Mouse-Casing.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Even though removing your mouse's circuit from the lower panel is unnecessary, if you want to do that, make sure there are no screws attached. If there are any, remove them and take the circuit off the bottom panel of your mouse. Alternatively, you can unmount the scroll wheel directly without unmounting the circuit.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 3: Unmount the Scroll Wheel
 
 ![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
@@ -86,9 +86,17 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
  Unplug the encoder attached to the scroll wheel from the main board before unmounting the scroll wheel. Then, unplug any other connections, unscrew any screws, and take out the scroll wheel. After you have unmounted the scroll wheel, remove the encoder and proceed to the next step: fix the encoder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 4: Fix the Encoder Assembly
 
 ![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -102,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
  To fix it, remove the spring and coil from the encoder assembly and wipe off any dust. Once that's done, put the encoder back in and tighten the spring more to exert more pressure on the encoder coil. For the coil to maintain its position, the spring must fully push it. After you've done that, reassemble the mouse and test it.
 
 ![Person Showing the Fixed Mouse Encoder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Person-Showing-the-Fixed-Mouse-Encoder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -114,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 ## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub
 
 ![Man Holding a Small Piece of Paper to Fit in the Mouse Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Man-Holding-a-Small-Piece-of-Paper-to-Fit-in-the-Mouse-Scroll-Wheel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Orkhan Aliyev/[YouTube](https://www.youtube.com/watch?v=%5FJwUUjLzAMY)
 
@@ -125,17 +126,15 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
  However, what if everything listed above fails to stabilize the scroll wheel? In that case, you should invest in a new encoder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Buy a New Encoder
 
  The steps above will help you fix the jumpy scroll wheel, but if it still doesn't work, purchasing a new encoder should be your last resort. Find out what type of encoder your mouse has and buy it. Replace the old encoder with the new one; hopefully, it will fix the problem.
 
  The cost of an encoder is very low, so it won't break the bank to buy one. Additionally, replacing the encoders is far more cost-effective than replacing the entire mouse, so it's the best option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Can't Fix the Scroll Wheel on Your Own? Consider These Alternatives
 
  If the above steps don't stabilize the movement of your scroll wheel, try the following alternatives:
@@ -150,14 +149,11 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
  Remember, sometimes the problem is with your operating system rather than the hardware. When that happens, you'll need to apply operating system-level fixes to stabilize scrolling.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +162,19 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-navigating-and-mastering-instagram-filters-a-2023-guide/"><u>[Updated] 2024 Approved Navigating and Mastering Instagram Filters A 2023 Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>[Updated] Giggle Genesis Conceptualizing 7 Funny YouTube Sessions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-dos-and-donts-of-mixing-music-in-instagram-videos/"><u>2024 Approved The Do's and Don'ts of Mixing Music in Instagram Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-nvidias-latest-in-retrospect/"><u>Evaluating NVIDIA's Latest in Retrospect</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-ideas-to-epics-mastering-the-use-of-chatgpt-for-creative-world-design/"><u>From Ideas to Epics: Mastering the Use of ChatGPT for Creative World Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-portable-gaming-to-handheld-controls-phone-playstation-union/"><u>From Portable Gaming to Handheld Controls: Phone-PlayStation Union</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-transfer-content-from-android-device-to-firestick-with-simple-steps/"><u>Guide: Transfer Content From Android Device to Firestick with Simple Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-power-solutions-for-ps5-dualsense-controllers/"><u>Ideal Power Solutions for PS5 DualSense Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/introduction-to-google-play-games-for-windows-users/"><u>Introduction to Google Play Games for Windows Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-guide-to-english-contractions/"><u>The Ultimate Guide To English Contractions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-10-nintendo-switch-fighting-games/"><u>Top 10 Nintendo Switch Fighting Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-reactivating-your-non-responsive-roku-tv-set/"><u>Troubleshooting Guide: Reactivating Your Non-Responsive Roku TV Set</u></a></li>
+</ul></div>
 

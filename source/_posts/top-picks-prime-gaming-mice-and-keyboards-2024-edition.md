@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: Prime Gaming Mice & Keyboards 2024 Edition"
-date: 2024-08-08T09:18:44.060Z
-updated: 2024-08-09T09:18:44.060Z
+date: 2025-01-15T22:02:07.946Z
+updated: 2025-01-23T01:46:43.864Z
 tags:
   - games
 categories:
@@ -17,14 +17,6 @@ thumbnail: https://thmb.techidaily.com/58c0c03589ad5318adbacb770fdc6992f0cc68979
  Choosing the right keyboard, especially for gaming, can be overwhelming, thanks to all the switches, macros, and designs available. Here are some of the best gaming keyboards available today.
 
 * [](https://www.amazon.com/Corsair-K100-Optical-Mechanical-Gaming-Keyboard/dp/B08HR74WV4?tag=makeusw-20&ascsubtag=UUmuoUeUpU38157&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keyboard%2F&asc%5Fcampaign=Commerce)  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![corsair k100 rgb](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/corsair-k100-rgb.png)  
 Corsair  
 
@@ -43,10 +35,6 @@ Best Budget
 [$30 at Amazon](https://www.amazon.com/ROCCAT-Membrane-Ergonomic-Detachable-Compatible/dp/B093MH824D?tag=makeusw-20&ascsubtag=UUmuoUeUpU38157&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keyboard%2F&asc%5Fcampaign=Commerce)
 
 * [](www.amazon.com/SteelSeries-Worlds-Fastest-Mechanical-Keyboard/dp/B0BF64DN6H)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![Steelseries apex pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/steelseries-apex-pro.png)  
  SteelSeries  
 
@@ -56,9 +44,6 @@ Best TKL Keyboard
 [$165 at Amazon](www.amazon.com/SteelSeries-Worlds-Fastest-Mechanical-Keyboard/dp/B0BF64DN6H)
 
 * [](https://www.amazon.com/Keychron-Bluetooth-Mechanical-Hot-swappable-Tenkeyless/dp/B0875SJ8FN?tag=makeusw-20&ascsubtag=UUmuoUeUpU38157&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keyboard%2F&asc%5Fcampaign=Commerce)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![keychron k8 tkl](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/keychron-k8-tkl.png)  
 Keychron  
 
@@ -78,10 +63,11 @@ Best for MMOs
 
 ## Best Gaming Keyboard Overall: Corsair K100 RGB
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![the corsair k100 rgb keyboard is illuminated against a dark desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-corsair-k100-rgb-keyboard-is-illuminated-against-a-dark-desk.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Corsair
 
@@ -114,10 +100,6 @@ Best Overall
 
 [$175 at Amazon](https://www.amazon.com/Corsair-K100-Optical-Mechanical-Gaming-Keyboard/dp/B08HR74WV4?tag=makeusw-20&ascsubtag=UUmuoUeUpU38157&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keyboard%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fcorsair-k100-rgb-full-size-wired-mechanical-opx-linear-switch-gaming-keyboard-with-elgato-stream-deck-software-integration-black%2F6424866.p%3FskuId%3D6424866) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fcorsair-k100-rgb-cherry-mx-rgb-silver-black%2Fp%2FN82E16823816138)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Best Budget Gaming Keyboard: ROCCAT Magma
 
 ![the budget-friendly roccat magma keyboard sits against an illuminated background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-budget-friendly-roccat-magma-keyboard-sits-against-an-illuminated-background.png)
@@ -131,6 +113,10 @@ ROCCAT
  For those who don't want to hear their keyboard, the ROCCAT Magma features silent membrane keys. It's equipped with high-quality rubber domes to ensure silent typing that remains responsive no matter how quickly you type.
 
 ![roccat magma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/roccat-magma.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### ROCCAT Magma
 
@@ -156,6 +142,10 @@ Best Budget
 
 ![Close up of the SteelSeries Apex Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/close-up-of-the-steelseries-apex-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  TKL keyboards are perfect for competitive gamers, and they don't get much more impressive than the[SteelSeries Apex Pro](https://www.amazon.com/SteelSeries-Worlds-Fastest-Mechanical-Keyboard/dp/B0BF64DN6H?tag=makeusw-20&ascsubtag=UUmuoUeUpU38157&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keyboard%2F&asc%5Fcampaign=Commerce) . Thanks to the smaller size, it's perfect for taking with you for competitive tournaments or even a LAN party.
@@ -165,6 +155,10 @@ Best Budget
  OmniPoint adjustable switches allow you to customize the actuation distance from 0.4 to 3.6 millimeters. In addition, the RGB Illumination can be customized with up to 16.8 million colors per key, offering an unparalleled level of customization.
 
 ![Steelseries apex pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/steelseries-apex-pro.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### SteelSeries Apex Pro TKL Gaming Keyboard
 
@@ -188,9 +182,6 @@ Best TKL Keyboard
 
 ## Best Gaming Keyboard for Mac: Keychron K8 Tenkeyless
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![the keychron k8 tenkeyless keyboard is used with an iphone, ipad, and macbook simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-keychron-k8-keyboard-is-used-with-an-iphone-ipad-and-macbook-simultaneously.png)
 
 Keychron
@@ -201,10 +192,11 @@ Keychron
 
  The battery on the Keychron K8 Tenkeyless wireless gaming keyboard is designed to never let you down. It can last up to 72 hours with RGB lighting or a whopping nine days without RGB lighting.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![keychron k8 tkl](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/keychron-k8-tkl.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### keychron K8 Tenkeyless Wireless
 
@@ -226,10 +218,11 @@ Best for Mac
 
 ## Best Gaming Keyboard for MMOs: Logitech G915
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![logitech g915 sits on a desk with other rgb accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/logitech-g915-sits-on-a-desk-with-other-rgb-accessories.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Logitech
 
@@ -263,33 +256,24 @@ Best for MMOs
 
 [$185 at Amazon](www.amazon.com/Logitech-Wireless-Mechanical-Gaming-Keyboard/dp/B07NY9ZT92)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: What's the difference between a gaming keyboard and a regular keyboard?
 
  The most prominent differences between gaming keyboards and regular keyboards are that gaming keyboards are sturdier, generally provide better tactile feedback, cause less typing strain, and often include extra features like macro keys tailored for gamers. They aren't required, but gaming keyboards make video games significantly better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: What is a mechanical keyboard, and why is it better for gaming?
 
  Mechanical keyboards use individual mechanical switches for each key rather than relying on a cheaper membrane switch. Mechanical keyboards are considered better for gaming because their key presses are highly predictable and provide excellent tactile feedback. Many provide additional features like N-Key Rollover, which is ideal for games that require complex key combos.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: Which mechanical switches are best for gaming?
 
  Some of the best mechanical switches for gaming include red switches, which provide little-to-no resistance; brown switches, which provide light tactile feedback; and blue switches, which provide medium tactile feedback. Some of the other[popular mechanical keyboard switch types](https://www.makeuseof.com/most-popular-mechanical-keyboard-switches-how-they-impact-gaming/) include black switches, lekker switches, and speed silvers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Q: What does TKL mean?
 
  TKL stands for TenKeyLess—and simply put, TKL refers to keyboards that don't have the ten-key numpad. TKL keyboards are excellent for gaming because many keyboards that omit the numpad are either compact (making them an ideal fit for small gaming setups) or replace the numpad with something more useful, like programmable keys.
@@ -300,8 +284,6 @@ Best for MMOs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -309,4 +291,26 @@ Best for MMOs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-capture-save-and-access-your-shots-seamlessly-with-free-and-paid-cloud-options-for-2024/"><u>[New] Capture, Save and Access Your Shots Seamlessly with Free & Paid Cloud Options for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-directing-dialogues-art-of-screenwriting-for-2024/"><u>[New] Directing Dialogues Art of Screenwriting for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-download-video-as-mp3-with-vimeo-step-by-step-guide/"><u>[Updated] 2024 Approved Download Video as MP3 with Vimeo - Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/1-top-65-unbeatable-christmas-bargain-guides-on-television-discovered-by-zdnet/"><u>1. Top 65 Unbeatable Christmas Bargain Guides on Television - Discovered by ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-video-submission-pc-and-android-users-blueprint/"><u>2024 Approved Facebook Video Submission PC and Android Users' Blueprint</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/windows-server-2011/"><u>簡単なWindows Server 2011のディスククローニング方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-msis-steam-deck-make-its-mark-as-a-top-player-among-handheld-consoles-zdnet/"><u>Can MSI's Steam Deck Make Its Mark as a Top Player Among Handheld Consoles? | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-powerhouse-rode-x-xcm-50-microphone-unveiled-a-detailed-examination-of-its-miniaturized-yet-robust-performance/"><u>Compact Powerhouse: Rode X XCM-50 Microphone Unveiled - A Detailed Examination of Its Miniaturized Yet Robust Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easier-reading-6-essential-strategies-for-organizing-your-excel-data/"><u>Easier Reading: 6 Essential Strategies for Organizing Your Excel Data</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-implemented-for-pc-version-of-hades-no-more-lag-or-crashes/"><u>Fixes Implemented for PC Version of 'Hades': No More Lag or Crashes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-live-from-your-videos-best-apps-and-guides-for-conversion/"><u>New 2024 Approved Live From Your Videos Best Apps and Guides for Conversion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/premier-selection-8-exceptional-gratis-html-editors-tailored-for-windows-operating-systems/"><u>Premier Selection: 8 Exceptional Gratis HTML Editors Tailored for Windows Operating Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-guide-to-youtube-time-tracking-for-2024/"><u>The Essential Guide to YouTube Time Tracking for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-notch-cloud-gaming-experience-with-the-new-acer-chromebook-amoled-516-ge-expert-review-by-zdnet/"><u>Top-Notch Cloud Gaming Experience with the New Acer Chromebook Amoled 516 GE - Expert Review by ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-sherlock-holmes-into-an-interactive-adventure-how-chatgpt-makes-classic-tales-playable/"><u>Transforming Sherlock Holmes Into an Interactive Adventure: How ChatGPT Makes Classic Tales Playable</u></a></li>
+<li><a href="https://games-able.techidaily.com/unboxing-and-testing-sony-inzone-h9-the-ultimate-gamers-choice-rivaling-iphone-pro-series/"><u>Unboxing and Testing Sony INZONE H9 – The Ultimate Gamer’s Choice, Rivaling iPhone Pro Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-savings-with-these-budget-friendly-gaming-mouse-picks-for-gamers-on-a-tight-budget-under-60-cnet/"><u>Unlock Savings with These Budget-Friendly Gaming Mouse Picks for Gamers on a Tight Budget: Under $60 | CNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-game-with-epos-gtw-270-top-tier-wireless-gaming-headphones-unleash-the-potential-on-zdnet/"><u>Upgrade Your Game with Epos Gtw 270: Top-Tier Wireless Gaming Headphones - Unleash the Potential on Zdnet</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnet-exclusive-roblox-unveils-innovative-ai-translator-for-live-conversations-in-16-different-tongues/"><u>ZDNet Exclusive: Roblox Unveils Innovative AI Translator for Live Conversations in 16 Different Tongues!</u></a></li>
+</ul></div>
 

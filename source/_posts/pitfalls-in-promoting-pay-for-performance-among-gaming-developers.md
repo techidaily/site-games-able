@@ -1,7 +1,7 @@
 ---
 title: Pitfalls in Promoting Pay-for-Performance Among Gaming Developers
-date: 2024-08-15T17:21:16.092Z
-updated: 2024-08-16T17:21:16.092Z
+date: 2025-01-17T21:21:58.946Z
+updated: 2025-01-22T19:22:29.055Z
 tags:
   - games
 categories:
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -32,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
  He implied that an in-game option might encourage players to reward the developer on completion of a game, when they’re most engaged with it.
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
 
@@ -41,14 +46,12 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
@@ -60,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Negative Effects of Tipping Culture
 
  My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and[the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
@@ -70,14 +74,12 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
@@ -102,14 +104,11 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 
  I think this is a reasonable compromise. I don’t want to see developers taken advantage of by a tipping culture that treats them as disposable. But if tipping is simply one form of recompense among many, and developers are fairly rewarded for their toil and innovation, then maybe it’s not all so bad.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +117,19 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-imagery-stories-a-peek-inside/"><u>[New] Iconic Imagery Stories A Peek Inside</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-evolved-2023-samsung-bd-j5900-a-deep-dive/"><u>[New] The Evolved 2023 Samsung BD-J5900 A Deep Dive</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-momentum-at-rest-best-idle-pc-games/"><u>[Updated] In 2024, Momentum at Rest Best Idle PC Games</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/cafogg/"><u>CAF至OGG自由下載 - 移順無條件移動者</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-install-or-update-your-dell-latitude-e6-groove-driver-for-windows-os-fixed-now/"><u>Easy Steps to Install or Update Your Dell Latitude E6 Groove Driver for Windows OS - FIXED NOW</u></a></li>
+<li><a href="https://games-able.techidaily.com/expand-your-adventure-pursue-fallout-game-variants/"><u>Expand Your Adventure: Pursue Fallout Game Variants</u></a></li>
+<li><a href="https://games-able.techidaily.com/hack-prone-the-shifting-landscape-of-gaming-security/"><u>Hack-Prone: The Shifting Landscape of Gaming Security</u></a></li>
+<li><a href="https://games-able.techidaily.com/hardware-harmony-choosing-between-directx-11-and-12/"><u>Hardware Harmony: Choosing Between DirectX 11 & 12</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-redmi-note-13-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Redmi Note 13 5G Phone?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/restart-your-ps5-controller-techniques-and-timings/"><u>Restart Your PS5 Controller: Techniques and Timings</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-playing-games-via-steam-storage-tool/"><u>Step-by-Step: Playing Games via Steam Storage Tool</u></a></li>
+</ul></div>
 

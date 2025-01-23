@@ -1,7 +1,7 @@
 ---
 title: Handling Unwelcome Interactions on Series S/X Gaming Platforms
-date: 2025-01-11T16:07:41.520Z
-updated: 2025-01-16T20:01:16.863Z
+date: 2025-01-20T04:30:06.754Z
+updated: 2025-01-22T19:49:51.298Z
 tags:
   - games
 categories:
@@ -34,10 +34,18 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 ![A screenshot of the Guide menu for Xbox Series X with the options for People highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2980.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Select the Xbox profile of the person who displayed inappropriate behavior.
 * Choose the option for**Report or block** , followed by**Report** .
 
 ![A screenshot of the options for an Xbox Profile on Xbox Series X with the ability to Report highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2983.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From here, you can choose various reasons for submitting your report, like**Unsporting behavior** . Once you have selected the reasons for reporting the player, select**Submit** to send your report.
 
@@ -56,16 +64,16 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 ![A screenshot of the Parties and Chats section of the Xbox Series X Guide menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2989.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Select the conversation that contains the inappropriate messages you received.
 * Choose the**More** option at the end of the conversation history, and select**Report person** .
 
 ![A screenshot of the available options for Xbox Chats with Report Person highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2992.jpg)
 
  Just as with reporting an Xbox profile, you will then be able to select specific reasons for reporting the player. However, by reporting them through**Chats** , you are linking the report to the player's messages, making it more likely action will be taken.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Report Inappropriate Behavior in the Xbox Activity Feed
 
@@ -78,22 +86,22 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 ![A screenshot of the My Games and Apps page of an Xbox Series X Guide with See All highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/see-all.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Highlight**Apps** , and open the**Friends & Community Updates** application.
 
 ![A screenshot of the Apps section of My Games and Apps on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2995.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * From here, select the game capture or post you want to report.
 * With the post open, choose**More actions** , followed by**Report** .
 
 ![A screenshot of the available options for a post on the Xbox Activity Feed with the ability to Report highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-3001.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Like with any other Xbox report, you can then define the specific categories of your report and hit**Submit** to finalize it. With the report linked to an individual Xbox Activity Feed post, you can rest assured that Xbox will be able to evaluate your report with the evidence provided.
 
@@ -121,23 +129,15 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 ![A screenshot of the Saved Voice Clips menu on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/saved-voice-clips.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Choose the clip you saved that features the inappropriate behavior you wish to report.
 
 ![A screenshot of the behaviour options when reporting someone using Report In Game Voice Chat on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/report-categories.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Much like other reporting methods, your Xbox will then ask you to define specific elements of the report associated with voice chats. Once you have defined these elements, like associated Xbox profiles and Gamertags, you can select**Submit Report** to finalize.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Report Toxic Gaming and Keep Your Xbox Experience Safe
 
@@ -160,15 +160,17 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/avigating-the-settings-youtube-comments-activation-for-2024/"><u>[New] Navigating the Settings YouTube Comments Activation for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/cultivating-an-xbox-community-hub/"><u>Cultivating an Xbox Community Hub</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-ranked-top-6-tiktok-profit-analyzers-for-creators/"><u>In 2024, Ranked Top 6 TikTok Profit Analyzers for Creators</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-input-devices-for-top-gamers/"><u>Innovative Input Devices for Top Gamers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-3d-lut-filters-a-photo-editing-essential-for-2024/"><u>Mastering 3D LUT Filters A Photo Editing Essential for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-deleting-ps5-users/"><u>Mastering the Art of Deleting PS5 Users</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-the-art-of-saving-online-courses-for-offline-viewing-on-lynda-and-linkedin-platforms/"><u>Mastering the Art of Saving Online Courses for Offline Viewing on Lynda and LinkedIn Platforms</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-20-versatile-game-pairs-for-social-fun-across-devices/"><u>Top 20 Versatile Game Pairs for Social Fun Across Devices</u></a></li>
-<li><a href="https://win-docs.techidaily.com/osnovnye-specialisty-po-optimizacii-dlya-poiskovyh-sistem-iz-manamy-bahrejn-prevoshodstvo-cherez-servisy-seo-powersuite/"><u>Основные Специалисты По Оптимизации Для Поисковых Систем Из Манамы, Бахрейн: Превосходство Через Сервисы SEO PowerSuite</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-instructions-removing-videos-from-youtubes-watchlater/"><u>[Updated] 2024 Approved Instructions Removing Videos From YouTube's Watchlater</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-ace-search-engine-rankings-on-youtube-11-proven-seo-methods/"><u>[Updated] In 2024, Ace Search Engine Rankings on YouTube 11 Proven SEO Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-journey-through-the-best-7-nft-creation-applications/"><u>[Updated] Journey Through the Best 7 NFT Creation Applications</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlocking-full-screen-recording-features-in-mi-11-for-2024/"><u>[Updated] Unlocking Full-Screen Recording Features in Mi 11 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-control-over-ps5-game-sets/"><u>Efficient Control Over PS5 Game Sets</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-black-screen-issue-in-elden-ring-at-launch/"><u>Fixing the 'Black Screen' Issue in Elden Ring at Launch</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovating-highest-standard-canon-sequences/"><u>Innovating Highest Standard Canon Sequences</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-ps5-dualsense-chargers-of-the-year/"><u>Innovative PS5 DualSense Chargers of the Year</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1596203-9780804152228-love-magic/"><u>Love Magic | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-steam-deck-a-compilation-of-accessories/"><u>Maximizing Your Steam Deck: A Compilation of Accessories</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-economical-path-to-video-quality/"><u>The Economical Path to Video Quality</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-sweet-spot-of-gpu-temperatures-for-games/"><u>The Sweet Spot of GPU Temperatures for Games</u></a></li>
 </ul></div>
 

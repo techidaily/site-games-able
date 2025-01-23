@@ -1,7 +1,7 @@
 ---
 title: Optimized Airflow Patterns Reduce CPU Overheating
-date: 2024-08-08T09:19:24.288Z
-updated: 2024-08-09T09:19:24.288Z
+date: 2025-01-18T16:21:30.234Z
+updated: 2025-01-22T21:43:37.480Z
 tags:
   - games
 categories:
@@ -14,15 +14,16 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 
 ## Optimized Airflow Patterns Reduce CPU Overheating
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Why Should You Use a Custom GPU Fan Curve?](#why-should-you-use-a-custom-gpu-fan-curve)
 * [Should Your GPU Fans Run at 100%?](#should-your-gpu-fans-run-at-100)
 * [How to Set a Custom GPU Fan Curve to Boost Gaming Performance](#how-to-set-a-custom-gpu-fan-curve-to-boost-gaming-performance)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can create a custom GPU fan curve to unlock your graphics card's full potential and prevent thermal throttling.
@@ -43,10 +44,11 @@ Jhet Borja/MakeUseOf
 
  With the right custom fan curve settings, however, you can flip that around and have a cooler GPU that uses its full potential instead of slowing down, keeping your gameplay at its maximum potential.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -59,8 +61,9 @@ Jhet Borja/MakeUseOf
  However, in rare cases, the motor might need replacing as well. However, a[replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
@@ -75,11 +78,16 @@ Jhet Borja/MakeUseOf
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Benchmark and Find Your Temperatures
 
  Before creating a custom fan curve, you need to figure out four things:
@@ -95,9 +103,6 @@ Jhet Borja/MakeUseOf
 
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
 
  At 100% fan speed, it tops out at around 69.5-70 °C. We also found that we could keep the temperature at 70-71 °C while only using 90% fan speed.
@@ -105,20 +110,15 @@ Jhet Borja/MakeUseOf
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
@@ -131,14 +131,11 @@ Jhet Borja/MakeUseOf
 
  By creating your own custom fan curve, you're taking more control over your graphics card and making the most out of it. You'll extend the lifespan and improve performance (all performance—not just gaming performance) by preventing thermal throttling, hitting two birds with one stone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +144,26 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-building-a-sustainable-income-via-youtube-and-adsense/"><u>[New] 2024 Approved Building a Sustainable Income via YouTube and AdSense</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-size-independent-strategies-for-securing-sponsors-for-2024/"><u>[New] Channel-Size-Independent Strategies for Securing Sponsors for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-iphoneipad-premium-podcast-recording-tips-for-2024/"><u>[New] Mastering iPhone/iPad Premium Podcast Recording Tips for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photography-pro-key-positions-and-perspectives-on-your-iphone/"><u>[New] Photography Pro Key Positions and Perspectives on Your iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-mechanism-behind-imovie-trim/"><u>[New] The Mechanism Behind iMovie Trim</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-raspberry-router-image-maker/"><u>[Updated] Raspberry Router Image Maker</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-11ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 11/iPad/iPod</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-strategies-for-canceling-steam-memberships/"><u>Easy Strategies for Canceling Steam Memberships</u></a></li>
+<li><a href="https://games-able.techidaily.com/fastest-ssds-for-playstation-5/"><u>Fastest SSDs for PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/fight-tech-face-off-console-vs-arcade-joysticks/"><u>Fight Tech Face-Off: Console Vs. Arcade Joysticks</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y17s-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-iphone-and-android-tips-direct-video-sharing-to-twitter-no-retweets/"><u>In 2024, IPhone & Android Tips Direct Video Sharing to Twitter No Retweets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mastering-photo-editing-unveiling-background-eraser-in-adobe-photoshop/"><u>In 2024, Mastering Photo Editing Unveiling Background Eraser in Adobe Photoshop</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-iphoneipad-playtime-discover-these-top-video-game-apps/"><u>Master iPhone/iPad Playtime: Discover These Top Video Game Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/open-arms-to-every-gamers-preferences/"><u>Open Arms to Every Gamer's Preferences</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcome-system-errors-install-updated-nvidia-drivers/"><u>Overcome System Errors - Install Updated Nvidia Drivers!</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-time-or-fun-handheld-games-pros-and-cons/"><u>Screen Time or Fun? Handheld Games Pros & Cons</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-frustrating-loading-google-chrome-game-fixes/"><u>Stop Frustrating Loading: Google Chrome Game Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-gameplay-with-these-ps5-tricks/"><u>Supercharge Your Gameplay with These PS5 Tricks</u></a></li>
+</ul></div>
 

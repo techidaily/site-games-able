@@ -1,7 +1,7 @@
 ---
 title: "Modular Game Console: Akko's Revolutionary MOD007B Board"
-date: 2024-08-08T09:19:27.320Z
-updated: 2024-08-09T09:19:27.320Z
+date: 2025-01-21T00:03:40.417Z
+updated: 2025-01-23T05:09:40.556Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/d01c44a9ae23f7efe9fb5e1960e68d56b4d2035c8
 
 ## Modular Game Console: Akko's Revolutionary MOD007B Board
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Akko MOD007B HE keyboard uses Hall Effect switches for customizable actuation distance, giving gamers an advantage.
@@ -124,13 +121,17 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tokyo-Themed Keys and Accessories Included
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -140,11 +141,12 @@ No
 
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Jowi Morales / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Akko MOD007B Means Serious Business Underneath
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
@@ -169,12 +171,13 @@ Related
 
  The MOD007B is also compatible with three-pin mechanical switches. So, if you prefer using mechanical keys (or if you’re playing in a competition that requires mechanical switches), you can easily switch them out on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Three-Pin Mechanical Switch-Compatible PCB](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-three-pin-mechanical-switch-compatible-pcb.jpg)
 
  Jowi Morales / MakeUseOf
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Typing on Cloud Nine
 
@@ -183,11 +186,16 @@ Related
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Extensive Customization With the Akko Cloud Driver
 
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
 
@@ -197,9 +205,6 @@ Related
 
 ## Confusing Multi-Mode Pairing
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
  Jowi Morales / MakeUseOf
@@ -214,9 +219,6 @@ Related
 
 ## Questionable Battery Life
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
  Jowi Morales / MakeUseOf
@@ -228,8 +230,9 @@ Related
  Granted that this keyboard will most likely sit on your desk in wired mode, it’s still better to allow the user to switch off the keyboard when not using it. This will help save power, especially if you transport the keyboard in your bag (like when going to a LAN party or an on-site competition) and want to use it wirelessly.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Your Keyboard for Gaming Victory
 
  Although these couple of issues will negatively impact niche users like me, they won’t affect most users. You can't ignore the benefits of a Hall Effect keyboard, especially if you take your matches seriously.
@@ -238,9 +241,6 @@ Related
 
  So, if you are or plan to be a serious gamer, the Akko MOD007B is an excellent choice for a primary keyboard. And, as long as you don’t frequently switch between Windows and Mac, it’s a great all-around keyboard, too.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Akko MOD007B PC eCommerce Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/world-tour-tokyo-mod007b-pc-3-600x600.jpg)
 
 ##### AKKO MOD007B PC
@@ -315,14 +315,11 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/) [See at Amazon](https://www.amazon.com/dp/B0CP7CYWRY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031519&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fakko-mod007b-hall-effect-keyboard-review%2F&asc%5Fcampaign=Affiliate)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -331,4 +328,24 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-fortified-process-for-adding-tiktok-profile-hyperlinks/"><u>[New] 2024 Approved Fortified Process for Adding TikTok Profile Hyperlinks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-step-by-step-for-gaining-access-to-the-best-clip-art/"><u>[New] 2024 Approved Step by Step for Gaining Access to the Best Clip Art</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-in-depth-viewer-tool-for-chilled-pleasures/"><u>[New] In 2024, In-Depth Viewer Tool for Chilled Pleasures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-record-a-powerpoint-presentation/"><u>[Updated] How to Record a PowerPoint Presentation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-to-converting-your-dvds-into-itunes-library-for-play-on-ipod-devices/"><u>Effortless Guide to Converting Your DVDs Into iTunes Library for Play on iPod Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-hype-unveiling-nintendo-switch-20/"><u>Handheld Hype: Unveiling Nintendo Switch 2.0?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-boosters-for-x-series-s/"><u>Mastering Xbox Boosters for X Series S</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-hdi-graphics-performance-mouse/"><u>Optimal HDI Graphics Performance Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/promoting-defections-and-espionage/"><u>Promoting Defections and Espionage</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconciling-windows-and-steam-file-differences/"><u>Reconciling Windows and Steam File Differences</u></a></li>
+<li><a href="https://games-able.techidaily.com/slashing-costs-without-cutting-xbox-quality/"><u>Slashing Costs Without Cutting Xbox Quality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-issues-what-to-do-when-netflix-struggles-to-stream-your-chosen-movie/"><u>Solving Issues: What to Do When Netflix Struggles to Stream Your Chosen Movie</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/storage-solutions-ps5s-top-10-external-units/"><u>Storage Solutions PS5's Top 10 External Units</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transforming-industries-with-virtual-reality-applications/"><u>Transforming Industries with Virtual Reality Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-iphone-home-button-top-five-remedies/"><u>Troubleshooting a Non-Responsive iPhone Home Button: Top Five Remedies</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-on-ps5-networked-gameplay/"><u>Turn On PS5 Networked Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-streak-started-here-elevate-windows-gaming-speed/"><u>Winning Streak Started Here: Elevate Window's Gaming Speed</u></a></li>
+</ul></div>
 

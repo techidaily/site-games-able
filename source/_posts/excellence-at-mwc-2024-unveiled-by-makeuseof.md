@@ -1,7 +1,7 @@
 ---
 title: Excellence at MWC 2024 Unveiled by MakeUseOf
-date: 2025-01-14T23:44:57.347Z
-updated: 2025-01-16T22:40:06.470Z
+date: 2025-01-21T16:27:55.893Z
+updated: 2025-01-23T06:46:03.839Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
  Either way, they've all made MakeUseOf's Best of MWC 2024 list—in no particular order.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Tecno Megabook T16 Pro
 
 ![tecno megabook ultimate t16 with awards mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-ultimate-t16-with-awards-mwc-2024.jpg)
@@ -55,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  The new 2024 Tecno Megabook T16 Pro ships with an AI-enabled Intel Core Ultra 7 (or Core Ultra 5), which enables on-device AI tools using Intel's new Neural Compute Engine, such as AI image generation and AI conference support, all accessed through the onboard PC Manager. Having given the onboard image generation a try, it's fast and responsive, using the latest version of Stable Diffusion to generate AI images.
 
 ![tecno megabook pro t16 ai image generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-pro-t16-ai-image-generator.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -90,6 +90,10 @@ Close
 
 ![motorola adaptive display concept smartphone with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/motorola-adaptive-display-concept-smartphone-with-muo-mwc-2024-award.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gavin Phillips/MakeUseOf
 
  Concept smartphones are always interesting, but it's even better when there is a usable example. Motorola's bendable, flexible, wearable is another interpretation of a smartphone that you can wrap around your wrist, displaying incredible flexibility considering all of the hardware packed into the body.
@@ -97,10 +101,6 @@ Close
  Whether this ultra-flexy smartphone ever becomes a real-world product is here nor there; the tech behind it is cool, and there is something futuristic about strapping your smartphone around your wrist.
 
  The concept smartphone features a 6.9-inch pOLED screen. Most interestingly, the battery and other components are built in multiple segments to help the device achieve its bendiness.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Tecno Camon 30 Premier 5G
 
@@ -120,17 +120,9 @@ Close
 
  It also includes a substantial 5,000mAh battery and supports 70W fast charging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. ZTE Nubia Flip 5G
 
 ![zte nubia flip 5g smartphone on stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-flip-5g-smartphone-on-stand.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -143,6 +135,10 @@ Close
  The folding mechanism felt responsive, while the fold folds out properly to 180 degrees, which is nice. The 6.9-inch 120Hz display was perfectly responsive, though it's always better to judge these things after the screen has been folded a bunch of times during regular use.
 
  The budget flip-phone market is heating up, with strong entries like the ZTE Nubia Flip 5G and Tecno Phantom V Flip 5G battling it out with the Motorola Razr.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Ayaneo Pocket S
 
@@ -160,10 +156,6 @@ Close
 
  The Pocket S also features multiple performance modes, integrated vibration, RGB lighting on the Hall Sensing joysticks, and heaps of gaming integrations.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Xiaomi 14 Ultra
 
 ![xiaomi 14 ultra on stand mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/xiaomi-14-ultra-on-stand-mwc-2024.jpg)
@@ -180,9 +172,17 @@ Close
 
  Like Honor, Xiaomi has also made the jump to a new silicon carbon cell battery, which delivers greater power density. The Xiaomi 14 Ultra has a 5,300mAh battery, along with 90W wired fast charging and 80W wireless charging.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Honor MagicBook Pro 16
 
 ![honor magicbook pro 16 at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magicbook-pro-16-at-mwc-2024.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -196,13 +196,13 @@ Close
 
  Furthermore, the MagicBook Pro 16 comes equipped with an Nvidia RTX 4060 GPU, which is plenty powerful, and a 75Wh battery, which Honor says should last up to ten hours (usage dependant).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Tecno Phantom Ultimate Concept
 
 ![tecno phantom ultimate concept smartphone in hand closed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-phantom-ultimate-concept-smartphone-in-hand-closed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -213,16 +213,12 @@ Close
  It's also decently slimline, measuring 9.93mm thickness, and feels good in your hand. The extra tech for the sliding mechanism doesn't add much to its weight at all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. ZTE Nubia Pad 3D II
 
 ![zte nubia 3d pad II on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-3d-pad-ii-on-stand-at-mwc-2024.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -252,6 +248,10 @@ Close
 
 ![lenovo transparent laptop concept mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/lenovo-transparent-laptop-concept-mwc-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gavin Phillips/MakeUseOf
 
  Lenovo arrived at MWC 2024 with an excellent new lineup of ThinkBooks. Its new ThinkBook X12 Detachable Gen 2 is brilliant and could well be the challenger the Surface Book always needed.
@@ -277,20 +277,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://games-able.techidaily.com/decoding-the-financial-structure-of-sony-playstation-plus/"><u>Decoding the Financial Structure of Sony PlayStation Plus</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-the-price-puzzle-in-virtual-reality-investments/"><u>Dissecting the Price Puzzle in Virtual Reality Investments</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009252406-ds4-device-failure-on-windows-heres-how-to-install-the-correct-driver-and-fix-it/"><u>DS4 Device Failure on Windows? Here’s How to Install the Correct Driver & Fix It</u></a></li>
-<li><a href="https://games-able.techidaily.com/easy-guide-to-establish-stronger-gaming-access-controls-on-ps5/"><u>Easy Guide to Establish Stronger Gaming Access Controls on PS5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-methods-for-transforming-flv-file-format-into-mp4mpeg-on-windows-systems/"><u>Easy Methods for Transforming FLV File Format Into MP4/MPEG on Windows Systems</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effective-remedies-for-unrecognized-drives-on-windows-1011-a-step-by-step-guide/"><u>Effective Remedies for Unrecognized Drives on Windows 10/11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-new-worlds-top-10-sci-fi-metaverse-movie-adventures/"><u>Exploring New Worlds Top 10 Sci-Fi Metaverse Movie Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-automatically-capture-game-highlights-with-any-gpu/"><u>How to Automatically Capture Game Highlights With Any GPU</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-lava-yuva-3-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Lava Yuva 3? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-on-prime-day-with-metas-splendid-deal-on-the-quest-3-headset-512gb-why-its-a-must-have-now/"><u>Score Big on Prime Day with Meta's Splendid Deal on the Quest 3 Headset (512GB) - Why It's a Must-Have Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-for-repairing-unresponsive-xbox-controllers/"><u>Steps for Repairing Unresponsive Xbox Controllers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-budget-vr-headsets/"><u>The Best Budget VR Headsets</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ultimate-rankings-and-insights-best-camcorders/"><u>Ultimate Rankings & Insights Best Camcorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quick-tips-capturing-overwatch-matches/"><u>[Updated] 2024 Approved Quick Tips Capturing Overwatch Matches</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-iphone-selfies-naturally-10-best-no-cost-enhancing-apps/"><u>[Updated] Master iPhone Selfies Naturally 10 Best No-Cost Enhancing Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-principles-of-paradoxical-intervention-for-2024/"><u>[Updated] Principles of Paradoxical Intervention for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-gaming-duo-on-mobile-top-15/"><u>Discover the Ultimate Gaming Duo on Mobile (Top 15)</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-gaming-on-xbox-without-the-d-pad/"><u>Effortless Gaming on Xbox Without the D-Pad</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-high-definition-playback-software-compatible-with-windows-and-macos-enhanced-with-4k-hdr-support/"><u>Free High Definition Playback Software: Compatible with Windows and macOS, Enhanced with 4K HDR Support!</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-game-to-play-streamlining-your-steam-deck-launchers/"><u>From Game to Play: Streamlining Your Steam Deck Launchers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-do-we-experience-realities-in-a-virtual-sense/"><u>How Do We Experience Realities in a Virtual Sense?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-iphone-photo-wizards-perfecting-silhouette-art/"><u>In 2024, IPhone Photo Wizards Perfecting Silhouette Art</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12t-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12T Pro Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-disruption-fixes-for-noisy-xbox-controller/"><u>Overcoming Disruption: Fixes for Noisy Xbox Controller</u></a></li>
+<li><a href="https://article-files.techidaily.com/punpixel-the-ultimate-tool-for-digital-humor/"><u>PunPixel The Ultimate Tool for Digital Humor</u></a></li>
+<li><a href="https://games-able.techidaily.com/reality-or-review-diving-into-gaming-score-skepticism/"><u>Reality or Review? Diving Into Gaming Score Skepticism</u></a></li>
+<li><a href="https://games-able.techidaily.com/seven-verbal-virtuoso-showdowns-for-chat-champions/"><u>Seven Verbal Virtuoso Showdowns for Chat Champions</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-your-system-jump-on-nvidias-new-rtx-trend/"><u>Should Your System Jump on Nvidia's New RTX Trend?</u></a></li>
+<li><a href="https://win-webster.techidaily.com/verify-your-graphics-card-performance-expert-tips-yl-computing-solutions/"><u>Verify Your Graphics Card Performance: Expert Tips - YL Computing Solutions</u></a></li>
 </ul></div>
 
