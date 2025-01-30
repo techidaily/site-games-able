@@ -1,7 +1,7 @@
 ---
 title: Bringing Old-School Gaming Into Your Linux Space
-date: 2024-07-29T06:01:05.125Z
-updated: 2024-07-30T06:01:05.125Z
+date: 2025-01-27T16:39:00.243Z
+updated: 2025-01-30T16:57:15.296Z
 tags:
   - games
 categories:
@@ -17,14 +17,16 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
  The Linux terminal, while certainly a fun place, isn't especially well known as a console gaming platform—largely thanks to its limited ASCII and Braille output. But its Spartan interface is almost perfect for replicating the display of an original 1989 Nintendo Game Boy. Here's how to play Game Boy games in your terminal.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Emulate a Game Boy in the Terminal?
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pokemon red star splash screen in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-red-star-splash-screen-in-the-linux-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Nintendo's Game Boy is one of the most wildly successful game consoles ever created, and introduced generations of kids and adults to the joys of games such as Tetris, Pokemon, and the Super Mario Land series.
 
@@ -45,22 +47,9 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
  You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install php-terminal-gameboy-emulator on Linux
 
  Before you install php-terminal-gameboy-emulator, you should first make sure you have PHP installed. To check this, open a terminal and enter:
@@ -102,8 +91,9 @@ Make it executable with:
 `sudo mv php-gameboy.phar /usr/local/bin/php-gameboy`
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Play Awesome Game Boy Games in Your Linux Terminal
 
  To start a game with php-terminal-gameboy-emulator, you need to pass the filename of the ROM file as an argument. For instance:
@@ -127,22 +117,20 @@ Make it executable with:
 | M                 | Start            |
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Impress Your Friends With php-terminal-gameboy-emulator
 
  Playing action, fighting, and adventure games from within the Linux terminal is a technical feat that's sure to inspire your colleagues and relations, and can be an excellent way to convince them of Linux's pre-eminence as a gaming system.
 
  You can also use it as a way to relive your childhood in some idle downtime when you're working.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +139,19 @@ Make it executable with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-the-art-of-title-design-in-after-effects-for-2024/"><u>[Updated] The Art of Title Design in After Effects for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-htc-u23-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on HTC U23 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-8-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 8 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-list-of-ios-camera-apps-for-the-iphone-xplus-series/"><u>In 2024, The Ultimate List of iOS Camera Apps for the iPhone X+ Series</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-gpasswd-a-comprehensive-guide-to-managing-user-passwords-in-linux/"><u>Mastering Gpasswd: A Comprehensive Guide to Managing User Passwords in Linux</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-mention-triggers-for-detecting-deceptive-chatgpts/"><u>Mastering Mention Triggers for Detecting Deceptive ChatGPTs</u></a></li>
+<li><a href="https://games-able.techidaily.com/proven-strategies-for-immediate-ps5-gamepad-recovery/"><u>Proven Strategies for Immediate PS5 Gamepad Recovery</u></a></li>
+<li><a href="https://games-able.techidaily.com/seven-friendship-flirtations-a-textual-dance-of-words/"><u>Seven Friendship Flirtations: A Textual Dance of Words</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-security-configuring-a-password-lock-on-your-nintendo-console/"><u>Step Into Security: Configuring a Password Lock on Your Nintendo Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-tactics-why-choose-pc-over-console-games/"><u>Switch Tactics: Why Choose PC Over Console Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-science-behind-xboxs-strike-process/"><u>The Science Behind Xbox's Strike Process</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxvideo-ai-ai/"><u>Winxvideo AI: 革新的なAIを用いた高精度フレーム埋め忘れ無料ツール</u></a></li>
+</ul></div>
 

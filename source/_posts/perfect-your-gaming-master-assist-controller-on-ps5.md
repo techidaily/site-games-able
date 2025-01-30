@@ -1,7 +1,7 @@
 ---
 title: Perfect Your Gaming - Master Assist Controller on PS5
-date: 2025-01-20T06:20:39.239Z
-updated: 2025-01-22T18:41:14.274Z
+date: 2025-01-23T17:40:06.569Z
+updated: 2025-01-30T17:14:31.337Z
 tags:
   - games
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  Using an assist controller on your PS5 allows you to connect two controllers that act like one. If you want to make use of this handy accessibility feature on your PS5 but you’re not sure how to, we’ve got you covered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Does an Assist Controller Do on the PS5?
 
  Being able to connect an assist controller to your PS5 is Sony's answer to the copilot feature on Xbox. Using an assist controller is a far different experience than simply connecting two DualSense controllers and calling it a day.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Set Up an Assist Controller on My PS5?
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ![PS5 Settings Accessibility Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-accessibility-section.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Head to the**Accessibility** settings and scroll down to**Controllers** .
@@ -70,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap**Use Second Controller for Assistance** , and make sure the**Use Assist Controller** switch is on.
@@ -81,17 +77,21 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![PS5 Settings Assign Assist Controller to Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-assign-assist-controller-to-profile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will now be able to use the second controller to assist the first player in any way they need. You can tell the two controllers have successfully been connected by checking the**battery icon** at the top right. If there are two batteries instead of one, you are good to go.
 
 ![PS5 Assist Controller Battery Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-assist-controller-battery-icons.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To stop using an assist controller, turn one of the controllers off to disconnect it, or head back to the settings and switch**Use Assist Controller** off.
 
  You are unable to use DualSense features such as haptic feedback, adaptive triggers, or the controller's built-in microphone while using an assist controller, but this is a small price to pay to help someone play and enjoy the games they love.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## An Assist Controller Makes Gaming More Accessible
 
@@ -114,16 +114,17 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-navigating-through-samsungs-comprehensive-picture-editing-2023/"><u>[Updated] Navigating Through Samsung's Comprehensive Picture Editing, 2023</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-showdown-delving-deeper-into-google-palm-2-versus-openai-gpt-4-what-sets-them-apart/"><u>AI Showdown: Delving Deeper Into Google PaLM 2 Versus OpenAI GPT-4 – What Sets Them Apart?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ev-performance-can-electric-cars-withstand-harsh-winters-and-scorching-summers/"><u>EV Performance: Can Electric Cars Withstand Harsh Winters and Scorching Summers?</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-ios-gamescape-my-affinity-for-arcade/"><u>Exploring the iOS Gamescape – My Affinity for Arcade</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-close-up-views-in-minecraft/"><u>Mastering Close-Up Views in Minecraft</u></a></li>
-<li><a href="https://games-able.techidaily.com/mwc-spotlight-standout-solutions-recognized-by-makeuseof/"><u>MWC Spotlight: Standout Solutions Recognized by MakeUseOf</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-smartphone-games-supporting-controllers/"><u>Premier Smartphone Games Supporting Controllers</u></a></li>
-<li><a href="https://games-able.techidaily.com/refresh-frequencies-how-they-shape-user-experience/"><u>Refresh Frequencies: How They Shape User Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-gateway-to-pc-gaming-google-play-betas-best-titles/"><u>Your Gateway to PC Gaming - Google Play Beta's Best Titles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-achieve-more-with-costless-timer-software/"><u>[New] 2024 Approved Achieve More with Costless Timer Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-assessment-of-parrots-second-gen-model-20/"><u>[New] Premium Assessment of Parrot's Second-Gen Model 2.0</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-central-points-for-virtual-world-engagement/"><u>[Updated] Central Points for Virtual World Engagement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-celebrating-stop-motion-excellence-top-15-films/"><u>2024 Approved Celebrating Stop-Motion Excellence Top 15 Films</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoidance-and-correction-of-youtubes-unwanted-background-hue/"><u>Avoidance and Correction of YouTube's Unwanted Background Hue</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exposing-bad-behavior-xbox-player-grievance-procedure/"><u>Exposing Bad Behavior: Xbox Player Grievance Procedure</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-windows-oculus-compatibility-issues/"><u>Fixing Windows-Oculus Compatibility Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boy-rediscovered-a-terminal-play-guide/"><u>Game Boy Rediscovered: A Terminal Play Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-in-diagnosis-navigating-through-windows-error-messages-with-command-line-skills/"><u>Precision in Diagnosis: Navigating Through Windows Error Messages with Command Line Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-device-sharing-implementing-barriers-for-pc-and-steam-deck-integration/"><u>Safeguarding Device Sharing: Implementing Barriers for PC & Steam Deck Integration</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
 </ul></div>
 

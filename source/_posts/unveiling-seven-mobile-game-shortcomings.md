@@ -1,7 +1,7 @@
 ---
 title: Unveiling Seven Mobile Game Shortcomings
-date: 2024-08-08T09:13:56.307Z
-updated: 2024-08-09T09:13:56.307Z
+date: 2025-01-28T17:00:26.375Z
+updated: 2025-01-30T18:12:06.897Z
 tags:
   - games
 categories:
@@ -40,11 +40,19 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
 ![App Store closeup on iPhone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/App-Store-closeup-on-iPhone-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This means if you're a game developer—especially a new one—the chances of your game succeeding are very low. Forget standing out from the sea of apps. It's a miracle if you even get discovered. And app stores do little to help new developers get seen.
 
  When searching for an app, most people just pick one from the items at the top of the list. And because of this, winners keep winning and losers keep losing.
 
  There is no real incentive for app stores to support developers other than the ones who are earning them the most revenue. This discourages new developers from taking on the risk of creating better mobile games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Low Consumer Expectations
 
@@ -52,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
  Gamers don't even expect mobile games to be good, so it does not surprise them when the games turn out to be bad.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![person sitting at desk wearing headphones playing online games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/person_online_gaming.jpg)
 
  Mobile gaming is seen as an expendable source of entertainment—something that you can trade away easily for something else. So naturally, users don't bother complaining when a mobile game is bad. In other words, there is no real feedback mechanism.
@@ -65,23 +70,18 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
  As cruel as some negative reviews can be, they are helpful for spotting errors. For mobile games, that level of passion and commitment simply doesn't exist.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Poor Touchscreen Controls
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unless you buy a dedicated gaming phone with shoulder buttons (such as the[Black Shark 4 we reviewed](https://www.makeuseof.com/black-shark-4-review/) ), regular smartphones simply can't compete with the likes of a console controller. All the controls of a mobile game have to be crammed inside the very limited screen estate of the device.
 
  Given this limitation, those controls often end up being either painfully small or so big that they interrupt gameplay—leading to a poor gaming experience. To counter this, devs have to spend additional resources coming up with new ways to make the controls feel seamless.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Lack of Storage to Dedicate to Games
 
  Unlike consoles, smartphones don't just store games but also photos, videos, songs, movies, documents, apps, and more. So naturally, storage space is often an issue. Now, to be fair, we've already seen smartphones with 1TB of storage space, so this isn't as big a problem as the issues above.
@@ -101,13 +101,11 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
  So, this leaves them with only two options; either create poor games that everyone can download or create good games that only a few can download. It seems the former gets the upper hand in boardroom meetings.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Frequent In-Game Ads
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a man frustrated using his mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upset-young-african-man-reading-message-his-mobile-phone.jpg)
 
  Aside from microtransactions, mobile game developers also rely on in-game ads to earn money. This allows them to keep the game running and introduce new features such as maps, weapons, outfits, and other similar in-game items.
@@ -117,22 +115,20 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
  Granted, watching in-game ads is a good way to[support mobile game developers without buying in-game items](https://www.makeuseof.com/support-game-developers-without-microtransactions/) , but their frequency matters a lot especially if you're planning to play that game for a long time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mobile Gaming Could Be So Much More
 
  Mobile gaming has so much potential, and yet, we're exploiting so little of it. Compared to all the other advancements in the tech world, it's surprising how far behind mobile gaming still is when put side-by-side with console gaming.
 
  Out of all companies, Apple has the most to gain if mobile gaming booms given its obvious advantage over Android. And yet, low-immersion games like Candy Crush and Temple Run dominate the app stores. Many still treat mobile gaming as merely a way to pass time, not as an acclaimed hobby or profession.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,4 +137,19 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-obs-overpower-vs-streamlabs-supremacy/"><u>[Updated] 2024 Approved OBS Overpower Vs. Streamlabs Supremacy</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-fixes-for-elusive-steam-application-accessibility/"><u>Easy Fixes for Elusive Steam Application Accessibility</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-race-through-the-olympics-top-sections-2022/"><u>In 2024, Race Through the Olympics Top Sections, 2022</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-infinix-smart-8-plus-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Infinix Smart 8 Plus Android SIM Unlock APK</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-lava-yuva-3-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Lava Yuva 3 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://games-able.techidaily.com/infinite-options-universal-game-availability/"><u>Infinite Options: Universal Game Availability</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-audio-file-transformation-turn-your-m2ts-videos-into-mp3-on-macos/"><u>Mastering Audio File Transformation: Turn Your M2TS Videos Into MP3 on macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-fix-for-an-invisible-logging-window-on-win1011/"><u>Mastering the Fix for an Invisible Logging Window on WIN10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-feet-sweat-play-the-7-top-sports-games-iosandroid/"><u>Swift Feet, Sweat, Play: The 7 Top Sports Games (iOS/Android)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-color-harmony-explore-this-select-list-of-7-techniques/"><u>The Art of Color Harmony Explore This Select List of 7 Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gameplay-with-ea-plays-multitude-of-features-on-ps5-console/"><u>Transform Your Gameplay with EA Play's Multitude of Features on PS5 Console</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-skype-mic-not-working-heres-how-to-repair-it/"><u>Windows 11 Skype Mic Not Working? Here's How to Repair It</u></a></li>
+</ul></div>
 

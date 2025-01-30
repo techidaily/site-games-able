@@ -1,7 +1,7 @@
 ---
 title: Bridging Sony and Nintendo Joy-Cons Connection
-date: 2024-07-29T06:01:02.513Z
-updated: 2024-07-30T06:01:02.513Z
+date: 2025-01-23T17:44:18.474Z
+updated: 2025-01-30T17:00:52.526Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
  Thankfully, if you also own a PS4 or PS5, you can hook up one of those controllers to your Switch instead. We'll show you how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Connecting Your DualShock 4 or DualSense Controller
 
  Whether you're playing with a group of friends or just aren't a big fan of the Joy-Con controllers, it's worth considering playing your Switch games with a PlayStation Controller instead. It's always a crowd favorite and the DualSense can be customized in many ways, as seen in[our MegaModz PS5 controller review](https://www.makeuseof.com/megamodz-ps5-controller-review-mods-macros-customizable-designs/) .
@@ -26,48 +30,46 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
 ![Close up of 8BitDo Wireless Adapter 2 box and component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-box-and-component.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll need a few things before you start, including a PlayStation Controller and a Bluetooth adapter. The latter can be picked up online cheaply and will be essential to the process; we recommend the[8Bitdo Wireless USB Adapter 2](https://www.amazon.com/8Bitdo-Raspberry-Compatible-Controller-Bluetooth/dp/B09M8CVMYF?th=1&linkCode=ll1&tag=muo-v2-7ejka4c-20&linkId=863c4d00a0d38154b6d8bfec201770d5&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2011626&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fhow-to-connect-ps4-ps5-controller-to-nintendo-switch%2F&asc%5Fcampaign=Evergreen) . The process for both DualShock 4 and DualSense controllers is essentially the same.
 
  It is a good idea to ensure your PlayStation is unplugged or out of range for this process to avoid the PlayStation controller connecting to your other consoles.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## How to Connect a PS4 or PS5 Controller to Your Switch
 
  For the first step, you must ensure that your Nintendo Switch is docked and turned on, and then plug in the wireless USB adapter to one of the USB slots on the left side of the dock. Next, you must navigate to the**System Settings** on the Switch’s main menu and select**Controllers and Sensors** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
 
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Close up of 8BitDo Wireless Adapter 2 pairing button-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-pairing-button-1.jpg)
 
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Things to Consider When Using PlayStation Controllers on Switch
 
  It is worth noting that your PlayStation controllers will not work exactly as they, or your Joy-Con controllers, would do under normal circumstances.
@@ -88,14 +90,11 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
  Of course, if it’s the size or shape of the Joy-Con that is the issue, there are plenty of other Switch controllers to consider using instead. But if you've got a DualShock 4 or DualSense to use, it's worth a try before splashing out for a new controller.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +103,24 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mastery-over-cloud-expenses-cheapest-options-showcased/"><u>[New] Mastery Over Cloud Expenses Cheapest Options Showcased</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-skyline-pixel-boost-pro-windowsmac-suite/"><u>[Updated] 2024 Approved Skyline Pixel Boost Pro Windows/Mac Suite</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ideal-techniques-for-noiseless-recording-for-2024/"><u>[Updated] Ideal Techniques for Noiseless Recording for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-projector-or-tv-optimal-choice-for-excellent-4k-display-experience/"><u>2024 Approved Projector or TV Optimal Choice for Excellent 4K Display Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726226942134-2024-win11/"><u>2024 Win11上選的影片編輯器: 最新比較分析報告</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-solutions-to-fix-non-working-aol-email-applications-in-iphone-settings/"><u>6 Solutions to Fix Non-Working AOL Email Applications in iPhone Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-common-to-coveted-a-pokemon-shiny-tale-92/"><u>From Common to Coveted: A Pokémon Shiny Tale (92)</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-drivers-showdown-reflectors-vs-ratchets/"><u>Game Drivers Showdown: Reflectors Vs. Ratchets</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-canon-mf743cdw-printer-driver-for-windows-pcs-and-laptops/"><u>Get Canon MF743CDW Printer Driver for Windows PCs and Laptops</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-add-a-passcode-to-your-nintendo-switch/"><u>How to Add a Passcode to Your Nintendo Switch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-performance-with-top-tier-gaming-equipment/"><u>Maximize Performance with Top-Tier Gaming Equipment</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-nintendo-switch-gaming-on-mac/"><u>Navigating Nintendo Switch Gaming on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-tutorial-for-playnite-on-your-television/"><u>The Essential Tutorial for Playnite on Your Television</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-photo-framing-on-the-net-for-2024/"><u>The Ultimate Guide to Photo Framing on the Net for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-gaming-titles-asus-rog-versus-tuf-and-others/"><u>Understanding Gaming Titles: Asus ROG Versus TUF and Others</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-potential-adding-windows-to-your-steam-deck/"><u>Unlock Potential: Adding Windows to Your Steam Deck</u></a></li>
+</ul></div>
 

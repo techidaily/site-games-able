@@ -1,7 +1,7 @@
 ---
 title: Can You Reuse Your Older Games' Drives with the PS5?
-date: 2024-07-29T06:01:08.544Z
-updated: 2024-07-30T06:01:08.544Z
+date: 2025-01-29T17:18:58.065Z
+updated: 2025-01-30T17:56:02.339Z
 tags:
   - games
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
 ## Can You Reuse Your Older Games' Drives with the PS5?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Can I Play PS4 Games on My PS5?](#can-i-play-ps4-games-on-my-ps5)
@@ -21,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 * [What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?](#what-rsquo-s-the-difference-between-ps4-games-and-ps4-games-with-ps5-upgrades)
 * [Are the PS5 Upgrades Worth It?](#are-the-ps5-upgrades-worth-it)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The PS5 is backward compatible with most PS4 games and some offer free upgrades for PS5 enhancements. However, there are some exceptions.
@@ -43,20 +44,15 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
  One example of why this might be the case is if you purchased a PS3 game and then upgraded it to the PS4 version. These PS4 games won’t work on the PS5 because you still need the PS3 disc to play them. While PS4 discs do work on the PS5, PS3 ones don’t.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Play PS4 Games on My PS5?
 
  There are a couple of ways to play PS4 games on your PS5\. The first is by inserting and installing PS4 game discs into your PS5, and the second is by re-downloading your previously purchased digital PS4 titles.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Play PS4 Games on Your PS5 Using the Disc Drive
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
 
  charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
 ![Game Library Tab PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/game-library-tab-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Head to your**Games Library** by scrolling to the very right on your Home Screen and navigating to**Your Collection** . This is where you will find all the digital titles you have purchased through your PS Account.
 
  Go to the**Sort By icon** on the left, select**Platform** , and select**PS4** . That will allow you to isolate all the PS4 games in your collection. Scroll through the titles until you find your desired PS4 game and select it to re-download it onto your new console.
@@ -95,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
  If you would rather save your console's internal storage for PS5 games, you can also store and[play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?
 
  Some PS4 games come with free or discounted PS5 upgrades. This allows you to play the PS5 version of the game even though you technically only own the PS4 version. There are a couple of ways to check if a PS5 upgrade is available for your game.
@@ -108,29 +105,31 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
  If there is no box on the right offering a PS5 upgrade, this doesn’t mean there isn’t one available for your PS4 game. Sometimes, a game’s DLC or other offers are displayed there instead. To check if there is a PS5 upgrade available, select the**three dots** below the game title.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![PS5 Upgrade via Game Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-via-game-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there is an upgrade available, you will see an option labeled**Select Version** . Press that to bring up all versions of the game and select the**PS5 version** to start downloading it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PS5 Upgrade Choose Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-choose-version.jpg)
 
  These upgrades can cost money, so utilizing them is completely optional. You are more than welcome to simply play the PS4 version if you would prefer.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Are the PS5 Upgrades Worth It?
 
  If you are tempted by a PS5 upgrade but you're not sure if it's worth it, let's go over the benefits. Upgrading your PS4 game to the PS5 version not only gives the graphics a significant boost but also improves overall performance, allowing you to experience the game at a higher frame rate.
 
 ![PS4 and PS5 version of Marvel Spider Man Remastered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps4-and-ps5-version-of-marvel-spider-man-remastered.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although the graphics and lighting effects in the PS5 version of Marvel's Spider-Man Remastered are dramatically improved, the PS4 version already looks great.
 
@@ -138,14 +137,11 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
  Just because you’ve left your old PS4 console behind in preference for the new one, doesn’t mean you have to do the same with your game library. You can still enjoy your favorite games on the PS5, whether they are digital or disc versions. And with an upgrade, they will perform even better than they ever did on your PS4.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +150,26 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-new-to-telegram-heres-your-guide-to-getting-started-with-marketing/"><u>[New] 2024 Approved New to Telegram? Here's Your Guide to Getting Started with Marketing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-step-by-step-guide-to-efficient-and-effective-tag-usage-on-youtube/"><u>[New] 2024 Approved Step-by-Step Guide to Efficient and Effective Tag Usage on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-discover-prime-streaming-options-for-churches-today/"><u>[New] Discover Prime Streaming Options for Churches Today</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-practical-steps-for-smooth-recording-of-remote-workshops-on-windowsapple-systems/"><u>[Updated] In 2024, Practical Steps for Smooth Recording of Remote Workshops on Windows/Apple Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-wild-augmented-reality-journeys/"><u>Discover the Wild - Augmented Reality Journeys</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-and-update-lenovo-y900-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update Lenovo Y900 Drivers for Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/expert-guide-to-converting-m2t-files-into-popular-video-codes-like-mp4-and-avi-with-ease/"><u>Expert Guide to Converting M2T Files Into Popular Video Codes Like MP4 & AVI with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-narrative-excellence-with-ai-assistance/"><u>Game Narrative Excellence with AI Assistance</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-end-gaming-screens-at-peak-refresh-rates-240hz/"><u>High-End Gaming Screens at Peak Refresh Rates (240Hz)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-narzo-60-pro-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme Narzo 60 Pro 5G Without PUK Codes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-gt-10-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix GT 10 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-difficulties-in-monster-hunter-rise-a-comprehensive-guide/"><u>Overcoming Launch Difficulties in Monster Hunter Rise: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-market-dynamics-post-shortage/"><u>PlayStation 5 Market Dynamics Post-Shortage</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-and-quick-method-upgrade-or-copy-your-data-to-a-new-ssd-on-windows-11-with-leading-cloning-software/"><u>Simple and Quick Method: Upgrade or Copy Your Data to a New SSD on Windows 11 With Leading Cloning Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/slide-into-the-managerial-realm-winning-soccer-at-no-cost-windows/"><u>Slide Into the Managerial Realm: Winning Soccer at No Cost (Windows)</u></a></li>
+<li><a href="https://games-able.techidaily.com/text-quests-that-fill-up-the-browser-window/"><u>Text Quests That Fill Up the Browser Window</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-steam-decks-potential-a-comprehensive-guide-to-epic-and-gog-titles/"><u>Unleash Your Steam Deck's Potential: A Comprehensive Guide to Epic & GOG Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-offscreen-patterns-on-xbox-sx-a-4-step-guide/"><u>Unveiling Offscreen Patterns on Xbox S/X: A 4-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-xbox-360-slims-anatomy/"><u>Unveiling the Secrets of Xbox 360 Slim's Anatomy</u></a></li>
+</ul></div>
 

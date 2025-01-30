@@ -1,7 +1,7 @@
 ---
 title: The Cooling Cost of Graphics Gamble
-date: 2025-01-18T17:51:36.139Z
-updated: 2025-01-23T05:55:12.801Z
+date: 2025-01-23T16:21:14.677Z
+updated: 2025-01-30T17:58:59.690Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Increased Power Draw](#increased-power-draw)
@@ -29,12 +33,16 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  Overclocking lets you squeeze every last drop of performance that your graphics card has to offer. But is it worth all the effort and potential downsides? Well, not in my experience with my GeForce RTX 4090\. Let's discuss why.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Increased Power Draw
 
 ![MSI Afterburner and RTSS showing performance stats for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-and-rtss-showing-performance-stats-for-cyberpunk-2077.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Increased power draw is an inevitable side effect of overclocking, no matter how safely you[overclock your graphics card](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) . That's because to get more performance out of your graphics card, you need to provide it with more voltage in most cases.
 
@@ -43,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  When you raise the voltage or power limit slider in a[GPU overclocking tool](https://www.makeuseof.com/best-gpu-overclocking-tools/) like MSI Afterburner, your graphics card draws more power from the wall to give you that extra performance.
 
  In my experience with my RTX 4090, the energy consumption skyrocketed by 15-30 percent for a 2-5 percent boost in frame rate across various games. So, is overclocking worth the increased electricity costs? Not in my book.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Higher Operating Temperature
 
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  However, if your graphics card runs hot most of the time, expect a negative impact on its lifespan. Therefore, if you plan to keep your graphics card for several years, I highly recommend against overclocking it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Screen Flickering
@@ -70,16 +74,12 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  While there are several[ways to fix screen flickering on Windows](https://www.makeuseof.com/tag/fix-windows-10-screen-flashing-problem/) , the only way to resolve it after an overclock is by either raising your GPU voltage or reverting the clocks to their default values.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Occasional Crashes While Gaming
 
 ![Cyberpunk 2077 crash message on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyberpunk-2077-crash-message-on-windows.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Besides screen flickering, your favorite games may occasionally crash after you overclock your GPU. This issue is predominant in games that are GPU-intensive. Once again, this is a good sign that your overclock isn't stable.
@@ -105,22 +105,18 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elevate-views-not-video-length-expert-guide-to-yt-desc-templates/"><u>[New] In 2024, Elevate Views, Not Video Length Expert Guide to YT Desc Templates</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-sync-facebook-media-for-larger-display-views-for-2024/"><u>[Updated] Sync Facebook Media for Larger Display Views for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-barriers-with-excellent-job-interview-techniques/"><u>2024 Approved Breaking Barriers with Excellent Job Interview Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-key-cutting-strategies-in-modern-cinema/"><u>2024 Approved Key Cutting Strategies in Modern Cinema</u></a></li>
-<li><a href="https://games-able.techidaily.com/easily-reinstate-lost-licenses-on-ps5-console/"><u>Easily Reinstate Lost Licenses on PS5 Console</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-and-download-the-most-recent-acer-monitor-driver-today/"><u>Find & Download the Most Recent Acer Monitor Driver Today</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-ace-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus Ace 2 Phones with/without a PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-sd-card-with-steam-deck/"><u>Integrating SD Card with Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/international-xbox-shift-change-locale-and-zone/"><u>International Xbox Shift: Change Locale & Zone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/leading-no-cost-screen-capture-software-find-your-perfect-match/"><u>Leading No-Cost Screen Capture Software: Find Your Perfect Match!</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-your-gaming-environment-personalizing-the-xbox-game-bar-in-windows-systems/"><u>Master Your Gaming Environment: Personalizing the Xbox Game Bar in Windows Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-elgato-stream-decks-which-one-suits-you-best/"><u>Top Elgato Stream Decks: Which One Suits You Best?</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-hig-hdmi-gaming-mouse-experience/"><u>Ultimate HIG HDMI Gaming Mouse Experience</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-emeditor-issues-unraveling-regex-and-function-quirks/"><u>Understanding EmEditor Issues: Unraveling Regex and Function Quirks</u></a></li>
-<li><a href="https://games-able.techidaily.com/unmatched-5-reasons-older-handhelds-worth-buying-now/"><u>Unmatched 5 Reasons: Older Handhelds Worth Buying Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-headset-woes-3-key-steps-for-troubleshooting/"><u>Xbox Headset Woes? 3 Key Steps for Troubleshooting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-4k-screen-capturing-solutions/"><u>[New] Premium 4K Screen Capturing Solutions</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discords-premier-love-and-fun-sites/"><u>2024 Approved Discord's Premier Love and Fun Sites</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-nokia-xr21-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Nokia XR21</u></a></li>
+<li><a href="https://fox-that.techidaily.com/halt-double-notifications-disable-ipad-sounds-during-iphone-call-activation/"><u>Halt Double Notifications: Disable iPad Sounds During iPhone Call Activation</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2-and-its-impact-on-future-game-development/"><u>Helldivers 2 and Its Impact on Future Game Development</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205309142-how-to-correctly-align-a-laptop-display-no-more-inverted-screens/"><u>How to Correctly Align a Laptop Display: No More Inverted Screens!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ignite-the-passion-expand-on-the-fallout-series/"><u>Ignite the Passion: Expand on The Fallout Series</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-there-merit-to-in-game-purchases-in-premiums/"><u>Is There Merit to In-Game Purchases in Premiums?</u></a></li>
+<li><a href="https://games-able.techidaily.com/slam-dunk-the-best-ios-and-android-sports-gaming-hits/"><u>Slam Dunk! The Best iOS and Android Sports Gaming Hits</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-gameplay-efficiently-change-nintendo-switch-joy-con-joysticks/"><u>Transform Gameplay: Efficiently Change Nintendo Switch Joy-Con Joysticks</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unmissable-bargains-amazon-tech-deals-for-prime-shoppers-2024-edition/"><u>Unmissable Bargains: Amazon Tech Deals for Prime Shoppers, 2024 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-amd-rdna-35-and-when-will-it-launch/"><u>What Is AMD RDNA 3.5 and When Will It Launch?</u></a></li>
 </ul></div>
 

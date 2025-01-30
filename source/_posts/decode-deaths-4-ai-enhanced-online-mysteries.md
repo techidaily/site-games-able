@@ -1,7 +1,7 @@
 ---
 title: "Decode Deaths: 4 AI-Enhanced Online Mysteries"
-date: 2025-01-17T01:48:58.790Z
-updated: 2025-01-22T21:59:24.685Z
+date: 2025-01-23T16:08:43.780Z
+updated: 2025-01-30T17:50:50.685Z
 tags:
   - games
 categories:
@@ -23,13 +23,13 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1. Solve the Murders
 
 ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -40,12 +40,16 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2. Gron
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
  You play as Detective Samuel O'Connor, called to investigate the suspicious death of Elias Harrington, one of the wealthiest men in San Francisco. You'll need to move around in the game using the arrow keys and interact with characters or objects using the Spacebar. The game gives you no indication that a character or object is important, so it's all about using your detective skills.
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3. Mystery-o-Matic
 
@@ -71,13 +71,13 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4. Murdle
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
@@ -112,22 +112,22 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-composing-captivating-podcast-narratives/"><u>[New] Composing Captivating Podcast Narratives</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-quit-auto-capture-on-apples-recorder/"><u>[New] How To Quit Auto-Capture on Apple's Recorder</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-examining-the-income-stream-for-t-series-youtube-channel/"><u>[New] In 2024, Examining the Income Stream for T-Series YouTube Channel</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-thorough-examination-capturing-life-in-full-with-gear-360/"><u>[Updated] In 2024, Thorough Examination Capturing Life in Full with Gear 360</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-list-of-16-key-youtube-videos-for-higher-engagement-for-2024/"><u>[Updated] Ultimate List of 16 Key YouTube Videos for Higher Engagement for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-msstdfmtdll-couldnt-be-loaded-solutions-and-tips/"><u>Dealing with 'Msstdfmt.dll Couldn't Be Loaded': Solutions and Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-insights-setting-up-your-steam-launchers-for-maximum-fun/"><u>Exclusive Insights: Setting Up Your Steam Launchers for Maximum Fun</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-high-quality-audio-drivers-for-windows-computers/"><u>Find & Install High-Quality Audio Drivers for Windows Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-download-errors-for-age-of-empires-iv-on-microsoft-platforms/"><u>Fixing Download Errors for Age of Empires IV on Microsoft Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-one-piece-to-two-disassembling-the-xbox-360-slim/"><u>From One Piece to Two: Disassembling the Xbox 360 Slim</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-shield-clandestine-steam-placement/"><u>Game Shield: Clandestine Steam Placement</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-15-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 15 or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-there-game-continuity-between-ps3-and-ps4/"><u>Is There Game Continuity Between PS3 and PS4?</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-high-pixels-hdp-gaming-ergonomics/"><u>Premium High Pixels (HDP) Gaming Ergonomics</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-false-validation-of-debit-cards-on-playstation/"><u>Resolving False Validation of Debit Cards on PlayStation</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-your-ps4-gamepad-mastering-the-art-of-fixing-control-issues/"><u>Reviving Your Ps4 Gamepad: Mastering the Art of Fixing Control Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-your-gaming-best-steam-deck-accessory-options/"><u>Transforming Your Gaming: Best Steam Deck Accessory Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-of-slomo-video-capture-tool/"><u>[New] In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-making-words-dance-the-art-of-sculpted-photographic-content-for-2024/"><u>[New] Making Words Dance The Art of Sculpted Photographic Content for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-view-mov-movies-content-on-galaxy-a14-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Galaxy A14 4G</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-download-lenovo-thinkpad-t4nt430-drivers-compatible-with-multiple-windows-versions/"><u>Easy Download: Lenovo ThinkPad T4nT430 Drivers Compatible with Multiple Windows Versions</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-pass-overall-winner-yet-a-slight-drawback/"><u>Google Play Pass: Overall Winner, Yet a Slight Drawback</u></a></li>
+<li><a href="https://games-able.techidaily.com/harness-the-power-of-external-game-control-on-your-android-phonetablet/"><u>Harness the Power of External Game Control on Your Android Phone/Tablet</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-youtube-keeping-pause-mode-on-tips-for-disabling-continuous-playback-interruptions/"><u>How To Fix YouTube Keeping Pause Mode On: Tips for Disabling Continuous Playback Interruptions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-a58-4g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Oppo A58 4G Without PUK Codes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a1-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo A1 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/lost-the-bandwidth-restoring-winmc-lan-connectivity/"><u>Lost the Bandwidth: Restoring WinMC LAN Connectivity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/perfect-your-social-media-history-looking-back-mastery/"><u>Perfect Your Social Media History Looking Back Mastery</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-motorola-edge-40-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Motorola Edge 40 FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-steam-deck-cool-tech-companions/"><u>Ultimate Steam Deck Cool Tech Companions</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-uv-defense-gaming-shades/"><u>Ultimate UV Defense Gaming Shades</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-of-fsr-3-amd-takes-on-the-legacy-of-nvidias-dlss-35/"><u>Unveiling of FSR 3: AMD Takes on the Legacy of NVIDIA's DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-leading-144hz-monitors/"><u>Unveiling the Leading 144Hz Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-with-wins-achieve-higher-pc-gaming-fps/"><u>Winning with Wins: Achieve Higher PC Gaming FPS</u></a></li>
 </ul></div>
 

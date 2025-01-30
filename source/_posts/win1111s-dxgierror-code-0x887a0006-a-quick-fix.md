@@ -1,7 +1,7 @@
 ---
 title: "Win11/11's DXGI_ERROR (Code 0X887A0006): A Quick Fix"
-date: 2025-01-15T17:29:15.614Z
-updated: 2025-01-22T22:05:07.348Z
+date: 2025-01-23T17:56:31.201Z
+updated: 2025-01-30T17:28:15.979Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Set Affected Games to Run With Administrator Rights
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 
 7. Then try playing your affected game to see if this potential solution makes a difference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Select Debug Mode in the NVIDIA Control Panel
 
  Some players have fixed the 0x887A0006 error by selecting**Debug Mode** in the NVIDIA Control Panel. That option disables GPU (graphical processing unit) overclocking. If your PC has an NVIDIA graphics card, you can select the**Debug Mode** option as follows:
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 
  There’s a possibility that the 0x887A0006 error sometimes occurs because of corrupted game files. So, it’s recommended players verify affected games with their gaming clients. Epic Games, Steam, Origin, and Battle.net all include options for verifying (repairing) games. This is how you can verify affected games in the Epic Game and Steam launchers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Repair Games on Epic Games
 
 For Epic Games:
@@ -70,10 +70,6 @@ For Epic Games:
 5. Press the**Verify** button, and wait for the verification process to finish.  
 
 ![The Verify button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-verify-files-option-in-epic.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Repair Games on Steam
 
@@ -97,15 +93,19 @@ For Steam:
 ![The Select a program to customize drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-select-a-program-drop-down-menu.jpg)
 5. Select a game for which you need to fix the 0x887A0006 error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the**Select the preferred graphics processor** drop-down menu, and select the**High-performance NVIDIA processor** option.  
 ![The High-performance NVIDIA processor option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-high-performance-graphics-processor-option.jpg)
 7. Select**Apply** to save the new GPU settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your PC has an AMD graphics card, you’ll need to open the AMD Radeon Settings panel from the desktop’s context menu. Click the System tab in AMD Radeon Settings. Then click the**Switchable Graphics** tab, and select the**High Performance** GPU option for the affected game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Roll Back the Most Recent Graphics Driver Update
 
@@ -114,7 +114,7 @@ For Steam:
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Update Your GPU’s Driver
@@ -128,7 +128,7 @@ For Steam:
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable DirectX 12 in Any Affected Games
@@ -143,17 +143,9 @@ For Steam:
 ![The Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-settings-option1.jpg)
 4. Then click the game title for which 0x887A0006 arises.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select the**Additional Command Line Arguments** box.  
 ![The Additional Command Line Arguments checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-d3d11-command-line.jpg)
 6. Add**d3d11** in the text box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Switch to the High-Performance Power Plan
 
@@ -168,10 +160,6 @@ For Steam:
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-radio-button.jpg)
 5. Input a plan title in the name box and click**Next** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Create** to add the plan.
 7. Select the new high-performance plan in the Power Options Control Panel applet.
 
@@ -180,6 +168,10 @@ For Steam:
  Overclocking GPUs or CPUs (central processors) is one of the more common causes of error 0x887A0006\. Have you overclocked your PC with overclocking software like CPU Tweaker, AMD Ryzan Master, or MSI Afterburner in any way? If so, it’s recommended you disable (undo) any overclocking you’ve applied by restoring default system values with whatever overclock software you utilize.
 
  You can disable NVIDIA GPU overclocking with the method outlined for resolution two. However, that option won’t be available on PCs with AMD graphics cards. Nor will it be of any use for users who’ve overclocked CPUs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Edit the GraphicsDrivers Registry Key
 
@@ -192,23 +184,31 @@ For Steam:
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-dword-option.jpg)
 4. Type**TdrLevel** inside the DWORD’s text box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click**TdrLevel** to view a**Value data** box for that DWORD.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-edit-dword-value-box.jpg)
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
 
 7. Close the Regedit app, and then restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Reinstall the Game That's Crashing
 
 ![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can[back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 
  You might be able to uninstall an affected game via Programs and Features or Settings. If you can’t see a game listed there, however, you’ll need to uninstall the title within the gaming client software with which you installed it. Then select to install the game in your gaming client.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop the 0x887A0006 Error Spoiling Your Gaming Fun
 
@@ -229,22 +229,24 @@ For Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-decoding-youtubes-5-second-tales/"><u>[New] In 2024, Decoding YouTube's 5-Second Tales</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-cloaked-glance-at-social-media-snapshits/"><u>[Updated] Cloaked Glance at Social Media Snapshits</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-comprehensive-guide-capturing-webex-meetings-in-hd-the-ultimate-recording-tutorial/"><u>1. Comprehensive Guide: Capturing Webex Meetings in HD - The Ultimate Recording Tutorial</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>2024 Approved Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-steps-to-handle-windows-empty-directory-claims/"><u>Comprehensive Steps to Handle Windows' Empty Directory Claims</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-gameplay-using-an-external-hard-drive-via-steam/"><u>Elevate Gameplay: Using an External Hard Drive via Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-reviews-steam-deck-models/"><u>Expert Reviews: Steam Deck Models</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-rom-repository-with-terminal-tools/"><u>Exploring the ROM Repository with Terminal Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/keep-your-calls-anonymous-concealing-your-contact-info-in-android-settings/"><u>Keep Your Calls Anonymous: Concealing Your Contact Info in Android Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-streaming-prime-and-twitch-collaboration/"><u>Mastering Streaming: Prime & Twitch Collaboration</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-computex-pioneering-ai-technologies-revealed/"><u>New Computex: Pioneering AI Technologies Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unseen-value-of-consoles-at-30hz/"><u>The Unseen Value of Consoles at 30Hz</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-resolving-issues-with-your-iphones-wi-fi-hotspot-feature/"><u>Troubleshooting Guide: Resolving Issues with Your iPhone's Wi-Fi Hotspot Feature</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-240hz-gaming-screens-to-elevate-your-gameplay/"><u>Ultimate 240Hz Gaming Screens to Elevate Your Gameplay</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-an-uncensored-chatbot-building-your-own-gpt-like-conversational-agent-on-windows-with-freedomgpt/"><u>Unleashing an Uncensored Chatbot: Building Your Own GPT-Like Conversational Agent on Windows with FreedomGPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-secrets-to-never-crash-again-with-these-top-insights/"><u>Unlock the Secrets to Never Crash Again with These Top Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-inspire-your-recruitment-process-with-pioneering-tapes/"><u>[New] 2024 Approved Inspire Your Recruitment Process with Pioneering Tapes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-final-act-steps-for-permanent-instagram-account-removal/"><u>[New] In 2024, The Final Act Steps for Permanent Instagram Account Removal</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-budget-friendly-obs-configuration-guide/"><u>[Updated] Budget-Friendly OBS Configuration Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-constructive-cuts-streamlined-approaches-for-length-adjustments-on-vimeo/"><u>[Updated] In 2024, Constructive Cuts Streamlined Approaches for Length Adjustments on Vimeo</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-high-seas-of-soundtracking-leading-destinations-for-hearing-heroes-tts-downloads/"><u>[Updated] In 2024, High Seas of Soundtracking Leading Destinations for Hearing Heroes' TTS Downloads</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-decode-the-digital-dollar-with-youtube-an-effective-triple-step-method-for-income-analysis/"><u>2024 Approved Decode the Digital Dollar with YouTube An Effective Triple Step Method for Income Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/auditory-acumen-top-mobile-trivia-applications-in-sound/"><u>Auditory Acumen: Top Mobile Trivia Applications in Sound</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ban-lifted-apple-watch-series-9-and-ultra-returns-to-market-amidst-judicial-hiatus/"><u>Ban Lifted: Apple Watch Series 9 & Ultra Returns to Market Amidst Judicial Hiatus</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-creativity-with-these-7-linux-terminal-games/"><u>Boost Creativity with These 7 Linux Terminal Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-steam-big-picture-features/"><u>Exploring the Steam Big Picture Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-multiplayer-console-titles-best-16-for-game-nights/"><u>Ideal Multiplayer Console Titles - Best 16 for Game Nights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterful-iphone-images-through-strategic-leading-lines/"><u>Masterful iPhone Images Through Strategic Leading Lines</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-no-more-jitters-the-top-free-online-video-stabilizers-for-smoother-videos/"><u>New In 2024, No More Jitters The Top Free Online Video Stabilizers for Smoother Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-tech-for-gamers-achieve-new-heights/"><u>Quality Tech for Gamers: Achieve New Heights</u></a></li>
+<li><a href="https://games-able.techidaily.com/questionable-quality-why-portable-gaming-isnt-all-it-seems/"><u>Questionable Quality: Why Portable Gaming Isn't All It Seems</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-intricacies-of-metagame-definition-importance-and-obedience/"><u>The Intricacies of Metagame: Definition, Importance & Obedience</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ea-play-titles-to-master-on-ps5/"><u>Top EA Play Titles to Master on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-console-or-computer-playing-style-duel/"><u>Ultimate Console or Computer? Playing Style Duel</u></a></li>
 </ul></div>
 

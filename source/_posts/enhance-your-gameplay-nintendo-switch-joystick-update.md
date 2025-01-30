@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Gameplay: Nintendo Switch Joystick Update"
-date: 2024-08-08T09:16:46.476Z
-updated: 2024-08-09T09:16:46.476Z
+date: 2025-01-26T16:35:53.803Z
+updated: 2025-01-30T16:06:44.113Z
 tags:
   - games
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
 ![Close up of Nintendo Switch Pikachu and Eevee Joy Cons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Close-up-of-Nintendo-Switch-Pikachu-and-Eeve-joy-cons.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to[fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
 
  You can also[send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
@@ -33,16 +37,18 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Do I Need to Replace the Joysticks in My Nintendo Switch Joy-Con?
 
  There are a couple of tools you will require to complete the task at hand. These can all be purchased individually or in sets from sites like eBay or Amazon for just a couple of dollars each.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Tools For Replacing Joy Con Joystick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/tools-for-replacing-joy-con-joystick.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * 1.5mm tri-wing screwdriver.
 * 2.0mm Phillips head screwdriver.
@@ -66,18 +72,21 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 5. Remove the three screws holding the center plate down with the 2.0mm Phillips head screwdriver. You only have to remove the top left, bottom right, and bottom right corner screws.  
 ![Joy Con Three Middle Plate Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-three-middle-plate-screws-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Remove the ribbon cable holding the center plate on by gently lifting the flap and pulling it out.
 2. Gently unplug the blue ribbon cable near the joystick.
 3. Unplug the ribbon cable that runs over the top of the joystick.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Joystick Ribbon Cables in Joy Con](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joystick-ribbon-cables-in-joy-con-1.jpg)
 4. Grab your 2.0mm Phillips head screwdriver and remove the two screws holding the joystick in place. Gently wiggle the joystick until it releases and place it to the side.
-5. Take your new joystick and place it in position, then reinstall the two screws you just removed with your 2.0mm Phillips head screwdriver.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Take your new joystick and place it in position, then reinstall the two screws you just removed with your 2.0mm Phillips head screwdriver.  
 ![Joy Con Joystick Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-joystick-screws.jpg)
 
 1. Start plugging the ribbon cables back in by taking your needle nose tweezers and gently slotting them back in place. Flick the tabs down over the top to lock them in position.
@@ -85,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 ![ZL Ribbon Cable Reassembly Joy Con](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/zl-ribbon-cable-reassembly-joy-con-1.jpg)
 3. Sit the center plate back in place and screw the three screws back into position with the 2.0mm Phillips head screwdriver.
 4. Plug your battery back in by lining the plug up and pushing it down with a plastic tool.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Joy Con Battery Plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-battery-plug.jpg)
 5. Place the backplate on and screw the four screws back in using the 1.5mm tri-wing screwdriver.
 
@@ -97,23 +103,17 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
  As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Say Goodbye to Joy-Con Drift Forever With This Guide
 
  Once you’ve followed this guide a couple of times, you will be replacing joysticks left, right, and center for yourself and your loved ones who also struggle with Joy-Con drift.
 
  Taking advantage of Nintendo’s free repair service to fix your Joy-Con is definitely the best option if you aren’t familiar with taking apart electronics, but if you have a particularly special pair of Joy-Con and you don’t want to lose them, this is a brilliant way to level up your skill set and your Joy-Con at the same time.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +122,21 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-premier-eco-friendly-camera-systems-for-filmmakers/"><u>[New] In 2024, Premier Eco-Friendly Camera Systems for Filmmakers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-budget-drone-options-that-dont-sacrifice-quality-for-2024/"><u>[Updated] Budget Drone Options That Don't Sacrifice Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-all-you-need-to-know-about-the-youtube-shorts-fund/"><u>[Updated] In 2024, All You Need to Know About the YouTube Shorts Fund</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlined-method-windows-clown-fish-audio-tweaker/"><u>[Updated] Streamlined Method Windows Clown Fish Audio Tweaker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-iphone-x-a-complete-animoji-guide-for-proficient-users/"><u>2024 Approved IPhone X A Complete Animoji Guide for Proficient Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/controlling-xbox-game-bar-on-pc-turning-off-and-setting-limits/"><u>Controlling Xbox Game Bar on PC: Turning Off & Setting Limits</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-proof-pc-gamepads-ranked/"><u>Future-Proof PC Gamepads Ranked</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/improved-terms-and-conditions-declaration/"><u>Improved Terms & Conditions Declaration</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-dualsense-compatible-with-legacy-ps4s/"><u>Is DualSense Compatible With Legacy PS4s?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinpointing-where-virtual-screenshots-are-kept/"><u>Pinpointing Where Virtual Screenshots Are Kept</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rise-and-shine-naturally-unboxing-the-heimvision-a80s-sunrise-light-therapy-clock/"><u>Rise and Shine Naturally: Unboxing the HeimVision A80S Sunrise Light Therapy Clock</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-system-core-pc-upgrades-guide/"><u>Streamline Your System: Core PC Upgrades Guide</u></a></li>
+<li><a href="https://solve-news.techidaily.com/tiffbmp/"><u>TIFF/BMP 사이의 쉽고 무료 전환 해제: 모바비 도구를 사용한 최상위 기술!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unpacking-the-sequencing-of-a-20mb-file-for-2024/"><u>Unpacking the Sequencing of a 20MB File for 2024</u></a></li>
+</ul></div>
 

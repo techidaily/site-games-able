@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Commander’s Compendium: Top 11 WW2 Games"
-date: 2025-01-18T18:39:20.683Z
-updated: 2025-01-23T06:35:11.929Z
+date: 2025-01-27T18:09:07.833Z
+updated: 2025-01-30T18:33:01.380Z
 tags:
   - games
 categories:
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  On top of all that, the game looks great. So much attention has been paid to the vehicles and environments that you'll feel totally immersed in the World War II experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3. Hearts of Iron IV
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  This is a complex game, and it requires a monumental amount of strategic thinking. If you want to see what World War II must have looked from the highest level of command, this is the game for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4. Order of Battle: World War II
 
  Order of Battle: World War II may seem like a free-to-play game, but you actually buy each campaign individually. It's very expensive if you buy them all, so instead it's better to pick and choose from those that interest you the most.
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  If you like traditional turn-based hex gameplay, this is the game for you. It's easy to pick up, but packs a lot of depth, and has some nice animations and effects to keep things interesting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5. Panzer Corps 2
@@ -70,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  According to the developers, no other game has as many authentic World War II vehicles. There are over 1,000 unique units, each modeled with incredible detail and realistic animations. You can take charge of them in the single-player campaign or online.
 
  Once you're done with the game's main content, you can use the powerful scenario editor to build your own campaigns and maps with ease. Panzer Corps 2 is so deep that you may never need to buy another WW2 game again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6. Codename: Panzers
 
@@ -91,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  Beyond combat, you also manage production, supply lines, weather, and fog of war effects. This is a complicated, challenging strategy game that you can sink hundreds of hours into.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8. Men of War: Assault Squad 2
 
  If you're looking for a WW2 strategy game that has a lot to offer, you can't go wrong with Assault Squad 2\. It's a top-down real-time strategy game that lets you control every unit in your squad. 200 soldiers with unique loadouts, 250 vehicles, and five different factions make for a huge amount of variety.
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  If you're looking for a console-based WW2 strategy experience, Sudden Strike 4 is the way to go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10. Unity of Command II
 
  If you only decide to buy one WW2 strategy game, you can't go wrong with Unity of Command II. It's a follow-up to the 2011 cult classic, putting you in command of the Western Allies as you manage their supply and logistics.
@@ -119,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  There's also a scenario editor with Steam Workshop support, so you can build your own campaigns and download other people's with ease.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11. Close Combat
 
  The Close Combat series began in 1996 and still exists to this day as a mixture of remakes and originals. It's a top-down strategy series that puts the focus on realism. Your troops have changing mental and physical conditions, you need to scavenge for ammunition, and a troop's experience on the battlefield impacts how they react to a situation.
@@ -126,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Each game in the Close Combat series focuses on a different, real-life key event from WWII, with grand campaigns playing out on large maps, so choose the one which interests you the most. 2019's Close Combat: The Bloody First was the first 3D entry, though reviews for that are mixed.
 
  Don't let the old-school graphics put you off; it's the gameplay that matters. This is an immersive strategy game series that will suck you in for hours.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You Can Also Play Strategy Games in Your Browser
 
@@ -152,22 +152,20 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-monetizing-on-youtube-can-you-earn-monthly/"><u>[New] In 2024, Monetizing on YouTube Can You Earn Monthly?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sky-high-insights-comprehensive-phantom-4-breakdown/"><u>[New] Sky-High Insights Comprehensive Phantom 4 Breakdown</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-sustainable-filmmaking-aids-at-no-charge/"><u>[Updated] Sustainable Filmmaking Aids at No Charge</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-wall-socket-to-full-battery-a-step-by-step-manual-for-personal-ev-chargers/"><u>From Wall Socket to Full Battery: A Step-by-Step Manual for Personal EV Chargers</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-renaissance-classic-nintendo-roms-for-iphone/"><u>Gaming Renaissance: Classic Nintendo ROMs for iPhone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/high-ranking-12-cameras-onboard-gps-for-motion-capture/"><u>High-Ranking 12 Cameras Onboard GPS for Motion Capture</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-two-player-minecraft-on-the-nintendo-switch/"><u>How to Play Two-Player Minecraft on the Nintendo Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-unveils-top-screen-technology/"><u>IFA 2023 Unveils Top Screen Technology</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-back-in-time-best-rated-ps3-game-emulators-for-a-blissful-gaming-experience-on-pc/"><u>Journey Back in Time: Best-Rated PS3 Game Emulators for a Blissful Gaming Experience on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-two-worlds-on-your-steam-deck-device/"><u>Navigating Two Worlds on Your Steam Deck Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/offline-odyssey-finding-joy-in-mobile-gaming-without-the-web/"><u>Offline Odyssey: Finding Joy In Mobile Gaming Without the Web</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/rescue-your-sigma-shots-expert-tips-for-recovering-accidentally-deleted-photos-and-videos/"><u>Rescue Your Sigma Shots: Expert Tips for Recovering Accidentally Deleted Photos and Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/streamline-your-workflow-intel-thunderbolt-driver-installation-made-simple/"><u>Streamline Your Workflow: Intel Thunderbolt Driver Installation Made Simple</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unrealistic-expectations-for-gamefis-success/"><u>The Unrealistic Expectations for GameFi’s Success</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-4-ios-emulation-apps-enhance-gaming-experience/"><u>Top 4 iOS Emulation Apps: Enhance Gaming Experience</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-se-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone SE Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-viral-video-vanguard-youtubes-1-24-hours-list/"><u>[New] 2024 Approved Viral Video Vanguard YouTube's #1 24 Hours List</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/"><u>[Updated] 2024 Approved The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-quickening-instagram-video-streams-on-mobile-devices/"><u>[Updated] In 2024, Quickening Instagram Video Streams on Mobile Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-standout-emulator-options-for-mac-users/"><u>5 Standout Emulator Options for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-experience-series-x-vs-custom-pc/"><u>Gameplay Experience: Series X Vs. Custom PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-firmware-lasting-sound-quality/"><u>Instant Firmware, Lasting Sound Quality</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173155093-my-2-years-in-high-definition-with-an-oled-monitor/"><u>My 2 Years in High Definition with an OLED Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-itchios-best-indie-game-finds/"><u>Navigating Itch.io's Best Indie Game Finds</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-with-new-york-times-connections/"><u>Playing with New York Times Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-re-activating-stalled-asana-windows-integration/"><u>Strategies for Re-Activating Stalled Asana Windows Integration</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/960676-9781780997360-the-patient-in-room-nine-says-hes-god/"><u>The Patient in Room Nine Says He's God | Free Book</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/trailblaze-your-way-to-success-insights-on-youtube-metrics-with-social-blade/"><u>Trailblaze Your Way to Success Insights on YouTube Metrics with Social Blade</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-consoles-potential-with-these-wi-fi-tips/"><u>Unlock Your Console's Potential with These Wi-Fi Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451904807-unveiling-the-must-have-features-in-ios-153-why-upgrading-is-imperative-right-now/"><u>Unveiling the Must-Have Features in iOS 15.3: Why Upgrading Is Imperative Right Now</u></a></li>
 </ul></div>
 

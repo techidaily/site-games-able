@@ -1,7 +1,7 @@
 ---
 title: Excellence at MWC 2024 Unveiled by MakeUseOf
-date: 2025-01-21T16:27:55.893Z
-updated: 2025-01-23T06:46:03.839Z
+date: 2025-01-25T17:49:18.537Z
+updated: 2025-01-30T16:31:29.112Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  I've been roaming the floor at Mobile World Congress 2024, checking out the latest smartphones, laptops, and more; some of these products are available to buy immediately, and some are just concepts that might turn into proper products later.
 
  Either way, they've all made MakeUseOf's Best of MWC 2024 list—in no particular order.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Tecno Megabook T16 Pro
 
@@ -86,13 +78,13 @@ Close
 
  Finally, Honor's second-generation silicon-carbon battery allows it to pack in a whopping 5,600mAh while keeping the Magic 6 Pro's design slim and sleek; it's a great bit of kit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Motorola Adaptive Display Concept
 
 ![motorola adaptive display concept smartphone with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/motorola-adaptive-display-concept-smartphone-with-muo-mwc-2024-award.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -101,6 +93,10 @@ Close
  Whether this ultra-flexy smartphone ever becomes a real-world product is here nor there; the tech behind it is cool, and there is something futuristic about strapping your smartphone around your wrist.
 
  The concept smartphone features a 6.9-inch pOLED screen. Most interestingly, the battery and other components are built in multiple segments to help the device achieve its bendiness.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Tecno Camon 30 Premier 5G
 
@@ -120,9 +116,17 @@ Close
 
  It also includes a substantial 5,000mAh battery and supports 70W fast charging.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. ZTE Nubia Flip 5G
 
 ![zte nubia flip 5g smartphone on stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-flip-5g-smartphone-on-stand.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -136,13 +140,13 @@ Close
 
  The budget flip-phone market is heating up, with strong entries like the ZTE Nubia Flip 5G and Tecno Phantom V Flip 5G battling it out with the Motorola Razr.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Ayaneo Pocket S
 
 ![ayaneo pocket s on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/ayaneo-pocket-s-on-stand-at-mwc-2024.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -172,16 +176,12 @@ Close
 
  Like Honor, Xiaomi has also made the jump to a new silicon carbon cell battery, which delivers greater power density. The Xiaomi 14 Ultra has a 5,300mAh battery, along with 90W wired fast charging and 80W wireless charging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Honor MagicBook Pro 16
 
 ![honor magicbook pro 16 at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magicbook-pro-16-at-mwc-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
@@ -196,13 +196,13 @@ Close
 
  Furthermore, the MagicBook Pro 16 comes equipped with an Nvidia RTX 4060 GPU, which is plenty powerful, and a 75Wh battery, which Honor says should last up to ten hours (usage dependant).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Tecno Phantom Ultimate Concept
 
 ![tecno phantom ultimate concept smartphone in hand closed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-phantom-ultimate-concept-smartphone-in-hand-closed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -212,13 +212,13 @@ Close
 
  It's also decently slimline, measuring 9.93mm thickness, and feels good in your hand. The extra tech for the sliding mechanism doesn't add much to its weight at all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. ZTE Nubia Pad 3D II
 
 ![zte nubia 3d pad II on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-3d-pad-ii-on-stand-at-mwc-2024.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -244,13 +244,13 @@ Close
 
  The Samsung Galaxy Ring also looks smart, eschewing the matte option delivered by other smart ring options in favor of a shiny metal finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 12\. Lenovo ThinkBook Transparent Concept
 
 ![lenovo transparent laptop concept mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/lenovo-transparent-laptop-concept-mwc-2024.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -277,21 +277,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quick-tips-capturing-overwatch-matches/"><u>[Updated] 2024 Approved Quick Tips Capturing Overwatch Matches</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-iphone-selfies-naturally-10-best-no-cost-enhancing-apps/"><u>[Updated] Master iPhone Selfies Naturally 10 Best No-Cost Enhancing Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-principles-of-paradoxical-intervention-for-2024/"><u>[Updated] Principles of Paradoxical Intervention for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-ultimate-gaming-duo-on-mobile-top-15/"><u>Discover the Ultimate Gaming Duo on Mobile (Top 15)</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-gaming-on-xbox-without-the-d-pad/"><u>Effortless Gaming on Xbox Without the D-Pad</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-high-definition-playback-software-compatible-with-windows-and-macos-enhanced-with-4k-hdr-support/"><u>Free High Definition Playback Software: Compatible with Windows and macOS, Enhanced with 4K HDR Support!</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-game-to-play-streamlining-your-steam-deck-launchers/"><u>From Game to Play: Streamlining Your Steam Deck Launchers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-do-we-experience-realities-in-a-virtual-sense/"><u>How Do We Experience Realities in a Virtual Sense?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-iphone-photo-wizards-perfecting-silhouette-art/"><u>In 2024, IPhone Photo Wizards Perfecting Silhouette Art</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12t-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12T Pro Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-disruption-fixes-for-noisy-xbox-controller/"><u>Overcoming Disruption: Fixes for Noisy Xbox Controller</u></a></li>
-<li><a href="https://article-files.techidaily.com/punpixel-the-ultimate-tool-for-digital-humor/"><u>PunPixel The Ultimate Tool for Digital Humor</u></a></li>
-<li><a href="https://games-able.techidaily.com/reality-or-review-diving-into-gaming-score-skepticism/"><u>Reality or Review? Diving Into Gaming Score Skepticism</u></a></li>
-<li><a href="https://games-able.techidaily.com/seven-verbal-virtuoso-showdowns-for-chat-champions/"><u>Seven Verbal Virtuoso Showdowns for Chat Champions</u></a></li>
-<li><a href="https://games-able.techidaily.com/should-your-system-jump-on-nvidias-new-rtx-trend/"><u>Should Your System Jump on Nvidia's New RTX Trend?</u></a></li>
-<li><a href="https://win-webster.techidaily.com/verify-your-graphics-card-performance-expert-tips-yl-computing-solutions/"><u>Verify Your Graphics Card Performance: Expert Tips - YL Computing Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-can-you-challenge-facebooks-video-copyright-holdouts-for-2024/"><u>[Updated] Can You Challenge Facebook’s Video Copyright Holdouts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-lullaby-labyrinths-best-vocalists-for-sleep-aid/"><u>[Updated] Lullaby Labyrinths Best Vocalists For Sleep Aid</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-ps5-space-odyssey-secure-marvels-limited-spidey/"><u>Conquer PS5 Space Odyssey - Secure Marvel's Limited Spidey</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-the-game-world-grab-lenovos-powerhouse-legion-slim-5-rtx-4060-gpu-at-an-unbeatable-price-of-899/"><u>Dive Into the Game World: Grab Lenovo's Powerhouse Legion Slim 5, RTX 4060 GPU at an Unbeatable Price of $899</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-change-regions-on-your-nintendo-switch/"><u>How to Change Regions on Your Nintendo Switch</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-effortless-gameplay-preservation-for-overwatch/"><u>In 2024, Effortless Gameplay Preservation for Overwatch</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-f14-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy F14 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-a59-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo A59 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/online-games-unfolding-a-look-at-the-transformation/"><u>Online Games Unfolding: A Look at the Transformation</u></a></li>
+<li><a href="https://games-able.techidaily.com/procedural-patterns-shaping-video-game-universes/"><u>Procedural Patterns: Shaping Video Game Universes</u></a></li>
+<li><a href="https://games-able.techidaily.com/sparkle-science-keeping-your-ps5-spotless/"><u>Sparkle Science: Keeping Your PS5 Spotless</u></a></li>
 </ul></div>
 

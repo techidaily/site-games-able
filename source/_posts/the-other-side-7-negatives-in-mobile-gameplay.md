@@ -1,7 +1,7 @@
 ---
 title: "The Other Side: 7 Negatives in Mobile Gameplay"
-date: 2025-01-15T00:21:38.397Z
-updated: 2025-01-16T17:53:01.254Z
+date: 2025-01-25T17:43:41.368Z
+updated: 2025-01-30T17:51:35.099Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 ![A screenshot of Google Play Store home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Google-play-store-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  People just don't like to pay for mobile games, and the rare ones that actually do, pay mostly via in-app purchases and microtransactions. So, it forces game developers to either conform to that model or stick with console gaming.
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
  Now, we're not saying the freemium model isn't profitable. In fact, according to[Business Insider](https://www.businessinsider.in/tech/news/pubg-mobile-was-the-top-grossing-game-globally-in-november-2021/articleshow/88201430.cms) , PUBG Mobile earned nearly $254 million in player spending in November 2021 alone.
 
  But the problem with the freemium model is that it's not suitable for making big-budget console-level games. It's too risky for developers to invest so much time and money creating a high-end mobile game, in the vain hope that people might pay for it later... after playing it for free.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. App Store Algorithms Only Favor Top Charts
 
@@ -58,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
  When searching for an app, most people just pick one from the items at the top of the list. And because of this, winners keep winning and losers keep losing.
 
  There is no real incentive for app stores to support developers other than the ones who are earning them the most revenue. This discourages new developers from taking on the risk of creating better mobile games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Low Consumer Expectations
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 ![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unless you buy a dedicated gaming phone with shoulder buttons (such as the[Black Shark 4 we reviewed](https://www.makeuseof.com/black-shark-4-review/) ), regular smartphones simply can't compete with the likes of a console controller. All the controls of a mobile game have to be crammed inside the very limited screen estate of the device.
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 ![how to use share play on ps5 playstation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/how-to-use-share-play-on-ps5-playstation-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unlike standardized consoles such as PlayStation and Xbox, smartphones come in all shapes, sizes, and configurations. This is true even more so for Android phones than iPhones.
@@ -109,13 +109,13 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
  So, this leaves them with only two options; either create poor games that everyone can download or create good games that only a few can download. It seems the former gets the upper hand in boardroom meetings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Frequent In-Game Ads
 
 ![a man frustrated using his mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upset-young-african-man-reading-message-his-mobile-phone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Aside from microtransactions, mobile game developers also rely on in-game ads to earn money. This allows them to keep the game running and introduce new features such as maps, weapons, outfits, and other similar in-game items.
 
@@ -144,20 +144,16 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-optimal-tactics-for-saving-android-interactions-for-2024/"><u>[New] Optimal Tactics for Saving Android Interactions for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-mastering-podcast-submission-googles-steps-for-2024/"><u>[Updated] Mastering Podcast Submission Google's Steps for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-master-class-top-online-aids-for-improving-media-captions-quality/"><u>2024 Approved Master Class Top Online Aids for Improving Media Captions' Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-workflow-with-auto-moves-the-w11-way/"><u>Accelerate Workflow with Auto-Moves: The W11 Way</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-driver-update-secure-compatible-software-for-windows-7-users/"><u>AMD Radeon Driver Update: Secure Compatible Software for Windows 7 Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/double-trouble-delight-top-15-two-player-phone-games/"><u>Double Trouble Delight: Top 15 Two-Player Phone Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/free-fun-awaits-in-these-6-games/"><u>Free Fun Awaits in These 6 Games</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-laptop-with-xbox-series-xs-a-step-by-step-guide/"><u>Integrating Laptop with Xbox Series X|S: A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-itchio-for-exceptional-gaming/"><u>Mastering Itch.io for Exceptional Gaming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-chatgpts-moderation-errors-effective-strategies-and-solutions/"><u>Overcoming ChatGPT's Moderation Errors: Effective Strategies and Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/renaissance-of-old-gaming-pcs-through-atlasos/"><u>Renaissance of Old Gaming PCs Through AtlasOS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-countdown-best-zombie-games-ranked-for-2024/"><u>The Ultimate Countdown Best Zombie Games Ranked for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-the-18-most-popular-emoji-apps-for-iphones-and-android-phones/"><u>The Ultimate List of the 18 Most Popular Emoji Apps for iPhones and Android Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-i-questioned-the-value-of-a-2500-card/"><u>Why I Questioned the Value of a $2,500 Card</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-using-tiktok-on-mac-and-windows/"><u>[Updated] In 2024, The Ultimate Guide to Using TikTok on Mac & Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-maximize-engagement-selective-rank-tracker-utilities-revealed/"><u>2024 Approved Maximize Engagement Selective Rank Tracker Utilities Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-premier-notebooks-showcased-at-ces-2024-according-to-zdnets-analysis/"><u>Discover the Premier Notebooks Showcased at CES 2024, According to ZDNet's Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-htc-device-sim-by-drfone-android/"><u>Easily Unlock Your HTC Device SIM</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-core-duel-nvidia-intel-or-amd/"><u>Gaming Core Duel: Nvidia, Intel or AMD?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/italys-swift-action-immediate-suspension-of-chatgpt-usage/"><u>Italy's Swift Action: Immediate Suspension of ChatGPT Usage</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211684915-keyboard-issues-fix-inactive-letters-on-your-win-10-or-win-11-system-today/"><u>Keyboard Issues? Fix Inactive Letters on Your Win 10 or Win 11 System Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/platform-choices-and-add-ons-for-bg3-players/"><u>Platform Choices and Add-Ons for BG3 Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-power-supplies-s-ps5-dualsense/"><u>Precision Power Supplies 'S PS5 DualSense</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-top-tier-games-in-apples-game-library/"><u>Unlocking the Top-Tier Games in Apple's Game Library</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-6-stats-show-macs-fall-behind-on-gaming-benchmarks/"><u>Why 6 Stats Show Macs Fall Behind on Gaming Benchmarks</u></a></li>
 </ul></div>
 

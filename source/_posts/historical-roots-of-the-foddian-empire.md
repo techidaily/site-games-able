@@ -1,7 +1,7 @@
 ---
 title: Historical Roots of the Foddian Empire
-date: 2024-08-08T09:16:15.430Z
-updated: 2024-08-09T09:16:15.430Z
+date: 2025-01-29T16:20:50.574Z
+updated: 2025-01-30T18:13:32.538Z
 tags:
   - games
 categories:
@@ -23,13 +23,11 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The First Bennet Foddy Game
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
 
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
@@ -42,10 +40,11 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 
 ### The Rise of Jump King
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Jump King is a title that transcends the Foddian game genre. You may have heard about the game thanks to its tendency to be played live on Twitch streams. Speedrunners are especially fond of the small series of Jump King games.
 
@@ -55,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Foddian Games and Content Creation
 
 ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
@@ -67,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
  A player still needs to focus on the game, especially when speedrunning it. However, the punishment for responding to chat is not so severe as to ruin your game. In other titles, like shooters or racers, you may end up dying to an opponent or losing a race if you are distracted.
 
  Ultimately, Foddian games are[a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Evolution of Foddian Games
 
@@ -78,20 +78,22 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 
  Only Up! has become popular enough to dominate the viewership on Twitch for concurrent weeks. And while the hype is not the same as it was during release, many people still actively play the title.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Foddian Games: Difficult but Rewarding Platforming
 
  There is a gradual shift in the type of video game content enjoyed live on stream or alone on a slow Saturday afternoon.
 
  While Foddian games are simple in design, the execution is magnificently intricate. They present a fun challenge for players, one you can ride all the way to victory at the top of the map.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
 
  Within the genre of Foddian games, numerous titles emulate the addicting frustration of games like Getting Over With Bennett Foddy. Of these games, titles like QWOP, an aggravating sprinting game in which you need to order every limb of your runner to move, or the classic browser game Happy Wheels, are some of the most popular Foddian-like games. That said, tons of[difficult browser games](https://www.makeuseof.com/tag/the-hardest-games-in-the-whole-wide-world/) also provide a similar Foddian experience.
@@ -104,14 +106,11 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 
  While Only Up! was popularized by streaming communities, if you're wondering which streamer first brought the game to a larger audience, KaiCenet first played Only Up! on the ninth of June 2023, to an audience of 55.8 thousand viewers. From this point on, the popularity of Only Up!, much like other Foddian games, grew exponentially within gaming communities.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +119,24 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-spectrumstreams-2024-worldwide-selection-at-fingertips/"><u>[New] SpectrumStreams 2024 Worldwide Selection at Fingertips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professional-editors-guide-fcps-top-10-plugins/"><u>[Updated] Professional Editor’s Guide FCP's Top 10 Plugins</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-leading-online-convertor-audio-to-written-text/"><u>2024 Approved Leading Online Convertor Audio to Written Text</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bosses/"><u>Bosses:</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-x100-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo X100 Pro?</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-a-comprehensible-guide-to-cs2-mac/"><u>From Novice to Pro: A Comprehensible Guide to CS2, Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/handling-nintendo-switch-damage-repair-vs-replace-tactics/"><u>Handling Nintendo Switch Damage: Repair Vs. Replace Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-renew-online-subscriptions-on-ps5/"><u>How to Renew Online Subscriptions on PS5</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-macs-top-5-mkv-decoder-software/"><u>In 2024, Mac's Top 5 MKV Decoder Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-game-recording-unveiled/"><u>In-Game Recording Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-game-pass-through-steam-link-and-glossi/"><u>Mastering Xbox Game Pass Through Steam Link & GlosSI</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavijpeg-tga/"><u>Movavi的無料網站轉成JPEG格式 - TGA轉換解決方案</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-ps5-games-club-selections/"><u>Navigating PS5 Games Club Selections</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-internet-check-out-these-epic-mobile-games/"><u>No Internet? Check Out These Epic Mobile Games</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/should-i-switch-to-monterey-now/"><u>Should I Switch to Monterey Now?</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategy-meets-speed-the-high-stakes-of-smartphone-tetris/"><u>Strategy Meets Speed: The High-Stakes of Smartphone Tetris</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshoot-wordle-app-crashes-effectively/"><u>Troubleshoot Wordle App Crashes Effectively</u></a></li>
+</ul></div>
 

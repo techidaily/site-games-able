@@ -1,7 +1,7 @@
 ---
 title: Handling Unwelcome Interactions on Series S/X Gaming Platforms
-date: 2025-01-20T04:30:06.754Z
-updated: 2025-01-22T19:49:51.298Z
+date: 2025-01-28T16:24:20.109Z
+updated: 2025-01-30T16:08:44.814Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Report an Xbox Player’s Profile
 
  Commonly, if you experience inappropriate online behavior while playing on Xbox, you might not get the chance to report or deal with the behavior while still in your game. Luckily, the most common way of reporting other Xbox players relies on the**Recently played with** option to report the Xbox profile of the offending user.
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 ![A screenshot of the Guide menu for Xbox Series X with the options for People highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2980.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the Xbox profile of the person who displayed inappropriate behavior.
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 ![A screenshot of the options for an Xbox Profile on Xbox Series X with the ability to Report highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2983.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From here, you can choose various reasons for submitting your report, like**Unsporting behavior** . Once you have selected the reasons for reporting the player, select**Submit** to send your report.
@@ -65,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 ![A screenshot of the Parties and Chats section of the Xbox Series X Guide menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2989.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the conversation that contains the inappropriate messages you received.
@@ -86,16 +90,12 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 ![A screenshot of the My Games and Apps page of an Xbox Series X Guide with See All highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/see-all.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Highlight**Apps** , and open the**Friends & Community Updates** application.
 
 ![A screenshot of the Apps section of My Games and Apps on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2995.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * From here, select the game capture or post you want to report.
@@ -134,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 ![A screenshot of the behaviour options when reporting someone using Report In Game Voice Chat on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/report-categories.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Much like other reporting methods, your Xbox will then ask you to define specific elements of the report associated with voice chats. Once you have defined these elements, like associated Xbox profiles and Gamertags, you can select**Submit Report** to finalize.
@@ -160,17 +160,20 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-instructions-removing-videos-from-youtubes-watchlater/"><u>[Updated] 2024 Approved Instructions Removing Videos From YouTube's Watchlater</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-ace-search-engine-rankings-on-youtube-11-proven-seo-methods/"><u>[Updated] In 2024, Ace Search Engine Rankings on YouTube 11 Proven SEO Methods</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-journey-through-the-best-7-nft-creation-applications/"><u>[Updated] Journey Through the Best 7 NFT Creation Applications</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unlocking-full-screen-recording-features-in-mi-11-for-2024/"><u>[Updated] Unlocking Full-Screen Recording Features in Mi 11 for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-control-over-ps5-game-sets/"><u>Efficient Control Over PS5 Game Sets</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-black-screen-issue-in-elden-ring-at-launch/"><u>Fixing the 'Black Screen' Issue in Elden Ring at Launch</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovating-highest-standard-canon-sequences/"><u>Innovating Highest Standard Canon Sequences</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-ps5-dualsense-chargers-of-the-year/"><u>Innovative PS5 DualSense Chargers of the Year</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1596203-9780804152228-love-magic/"><u>Love Magic | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-your-steam-deck-a-compilation-of-accessories/"><u>Maximizing Your Steam Deck: A Compilation of Accessories</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-economical-path-to-video-quality/"><u>The Economical Path to Video Quality</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-sweet-spot-of-gpu-temperatures-for-games/"><u>The Sweet Spot of GPU Temperatures for Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-amplifying-online-videos-best-5-tools-and-tricks/"><u>[New] 2024 Approved Amplifying Online Videos Best 5 Tools & Tricks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-beginners-guide-going-live-with-ease-on-facebook/"><u>[Updated] In 2024, Beginner’s Guide Going Live with Ease on Facebook</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/convert-avchd-video-files-to-mov-format-using-mac-os-x-el-capitan/"><u>Convert AVCHD Video Files to MOV Format Using Mac OS X El Capitan</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-listening-on-nintendo-switch/"><u>Elite Listening on Nintendo Switch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-installing-the-fandango-app-on-your-amazon-fire-tv-stick/"><u>Guide: Installing the Fandango App on Your Amazon Fire TV Stick</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-smart-8-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix Smart 8 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-4-methods-to-record-gameplay-on-xbox-one/"><u>In 2024, 4 Methods to Record Gameplay on Xbox One</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-metaverse-content-creators-and-their-hilarity/"><u>In 2024, Top Metaverse Content Creators & Their Hilarity</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-switch-gameplay-best-3-live-streamers/"><u>Master Your Switch Gameplay: Best 3 Live-Streamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-favorite-chair-office-style/"><u>My Favorite Chair: Office Style</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-your-way-through-ea-play-on-ps5/"><u>Navigating Your Way Through EA Play on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-new-game-stream-service-hype-or-helpfulness/"><u>Nvidia's New Game Stream Service - Hype or Helpfulness?</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-mysterious-0x80004005-error-proven-solutions-for-your-email-woes/"><u>Resolving the Mysterious 0X80004005 Error - Proven Solutions for Your Email Woes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209974030-9781612834542-super-tarot/"><u>Super Tarot | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-xbox-sx-issues-and-repair-options/"><u>Troubleshooting Xbox S/X Issues & Repair Options</u></a></li>
 </ul></div>
 

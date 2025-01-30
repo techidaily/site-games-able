@@ -1,7 +1,7 @@
 ---
 title: "Compute Compactly: Pros & Cons of Mini Vs. Desktop Systems"
-date: 2024-08-08T09:16:20.359Z
-updated: 2024-08-09T09:16:20.359Z
+date: 2025-01-26T17:20:15.063Z
+updated: 2025-01-30T16:39:35.665Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 ## Compute Compactly: Pros & Cons of Mini Vs. Desktop Systems
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Performance Comparisons](#performance-comparisons)
@@ -33,12 +30,13 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  Mini PCs have proved powerful enough to work and game on as hardware components become more powerful each generation. As more games are optimized, and hardware output becomes more efficient, a mini PC could be your best PC hardware purchase in 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Performance Comparisons
 
 ![slotting in graphics card into pcie slot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/slotting-in-graphics-card-into-pcie-slot.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -52,13 +50,13 @@ Jhet Borja/MakeUseOf
 
  For example, compare the $499[Beelink SER5](https://www.amazon.com/Beelink-SER5-MAX-5800H-Processor/dp/B0CDLD8ZBS/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031444&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmini-pc-vs-desktop-pc-what-should-you-buy%2F&asc%5Fcampaign=Evergreen) MAX's Ryzen 7 5800H APU to an equivalent desktop with a Ryzen 7 5700G APU.[Nanoreview benchmarks](https://nanoreview.net/en/cpu-compare/amd-ryzen-7-5800h-vs-amd-ryzen-7-5700g) show they're quite close in performance, with similar single and multi-core performance. Prebuilt PCs on Amazon and Newegg go for over $600, even up to the $800 mark. With comparable performance, it's hard to deny that the mini PC wins in the low-to-mid-range performance bracket.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Productivity and Ease of Use
 
 ![aerofara-aero-2-pro-mini-pc-review-ports-02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/aerofara-aero-2-pro-mini-pc-review-ports-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Kannon Yamada/MakeUseOf
 
@@ -78,12 +76,17 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 [External GPU enclosures](https://www.makeuseof.com/tag/best-external-gpu-macbook-pro/) are expensive, but they might be worth it if you want one PC to do everything for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Cost of a Mini PC vs. Desktop?
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![geekom mini it11 pc in hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/geekom-mini-it11-pc-in-hand.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ste Knight/MakeUseOf
 
@@ -91,30 +94,25 @@ Ste Knight/MakeUseOf
 
  Granted, you're missing key features like a trackpad, display, and keyboard if we're[comparing a mini PC to a laptop](https://www.makeuseof.com/mini-pc-vs-laptop/) , but we're comparing between mini PCs and desktops.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![PC Part Picker Vs. Beelink SER5 Ryzen 7 5700U](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/pc-part-picker-vs-beelink-ser5-ryzen-7-5700u.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We've taken the $359[Beelink SER5 Mini PC](https://www.amazon.com/Beelink-SER5-5700U-4-34GHz-Computer/dp/B0CFDPLMNM?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031444&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmini-pc-vs-desktop-pc-what-should-you-buy%2F&asc%5Fcampaign=Evergreen) with a Ryzen 7 5700U with 16GB of DDR4 RAM and a 500GB SSD and compared it to the same parts we can find on[PC Part Picker](https://pcpartpicker.com/list/dR7xxH) , and the mini PC won by about $128, with the desktop costing $487 (at the time of writing—hardware prices do fluctuate).
 
  This is because a mini PC has a much simpler case; it already has a motherboard, doesn't need additional fans, and doesn't need a large power supply. The reduced cost does come with some sacrifices, like the aforementioned limited upgradability and a power-limited mobile-class APU instead of a desktop-class one.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mini PC vs. Desktop: Which Type of PC Should You Buy?
 
  If peak performance or upgradability isn't your biggest concern, then a mini PC is one of the easiest ways to buy a PC and have it working immediately. Mini PCs have smaller footprints than laptops, making them easy to bring around in a smaller bag—so don't gloss over mini PCs when it comes to your next hardware upgrade.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +121,26 @@ Ste Knight/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-growth-secrets-masterful-narration-techniques/"><u>[New] 2024 Approved YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-dissonant-designs-mastering-on-a-mac/"><u>[Updated] Dissonant Designs Mastering on a Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gameo-dvd/"><u>「Gameo DVD処理入門 - 安全かつ簡単なコピー方法を学ぶ」</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-a-step-by-step-breakdown-for-ending-your-linkedin-presence/"><u>2024 Approved A Step-by-Step Breakdown for Ending Your LinkedIn Presence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-a-step-by-step-plan-efficient-vimeo-video-logging/"><u>2024 Approved A Step-by-Step Plan Efficient Vimeo Video Logging</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-step-plan-for-clearing-overexposed-iphone-hd-videos-using-premiere-pro-for-2024/"><u>5 Step Plan for Clearing Overexposed iPhone HD Videos Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976346720-easy-solutions-for-elgato-hd60-driver-problems-fast-results/"><u>Easy Solutions for Elgato HD60 Driver Problems | Fast Results!</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-steam-installation-problems-on-pc/"><u>Eliminating Steam Installation Problems on PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-s18-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo S18 to Roku | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-quick-resume-a-worthwhile-feature-of-your-xbox-series-xs/"><u>Is Quick Resume a Worthwhile Feature of Your Xbox Series X|S?</u></a></li>
+<li><a href="https://games-able.techidaily.com/joy-con-upgrade-joystick-changing-guide/"><u>Joy-Con Upgrade: Joystick Changing Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/lemokey-l3-a-new-era-for-gaming-keys-via-keychron/"><u>Lemokey L3: A New Era for Gaming Keys via Keychron</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-steams-data-evaluating-gaming-hours-and-credits/"><u>Navigate Steam's Data: Evaluating Gaming Hours & Credits</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-you-upgrade-to-xbox-game-pass-ultimate/"><u>Should You Upgrade to Xbox Game Pass Ultimate?</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-user-experience-steps-to-handle-switch-accounts/"><u>Simplify User Experience: Steps to Handle Switch Accounts</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-unblock-oculus-app-error-in-pc/"><u>Steps to Unblock Oculus App Error in PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-the-update-changing-your-name-and-slogan-in-riot/"><u>Streamlining the Update: Changing Your Name & Slogan in Riot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-7-amazing-labor-day-promotions-on-apple-products-save-up-to-120-on-airpods-according-to-zdnet/"><u>Top 7 Amazing Labor Day Promotions on Apple Products - Save Up To $120 On AirPods, According to ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated MagSafe Chargers : Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
+</ul></div>
 

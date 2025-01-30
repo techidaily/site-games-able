@@ -1,7 +1,7 @@
 ---
 title: Comparing the Classic and Modern PS5
-date: 2024-08-08T09:14:39.525Z
-updated: 2024-08-09T09:14:39.525Z
+date: 2025-01-25T17:28:04.413Z
+updated: 2025-01-30T17:48:16.208Z
 tags:
   - games
 categories:
@@ -16,9 +16,17 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 
  With Sony releasing a slimmer version of the PlayStation 5, many people are quite excited. However, others are understandably wondering what this newer and slimmer version of Sony's current-gen console brings to the table when compared to the older and fatter PS5\. Here's everything you need to know about their differences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sony Is Launching a New (Slimmer) PS5
 
 ![the new slimmer PS5 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/new-slim-version-of-the-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
@@ -29,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 ## Old PS5 Models vs. New PS5 Models: The Differences
 
  With this new PS5 version, Sony has worked on some improvements that go beyond aesthetics. If you already own a PS5, you might be wondering if the differences are worth upgrading, or, if you haven't got one yet, purchase it now. Let's take a look at them in a little more detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Size and Weight
 
@@ -41,22 +53,17 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Attachable Disk Drive
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  One of the other big changes is that the digital version of the new PS5 has an attachable Ultra HD Blu-ray disc drive. The attachment will cost you $79.99, and it's incompatible with the old digital version. However, it's nice to know that the option exists should you decide to use disks later on​​​​.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Old PS5 vs. New PS5: Specs
 
  Many of the core specs between the old and new PS5 models have remained largely the same. For example, both consoles have an x86-64-AMD Ryzen Zen 2 CPU with a clock speed of 3.5 GHz (variable frequency). They also use an AMD Radeon RDNA 2 GPU, but while the old PS5's GPU supports hardware-level Ray Tracing, the new model's GPU supports Ray Tracing Acceleration to make calculations faster.
@@ -67,43 +74,31 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 
  So that means you'll have over 200GB of extra internal storage space on the new PS5\. You can always upgrade it by[adding an M.2 SSD to the PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) with more storage space if that's still not enough.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Price
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Old PS5 vs. New PS5: Stand
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The newer PS5 models come with a horizontal stand, which is not compatible with the old models. You can also purchase a horizontal stand separately, which will cost $29.99\. The good thing about the new horizontal stand is that it will be compatible with all PS5 models.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## The New PS5 Model Is Exciting
 
  While the new, slimmer PS5 doesn't add anything new to the package in terms of performance and features, it has a noticeable size and weight reduction. Furthermore, the attachable disc drive for the digital edition is a nice touch for people who want to start with the cheaper model and then add the option to use disks later on. Not to mention there's now more storage space for people who could use an extra 100GB or more of internal storage space.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +107,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ptimal-recorders-top-10-tools-for-webinars-for-2024/"><u>[New] Optimal Recorders Top 10 Tools for Webinars for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-android-videography-6-must-try-music-videos-apps/"><u>2024 Approved Best Android Videography 6 Must-Try Music Videos Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-methods-for-efficiently-attaching-a-link-to-tiktok-bios/"><u>2024 Approved Ultimate Methods for Efficiently Attaching a Link to TikTok Bios</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-delving-deeper-into-google-palm-2-versus-openai-gpt-4-what-sets-them-apart/"><u>AI Showdown: Delving Deeper Into Google PaLM 2 Versus OpenAI GPT-4 – What Sets Them Apart?</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-language-of-high-end-gaming-screens/"><u>Decoding the Language of High-End Gaming Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-insights-years-most-innovative-keyboards-reviewed-2024-edition/"><u>Exclusive Insights: Year’s Most Innovative Keyboards Reviewed - 2024 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/flawless-visuals-at-240hz-select-monitors-reviewed/"><u>Flawless Visuals at 240Hz: Select Monitors Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-gateway-essential-sites-for-accruing-points/"><u>Gamers' Gateway: Essential Sites for Accruing Points</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-70-lite-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 70 Lite 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/intrigue-online-play-through-4-ai-generated-mysteries/"><u>Intrigue Online: Play Through 4 AI-Generated Mysteries</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-mental-agility-how-to-tame-new-york-times-word-game-strands/"><u>Mastering Mental Agility: How to Tame New York Times' Word Game ‘Strands’</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unifying-audio-devices-a-comprehensive-guide-on-pairing-different-bluetooth-speakers-with-just-one-gadget/"><u>Unifying Audio Devices: A Comprehensive Guide on Pairing Different Bluetooth Speakers With Just One Gadget</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 8T | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Samsung Galaxy Watch Active Assessment: Your Perfect Health & Fitness Companion"
-date: 2024-08-08T09:16:31.991Z
-updated: 2024-08-09T09:16:31.991Z
+date: 2025-01-24T16:58:08.529Z
+updated: 2025-01-30T17:08:06.015Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Samsung Galaxy Watch Active Assessment: Your Perfect Health & Fitness Companion"
@@ -38,14 +38,8 @@ Lifewire / Scott Gercken
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Pioneer BDR-XD05B Blu-ray Burner
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Pioneer BDR-XD05B Blu-ray Burner](https://www.lifewire.com/thmb/nC_G9Nr8iQMb-lVdoUhQTXWP5lo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW832423_HeroSquare-7488fe2dd07248ca99020859f82cefaf.jpg)
 
 Lifewire / Scott Gercken
@@ -73,9 +67,6 @@ Lifewire / Scott Gercken
 
  Check out our buyers guide for more information on what you should look for in an optical drive.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Feels a little flimsy**
 
  The Pioneer BDR-XD05B[Blu-ray Burner](https://www.lifewire.com/best-desktop-blu-ray-drives-832423) is a sleek, small black drive. It’s a tiny 5.12” square by .5” tall with a black cover and a metal bottom. The clamshell case opens to 65 degrees, so it’s easy to slide a disc onto the spindle. The button to open the clamshell is on the front left of the drive, and there’s a blue LED indicator that lights up when the drive is plugged into a power source. The drive comes with an unusually shaped USB cord, with a male micro-B USB 3.0 on one side and two USB A male ends on the other. One is designed to power the drive and one is for data transfer. The back of the drive has both a micro-B USB 3.0 port and a DC power port as a second option for powering it. The Pioneer BDR-XD05B Blu-ray Burner’s look is minimalist, black with just a small gray Blu-ray logo on the top.
@@ -87,6 +78,10 @@ Lifewire / Scott Gercken
  One of the benefits of a typical clamshell, top-loading drive is that there’s a physical button to press that opens the drive, a simple mechanism that will pop the top even when it’s unplugged. That feature alone might make the wobbly top worth it, but it doesn’t work that way on this drive—the top won’t open unless you plug the drive into a computer.
 
 ![Pioneer BDR-XD05B Blu-ray Burner](https://www.lifewire.com/thmb/fUaHdcy3m2p6xK0x76rqvkRIi1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW832423_03-c61c4933818c4874b8edcadfca341ca9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Scott Gercken
 
@@ -103,8 +98,9 @@ Lifewire / Scott Gercken
  Lifewire / Scott Gercken
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Performance: Good for an inexpensive Blu-ray burner**
 
  We did two tests to see check the burner’s performance. First, we ripped a 37GB Blu-ray copy of_Die Hard_ to check the burner’s read speed for a commercial Blu-ray. Using the program MakeMKV, it took 70 minutes to make a copy.
@@ -113,26 +109,27 @@ Lifewire / Scott Gercken
 
  Noise was never a problem with this drive. Auto Quiet mode adjusts media discs to a slower speed so it’s quieter, and with both data and movie discs we didn’t notice any noise loud enough to be a bother.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## **Image Quality: Don’t watch Blu-rays on this drive**
 
  We tested watching Blu-rays on the Pioneer BDR-XD05B on a Macbook Pro(it’s not designed to work with a TV). The image quality was ok, but it wasn’t close to what you’d get on a[HD TV](https://www.lifewire.com/best-tvs-to-buy-4061107) with a dedicated[Blu-ray player](https://www.lifewire.com/best-blu-ray-players-1846400) .
 
  We also connected the computer to an HD TV through the HDMI drive and didn’t get the 1080p we expected. Instead, the resolution was stuck at 726p and the image quality was terrible, worse than a DVD. The Blu-ray image was extremely noisy and filled with huge pixels. If you want to watch movies, don’t use this drive, except maybe to make yourself more appreciative of your Blu-ray player.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Sound Quality: Seriously, don’t watch Blu-rays on this drive**
 
  We think that the best reason to watch a Blu-ray isn’t the sharp[HD image](https://www.lifewire.com/what-you-need-to-see-hd-1847338) but the depth of sound this format can produce. But you don’t get any of that when you watch a Blu-ray using the Pioneer BDR-XD05B, because you have to watch it on a computer with computer speakers. It didn’t get any better when we connected the computer to the TV via HDMI—the sound remained flat and muddy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Software: Basic useful software**
 
  Like we wrote above, the included software was a mess to install, with windows popping up all over the place. The included software is called “CyberLink Media Suite 10.” It includes PowerDVD 14, Power2Go 8, and PowerDirector 14 LE. PowerDVD 14 is an app for playing Blu-rays and DVD’s on your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) . Power2Go 8 is a burning tool, and it has some system recovery tools, too. Powerdirector 14 LE is a movie editing app. All-in-all, this is a pretty useful, basic suite of software without anything that especially stands out. It gets the job done, and that’s what matters.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Good budget Blu-ray burner**
 
@@ -159,9 +156,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  On one hand, the Pioneer BDR-XD05B is a light, portable Blu-ray burner with decent performance at a low cost. On the other hand, it also feels flimsy and has a smudge-magnet finish. It’s a solid performer in its price range, but there are other portable Blu-ray burners without these faults (albeit generally for more cash).
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  BDR-XD05B Blu-ray Burner
@@ -178,14 +175,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Warranty  1 year
 * Boxed dimensions  8.75 x 6.6 x 3.5 in.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -194,4 +188,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-comparing-the-best-of-gopro-cameras/"><u>[New] 2024 Approved Comparing the Best of GoPro Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-airdrop-issues-quick-solutions-for-iphoneipadmac-users/"><u>[New] 2024 Approved Mastering AirDrop Issues Quick Solutions for iPhone/iPad/Mac Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-launch-your-first-sporty-video-channel-on-apple-systems/"><u>[New] How to Launch Your First Sporty Video Channel on Apple Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-basics-of-picture-in-picture-in-ff/"><u>[Updated] In 2024, The Basics of Picture-in-Picture in FF</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-convenient-and-quality-passport-images-top-free-tools-listed-here/"><u>2024 Approved Convenient & Quality Passport Images - Top Free Tools Listed Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-display-winners-oled-amoled-vs-ips-lcd/"><u>Decoding Display Winners: OLED, AMOLED Vs. IPS LCD</u></a></li>
+<li><a href="https://games-able.techidaily.com/dont-fall-for-linkedins-new-gaming-attraction-heres-why/"><u>Don’t Fall for LinkedIn's New Gaming Attraction - Here’s Why</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-with-ai-top-6-games-to-engage-with-chatgpt/"><u>Gaming With AI: Top 6 Games to Engage with ChatGPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-manual-to-freeze-backgrounds-in-affinity-photo/"><u>In 2024, A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-s18-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo S18 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-a34-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy A34 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-engagement-co-filming-techniques/"><u>In 2024, Maximizing Engagement Co-Filming Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-it-time-for-you-to-join-the-game-pass-ultimate-family/"><u>Is It Time for You to Join the Game Pass Ultimate Family?</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-nvidias-gaming-future-in-rtx-or-can-you-stick-with-gtx/"><u>Is Nvidia's Gaming Future in RTX, or Can You Stick with GTX?</u></a></li>
+<li><a href="https://games-able.techidaily.com/peek-at-gpus-graphic-memory-levels/"><u>Peek at GPU's Graphic Memory Levels</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-premier-ps5-accessory-guide/"><u>The Premier PS5 Accessory Guide</u></a></li>
+</ul></div>
 

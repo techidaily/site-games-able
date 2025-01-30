@@ -1,7 +1,7 @@
 ---
 title: Pioneering Retro Game PC Controls
-date: 2025-01-20T01:50:17.918Z
-updated: 2025-01-22T19:14:21.686Z
+date: 2025-01-26T16:44:10.340Z
+updated: 2025-01-30T16:19:50.847Z
 tags:
   - games
 categories:
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Connect Your Classic Nintendo Controller to Steam
 
  Connecting your Classic Nintendo controller to Steam begins with securing the controller itself. These controllers are only available to those with Nintendo Switch Online subscriptions. So if you don't have one of those yet, here is[everything you need to know about Nintendo Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) .
 
 ![Nintendo Switch Online logo with Mario characters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/nintendo-switch-online-characters.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Nintendo/[YouTube](https://www.youtube.com/watch?v=v6gTTzfs3sI&ab%5Fchannel=NintendoofAmerica)
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![Add Bluetooth Device to PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-bluetooth-device-to-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your computer will start searching for a signal at this point, so press the Bluetooth pairing button at the top of the controller to allow your PC to find and establish the connection. The Bluetooth pairing button is the tiny circular button to the right of the screenshot button, next to the row of lights. Hold the button down until the lights start flashing green.
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
@@ -69,22 +69,22 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
 
  Select the game you want to play with your Classic Nintendo controller and press the**controller icon** on the right to open your controller settings. Select**Enable Steam Input** . This allows you to fully customize your controller’s button layout.
 
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
@@ -114,18 +114,19 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-advanced-composition-strategies-with-blend-modes/"><u>[New] 2024 Approved Advanced Composition Strategies with Blend Modes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-from-idea-to-hit-solo-podcast-production-tactics/"><u>[New] From Idea to Hit Solo Podcast Production Tactics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-iphone-photo-watermarks-apps/"><u>[Updated] 2024 Approved The Ultimate Guide to iPhone Photo Watermarks Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/ea-play-is-it-worth-your-money-investment/"><u>EA Play: Is It Worth Your Money Investment?</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-past-and-present-emulating-sega-dreamcatcher-games-on-android/"><u>Play Past and Present: Emulating Sega Dreamcatcher Games on Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/reach-beyond-realms-backup-and-redownload-worlds/"><u>Reach Beyond Realms: Backup and Redownload Worlds</u></a></li>
-<li><a href="https://games-able.techidaily.com/reign-as-top-twitch-streamer-with-our-list-of-the-7-most-advanced-bots/"><u>Reign As Top Twitch Streamer With Our List of the 7 Most Advanced Bots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-mandatory-requirements-problem-on-win11win11/"><u>Remedying Mandatory Requirements Problem on Win11/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-shift-of-heic-photos-to-jpeg-format/"><u>Seamless Shift of HEIC Photos to JPEG Format</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ipad-applications-boosting-efficiency-streamline-task-management-and-improve-focus-insights-from-zdnet/"><u>Top iPad Applications Boosting Efficiency: Streamline Task Management & Improve Focus - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transform-your-school-tech-upgrade-with-free-apple-cash-get-150-off-on-macs-and-ipads-zdnet/"><u>Transform Your School Tech Upgrade with Free Apple Cash! Get $150 Off on Macs and iPads | ZDNET</u></a></li>
-<li><a href="https://games-able.techidaily.com/unbeatable-co-op-couch-choices-for-next-gen-xbox-sx/"><u>Unbeatable Co-Op Couch Choices for Next-Gen Xbox S/X</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-game-pass-uncovered-inside-details/"><u>Xbox Game Pass Uncovered: Inside Details</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-screen-captures-galore-expert-techniques-for-twitter-visuals-for-2024/"><u>[New] Screen Captures Galore Expert Techniques for Twitter Visuals for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secrets-revealed-best-8-costless-3d-vids-software-on-pcmac/"><u>[New] Secrets Revealed Best 8 Costless 3D Vids Software on PC/Mac</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ancient-aesthetics-public-domain-pieces-for-2024/"><u>[Updated] Ancient Aesthetics Public Domain Pieces for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevating-engagement-strategic-use-of-youtube-titles/"><u>2024 Approved Elevating Engagement Strategic Use of Youtube Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-ddr5-master-cards-ranked/"><u>2024'S DDR5 Master Cards Ranked</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-pokemon-expert-iphone-and-ipad-gameplay-secrets/"><u>Become a Pokémon Expert: IPhone & iPad Gameplay Secrets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capture-and-record-a-new-era-of-iphoneipad-recording/"><u>Capture & Record A New Era of iPhone/iPad Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/insiders-guide-to-recording-and-livestreaming-sports-events/"><u>Insider's Guide to Recording and Livestreaming Sports Events</u></a></li>
+<li><a href="https://games-able.techidaily.com/intel-stream-assist-unraveled-a-game-changer-in-streaming/"><u>Intel Stream Assist Unraveled: A Game-Changer in Streaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-sonys-dualsense-updates-online/"><u>Navigating Sony's DualSense Updates Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-systems-new-strength-atlasos-power-up/"><u>Old Systems, New Strength: AtlasOS Power-Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-virtual-fun-steam-gaming-setup-for-meta-quest-headset/"><u>Transforming Virtual Fun: Steam Gaming Setup for Meta Quest Headset</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-global-availability-a-guide-to-using-chatgpt-anytime-anywhere-with-chatgpt-everywhere/"><u>Unlocking Global Availability: A Guide to Using ChatGPT Anytime, Anywhere with ChatGPT Everywhere</u></a></li>
 </ul></div>
 

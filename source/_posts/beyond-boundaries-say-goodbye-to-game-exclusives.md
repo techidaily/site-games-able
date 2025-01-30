@@ -1,7 +1,7 @@
 ---
 title: "Beyond Boundaries: Say Goodbye to Game Exclusives"
-date: 2024-07-29T06:00:30.040Z
-updated: 2024-07-30T06:00:30.040Z
+date: 2025-01-29T18:03:17.642Z
+updated: 2025-01-30T16:53:08.028Z
 tags:
   - games
 categories:
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 * [Why Platform Exclusives Are Going Away](#why-platform-exclusives-are-going-away)
 * [Why I'm Glad Platform Exclusives Are No More](#why-i-39-m-glad-platform-exclusives-are-no-more)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Platform-exclusive games are on the decline, with Microsoft's move to make some Xbox exclusives available on other platforms the opening salvo.
@@ -33,18 +30,15 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  The end of platform-exclusive games is nigh, and we're here for it. While some key IPs are likely to be kept on one console (and/or PC), many will be available to play on whatever platform you choose. And that has to be a good thing. Here's why...
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Brief History of Platform Exclusivity
 
  For decades, platform exclusives have played a big part in the story of video games. And they have had a hand in deciding which console won each generation.
 
  Console exclusives started in the 1980s, with Atari securing exclusive home console rights to popular arcade games such as Space Invaders and Pac-Man. At this point, the idea was to persuade regular arcade-goers to buy a home console in order to play their favorite titles from the comfort of their sofa and without having to feed a machine with endless quarters. Ironically, you can now buy[arcade machines designed for your home](https://www.makeuseof.com/best-home-arcade-machines/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
 
  Giuseppe Cammino/[Shutterstock](https://www.shutterstock.com/image-photo/joystick-vintage-arcade-videogame-coinop-1089499448)
@@ -54,8 +48,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Once we entered the PlayStation/Xbox era, platform exclusivity became an even bigger part of the story. Both Sony and Microsoft created original IP designed to shift units, as well as paying third-party developers and publishers large amounts of money to secure timed exclusives. And that battle of the exclusives (of all kinds) has persisted ever since.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Platform Exclusives Are Coming to an End
 
  Thankfully, things are starting to change. In February 2024, in a post on[Xbox Wire](https://news.xbox.com/en-us/2024/02/21/new-platforms-new-players-xbox-games-switch-playstation/) , Microsoft announced that four Xbox exclusives would also be coming to PS5 and Switch, with more titles to follow. The games currently confirmed to be coming to other platforms are Hi-Fi Rush, Pentiment, Sea of Thieves, and Grounded.
@@ -72,12 +67,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 
@@ -92,14 +88,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why I'm Glad Platform Exclusives Are No More
 
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
 
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
 
@@ -107,14 +107,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The practice of making some games exclusive to one platform is anti-consumer, as it forces gamers to buy multiple consoles to play specific games. And while I can see why it has been standard practice for decades as manufacturers sought to make sure their platform was the essential one, it's about time we opened gaming up to be more inclusive. And this could start by switching to platform agnosticism.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +120,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-blur-out-not-into-discovering-photo-clarity-web-tools/"><u>[New] Blur Out, Not Into! Discovering Photo Clarity Web Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-enigma-of-unlisted-deciphering-hidden-youtube-footage/"><u>[Updated] 2024 Approved The Enigma of 'Unlisted' Deciphering Hidden YouTube Footage</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-knowledge-the-dos-and-donts-on-youtube/"><u>[Updated] Essential Knowledge The Do's and Don'ts on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-insights-into-youtube-thumbnail-design/"><u>[Updated] Expert Insights Into YouTube Thumbnail Design</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-connecting-for-content-roku-and-facebook-live/"><u>2024 Approved Connecting for Content Roku and Facebook LIVE</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-prime-twitch-video-downloader-selections/"><u>Discovering the Prime Twitch Video Downloader Selections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eficientemente-editar-tus-videos-en-youtube-guia-completa-con-el-editor-de-videos-movavi/"><u>Eficientemente Editar Tus Vídeos en Youtube: Guía Completa Con El Editor De Videos Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-hackers-incorranous-steps-to-setup-nintendo-switch-lock/"><u>Eliminating Hackers: Incorranous Steps to Setup Nintendo Switch Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-a-non-nvidia-match-for-rtx-4060-ti/"><u>Finding a Non-NVIDIA Match for RTX 4060 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-rectify-roblox-error-262/"><u>Guide to Rectify Roblox Error 262</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>In 2024, From Basic to Breakthrough A YouTube Live Thumbnail Journey</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-troubleshooting-process-for-broken-xbox-series-sandx/"><u>Navigate the Troubleshooting Process for Broken Xbox Series S&X</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-identify-friends-on-steam-platform/"><u>Swiftly Identify Friends on Steam Platform</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210762181-9781787831773-the-little-book-of-tarot/"><u>The Little Book of Tarot | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-potential-of-virtual-reality-steam-gaming-on-meta-quest-2/"><u>Unlock the Potential of Virtual Reality: Steam Gaming on Meta Quest 2</u></a></li>
+</ul></div>
 

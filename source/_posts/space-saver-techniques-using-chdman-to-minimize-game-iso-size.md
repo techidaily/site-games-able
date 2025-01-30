@@ -1,7 +1,7 @@
 ---
 title: "Space-Saver Techniques: Using CHDMAN to Minimize Game ISO Size"
-date: 2025-01-17T05:56:56.344Z
-updated: 2025-01-22T18:36:22.911Z
+date: 2025-01-26T17:10:02.477Z
+updated: 2025-01-30T16:31:22.843Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is CHDMAN?
 
@@ -64,7 +68,7 @@ Our command was:
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To compress your game with CHDMAN to CHD format, use the following:
@@ -79,7 +83,7 @@ Our command was:
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
@@ -89,10 +93,6 @@ Our command was:
 `chdman createhd -i "OLDPCback.img" -o "OLDPCback.chd"`
 
  CHDMAN can also back up to the CHD format actual HDDs connected to the PC. That, though, should be rarely needed by the average user.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Else Should You Know About CHDs?
 
@@ -105,7 +105,7 @@ Our command was:
 ![DuckStation File Selector set to MAME CHD images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duckstation-chd-file-selection-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're looking for a CHD-compatible emulator then, luckily some of the most popular emulators support them. Here are a few examples of emulators that allow you to play CHDs:
@@ -126,16 +126,16 @@ Our command was:
 
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How Can You Check Your CHDs?
 
  CHDMAN isn't only a compression solution but, as its name states, a manager for CHD files. So, you can also use it to...
 
 * Get info about CHD files by using the**chdman info -i "FILENAME.chd"** prompt.
 * Check CHD files by using the**chdman verify -i "FILENAME.chd"** prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can You Decompress CHDs?
 
@@ -172,24 +172,22 @@ Our command was:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-red-zones-best-unraveling-zombie-gaming-delights/"><u>[New] In 2024, The Red Zone's Best Unraveling Zombie Gaming Delights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-photo-pinnacle-top-tripods-for-android-and-iphones-for-2024/"><u>[New] Photo Pinnacle Top Tripods for Android & iPhones for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-essential-tips-for-configuring-and-measuring-facebooks-in-stream-ads/"><u>[Updated] In 2024, Essential Tips for Configuring and Measuring Facebook's In-Stream Ads</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-the-craft-of-online-title-perfection/"><u>2024 Approved Mastering the Craft of Online Title Perfection</u></a></li>
-<li><a href="https://games-able.techidaily.com/dynamic-cooling-curve-design-elevates-system-stability/"><u>Dynamic Cooling Curve Design Elevates System Stability</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-6-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 6</u></a></li>
-<li><a href="https://facebook.techidaily.com/enhance-your-weekend-with-fbs-live-purchasing-hours/"><u>Enhance Your Weekend with FB's Live Purchasing Hours</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-sony-portable-playback-to-dual-analog-simulation/"><u>From Sony Portable Playback to Dual Analog Simulation</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-systems-showdown-consoles-vs-personal-builds/"><u>Gaming Systems Showdown: Consoles Vs. Personal Builds</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guida-esclusiva-come-risolvere-e-prevenire-la-sincronizzazione-problematica-nel-tuo-outlook-365/"><u>Guida Esclusiva: Come Risolvere E Prevenire La Sincronizzazione Problematica Nel Tuo Outlook 365</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-nova-y91-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Nova Y91.</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-pc-management-the-4-powerful-upgrades-in-corsairs-icue-link/"><u>Mastering PC Management: The 4 Powerful Upgrades in Corsair's iCUE Link</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/passo-a-passo-em-fazer-animacoes-stop-motion-conheca-as-melhores-dicas-tutorials-e-exemplos/"><u>Passo a Passo Em Fazer Animações Stop Motion - Conheça as Melhores Dicas, Tutorials E Exemplos!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/prime-places-for-accessible-outstanding-vector-design-tools-for-2024/"><u>Prime Places for Accessible, Outstanding Vector Design Tools for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/pure-playstation-cleaning-without-risk/"><u>Pure PlayStation: Cleaning Without Risk</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-end-of-platform-locked-entertainment/"><u>The End of Platform-Locked Entertainment</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-console-experience-with-exceptional-panels/"><u>Transform Your Console Experience with Exceptional Panels</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-non-joy-con-link-problems-for-switch-users/"><u>Troubleshooting Non-Joy-Con Link Problems for Switch Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/unique-curve-design-balancing-thermal-management-and-performance/"><u>Unique Curve Design: Balancing Thermal Management and Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-google-trends-to-come-up-with-video-ideas/"><u>[Updated] 2024 Approved How to Use Google Trends to Come up with Video Ideas?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-auditory-brilliance-without-a-mic-in-sight/"><u>[Updated] Unleashing Auditory Brilliance without a Mic in Sight</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-act-growth-in-the-game-publishing-sector-in-depth-analysis-podcast/"><u>Balancing Act: Growth in the Game Publishing Sector [In-Depth Analysis Podcast]</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-steam-how-to-find-a-specific-gamer/"><u>Decoding Steam: How to Find a Specific Gamer</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-value-of-microtransactions-in-elite-gaming/"><u>Examining the Value of Microtransactions in Elite Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-pokemons-universe-on-your-ios-device-today/"><u>Explore Pokémon's Universe on Your iOS Device Today</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-long-does-it-take-in-hours-to-learn-a-language/"><u>How Long Does It Take in Hours to Learn a Language?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-best-practices-for-free-clipart-use-in-projects/"><u>In 2024, Best Practices for Free Clipart Use in Projects</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-premium-content-at-a-low-price-the-ultimate-list-of-free-intros-makers/"><u>In 2024, Premium Content at a Low Price The Ultimate List of Free Intros Makers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/key-considerations-before-investing-in-a-refurbished-ipad-tablet/"><u>Key Considerations Before Investing in a Refurbished iPad Tablet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210645051-9781645679042-kitchen-witchery-for-everyday-magic/"><u>Kitchen Witchery for Everyday Magic | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterclass-perfecting-home-theater-on-xbox-sx/"><u>Masterclass: Perfecting Home Theater on XBox SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/solve-chrome-glitches-load-game-issues/"><u>Solve Chrome Glitches - Load Game Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-accessories-for-psvr2/"><u>The Best Accessories for PSVR2</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95935353-9781844099467-the-healing-of-individuals-families-nations/"><u>The Healing of Individuals, Families & Nations | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-new-era-of-gamer-vigilance-needed/"><u>The New Era of Gamer Vigilance Needed</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/une-approche-sans-risque-de-sauvegarde-and-restauration-sur-windows-10-expliquee-detaillement/"><u>Une Approche Sans Risque De Sauvegarde & Restauration Sur Windows 10 Expliquée Détaillement</u></a></li>
 </ul></div>
 

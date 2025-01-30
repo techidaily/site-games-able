@@ -1,7 +1,7 @@
 ---
 title: "Taming the Stream: Twitch's Blockade, Reconnection Strategies"
-date: 2024-08-08T09:16:09.472Z
-updated: 2024-08-09T09:16:09.472Z
+date: 2025-01-28T17:52:47.738Z
+updated: 2025-01-30T16:11:21.116Z
 tags:
   - games
 categories:
@@ -30,27 +30,20 @@ Here's how to block or unblock someone on Twitch...
 
 ![Blocking someone on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-dots.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Twitch will quickly remind you what a blocked person can and cannot do. In short, once you block someone, they can't whisper you, host you, add you as a friend, or gift[Twitch subscriptions](https://www.makeuseof.com/tag/twitch-complete-guide-buying-subscriptions/) to your channel.
 
  If you're okay with this, click**Block** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The block confirmation screen on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-confirmation.png)
 
  Twitch won't retroactively scrub away the person's messages, so if they said something particularly nasty, refresh the page to clear the chat and get rid of their comments.
 
  Alternatively, you can type**/block \[username\]** into the chat to get rid of them.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unblock People on Twitch: The Easiest Way
 
  When you want to unblock someone, however, things get a little more complicated. You can unblock someone by clicking on their card and selecting**Unblock** . But this only works for a very recent block.
@@ -65,33 +58,28 @@ Here's how to block or unblock someone on Twitch...
 
 ![twitch settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-menu.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on the**Security and Privacy** tab at the top. Next, scroll down to the**Privacy** section, then find the**Blocked Users** section.
 
 ![twitch settings show blocked users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-show-blocked-users.png)
 
  Click**Show Blocked Users** . Twitch will then load a list of everyone you've blocked and the date that you blocked them.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Viewing blocked users on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/blocked-users-twitch.jpg)
 
  Click the**Unblock** button adjacent to the user you'd like to unblock.
 
  Twitch will save the changes immediately and remove the user from your block list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## How to Unblock People on the Twitch App
 
  If you're using an Android phone, you'll quickly discover that unblocking someone via the official Android app can be a huge pain. This is because, weirdly enough, the Android app is missing a feature that the iOS version has.
 
  Here are the best ways to unblock people on Twitch on iOS and Android...
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### How to Unblock People on iOS
 
  If you do use iOS, you're in luck. Here's how you can unblock someone:
@@ -102,15 +90,20 @@ Here's how to block or unblock someone on Twitch...
 
 ![Twitch Account view page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-twitch-profile-view-ios.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Twitch Settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-twitch-settings-ios.jpg)
 
 ![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Unblock People on Android
 
  If you're on Android, you'll find that you can follow the above instructions word-for-word, right up until the point where a blocked user list is supposed to appear. Strangely, the blocked user list never made it over from iOS.
@@ -120,20 +113,18 @@ Close
  If you don't want to use this method, we'd recommend logging into your Twitch account on PC to manage your blocked users list instead.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Managing People Better on Twitch
 
  If someone is getting on your nerves, you can quickly and easily block them on Twitch. If you decide to unblock them later on, it's easy and quick to do—as long as you're not on Android.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +133,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-identifying-the-most-fitting-vimeo-membership-level/"><u>[Updated] 2024 Approved Identifying the Most Fitting Vimeo Membership Level</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-top-8-real-time-strategies-to-boost-viewership/"><u>2024 Approved Top 8 Real-Time Strategies to Boost Viewership</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-brand-voice-via-micro-business-videos/"><u>Building Brand Voice via Micro-Business Videos</u></a></li>
+<li><a href="https://win-tips.techidaily.com/content-encryption-verification-failure/"><u>Content Encryption Verification Failure</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-xbox-controller-setup-for-personal-computers-157-chars-slight-overage-allowed-due-to-importance-of-message-content/"><u>Effortless Xbox Controller Setup for Personal Computers (157 Chars) - Slight Overage Allowed Due to Importance of Message Content.</u></a></li>
+<li><a href="https://games-able.techidaily.com/everyones-playground-no-more-exclusive-games/"><u>Everyone's Playground: No More Exclusive Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-track-your-decks-performance-via-storage-cloning/"><u>Fast Track Your Deck's Performance via Storage Cloning</u></a></li>
+<li><a href="https://games-able.techidaily.com/monthly-gaming-unlimited-psplus-vs-xbgplus/"><u>Monthly Gaming Unlimited: PS+ VS XBG+</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premiere-10-battle-royale-titles/"><u>Premiere 10 Battle Royale Titles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-auditory-collection-peak-podcasts-on-google/"><u>Ultimate Auditory Collection Peak Podcasts on Google</u></a></li>
+</ul></div>
 

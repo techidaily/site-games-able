@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Safe Play: A Stepwise Guide to Setting up PS5 Passcodes"
-date: 2025-01-17T01:11:20.639Z
-updated: 2025-01-23T05:46:01.033Z
+date: 2025-01-26T17:01:16.030Z
+updated: 2025-01-30T16:20:50.204Z
 tags:
   - games
 categories:
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
 ![PS5 passcode login screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ps5-passcode-login-screen.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your PS5 actually has two passcodes: a console restriction code and a login passcode. The login passcode will stop users from logging in, but you must first have a PSN account signed in on that user account. The console restriction code, on the other hand, is designed to protect the**PS5 Console Restriction** settings.
 
  The console restrictions settings contain all the options for choosing if people can create new user accounts on your PS5, what PG rating of games new users can access, and changing your console restriction passcode, among other content-restricting features.
@@ -64,13 +68,13 @@ Anyway, here’s how to set up a passcode on a PS5 user account:
 4. Enter your passcode twice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Congratulations, you now have a passcode for your user account. You can change it anytime by revisiting the**Login Settings** page in**Users and Accounts** . You’ll find the buttons to**Change Your PS5 Login Passcode** and**Delete Your PS5 Login Passcode** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up a PS5 Console Restriction Code
@@ -83,8 +87,16 @@ Here’s how to set up a PS5 console restriction code:
 ![Family and Parental Controls page in the PS5 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/family-and-parental-controls-page-in-the-ps5-settings.JPG)
 2. Enter the default password (“**0000** ”).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Entering the control restriction passcode on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/entering-the-control-restriction-passcode-on-a-ps5.JPG)
 3. Select**Change Your Console Restriction Passcode** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Enter your own custom code.
 
@@ -98,27 +110,15 @@ Here’s how to set up a PS5 console restriction code:
 
  Whether it’s from unwanted guests or children, it’s better to make it a little more difficult for anyone to get into it and fiddle with your settings, overwrite your saves, or buy games you don’t wish to buy. We recommend you add at least one of the above codes to your PS5 to make it a little more difficult to access.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ### Q: How Do You Put a Password on Your PlayStation 5 Store?
 
  To ensure that your PlayStation 5 always requires your account password when purchasing from the PlayStation Store, enter your console's**Settings** and choose the option for**Users and Accounts** . From here, you can enter your**Account** settings and choose the options for**Payment and Subscriptions** . Under**Purchase Settings** , enable**Require Password at Checkout** . From then on out, you will be required to input your password whenever you make a PlayStation Store purchase.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Q: How Do You Log Everyone Out of Your PlayStation Account?
 
  To sign out of all PlayStation devices, you need to sign into your PlayStation account online via the official[PlayStation](https://www.playstation.com/en-us/?emcid=pa-co-422389&gad=1&gclid=Cj0KCQjwxuCnBhDLARIsAB-cq1rPRrYMH95S%5FAO8pQUEnI1kTL8jrYt9dO8c7quuyWWZHcG76E9qQtMaAgqIEALw%5FwcB&gclsrc=aw.ds) site. Once signed in, select your profile icon and click**Account Settings** . From the available options, select**Device Management** . From here, choose either**HDTV/Blu-ray Disc Player** or**PlayStation Consoles** . Select**Deactivate** to force all the listed devices to log out of your PlayStation account. It's also important to note that there are some key[things you need to do if your PlayStation account is hacked](https://www.makeuseof.com/playstation-account-recovery/) , beyond simply logging out of devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: Can You Be Logged Into Two Different PlayStation 5 Consoles at the Same Time?
 
@@ -139,16 +139,24 @@ Here’s how to set up a PS5 console restriction code:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-fundamentals-of-using-ffpm-in-firefox/"><u>[New] In 2024, The Fundamentals of Using FFPM in Firefox</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-action-plan-seamless-transcoding-from-xmlssattml-to-srt/"><u>[Updated] Action Plan Seamless Transcoding From XML/SSA/TTML to SRT</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ultimate-choice-the-10-free-cross-platform-video-calling-tools-for-2024/"><u>[Updated] Ultimate Choice The 10 Free, Cross-Platform Video Calling Tools for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi 12 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/does-steam-level-matter-to-you/"><u>Does Steam Level Matter to You?</u></a></li>
-<li><a href="https://games-able.techidaily.com/exceptionally-efficient-google-play-pass-exception/"><u>Exceptionally Efficient Google Play Pass - Exception?</u></a></li>
-<li><a href="https://games-able.techidaily.com/heres-why-hdmi-21-is-so-important-for-gaming/"><u>Here's Why HDMI 2.1 Is So Important For Gaming</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-flourishing-in-virtual-dialogue-top-strategies-to-master-zoom-chats/"><u>In 2024, Flourishing in Virtual Dialogue Top Strategies to Master ZOOM Chats</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-more-ea-play-price-hike-no-subscription-for-me/"><u>No More EA Play: Price Hike, No Subscription for Me</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-strands-secrets-a-comprehensive-guide-to-nyts-word-game/"><u>The 'Strands' Secrets: A Comprehensive Guide to NYT’s Word Game</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-advantages-of-using-chatgpt-on-your-iphone-vs-browser/"><u>Top 6 Advantages of Using ChatGPT on Your iPhone Vs. Browser</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-how-to-use-gopro-for-time-lapse-shooting/"><u>[New] 2024 Approved How to Use GoPro for Time-Lapse Shooting</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-speed-up-pc-games-the-ultimate-speed-controller-selection/"><u>[Updated] Speed Up PC Games The Ultimate Speed Controller Selection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-which-video-sharing-app-should-i-pick-tiktok-or-youtube-shorts-perspective/"><u>2024 Approved Which Video-Sharing App Should I Pick? TikTok or YouTube Shorts Perspective</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-spectaculous-slideshow-in-windows-11-no-fuss/"><u>Crafting a Spectaculous Slideshow in Windows 11, No Fuss</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-power-of-playnites-fullscreen-experience/"><u>Discover the Power of Playnite's Fullscreen Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-pads-a-gamers-dream-selection/"><u>Elite Pads: A Gamer's Dream Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-psvr2-the-ultimate-add-on-guide/"><u>Enhancing PSVR2: The Ultimate Add-On Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/google-meet-for-non-paying-professionals-complete-insights-and-tips/"><u>Google Meet for Non-Paying Professionals Complete Insights and Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-c53-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme C53 Phone that is Locked?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-starting-a-channel-with-confidence-your-essential-kit/"><u>In 2024, Starting a Channel with Confidence – Your Essential Kit</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instalar-drivers-en-windows-sin-necesidad-de-una-red-metodos-rapidos-y-efectivos/"><u>Instalar Drivers en Windows Sin Necesidad De Una Red: Métodos Rápidos Y Efectivos</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-efficiency-and-control-with-corsairs-icue-link-4-compelling-reasons/"><u>Maximize Efficiency & Control with Corsair's iCUE Link - 4 Compelling Reasons</u></a></li>
+<li><a href="https://win-popular.techidaily.com/navigating-the-crypto-market-strategies-for-constructing-an-effective-portfolio-by-yl-software-experts/"><u>Navigating the Crypto Market: Strategies for Constructing an Effective Portfolio by YL Software Experts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-world-of-portable-audio-evaluating-the-aphaca-bt69-wireless-fm-radio-transmitter-for-automobiles/"><u>Navigating the World of Portable Audio: Evaluating the Aphaca BT69 Wireless FM Radio Transmitter for Automobiles</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-sound-streaming-via-bluetooth-connection/"><u>Sony's Sound Streaming via Bluetooth Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/tecnos-new-era-of-slimmer-and-more-dynamic-phones/"><u>Tecno's New Era of Slimmer and More Dynamic Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-real-cost-behind-ea-play-experience/"><u>The Real Cost Behind EA Play Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-smartphone-based-twitch-streams/"><u>Unveiling the Secrets of Smartphone-Based Twitch Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-to-unparalleled-gaming-with-nvidias-new-app/"><u>Upgrade to Unparalleled Gaming with Nvidia’s New App</u></a></li>
 </ul></div>
 

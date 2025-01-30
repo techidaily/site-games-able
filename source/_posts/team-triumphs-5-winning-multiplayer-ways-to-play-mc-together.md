@@ -1,7 +1,7 @@
 ---
 title: "Team Triumphs: 5 Winning Multiplayer Ways to Play MC Together"
-date: 2024-08-08T09:14:28.960Z
-updated: 2024-08-09T09:14:28.960Z
+date: 2025-01-24T16:30:25.658Z
+updated: 2025-01-30T18:20:23.024Z
 tags:
   - games
 categories:
@@ -22,15 +22,16 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
  We've included instructions for both Minecraft Java Edition (JE) and Minecraft Bedrock Edition (BE).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Join Minecraft Public Servers
 
  Both Bedrock and Java Edition have public servers available for anyone to join. You can find servers on Bedrock easily on any platform whether you're on console, PC, or mobile, but there are limitations. Java has fewer limitations, but you'll need to do some digging to find good servers, and you might need to deal with more technical issues.
 
  While Java Edition is only on PC, you can[play Minecraft on Steam Link](https://www.makeuseof.com/how-to-play-game-pass-on-steam-link-with-glossi/) and play it on your TV, phone, or tablet and get close to a cross-platform experience.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Minecraft Java Edition
 
 ![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
@@ -46,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
  Joining servers in Bedrock Edition is a lot easier, here's how to do it:
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Minecraft Bedrock Edition
 
 ![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
@@ -70,37 +68,30 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 ![Aternos Create a Server button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/aternos-create-a-server-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Aternos, log in and click on**Create a Server** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Aternos MUO test server IP address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/aternos-muo-test-server-ip-address.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the next page, you can customize the IP address your friends will use to connect and choose whether you want Bedrock or Java Edition. After that, click**Create** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-aternos-server-start-button.jpg)
 
  Finally, you'll need to click on the large green**Start** button. Once it's on, you can copy the IP address and paste it into Minecraft as you would a public server. This server is all yours and you can even[install CurseForge to add Minecraft mods](https://www.makeuseof.com/how-to-use-curseforge-to-install-minecraft-mod-packs/) and upload copies of existing worlds if you wanted.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Minecraft Realms
 
  Minecraft Realms is available for both Java and Bedrock, but they are separate subscriptions. Realms are officially hosted servers that you have to pay for, but it has the benefit of being more convenient, streamlined, and reliable than third-party hosting services.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Create a Minecraft Realm
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
 
 **Java Edition** : First, you'll need to purchase a subscription for a Realm (you can check the pricing plans on[Minecraft's website](https://www.minecraft.net/en-us/realms-for-java/plans/) ). You can activate a 30-day free trial to test the waters and cancel anytime.
@@ -111,11 +102,19 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 ![Minecraft Java Edition configure Realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-configure-realm.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you've created your Realm, choose**Configure Realm** (the wrench icon) and click on**Players** . Now all you have to do to whitelist a friend on your server is click**Invite player** and type in their username before clicking**Invite player** again. Your friend will receive an invitation to join your Realm.
 
 **Bedrock Edition** : Minecraft BE is slightly different.
 
 ![Minecraft Bedrock Edition Realm edit button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-realm-edit-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Start Minecraft BE and click**Play** . Head to**Worlds** and choose**Create New** .
 2. Choose**Create New World** again.
@@ -125,12 +124,17 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
  Now that you know how to create a Realm, you probably want to check out your friends' Realms too. Here's how to join a Realm:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Join a Minecraft Realm
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Java Edition** : If you've received an invitation to join your friend's Realm, open Minecraft and navigate to**Minecraft Realms** .
 
@@ -138,25 +142,20 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 **Bedrock Edition** : Ask for the invite code from the creator of the Realm—we only need the characters after "realms.gg/".
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![Minecraft Bedrock Edition join a Realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mcbe-join-realm-1.png)
 
  Launch Minecraft, then click**Play** . Head to**Friends** and click on**Join Realm** . Enter the invite code you received from the Realm owner and click**Join** .
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Play Minecraft LAN
 
  While servers are the best way to play Minecraft with friends who are far away, a LAN (Local Access Network) connection is an easy way to craft with friends who are nearby.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Minecraft Java Edition
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
 
  If you're under the same local IP address as the player you want to join, you can do this pretty easily. Launch Minecraft and click on**Multiplayer** . Minecraft will automatically scan for games on your local network.
@@ -179,14 +178,11 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
  So, no matter what platform, try one of these methods and getting creating together!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -195,4 +191,22 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-essential-checklist-for-yt-creator-mastery/"><u>[New] In 2024, The Essential Checklist for YT Creator Mastery</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1-discover-how-to-access-and-modify-complete-configuration-options-in-control-panel-a-guide-by-yl-computing/"><u>1. Discover How to Access and Modify Complete Configuration Options in Control Panel - A Guide by YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oneplus-12-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset OnePlus 12 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-the-dynamics-eyesight-and-errors-in-pimax-crystal-headset/"><u>Dive Into the Dynamics - Eyesight and Errors in Pimax Crystal Headset</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-samsungs-official-usb-driver-for-effortless-use-on-windows-1n/"><u>Download Samsung's Official USB Driver for Effortless Use on Windows 1N</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-jabras-robust-bluetooth-audio-devices/"><u>Exploring Jabra's Robust Bluetooth Audio Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/gpu-narrative-radeons-recent-revolution-for-2024/"><u>GPU Narrative Radeon's Recent Revolution for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reactivate-lost-steam-services-on-windows/"><u>How To Reactivate Lost Steam Services on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-new-gaming-territories-with-customization/"><u>Navigating New Gaming Territories with Customization</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-assurance-sweep-keychron-and-lemokey-review/"><u>Quality Assurance Sweep: Keychron & Lemokey Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-4k-gaming-in-xbox-sx/"><u>Step-by-Step Guide to 4K Gaming in Xbox SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/tastefultech-console-a-slim-retro-game-solution/"><u>TastefulTech Console: A Slim Retro Game Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-live-gold-vs-psplus-ultimate-benefits-compared/"><u>Xbox Live Gold Vs. PS+ Ultimate: Benefits Compared</u></a></li>
+</ul></div>
 

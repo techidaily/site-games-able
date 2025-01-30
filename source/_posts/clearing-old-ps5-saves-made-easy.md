@@ -1,7 +1,7 @@
 ---
 title: Clearing Old PS5 Saves Made Easy
-date: 2024-07-29T06:01:51.411Z
-updated: 2024-07-30T06:01:51.411Z
+date: 2025-01-29T18:22:56.726Z
+updated: 2025-01-30T16:25:21.069Z
 tags:
   - games
 categories:
@@ -18,16 +18,21 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
  If you have old saved data on your PS5 from titles you played years ago and have no plans on ever returning to, that data is taking up precious space on your PS5\. But is it worth deleting saved data from your PS5?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Does Deleting a Game Delete Its Saved Data?
 
  Deleting a game off your PS5 does not delete its saved data. This is a very helpful asset in most cases and allows you to remove the game itself to free up space, so you can download a new one. Then, when you’re done with that, you can re-download your old game and load up in exactly the same spot you left off.
 
 ![Man holding a PS5 controller playing PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Man-holding-a-ps5-controller-playing-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This gives you the flexibility to[uninstall and re-download games on your PS5](https://www.makeuseof.com/how-to-uninstall-and-redownload-ps5-games/) with nothing to lose. But how much space does leaving that saved data intact take away from your console?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I Delete Saved Data Off My PS5?
 
@@ -37,59 +42,51 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
  If you had been gaming on your PS4 consistently for the years you owned it, then transferred your data across to your PS5, and have then been gaming on that consistently for the past few years, that can add up to a lot of precious space being taken up by old saved data.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![A PS5 with two DualSense controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/PS5-user-interface.jpg)
 
  Some saved data is not worth deleting. Games you haven’t finished yet or that you might go back to one day are worth holding on to. But games that you have exhausted or no longer enjoy are taking up space for no reason.
 
  It is worth noting, however, that once you delete your saved data, there is no chance of retrieving it from the digital abyss. Once it's gone, it's gone for good. So make sure you think long and hard about deleting a game’s saved data to avoid making any decisions you will regret later.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How Do I Delete Saved Data From My PS5?
 
  Deleting saved data off of your PS5 is a simple and easy process. To begin, head to your**Settings** by clicking on the**gear icon** in the top-right corner of the home screen. Scroll down to**Storage** and navigate your way to**Saved Data** .
 
 ![Saved Data Storage Settings PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/saved-data-storage-settings-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At this point, you will be given the option of reviewing the saved data for your**PS4** or**PS5 Games** . Select the console you’re after, and you will immediately be brought to a checklist of your games. Scroll down your list, select the games you are happy to get rid of and press**Delete** on the right-hand side once you’re done.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![Press Delete to Delete Saved Data PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/press-delete-to-delete-saved-data-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are a PS Plus member, you can upload your saved data to the Cloud for free before deleting it. That way, you can always get it back if you realize you have made a mistake. To do that, press up on the D-Pad and scroll to the left to the**Upload to Cloud Storage** tab. Your free Cloud storage space will be visible on the right side of the screen. Select the games you want to move to the Cloud and press**Upload** when you’re ready.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![Upload Saved Data to Cloud PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upload-saved-data-to-cloud-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you would rather not deal with the headache of deleting things off of your PS5 all the time, there is another option. You can upgrade your storage by purchasing an SSD for your PS5\. There are plenty of options on the market, including both[internal and external PS5 SSDs](https://www.makeuseof.com/internal-vs-external-ps5-ssd-how-to-choose/) . Finding[the best SSD for your PS5](https://www.makeuseof.com/best-m2-ssd-for-ps5/) can be daunting, but at least you won't have to worry about space anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save as Much Space as You Can on Your PS5
 
  If you’re never going to use it again, do you really need it? A build-up of saved data can potentially take up a decent chunk of space on your PS5, and if there is no chance of you ever needing it, you might as well use that space for something you are going to play.
 
  Deleting your saved data for good can be daunting, but at the end of the day, you can always play the game again if you find you are missing it too much. And the Cloud is always there as a backup if you’re feeling a little anxious about losing your saved data forever.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,4 +95,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-perfectpic-pro-high-quality-windowsmac-images/"><u>[New] 2024 Approved PerfectPic Pro High-Quality Windows/Mac Images</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-complete-beginners-guide-to-utilizing-look-up-tables-luts-for-2024/"><u>[Updated] The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-fast-fingers-for-capturing-chat-transcripts/"><u>2024 Approved Fast Fingers for Capturing Chat Transcripts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-guide-to-nvidia-screener-use-for-2024/"><u>Comprehensive Guide to NVIDIA Screener Use for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/creating-focus-in-meetings-blurring-the-video-uniformity/"><u>Creating Focus in Meetings Blurring the Video Uniformity</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-invalid-creditdebit-authorization-mistakes-on-console/"><u>Fixing Invalid Credit/Debit Authorization Mistakes on Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-access-transformed-valve-revamps-steam-family-sharing/"><u>Game Access Transformed: Valve Revamps Steam Family Sharing</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-6-titles-for-multitasking-game-broadcasters/"><u>Ideal 6 Titles for Multitasking Game Broadcasters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inspirational-metaverse-sayings-arvr-edition/"><u>Inspirational Metaverse Sayings AR/VR Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/instant-gaming-fixes-the-top-20-mobile-games-to-relax-and-entertain/"><u>Instant Gaming Fixes: The Top 20 Mobile Games to Relax and Entertain</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/maximize-your-obs-fb-integration-tips/"><u>Maximize Your OBS-FB Integration Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-your-gaming-space-with-game-bar-controls/"><u>Securing Your Gaming Space with Game Bar Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-use-of-ping-command-in-pc-operations/"><u>Strategic Use of Ping Command in PC Operations</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-addressing-steam-installation-mistakes-on-windows-11/"><u>Swiftly Addressing Steam Installation Mistakes on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-hygiene-keeping-your-ps5-pristine/"><u>Tech Hygiene: Keeping Your PS5 Pristine</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-6-easy-to-remember-ways-to-activate-ps5/"><u>The 6 Easy-to-Remember Ways To Activate PS5</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-windows-10-fixing-common-bluetooth-connectivity-problems/"><u>Troubleshooting Windows 10: Fixing Common Bluetooth Connectivity Problems</u></a></li>
+</ul></div>
 

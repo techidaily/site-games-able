@@ -1,7 +1,7 @@
 ---
 title: "Top Independent Games Uncovered: My Personal Gaming Journey"
-date: 2024-08-08T09:17:33.196Z
-updated: 2024-08-09T09:17:33.196Z
+date: 2025-01-29T16:16:29.900Z
+updated: 2025-01-30T16:12:02.555Z
 tags:
   - games
 categories:
@@ -25,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1 Last Word
 
 [Last Word](https://store.steampowered.com/app/355530/Last%5FWord/) is an RPG where you do battle not with swords or staves, but with the power of words. You’ve been summoned to a mysterious mansion alongside a cadre of colorful characters (not unlike Clue), where you must investigate matters of international intrigue.
@@ -36,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 Untitled Goose Game
 
  It’s always worth watching various new games roundups like the Summer Games Fest or[Wholesome Games on YouTube](https://www.youtube.com/c/WholesomeGames) because, even if you’re not into everything shown, it’s always good to know what other people will be playing, and you might even discover a few new favorites for yourself.[Untitled Goose Game](https://goose.game/) is one of those titles, with a trailer that became so popular that developer House House Games ultimately ended up keeping the provisional title.
@@ -59,13 +61,11 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Storyteller
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
@@ -79,14 +79,16 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 
@@ -98,14 +100,11 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
  There are plenty of ways to find indie gems to play. These are a few of the ways I found some of my own favorites and hopefully they can help you find new indie games to play too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +113,17 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/become-an-instagram-broadcast-pro-learning-through-obs-for-2024/"><u>Become an Instagram Broadcast Pro Learning Through OBS for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/go-pro-become-a-twitch-streaming-powerhouse-on-your-phone/"><u>Go Pro: Become a Twitch Streaming Powerhouse on Your Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nokia-c22-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nokia C22 Phone?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lgs-cinematic-revolution-the-31mu97-b-monitor-breakdown-review/"><u>LG’s Cinematic Revolution The 31MU97-B Monitor Breakdown Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-bio-link-addition-on-tiktok-for-2024/"><u>Mastering Bio Link Addition on TikTok for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/outwit-ny-times-influence-with-these-top-8-tactics/"><u>Outwit NY Times Influence with These Top 8 Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/splitstream-analysis-top-video-camera-champion-in-2024/"><u>SplitStream Analysis Top Video Camera Champion, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultrafine-in-action-an-extended-review-of-lgs-4k-display/"><u>UltraFine in Action An Extended Review of LG’s 4K Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-series-xands-full-potential-screen-tuning-guide/"><u>Unlock Your Series X&S Full Potential: Screen Tuning Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplugging-microphones-on-your-ps5-best-practices/"><u>Unplugging Microphones on Your PS5 - Best Practices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Invisible Steam Collection
-date: 2024-08-08T09:13:05.166Z
-updated: 2024-08-09T09:13:05.166Z
+date: 2025-01-27T18:13:20.169Z
+updated: 2025-01-30T17:40:41.316Z
 tags:
   - games
 categories:
@@ -36,21 +36,23 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 
  But the new feature lets you mark specific titles while keeping the remainder of your library visible. For each private game, Steam hides your in-game status, playtime, and other activity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Hide a Game on Steam With the Private Feature
 
  If you specifically want to keep friends from seeing a game in your library and prevent them from seeing when you're playing it, you should mark it as private.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![marking a game as private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/marking-a-game-as-private-on-steam.png)
 
  To do this, open Steam and head to your**Library.** Scroll down to the game you want to make private and right-click on it. Then select**Manage > Mark as Private** . In the popup box, select the**Mark as Private** button.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mark as private notification on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mark-as-private-notification.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I noticed that the feature doesn't work immediately if you are currently playing the game. So it's best to exit the game before setting a title as private. When you re-enter the game, it should no longer show up in your status.
 
@@ -62,10 +64,11 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 
  To do this, go to the store page of the game you want to purchase and select**Add to Cart** . In the popup that appears, click on the drop-down menu that says**For my account** and select**For my account: private** . Then continue with the checkout as usual. This will keep a game private from the beginning.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![set cart item to private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-cart-item-to-private.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Checking a Game's Private Status
 
@@ -73,10 +76,11 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 
  Use the search bar to type in the name of the game you want to check. The game will appear and if it is marked as private, you will see a**crossed-out eye icon** on the right. Click this icon if you want to stop hiding the game.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![checking that a game is private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/checking-that-a-game-is-private-on-steam-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also head to your library to remove a game from your private items. Right-click on the title and then select**Manage > Unmark as Private** .
 
@@ -88,29 +92,23 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 
  If you've been using the wrong feature to try making your games private, you can find all your hidden games in your library. If you remember the name of the specific title, you can search for it and it will show up under a hidden tab.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find your hidden games on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/find-your-hidden-games-on-steam.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don't remember the names of the games you've hidden in the past, you can select the**View** option at the top of the Steam app and then select**Hidden Games** . You can then go through each one to mark it as private.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![hidden games folder on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/hidden-games-folder-on-steam.png)
 
  Now that you know how to set games as private on Steam, as well as the differences between hidden games and private games, you can maintain more control over which of your games your friends can see on Steam.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +117,26 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-the-art-of-prepping-space-for-virtual-reality/"><u>2024 Approved Mastering the Art of Prepping Space for Virtual Reality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/an-insightful-critique-how-watch-dogs-legon-revolutionizes-its-franchise-with-a-fresh-backdrop/"><u>An Insightful Critique: How Watch Dogs: Legon Revolutionizes Its Franchise with a Fresh Backdrop</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-mastery-leverage-customizable-description-templates-for-more-followers-for-2024/"><u>Channel Mastery Leverage Customizable Description Templates for More Followers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/engage-enrich-and-excel-top-ideas-for-productive-podcast-sessions-for-2024/"><u>Engage, Enrich & Excel Top Ideas for Productive Podcast Sessions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-users-via-themed-gaming-events-on-discord-platforms/"><u>Engaging Users via Themed Gaming Events on Discord Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-to-cost-free-engaging-game-worlds/"><u>Gamers' Guide to Cost-Free, Engaging Game Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-graphics-tech-xna-series-face-off-directx/"><u>Gaming Graphics Tech: XNA Series Face-Off (DirectX)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hands-on-the-z270-gaming-pro-carbon-motherboard-chipset/"><u>Get Your Hands on the Z270 Gaming Pro Carbon Motherboard Chipset</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-a56s-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo A56s 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-premier-vod-extractors-for-streamers-5/"><u>Navigating the Premier VOD Extractors for Streamers #5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-digital-label-changing-username-in-windows-11/"><u>Revolutionize Your Digital Label: Changing UserName in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-to-resolve-lag-problems-when-playing-resident-evil-village-on-pc/"><u>Step-By-Step Solution to Resolve Lag Problems When Playing Resident Evil Village on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-warriors-unite-ps5-and-xbox-series-x-face-off/"><u>Tech Warriors Unite! PS5 & Xbox Series X Face-Off</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-virtual-journey-understanding-the-pros-and-cons-of-downloads/"><u>The Virtual Journey: Understanding the Pros and Cons of Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/transferring-game-files-seamlessly-via-steam-tool/"><u>Transferring Game Files Seamlessly via Steam Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-nintendo-switch-understanding-passcode-functionality/"><u>Transform Your Nintendo Switch: Understanding Passcode Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-a-world-of-games-with-these-9-steam-strategies/"><u>Unlocking a World of Games with These 9 Steam Strategies</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580002711-unlocking-hindi-potential-with-mondly-the-best-reasons-why/"><u>Unlocking Hindi Potential with Mondly: The Best Reasons Why</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-restricted-organizational-browser-settings-on-windows-machines/"><u>Unlocking Restricted Organizational Browser Settings on Windows Machines</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficiently Localize Your Games Using Fan Translations
-date: 2025-01-14T21:46:43.602Z
-updated: 2025-01-16T17:09:18.496Z
+date: 2025-01-26T17:40:51.054Z
+updated: 2025-01-30T17:55:08.534Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You’ll Need to Apply a Fan Translation Patch
@@ -33,23 +33,19 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
  Got the emulator? The next thing you need is a ROM file to play the game you want to translate. It's important you ensure that you use copies of games you own. This way, you guarantee you use ROMs correctly and legally.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### A Working Emulator and ROM File
 
  Got your ROM? Good. Create a new folder to store your ROM file called**ROMS** (or an equivalent) in the emulator's directory. This is where you will store your games for that particular emulator. See below for an example of what this looks like on a Windows desktop.
 
 ![A screenshot of the Fusion emulator directory on File Explorer highlighting a Roms folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2686-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While every emulator is different, you can test your ROM files in roughly the same way. Open your emulator, then select**File > Load ROM** . Choose the ROM file saved in the**ROMS** folder of your emulator's directory.
 
  In most cases, the ROM file should load, letting you play the game (albeit in an untranslated state). If the ROM does not load, obtain another copy of the ROM file or confirm the ROM file currently works with the emulator you have chosen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### A Translation Patch File
 
@@ -59,11 +55,11 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ![Panorama Cotton English translation patch page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/romhacking-panorama-cotton-translation.jpg)
 
- Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
 
 ### A Patch Tool
 
@@ -81,10 +77,14 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ![A screenshot of Rom Patcher JS with a loaded Rom File and Patch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/panorama-cotton-english-translation-file-in-folder-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now it’s time to test out the new ROM file. Load the new ROM file in your emulator as normal. Did it work? In this example, yes! Take a look at the side-by-side comparison of the newly patched ROM file (left) and the original ROM file (right) in action!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Patch Your Favorite Classic Games in a Few Simple Steps
@@ -106,14 +106,18 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-techs-trailblazers-windows-10-redefines-user-interface-for-2024/"><u>[New] Tech's Trailblazers Windows 10 Redefines User Interface for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-efficient-mac-screenshotting-via-keyboard-for-2024/"><u>[Updated] The Ultimate Guide to Efficient Mac Screenshotting via Keyboard for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-breakdown-the-top-features-and-capabilities-of-the-dell-xps-13-convertible-laptop/"><u>Comprehensive Breakdown: The Top Features & Capabilities of the Dell XPS 13 Convertible Laptop</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-guide-streaming-apple-tvplus-on-your-chromecast/"><u>Easy Guide: Streaming Apple TV+ on Your Chromecast</u></a></li>
-<li><a href="https://games-able.techidaily.com/flawless-illusion-and-errors-in-pimaxs-vr-headset-crystal/"><u>Flawless Illusion & Errors in Pimax's VR Headset Crystal</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-motorola-g54-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Motorola G54 5G Phones with/without a PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/solving-offline-status-in-steam-for-win11-users/"><u>Solving Offline Status in Steam for Win11 Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/stream-assist-explained-why-your-games-are-more-enjoyable/"><u>Stream Assist Explained: Why Your Games Are More Enjoyable</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-guide-to-best-led-lights/"><u>Ultimate Guide to Best LED Lights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-popularity-on-youtube-11-powerful-seo-techniques-for-video-content-for-2024/"><u>[New] Gain Popularity on YouTube 11 Powerful SEO Techniques for Video Content for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-efficient-collaboration-combining-the-power-of-zoom-and-skype/"><u>[Updated] In 2024, Efficient Collaboration Combining the Power of Zoom and Skype</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-decoded-an-in-depth-look-at-video-hosting/"><u>2024 Approved Vimeo Decoded An In-Depth Look at Video Hosting</u></a></li>
+<li><a href="https://video-capture.techidaily.com/comprehensive-potplayer-strategy-for-seamless-youtube-viewing-and-saving-in-one-place/"><u>Comprehensive PotPlayer Strategy for Seamless YouTube Viewing & Saving in One Place</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-2024s-finest-nintendo-switch-dock-compilation/"><u>Discovering 2024'S Finest: Nintendo Switch Dock Compilation</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-a78-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo A78 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aging-youtube-trailers-for-optimal-revenue-generation-for-2024/"><u>Leveraging YouTube Trailers for Optimal Revenue Generation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-to-your-steam-id-online/"><u>Navigating to Your Steam ID Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-the-disruption-a-step-by-step-guide-to-preventing-google-chrome-crashes/"><u>Stop the Disruption: A Step-by-Step Guide to Preventing Google Chrome Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/tecno-unveils-thinner-t1-vivid-s1-at-ifa-2023/"><u>Tecno Unveils Thinner T1, Vivid S1 at IFA 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125189694-thangz-3d-printer-add-ons-by-felicia-day-now-available-for-download/"><u>Thangz 3D Printer Add-Ons by Felicia Day Now Available for Download!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-potential-with-apples-game-mode-in-sonoma-os/"><u>Unlocking Gaming Potential with Apple's Game Mode in Sonoma OS</u></a></li>
+<li><a href="https://techidaily.com/vivo-bypass-tools-to-bypass-lock-screen-vivo-y78plus-t1-edition-by-drfone-android-unlock-android-unlock/"><u>Vivo Bypass Tools to Bypass Lock Screen(Vivo Y78+ (T1) Edition)</u></a></li>
 </ul></div>
 

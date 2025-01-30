@@ -1,7 +1,7 @@
 ---
 title: Expanding Language Reach in ROMs with Easy Applications
-date: 2024-08-08T09:13:04.191Z
-updated: 2024-08-09T09:13:04.191Z
+date: 2025-01-25T16:25:48.533Z
+updated: 2025-01-30T16:18:38.346Z
 tags:
   - games
 categories:
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  That sounds awesome until you consider the language barrier. That's where fan translation patches can help. These types of unofficial, fan-created patches can translate in-game text and dialogue into another language. Let’s take a closer look at what you’ll need to apply a fan translation patch for your own games.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You’ll Need to Apply a Fan Translation Patch
 
  Before you download a fan translation patch, get an emulator. There are plenty of[fantastic emulators to play classic games on your Android phone or tablet](https://www.makeuseof.com/tag/best-game-emulators-for-android/) , like the Sega Genesis/Mega Drive game I'm using in the example later. If you prefer a standalone unit for retro gaming, consider[building a portable retro gaming console via Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) and putting your emulator on that.
@@ -28,15 +29,13 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  Got the emulator? The next thing you need is a ROM file to play the game you want to translate. It's important you ensure that you use copies of games you own. This way, you guarantee you use ROMs correctly and legally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### A Working Emulator and ROM File
 
  Got your ROM? Good. Create a new folder to store your ROM file called**ROMS** (or an equivalent) in the emulator's directory. This is where you will store your games for that particular emulator. See below for an example of what this looks like on a Windows desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the Fusion emulator directory on File Explorer highlighting a Roms folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2686-1.jpg)
 
  While every emulator is different, you can test your ROM files in roughly the same way. Open your emulator, then select**File > Load ROM** . Choose the ROM file saved in the**ROMS** folder of your emulator's directory.
@@ -49,21 +48,23 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 [Romhacking](https://www.romhacking.net/translations) has a library of translations (and a whole heck of a lot more) available for games of all generations. And there happens to be a “Fully Playable” English translation of Panorama Cotton available to download. Select**Download** under**Links** to download the translation patch file.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Panorama Cotton English translation patch page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/romhacking-panorama-cotton-translation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### A Patch Tool
 
  A patch tool works by binding a patch file to a ROM file, thus creating a new ROM file with the parameters of the patch baked in. It’s the same concept as your platform of choice auto-updating a game you’re about to play before you can play.
 
  In the past, you needed to know the different types of patch files. But today, that's not really the case, especially as you can[create your own Rom Hacks for games like Pokémon](https://www.makeuseof.com/how-to-create-rom-hacks/) from an Android device or straight from the web with sites like Rom Patcher JS. Let's use the former as an example.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Apply a Fan Translation Patch to Your ROM
 
@@ -73,25 +74,23 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
  Select**Apply patch** to download the newly patched version of the ROM file. Rename it if you prefer, then add it to your**ROMS** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of Rom Patcher JS with a loaded Rom File and Patch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/panorama-cotton-english-translation-file-in-folder-2.jpg)
 
  Now it’s time to test out the new ROM file. Load the new ROM file in your emulator as normal. Did it work? In this example, yes! Take a look at the side-by-side comparison of the newly patched ROM file (left) and the original ROM file (right) in action!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Patch Your Favorite Classic Games in a Few Simple Steps
 
  If you know how to emulate ROM files, you can patch them to play in your preferred manner. From adding new gameplay mechanics to new characters, stages, and so much more, knowing how to patch ROM files opens up a whole new world of classic games to play. The only problem is that you have decades worth of patches to comb through, so you best get started!
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +99,22 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-enhancing-user-experience-with-timecodes-in-videos/"><u>[Updated] 2024 Approved Enhancing User Experience with Timecodes in Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-essential-iphone-podcast-retrieval-handbook/"><u>[Updated] 2024 Approved The Essential iPhone Podcast Retrieval Handbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-social-gaming-by-live-streaming-your-xbox-games/"><u>Enhance Social Gaming by Live Streaming Your Xbox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/fighters-frameworks-stick-or-controller-what-sways-you/"><u>Fighter's Frameworks: Stick or Controller, What Sways You?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-11-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 11 Without Passcode Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-expense-reversal-the-comprehensive-guidebook/"><u>Fortnite Expense Reversal: The Comprehensive Guidebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10/"><u>In 2024, Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-for-a-smart-4k-lens-upgrade/"><u>In 2024, The Ultimate Guide for a Smart 4K Lens Upgrade</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-to-solving-file-creation-fail-error-30005/"><u>Quick Guide to Solving File Creation Fail (Error 30005)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reimagine-your-messaging-creating-unique-whatsapp-tones/"><u>Reimagine Your Messaging Creating Unique WhatsApp Tones</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-computer-hardware-issues-when-its-not-detected-expert-advice-from-yl-software/"><u>Resolving Computer Hardware Issues When It's Not Detected: Expert Advice From YL Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-role-of-arvr-in-medical-training/"><u>The Role of AR/VR in Medical Training</u></a></li>
+<li><a href="https://games-able.techidaily.com/todays-must-play-7-spectacenascious-mmos/"><u>Today's Must-Play: 7 Spectacenascious MMOs</u></a></li>
+<li><a href="https://games-able.techidaily.com/tuning-your-experience-minimizing-notifications-on-xbox/"><u>Tuning Your Experience: Minimizing Notifications on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmasking-mobilitys-mobile-misgivings/"><u>Unmasking Mobility's Mobile Misgivings</u></a></li>
+</ul></div>
 

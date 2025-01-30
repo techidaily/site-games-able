@@ -1,7 +1,7 @@
 ---
 title: Unintended Outcomes From Player-Funded Game Creators
-date: 2024-08-08T09:13:24.640Z
-updated: 2024-08-09T09:13:24.640Z
+date: 2025-01-27T16:23:58.032Z
+updated: 2025-01-30T18:22:23.427Z
 tags:
   - games
 categories:
@@ -15,8 +15,9 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 ## Unintended Outcomes From Player-Funded Game Creators
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Tipping game developers could be an option, but other methods like crowdfunding and Patreon already exist.
@@ -26,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -37,9 +39,9 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Do Game Developers Already Earn?
 
  The quick and unsatisfying answer is: it depends. Game Developer roles vary enormously, from sole indie developers working on their dream projects to in-house employees at the biggest publishing houses. Like many professions, game development can be very lucrative or pitifully rewarding.
@@ -47,6 +49,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 [Programming salaries differ](https://www.makeuseof.com/tag/programmer-average-salaries/) , and game developers—[including those who work on indie games](https://www.makeuseof.com/what-is-typical-indie-game-developer-salary/) —can expect a starting salary of around $40,000 in the US, rising to $70,000 with experience. Unless you’re a superstar game dev, the most you can realistically expect to earn from a studio is around $150,000.
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives Are Already Available
 
@@ -61,8 +67,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Negative Effects of Tipping Culture
 
  My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and[the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
@@ -71,14 +78,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## When Tips Might Work
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
@@ -103,14 +104,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  I think this is a reasonable compromise. I don’t want to see developers taken advantage of by a tipping culture that treats them as disposable. But if tipping is simply one form of recompense among many, and developers are fairly rewarded for their toil and innovation, then maybe it’s not all so bad.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +117,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-filmmakers-companion-the-journey-from-capturing-to-post-production-of-360-videos/"><u>[New] In 2024, A Filmmaker's Companion The Journey From Capturing to Post-Production of 360 Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/achieving-seamless-gaming-with-switch-pro-and-steam-for-2024/"><u>Achieving Seamless Gaming with Switch Pro & Steam for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-prices-to-value-in-apples-max-earbuds/"><u>Comparing Prices to Value in Apple's Max Earbuds</u></a></li>
+<li><a href="https://games-able.techidaily.com/download-extend-bg3-platform-insights/"><u>Download, Extend: BG3 Platform Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-narratives-text-rpgs-at-a-glance/"><u>Explore Narratives: Text RPGs at a Glance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-hd-action-recorder-brands-under-100/"><u>In 2024, Best HD Action Recorder Brands Under $100</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-12-pro-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 12 Pro Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-6s-plusipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 6s Plus/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-handheld-powerhouse-meet-pdw4/"><u>Innovative Handheld Powerhouse - Meet PDW4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-ai-chatbot-restrictions-understanding-its-consequences-on-everyday-communication/"><u>Navigating Through AI Chatbot Restrictions: Understanding Its Consequences on Everyday Communication</u></a></li>
+<li><a href="https://games-able.techidaily.com/prevent-steam-on-booting/"><u>Prevent Steam on Booting</u></a></li>
+<li><a href="https://games-able.techidaily.com/skill-up-your-design-with-these-nine-game-adventures/"><u>Skill-Up Your Design with These Nine Game Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-full-screen-the-easy-way-through/"><u>Steam's Full-Screen: The Easy Way Through</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quest-for-immersion-best-144hz-widescreen-options/"><u>The Quest for Immersion: Best 144Hz Widescreen Options</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-solving-windows-11-bluetooth-driver-conflicts/"><u>Troubleshooting and Solving Windows 11 Bluetooth Driver Conflicts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-multi-device-viewing-how-to-share-your-android-screen-on-a-fire-stick/"><u>Unleash Multi-Device Viewing: How to Share Your Android Screen on a Fire Stick</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-microsoft-must-refocus-xboxs-reward-mechanics/"><u>Why Microsoft Must Refocus Xbox's Reward Mechanics</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exciting 10 Gaming Experiences to Sharpen Design Aptitude
-date: 2025-01-18T19:44:03.860Z
-updated: 2025-01-23T03:42:23.176Z
+date: 2025-01-25T16:58:12.664Z
+updated: 2025-01-30T17:06:33.822Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/b6dbcc18e11dc426bd1e06a708ba47abaebc27e7b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1. Color
 
 ![Color design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/color-design-game.jpg)
@@ -46,6 +42,10 @@ The game presents a gradient color wheel. There are six rounds:
 
  Depending on the round, you’ll complete a circle of color with a new color based on the round name. You’re against the clock, but there’s plenty of time. There’s a calm, meditative feeling when you get the color matched correctly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2. Pixactly
 
 ![Pixactly design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pixactly-design-game.jpg)
@@ -61,14 +61,10 @@ The game presents a gradient color wheel. There are six rounds:
 ![I Love Hue app start page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-001.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![I Love Hue app game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-002.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![I Love Hue app game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-003.jpg)
 
@@ -88,13 +84,13 @@ Close
 
  This game is helpful for those new to UX/UI design. Once you’ve mastered the do’s and don’ts of interface design, you should[master some other technical skills of UX/UI designers](https://www.makeuseof.com/ui-ux-designer-skills-you-should-master/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5. Kolor
 
 ![Kolor design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kolor-design-game.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Kolor is another great color-matching game. It’s a simple premise: match the color to one of the options.
 
@@ -107,10 +103,14 @@ Close
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-002.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-003.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -119,7 +119,7 @@ Close
  In ten levels, you’ll be asked if a black dot is central to the shape on which it's placed. Select the happy emoji if you think it is or the poop emoji if you think it isn’t. Keep going through the rounds and find your results. It’s a great practice for eye measurements in design.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7. Hex Invaders
@@ -127,20 +127,20 @@ Close
 ![Hex Invaders design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hex-invaders-design-game.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another great color game, Hex Invaders helps you identify color combinations by their HEX codes. The HEX code is a 6-digit code that uses letters and numbers to represent the levels of Red, Green, and Blue—RGB—that make up any screen color.
 
  Hex Invaders is reminiscent of arcade games from the past. It’s easy to play and helps you recognize HEX codes quickly and with more understanding than just copying and pasting them in Adobe Illustrator.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8. Font Memory Game
 
 ![Font Memory Game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/font-memory-game-design-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s everybody’s favorite card game—Snap—for typography enthusiasts. This game tests not only your creative knowledge of font recognition, but also your memory.
 
@@ -149,6 +149,10 @@ Close
 ## 9. The Bézier Game
 
 ![The Bezier Game design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bezier-design-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you draw with the Bézier tool in Illustrator or other software, you’ll know that the best drawings use the least amount of nodes and steps. The Bézier Game is a fun game to test your Bézier skills.
 
@@ -171,10 +175,6 @@ Close
  Kerning is an important aspect of graphic design. Think you know about correct letter spacing? Kerntype is a fun and helpful game to train your eye for better letter spacing.
 
  The two outer letters are locked in place, and the aim of the game is to move any middle letters left or right until they are correctly set. A blue outline will show the correct placement, and you’ll be given a percentage of how close you were.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 12. What the Hex?
 
@@ -201,7 +201,7 @@ Close
  If the competition of Dudel Draw isn't enough for you, you could also enter[creative design challenges to improve your design skills](https://www.makeuseof.com/design-challenges-to-boost-creativity/) and confidence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Gamify Your Creative Design Skills
@@ -223,17 +223,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-streamline-your-content-with-optimal-tiktok-intro-strategies-mac/"><u>[New] Streamline Your Content with Optimal TikTok Intro Strategies (Mac)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-nokia-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Nokia Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://games-able.techidaily.com/disassembling-efficiency-a-practical-approach-to-xbox-360-slim/"><u>Disassembling Efficiency: A Practical Approach to Xbox 360 Slim</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-extended-boot-durations-in-star-wars-battlefront-ii-tips-and-tricks/"><u>Fixing Extended Boot Durations in Star Wars: Battlefront II - Tips & Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/helldivers-2-the-blueprint-for-epic-gaming-adventures/"><u>Helldivers 2: The Blueprint for Epic Gaming Adventures</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/interactive-setup-superior-dell-display-high-end-silent-soundheads-and-crystal-clear-webcam-integration/"><u>Interactive Setup: Superior Dell Display, High-End Silent Soundheads & Crystal Clear Webcam Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-network-status-4-tips-for-the-xbox-gamer/"><u>Mastering Network Status: 4 Tips for the Xbox Gamer</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-windows-roblox-error-403-situations/"><u>Navigating Through Windows' Roblox Error 403 Situations</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezes-how-to-fix-constant-crashes-in-watch-dogs-legion-for-pc-users/"><u>No More Freezes: How to Fix Constant Crashes in Watch Dogs: Legion for PC Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revolution-at-your-desk-windows-10-updates-reviewed/"><u>Revolution at Your Desk Windows 10 Updates Reviewed</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-motorola-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Motorola</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-a54-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy A54 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-early-bird-winners-youtubes-quick-favorites/"><u>[New] 2024 Approved Early Bird Winners Youtube's Quick Favorites</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-discovering-the-ins-and-outs-of-youtube-shorts-capital-for-2024/"><u>[Updated] Discovering the Ins and Outs of YouTube Shorts Capital for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-chart-success-the-top-online-stock-portals/"><u>2024 Approved Chart Success The Top Online Stock Portals</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-vr-headsets-high-quality-low-price/"><u>Affordable VR Headsets: High Quality, Low Price</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-excess-from-your-ps5-club-selections/"><u>Cutting Excess From Your PS5 Club Selections</u></a></li>
+<li><a href="https://games-able.techidaily.com/exchange-joy-through-steam-games-as-presents/"><u>Exchange Joy Through Steam Games as Presents</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-ready-ergonomic-desk-surfaces/"><u>Future-Ready Ergonomic Desk Surfaces</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-13-mini-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 13 mini SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a14-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A14 4G Phones with/without a PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-recoup-efficient-refunds-from-digital-games-series-xs/"><u>Quick Recoup: Efficient Refunds From Digital Games, Series X/S</u></a></li>
+<li><a href="https://win11.techidaily.com/reset-and-reboot-your-way-back-into-the-ms-store-windows-11/"><u>Reset & Reboot Your Way Back Into the MS Store (Windows 11)</u></a></li>
+<li><a href="https://games-able.techidaily.com/script-writing-revolution-chatgpt/"><u>Script Writing Revolution: ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-screen-no-pin-mastery-for-projector-mode-win11/"><u>Secure Screen, No-Pin Mastery for Projector Mode Win11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/simplified-guide-to-saving-instagrams-dynamic-content-for-2024/"><u>Simplified Guide to Saving Instagram's Dynamic Content for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/smart-cleanup-wizard-schedule-and-wipe-files-with-precision-in-stellar-eraser-standard-edition-v5/"><u>Smart Cleanup Wizard: Schedule & Wipe Files with Precision in Stellar Eraser Standard Edition V5</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-into-action-clearing-connection-snags/"><u>Switch Into Action! Clearing Connection Snags</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-boy-advance-emulator-showdown-on-ios/"><u>The Ultimate Game Boy Advance Emulator Showdown on iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ps5-upgrade-list-nine-must-haves/"><u>The Ultimate PS5 Upgrade List: Nine Must-Haves</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-distributing-your-ai-interactions/"><u>Unlocking the Power of Distributing Your AI Interactions</u></a></li>
 </ul></div>
 

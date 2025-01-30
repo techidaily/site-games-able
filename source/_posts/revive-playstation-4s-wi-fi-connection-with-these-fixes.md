@@ -1,7 +1,7 @@
 ---
 title: Revive PlayStation 4'S Wi-Fi Connection with These Fixes
-date: 2024-08-08T09:15:25.794Z
-updated: 2024-08-09T09:15:25.794Z
+date: 2025-01-24T16:55:11.294Z
+updated: 2025-01-30T18:04:27.105Z
 tags:
   - games
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 ## Revive PlayStation 4'S Wi-Fi Connection with These Fixes
 
  Whether your PlayStation 4 keeps disconnecting from Wi-Fi or you can't get your system online at all, we're here to help you fix PS4 network issues. Here's how to get your system back online as normal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1 Reboot Everything and Check Other Devices
 
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
  Another worthwhile early troubleshooting step is confirming your PS4 will[connect to your mobile hotspot](https://www.makeuseof.com/tag/tethering-use-mobile-internet-pc/) . If so, the issue lies with your home network, so the below tips will help. If not, your PS4's network hardware may be malfunctioning.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 Run the PS4 Network Test for More Details
 
  If a simple reboot didn't fix your PS4 Wi-Fi issues, you can run a built-in network test to get more information about where the problem lies. On your PlayStation 4, head to**Settings > Network > Test Internet Connection** .
@@ -44,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 * **PlayStation Network Sign-In:** Checks whether your system can reach the PlayStation Network. If it fails, you may be on a network that blocks PlayStation Network. While less likely, the issue may also lie on Sony's end.
 
 ![PS4 Network Test Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/02-ps4-network-test-results.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your computer passes these three checks, your PS4 is properly online. In addition, you may want to test a specific game to confirm all its online features are working.
 
@@ -63,30 +72,29 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 
  Go to **Settings > Network > Set Up Internet Connection > Use Wi-Fi > Easy** and run through the steps again to reconnect to your network. Pay attention when entering the Wi-Fi password; an incorrect password is a common mistake (especially since using a controller to type is prone to error).
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PS4 Set Up Network Connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/03-ps4-set-up-network-connection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As a potential fix, you can also try changing your DNS settings to use a third-party provider instead of your ISP's servers. To do this, select**Custom** instead of**Easy** . You don't need to tweak any of the other options, so choose**Automatic** for**IP Address Settings** , then**Do Not Specify** for**DHCP Host Name** .
 
  At the**DNS Settings** screen, choose**Manual** and enter the information for[an alternate DNS server](https://www.makeuseof.com/tag/best-dns-providers-security/) . If you can't decide, try setting**Primary DNS** to**8.8.8.8** and**Secondary DNS** to**8.8.4.4** for Google's public DNS servers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![PS4 DNS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/06/PS4-DNS-Settings.jpg)
 
  Confirm this, then choose**Automatic** for the**MTU Settings** and**Do Not Use** for**Proxy Server** . From there, you can test the connection again.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Improve Wi-Fi Reliability on Your PS4
 
  While Wi-Fi is convenient, it's susceptible to interference, which can cause your PS4 to disconnect from the network or suffer slow speeds. You can see how strong your PS4's Wi-Fi signal is by going to**Settings > Network > View Connection Status** and checking the**Signal Strength** entry.
 
 ![PS4 Connection Status Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/04-ps4-connection-status-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this is below 80%, you should try improving it by taking the following steps:
 
@@ -98,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 
  Depending on your PS4 model, you might also be able to connect to the 5GHz band on your router for a more consistent signal. The PS4 Slim and PS4 Pro can use the 5GHz band, but the original model PS4 cannot.[Compared to 2.4GHz, 5GHz connections](https://www.makeuseof.com/difference-2-4ghz-5ghz-wi-fi/) are often faster and not subject to as much interference, but don't travel as far. If your PS4 is close to your router, and you have a compatible model, it's worth trying the 5GHz band as a potential solution.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 5 Make Sure the PlayStation Network Is Available
 
 ![PS Network System Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ps-network-system-status.png)
@@ -122,35 +127,21 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
  See[Sony's support page](https://manuals.playstation.net/document/gb/ps4/settings/nw%5Ftest.html) about the PS4 network test for a list of which ports need forwarding for PSN services, and check the documentation for your particular game to find its applicable ports. Note that if you're having this problem on a school or work network, the institution likely has PSN blocked. There's not much you can do unless you manage the network.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7 Try Using Your Router's Guest Network
 
  If your PS4 won't reliably connect to your Wi-Fi, try[enabling the guest network on your router](https://www.makeuseof.com/tag/reasons-guest-network-router/) and connecting to that on your PS4 instead. While it might sound strange, this solved a problem I had years ago when my PS4 wouldn't connect to the router but everything else did. Some[GameFAQs threads](https://gamefaqs.gamespot.com/boards/691087-playstation-4/76100064?page=1) have also recommended this method, particularly on the original model of PS4 (which I have).
 
  The guest network can work differently depending on your router. In some cases, it's simply a separate network name with its own password. When I had this problem, the guest network appeared as an open connection that you could connect to without a password, but then required you to open the**Internet Browser** app on your PS4 and sign in using the guest network password.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ASUS Router Guest Network Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-router-guest-network-options.png)
 
  There's another important factor that might lead you to this method: the PS4 does not[support WPA3 Wi-Fi security](https://www.makeuseof.com/tag/tell-what-security-type-wi-fi-is/) . If your router uses this modern security standard, you'll need to change it to WPA2 for your PS4 to get online. In my testing, the hybrid WPA3/WPA2 setting doesn't work—it must be WPA2 alone. If you want to avoid using this older security method on your main network, you can enable WPA2 on your guest network and connect your PS4 to that.
 
  Depending on your router, the guest network may kick you offline at regular intervals. Keep this in mind so you don't get booted from an important multiplayer match.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8 Connect With an Ethernet Cable
 
  While one or more of the above fixes will hopefully help when your PS4 Wi-Fi signal is too weak or won't work at all, a wired connection is always better. Hard-wiring your PS4 to your router using an Ethernet cable will result in a more stable connection with faster data speeds.
@@ -161,14 +152,11 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 
  Now you know what to do when your PS4 Wi-Fi has stopped working or becomes unreliable. Hopefully, you're able to patch it up so you can get to playing online again. If nothing else worked, you might consider calling your internet service provider to ask about any internet filters or similar blocks it has applied. Otherwise, you can[factory reset your PS4](https://www.makeuseof.com/how-to-factory-reset-ps4/) as a dire last step.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +165,21 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-pinnacle-of-mac-livestream-software-1-5-guide/"><u>[New] In 2024, The Pinnacle of Mac Livestream Software - #1-5 Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-8-best-video-calling-app-for-windows/"><u>[Updated] In 2024, Top 8 Best Video Calling App for Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-streaming-success-starts-here-your-channel-gear-guide/"><u>[Updated] Streaming Success Starts Here Your Channel Gear Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-oggwav/"><u>「Movaviで使いやすい無料音声ファイル形式コンバーター - OGGとWAV」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bringing-smiles-without-dollars-the-mememakers-way/"><u>Bringing Smiles without Dollars – The MemeMaker’s Way</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-and-rectifying-steam-auth-delays-in-rust-games/"><u>Deciphering & Rectifying Steam Auth Delays in Rust Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-guide-for-malfunctioning-mac-cameras/"><u>Effortless Troubleshooting Guide for Malfunctioning Mac Cameras</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-to-the-lands-of-java-miners-methodology/"><u>Journey to the Lands of Java: Miners' Methodology</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwc-2024-highlights-and-hits-makeuseof-top-picks/"><u>MWC 2024 Highlights & Hits: MakeUseOf Top Picks</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-common-steam-issues-in-windows-11/"><u>Overcoming Common Steam Issues in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/running-bg3-on-macos-with-crossover/"><u>Running BG3 on macOS with CrossOver</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-value-and-power-in-tech-the-iphone-14-pros-all-day-charge-and-top-reasons-to-choose-it-over-competitors/"><u>Unlocking Value & Power in Tech: The iPhone 1^4 Pro's All-Day Charge and Top Reasons to Choose It Over Competitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/wi-fi-woes-7-easy-to-follow-solutions-for-playstation-4-users/"><u>Wi-Fi Woes? 7 Easy-to-Follow Solutions for PlayStation 4 Users</u></a></li>
+</ul></div>
 

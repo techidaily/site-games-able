@@ -1,7 +1,7 @@
 ---
 title: "Detecting Disconnect: Xbox S/X's Offline Indicators Explained"
-date: 2024-08-08T09:15:58.159Z
-updated: 2024-08-09T09:15:58.159Z
+date: 2025-01-26T18:10:43.735Z
+updated: 2025-01-30T17:31:46.446Z
 tags:
   - games
 categories:
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
 
  When Xbox friends constantly appear offline, it can be a pain to organize online gaming sessions or, at worst, a sign that someone is avoiding you. But with an Xbox Series X|S, there are a few ways you can tell if someone is appearing offline. Let's take a look.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 1\. Check the Friends & Community App on Your Xbox Series X|S
 
  On Xbox, one of the main ways you can track online behavior is through the**Friends & Community Updates** app. From here, you can view any game captures, achievements, or posts from your friends. And the best part? Even posts from friends appearing offline are shown through the app.
@@ -28,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
 * From the home screen of your Xbox, select**My games & apps** .
 * Highlight the option for**Apps** , and select**Friends & Community Updates** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![A screenshot of the Apps section of My Games and Apps on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2995.jpg)
 
 * Find the displayed posts under**Shared by friends** .
@@ -59,8 +52,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If you know someone hasn't been online for the duration of the time the**Gamerscore leaderboard** has been tracking Achievements, but you can see they have earned Gamerscore, they are appearing offline.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Look Through Your Xbox Friend’s Achievements
 
  While the past few methods help you to tell if someone is appearing offline for a long period, there are more direct ways to tell if people are offline on Xbox.
@@ -73,9 +67,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![A screenshot of an Xbox Friend profile on Xbox Series X with the option See Full Profile highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3163.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Under**Social** , highlight**Activity Feed** to see recently unlocked Achievements.
 
 ![A screenshot of an Xbox Friend Activity Feed on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3173.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From here, you should be able to see your friend's most recently unlocked Achievement and how long ago it was unlocked. You know your friend is appearing offline if they are offline but have unlocked Achievements recently.
 
@@ -92,37 +94,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Select your friend's Profile.
 * Highlight**Gaming** , and select a game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![A screenshot of the Gaming option available on Xbox Series X when comparing two Xbox Profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3169.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Scroll down the on-screen gaming stats until you find**Time played** .
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Keep Track of Your Friends on Xbox Series X|S for Smooth Social Gaming
 
  When an Xbox friend appears offline, whether it is to ignore you, not play a specific game, or even to just escape social pressures, it can complicate organizing social gaming sessions. But at least with Xbox Series X|S, you can use any of the above methods to try and get to the bottom of why or if a friend is offline.
 
  With the questions of whether and why someone is offline solved, you can get on with organizing your Xbox parties and sessions without any extra social road bumps caused by offline players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +129,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-amplify-your-social-impact-with-these-innovative-fb-growth-tactics/"><u>[New] 2024 Approved Amplify Your Social Impact with These Innovative FB Growth Tactics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seize-your-social-media-videos-top-extensions-and-downloaders-for-firefox/"><u>[New] 2024 Approved Seize Your Social Media Videos! Top Extensions and Downloaders for Firefox</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-new-era-of-racing-vr-bike-selection-guide-for-2024/"><u>[New] New Era of Racing VR Bike Selection Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unveiling-the-top-4-fullscreen-recorder-for-pc-and-mac-users/"><u>[Updated] In 2024, Unveiling the Top 4 Fullscreen Recorder for PC & Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-nvidia-g-syncs-role-in-flawless-gaming-experience/"><u>Exploring Nvidia G-Sync's Role in Flawless Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/gift-of-play-spread-joy-with-game-subscriptions/"><u>Gift of Play: Spread Joy with Game Subscriptions</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-spark-20-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Spark 20 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/hands-on-analysis-discovering-the-power-and-comfort-of-cycwagens-latest-e-bike-model/"><u>Hands-On Analysis: Discovering the Power and Comfort of CycWagen's Latest E-Bike Model</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-mematic-for-efficient-note-taking-for-2024/"><u>Harness Mematic for Efficient Note-Taking for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-mastering-motion-control-top-camera-gadgets/"><u>In 2024, Mastering Motion Control - Top Camera Gadgets</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-series-sx-audio-through-headsets/"><u>Optimizing Series S/X Audio Through Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/regain-lost-wordle-streaks-iphoneandroid-solution/"><u>Regain Lost Wordle Streaks: IPhone/Android Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-cloud-operations-for-steam-devices/"><u>Seamless Cloud Operations for Steam Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/solve-crimes-with-4-smart-ai-games/"><u>Solve Crimes with 4 Smart AI Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-overcome-steam-purchase-issues/"><u>Strategies to Overcome Steam Purchase Issues</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-video-trailer-creators-for-mac-and-pc-2023-update/"><u>Updated In 2024, Top Video Trailer Creators for Mac and PC (2023 Update)</u></a></li>
+</ul></div>
 

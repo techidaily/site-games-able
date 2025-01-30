@@ -1,7 +1,7 @@
 ---
 title: Can the Price of PlayStation 5 Go Down After Supply Catches Up?
-date: 2024-07-29T06:01:50.520Z
-updated: 2024-07-30T06:01:50.520Z
+date: 2025-01-29T16:39:35.970Z
+updated: 2025-01-30T17:34:35.081Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 ---
 
 ## Can the Price of PlayStation 5 Go Down After Supply Catches Up?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,8 +37,9 @@ So, now that the PS5 shortage is over, could we see prices drop?
  With the PS5 in plentiful supply around the world,[it's finally time to say goodbye to the PS4](https://www.makeuseof.com/is-it-finally-time-to-say-goodbye-to-the-ps4/) and embrace Sony's next-gen console. This means a healthy shelf of PS5 consoles in almost any game store for gamers to take their pick from.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stores May Have to Drop Prices to Be Competitive
 
  With PS5 consoles becoming available in more locations, individual stores will likely drop prices to compete with each other. While the reductions may not be much, stores have a certain amount of wiggle room between cost-price and RRP that they could utilize to offer gamers a small discount without running at a loss.
@@ -42,8 +47,9 @@ So, now that the PS5 shortage is over, could we see prices drop?
  The issue here, however, is that most of the money in gaming is made from extended warranties and games rather than the consoles themselves, so any savings would be minimal.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## However, the PS5 Slim Could Keep Prices High
 
  Just a few months after the announcement that marked the end of the PS5 shortage, an October 10, 2023 post on the[PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/) brought yet another exciting announcement—the unveiling of new (slimmer) PS5 models.
@@ -58,24 +64,18 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
  Rather than the PS5 becoming cheaper and more accessible to gamers years after release, in August 2022, Sony announced in a post on the[PlayStation Blog](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/#:~:text=Based%20on%20these%20challenging%20economic,%29%2C%20as%20well%20as%20Canada.) that the cost of PS5 consoles sold in Europe, the UK, Japan, China, Australia, Mexico, and Canada was actually increasing. Reversing the trend we have seen with previous console generations, where the hardwar got significantly cheaper over time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![A person holding multiple dollar notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/counting-money.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  These price hikes were a direct result of the global economic environment that affects Sony as well as the rest of the world. While the US managed to stay out of the line of fire of those PS5 price hikes, inflation and the cost of living crisis rages on, making the changes of Sony dropping PS5 prices so soon after raising them unlikely.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Gamers Shouldn’t Hold Their Breath for PS5 Price Drops
 
  While stores may have the flexibility to drop the price of their PS5 consoles to stay competitive, they won't have the ability to offer any significant savings unless Sony does so with an official reduction in the RRP.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Marvels Spider Man 2 PS5 Bundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/marvels-spider-man-2-ps5-bundle.jpg)
 
  Image Credit:[Walmart](https://www.walmart.com/ip/PlayStation-5-Disc-Console-Marvel-s-Spider-Man-2-Bundle/5081658627?athbdg=L1102&from=/search)
@@ -85,21 +85,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  While there has been no confirmation of a PS5 console and game bundle with a significantly reduced price, the idea of Sony throwing in a game to sweeten the deal is a more realistic expectation than a standalone price drop for the console itself.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The PS5 Saga Continues One Step at a Time
 
  While we would all love to have PS5 consoles in plentiful supply AND the price dropping at the same time, it looks like the former is all we can ask for right now.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +105,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-encompassing-understanding-the-essence-of-googles-podcasts-app/"><u>[New] In 2024, Encompassing Understanding The Essence of Google's Podcasts App</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-enhancing-visual-storytelling-with-premiere-text-styles/"><u>[Updated] In 2024, Enhancing Visual Storytelling with Premiere Text Styles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-retroactive-video-mastery-for-android-users/"><u>[Updated] Retroactive Video Mastery for Android Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-circles-vs-cubes-unraveling-camera-types/"><u>2024 Approved Circles vs Cubes Unraveling Camera Types</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-unlimited-space-service-catalogue/"><u>2024 Approved Prime Unlimited Space Service Catalogue</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-every-part-perfectly-pairs-up-for-a-new-pc/"><u>Ensuring Every Part Perfectly Pairs Up for a New PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-video-journey-mastery-10-leading-apps-to-up-your-youtube-short-game/"><u>In 2024, Video Journey Mastery 10 Leading Apps to Up Your Youtube Short Game</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-rapid-playback-in-spotify-safe-practices-revealed/"><u>Mastering Rapid Playback in Spotify Safe Practices Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-xbox-joystick-juice-prolonging-battery-life/"><u>Maximizing Xbox Joystick Juice: Prolonging Battery Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-vs-edge-ultimate-challenge-to-identify-best-game-browser/"><u>Opera Vs Edge - Ultimate Challenge to Identify Best Game Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-effective-steam-game-review-writing/"><u>Strategies for Effective Steam Game Review Writing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/streamline-file-management-how-to-reclaim-and-relocate-the-lost-precision-folder-from-onedrive-to-local-storage/"><u>Streamline File Management: How to Reclaim and Relocate the Lost Precision Folder From OneDrive to Local Storage</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gamers-mouse-pads/"><u>Top-Rated Gamers' Mouse Pads</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-hidden-depths-of-your-playstation-5-games/"><u>Unlock the Hidden Depths of Your PlayStation 5 Games</u></a></li>
+</ul></div>
 

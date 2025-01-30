@@ -1,7 +1,7 @@
 ---
 title: "Break Controller Conundrum: Quick Cure for PS4 Gamepad Glitches"
-date: 2024-07-29T06:00:11.692Z
-updated: 2024-07-30T06:00:11.692Z
+date: 2025-01-26T16:13:17.762Z
+updated: 2025-01-30T17:38:59.660Z
 tags:
   - games
 categories:
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
  Let's look at fixes for when your PS4 controller is not working, so you can get back to playing.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PS4 Controller Won't Connect or Pair
 
  Normally, when you press the**PS Button** on your controller, it should turn on and connect to your system. However, when it's not connecting, you'll instead see the light bar on your controller flash for a bit, then turn off.
@@ -39,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 
  Keep in mind that the maximum number of DualShock 4 controllers you can have connected to the PS4 at once is four. If you already have four controllers connected, you'll need to disconnect one to make room for more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![PS4 Two Controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Two-Controllers.jpg)
 
 ## PS4 Controller Keeps Disconnecting
@@ -60,39 +58,35 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 
  Finally, remember that the PS4 has a setting that turns off controllers after they're idle for some time. If you don't want your PS4 controller to turn off when you're watching media apps like YouTube, go to **Settings > Power Save Settings > Set Time Until Controllers Turn Off** and choose**Never** . Note that this will use up the controller battery even while you're idle.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PS4 Never Turn Off Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Never-Turn-Off-Controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## General Fixes When Your PS4 Controller Isn't Working
 
  We've looked at specific fixes for a few common DualShock 4 problems above. Next, let's look at more general solutions for problems with PS4 controllers. Walk through these if your PS4 controller is still not responding.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### 1\. Restart Your Console
 
  While most controller issues stem from the controller itself, there's a chance that your PS4 is what's having the problem. To rule this out, you should restart your console before troubleshooting further.
 
  If your controller is working enough to access menus, hold the**PS Button** to open the Quick Menu, then go to**Power > Restart PS4** to reboot your system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![turn off ps4 quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/turn-off-ps4-quick-menu.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In case your controller isn't cooperating, press and hold the**Power** button on your PS4 console until you hear two beeps. This will fully shut it down—once it's powered off (with no lights on the front), press the**Power** button again to turn it back on. If you see an orange light, your system went into Rest Mode, which isn't a full shutdown.
 
  Try using your controller again after a reboot (connecting it via a USB cable if needed) and see if that helps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Forget and Re-Pair Your PS4 Controller
 
@@ -106,9 +100,6 @@ No advertising on the website.
 
  If this doesn't work, turn your PS4 back on and try pairing it the normal way, as above.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Hard Reset Your PS4 Controller
 
  If removing and re-pairing the controller didn't work, you can next try the full reset procedure for the DualShock 4\. You'll need a small pointed object, like a bent paper clip or a SIM card ejection tool, to do this. This won't reset anything on your PS4 or affect your controller aside from having to pair it again, so it's a non-intrusive troubleshooting step.
@@ -119,9 +110,6 @@ No advertising on the website.
 
  Once you've done this, connect your controller to your PS4 again via USB cable and see if it pairs successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Try Connecting the PS4 Controller Elsewhere
 
  At this point, if you haven't already, you should try connecting the PS4 controller that's having problems to another device. If you have similar problems when[using the PS4 controller on a PS5](https://www.makeuseof.com/use-ps4-controller-on-ps5/) , your PC, a friend's PS4, or a smartphone, then your controller is likely faulty.
@@ -136,11 +124,16 @@ No advertising on the website.
 
 ![PS4 Use USB Cable Communication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Use-USB-Cable-Communication.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this works, you should get a long USB cable so you can still enjoy gaming from the couch even when wired in.[Ailun's three-pack of 10-foot micro-USB cables](https://www.amazon.com/10ft3Pack-Charging-Smartphone-Connection-Blackwhite/dp/B06XYH75NQ?linkCode=ll1&tag=muo-v2-76tv1pg-20&linkId=f9f8e8d9d67b2bc78306aa8cfd5356be&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU93672&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fps4-controller-not-working-fix-common-issues%2F&asc%5Fcampaign=Evergreen) is a good cost-effective option.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## DualShock 4 Hardware Fix Options
 
  Like most hardware, DualShock 4 controllers have a one-year warranty. If you bought your PS4 controller within the last year and it's still not working after all the above tips, you should visit[PlayStation's Repairs page](https://repairs.playstation.com/) to put in a request for repair on your controller.
@@ -157,14 +150,11 @@ No advertising on the website.
 
  Hopefully, your DualShock 4 issue was easy to fix. While this is on your mind, it might be worth cleaning your controller to help keep it running at its best.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +163,16 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-budget-friendly-vr-headsets-that-deliver-immersion/"><u>[Updated] Budget-Friendly VR Headsets That Deliver Immersion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-8-must-have-macbook-wallpaper-apps/"><u>2024 Approved 8 Must-Have MacBook Wallpaper Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-optimizing-igtv-video-success-metrics/"><u>2024 Approved Optimizing IGTV Video Success Metrics</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-tranquility-techniques-managing-in-system-sounds/"><u>2024 Approved Tranquility Techniques Managing In-System Sounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/dominate-with-speed-enhancing-valorants-fps-on-a-windows-system/"><u>Dominate with Speed: Enhancing Valorant's FPS on a Windows System</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-steps-upload-and-sync-music-from-itunes-to-ios-devices-with-precision/"><u>Easy Steps: Upload and Sync Music From iTunes to iOS Devices with Precision</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicating-error-during-win-oculus-installation/"><u>Eradicating Error During Win-Oculus Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-speed-dueling-devices-wheel-vs-modern-touch-interface/"><u>High-Speed Dueling Devices: Wheel Vs. Modern Touch Interface</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-off-to-power-on-a-gamers-guide-to-console-care/"><u>Turn Off to Power On: A Gamer's Guide to Console Care</u></a></li>
+</ul></div>
 

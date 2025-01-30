@@ -1,7 +1,7 @@
 ---
 title: "Jumpstart Fun: Swapping the Switch's Old Joystick"
-date: 2024-08-08T09:14:22.860Z
-updated: 2024-08-09T09:14:22.860Z
+date: 2025-01-23T16:53:10.825Z
+updated: 2025-01-30T18:11:19.819Z
 tags:
   - games
 categories:
@@ -24,14 +24,11 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 
  When either of these things happens, your controller will start drifting. Drifting occurs when your joystick senses incorrect input and starts to move on its own, almost like your game is playing itself. Unfortunately, though, it’s definitely not as good at that as you are.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Close up of Nintendo Switch Pikachu and Eevee Joy Cons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Close-up-of-Nintendo-Switch-Pikachu-and-Eeve-joy-cons.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to[fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
 
@@ -39,13 +36,14 @@ No advertising on the website.
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Do I Need to Replace the Joysticks in My Nintendo Switch Joy-Con?
 
  There are a couple of tools you will require to complete the task at hand. These can all be purchased individually or in sets from sites like eBay or Amazon for just a couple of dollars each.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Tools For Replacing Joy Con Joystick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/tools-for-replacing-joy-con-joystick.jpg)
 
 * 1.5mm tri-wing screwdriver.
@@ -68,9 +66,6 @@ No advertising on the website.
 3. Use the plastic prying tool to gently pry the battery out. It can be a little difficult since the battery is stuck down with some sticky tabs, but it will come loose eventually. If you don’t have a plastic prying tool, that’s fine, using your finger will do. Just make sure you don’t use anything metal to pry your battery out.
 4. Unplug the battery by pulling the cord directly upwards and placing it to the side.
 5. Remove the three screws holding the center plate down with the 2.0mm Phillips head screwdriver. You only have to remove the top left, bottom right, and bottom right corner screws.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Joy Con Three Middle Plate Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-three-middle-plate-screws-1.jpg)
 
 1. Remove the ribbon cable holding the center plate on by gently lifting the flap and pulling it out.
@@ -83,24 +78,28 @@ No advertising on the website.
 
 1. Start plugging the ribbon cables back in by taking your needle nose tweezers and gently slotting them back in place. Flick the tabs down over the top to lock them in position.
 2. The hardest ribbon cable to plug back in is the one for the center plate. Sit the plate beside the Joy-Con and notice the slight curve that the ribbon cable naturally has. Don't try to fight this curve or straighten it out, simply slide it back in the way it naturally wants to go.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![ZL Ribbon Cable Reassembly Joy Con](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/zl-ribbon-cable-reassembly-joy-con-1.jpg)
 3. Sit the center plate back in place and screw the three screws back into position with the 2.0mm Phillips head screwdriver.
-4. Plug your battery back in by lining the plug up and pushing it down with a plastic tool.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Plug your battery back in by lining the plug up and pushing it down with a plastic tool.  
 ![Joy Con Battery Plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-battery-plug.jpg)
 5. Place the backplate on and screw the four screws back in using the 1.5mm tri-wing screwdriver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your Joy-Con should now be as good as new. The last step is to use the joystick calibration tool to make sure everything is working as it should. You can find the calibration tool in the Switch’s settings. Scroll down to**Controllers and Sensors** , press**Calibrate Control Sticks** , and follow the on-screen prompts to calibrate your joysticks.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
@@ -110,14 +109,11 @@ No advertising on the website.
 
  Taking advantage of Nintendo’s free repair service to fix your Joy-Con is definitely the best option if you aren’t familiar with taking apart electronics, but if you have a particularly special pair of Joy-Con and you don’t want to lose them, this is a brilliant way to level up your skill set and your Joy-Con at the same time.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +122,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mac-acoustic-arena-deep-dive/"><u>[New] In 2024, Mac Acoustic Arena Deep Dive</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-review-of-androids-adobe-lightroom/"><u>[New] Masterclass Review of Android's Adobe Lightroom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-20-anime-opening-anthems/"><u>[Updated] Excellent 20 Anime Opening Anthems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-record-films-seamlessly-across-tech-devices/"><u>[Updated] How to Record Films Seamlessly Across Tech Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-where-to-find-steam-captured-artifacts/"><u>Deciphering Where to Find Steam Captured Artifacts</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-asus-rog-allys-finest-docks/"><u>Explore ASUS ROG Ally's Finest Docks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-a2-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo A2 FRP Locks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2022-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2022) to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/increase-reaction-time-with-optimal-mouse-settings/"><u>Increase Reaction Time with Optimal Mouse Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-resolving-windows-steam-server-error/"><u>Methods for Resolving Windows Steam Server Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-android-with-ease-button-mapping-essentials/"><u>Navigating Android with Ease: Button Mapping Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/peeling-back-the-layers-of-cozy-game-popularity/"><u>Peeling Back the Layers of Cozy Game Popularity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-overcoming-the-error-code-0xc0000022-when-launching-adobe-applications/"><u>Resolved: Overcoming the Error Code 0xC0000022 When Launching Adobe Applications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/snag-the-hottest-gadgets-amazon-prime-day-exclusive-offers-in-2n24/"><u>Snag the Hottest Gadgets: Amazon Prime Day Exclusive Offers in 2N24</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-sticky-keys-on-pcs-running-windows-operating-systems-step-by-step-instructions/"><u>Solving the Problem of Sticky Keys on PCs Running Windows Operating Systems: Step-by-Step Instructions</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-game-passs-features-and-benefits/"><u>Understanding Xbox Game Pass's Features & Benefits</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-warfronts-the-creme-de-la-creme-of-online-fps-browser-games/"><u>Virtual Warfronts: The Crème De La Crème of Online FPS Browser Games</u></a></li>
+</ul></div>
 

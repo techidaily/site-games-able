@@ -1,7 +1,7 @@
 ---
 title: "Neglected Consequences: Devs Getting Paid by Players"
-date: 2025-01-16T17:13:35.342Z
-updated: 2025-01-22T20:07:25.417Z
+date: 2025-01-23T16:09:12.839Z
+updated: 2025-01-30T17:45:21.436Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Tipping game developers could be an option, but other methods like crowdfunding and Patreon already exist.
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  He implied that an in-game option might encourage players to reward the developer on completion of a game, when they’re most engaged with it.
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
 
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives Are Already Available
@@ -64,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
@@ -76,16 +80,12 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -124,21 +124,17 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-noble-tunes-archiver-android-edition/"><u>[New] 2024 Approved Noble Tunes Archiver, Android Edition</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-essential-iphoneside-by-side-guide-for-fb-sharing/"><u>[New] 2024 Approved The Essential iPhoneside by Side Guide for FB Sharing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-simplified-video-transferring-techniques-for-youtube-enthusiasts/"><u>[Updated] Simplified Video Transferring Techniques for YouTube Enthusiasts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-5-ps1-emulation-tools-for-modern-pcs/"><u>[Updated] Ultimate 5 PS1 Emulation Tools for Modern PCs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-turbo-speed-for-snapchat-newcomers-video-edition/"><u>2024 Approved Turbo Speed for Snapchat Newcomers Video Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-sites-enhancing-your-digital-experience/"><u>Cookiebot-Enabled Sites: Enhancing Your Digital Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-silver-status-to-core-benefits-xbox-live-golds-transformation/"><u>From Silver Status to Core Benefits: Xbox Live Gold’s Transformation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-motorola-edge-40-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Motorola Edge 40</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-waveform-wisdom-dimming-audio-with-expertise-in-premiere/"><u>In 2024, Waveform Wisdom Dimming Audio with Expertise in Premiere</u></a></li>
-<li><a href="https://games-able.techidaily.com/jumping-platforms-in-minecraft-transition-from-bedrock-to-java-geysermc-style/"><u>Jumping Platforms in Minecraft: Transition From Bedrock to Java, GeyserMC Style</u></a></li>
-<li><a href="https://games-able.techidaily.com/living-large-in-fortnite-for-mac-users-but-not-without-exceptions/"><u>Living Large in Fortnite - For Mac Users, But Not Without Exceptions</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-hunt-for-marvels-space-adventure-ps5/"><u>Mastering The Hunt for Marvel's Space Adventure PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/moza-r5-setup-at-499-ideal-newcomers-bundle/"><u>MOZA R5 Setup at $499 - Ideal Newcomer's Bundle</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-selection-of-16-joint-play-couch-experiences-on-xbox/"><u>Premier Selection of 16 Joint Play Couch Experiences on Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-bp-mode-freeze-in-steam-windows/"><u>Troubleshooting BP Mode Freeze in Steam Windows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/vidmaster-pro-8-review-highlights-for-2024/"><u>VidMaster Pro 8 Review Highlights for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-the-path-iphone-file-exchange-for-2024/"><u>[Updated] Navigating the Path IPhone File Exchange for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-bringing-vision-to-life-the-art-of-post-color-enhancement/"><u>2024 Approved Bringing Vision to Life The Art of Post-Color Enhancement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/captivating-conversations-opening-lines-in-audios-for-2024/"><u>Captivating Conversations Opening Lines in Audios for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/dhcp-connectivity-problems-solutions-for-server-contact-failures/"><u>DHCP Connectivity Problems – Solutions for Server Contact Failures</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-steam-vs-gog-retail-platforms-compared/"><u>Dissecting Steam vs GOG: Retail Platforms Compared</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/legacylite-gaming-machine-handheld-history/"><u>LegacyLite Gaming Machine: Handheld History</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-mobile-games-with-these-ios-four-star-emulators/"><u>Step Up Your Mobile Games with These iOS Four-Star Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/switching-off-discord-game-overlay/"><u>Switching Off Discord Game Overlay</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwiring-your-xbox-series-x-controller/"><u>Unwiring Your Xbox Series X Controller</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-you-need-to-know-about-troubleshooting-error-0x80070570/"><u>What You Need to Know About Troubleshooting Error 0X80070570</u></a></li>
 </ul></div>
 

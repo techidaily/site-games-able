@@ -1,7 +1,7 @@
 ---
 title: Optimized Airflow for Enhanced GPU Performance & Thermal Control
-date: 2025-01-13T21:52:52.245Z
-updated: 2025-01-16T17:51:12.736Z
+date: 2025-01-23T17:08:49.038Z
+updated: 2025-01-30T16:32:02.869Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 
 ![1080 Ti fans](https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608c149e23de7fcb6df36e4813.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jhet Borja/MakeUseOf
 
  Graphics cards rarely reach really high fan speeds, often reaching the thermal throttling threshold before it hits 80%. This could be because manufacturers don't want their graphics cards to be loud or for the fans to wear out prematurely.[GPU thermal throttling lowers performance](https://www.makeuseof.com/what-is-gpu-thermal-throttling-in-gaming/) , and higher temperatures lower your GPU's lifespan, a lose-lose situation. Similar to CPU throttling, GPU throttling leads to random FPS drops, lag spikes, artifacts, screen tearing, and other issues when gaming as your hardware struggles to keep up with the in-game processing requirements.
@@ -54,6 +46,10 @@ Jhet Borja/MakeUseOf
  With the right custom fan curve settings, however, you can flip that around and have a cooler GPU that uses its full potential instead of slowing down, keeping your gameplay at its maximum potential.
 
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -70,7 +66,7 @@ Jhet Borja/MakeUseOf
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
@@ -83,10 +79,14 @@ Jhet Borja/MakeUseOf
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Benchmark and Find Your Temperatures
@@ -102,6 +102,10 @@ Jhet Borja/MakeUseOf
 
 ![Manual fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/manual-fan-speed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
@@ -110,21 +114,17 @@ Jhet Borja/MakeUseOf
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
 
@@ -151,19 +151,18 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-picks-scrutinizing-active-and-leading-recorders-feats/"><u>[New] In 2024, Top Picks Scrutinizing Active and Leading Recorder's Feats</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-your-pc-ran-into-a-problem-and-needs-to-restart/"><u>[Solved] Your PC Ran Into a Problem and Needs to Restart</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-preservation-pathway-digitizing-and-safeguarding-old-family-photos/"><u>2024 Approved The Preservation Pathway Digitizing & Safeguarding Old Family Photos</u></a></li>
-<li><a href="https://games-able.techidaily.com/crossover-your-key-to-full-baldurs-gate-3-playability-on-macos/"><u>Crossover: Your Key to Full Baldur's Gate 3 Playability on macOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-setup-illuminated-picking-prime-3d-light-panels/"><u>Gaming Setup Illuminated: Picking Prime 3D Light Panels</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-pc-when-its-not-responding-on-windows-1-hanging-scenarios/"><u>How to Fix Your PC When It's Not Responding on Windows 1# (Hanging Scenarios)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-phantom-v-flip-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Phantom V Flip Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>In 2024, Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/metaverse-odyssey-10-sci-fi-movies-that-redefine-reality/"><u>Metaverse Odyssey 10 Sci-Fi Movies that Redefine Reality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protected-areas-such-as-national-parks-and-wildlife-reserves-safeguard-habitats-from-destructive-activities-like-deforestation-and-overfishing/"><u>Protected Areas Such as National Parks and Wildlife Reserves Safeguard Habitats From Destructive Activities Like Deforestation and Overfishing.</u></a></li>
-<li><a href="https://games-able.techidaily.com/saving-smart-with-top-quality-affordable-gaming-displays/"><u>Saving Smart with Top Quality, Affordable Gaming Displays</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-frugal-gamers-manual-amassing-high-quality-steam-games-for-nothing/"><u>The Frugal Gamer's Manual: Amassing High-Quality Steam Games for Nothing</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-secrets-of-prestigious-discord-groups/"><u>Unlock the Secrets of Prestigious Discord Groups</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-guide-to-fixing-microsoft-outlook-failures/"><u>Windows Guide to Fixing Microsoft Outlook Failures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-optimal-net-vaults-free-unique-ringtone-choices/"><u>[New] 2024 Approved Optimal Net Vaults Free, Unique Ringtone Choices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/est-journeys-charting-7-comedic-paths-to-viral-videos-for-2024/"><u>[New] Jest Journeys Charting 7 Comedic Paths to Viral Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-application-transition-to-linux-devices/"><u>Android Application Transition to Linux Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-controllers-perfectly-on-android-platforms/"><u>Connecting Controllers Perfectly on Android Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discreet-messaging-with-chatgpt-how-to-shield-your-talks-without-deleting/"><u>Discreet Messaging with ChatGPT: How to Shield Your Talks without Deleting</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-advice-on-selecting-the-best-location-for-your-ps4-camera/"><u>Essential Advice on Selecting the Best Location for Your PS4 Camera</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gopro-camera-rewind-selecting-superior-sd-cards-hero-7-8/"><u>GoPro Camera Rewind Selecting Superior SD Cards (Hero 7, 8)</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-deal-with-insufficient-ram-notice-roblox-on-iphone/"><u>How to Deal with Insufficient RAM Notice (Roblox) on iPhone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-honor-x50-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Honor X50 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/linkedin-has-added-games-but-heres-why-you-shouldnt-play-them/"><u>LinkedIn Has Added Games, but Here's Why You Shouldn't Play Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-shortage-solved-will-prices-decrease-soon/"><u>PS5 Shortage Solved: Will Prices Decrease Soon?</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-quiet-voice-use-in-multiplayer-play/"><u>Strategies for Quiet Voice Use in Multiplayer Play</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/w10-ultimate-screen-replay-suite-for-2024/"><u>W10 Ultimate Screen Replay Suite for 2024</u></a></li>
 </ul></div>
 

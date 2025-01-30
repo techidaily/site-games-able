@@ -1,7 +1,7 @@
 ---
 title: "CrossOver for AppleSilicon Gamers: A Step-by-Step Guide to Playing Windows Games"
-date: 2024-08-08T09:13:03.217Z
-updated: 2024-08-09T09:13:03.217Z
+date: 2025-01-29T16:57:12.798Z
+updated: 2025-01-30T18:15:40.302Z
 tags:
   - games
 categories:
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
  While Parallels is great, it only uses a fraction of your Mac’s power, giving for subpar gaming performance. That’s where CrossOver comes in; CrossOver will use as much of your Mac’s hardware as possible, and you can download and play Windows Steam games with it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Download, Install, and Set Up CrossOver
 
  The first step to begin your Apple silicon Mac Windows gaming journey is downloading and installing CrossOver.
@@ -37,11 +38,16 @@ Follow the steps below to get started:
 ![CrossOver purchase dialogue popup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/crossover-purchase-dialogue-popup.jpeg)
 5. You’ll find yourself in a window with an empty Home page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll notice that the menu is divided into**Home** and**Bottles** . Essentially, the**Bottles** section is where all the environments you download and run Windows applications are sorted. The**Home** section, however, contains shortcuts to recently opened Bottles.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install Steam in CrossOver
 
  CrossOver actually makes installing Steam’s bottle very easy. And, of course, before installing Steam,[ensure you have a functioning Steam account](https://www.makeuseof.com/what-is-steam-how-to-install/) .
@@ -49,21 +55,18 @@ Follow the steps below to get started:
 Here’s how to get Steam on CrossOver:
 
 1. Click**Install** at the bottom of the CrossOver side menu. You may find Steam in the**Popular Applications** section, but you can also use the search window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Install section of CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-section-of-crossover.jpeg)
 2. Double-click**Steam** and choose**Install** .
 3. Optional: You can choose which version of Steam you would like to install or what installer you would like to use in the**Details** section of Steam’s information page. Just click**Edit** .  
 ![Steam information page in CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-information-page-in-crossover.jpeg)
 4. Click**Yes** ,**Next** , or agree to any popups that appear on your screen while the installation continues.
 5. Microsoft XML Parser Setup will ask you to fill in the User Name and Organization input boxes, but you can leave these sections blank and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Microsoft XML Parser Setup on CrossOver for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/microsoft-xml-parser-setup-on-crossover-for-macos.jpeg)
 6. Follow the on-screen instructions for Steam’s setup and wait for the app to update. You’ll see Steam’s login screen as soon as it's finished.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Return back to CrossOver’s window, and you’ll notice that you have Steam as one of your bottles. Leave Steam alone for now and download some dependencies you would need to run the games you get from Steam.
 
@@ -75,19 +78,18 @@ Here’s how to install them to your Steam bottle:
 
 1. **Control** \-click or secondary-click**Steam** on the side menu.
 2. Select**Install software into ‘Steam’,** and CrossOver will take you back to the Install page.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam Bottle context menu on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-bottle-context-menu-on-crossover.jpeg)
 3. Type**DirectX** into the search bar, select**DirectX for Modern Games** , and click**Install** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Follow the on-screen instructions to finish the installation.
 5. Once it’s finished, repeat the same method for DXVK. Download both**DXVOK (Builtin)** and**DXVK (Upstream)** .
 
  These two are very important because it lets Steam access your Mac’s GPU. If you try to install games without doing this, Steam will give you an error.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Set Up Steam, Log In, and Play
 
  You can now return back to Steam and input your username and password. Go to your library, select the game you want to play and install it.
@@ -116,14 +118,11 @@ Here’s how to install them to your Steam bottle:
 
  CrossOver looks a lot more barebones and may be less accessible, but you get plenty of power to run games smoothly on a Mac. You can run games like The Witcher 3 and Skyrim with little to no problems at all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +131,26 @@ Here’s how to install them to your Steam bottle:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-make-highlights-on-instagram-3-ways-for-2024/"><u>[New] How to Make Highlights on Instagram [3 Ways] for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-how-many-viewer-thumbs-up-equals-money-youtube-tips/"><u>[New] In 2024, How Many Viewer Thumbs Up Equals Money? YouTube Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-streamed-audiovideo-crafts-meetup-for-2024/"><u>[New] Streamed Audio/Video Crafts Meetup for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-powerdirector-app-review-2024/"><u>[Updated] Step-by-Step PowerDirector App Review 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-recording-advice-macbooks-camera-insights/"><u>2024 Approved Essential Recording Advice MacBook's Camera Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-hard-drives-and-gpus-wisdom-from-toms-hardware/"><u>Decoding Hard Drives and GPUs - Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/digital-delinquency-games-comparable-to-gta-v/"><u>Digital Delinquency Games Comparable to GTA V</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-1440p-gaming-monitors-reviewed-by-budget-conscious-gamers/"><u>Essential 1440P Gaming Monitors Reviewed by Budget-Conscious Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-make-a-sound-decision-on-monitors-avoid-these-errors/"><u>How to Make a Sound Decision on Monitors: Avoid These Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gaming-war-ps5-vs-xbox-series-x-battle/"><u>Next Gen Gaming War: PS5 V/S Xbox Series X Battle</u></a></li>
+<li><a href="https://win-tips.techidaily.com/running-windows-defender-without-added-programs-insights-from-yl-software-experts/"><u>Running Windows Defender Without Added Programs: Insights From YL Software Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/sharpening-the-edge-of-your-games-boost-fps-on-pc/"><u>Sharpening the Edge of Your Games: Boost FPS on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-controllers-meet-the-joy-con-world-on-switch/"><u>Sony Controllers Meet the Joy-Con World on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-consoles-face-off-ps5-vs-xbox-sx/"><u>The Ultimate Consoles Face-Off: PS5 V/S Xbox SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-terminal-escapades-for-gamers-on-linux/"><u>Top Terminal Escapades for Gamers on Linux</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-windows-update-failure-error-0x8007001f/"><u>Troubleshooting Guide for Windows Update Failure (Error 0X8007001f)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-my-go-to-spots-for-online-music-video-playbacks/"><u>Unlock the Secrets of My Go-To Spots for Online Music Video Playbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-realities-collide-ps5-meets-affordable-gaming-pc/"><u>Virtual Realities Collide: PS5 Meets Affordable Gaming PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-happens-to-unused-ps-plus-titles/"><u>What Happens to Unused PS Plus Titles?</u></a></li>
+</ul></div>
 

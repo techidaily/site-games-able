@@ -1,7 +1,7 @@
 ---
 title: How to Download and Install Minecraft Maps
-date: 2024-08-08T09:16:19.372Z
-updated: 2024-08-09T09:16:19.372Z
+date: 2025-01-26T17:10:05.133Z
+updated: 2025-01-30T17:19:26.684Z
 tags:
   - games
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 
  Once players create a new Minecraft map, they can share their creations with the community. You can then download and install these awesome maps to explore them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Download Minecraft Maps
 
  Before downloading and installing Minecraft maps, you need to determine which version of Minecraft you have. Keep in mind that Bedrock maps aren't compatible with Java versions of Minecraft.
@@ -38,26 +35,33 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 
  Once you've downloaded your new Minecraft maps, it's time to install them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Install Minecraft Maps on Windows (Java)
 
 ![New mods make Minecraft amazing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-gaming-minecraft-mountain.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To use your new map file, you'll need to place it in the correct directory. Here's how you can do that for Minecraft Java on Windows:
 
 1. Extract the .zip file you've downloaded.
 2. Copy the**map folder** by highlighting it and pressing**Ctrl + C** on your keyboard.
 3. On your keyboard, press**Win + R** to open the Windows**Run** app.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Using Run to open the appdata directory.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-run-appdata-1.jpg)
 4. In the text box, type**%appdata%** and press**Enter** to open the**C:\\Users\\yourusername\\AppData\\Roaming** directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the**Roaming** directory, find the folder labeled**.minecraft** . Inside, you'll find a folder labeled**saves** . This is where Minecraft stores its maps.
 6. Open the**saves** folder and paste the map folder inside. That's it!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Alternate Method
 
  If you want to avoid using the Run app, you can also access the Minecraft saves folder through the Minecraft Launcher. Here's how:
@@ -71,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 
  To explore your downloaded world, launch Minecraft in single-player mode. You should see your map there. Click the map to load it, and once everything loads, start exploring!
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Install Minecraft Maps on Windows 11 (Bedrock)
 
 ![Minecraft Bedrock on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-bedrock-windows.jpg)
@@ -93,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 
 You're all set!
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Install Minecraft Maps on Mac
 
 ![Installed maps in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-worlds-screen.jpg)
@@ -112,12 +110,13 @@ You're all set!
 
  The new map will appear in the single-player menu as a new world. Now you can explore your freshly downloaded Minecraft map! You can even[create a Minecraft server](https://www.makeuseof.com/how-to-make-a-minecraft-server/) to explore the map with your friends.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## How to Install Minecraft Maps on Android (Bedrock)
 
 ![A Minecraft map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-map-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Installing Minecraft maps on Android is also simple, thanks to the new .mcworld extension. All you need to do is open the map file, and it should automatically launch in Minecraft.
 
@@ -137,8 +136,9 @@ Here's how you can install older Minecraft maps on Android:
  Done! Your Minecraft map should now show up in the game. Alternatively, you could also skip having to navigate on your phone by[moving the files from your computer to your Android device](https://www.makeuseof.com/tag/5-ways-to-get-data-from-your-desktop-to-your-android/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install Minecraft Maps on iOS (Bedrock)
 
 ![Person playing Minecraft on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-ios-map.jpg)
@@ -164,14 +164,11 @@ Here's how you can install older Minecraft maps on Android:
 
  And if you build your own masterpiece, consider sharing it with the community so that others can enjoy your custom creation too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +177,24 @@ Here's how you can install older Minecraft maps on Android:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-skypes-premier-audio-capture-solutions/"><u>[New] In 2024, Skype's Premier Audio Capture Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-scooping-strategies-review-rundown/"><u>[Updated] In 2024, SCOOPING STRATEGIES Review Rundown</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-programs-17-superior-aids-to-remove-outlines/"><u>2024 Approved Leading Programs 17 Superior Aids to Remove Outlines</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gadgets-for-a-cooler-steam-deck-experience/"><u>Essential Gadgets for a Cooler Steam Deck Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-setup-switches-flicker-and-click/"><u>Game Setup SWITCHES: Flicker and Click</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c12-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C12 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-and-personalize-top-settings-for-every-switcher/"><u>Optimize and Personalize: Top Settings for Every Switcher</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-8-mobile-sims-for-android-gameplay-on-desktops/"><u>Prime 8 Mobile Sims for Android Gameplay on Desktops</u></a></li>
+<li><a href="https://games-able.techidaily.com/propel-your-playthrough-4-best-online-score-boosting-hubs/"><u>Propel Your Playthrough: 4 Best Online Score-Boosting Hubs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reintroducing-versatility-beyond-win-1110s-s-mode/"><u>Reintroducing Versatility Beyond Win 11/10'S S Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/reversing-windows-launcher-failure-0x803f8001/"><u>Reversing Windows Launcher Failure: 0X803F8001</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-blue-yeti-microphone-effective-methods-for-unrecognizable-units/"><u>Reviving Your Blue Yeti Microphone: Effective Methods for Unrecognizable Units</u></a></li>
+<li><a href="https://games-able.techidaily.com/shiny-hunt-strategies-for-scv-trainers-71/"><u>Shiny Hunt Strategies for SCV Trainers (71)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-properly-referencing-generative-ai-like-chatgpt-in-your-work/"><u>Step-by-Step Guide: Properly Referencing Generative AI Like ChatGPT in Your Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-mc-map-gathering-manual/"><u>Step-by-Step MC Map Gathering Manual</u></a></li>
+<li><a href="https://fox-info.techidaily.com/timelapse-magic-utilizing-your-canon-gear/"><u>Timelapse Magic Utilizing Your Canon Gear</u></a></li>
+</ul></div>
 

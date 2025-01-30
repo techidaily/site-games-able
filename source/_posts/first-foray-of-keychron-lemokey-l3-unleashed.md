@@ -1,7 +1,7 @@
 ---
 title: "First Foray of Keychron: Lemokey L3 Unleashed"
-date: 2024-08-08T09:12:59.305Z
-updated: 2024-08-09T09:12:59.305Z
+date: 2025-01-24T17:50:51.228Z
+updated: 2025-01-30T17:33:48.038Z
 tags:
   - games
 categories:
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 
 ### Key Takeaways
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![lemokey l3 keyboard in via customization software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/lemokey-l3-keyboard-in-via-customization-software.jpg)  
  Gavin Phillips / MakeUseOf  
  The Keychron Lemokey L3 is a premium gaming mechanical keyboard with hot-swappable switches, a 1,000Hz polling rate, and 2.4GHz wireless connectivity.
@@ -34,9 +31,9 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### Lemokey L3
@@ -128,9 +125,6 @@ No
 
  Like all Keychron keyboards, the Lemokey L3 is available in several configurations. The Fully Assembled Knob version, which features in this review, will set you back $214, while the barebones version is $194.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
 
  Hannah Stryker / MakeUseOf
@@ -139,9 +133,6 @@ No
 
  It's a good range of options, not forgetting that the Lemokey L3 is a hot-swappable keyboard. Hot-swappable means you can replace the keyboard's switches without soldering; they're plug-and-play.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Style and Construction
 
  The Lemokey L3 feels sublime. It's a premium gaming mechanical keyboard that weighs an excellent 1.97kg (4.3lbs). You're basically buying a block of high-quality CNC machined aluminum that also happens to be a mechanical keyboard; you won't be shoving the Lemokey L3 in your rucksack for the local LAN session, that's for sure. The weight has another important use, though—stopping your keyboard from moving around as you game or type.
@@ -164,6 +155,10 @@ No
 
 ![customizable-buttons-on-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/customizable-buttons-on-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  Inside the Lemokey L3 are multiple layers of sound-absorbing foam, which, along with the double-gasket mounted design, contribute to the smooth typing experience and warming typing sound.
@@ -172,25 +167,18 @@ No
 
  Battery life is another plus point for the Lemokey L3—though, given its weight, I strongly doubt you'll ever roam too far from a USB-C port or an outlet. The Lemokey L3 is rated for up to 200 hours while using 2.4GHz wireless, rising to a whopping 300 hours while using Bluetooth. I didn't track this precisely, but I never ran out of battery using either wireless mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lemokey L3 Typing Experience
 
  The Lemokey L3 is a dream to type on. I've been sent the Gateron Jupiter Brown switches, which require 55g actuation force, have 2mm pre-travel, and 4mm total travel. You'll bottom out on keypresses, but the overall movement and response of the Jupiter Brown switches are mostly smooth.
@@ -203,15 +191,16 @@ No
 
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  Even for someone who doesn't game competitively online, the L3's inputs are noticeably fast and accurate, and if you do frequent games like CS2 (formerly CS:GO), CoD Warzone or Modern Warfare, Overwatch, or any of the myriad first-person shooters, having your inputs registered rapidly is vital.
 
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Customization With VIA
 
  Keychron has long used VIA for its desktop customization software. It's free, well-supported by the mechanical keyboard community, and has extensive customization options. However, most folks who use a gaming keyboard will be more familiar with the custom, proprietary software created by the big gaming companies. In comparison, VIA is a little different, lacking the straightforward options and menus found in those other desktop software options.
@@ -222,13 +211,14 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is the Lemokey L3 a Good Gaming Keyboard?
 
  The fully assembled knob version of the Lemokey L3 retails for $214\. It's a great price for a truly top-notch keyboard and one that will last you a literal lifetime.
@@ -242,8 +232,9 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### Lemokey L3
@@ -254,14 +245,11 @@ No
 
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -270,4 +258,20 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-video-content-free-downloader-apps-guide/"><u>[New] Unlocking Video Content Free Downloader Apps Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-artistic-arenas-of-2022s-olympians/"><u>[Updated] Artistic Arenas of 2022'S Olympians</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-from-hashtags-to-challenges-insta-meets-tiktok-for-2024/"><u>[Updated] From Hashtags to Challenges Insta Meets TikTok for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-visual-storytelling-on-instagram/"><u>[Updated] In 2024, Mastering Visual Storytelling on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-lock-essential-tpm-hacks-for-windows-11/"><u>Bypassing the Lock: Essential TPM Hacks for Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-samsung-ru7300-55-4k-uhd-smart-led-tv-analysis-are-the-unique-features-justified/"><u>Comprehensive Samsung RU7300 55 4K UHD Smart LED TV Analysis - Are the Unique Features Justified?</u></a></li>
+<li><a href="https://games-able.techidaily.com/empowering-your-entertainment-utilizing-extra-drives-with-steam/"><u>Empowering Your Entertainment: Utilizing Extra Drives with Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-and-localize-roms-applying-translation-hacks/"><u>Fix and Localize ROMs: Applying Translation Hacks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-poco-c65-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Poco C65 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-dimensional-doors-top-10-sci-fi-films-that-open-new-worlds/"><u>In 2024, Dimensional Doors Top 10 Sci-Fi Films that Open New Worlds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/innovative-interface-intensity/"><u>Innovative Interface Intensity</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-powerhouse-panel-analyzing-4070-super-and-4080/"><u>Nvidia Powerhouse Panel: Analyzing 4070 Super & 4080</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-selection-guide-pick-the-best-among-oled-amoled-lcd/"><u>Screen Selection Guide: Pick the Best Among OLED, AMOLED, LCD</u></a></li>
+</ul></div>
 

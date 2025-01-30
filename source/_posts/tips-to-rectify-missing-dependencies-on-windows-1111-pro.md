@@ -1,7 +1,7 @@
 ---
 title: Tips to Rectify Missing Dependencies on Windows 11/11 Pro
-date: 2025-01-16T23:55:44.549Z
-updated: 2025-01-23T06:19:03.179Z
+date: 2025-01-24T16:50:53.479Z
+updated: 2025-01-30T16:55:01.097Z
 tags:
   - games
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Repair Visual C++ Packages on Your PC
 
  The “following components are required” error often complains about missing Visual C++ or DirectX runtimes. If it specifies a missing Visual C++ runtime, you may need to repair your PC's version of Visual C++.
@@ -44,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 4. Select the**Repair** option in the Visual C++ window that opens.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
@@ -65,11 +69,15 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 3. Click**I agree** \>**Install** in the Microsoft Visual C++ 2015-2022 window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
 
@@ -88,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 6. Select**Next** to install the required DirectX components.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Repair .NET Framework Components
@@ -107,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  If you're unsure how to do this, check out[how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall the Affected Game or Software
 
  If the “following components are required” issue continues after applying all fixes above, reinstalling the game or software is the last thing to try. Some players might be concerned about losing saved data for games after reinstalling them. However, you can[back up saved game progress](https://www.makeuseof.com/tag/protect-your-game-saves/#:~:text=To%20turn%20on%20cloud%20saves,keep%20it%20in%20the%20cloud.) before uninstalling titles in different ways.
@@ -118,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
  Reinstalling games or any other software this error affects is worth a try since that will restore any missing files. You can uninstall some games via**Programs and Features** as covered in our guide to[uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . If you don’t see the game listed there, you’ll probably have to uninstall it via its client software, such as Epic Games.
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/programs-and-features.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
@@ -148,24 +148,21 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-superior-webcams-for-professional-podcasting/"><u>[New] In 2024, Superior Webcams for Professional Podcasting</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-essential-tips-for-flv-file-fusion-on-youtube/"><u>[Updated] Essential Tips for FLV File Fusion on YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-efficient-tools-and-tips-for-webp-to-jpeg-transformation/"><u>[Updated] In 2024, Efficient Tools and Tips for WebP to JPEG Transformation</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-perfect-and-unique-youtube-channel-names-for-professional-filmmakers-and-vloggers-no-more-than-156-characters/"><u>2024 Approved Perfect & Unique Youtube Channel Names for Professional Filmmakers & Vloggers (No More than 156 Characters)</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-the-apple-advantage-myth-6-anti-gaming-factors/"><u>Dissecting the Apple Advantage Myth: 6 Anti-Gaming Factors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elite-arena-showdown-best-of-the-royales-for-2024/"><u>Elite Arena Showdown Best of the Royales for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gear-evaluation-uniting-asus-tuf-proart-and-prime-insights/"><u>Gear Evaluation: Uniting Asus, Tuf, ProArt, and Prime Insights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-color-grading-techniques-unraveling-the-mystery-of-luts/"><u>In 2024, Color Grading Techniques Unraveling the Mystery of LUTs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-honor-100-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Honor 100 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477637783-iphone-silentring-mode-vibration-issue-try-these-8-proven-methods-to-resolve-it-now/"><u>IPhone Silent/Ring Mode Vibration Issue? Try These 8 Proven Methods to Resolve It Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/key-factors-for-choosing-between-amds-rx-7800-and-7700xt/"><u>Key Factors for Choosing Between AMD's RX 7800 and 7700XT</u></a></li>
-<li><a href="https://games-able.techidaily.com/minecraft-unleashed-extracting-world-data-post-unsubscription/"><u>Minecraft Unleashed: Extracting World Data Post-Unsubscription</u></a></li>
-<li><a href="https://games-able.techidaily.com/prospective-buyers-guide-to-best-144hz-screens/"><u>Prospective Buyers' Guide to Best 144Hz Screens</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-academic-research-with-ai-tools/"><u>Revolutionizing Academic Research with AI Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/rookie-riches-economical-channels-for-monetization-for-2024/"><u>Rookie Riches Economical Channels for Monetization for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/simply-shift-your-consoles-geographic-location/"><u>Simply Shift Your Console’s Geographic Location</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-correct-delays-in-steam-transactions/"><u>Steps to Correct Delays in Steam Transactions</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-potential-with-the-ultimate-console-fix/"><u>Unleashing Potential with the Ultimate Console Fix</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-the-power-essential-redeeming-techniques/"><u>Unleashing the Power: Essential Redeeming Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-becoming-an-influencer-entrepreneur-creating-a-business-profile-on-ig/"><u>[New] Becoming an Influencer Entrepreneur Creating a Business Profile on IG</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unlock-video-potential-leading-tools-turning-youtubes-to-avis/"><u>[New] In 2024, Unlock Video Potential Leading Tools Turning YouTubes to Avis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-tricks-for-non-engagement-with-edgenuity-video-content-for-2024/"><u>[New] Tricks for Non-Engagement with Edgenuity Video Content for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-premium-commercial-cloud-vaulting-services/"><u>2024 Approved Premium Commercial Cloud Vaulting Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rare-frankenboards-maximus-xiii-hero-with-custom-so-dimm-memory-slots-and-authentic-kingston-fury-logo-a-collectors-delight/"><u>Asus' Rare Frankenboards: Maximus XIII Hero with Custom So-DiMM Memory Slots and Authentic Kingston Fury Logo - A Collector’s Delight</u></a></li>
+<li><a href="https://games-able.techidaily.com/display-dominance-assessing-oled-amoled-and-ips-efficacy/"><u>Display Dominance: Assessing OLED, AMOLED & IPS Efficacy</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-mechanical-keyboards-role-in-gaming/"><u>Evaluating Mechanical Keyboards' Role in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-immersive-experience-with-high-end-iems/"><u>Game Immersive Experience with High-End IEMs</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-delight-large-scale-arcade-framing/"><u>Gamer's Delight - Large-Scale Arcade Framing!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nubia-red-magic-9-proplus-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nubia Red Magic 9 Pro+ Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-recall-understanding-why-it-isnt-the-ultimate-privacy-disaster-top-7-insights-to-ease-your-concerns-zdnet/"><u>Microsoft Recall: Understanding Why It Isn't the 'Ultimate Privacy Disaster' – Top 7 Insights to Ease Your Concerns | ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-android-for-immersive-vr-experiences-for-2024/"><u>Navigating Android for Immersive VR Experiences for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-meets-joy-con-a-new-gaming-hybrid-experience/"><u>PlayStation Meets Joy-Con: A New Gaming Hybrid Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-ensure-your-next-handheld-games-device-meets-expectations/"><u>Steps to Ensure Your Next Handheld Games Device Meets Expectations</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-different-game-worlds-connect-bedrock-with-java-on-geysermc-server/"><u>Uniting Different Game Worlds: Connect Bedrock with Java on GeyserMC Server</u></a></li>
 </ul></div>
 

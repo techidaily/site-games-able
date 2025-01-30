@@ -1,7 +1,7 @@
 ---
 title: "Breathe Deep, Play Hard: Top 8 AR Outdoors"
-date: 2024-07-29T06:01:49.682Z
-updated: 2024-07-30T06:01:49.682Z
+date: 2025-01-26T17:51:37.379Z
+updated: 2025-01-30T17:34:31.532Z
 tags:
   - games
 categories:
@@ -25,13 +25,11 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
  Although there are plenty of reasons to spend time in natural outdoor settings, for some it is easier said than done. These fun AR (augmented reality) mobile games merge the real world with the virtual one to offer some get-up-and-go when it comes to spending time outside in nature!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Jurassic World Alive
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Jurassic World Alive Creature Discovered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Jurassic-World-Alive-Creature-Discovered.jpeg)
 
 ![Jurassic World Alive Battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Jurassic-World-Alive-Battle.jpeg)
@@ -48,20 +46,8 @@ Close
 
 ## 2\. ZRX
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ZRX augmented reality mobile fitness game home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-home.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![ZRX zombies run augmented reality mobile fitness game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-zombies.jpg)
 
 ![ZRX Zombies run augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-jolly.jpg)
@@ -76,17 +62,19 @@ Close
 
 **Download:** ZRX for[iOS](https://apps.apple.com/app/zrx-zombies-run-marvel-move/id503519713) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient) (Free, in-app purchases and subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Pokémon GO
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Pokemon GO augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Pokemon GO augmented reality mobile game lechonk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-lechonk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Pokemon GO augmented reality mobile game sprigatito](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-sprigatito.jpg)
 
@@ -101,15 +89,13 @@ Close
 **Download:** Pokémon GO for[iOS](https://apps.apple.com/app/pok%C3%A9mon-go/id1094591345) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Draconius GO
 
 ![Draconius GO augmented reality mobile game world map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-world.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Draconius GO augmented reality mobile game firepaw](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-firepaw.jpg)
 
 ![Draconius GO augmented reality mobile game berrydillo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-berrydillo.jpg)
@@ -124,18 +110,19 @@ Close
 
 **Download:** Draconius GO for[iOS](https://apps.apple.com/app/draconius-go-catch-a-dragon/id1222496828) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=net.elyland.DraconiusGO) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Star Walk 2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Star Walk 2 augmented reality mobile app satellite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-satellite.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Star Walk 2 augmented reality mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-ar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Star Walk 2 augmented reality mobile app pegasus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-pegasus.jpg)
 
@@ -147,17 +134,15 @@ Close
 
 **Download:** Star Walk 2 for[iOS](https://apps.apple.com/app/star-walk-2-ads-sky-tracker/id1112481571) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2Free) (Free, in-app purchases and subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 6\. Ingress Prime
 
 ![Ingress Prime augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Ingress Prime augmented reality mobile game items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress-items.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Ingress Prime augmented reality mobile game missions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress-missions.jpg)
 
@@ -173,12 +158,17 @@ Close
 
 ![Orna The Adventure GPS RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-world.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Orna The Adventure GPS RPG character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-character.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Orna The Adventure GPS RPG battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-battle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -188,21 +178,16 @@ Close
 
 **Download:** Orna for[iOS](https://apps.apple.com/app/orna-turn-based-gps-rpg/id1451775309) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=playorna.com.orna) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Pikmin Bloom
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Pikmin Bloom augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Pikmin Bloom augmented reality mobile game map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-map.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Pikmin Bloom augmented reality mobile game seedlings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-seeds.jpg)
 
 Close
@@ -219,14 +204,11 @@ Close
 
  Besides being fun, AR mobile games are also great if you want to get moving outdoors, especially if you're someone who lacks the motivation or who doesn't like to unplug. So, whether you're catching dinosaurs and dragons, running from zombies, or exploring the night sky, these AR games can provide some entertainment while you step out into real life.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -235,4 +217,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-next-gen-social-media-tactics-youtube-content-on-facebook/"><u>[New] 2024 Approved Next-Gen Social Media Tactics YouTube Content on Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-coping-with-youtube-copyright-claims-a-step-by-step-guide/"><u>[Updated] 2024 Approved Coping with YouTube Copyright Claims A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-overcoming-youtube-buffering-a-step-by-step-guide/"><u>[Updated] 2024 Approved Overcoming YouTube Buffering A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-navigating-the-world-of-digital-gifs/"><u>2024 Approved Navigating the World of Digital GIFs</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-online-combat-discovering-the-best-fps-games-on-a-browser/"><u>Elite Online Combat: Discovering the Best FPS Games on a Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/eluding-vigilant-tracking-in-games/"><u>Eluding Vigilant Tracking in Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-tips-for-iphone-voice-note-making/"><u>Essential Tips for iPhone Voice Note Making</u></a></li>
+<li><a href="https://games-able.techidaily.com/fostering-community-engagement-chess-poker-and-more-on-discord-servers/"><u>Fostering Community Engagement: Chess, Poker & More on Discord Servers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-download-de-conversor-tiff-online-movavi-image-editing/"><u>Gratuito Download De Conversor TiFF Online - Movavi Image Editing</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-nab-the-early-bird-spidey-edition/"><u>How to Nab the Early Bird Spidey Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-to-eliminating-display-failure-in-winoses/"><u>Quick Guide to Eliminating “Display Failure” In WinOSes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-support-leading-5-cognitive-bot-apps/"><u>Revolutionizing Support: Leading 5 Cognitive Bot Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/spotting-online-absence-methods-for-xbox-series-console-users/"><u>Spotting Online Absence: Methods for Xbox Series Console Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-issues-troubleshooting-for-flawless-zoom-cams/"><u>Zoom Issues: Troubleshooting for Flawless Zoom Cams</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transform the Classic: Explore Novel Online Chess Variants"
-date: 2024-08-08T09:14:23.938Z
-updated: 2024-08-09T09:14:23.938Z
+date: 2025-01-23T16:21:13.328Z
+updated: 2025-01-30T17:26:16.788Z
 tags:
   - games
 categories:
@@ -18,11 +18,12 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  Have you ever played three-player chess? Or how about a game of chess where you don't take turns but keep playing all the time? From chess variants that challenge you to discard classical strategies and think anew to playing chess with AI for fun or to get your FIDE rating, these are some of the quirkiest and most fun ways to play a different type of chess.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1. Noctie
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Play a game against the Noctie AI to find your FIDE Elo rating in chess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-noctie-ai.jpg)
 
  Based on wins, losses, and draws, FIDE assigns an official Elo rating to players, with Candidate Masters starting at 2000\. Of course, this is only for those participating in official tournaments. But if you've ever wondered what your rating would be, you can find out by playing a game with Noctie AI.
@@ -32,15 +33,16 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  For reference, you can refer to the Wikipedia Elo rating range table. Above a rating of 1000, every 2000 points puts you in a different class of chess player.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2. Kung Fu Chess
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Chess is a turn-by-turn game, and the standard game encourages taking your time to think through each move. Kung Fu Chess changes the rules to remove the turn-by-turn style. You can move any piece at any moment without waiting for the opponent to make a move. It's basically taking the principles of real-time strategy games like Age of Empires and applying them to chess.
 
@@ -49,8 +51,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Beginners should ideally start with the Kung Fu Chess solo campaign mode to play against a bot to learn and practice the new rules. Once you're confident, you can play against AI or a friend in both standard or lightning modes.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3. Chesswith.Ai
 
 ![Chesswith.Ai uses ChatGPT to let you play against fictional characters who talk to you after each turn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-chesswithai.jpg)
@@ -60,6 +63,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The AI difficulty level doesn't change according to the chosen opponent, so you can set that as very easy, easy, medium, hard, and very hard. After every move made, the chatbot responds with a small message that would befit the personality, while also commenting on the game's status or borrowing from chess theory.
 
  The free version of Chesswith.Ai gives you one credit when you verify your account, which allows you to make 40 moves—the average length of any game. You'll need to purchase additional credits to play further moves or games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4. Halfchess
 
@@ -71,9 +78,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **Download:** Half Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 5. Really Bad Chess
 
  Eight pawns on the second row. Two rooks, knights, and bishops from out to in on the first row, with the king and queen between them. That's the standard chessboard. Really Bad Chess says, "Nah!" You'll still start with 16 pieces on the first two rows, but any piece could be anywhere and even repeat—except the King, who starts in the usual spot. The other 15 are completely random.
@@ -84,9 +88,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **Download:** Really Bad Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6. Green Chess
 
 ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
@@ -103,14 +104,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  For example, play the Chance variant, where after you select which piece you want to move, it changes to a random other piece. The randomizer is easy online, but you can do it offline with a dice. Assign a number to King, Queen, Rook, Bishop, Knight, and Pawn, and roll the dice after you've picked the piece to move.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +117,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-best-sixers-comprehensive-4k-camera-guide/"><u>[New] Best Sixer's Comprehensive 4K Camera Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-decode-facebooks-algorithm-change-and-protect-your-reach/"><u>[Updated] 2024 Approved Decode Facebook’s Algorithm Change & Protect Your Reach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>[Updated] 2024 Approved Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-become-a-pro-with-our-instagram-story-insights/"><u>2024 Approved Become a Pro with Our Instagram Story Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/focused-audio-experience-using-headsets-only/"><u>Focused Audio Experience Using Headsets Only</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-hot-is-too-hot-when-gaming/"><u>How Hot Is Too Hot When Gaming?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-razr-40-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Razr 40 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-6-plus-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 6 Plus Device from iCloud</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-game-before-launch-an-analysis/"><u>In-Game Before Launch – An Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-plus-weighing-the-subscription-value-against-fee/"><u>PlayStation Plus: Weighing the Subscription Value Against Fee</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screencapturepro-review-expert-insights-and-comparisons/"><u>ScreenCapturePro Review Expert Insights and Comparisons</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-an-xbox-series-x-group/"><u>Setting Up an Xbox Series X Group</u></a></li>
+</ul></div>
 

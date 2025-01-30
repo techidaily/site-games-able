@@ -1,7 +1,7 @@
 ---
 title: "Beyond The Show: Expand Into Fallout Gaming Realms"
-date: 2024-07-29T06:00:43.038Z
-updated: 2024-07-30T06:00:43.038Z
+date: 2025-01-26T17:20:42.037Z
+updated: 2025-01-30T17:54:04.842Z
 tags:
   - games
 categories:
@@ -15,8 +15,9 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 ## Beyond The Show: Expand Into Fallout Gaming Realms
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Fallout: New Vegas](#fallout-new-vegas)
@@ -31,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fallout: New Vegas
 
  It was always going to be easy to start this list: Fallout: New Vegas isn't just a great Fallout game; it's also one of the best RPGs of all time, and that's saying something in such a densely packed genre.
@@ -44,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fallout 3
 
  Fallout 3 was the first Fallout title I played and was the first to move from its original isometric design into the fully rendered, open world we know and love today. Like Fallout: NV, Fallout 3 is a classic, though the writing isn't as tight in places.
@@ -57,9 +60,9 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fallout 4
 
  Fallout 4 is the last release in the "numbered" game series ([Fallout 1, 2, 3, & 4](https://www.makeuseof.com/fallout-series-explained/) —the multiplayer game, Fallout 76, doesn't count), launched in 2015\. It received great reviews when it launched, though it simplified many of the in-depth role-playing elements that made previous Fallout titles such unique, personal experiences. However, it did introduce detailed base building and crafting, which were both great new elements to get to grips with.
@@ -71,13 +74,9 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fallout
 
  Fallout is a great game, and it's the one that started it all. Launched in 1997, Fallout 1 was a remarkable feat of world-building for the time, and the game's scale was breathtaking. It's a little difficult to go back to now as it lacks so many of the mod-cons of modern gaming, but if you're delving into Fallout games, it's absolutely worth a play. It's not considered one of the best RPGs ever for no reason!
@@ -90,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
  Better still, each modern-era Fallout game has extensive modding support and extremely passionate communities. Once you get through with the game, you can install a bunch of mods to change the game, and there are even[enormous total conversion mods](https://gamerant.com/x-best-fallout-new-vegas-total-conversion-mods/) that breathe new life into each title.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,4 +102,18 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-strategic-first-impressions-the-unpacking-edge-for-2024/"><u>[Updated] Strategic First Impressions The Unpacking Edge for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-separate-to-synced-attaching-a-controller-on-your-phonetablet/"><u>From Separate to Synced: Attaching a Controller on Your Phone/Tablet</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-ps5-costs-after-resolving-shortages/"><u>Future PS5 Costs After Resolving Shortages</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-a05s-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy A05s Devices</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-exploring-jujutsu-kaisen-through-creative-tiktok-content/"><u>In 2024, Exploring Jujutsu Kaisen Through Creative TikTok Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-pova-6-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Pova 6 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-invest-in-quality-screen-capture-bandicam-or-camtasia/"><u>In 2024, Invest in Quality Screen Capture Bandicam or Camtasia?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-sunset-symphony-cinematic-darkening-in-pro/"><u>In 2024, Sunset Symphony Cinematic Darkening in Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailored-advice-for-connecting-gamepads-on-androids/"><u>Tailored Advice for Connecting Gamepads on Androids</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quest-for-availability-tracking-xbox-users/"><u>The Quest for Availability: Tracking Xbox Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-lite-android-gaming-software-for-pc-and-mac/"><u>Top 8 Lite Android Gaming Software for PC & Mac</u></a></li>
+</ul></div>
 

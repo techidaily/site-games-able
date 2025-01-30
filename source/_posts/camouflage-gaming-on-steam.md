@@ -1,7 +1,7 @@
 ---
 title: Camouflage Gaming on Steam
-date: 2024-07-29T06:00:19.433Z
-updated: 2024-07-30T06:00:19.433Z
+date: 2025-01-23T17:31:57.889Z
+updated: 2025-01-30T16:35:16.684Z
 tags:
   - games
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 * [How to Hide a Game on Steam With the Private Feature](#how-to-hide-a-game-on-steam-with-the-private-feature)
 * [Don't Mix Up Private Games and Hidden Games on Steam](#don-39-t-mix-up-private-games-and-hidden-games-on-steam)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Steam now lets you hide specific games in your library by marking them as private. This differs from hiding a game from your library view.
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 
  Steam's Private Apps feature is officially out of beta, meaning you can hide games in your Steam library that you don't want others to see. Here's what you should know about keeping certain Steam library titles visible only to yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Steam Now Lets You Set Games as Private
 
  Steam announced on the[Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
@@ -39,14 +40,6 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 
  But the new feature lets you mark specific titles while keeping the remainder of your library visible. For each private game, Steam hides your in-game status, playtime, and other activity.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Hide a Game on Steam With the Private Feature
 
  If you specifically want to keep friends from seeing a game in your library and prevent them from seeing when you're playing it, you should mark it as private.
@@ -67,23 +60,22 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 
  To do this, go to the store page of the game you want to purchase and select**Add to Cart** . In the popup that appears, click on the drop-down menu that says**For my account** and select**For my account: private** . Then continue with the checkout as usual. This will keep a game private from the beginning.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set cart item to private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-cart-item-to-private.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Checking a Game's Private Status
 
  To check that a game is private in your Library, click on your username in the top bar and then select**Profil** **e.** In the menu on the right, select**Games** . This takes you to a list of your games.
 
  Use the search bar to type in the name of the game you want to check. The game will appear and if it is marked as private, you will see a**crossed-out eye icon** on the right. Click this icon if you want to stop hiding the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![checking that a game is private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/checking-that-a-game-is-private-on-steam-1.png)
 
  You can also head to your library to remove a game from your private items. Right-click on the title and then select**Manage > Unmark as Private** .
@@ -98,23 +90,25 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 
 ![find your hidden games on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/find-your-hidden-games-on-steam.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't remember the names of the games you've hidden in the past, you can select the**View** option at the top of the Steam app and then select**Hidden Games** . You can then go through each one to mark it as private.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hidden games folder on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/hidden-games-folder-on-steam.png)
 
- Now that you know how to set games as private on Steam, as well as the differences between hidden games and private games, you can maintain more control over which of your games your friends can see on Steam.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+ Now that you know how to set games as private on Steam, as well as the differences between hidden games and private games, you can maintain more control over which of your games your friends can see on Steam.
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +117,21 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-innovative-phone-applications-altering-your-natural-tone-for-2024/"><u>[New] Innovative Phone Applications Altering Your Natural Tone for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stable-shootings-top-brands-for-online-filmmaking/"><u>[New] Stable Shootings - Top Brands for Online Filmmaking</u></a></li>
+<li><a href="https://fox-access.techidaily.com/bend-the-norm-innovative-text-transformation-techniques-for-2024/"><u>Bend the Norm Innovative Text Transformation Techniques for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-the-high-pixeled-console-image/"><u>Demystifying the High-Pixeled Console Image</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-5-factors-nostalgic-gamers-retro-handheld-picks/"><u>Essential 5 Factors: Nostalgic Gamers' Retro Handheld Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-obsolete-to-optimal-atlasos-upgrade-guide/"><u>From Obsolete to Optimal: ATLASOS Upgrade Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-7-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Tecno Pop 7 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-challenges-of-effective-gpt-communication/"><u>Navigating the Challenges of Effective GPT Communication</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-6-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 6 Prevention & Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/rom-fan-fix-implementing-translation-patches/"><u>ROM Fan Fix: Implementing Translation Patches</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-sound-selecting-4-websites-for-ringtones/"><u>Seamless Sound Selecting 4 Websites for Ringtones</u></a></li>
+<li><a href="https://games-able.techidaily.com/soaring-comfort-premium-seating-for-tall-enthusiasts/"><u>Soaring Comfort: Premium Seating for Tall Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-implementing-login-change-replace-your-windows-11-pin-with-a-password/"><u>Understanding and Implementing Login Change: Replace Your Windows 11 PIN With a Password</u></a></li>
+</ul></div>
 

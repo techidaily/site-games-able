@@ -1,7 +1,7 @@
 ---
 title: "From Screen to Console: Explore More of Fallout’s Realm"
-date: 2025-01-15T20:38:41.685Z
-updated: 2025-01-16T21:51:41.159Z
+date: 2025-01-27T17:27:06.623Z
+updated: 2025-01-30T17:16:30.231Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout: New Vegas
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 3
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 4
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout
@@ -109,22 +109,20 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-learn-to-modify-snapchats-audio-effect-in-two-ways/"><u>[Updated] In 2024, Learn to Modify Snapchat's Audio Effect in Two Ways</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-visionary-artisan-merging-sights-and-sounds/"><u>[Updated] In 2024, Visionary Artisan Merging Sights and Sounds</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-windowsmacos-execute-and-enjoy-srt-files/"><u>[Updated] In 2024, Windows/macOS Execute and Enjoy SRT Files</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-interactive-dimensions-understanding-ar-mr-and-vr-for-2024/"><u>[Updated] Interactive Dimensions Understanding AR, MR & VR for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-quick-tips-uploading-to-apple-podcast-network/"><u>[Updated] Quick Tips Uploading to Apple Podcast Network</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-hardware-breakthroughs-set-to-unveil-at-ifa-2023/"><u>Game Hardware Breakthroughs Set to Unveil at IFA 2023</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-perfect-ringtone-repository-excellent-sources/"><u>In 2024, Perfect Ringtone Repository Excellent Sources</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-maintaining-steam-bp-mode/"><u>Mastering the Art of Maintaining Steam BP Mode</u></a></li>
-<li><a href="https://games-able.techidaily.com/preventative-measures-against-gpu-sag/"><u>Preventative Measures Against GPU Sag</u></a></li>
-<li><a href="https://games-able.techidaily.com/quickening-data-exchange-diminishing-pings-and-delay-duration/"><u>Quickening Data Exchange: Diminishing Pings and Delay Duration</u></a></li>
-<li><a href="https://games-able.techidaily.com/sleekgear-monitor-bargain-gaming-led/"><u>SleekGear Monitor - Bargain Gaming LED</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/storyboard-pro-for-win8-for-2024/"><u>StoryBoard Pro for Win8 for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-3d-light-panels-for-your-gaming-setup/"><u>The Best 3D Light Panels for Your Gaming Setup</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-the-iphone-15-for-professionals-insights-reviews-and-why-it-stands-out/"><u>The Ultimate Guide to the iPhone 15 for Professionals: Insights, Reviews, & Why It Stands Out</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-seated-partnerships-in-co-op-games-xbox-series-sx/"><u>Top Seated Partnerships in Co-Op Games - Xbox Series S/X</u></a></li>
-<li><a href="https://games-able.techidaily.com/turbo-charge-your-win-chances-in-csgo/"><u>Turbo Charge Your Win Chances in CS:GO</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/ubersetzungen-zur-verfugung-wie-sie-bilder-von-ihrer-kamera-per-transfer-auf-das-iphone-hochladen/"><u>Übersetzungen Zur Verfügung: Wie Sie Bilder Von Ihrer Kamera per Transfer Auf Das iPhone Hochladen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-ace-set-of-rotational-recording-devices/"><u>[New] Ace Set of Rotational Recording Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-ai-powered-online-murder-mystery-puzzles-and-games-to-play-detective/"><u>4 AI-Powered Online Murder Mystery Puzzles and Games to Play Detective</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiartys-milestone-anniversary-a-special-project-celebrating-18-years-of-innovation/"><u>DigiArty's Milestone Anniversary: A Special Project Celebrating 18 Years of Innovation</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171021579-enhance-visual-appeal-opt-for-expansive-cabinet-panels/"><u>Enhance Visual Appeal: Opt for Expansive Cabinet Panels!</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-erroneous-debit-authorizations-in-console-games/"><u>Fixing Erroneous Debit Authorizations in Console Games</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd-driver-issue-eliminated-in-windows-security-patch/"><u>HD Driver Issue Eliminated in Windows Security Patch</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-tailored-approach-software-free-vs-softwares-for-vimeo-download/"><u>In 2024, Tailored Approach Software-Free Vs. Softwares For Vimeo Download</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-edge-robust-tripod-inspection/"><u>Leading Edge, Robust Tripod Inspection</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/nubia-red-magic-9-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nubia Red Magic 9 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinpointing-pivotal-pros-and-cons-in-gaming-displays/"><u>Pinpointing Pivotal Pros and Cons in Gaming Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-gaming-experience-overcoming-chrome-obstacles/"><u>Seamless Gaming Experience: Overcoming Chrome Obstacles</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/stream-and-save-content-from-artetv-access-downloads-for-videos-and-closed-captions/"><u>Stream & Save Content From Arte.tv - Access Downloads for Videos and Closed Captions</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-joypad-journey-on-the-switch-top-controllers-of-2024/"><u>Ultimate Joypad Journey on the Switch – Top Controllers of 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-how-to-utilize-fb-help-center-services/"><u>Understanding How to Utilize FB Help Center Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-potential-of-your-games-with-nvidia-g-sync/"><u>Unlocking the Potential of Your Games with Nvidia G-Sync</u></a></li>
 </ul></div>
 

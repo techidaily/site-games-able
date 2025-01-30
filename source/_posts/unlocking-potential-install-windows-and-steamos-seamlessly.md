@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Install Windows & SteamOS Seamlessly"
-date: 2025-01-16T21:24:49.434Z
-updated: 2025-01-23T03:36:05.464Z
+date: 2025-01-28T17:03:12.036Z
+updated: 2025-01-30T17:30:37.350Z
 tags:
   - games
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 * [How to Dual Boot Your Steam Deck](#how-to-dual-boot-your-steam-deck)
 * [How to Set Up a Dual Boot Manager on Your Steam Deck](#how-to-set-up-a-dual-boot-manager-on-your-steam-deck)
 * [Fixes for Dual Boot Issues on Your Steam Deck](#fixes-for-dual-boot-issues-on-your-steam-deck)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,7 +61,7 @@ Jhet Borja/MUO
  However, Valve is yet to release the official dual boot wizard that's expected to ship with SteamOS 3.0 (according to the [Steam website](http://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8)), meaning you will have to choose your OS through the boot manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Dual Boot Your Steam Deck
@@ -77,10 +81,6 @@ Jhet Borja/MUO
 ![SteamOS in boot manager again](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steamos-in-boot-manager-again.jpg)
 
  If you hold down the power button after the chime, you will most likely end up shutting your Steam Deck down again, so make sure to let go after the chime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up a Dual Boot Manager on Your Steam Deck
 
@@ -102,10 +102,6 @@ Jhet Borja/MUO
 
 ![CMD commands for Clover on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/cmd-commands-for-clover-on-steam-deck.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Command Prompt, enter these commands one at a time:
 
 * bcdedit.exe -set {globalsettings} bootuxdisabled on
@@ -114,10 +110,6 @@ Jhet Borja/MUO
  In case those don't work, you can also add:
 
 * bcdedit.exe -set {globalsettings} highestmode on
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Setting up Clover on SteamOS on Your Steam Deck
 
@@ -151,9 +143,17 @@ Jhet Borja/MUO
 
 ![Front facing Steam Deck wth Clover dual boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/front-facing-steam-deck-wth-clover-dual-boot.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jhet Borja / MakeUseOf
 
  Once it’s installed, you can restart your Steam Deck to try it out. If it doesn’t look good to you, don’t worry, you can always add your own custom theme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Dual Boot Issues on Your Steam Deck
 
@@ -162,10 +162,6 @@ Jhet Borja / MakeUseOf
 ### 1\. You Can’t Find SteamOS in the Boot Manager
 
 ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -180,7 +176,7 @@ Jhet Borja/MUO
 ![Selecting steamcl.efi in Steam Deck BIOS to boot into SteamOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steamcl-efi-in-steam-deck-bios-to-boot-into-steamos.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -193,9 +189,17 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
  This should put it back on the boot manager so that you don’t have to boot from the file anymore.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Setting a Sudo Password
 
 ![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To set your sudo password, open desktop mode and head to **Settings** in the app manager or on the task manager at the bottom of your screen.
 
@@ -211,13 +215,13 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
 ![Run CloverWindows.bat as administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-cloverwindows-bat-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Extract the ZIP file into a folder and right-click **CloverWindows.bat** to **Run it as administrator**. It will tell you that Windows doesn’t recognize the app, just click **More Info > Run Anyway**.
 
 ![Windows protected your PC from CloverWindows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-protected-your-pc-from-cloverwindows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will open up the Command Prompt. Once it’s done installing, just hit Enter.
 
@@ -227,18 +231,18 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
 ![Changed security options for CloverTask in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changed-security-options-for-clovertask-in-task-scheduler.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the properties, head to the general tab and select **Run whether user is logged on or not** and check the two boxes below it (see image), then click **OK**.
 
 ![Run on CloverTask in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-on-clovertask-in-task-scheduler.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Finally, right-click CloverTask once again and click **Run**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. A SteamOS or Windows Update Broke Clover Dual Boot
@@ -252,10 +256,6 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
  Once you’re in the BIOS, select **Boot from file > eps > efi > steamos > steamcl.efi**. This will open up SteamOS and fix Clover.
 
 ![Selecting steamcl.efi in Steam Deck BIOS to boot into SteamOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steamcl-efi-in-steam-deck-bios-to-boot-into-steamos.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -276,19 +276,19 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-your-ultimate-ps4-screen-recorder-inside-the-obs-studio-guide/"><u>[New] In 2024, Your Ultimate PS4 Screen Recorder Inside the OBS Studio Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premier-green-screen-tech-how-to-optimize-usage/"><u>[New] Premier Green Screen Tech How to Optimize Usage</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-techniques-for-id-extraction-from-steam/"><u>Efficient Techniques for ID Extraction From Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-tips-for-enjoying-all-that-ea-play-has-to-offer-on-ps5/"><u>Expert Tips for Enjoying All That EA Play Has to Offer on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-glitchy-mouse-scroll-action/"><u>Fixing Glitchy Mouse Scroll Action</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-desktop-to-handhran-gaming-with-steam-link-and-phones/"><u>From Desktop to Handhran: Gaming with Steam Link and Phones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-downloading-and-implementation-of-intel-dual-band-wireless-ac-7260-driver/"><u>Hassle-Free Downloading and Implementation of Intel Dual Band Wireless AC 7260 Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-address-connectivity-errors-in-ralink-rt3290-devices-under-win1087-systems/"><u>How to Address Connectivity Errors in Ralink RT3290 Devices Under Win10/8/7 Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x9b-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor X9b Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-navigating-the-essence-of-photography-polarrs-edits-revealed/"><u>In 2024, Navigating the Essence of Photography Polarr’s Edits Revealed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-the-petsafe-automatic-pet-feeder-effective-solution-for-weight-management/"><u>Review of the PetSafe Automatic Pet Feeder: Effective Solution for Weight Management</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategic-monitoring-of-gaming-hours-xbox-series-xs/"><u>Strategic Monitoring of Gaming Hours: Xbox Series X|S</u></a></li>
-<li><a href="https://games-able.techidaily.com/striving-for-speed-i-suffered-the-cost/"><u>Striving for Speed, I Suffered the Cost</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/unlock-full-hd-tweeting-on-your-screen-for-2024/"><u>Unlock Full HD Tweeting on Your Screen for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-enhancing-virtual-communication-applying-zoom-filter-features/"><u>[Updated] 2024 Approved Enhancing Virtual Communication Applying Zoom Filter Features</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-instagram-stories-tempo-tactics-speeding-up-or-slowing-down-for-2024/"><u>[Updated] Instagram Stories Tempo Tactics – Speeding Up or Slowing Down for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-privacy-focused-tools-for-unseen-story-watching/"><u>2024 Approved Privacy-Focused Tools for Unseen Story Watching</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-a14-4g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy A14 4G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-expert-tips-from-yl-computing-on-accelerating-computer-speed/"><u>Boost Your PC's Performance: Expert Tips From YL Computing on Accelerating Computer Speed</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-over-troubled-water-restoring-your-pcs-minecraft-connection/"><u>Bridge Over Troubled Water: Restoring Your PC's Minecraft Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparative-study-fe-vs-aib-graphics-card-models/"><u>Comparative Study: FE Vs. AIB Graphics Card Models</u></a></li>
+<li><a href="https://fox-http.techidaily.com/cutting-edge-film-making-start-here-for-2024/"><u>Cutting-Edge Film Making, Start Here for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-alone-to-together-reestablishing-winmc-network-connections/"><u>From Alone to Together: Reestablishing WinMC Network Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-the-go-best-switch-cart-holder-ideas/"><u>Gaming on the Go: Best Switch Cart Holder Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-a-controller-to-an-android-phone-or-tablet/"><u>How to Connect a Controller to an Android Phone or Tablet</u></a></li>
+<li><a href="https://games-able.techidaily.com/lessons-in-tech-pick-correct-oled-screen/"><u>Lessons in Tech: Pick Correct OLED Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-crafting-a-masterpiece-with-collages/"><u>Step-by-Step Crafting a Masterpiece with Collages</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-13-proipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 13 Pro/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 

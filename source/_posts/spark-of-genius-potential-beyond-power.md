@@ -1,7 +1,7 @@
 ---
 title: "Spark of Genius: Potential Beyond Power"
-date: 2024-08-08T09:13:44.204Z
-updated: 2024-08-09T09:13:44.204Z
+date: 2025-01-26T17:59:40.019Z
+updated: 2025-01-30T17:46:52.031Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
 ## Spark of Genius: Potential Beyond Power
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [The Switch Tablet as a Second Screen](#the-switch-tablet-as-a-second-screen)
@@ -27,15 +24,8 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  A faster CPU, sure. Better graphics, naturally. But what quirky, groundbreaking features could Nintendo’s out-of-the-box thinking bring to the Switch successor?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1 The Switch Tablet as a Second Screen
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![A white Wii U GamePad with a large screen surrounded by joysticks and buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_79169617.jpg)
 
  Barone Firenze/[Shutterstock](https://www.shutterstock.com/image-photo/los-angeles-june-7-nintendo-showing-79169617)
@@ -46,12 +36,17 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  A bold approach would see a new run of two-screen games, but also a development of the Switch’s flexible selling point, giving us one more way to play.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 An Upgradeable Dock
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![official nintendo switch docking station](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/official-nintendo-switch-docking-station.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Nintendo
 
@@ -60,8 +55,9 @@ Nintendo
  Of course, the technology needs to support it, but a dock with an upgradable CPU or GPU would be top of my list. I’d also love to see more video options: 1440p, 4K, and 8K if possible. The dock could even support fancier audio options, or other peripherals and accessories altogether.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 Full Support for Current Eshop Purchases
 
  As[digital purchases grow ever more popular](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) , more of us are amassing large gaming libraries and discovering new ways to rent and share games. Backward compatibility is now easier than ever and is a strong selling point, one which current Switch owners hope will see the light of day.
@@ -70,10 +66,6 @@ Nintendo
 
 ## 4 Improved Screenshot and Video Features
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Valnet Reviews Department Arlo Essential Indoor Camera placed on table with the privacy shutter covering the lens](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/arlo-essential-indoor-camera-placed-on-table-with-the-privacy-shutter-covering-the-lensjpg_53529842952_o.jpg)
 
  Jerome Thomas / MakeUseOf
@@ -84,9 +76,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  It might also be fun to see a return of a proper camera, as lovable as the JoyCon IR is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 More Than One Game Card Slot
 
 ![shutterstock_1447447304](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1447447304.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Back in the heyday of compact discs, one of the most sought-after features was a disc changer or multi-disc tray that gave access to several albums at once. I've never wanted a console equivalent quite as much as I do with the Nintendo Switch.
 
@@ -94,14 +94,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  This probably won't be at the top of everyone's wishlist, but there’s got to be enough room in that case for more than one card slot.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +107,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-best-mouse-recorders-to-use/"><u>[New] Best Mouse Recorders to Use</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-harness-your-screen-with-screencastify-recorder/"><u>[New] In 2024, Harness Your Screen with Screencastify Recorder</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-elevate-your-live-stream-quality-the-art-of-using-dslr-on-computers-for-2024/"><u>[Updated] Elevate Your Live Stream Quality The Art of Using DSLR on Computers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagrams-hidden-pathway-extract-more-filters-for-free-effortlessly/"><u>[Updated] In 2024, Instagram’s Hidden Pathway Extract More Filters for Free Effortlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-expert-tips-boosting-efficiency-with-key-productivity-apps-and-strategies-in-your-day-to-day-routine-insights-from-zdnet/"><u>1. Expert Tips: Boosting Efficiency with Key Productivity Apps & Strategies in Your Day-to-Day Routine - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/craft-your-console-clan-strategy/"><u>Craft Your Console Clan Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-peak-of-switch-controls/"><u>Navigate the Peak of Switch Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-in-play-setting-up-your-steam-launchers/"><u>Precision in Play: Setting Up Your Steam Launchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-8-lightweight-game-boxes-for-android-on-pcmac/"><u>Premium 8 Lightweight Game Boxes for Android on PC/Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-initiation-with-ease/"><u>Streamlining Windows 11 Initiation with Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-seekers-manual-a-comprehensive-approach-to-purchasing-high-definition-monitors/"><u>The Seeker's Manual A Comprehensive Approach to Purchasing High-Definition Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-5-frustrating-foddian-games-to-test-your-skills/"><u>The Top 5 Frustrating Foddian Games to Test Your Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/timebound-tactics-temporary-gaming-powerups/"><u>Timebound Tactics: Temporary Gaming Powerups</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-30-ps3-games-on-pc-ultimate-emulator-guide/"><u>Top 30 PS3 Games on PC: Ultimate Emulator Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-watermark-free-video-editing-the-best-free-options/"><u>Updated In 2024, Watermark-Free Video Editing The Best Free Options</u></a></li>
+</ul></div>
 

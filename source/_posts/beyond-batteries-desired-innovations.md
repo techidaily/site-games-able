@@ -1,7 +1,7 @@
 ---
 title: "Beyond Batteries: Desired Innovations"
-date: 2024-07-29T06:02:00.406Z
-updated: 2024-07-30T06:02:00.406Z
+date: 2025-01-26T18:13:41.868Z
+updated: 2025-01-30T17:09:17.766Z
 tags:
   - games
 categories:
@@ -15,9 +15,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 ## Beyond Batteries: Desired Innovations
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The Switch Tablet as a Second Screen](#the-switch-tablet-as-a-second-screen)
@@ -32,6 +32,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![A white Wii U GamePad with a large screen surrounded by joysticks and buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_79169617.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Barone Firenze/[Shutterstock](https://www.shutterstock.com/image-photo/los-angeles-june-7-nintendo-showing-79169617)
 
  While Nintendo had great success with consoles such as the Switch, DS, and Wii, it has also delivered the occasional failure. The Wii U was a clear example of a product that’s great on paper, but less so when presented to the market. A confusing name and lackluster first-party launch titles resulted in poor sales.
@@ -41,13 +45,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  A bold approach would see a new run of two-screen games, but also a development of the Switch’s flexible selling point, giving us one more way to play.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 An Upgradeable Dock
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![official nintendo switch docking station](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/official-nintendo-switch-docking-station.png)
 
 Nintendo
@@ -62,9 +64,6 @@ Nintendo
 
  Nintendo likes to test our patience, releasing remaster after remaster, and each console revision tends to introduce its own unique way of playing Super Mario Bros (1985). But I'd like the company to really push the boat out and embrace permanent ownership of digital titles, starting from this generation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 4 Improved Screenshot and Video Features
 
 ![Valnet Reviews Department Arlo Essential Indoor Camera placed on table with the privacy shutter covering the lens](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/arlo-essential-indoor-camera-placed-on-table-with-the-privacy-shutter-covering-the-lensjpg_53529842952_o.jpg)
@@ -78,14 +77,16 @@ Nintendo
  It might also be fun to see a return of a proper camera, as lovable as the JoyCon IR is.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 More Than One Game Card Slot
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![shutterstock_1447447304](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1447447304.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Back in the heyday of compact discs, one of the most sought-after features was a disc changer or multi-disc tray that gave access to several albums at once. I've never wanted a console equivalent quite as much as I do with the Nintendo Switch.
 
@@ -93,14 +94,11 @@ Nintendo
 
  This probably won't be at the top of everyone's wishlist, but there’s got to be enough room in that case for more than one card slot.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +107,24 @@ Nintendo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/est-youtube-channel-name-ideas-for-aspiring-vloggers-and-film-makers-maximum-length-156-characters-for-2024/"><u>[New] Best Youtube Channel Name Ideas For Aspiring Vloggers & Film Makers (Maximum Length 156 Characters) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dissecting-youtubes-strategy-to-empower-short-form-content-makers/"><u>[Updated] 2024 Approved Dissecting YouTube’s Strategy to Empower Short-Form Content Makers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-editors-journey-mastering-the-art-of-youtube-cuts/"><u>[Updated] 2024 Approved The Editor's Journey Mastering the Art of Youtube Cuts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-sims-4-recording-techniques/"><u>[Updated] In 2024, Mastering Sims 4 Recording Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-swiftstrike-timetape-recording-for-2024/"><u>[Updated] SwiftStrike TimeTape Recording for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/boosted-app-opening-top-techniques-for-windows-11/"><u>Boosted App Opening: Top Techniques for Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-consistent-mouse-wheel-response/"><u>Ensuring Consistent Mouse Wheel Response</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-value-of-tp-links-re200-ac750-extender-quality-meets-affordability/"><u>Exploring the Value of TP-Link's RE200 Ac750 Extender: Quality Meets Affordability</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-zero-to-hero-mastering-steam-tokens/"><u>From Zero to Hero: Mastering Steam Tokens</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restore-default-settings-on-your-ps4-console/"><u>How to Restore Default Settings on Your PS4 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/pursuit-of-the-glinted-gems-in-scarlet-and-violet-93/"><u>Pursuit of the Glinted Gems in Scarlet & Violet (93)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-user32dll-missingnot-found-issues-easily/"><u>Resolving 'User32.dll' MISSING/NOT FOUND Issues Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-stuttering-distortion-problem-on-windows-117-solved/"><u>Sound Stuttering / Distortion Problem on Windows 11/7 [Solved]</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-nintendo-switch-login-experience/"><u>Streamlining Nintendo Switch Login Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ssd-for-next-gen-gaming-console/"><u>Superior SSD for Next-Gen Gaming Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-steams-invalid-file-confirmation-error/"><u>Tackling Steam's Invalid File Confirmation Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-full-mobile-gaming-experience-with-paid-play/"><u>Unlocking the Full Mobile Gaming Experience with Paid Play</u></a></li>
+</ul></div>
 

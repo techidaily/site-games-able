@@ -1,7 +1,7 @@
 ---
 title: "PlayStation Meets Joy-Con: A New Gaming Hybrid Experience"
-date: 2025-01-13T19:17:38.825Z
-updated: 2025-01-16T23:01:08.715Z
+date: 2025-01-26T18:02:37.029Z
+updated: 2025-01-30T16:58:19.345Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Connecting Your DualShock 4 or DualSense Controller
 
  Whether you're playing with a group of friends or just aren't a big fan of the Joy-Con controllers, it's worth considering playing your Switch games with a PlayStation Controller instead. It's always a crowd favorite and the DualSense can be customized in many ways, as seen in[our MegaModz PS5 controller review](https://www.makeuseof.com/megamodz-ps5-controller-review-mods-macros-customizable-designs/) .
@@ -32,16 +36,12 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 ![Close up of 8BitDo Wireless Adapter 2 box and component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-box-and-component.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You’ll need a few things before you start, including a PlayStation Controller and a Bluetooth adapter. The latter can be picked up online cheaply and will be essential to the process; we recommend the[8Bitdo Wireless USB Adapter 2](https://www.amazon.com/8Bitdo-Raspberry-Compatible-Controller-Bluetooth/dp/B09M8CVMYF?th=1&linkCode=ll1&tag=muo-v2-7ejka4c-20&linkId=863c4d00a0d38154b6d8bfec201770d5&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2011626&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fhow-to-connect-ps4-ps5-controller-to-nintendo-switch%2F&asc%5Fcampaign=Evergreen) . The process for both DualShock 4 and DualSense controllers is essentially the same.
 
  It is a good idea to ensure your PlayStation is unplugged or out of range for this process to avoid the PlayStation controller connecting to your other consoles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Connect a PS4 or PS5 Controller to Your Switch
 
@@ -49,17 +49,21 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
 ![Close up of 8BitDo Wireless Adapter 2 pairing button-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-pairing-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Things to Consider When Using PlayStation Controllers on Switch
@@ -84,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
 
@@ -110,24 +110,16 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-be-a-youtube-gamer-for-2024/"><u>[New] How To Be a YouTube Gamer for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-silent-recorders-revealed-6-undiscovered-android-and-ios-apps-for-2024/"><u>[New] Silent Recorders Revealed 6 Undiscovered Android & iOS Apps for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-boost-your-tiktoks-speed-a-step-by-step-guide/"><u>2024 Approved Boost Your TikTok's Speed A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-zoom-for-high-quality-facebook-live-streams/"><u>2024 Approved Leveraging Zoom for High-Quality Facebook LIVE Streams</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/come-recuperare-la-partizione-di-windows-cancellata-per-errore-guida-rapida-e-facile/"><u>Come Recuperare La Partizione Di Windows Cancellata per Errore: Guida Rapida E Facile!</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortnite-financial-remedy-requesting-a-refund/"><u>Fortnite Financial Remedy: Requesting a Refund</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-navigated-steps-for-sound-submissions-to-youtube-for-2024/"><u>Notes Navigated Steps for Sound Submissions to YouTube for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-your-secrets-why-using-chatgpt-for-sensitive-data-is-risky/"><u>Protecting Your Secrets: Why Using ChatGPT for Sensitive Data Is Risky</u></a></li>
-<li><a href="https://games-able.techidaily.com/remedy-steam-library-sync-misfire-on-pc/"><u>Remedy Steam Library Sync Misfire on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/t1-and-s1-redesign-tecnos-ifa-innovations-revealed/"><u>T1 and S1 Redesign: Tecno’s IFA Innovations Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-graphic-gamers-guide-to-rhythm-beat-play/"><u>The Graphic Gamer's Guide to Rhythm Beat Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-9-essentials-game-enthusiasts-travel-guide/"><u>Top 9 Essentials: Game-Enthusiast's Travel Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-gpu-picks-beyond-rtx-4060-ti/"><u>Top GPU Picks Beyond RTX 4060 Ti</u></a></li>
-<li><a href="https://games-able.techidaily.com/trendsetting-ergonomic-office-surface-solutions/"><u>Trendsetting Ergonomic Office Surface Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/tricks-for-masking-your-online-presence-on-steam/"><u>Tricks for Masking Your Online Presence on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-best-affordable-1440p-gaming-displays/"><u>Unveiling the Best Affordable 1440P Gaming Displays</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-unique-characteristics-of-nlp-vs-machine-learning-in-artificeal-intelligence/"><u>Unveiling the Unique Characteristics of NLP vs Machine Learning in Artificeal Intelligence</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-revolutionize-your-visuals-8-best-photo-animation-tools-for-2024/"><u>Updated Revolutionize Your Visuals 8 Best Photo Animation Tools for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-crazy-crews-top-10-unique-tiktok-games/"><u>[New] 2024 Approved The Crazy Crew's Top 10 Unique TikTok Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-elevate-conference-quality-the-list-of-top-10-free-audio-capture/"><u>[Updated] 2024 Approved Elevate Conference Quality The List of Top 10 Free Audio Capture</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-nikon-z6i-vs-d7500-in-depth-comparison/"><u>[Updated] 2024 Approved Nikon Z6I vs D7500 In-Depth Comparison</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-validating-your-yt-channels-earnings/"><u>[Updated] The Ultimate Guide to Validating Your YT Channel's Earnings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-avoiding-pitfalls-in-low-light-portrait-photography/"><u>2024 Approved Avoiding Pitfalls in Low-Light Portrait Photography</u></a></li>
+<li><a href="https://win11.techidaily.com/a-complete-guide-to-hdr-on-windows-11/"><u>A Complete Guide to HDR on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/diminishing-distractions-sound-management-on-xbox/"><u>Diminishing Distractions: Sound Management on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/full-gameplay-experience-for-apple-m-devices-using-crossover/"><u>Full Gameplay Experience for Apple M Devices Using CrossOver</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-ps5-slim-understanding-its-impact/"><u>New PS5 Slim - Understanding Its Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/stunning-graphics-on-a-few-dollars/"><u>Stunning Graphics on a Few Dollars</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/efinitive-list-youtubes-premier-making-up-masters/"><u>The Definitive List YouTube's Premier Making-Up Masters</u></a></li>
 </ul></div>
 

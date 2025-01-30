@@ -1,7 +1,7 @@
 ---
 title: Ten Hilarious Word Puzzles That Break The Ice in Chats
-date: 2024-08-08T09:15:01.040Z
-updated: 2024-08-09T09:15:01.040Z
+date: 2025-01-23T17:29:22.111Z
+updated: 2025-01-30T16:00:19.468Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 
 ## Ten Hilarious Word Puzzles That Break The Ice in Chats
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Play text-based games with friends using SMS text messaging or chat apps like WhatsApp or iMessage. There's no need to download another app!
@@ -39,6 +36,10 @@ Close
 
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 20 Questions
 
 Close
@@ -50,8 +51,9 @@ Close
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 I Spy
 
 Close
@@ -63,8 +65,9 @@ Close
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Song Lyrics
 
 Close
@@ -76,8 +79,9 @@ Close
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 Abbreviations
 
 Close
@@ -98,9 +102,6 @@ Close
 
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7 Where Am I?
 
 Close
@@ -111,9 +112,6 @@ Close
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8 Kiss, Marry, Kill
 
 Close
@@ -123,6 +121,10 @@ Close
  One person names three people, be they celebrities or individuals you both know, and asks, "Kiss, Marry, Kill?" The other person then has to determine which of the three they would kiss, which they would marry, and which they would kill. All in jest, you understand. None of the three are actually going to happen.
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 What If...?
 
@@ -146,14 +148,11 @@ Close
 
  These games range from the simple to the more complex. But they're all supremely playable between any two (or more) people with mobile phones to hand. And remember that while most people will use a messaging app such as Messenger or Telegram, they're even playable using old-school SMS text messages.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +161,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-masterful-windows-10-top-new-apps-and-game-lineup-revealed/"><u>[Updated] Masterful Windows 10 Top New Apps & Game Lineup Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-ps5-web-browser-secret/"><u>Decoding the PS5 Web Browser Secret</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-steam-authentication-problem-solving-in-rust/"><u>Efficient Steam Authentication Problem Solving in Rust</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-the-conjuring-series-right-the-ideal-way-to-watch-them/"><u>Experience the 'Conjuring' Series Right: The Ideal Way to Watch Them</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/improving-audiovideo-sync-with-apple-media/"><u>Improving Audio/Video Sync with Apple Media</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-analyzing-ffmpegs-aptitude-for-maintaining-audible-fidelity/"><u>In 2024, Analyzing FFmpeg’s Aptitude for Maintaining Audible Fidelity</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-no-cost-creative-corner-finding-the-finest-tiktok-backgrounds/"><u>In 2024, No-Cost Creative Corner Finding the Finest TikTok Backgrounds</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-start-to-discord-on-your-mac-system/"><u>Quick Start to Discord on Your Mac System</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-prevent-auto-start-of-steam/"><u>Steps to Prevent Auto-Start of Steam</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/tecnicas-efectivas-para-la-restauracion-de-almacenamiento-c-reposiciona-tus-datos-con-facilidad/"><u>Técnicas Efectivas Para La Restauración De Almacenamiento C: Reposiciona Tus Datos Con Facilidad</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-roadmap-to-epic-engaging-gaming-experiences-learn-from-helldivers-2/"><u>The Roadmap to Epic, Engaging Gaming Experiences: Learn From Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-shoppers-paradise-in-sonys-summer-sale/"><u>Top 10 Shopper's Paradise in Sony’s Summer Sale</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oneplus-ace-2v-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track OnePlus Ace 2V Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-microsofts-joint-endeavor-with-blizzard-and-activision/"><u>Understanding Microsoft's Joint Endeavor with Blizzard & Activision</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Keeping It Smooth: Methods to Reduce Steam Web Helper's RAM Impact"
-date: 2025-01-19T00:13:37.332Z
-updated: 2025-01-22T20:59:16.286Z
+date: 2025-01-25T17:52:18.564Z
+updated: 2025-01-30T17:25:24.604Z
 tags:
   - games
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Steam Use So Much Memory?
 
 ![Steam processes running in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_processes_running_in_task_manager.jpg)
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use Offline Mode
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
@@ -66,25 +70,25 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  This will ease the burden that Steam's web pages have on your available memory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Enable Low-Performance Mode
 
 ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another simple toggle for performance gains is in the Library tab of the settings menu. Enabling the Low-Performance Mode will disable certain animations when browsing through the Steam library.
 
  This will sacrifice some eye candy for the sake of performance, but overall doesn't reduce memory usage beyond superficial levels. If you've tried all these options so far and still find your system struggling, it might be time for more drastic measures.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Launch the Steam Mini Games List
 
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
 
@@ -96,10 +100,6 @@ steam://open/minigameslist
 3. Hit enter. This will change the size of your Steam window, forcing it into a vertical slice rather than the more feature-full rectangle that Steam usually defaults to.
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Create a Custom Batch File for Minimal Steam
 
@@ -139,20 +139,21 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-viral-video-vanguard-youtubes-1-24-hours-list/"><u>[New] 2024 Approved Viral Video Vanguard YouTube's #1 24 Hours List</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-enhancing-your-vtuber-presence-with-premier-voice-editors/"><u>[Updated] 2024 Approved Enhancing Your VTuber Presence with Premier Voice Editors</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-into-the-humor-hub-of-the-world-wide-web-metaverse-memes-101/"><u>2024 Approved Into the Humor Hub of the World Wide Web - Metaverse Memes 101</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-pimaxs-vivid-ventures-with-a-side-of-software-slip-ups/"><u>Discover Pimax's Vivid Ventures with a Side of Software Slip-Ups</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enthralling-aesthetics-logo-techniques-for-podcasts/"><u>Enthralling Aesthetics Logo Techniques for Podcasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/error-code-403-the-definitive-guide-to-fixing-it-in-roblox-windows-edition/"><u>Error Code 403: The Definitive Guide to Fixing It in Roblox Windows Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/helldivers-2-a-gateway-into-understanding-game-dynamics/"><u>Helldivers 2: A Gateway Into Understanding Game Dynamics</u></a></li>
-<li><a href="https://games-able.techidaily.com/hide-your-game-banter-with-xbox-privacy-tools/"><u>Hide Your Game Banter with Xbox Privacy Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-lava-blaze-2-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Lava Blaze 2 Pro Phone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nubia-red-magic-8s-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nubia Red Magic 8S Pro FRP Bypass</u></a></li>
-<li><a href="https://techtrends.techidaily.com/masterclass-watching-and-sharing-the-2024-olympiad-instantly-online/"><u>Masterclass: Watching & Sharing the 2024 Olympiad Instantly Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-vip-content-in-fortnite-via-ps5/"><u>Mastering VIP Content in Fortnite via PS5</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/precision-play-choosing-gamepad-over-console/"><u>Precision Play: Choosing Gamepad Over Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/surging-through-gaming-seas-fixing-fps-woes/"><u>Surging Through Gaming Seas: Fixing FPS Woes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-engagement-on-igtv-with-well-oriented-videos-for-2024/"><u>[New] Enhancing Engagement on IGTV with Well-Oriented Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sound-excellence-for-podcasters-ultimate-audio-interface-guide/"><u>[New] Sound Excellence for Podcasters Ultimate Audio Interface Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-survey-spectrum-of-video-and-film-equipment-for-2024/"><u>[New] Survey Spectrum of Video and Film Equipment for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-interlace-snaps-a-guide-to-crafting-picture-panoramas/"><u>[Updated] Interlace Snaps A Guide to Crafting Picture Panoramas</u></a></li>
+<li><a href="https://win11.techidaily.com/10-substitutes-for-bitlocker-in-winxp-systems/"><u>10 Substitutes for BitLocker in WinXP Systems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-expert-advice-to-recover-missing-thumbnails-from-videos/"><u>2024 Approved Expert Advice to Recover Missing Thumbnails From Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-personalized-gaming-experience-xbox-game-bar-tweaks-for-pc-users/"><u>Crafting a Personalized Gaming Experience: Xbox Game Bar Tweaks for PC Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-asus-realtek-audio-drivers-improve-your-systems-sound-today/"><u>Free ASUS Realtek Audio Drivers: Improve Your System's Sound Today</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-no-money-no-problem-master-fcp-legally/"><u>In 2024, No Money, No Problem Master FCP Legally</u></a></li>
+<li><a href="https://games-able.techidaily.com/shift-to-superiority-from-console-to-high-end-pc-gaming/"><u>Shift to Superiority: From Console to High-End PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-most-trusted-8-sources-of-gaming-news-and-critiques/"><u>The Most Trusted 8 Sources of Gaming News & Critiques</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-connection-guide-for-epic-and-steam-accounts/"><u>The Ultimate Connection Guide for Epic & Steam Accounts</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/understanding-the-complexities-in-organizational-process-management-lessons-from-the-abbyy-blog/"><u>Understanding The Complexities in Organizational Process Management – Lessons From the ABBYY Blog</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-creativity-using-tablets-in-games/"><u>Unleashing Creativity: Using Tablets in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-pokemons-mystery-scvs-shiny-secrets-80/"><u>Unraveling Pokémon's Mystery: SCV’s Shiny Secrets (80)</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-im-insisting-on-oled-a-gamers-perspective/"><u>Why I'm Insisting on OLED - A Gamer’s Perspective.</u></a></li>
 </ul></div>
 

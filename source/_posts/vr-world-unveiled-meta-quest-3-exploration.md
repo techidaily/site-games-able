@@ -1,7 +1,7 @@
 ---
 title: "VR World Unveiled: Meta Quest 3 Exploration"
-date: 2024-08-08T09:16:33.003Z
-updated: 2024-08-09T09:16:33.003Z
+date: 2025-01-29T16:43:12.281Z
+updated: 2025-01-30T17:47:05.046Z
 tags:
   - games
 categories:
@@ -15,8 +15,9 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 ## VR World Unveiled: Meta Quest 3 Exploration
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Meta Quest 3 has impressive Mixed Reality capabilities with full-color passthrough cameras, eliminating the sense of isolation and allowing interaction with real-world furniture and structures.
@@ -27,24 +28,13 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  Instead, I’m going to do something I never thought I’d do before: I’m going to tell you it's the Mixed Reality capabilities of the Quest 3 that make it utterly magical.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![MQ3 tag-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/mq3-tag-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Meta Quest 3
 
@@ -123,6 +113,10 @@ But let me back up for a moment.
 
 ![oculus rift development kit 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2013/05/oculus-rift-review-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The[Oculus Dev Kit 1](https://www.makeuseof.com/tag/oculus-rift-development-kit-review-and-giveaway/) was enormous, clunky, and had a sum total of two demos you could play on it—a Tuscany villa, and a single rollercoaster track—but it was enough to convince me that affordable, consumer VR was finally a reality, and it was glorious.
 
  Fast forward another decade, and VR has been somewhat normalized for me as just another way to play games. I don’t get goosebumps anymore, and I’m just as likely to boot up a flatscreen game as I am to jump into my motion simulator and spin around some tracks with the PSVR2 version of Gran Turismo (read[my PSVR2 review](https://www.makeuseof.com/playstation-vr2-review/) ).
@@ -137,10 +131,11 @@ But let me back up for a moment.
 
  By comparison, a full VR headset can teleport you convincingly to an entirely different world. Nothing can compare to the immersive nature of a well-designed VR environment.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![meta quest 3 - shooting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-shooting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -170,18 +165,12 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  Beyond a quick passthrough view of the world while playing in VR, some games offer a full passthrough mode by replacing their usual rendered backgrounds with a real-world view. The game objects are overlaid.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![quest 3 clips - demeo in kitchen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clips-demeo-in-kitchen.jpg)
 
  James Bruce / MakeUseOf
 
 [Demeo](https://www.meta.com/en-gb/experiences/3634830803298285/) is a top-down role-play adventure that places the environment within a virtual table, which you can place anywhere in your real environment like a board game. You'll walk around it, roll your virtual dice, and drag your mini figure around the board.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![quest 3 clips - puzzling places](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clips-puzzling-places.jpg)
 
  James Bruce / MakeUseOf
@@ -189,6 +178,10 @@ So, how good are the Mixed Reality features of the Quest 3?
 [Puzzling Places](https://www.meta.com/en-gb/experiences/3931148300302917/) has you constructing a 3D photogrammetry puzzle of real-world objects and locations. It’s a little messy with pieces strew around your environment, but I enjoy sitting there and doing a puzzle at the kitchen table, and still being able to engage with family.
 
 ![quest 3 clips - spacefolk city](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clips-spacefolk-city.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -226,26 +219,28 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  That said, I still prefer the controllers for, well, everything. They're comfortable and lightweight, and the obnoxious tracking rings are gone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Audio
 
  Never a strong point of the Quest line, the audio has always been decidedly lackluster and tinny. So much so that I butchered my Quest 2 with an old Vive Deluxe Headstrap and some 3D printed adaptors to give it greater comfort and built-in headphones.
 
 ![meta quest 3 - quest 2 with vive headstrap vs quest 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-quest-2-with-vive-headstrap-vs-quest-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
  But I probably won’t need to do that to Quest 3\. It’s by no means perfect, but it’s a lot better, and passes the bar of what I’d define as acceptable. And if you’re already happy with the audio on the Quest 2, you definitely won’t be disappointed here.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comfort
 
  Little has changed to the basic head strap. It’s an elastic fabric strap that you can tighten around the back of your skull and on top. You’ll either hate it or tolerate it, but you won't love it. I’m in the latter camp, so if I find a better one, I’ll replace it, but it’s good enough for now.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![meta quest 3 - headstrap adjustment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-headstrap-adjustment.jpg)
 
  James Bruce / MakeUseOf
@@ -260,16 +255,10 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  It's difficult to comment too much on the comfort of any VR headset because everyone has a unique facial shape; what works for me may not work for you. There's nothing remarkably innovative about the design of the Quest 3 facial interface, but nor have I had any issues after extended sessions of around two hours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Screen Quality
 
  In terms of resolution, the dual LCD panels natively offer up to 2064 x 2208 per eye, or about twice as many pixels as HD. However, most of the time, that’s not the resolution you’ll see when you look through the display. During standalone use, the UI and most games target 1680 x 1760px. That’s the standard 1x resolution scale.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![meta quest 3 - lenses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-lenses.jpg)
 
  James Bruce / MakeUseOf
@@ -288,9 +277,6 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  The visual quality is by no means perfect, or even the best I’ve seen yet on a VR headset (I’ll leave that award for the PSVR2), but it is indeed good enough, and a clear improvement over the previous Quest 2.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Battery Life
 
  Sadly, battery life is one area where the Quest 3 appears to have suffered compared to its predecessor, despite the larger 19.44Wh capacity compared to the Quest 2’s 14.33Wh.
@@ -299,9 +285,6 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  Meta sells an optional Elite Strap with an extra battery that should double your playtime, but it’s overpriced at $130, and there appear to be some early bugs, so I’d hold off on that for now, at least until we have some decent third-party alternatives to compare.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Quest Link
 
  If you have a desktop PC that’s powerful enough to run VR, you might be wondering whether you should buy a tethered headset or a standalone one like the Quest. But you needn’t pick between the two, because with the[Quest Link feature](https://www.makeuseof.com/oculus-quest-2-into-windows-pc-vr-headset/) , your Quest 3 can become a tethered headset, either via a suitable USB-C or wirelessly through a Wi-Fi 6 router.
@@ -309,6 +292,10 @@ So, how good are the Mixed Reality features of the Quest 3?
  I must admit, since I also have a Valve Index, this isn’t something I’ve used a lot in the past, but it offers another compelling reason to buy the Quest 3 over another headset.
 
  However, at the time of writing, there appears to be no improvement in Quest Link compared to the same feature on Quest 2\. Don’t buy the Quest 3 if your only use case is PCVR through the Quest Link.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Meta Quest Remote Desktop
 
@@ -324,17 +311,15 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  Another alternative to both the Quest Link and Remote Desktop feature is[Virtual Desktop](https://www.meta.com/en-gb/experiences/2017050365004772/) , which is a paid application from a third-party developer. In my experience, it’s more reliable and allows you to interact with your desktop over a fast Wi-Fi connection, as well as playing any PCVR games from Steam or Oculus. You can even emulate a gamepad for regular flat games. However, using the Touch controllers as an Xbox gamepad isn’t exactly intuitive with half your buttons on the other thumb, so you’d better off just pairing a gamepad with your Quest 3 if you’ll be flat gaming.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Should You Buy the Meta Quest 3?
 
  I’m blown away by the Mixed Reality capabilities of the Meta Quest 3, and that’s coming from a hardened VR gamer and cynical MR/AR/XR skeptic. There are still kinks to work out with the legacy boundary system operating seemingly in tandem with new room scanning features (arguably, you don't need a boundary at all if the game lets you see your surroundings at all times, but it still insists on you making one), but it's early days. We've yet to see the full potential of persistent "Augments" realized, nor are there any games that take advantage of your environment, yet. But still, I'm blown away by what is here.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![quest 3 clip - room scanning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clip-room-scanning.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -345,8 +330,9 @@ So, how good are the Mixed Reality features of the Quest 3?
 ![MQ3 tag-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/mq3-tag-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### Meta Quest 3
@@ -363,8 +349,6 @@ So, how good are the Mixed Reality features of the Quest 3?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -372,4 +356,16 @@ So, how good are the Mixed Reality features of the Quest 3?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-spark-interest-and-boost-views-on-instagram-videos/"><u>[New] 2024 Approved How to Spark Interest & Boost Views on Instagram Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-enhance-your-asmr-experience-with-top-tier-mics-for-2024/"><u>[Updated] Enhance Your ASMR Experience with Top-Tier Mics for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-need-for-multifunctional-game-displays/"><u>Deciphering the Need for Multifunctional Game Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/discord-turning-offon-screen-games/"><u>Discord: Turning Off/On Screen Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gelatogags-humor-graphics-online/"><u>In 2024, GelatoGags Humor Graphics Online</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-infinix-hot-40-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Infinix Hot 40 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-mobile-gaming-my-affinity-for-apple-arcade/"><u>Navigating Through Mobile Gaming: My Affinity for Apple Arcade</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picshot-enhancing-creativity-in-digital-collage-art-for-2024/"><u>Picshot Enhancing Creativity in Digital Collage Art for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-playtest-ps5-versus-cost-effective-pc-build/"><u>Ultimate Playtest: PS5 Versus Cost-Effective PC Build</u></a></li>
+</ul></div>
 

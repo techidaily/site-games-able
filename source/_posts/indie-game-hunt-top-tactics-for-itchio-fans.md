@@ -1,7 +1,7 @@
 ---
 title: "Indie Game Hunt: Top Tactics for Itch.io Fans"
-date: 2025-01-15T16:37:53.724Z
-updated: 2025-01-22T16:31:39.849Z
+date: 2025-01-23T17:06:26.421Z
+updated: 2025-01-30T18:14:51.785Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Use Tags and Filters](#use-tags-and-filters)
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 * [Check Out Community Recommendations](#check-out-community-recommendations)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -57,23 +53,27 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
 ![Adding tags to a search on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/add-roguelite-tag-itch.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Check Out Game Bundles
 
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Check the itch.io Blog
 
@@ -85,13 +85,13 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Follow Developers
 
@@ -132,14 +132,19 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-correcting-gopros-fish-eye-distortion-techniques/"><u>2024 Approved Correcting GoPro's Fish Eye Distortion Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-hit-solo-podcast-trendsetting-tips/"><u>2024 Approved Crafting a Hit Solo Podcast Trendsetting Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/control-conquerors-guide-to-fixing-xbox-controllers/"><u>Control Conqueror's Guide to Fixing Xbox Controllers</u></a></li>
-<li><a href="https://games-able.techidaily.com/curbing-xbox-one-control-pad-discrepanrances/"><u>Curbing Xbox One Control Pad Discrepanrances</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-skills-with-these-7-command-line-games/"><u>Enhance Skills with These 7 Command Line Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-pre-installed-ios-games-play-without-wi-fi/"><u>Exclusive Pre-Installed iOS Games - Play without Wi-Fi!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/hong-kong-pro-democracy-activists-conspiracy-charges-to-delay-until-november-potential-clash-with-jimmy-lais-december-trial-insights-from-yl-computing-and-y2/"><u>Hong Kong Pro-Democracy Activists' Conspiracy Charges to Delay Until November: Potential Clash with Jimmy Lai's December Trial - Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-ensure-your-xp-pen-tablet-runs-with-newest-drivers/"><u>How To Ensure Your XP-Pen Tablet Runs With Newest Drivers</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-capturing-clarity-top-methods-for-ppt-videos-for-2024/"><u>[New] Capturing Clarity Top Methods for PPT Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-users-handbook-for-zd-softs-screen-recorder-for-2024/"><u>[Updated] Ultimate User’s Handbook for ZD Soft's Screen Recorder for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-surprise-your-friends-with-these-unheard-memes/"><u>2024 Approved Surprise Your Friends with These Unheard Memes</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-grayed-out-delete-pin-option-in-windows-11/"><u>Breaking Grayed-Out Delete PIN Option in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-a-journey-to-unmatched-visual-clarity-in-gaming-xbox-sx-edition/"><u>Embark on a Journey to Unmatched Visual Clarity in Gaming: Xbox SX Edition</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/284921-9781101215630-everyday-grace/"><u>Everyday Grace | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-honor-magic-6-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor Magic 6 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-secret-screensnappers-guide-discreet-techniques-for-photo-taking/"><u>In 2024, Secret ScreenSnapper's Guide Discreet Techniques for Photo-Taking</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-workspace-mat-solutions-of-2024/"><u>Optimal Workspace Mat Solutions of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-key-to-conquering-the-new-york-times-puzzle-a-strands-guide/"><u>The Key to Conquering the New York Times Puzzle: A 'Strands' Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/two-screens-one-puzzle-my-ongoing-exploration-of-the-new-microsoft-surface-duo-2-tech-analysis-by-zdnet/"><u>Two Screens, One Puzzle: My Ongoing Exploration of the New Microsoft Surface Duo 2 | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-devices-bluetooth-enabled-gaming-tech/"><u>Uniting Devices: Bluetooth-Enabled Gaming Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-at-soccer-management-playing-championship-manager-on-windows-no-cost/"><u>Winning at Soccer Management: Playing Championship Manager on Windows, No Cost</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ultimate-companion-in-selecting-the-perfect-gamers-monitor/"><u>Your Ultimate Companion in Selecting the Perfect Gamer’s Monitor</u></a></li>
 </ul></div>
 

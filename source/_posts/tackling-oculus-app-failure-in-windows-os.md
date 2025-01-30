@@ -1,7 +1,7 @@
 ---
 title: Tackling Oculus App Failure in Windows OS
-date: 2024-08-08T09:13:00.279Z
-updated: 2024-08-09T09:13:00.279Z
+date: 2025-01-23T18:00:58.279Z
+updated: 2025-01-30T18:16:53.512Z
 tags:
   - games
 categories:
@@ -22,43 +22,45 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
 
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the Oculus Installer File With Administrative Rights
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
 
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the**OculusSetup.exe** file and selecting**Run as administrator** .
 
 ## 3\. Deselect the Use Proxy Server Checkbox
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the**Use a proxy server** checkbox within Internet Properties. Our[guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
 
  Real-time antivirus scanning can cause the “we encountered an error” issue to occur. Temporarily disabling antivirus protection on your PC will ensure it can’t block the Oculus software installation. This[how-to-turn-off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) article includes instructions for disabling the Microsoft Defender antivirus.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Turn Off the Windows Firewall
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this[how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
@@ -68,9 +70,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 1. Open this[Microsoft .NET Framework 4.6.1](https://www.microsoft.com/en-US/download/details.aspx?id=49981) webpage.
 2. Click the**Download** option for .NET Framework 4.6.1.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Download button for .NET Framework 4.6.1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/download-button-1.jpg)
 3. Bring up the directory containing the downloaded .NET Framework setup file.
 4. Double-click the**NDP461-KB3102438-Web.exe** file to bring up the setup window.
@@ -85,9 +84,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Simultaneously press the**Windows** logo +**X** keys and select to open Run from the Power User menu.
 2. Input**%appdata%** inside Run and click**OK** .
 3. Right-click any Oculus subfolder in the**Roaming** directory and select**Delete** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![An Oculus folder and the Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/oculus-folder.jpg)
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
 
@@ -98,20 +94,18 @@ C:\Users\<User Folder>\AppData`
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this[Meta download page](https://www.meta.com/us/en/quest/setup/) . Then click**Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install the Oculus Windows Software
 
  Many users have resolved the “we encountered an error” Oculus app installation issue by applying those potential solutions. So, there’s a good chance one will fix the Oculus app not installing on your Windows PC. Then you get back to playing all your favorite Rift PC VR games again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +114,21 @@ C:\Users\<User Folder>\AppData`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-free-to-view-performances-film-cast-permissions/"><u>[Updated] Free-to-View Performances Film Cast Permissions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-inserting-captions-in-instagram-clips-for-2024/"><u>[Updated] Step-by-Step Guide Inserting Captions in Instagram Clips for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tuning-the-small-scenes-of-minecraft/"><u>2024 Approved Fine-Tuning the Small Scenes of Minecraft</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-jumpstart-your-marketing-game-with-these-top-reddit-insights/"><u>2024 Approved Jumpstart Your Marketing Game with These Top Reddit Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-novices-guide-to-photo-perfection-in-snapseed/"><u>2024 Approved The Novice's Guide to Photo Perfection in Snapseed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-digital-presence-best-ways-to-utilize-zoom-changer/"><u>Elevate Your Digital Presence Best Ways to Utilize Zoom Changer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-using-manycams-advanced-live-video-and-webcam-features/"><u>Enhance Your Online Presence Using ManyCam's Advanced Live Video and Webcam Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-to-know-palworld-today/"><u>Get to Know PalWorld Today</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-hp-zbook-firefly-15-g8-assessment-ultraportable-powerhouse-unveiled/"><u>In-Depth HP ZBook Firefly 15 G8 Assessment: Ultraportable Powerhouse Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/keyboard-ticking-frequency-its-significance-unveiled/"><u>Keyboard Ticking Frequency: Its Significance Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-joy-con-connection-issues-with-switch-system/"><u>Navigating Through Joy-Con Connection Issues with Switch System</u></a></li>
+<li><a href="https://games-able.techidaily.com/solidifying-your-ps4-controller-connection-in-windows-environment/"><u>Solidifying Your PS4 Controller Connection in Windows Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-10-mechanics-behind-console-crashes-and-how-to-tackle-them/"><u>The Top 10 Mechanics Behind Console Crashes & How to Tackle Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-antiquated-systems-to-high-performers/"><u>Transforming Antiquated Systems to High-Performers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Indie Innovations: My Curated Collection"
-date: 2024-07-29T06:01:40.236Z
-updated: 2024-07-30T06:01:40.236Z
+date: 2025-01-29T16:33:32.775Z
+updated: 2025-01-30T17:03:59.987Z
 tags:
   - games
 categories:
@@ -14,10 +14,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
 ## Celebrating Indie Innovations: My Curated Collection
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Last Word](#last-word)
@@ -36,9 +32,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2 Untitled Goose Game
 
  It’s always worth watching various new games roundups like the Summer Games Fest or[Wholesome Games on YouTube](https://www.youtube.com/c/WholesomeGames) because, even if you’re not into everything shown, it’s always good to know what other people will be playing, and you might even discover a few new favorites for yourself.[Untitled Goose Game](https://goose.game/) is one of those titles, with a trailer that became so popular that developer House House Games ultimately ended up keeping the provisional title.
@@ -47,12 +40,17 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 A Short Hike
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Adam Robinson-Yu](https://ashorthike.com/)
 
@@ -63,13 +61,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Storyteller
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
@@ -83,11 +79,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 
@@ -99,14 +100,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  There are plenty of ways to find indie gems to play. These are a few of the ways I found some of my own favorites and hopefully they can help you find new indie games to play too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +113,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-compose-cringe-inducing-gifs-with-giphy-for-2024/"><u>[New] Compose Cringe-Inducing Gifs with Giphy for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-enhancing-visibility-the-power-of-strategic-facebook-giveaways-for-2024/"><u>[New] Enhancing Visibility The Power of Strategic Facebook Giveaways for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-methods-for-admin-access-in-the-winworld/"><u>Cutting-Edge Methods for Admin Access in the WinWorld</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-downloading-and-using-the-hp-officejet-pro-8715-drivers-on-various-windows-versions/"><u>Easy Installation Guide: Downloading and Using the HP OfficeJet Pro 8715 Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-handheld-gamers-choices/"><u>Exploring Handheld Gamers' Choices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-huawei-nova-y91-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Huawei Nova Y91</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-t2-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo T2 Pro 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-fix-for-ntfs-file-system-errors-overcoming-nt00000035-device-managers-code-41-challenges/"><u>Master the Fix for NTFS File System Errors - Overcoming nT!00000035 (Device Manager's Code 41) Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/mini-led-savings-gamers-delight-screen/"><u>Mini-LED Savings: Gamer's Delight Screen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-creating-and-adding-captions-to-your-mp4-video-content/"><u>Step-by-Step Guide: Creating and Adding Captions to Your MP4 Video Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-encouraging-gamers-to-develop-games-can-have-negative-consequences/"><u>Why Encouraging Gamers to Develop Games Can Have Negative Consequences</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-controllers-the-legality-of-third-party-modifications/"><u>Xbox Controllers – The Legality of Third-Party Modifications</u></a></li>
+</ul></div>
 

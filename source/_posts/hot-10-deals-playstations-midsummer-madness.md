@@ -1,7 +1,7 @@
 ---
 title: "Hot 10 Deals: PlayStation's Midsummer Madness"
-date: 2024-08-08T09:15:05.520Z
-updated: 2024-08-09T09:15:05.520Z
+date: 2025-01-25T16:45:25.360Z
+updated: 2025-01-30T18:22:34.757Z
 tags:
   - games
 categories:
@@ -19,22 +19,24 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
  There are quite literally thousands of games on sale, so if you don’t have the time or patience to sift through them all to find the best deals, we’ve done the hard work for you.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Overcooked! 2
 
  The best part of the summer holidays is that your friends are most likely on holiday as well, which means that there is no excuse not to invite them over and have a night of ridiculous fun playing Overcooked! 2\. Overcooked! 2 is a chaotic party game where you have to work together to serve food to some very impatient customers under extreme conditions in a short time limit. If you like laughing, you'll like this.
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Deathloop
 
@@ -42,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 4\. Little Nightmares 1 & 2
 
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
@@ -52,13 +51,18 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Owlboy
 
  Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of[differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Unravel Two
 
@@ -66,14 +70,15 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 7\. The Last of Us: Part II
 
  Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for[games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Resident Evil Village
 
@@ -81,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
@@ -100,14 +102,11 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
  What better way is there to have an adventurous summer than to get your hands on a literal adventure for super cheap? The PlayStation summer sale will end on August 16th, 2023, so make sure you take a look and pick up a great deal before it’s too late.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +115,23 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/nlock-growth-potential-with-savvy-analysis-of-youtube-data-for-2024/"><u>[New] Unlock Growth Potential with Savvy Analysis of YouTube Data for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-radiance-hdr-examined-value-or-not/"><u>[Updated] In 2024, Radiance HDR Examined Value or Not?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>[Updated] The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevating-video-quality-sharing-imovie-work-via-youtube/"><u>2024 Approved Elevating Video Quality Sharing iMovie Work via YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-free-mobile-image-editing-tools-top-10-overlay-app-list/"><u>2024 Approved Free Mobile Image Editing Tools - Top 10 Overlay App List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-visual-enhancements-via-luts-in-pro/"><u>2024 Approved Streamlining Visual Enhancements via LUTs in Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-at-great-prices-top-economical-board-listings/"><u>Game On at Great Prices: Top Economical Board Listings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/installing-discord-for-mac-a-straightforward-approach/"><u>Installing Discord for Mac: A Straightforward Approach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-quick-fix-ending-overwatchs-troublesome-launch-blackout-issue/"><u>Master the Quick Fix: Ending Overwatch's Troublesome Launch Blackout Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-gameplay-with-the-top-5-paid-mobile-apps/"><u>Maximize Your Gameplay with the Top 5 Paid Mobile Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-gpu-giants-battle-sups-ti-and-4080-supers-versus-each-other/"><u>Nvidia's GPU Giants Battle: Sups, Ti, and 4080 Supers Versus Each Other</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-gaming-5-strategies-for-mac-users/"><u>Optimize Your Gaming: 5 Strategies for Mac Users</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/premiere-pro-sound-only-transcription-and-the-specific-audio-formats-mp3-and-wav/"><u>Premiere Pro, Sound-Only Transcription, and the Specific Audio Formats MP3 and WAV.</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-live-broadcasting-the-best-7-bots-for-twitch-innovators/"><u>Transform Live Broadcasting: The Best 7 Bots For Twitch Innovators</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-full-potential-with-a-new-ps4-setup/"><u>Unlocking the Full Potential with a New PS4 Setup</u></a></li>
+</ul></div>
 

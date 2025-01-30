@@ -1,7 +1,7 @@
 ---
 title: "Quiet Control: Switch Off Xbox Svibration Mode"
-date: 2025-01-20T17:52:12.568Z
-updated: 2025-01-22T19:03:44.728Z
+date: 2025-01-23T16:43:58.198Z
+updated: 2025-01-30T16:25:14.416Z
 tags:
   - games
 categories:
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ![A screenshot of an Xbox Wireless Controller Profile on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controller-profile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But aside from the practical caveats of altering controller vibration, the most common way you might otherwise be hindered is due to physical issues with a controller. A build-up of dirt, for instance, can cause stick drift or non-responsive vibration motors, and you may need to[take your Xbox controller apart](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) to fix any vibration problem.
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Under**Accessibility** , select**Controller** .
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ![A screenshot of the Accessibility settings for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/vibration-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Ensure that**Turn on vibration** is deselected.
@@ -72,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
  If you ever switch your controller**Profile** or reset a**Profile** to default settings, your vibration preferences would be overwritten. In this case, you would need to[configure your Xbox Series X|S controller](https://www.makeuseof.com/configure-xbox-series-s-x-controller/) again to ensure vibration is disabled.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Customize Your Xbox Wireless Controller to Suit You
 
  With your controller optimized and vibration-free, you'll be able to use your Xbox Series X|S without the fear of intrusive rumble features disturbing your experience of the platform. And aside from controller-centric features, your Xbox console is also full of preferences that can prevent unnecessary intrusions.
@@ -81,16 +85,12 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: Why Is Your Xbox Series X|S Constantly Vibrating?
 
  If your Xbox Series X|S controller is constantly vibrating or carries on vibrating even after disabling the feature, there may be a fault with your controller. To fix controller vibration, you need to[take apart your Xbox Wireless Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) and replace the vibration motors. Failing this, you will need to replace your Xbox controller.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: Does Controller Vibration Affect Your Xbox Controller’s Battery Life?
 
@@ -115,20 +115,18 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-strategies-to-skyrocket-your-fb-video-ad-impact/"><u>[New] 2024 Approved Strategies to Skyrocket Your FB Video Ad Impact</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-art-of-profit-driven-online-shopping-blogosynthesis/"><u>[New] The Art of Profit-Driven Online Shopping Blogosynthesis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/deciphering-code-craze-the-leading-language-lineup-explained-byteinsights/"><u>Deciphering Code Craze: The Leading Language Lineup Explained | ByteInsights</u></a></li>
-<li><a href="https://games-able.techidaily.com/handy-hacks-repairing-xbox-series-xands/"><u>Handy Hacks: Repairing Xbox Series X&S</u></a></li>
-<li><a href="https://games-able.techidaily.com/helldivers-2-a-deep-dive-into-game-design-excellence/"><u>Helldivers 2: A Deep Dive Into Game Design Excellence</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-your-pc-ready-for-rtx-after-gtx-exit/"><u>Is Your PC Ready for RTX After GTX Exit?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-control-over-your-airpod-pairings-avoid-unwanted-auto-switching-with-these-techniques/"><u>Master Control Over Your AirPod Pairings: Avoid Unwanted Auto-Switching with These Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-gaming-transition-windows-and-mac-silicon-with-crossover/"><u>Seamless Gaming Transition: Windows & Mac Silicon with CrossOver</u></a></li>
-<li><a href="https://games-able.techidaily.com/tecno-enhances-smartphone-experience-at-ifa-2023/"><u>Tecno Enhances Smartphone Experience at IFA 2023</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-unfolds-with-samsungs-latest-innovations-galaxy-s23-and-book-4-pro-analyzed-by-tech-experts-at-zdnet/"><u>The Future Unfolds with Samsung's Latest Innovations: Galaxy S23 & Book 4 Pro Analyzed by Tech Experts at ZDNET</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/top-verschwendungskostenfreie-datensicherungsprogramme-fur-windows-11-zum-schutz-ihres-computers-und-seiner-daten/"><u>Top Verschwendungskostenfreie Datensicherungsprogramme Für Windows 11 Zum Schutz Ihres Computers Und Seiner Daten</u></a></li>
-<li><a href="https://games-able.techidaily.com/transition-smoothly-between-games-using-ryujinx-controls-for-switch/"><u>Transition Smoothly Between Games Using Ryujinx Controls for Switch</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-creative-potential-with-google-pixel-ns-cutting-edge-ai-photo-editing-expert-analysis-by-zdnet/"><u>Unleash Creative Potential with Google Pixel N's Cutting-Edge AI Photo Editing | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-computer-secrets-with-toms-hardware-experts/"><u>Unlocking Computer Secrets with Tom's Hardware Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-the-storage-spots-of-steam-gems/"><u>Unlocking the Storage Spots of Steam Gems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-gopro-video-conversion-change-vids-to-mp4mov-formats-perfectly-for-clip-edits-uploads-and-playbacks/"><u>Easy GoPro Video Conversion - Change Vids to MP4/MOV Formats Perfectly for Clip Edits, Uploads & Playbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-questions-to-ask-when-investing-in-your-next-gaming-device/"><u>Essential Questions to Ask When Investing in Your Next Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/hear-the-greatness-of-beyerdynamic-mmx-200/"><u>Hear the Greatness of Beyerdynamic MMX 200</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-boost-engagement-using-obs-for-youtube-and-twitch-audiences/"><u>In 2024, Boost Engagement Using OBS for YouTube & Twitch Audiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-the-most-of-fortnite-on-your-mac-but-carefully/"><u>Making the Most of Fortnite on Your Mac, But Carefully</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-rhythm-games-graphic-tablet-techniques/"><u>Mastering Rhythm Games: Graphic Tablet Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-youtube-visibility-with-key-hashtags-for-2024/"><u>Maximizing YouTube Visibility with Key #Hashtags for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-from-zero-to-done-first-steps-in-using-audacity-with-ubuntu/"><u>New 2024 Approved From Zero to Done First Steps in Using Audacity with Ubuntu</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-refresh-rate-displays-165hz/"><u>Premium Refresh Rate Displays: 165Hz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-transfer-of-android-contacts-to-your-new-iphone-a-simple-guide/"><u>Seamless Transfer of Android Contacts to Your New iPhone - A Simple Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/section-3a-the-role-of-cultural-sensitivity-in-global-media-production/"><u>Section 3A: The Role of Cultural Sensitivity in Global Media Production</u></a></li>
+<li><a href="https://games-able.techidaily.com/spotlight-on-ideal-mouse-traits-for-gamers/"><u>Spotlight on Ideal Mouse Traits for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-11-rollback-techniques-how-to-successfully-undo-an-operating-system-update/"><u>Windows 11 Rollback Techniques: How to Successfully Undo an Operating System Update</u></a></li>
 </ul></div>
 

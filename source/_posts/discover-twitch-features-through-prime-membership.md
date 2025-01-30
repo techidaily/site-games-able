@@ -1,7 +1,7 @@
 ---
 title: Discover Twitch Features Through Prime Membership
-date: 2024-08-08T09:15:04.507Z
-updated: 2024-08-09T09:15:04.507Z
+date: 2025-01-24T16:19:26.433Z
+updated: 2025-01-30T16:53:35.152Z
 tags:
   - games
 categories:
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 * [Link Your Twitch and Prime Gaming Accounts](#link-your-twitch-and-prime-gaming-accounts)
 * [How to Use Your Free Twitch Sub With Amazon Prime](#how-to-use-your-free-twitch-sub-with-amazon-prime)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Amazon Prime subscribers get one free Twitch subscription per month, saving them from paying for it separately.
@@ -32,17 +29,9 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
  Supporting your favorite Twitch streamers by subscribing to their channels can be an expensive hobby. But if you’re an Amazon Prime subscriber, you get one Twitch subscription for free every month. If you want to use your free Twitch sub but aren't sure how to redeem it, here's everything you need to know.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Enable Prime Gaming
 
  To unlock the ability to use your one free Twitch channel subscription per month, you first have to subscribe to Amazon Prime. From there, you will have to head to[the Prime Gaming website](http://gaming.amazon.com/) to activate Prime Gaming.
@@ -53,27 +42,37 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 
 ![Add Mobile to Enable Prime Gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/add-mobile-to-enable-prime-gaming.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Amazon will send a six-digit code to the number you entered. Type the code into the**text box** to confirm your phone number, and make sure to press**Done** at the bottom of the page before heading back to the Prime Gaming website.
 
 ![Press Done to Confirm Amazon Account Changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/press-done-to-confirm-amazon-account-changes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Below the link to change your phone number, you will see another link labeled**Refresh this page** . Press that to activate your Prime Gaming account.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Link Your Twitch and Prime Gaming Accounts
 
  Now that your Prime Gaming account has been activated, you are ready to move on to the next step, which is to link your Twitch and Prime Gaming accounts. To do so, head back to the Prime Gaming website.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Link Twitch Account to Prime Gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/link-twitch-account-to-prime-gaming.jpg)
 
  Select your**account name** in the top right corner of the screen and select**Link Twitch account** .
 
 ![Link Accounts to Link Twitch Account to Prime Gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/link-accounts-to-link-twitch-account-to-prime-gaming.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will open a popup, so select**Link accounts** to get started. Enter your Twitch account details into the**login box** , and enter the six-digit code that will be sent to the email address associated with your Twitch account.
 
@@ -87,18 +86,12 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 
  At the bottom right of the stream window, you will see a box labeled**Subscribe** . Select that to bring up the subscription window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Subscribe Button Location on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/subscribe-button-location-on-twitch.jpg)
 
  A regular subscription to a Twitch channel costs $4.99/month, which you will see in the bottom right of the subscription window.
 
  If you have a free Prime Gaming sub, however, a checkbox labeled**Use Prime Sub** will be present. Check that box to redeem your free monthly Twitch subscription and select**Subscribe with Prime** to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Use Prime Sub Button on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/use-prime-sub-button-on-twitch.jpg)
 
  The checkbox will only be available if Twitch subscriptions are allowed in your country, you have already activated Prime Gaming, the channel you are trying to subscribe to is a Twitch Affiliate or Partner, and you haven’t used your free subscription for the month.
@@ -113,14 +106,11 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 
  Subscriptions build up, and you no doubt have a growing list of monthly payments to subscription services already. But at least with Amazon Prime, you can scratch one Twitch subscription fee off your list each month.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,4 +119,24 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlocking-the-potential-of-your-youtube-channel-subscribers/"><u>[New] In 2024, Unlocking the Potential of Your YouTube Channel (Subscribers)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-premium-audio-visual-leading-blu-ray-devices-for-2024/"><u>[New] Premium Audio, Visual Leading Blu-Ray Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-uncover-the-most-stellar-yt-gamers-intros-no-cost-high-quality/"><u>[New] Uncover the Most Stellar YT Gamers' Intros No Cost, High Quality?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-iphone-mastery-complete-guide-to-capturing-podcasts-for-2024/"><u>[Updated] IPhone Mastery Complete Guide to Capturing Podcasts for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-process-of-hd-video-extraction-on-fb-for-2024/"><u>[Updated] Unveiling the Process of HD Video Extraction on FB for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-your-daily-dose-of-ig-meme-joy-and-sorrow-the-best-groups/"><u>2024 Approved Your Daily Dose of IG Meme Joy & Sorrow The Best Groups</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-camon-30-pro-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Camon 30 Pro 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-steam-analytics-time-titles-and-rewards-overview/"><u>Deciphering Steam Analytics: Time, Titles & Rewards Overview</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-nintendo-switch-network-upgrade-worth/"><u>Examining Nintendo Switch Network Upgrade Worth</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-discords-versatility-with-game-based-activities/"><u>Exploring Discord's Versatility with Game-Based Activities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixed-your-current-security-settings-do-not-allow-this-file-to-be-downloaded/"><u>Fixed: Your Current Security Settings Do Not Allow This File to Be Downloaded</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-with-style-customizing-your-xbox-light-setup/"><u>Gaming with Style: Customizing Your Xbox Light Setup</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-capturing-attention-a-step-by-step-guide-to-social-media-promotion/"><u>In 2024, Capturing Attention A Step-by-Step Guide to Social Media Promotion</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-mobile-landscape-of-twitch-streaming/"><u>Navigating the Mobile Landscape of Twitch Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstate-vanished-wordle-streak-with-ease/"><u>Reinstate Vanished Wordle Streak with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-emulator-using-emudeck-for-classic-titles/"><u>The Perfect Emulator: Using EmuDeck for Classic Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-30-controller-enhanced-mobile-titles/"><u>Top 30 Controller-Enhanced Mobile Titles</u></a></li>
+</ul></div>
 

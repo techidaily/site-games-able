@@ -1,7 +1,7 @@
 ---
 title: Stop Automatic Steam Launch on System Restart
-date: 2024-08-08T09:13:23.574Z
-updated: 2024-08-09T09:13:23.574Z
+date: 2025-01-26T17:58:25.226Z
+updated: 2025-01-30T16:01:11.655Z
 tags:
   - games
 categories:
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
  We're going to show you how to disable Steam's automatic launch on startup.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Stop Steam Launching on Startup
 
 1. Open the Steam client.
@@ -31,21 +32,18 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 4. On the left-hand menu, click**Interface** .
 5. Toggle**Run Steam when my computer starts** off.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![steam settings interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steam-settings-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This should be all you need to do to stop Steam from launching on startup. However, if it has no effect, you may need to alter a setting in your operating system. If so, follow the Windows or Mac instructions below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Stop Steam Launching on Startup (Windows)
 
  There are plenty of[startup programs you can safely disable](https://www.makeuseof.com/tag/make-windows-start-faster-10-non-essential-startup-items-can-safely-remove/) on Windows, and Steam is one of them. Here's how on Windows 10 and 11:
@@ -55,14 +53,16 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 3. Click**Startup** .
 4. Toggle**Steam** to**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 11 startup apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-startup-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Stop Steam Launching on Startup (Mac)
 
  It's simple to[remove a startup app on macOS](https://www.makeuseof.com/tag/add-remove-delay-startup-items-mac/) . Here's how on Ventura:
@@ -72,25 +72,15 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 3. Click**Login Items** .
 4. Beneath**Open at Login** , select Steam and click the**minus icon** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Try Steam in Big Picture Mode
 
  When changing your Steam settings, you might have noticed that there's an option to always launch Steam in Big Picture Mode. This redesigns the Steam interface to make it perfect for TV screens and controllers. Why not give it a try if you want to try Steam from your couch?
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -99,4 +89,19 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/cosmic-constructor-assessing-new-gamer-tech/"><u>Cosmic Constructor: Assessing New Gamer Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-playstation-to-new-heights-top-9-recommendations-for-improvements/"><u>Elevating PlayStation to New Heights: Top 9 Recommendations for Improvements</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/re-the-world-in-high-definition-on-youtube-for-2024/"><u>Explore the World in High Definition on YouTube for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/guide-complet-pour-configurer-la-sauvegarde-de-lordinateur-lenovo-g50-avec-aomei-systemrecovery/"><u>Guide Complet Pour Configurer La Sauvegarde De L'Ordinateur Lenovo G50 Avec AOMEI SystemRecovery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-blending-primary-and-b-roll-for-smooth-transitions/"><u>In 2024, Blending Primary and B-Roll for Smooth Transitions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-discovering-hidden-gems-advanced-zoom-techniques-for-roblox/"><u>In 2024, Discovering Hidden Gems Advanced Zoom Techniques for Roblox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-lego-star-wars-the-skywalker-saga-pc-issues-and-fixed/"><u>Resolving Lego Star Wars: The Skywalker Saga PC Issues & Fixed</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steams-connectivity-issue-on-win11/"><u>Resolving Steam's Connectivity Issue on Win11</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/reverting-to-factory-presets-step-by-step-for-resetting-graphics-driver-settings-on-windows-pcs-smarttech-solutions-blog/"><u>Reverting to Factory Presets: Step-by-Step for Resetting Graphics Driver Settings on Windows PCs - SmartTech Solutions Blog</u></a></li>
+<li><a href="https://games-able.techidaily.com/taking-back-gamers-dollars-xbox-series-xs-guide/"><u>Taking Back Gamers' Dollars: Xbox Series X/S Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-why-cozy-games-resonate-deeply/"><u>Unpacking Why Cozy Games Resonate Deeply</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-if-microsoft-edge-shortcut-keeps-appearing-on-your-desktop/"><u>What to Do if Microsoft Edge Shortcut Keeps Appearing on Your Desktop</u></a></li>
+</ul></div>
 

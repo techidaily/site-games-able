@@ -1,7 +1,7 @@
 ---
 title: "Building Bonds: 5 Cooperative Mini-Games in MC"
-date: 2024-07-29T06:00:55.590Z
-updated: 2024-07-30T06:00:55.590Z
+date: 2025-01-23T16:49:28.925Z
+updated: 2025-01-30T17:07:15.394Z
 tags:
   - games
 categories:
@@ -22,18 +22,23 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  We've included instructions for both Minecraft Java Edition (JE) and Minecraft Bedrock Edition (BE).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Join Minecraft Public Servers
 
  Both Bedrock and Java Edition have public servers available for anyone to join. You can find servers on Bedrock easily on any platform whether you're on console, PC, or mobile, but there are limitations. Java has fewer limitations, but you'll need to do some digging to find good servers, and you might need to deal with more technical issues.
 
  While Java Edition is only on PC, you can[play Minecraft on Steam Link](https://www.makeuseof.com/how-to-play-game-pass-on-steam-link-with-glossi/) and play it on your TV, phone, or tablet and get close to a cross-platform experience.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Minecraft Java Edition
 
 ![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Public servers are what most Java players use to link up with others. Servers are free to join and you can find them by using any of the many server-listing sites such as[minecraftservers.org](https://minecraftservers.org) (just search "Minecraft Servers" in your web browser to find more listing sites).
 
@@ -46,12 +51,13 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  Joining servers in Bedrock Edition is a lot easier, here's how to do it:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Minecraft Bedrock Edition
 
 ![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While your range is narrower than Java Edition players', there are definitely public servers you can join to play Minecraft with your friends in Bedrock Edition.
 
@@ -61,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 4. Enter the server's name, IP address, and port. Click**Save** to keep this server bookmarked.
 
  If you don't want to pay to host a server, there are third-party services you can try like the ones we'll show you below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Minecraft Server Hosting Services
 
@@ -72,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  In Aternos, log in and click on**Create a Server** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Aternos MUO test server IP address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/aternos-muo-test-server-ip-address.jpg)
 
  In the next page, you can customize the IP address your friends will use to connect and choose whether you want Bedrock or Java Edition. After that, click**Create** .
@@ -83,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  Finally, you'll need to click on the large green**Start** button. Once it's on, you can copy the IP address and paste it into Minecraft as you would a public server. This server is all yours and you can even[install CurseForge to add Minecraft mods](https://www.makeuseof.com/how-to-use-curseforge-to-install-minecraft-mod-packs/) and upload copies of existing worlds if you wanted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Minecraft Realms
 
  Minecraft Realms is available for both Java and Bedrock, but they are separate subscriptions. Realms are officially hosted servers that you have to pay for, but it has the benefit of being more convenient, streamlined, and reliable than third-party hosting services.
@@ -90,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 ### How to Create a Minecraft Realm
 
 ![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Java Edition** : First, you'll need to purchase a subscription for a Realm (you can check the pricing plans on[Minecraft's website](https://www.minecraft.net/en-us/realms-for-java/plans/) ). You can activate a 30-day free trial to test the waters and cancel anytime.
 
@@ -103,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
 **Bedrock Edition** : Minecraft BE is slightly different.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Minecraft Bedrock Edition Realm edit button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-realm-edit-button.jpg)
 
 1. Start Minecraft BE and click**Play** . Head to**Worlds** and choose**Create New** .
@@ -116,15 +128,8 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  Now that you know how to create a Realm, you probably want to check out your friends' Realms too. Here's how to join a Realm:
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Join a Minecraft Realm
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
 
 **Java Edition** : If you've received an invitation to join your friend's Realm, open Minecraft and navigate to**Minecraft Realms** .
@@ -133,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
 **Bedrock Edition** : Ask for the invite code from the creator of the Realm—we only need the characters after "realms.gg/".
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Minecraft Bedrock Edition join a Realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mcbe-join-realm-1.png)
 
  Launch Minecraft, then click**Play** . Head to**Friends** and click on**Join Realm** . Enter the invite code you received from the Realm owner and click**Join** .
@@ -146,13 +147,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  While servers are the best way to play Minecraft with friends who are far away, a LAN (Local Access Network) connection is an easy way to craft with friends who are nearby.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Minecraft Java Edition
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
 
  If you're under the same local IP address as the player you want to join, you can do this pretty easily. Launch Minecraft and click on**Multiplayer** . Minecraft will automatically scan for games on your local network.
@@ -160,8 +159,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  If another player has a LAN world available to join, it'll show up in your list of servers. You can either double-tap the server or highlight it and click**Join Server** .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Minecraft Bedrock Edition
 
  LAN play is on by default in Bedrock Edition. Just navigate to the**Worlds** tab, and if there are any available games on your network, they'll appear here for you to join.
@@ -172,23 +172,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Just like old-school console games, you can play split-screen on Minecraft Bedrock edition with up to four players. This is only available on consoles, but you can get on your couch, and[play split-screen Minecraft on your Nintendo Switch](https://www.makeuseof.com/how-to-play-two-player-minecraft-on-nintendo-switch/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Enjoy Minecraft With Your Friends
 
  Whether you're joining a server or hosting one, playing with friends is always more fun. Minecraft's multiplayer doesn't have to be complicated, and we hope that we're able to help you join your friends with ease.
 
  So, no matter what platform, try one of these methods and getting creating together!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -197,4 +191,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-pro-quality-footage-selecting-the-ultimate-7-cameras/"><u>[New] 2024 Approved Pro Quality Footage Selecting the Ultimate 7 Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-stream-to-instagram-effortless-broadcast-via-obs-software/"><u>[New] In 2024, Stream to Instagram Effortless Broadcast via OBS Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-streamlining-data-management-5-leading-cloud-providers/"><u>[Updated] 2024 Approved Streamlining Data Management 5 Leading Cloud Providers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-decoding-the-science-of-hash-optimization-for-game-streaming/"><u>[Updated] Decoding the Science of Hash Optimization for Game Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-traits-to-look-out-for-gaming-chairs/"><u>Crucial Traits to Look Out for Gaming Chairs</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-over-disc-the-xbox-series-s-path/"><u>Digital Over Disc: The Xbox Series S Path</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-savings-roundup-the-finest-discount-game-buying-hubs/"><u>Exclusive Savings Roundup: The Finest Discount Game Buying Hubs</u></a></li>
+<li><a href="https://games-able.techidaily.com/guidelines-for-a-kid-friendly-playstation-5-setup/"><u>Guidelines for a Kid-Friendly Playstation 5 Setup</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-seamless-video-sharing-from-youtube-to-fb/"><u>In 2024, Seamless Video Sharing From YouTube to FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/language-upgrade-rom-patching-techniques-unveiled/"><u>Language Upgrade: ROM Patching Techniques Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-playing-games-on-the-go-with-steam/"><u>Mastering the Art of Playing Games On-the-Go with Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimize-xbox-game-bars-intrusion-in-win-11/"><u>Minimize Xbox Game Bar's Intrusion in Win 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-ways-for-fee-free-pictorial-clips-for-2024/"><u>Navigating the Ways for Fee-Free Pictorial Clips for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnect-winxbox-controllers-that-wont-work/"><u>Reconnect: WinXbox Controllers That Won't Work</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-transition-from-photography-to-video-with-pixiz/"><u>Seamless Transition From Photography to Video with Pixiz</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spirits-and-spuds-global-trends-of-halloween/"><u>Spirits and Spuds: Global Trends of Halloween</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-pc-game-stability-improved-no-more-unexpected-crashes/"><u>Wolcen PC Game Stability Improved - No More Unexpected Crashes</u></a></li>
+</ul></div>
 

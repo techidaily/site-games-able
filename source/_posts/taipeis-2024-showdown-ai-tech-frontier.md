@@ -1,7 +1,7 @@
 ---
 title: "Taipei's 2024 Showdown: AI Tech Frontier"
-date: 2024-08-08T09:15:14.612Z
-updated: 2024-08-09T09:15:14.612Z
+date: 2025-01-23T17:32:31.967Z
+updated: 2025-01-30T17:55:19.015Z
 tags:
   - games
 categories:
@@ -14,14 +14,15 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
 ## Taipei's 2024 Showdown: AI Tech Frontier
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Intel Lunar Lake](#intel-lunar-lake)
 * [Nvidia GeForce RTX AI Laptops](#nvidia-geforce-rtx-ai-laptops)
 * [AMD Ryzen AI 300](#amd-ryzen-ai-300)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,17 +35,18 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 So, these are the best bits of AI hardware launched at Computex 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Intel Lunar Lake
 
  Laptop chips have been hot business in 2024\. Intel's last generation laptop chips, Meteor Lake, launched in December 2023, featuring a chiplet design and Intel's first NPU, carrying the company into 2024 with aplomb. Then it was Qualcomm's turn to step up to the plate; it very much seized the opportunity with its Snapdragon X Elite chips, coinciding with Microsoft's Copilot+ AI PC platform launch.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![intel lunar lake overall spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-overall-spec-sheet.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Intel
 
@@ -54,13 +56,14 @@ Intel
 
 ![intel lunar lake npu spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-npu-spec-sheet.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Intel
 
  Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Nvidia GeForce RTX AI Laptops
 
  Nvidia is the world's leading GPU manufacturer, so it's perfectly positioned as the world transitions to high-end AI processing hardware. Now, Nvidia is launching a new range of "GeForce RTX AI" branded laptops, pushing services that make the most of its Tensor cores.
@@ -71,17 +74,15 @@ Intel
 
  Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AMD Ryzen AI 300
 
  Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 AMD
 
@@ -89,14 +90,11 @@ AMD
 
  Still, it means a new generation of AMD AI-powered laptops are incoming, to be powered by either the Ryzen AI 9 HX 370, which features 12 Zen 5 cores with a maximum boost frequency of up to 5.1 GHz, or the Ryzen AI 9 365 featuring 10 Zen 5 cores and a maximum boost clock of 5.0GHz.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +103,22 @@ AMD
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enriching-youtube-channels-amp-up-with-songs/"><u>[New] 2024 Approved Enriching Youtube Channels Amp up with Songs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-interpreting-video-reactions-on-youtube/"><u>[New] Techniques for Interpreting Video Reactions on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-photos-effortless-best-10-screenshot-sticker-enhancers-for-smartphones/"><u>[Updated] Perfect Photos, Effortless Best 10 Screenshot-Sticker Enhancers for Smartphones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-nokia-c300-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Nokia C300 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-find-x6-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo Find X6</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-xs-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone XS With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snap-a-story-with-an-insightful-audio-clip/"><u>In 2024, Snap a Story with an Insightful Audio Clip</u></a></li>
+<li><a href="https://games-able.techidaily.com/infinity-rush-2500-powerhouse-unveiled-raider-hx/"><u>Infinity Rush: $2500 Powerhouse Unveiled - Raider HX</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-esports-excellence-with-selective-audio-gear/"><u>Maximizing Esports Excellence with Selective Audio Gear</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-returns-to-reclaim-your-currency/"><u>Navigating Steam's Returns to Reclaim Your Currency</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-ps5-vs-modern-marvel-key-distinctions/"><u>Old PS5 Vs. Modern Marvel: Key Distinctions</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-players-in-gaming-industry-face-scrutinyessay-podcast/"><u>Power Players in Gaming Industry Face Scrutiny![Essay Podcast]</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-gaming-profiles-secret-code-on-steam/"><u>Uncovering Gaming Profile's Secret Code on Steam</u></a></li>
+<li><a href="https://win-updates.techidaily.com/understanding-antivirus-behavior-why-is-files-often-quarantined-rather-than-immediately-removed/"><u>Understanding Antivirus Behavior: Why Is Files Often Quarantined Rather Than Immediately Removed?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/video-sectioning-mastery-in-vimeo-videos/"><u>Video Sectioning Mastery in Vimeo Videos</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Social & Multiplayer Features in EA Play for PS5 Users
-date: 2025-01-19T19:32:46.413Z
-updated: 2025-01-22T16:52:17.584Z
+date: 2025-01-27T17:04:20.757Z
+updated: 2025-01-30T17:03:29.142Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is EA Play?
 
  Essentially, EA Play (once known as EA Access) is a subscription service for PlayStation and Xbox that offers select EA titles to “rent” while your subscription is on. It also gives you a 10% discount on some non-free titles, season passes, points packs, and DLCs. Lastly, EA Play membership will give you a free 10-hour early access trial to some EA games, and your progress will sync should you choose to buy the game.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
  EA Play on the PS5 is $4.99/month or $29.99/year, and it will grant you access to more than 50 games. This makes it way cheaper than any of the[PlayStation Plus subscription tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) . Judging solely by the number of games available, EA Play will give you more value than PlayStation Plus Essential ($9.99/month).
 
  By the way, EA Play is one of the[ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Subscribe to EA Play on the PS5
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 4. Select**$4.99** and choose**Order & Pay** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
@@ -64,18 +64,18 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
@@ -111,22 +111,24 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-canon-camera-insights-for-stunning-time-lapse-vids/"><u>[Updated] In 2024, Canon Camera Insights for Stunning Time-Lapse Vids</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-superior-audience-experiences/"><u>[Updated] Superior Audience Experiences</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-thrilling-twists-and-turns-short-track-22-for-2024/"><u>[Updated] Thrilling Twists & Turns - Short Track '22 for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/do-shopping-blogs-have-a-payment-scheme-for-reports/"><u>Do Shopping Blogs Have a Payment Scheme for Reports?</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-portable-chargers-for-sony-consoles/"><u>Exclusive Portable Chargers for Sony Consoles</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-emulating-neo-geo-on-your-psp-console/"><u>Guide to Emulating Neo Geo on Your PSP Console</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-2022-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE (2022) to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17 Pro Phone without PIN</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/professional-production-pro-the-alluring-tascam-cd-200bt-unveiled-and-reviews/"><u>Professional Production Pro: The Alluring Tascam CD-200BT Unveiled and Reviews</u></a></li>
-<li><a href="https://games-able.techidaily.com/rejuvenate-and-revamp-gaming-with-windows-setup-on-steam-deck/"><u>Rejuvenate & Revamp Gaming with Windows Setup on Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-taking-apart-an-xbox-360-slim/"><u>Step-by-Step Guide to Taking Apart an Xbox 360 Slim</u></a></li>
-<li><a href="https://games-able.techidaily.com/stepping-up-your-gametime-tracking-on-steam/"><u>Stepping Up Your Gametime Tracking on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/two-ways-to-play-tetris-competitively-on-android-and-iphone/"><u>Two Ways to Play Tetris Competitively on Android and iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-list-of-ai-prompt-creators-to-boost-your-tools-intelligence/"><u>Ultimate List of AI Prompt Creators to Boost Your Tool's Intelligence</u></a></li>
-<li><a href="https://games-able.techidaily.com/void-visionary-spotlight-on-new-gaming-systems/"><u>Void Visionary: Spotlight on New Gaming Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winrar-archive-success-nine-ways-to-prevent-checksum-errors/"><u>WinRAR Archive Success: Nine Ways to Prevent Checksum Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-one-mastery-no-need-for-traditional-controls/"><u>Xbox One Mastery: No Need for Traditional Controls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-4-strategies-for-capturing-xbox-games-play-by-play-for-2024/"><u>[New] 4 Strategies for Capturing Xbox Games Play-By-Play for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-complete-blueprint-for-success-adding-channels-as-features-on-youtube/"><u>[New] In 2024, The Complete Blueprint for Success Adding Channels as Features on Youtube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-integrating-end-screen-elements-with-vimeo/"><u>[Updated] 2024 Approved Integrating End Screen Elements with Vimeo</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-beyond-xboxs-game-bar-top-video-recorders/"><u>[Updated] Beyond Xbox's Game Bar Top Video Recorders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-engaging-excellence-best-story-filter-compilation-for-2024/"><u>[Updated] Engaging Excellence Best Story Filter Compilation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-software-tools-for-embossing-photos-with-framing/"><u>[Updated] Ideal Software Tools for Embossing Photos with Framing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-introduction-to-dynamic-graphic-techniques-for-2024/"><u>[Updated] Introduction to Dynamic Graphic Techniques for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-is-inshot-the-best-video-editing-app-our-in-depth-review/"><u>2024 Approved Is InShot the Best Video Editing App? Our In-Depth Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/diversify-your-ps5-startup-with-these-six-tactics/"><u>Diversify Your PS5 Startup with These Six Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/diy-xbox-360-slim-dismantling-for-enthusiasts/"><u>DIY Xbox 360 Slim Dismantling for Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-hoard-and-handhold-jolly-rogers-of-java/"><u>How to Hoard & Handhold Jolly Rogers of Java</u></a></li>
+<li><a href="https://games-able.techidaily.com/outstanding-pick-elite-xbox-game-capture-systems/"><u>Outstanding Pick: Elite Xbox Game Capture Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/spotlighting-crucial-elements-in-video-game-apps/"><u>Spotlighting Crucial Elements in Video Game Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/stalled-games-not-good-days-manually-extracting-from-sx/"><u>Stalled Games, Not Good Days: Manually Extracting From SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-words-into-worlds-the-essential-guide-to-using-chatgpt-in-rpgs/"><u>Transforming Words Into Worlds: The Essential Guide to Using ChatGPT in RPGs</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-shell-protectors/"><u>Understanding Xbox Shell Protectors</u></a></li>
+<li><a href="https://games-able.techidaily.com/unravel-the-mysteries-of-strands-a-compreranary-guide-for-nyt-players/"><u>Unravel the Mysteries of 'Strands': A Compreranary Guide for NYT Players</u></a></li>
+<li><a href="https://windows11.techidaily.com/websites-as-apps-step-by-step-windows-installation/"><u>Websites as Apps: Step-by-Step Windows Installation</u></a></li>
 </ul></div>
 

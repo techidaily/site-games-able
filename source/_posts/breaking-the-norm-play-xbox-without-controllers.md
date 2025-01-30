@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Norm: Play Xbox Without Controllers"
-date: 2024-07-29T06:00:39.552Z
-updated: 2024-07-30T06:00:39.552Z
+date: 2025-01-23T18:06:47.869Z
+updated: 2025-01-30T18:09:23.322Z
 tags:
   - games
 categories:
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  Luckily, there are alternative methods to control your Xbox One that can come in handy in these situations. In this article, we will explore these options and help you operate your console even when your trusty controller isn't available.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Can You Use Any Other Controller for Xbox One?
 
  As per Microsoft's guidelines, the Xbox One console is compatible only with wired or wireless Xbox One controllers. These controllers are specifically manufactured either by Microsoft or by verified third-party manufacturers for use with the Xbox One platform.
@@ -43,45 +40,38 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
 ![Add an existing console option on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-an-existing-console-option-on-xbox-app.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Turn on remote features popup on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-on-remote-features-popup-on-xbox-app.jpeg)
 
 Close
 
  On your Xbox One console, you’ll be asked to**Set up remote features** . From there, select**Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of the Remote Features prompt that appears when connecting your Xbox to a mobile device on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/xbox-series-x-remote-features-prompt.jpg)
 
  ​​​​​​​Finally,**Test remote play** on your Xbox to test your internet connection for remote play.
 
 ![A screenshot of the option to Test Remote Play on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/test-remote-play-on-xbox-series-x.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you pass the test, the Xbox app will automatically detect your console and connect with it. Then, you can remotely play games on your mobile, control your console using the app and manage games on your console, all just by using your smartphone.
 
 ![Living room Xbox on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/living-room-xbox-on-xbox-app.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Xbox remote control on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-remote-control-on-xbox-app.jpeg)
 
 Close
 
  However, it’s worth noting that you may not be able to play most of the games using the remote control on the Xbox app. The virtual remote control within the app is primarily designed for basic tasks and navigation within the Xbox console interface rather than fully-fledged gaming experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Connect a Keyboard and Mouse to Your Xbox
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Mouse keyboard iphone and xbox controller on wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-keyboard-and-xbox-controller.jpg)
 
  For those seeking greater accessibility and precision, connecting a keyboard and mouse to your Xbox One is an excellent option. By doing so, you can perform all the functions typically carried out with a regular Xbox controller but with added convenience. While not all games support keyboard and mouse inputs, many do, especially those with cross-platform compatibility.
@@ -96,10 +86,11 @@ Close
 
  The process of setting up and using digital assistants on an Xbox One is pretty straightforward. Go to **Settings > Devices & connections > Digital assistants** and check the box next to**Enable digital assistants** . If you do not have a controller, you can also perform these actions using the keyboard shortcuts mentioned in the above section.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![xbox digital assistants menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/xbox-enable-digital-assistants.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on[how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and[how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
 
@@ -111,29 +102,35 @@ Close
 
 ![Google Home devices tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-devices-tab.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Google Home voice assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-voice-assistant.jpeg)
 
 ![Google Home Xbox remote control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-xbox-remote-control.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## You Can Now Control and Manage Your Xbox One Even Without a Controller
 
  Even if you lose or encounter issues with your Xbox One controller, alternative methods are available to control your console. You can use the Xbox app on your smartphone, connect a keyboard and mouse, or utilize digital assistants like Google Assistant or Alexa to manage your Xbox console.
 
  Each method offers its advantages and allows you to navigate menus, launch games, control media playback, and perform various tasks. While these alternatives may not provide the experience of a physical controller, they are still viable solutions that help you enjoy your Xbox until you get a new controller.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +139,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-virtual-realm-mastery-prime-metaverse-vr-equipment/"><u>[Updated] 2024 Approved Virtual Realm Mastery Prime Metaverse VR Equipment</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-record-assistant-az-audits-and-substitutes/"><u>[Updated] Ultimate Record Assistant - AZ Audits & Substitutes</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-disruption-to-harmony-stop-video-games-from-crashing-with-these-fixes/"><u>From Disruption to Harmony: Stop Video Games From Crashing With These Fixes</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guida-rapida-alla-creazione-di-un-backup-dei-tuoi-programmi-installare-su-windows-11-previene-la-riaccensione-inutile/"><u>Guida Rapida Alla Creazione Di Un Backup Dei Tuoi Programmi Installare Su Windows 11: Previene La Riaccensione Inutile!</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-and-fixing-missing-game-issues-in-egc/"><u>Identifying and Fixing Missing Game Issues in EGC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-free-and-paid-drawing-apps-for-windows/"><u>In 2024, Best Free and Paid Drawing Apps for Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-record-complete-page-display/"><u>In 2024, Record Complete Page Display</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-showcasing-the-best-of-image-integration-in-frames-for-24/"><u>In 2024, Showcasing the Best of Image Integration in Frames for '24</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/official-driver-installation-guide-for-intel-iris-plus-gt2-gen8-on-microsoft-os/"><u>Official Driver Installation Guide for Intel Iris Plus GT2 Gen8 on Microsoft OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/processing-an-undesired-fortnite-transaction-reversal/"><u>Processing an Undesired Fortnite Transaction Reversal</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-endless-motivation-with-fitbit-versa-3s-inbuilt-navigation-and-health-monitoring-features/"><u>Unleash Endless Motivation with Fitbit Versa 3'S Inbuilt Navigation & Health Monitoring Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-new-worlds-easy-steam-deck-launcher-setup/"><u>Unlock New Worlds: Easy Steam Deck Launcher Setup</u></a></li>
+</ul></div>
 

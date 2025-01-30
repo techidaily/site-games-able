@@ -1,7 +1,7 @@
 ---
 title: "Mojang Meetups: Crafting Cooperative Gameplay with Pals"
-date: 2024-08-08T09:17:05.040Z
-updated: 2024-08-09T09:17:05.040Z
+date: 2025-01-24T16:28:34.960Z
+updated: 2025-01-30T17:18:33.664Z
 tags:
   - games
 categories:
@@ -22,18 +22,23 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
  We've included instructions for both Minecraft Java Edition (JE) and Minecraft Bedrock Edition (BE).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Join Minecraft Public Servers
 
  Both Bedrock and Java Edition have public servers available for anyone to join. You can find servers on Bedrock easily on any platform whether you're on console, PC, or mobile, but there are limitations. Java has fewer limitations, but you'll need to do some digging to find good servers, and you might need to deal with more technical issues.
 
  While Java Edition is only on PC, you can[play Minecraft on Steam Link](https://www.makeuseof.com/how-to-play-game-pass-on-steam-link-with-glossi/) and play it on your TV, phone, or tablet and get close to a cross-platform experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Minecraft Java Edition
 
 ![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Public servers are what most Java players use to link up with others. Servers are free to join and you can find them by using any of the many server-listing sites such as[minecraftservers.org](https://minecraftservers.org) (just search "Minecraft Servers" in your web browser to find more listing sites).
 
@@ -46,11 +51,12 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
  Joining servers in Bedrock Edition is a lot easier, here's how to do it:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Minecraft Bedrock Edition
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
 
  While your range is narrower than Java Edition players', there are definitely public servers you can join to play Minecraft with your friends in Bedrock Edition.
@@ -74,14 +80,23 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
 ![Aternos MUO test server IP address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/aternos-muo-test-server-ip-address.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the next page, you can customize the IP address your friends will use to connect and choose whether you want Bedrock or Java Edition. After that, click**Create** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-aternos-server-start-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, you'll need to click on the large green**Start** button. Once it's on, you can copy the IP address and paste it into Minecraft as you would a public server. This server is all yours and you can even[install CurseForge to add Minecraft mods](https://www.makeuseof.com/how-to-use-curseforge-to-install-minecraft-mod-packs/) and upload copies of existing worlds if you wanted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Minecraft Realms
 
@@ -97,18 +112,12 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
  Choose between generating a**new world** , uploading a previous world save, or exploring Realms'**World templates** ,**Adventures** , and**Experiences** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Minecraft Java Edition configure Realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-configure-realm.png)
 
  Now that you've created your Realm, choose**Configure Realm** (the wrench icon) and click on**Players** . Now all you have to do to whitelist a friend on your server is click**Invite player** and type in their username before clicking**Invite player** again. Your friend will receive an invitation to join your Realm.
 
 **Bedrock Edition** : Minecraft BE is slightly different.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Minecraft Bedrock Edition Realm edit button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-realm-edit-button.jpg)
 
 1. Start Minecraft BE and click**Play** . Head to**Worlds** and choose**Create New** .
@@ -121,9 +130,6 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
 ### How to Join a Minecraft Realm
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
 
 **Java Edition** : If you've received an invitation to join your friend's Realm, open Minecraft and navigate to**Minecraft Realms** .
@@ -132,23 +138,18 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
 **Bedrock Edition** : Ask for the invite code from the creator of the Realm—we only need the characters after "realms.gg/".
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Minecraft Bedrock Edition join a Realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mcbe-join-realm-1.png)
 
  Launch Minecraft, then click**Play** . Head to**Friends** and click on**Join Realm** . Enter the invite code you received from the Realm owner and click**Join** .
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Play Minecraft LAN
 
  While servers are the best way to play Minecraft with friends who are far away, a LAN (Local Access Network) connection is an easy way to craft with friends who are nearby.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Minecraft Java Edition
 
 ![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
@@ -161,32 +162,27 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
  LAN play is on by default in Bedrock Edition. Just navigate to the**Worlds** tab, and if there are any available games on your network, they'll appear here for you to join.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Use Minecraft Split-Screen
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
 
  Just like old-school console games, you can play split-screen on Minecraft Bedrock edition with up to four players. This is only available on consoles, but you can get on your couch, and[play split-screen Minecraft on your Nintendo Switch](https://www.makeuseof.com/how-to-play-two-player-minecraft-on-nintendo-switch/) .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy Minecraft With Your Friends
 
  Whether you're joining a server or hosting one, playing with friends is always more fun. Minecraft's multiplayer doesn't have to be complicated, and we hope that we're able to help you join your friends with ease.
 
  So, no matter what platform, try one of these methods and getting creating together!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -195,4 +191,22 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-no-cost-android-facetime-replacements-ranked/"><u>[New] 2024 Approved No-Cost Android FaceTime Replacements Ranked</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unlock-youtube-collaboration-a-guide-to-partnering-and-producing-together/"><u>[New] 2024 Approved Unlock YouTube Collaboration A Guide to Partnering and Producing Together</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-tips-on-troubleshooting-frozen-obs-fullscreen-problem/"><u>[New] Tips on Troubleshooting Frozen OBS Fullscreen Problem</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-advanced-techniques-for-high-quality-youtube-content/"><u>[Updated] Advanced Techniques for High-Quality YouTube Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-pro-level-clarity-top-8k-cameras-for-the-ultimate-picture/"><u>2024 Approved Pro-Level Clarity Top 8K Cameras for the Ultimate Picture</u></a></li>
+<li><a href="https://games-able.techidaily.com/constraining-background-checks-by-game-bar-in-windows/"><u>Constraining Background Checks by Game Bar in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-packing-9-essential-items-for-gamers-traveling/"><u>Game-On Packing: 9 Essential Items for Gamers Traveling</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-migrate-android-to-linux-platforms/"><u>How to Migrate Android to Linux Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-xbox-streaming-powers-seamless-play-from-afar/"><u>How Xbox Streaming Powers Seamless Play From Afar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-c65-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco C65 to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/uctional-guide-modify-comment-accessibility-on-youtube-for-2024/"><u>Instructional Guide Modify Comment Accessibility on YouTube for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-a-source-of-unwavering-honesty/"><u>Is ChatGPT a Source of Unwavering Honesty?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-playstation-plus-membership/"><u>Reinstating PlayStation Plus Membership</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sonic-immersion-for-static-snapshots/"><u>Sonic Immersion for Static Snapshots</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-mousepads-a-gamers-choice/"><u>Superior Mousepads: A Gamer's Choice</u></a></li>
+</ul></div>
 

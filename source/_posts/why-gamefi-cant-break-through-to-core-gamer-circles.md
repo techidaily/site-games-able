@@ -1,7 +1,7 @@
 ---
 title: Why GameFi Can't Break Through to Core Gamer Circles
-date: 2025-01-19T22:31:19.277Z
-updated: 2025-01-22T21:33:37.245Z
+date: 2025-01-29T17:04:11.599Z
+updated: 2025-01-30T16:29:54.628Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * GameFi's potential among gamers is limited due to token instability, as crypto assets are known for their price fluctuations. This means that users could potentially lose a significant amount of value earned through gameplay.
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Crypto and gaming both form huge parts of the tech industry, and combining the two has given way to GameFi. GameFi has some exciting attributes, but there are several reasons why it doesn't have much potential among gamers.
 
  So, what are the problems with GameFi, and why will they seal its fate?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is GameFi?
 
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  While GameFi may seem innovative, many downsides affect players and investors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Token Instability
@@ -62,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scams
 
 ![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scams are, unfortunately, native to the crypto realm, and GameFi is no exception to this rule. If there's money to be stolen, chances are criminals will find some way to access it.
 
@@ -92,15 +92,15 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  Higher transaction fees can put people off getting into GameFi, as a large chunk of their earnings will be stripped away through these mandatory charges. It's a loss and isn't something that attracts gamers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Prioritizing Money Over the Game
 
  Naturally, when a game offers digital assets in return for playtime, users will put the earnings at the front and center of why they play the game.
 
  There's nothing inherently wrong with this, but avid gamers may argue that adding real-world tokenomics to a video game somewhat removes the heart of it. Developers may choose to cut corners by leaving in bugs or providing poor game progression, factors which can severely affect the enjoyment and satisfaction people receive when they game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Lack of Regulation
 
@@ -111,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  For instance, an individual may spend months playing a P2E game they love, amassing a solid holding of tokens or NFTs. But when the time comes to cash out by selling these assets on an exchange or NFT marketplace, it turns out that their value has plummeted due to a drop in demand.
 
  This isn't anyone's fault, but the developer can dodge any liability when gamers ask for compensation. If the game has made any financial promises, the developers may also be able to keep their hands clean if these promises fall through.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will GameFi Last?
 
@@ -127,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Even without this model, crypto token instability always poses a risk to P2E games. Take Illuvium, for example. This popular P2E game hit news headlines in August 2023 when its in-game token, ILV, suffered a big drop in value.
 
 ![screenshot of coinmarketcap illuvium seven day price graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/illuvium-price-graph.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Between August 14 and 22, the price of one ILV token went from $53 to $42, a drop of almost 21% in just over a week. This drop doesn't seem to be the result of any major scandal or market crash. Rather, it seems to be a product of a lack of interest.
 
@@ -151,16 +151,21 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-chatcam-video-saver-app/"><u>[New] 2024 Approved ChatCam Video Saver App</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-advanced-tools-for-broadcasting-professionals/"><u>[New] Advanced Tools for Broadcasting Professionals</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/reating-impactful-outros-top-6-free-tools/"><u>[New] Creating Impactful Outros Top 6 FREE Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-snag-soundwaves-from-fb-topics/"><u>[Updated] Snag Soundwaves From Fb Topics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-zte-nubia-z60-ultra-by-fonelab-android-recover-messages/"><u>How to recover old messages from your ZTE Nubia Z60 Ultra</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-ps5-networked-gaming-features/"><u>Integrating PS5 Networked Gaming Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/pinnacle-controls-for-gamepads-top-joy-con-and-pro-controllers/"><u>Pinnacle Controls for Gamepads – Top Joy-Con and Pro Controllers</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-the-dream-playing-classic-dreamcast-on-android-devices/"><u>Revive the Dream: Playing Classic Dreamcast on Android Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/twitch-time-jump-recapturing-lost-moments/"><u>Twitch Time Jump Recapturing Lost Moments</u></a></li>
-<li><a href="https://discover-data.techidaily.com/windows-7-8-10-and-11-aomei/"><u>Windows 7, 8, 10, and 11の代用となるシステムプロットアップツール: AOMEIイメージ展開ソリューション</u></a></li>
-<li><a href="https://games-able.techidaily.com/workstations-vs-gaming-pcs-functionality-overview/"><u>Workstations Vs. Gaming PCs: Functionality Overview</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-concluding-your-digital-footprint-with-linkedins-deactivation-process-for-2024/"><u>[New] Concluding Your Digital Footprint with LinkedIn's Deactivation Process for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-superior-guide-to-16-freeware-players-for-pc-and-mac-for-2024/"><u>[New] Superior Guide to 16 Freeware Players for PC & Mac for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-altering-game-console-speech-ps5ps4-upgrades/"><u>[Updated] Altering Game Console Speech PS5/PS4 Upgrades</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-tips-to-ensure-seamless-and-timed-google-collaborative-sessions/"><u>[Updated] In 2024, Expert Tips to Ensure Seamless and Timed Google Collaborative Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-compelling-game-lore-with-ai/"><u>Crafting Compelling Game Lore with AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-tomorrows-world-today-unleashing-the-power-of-gpt-4-in-home-improvement/"><u>Crafting Tomorrow's World Today: Unleashing the Power of GPT-4 in Home Improvement</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-in-game-overlay-display-on-discord/"><u>Customize In-Game Overlay Display on Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-system-installation-guide-for-pc-manager-w11/"><u>Elevate Your System - Installation Guide for PC Manager W11</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-your-gameplay-choosing-mouse-sensitivity/"><u>Fine-Tuning Your Gameplay: Choosing Mouse Sensitivity</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-to-appeal-digital-game-console-purchases/"><u>Learn to Appeal Digital Game Console Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-unveils-10-must-have-games-on-deal/"><u>Sony Unveils 10 Must-Have Games on Deal</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ea-play-game-guide-for-ps5/"><u>The Ultimate EA Play Game Guide for PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-potential-install-windows-and-steamos-seamlessly/"><u>Unlocking Potential: Install Windows & SteamOS Seamlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-marshall-motif-anc-expert-evaluation-of-sound-quality-and-noise-cancellation-on-zdnet/"><u>Unveiling the Marshall Motif ANC: Expert Evaluation of Sound Quality and Noise Cancellation on ZDNet</u></a></li>
 </ul></div>
 

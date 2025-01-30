@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tech Improvements: CPU or Graphics Card Upgrade?"
-date: 2024-08-08T09:16:31.019Z
-updated: 2024-08-09T09:16:31.019Z
+date: 2025-01-29T17:40:41.513Z
+updated: 2025-01-30T17:29:51.541Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
 
 ## Navigating Tech Improvements: CPU or Graphics Card Upgrade?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Is Your CPU or GPU Bottlenecking Your PC?](#is-your-cpu-or-gpu-bottlenecking-your-pc)
@@ -24,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
 * [Upgrade Your CPU if Your GPU Isn't Fully Utilized](#upgrade-your-cpu-if-your-gpu-isn-39-t-fully-utilized)
 * [Upgrade Your GPU to Fix Low FPS in Games](#upgrade-your-gpu-to-fix-low-fps-in-games)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Run some tests to find whether your CPU or GPU is bottlenecking your PC.
@@ -36,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
  When upgrading a PC, especially on a budget, you may often wonder whether it's better to spend your money on a CPU or GPU first. Below, we'll help you figure out what you should upgrade for your PC so that you get your money's worth.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is Your CPU or GPU Bottlenecking Your PC?
 
  First, it's worth learning[the differences between a CPU and a GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) , as they handle different tasks on your PC. The CPU handles the core computing processes, whereas the GPU handles all the graphics-related tasks.
@@ -48,20 +43,26 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
 
  Another easy way to check if your CPU is holding your PC back is by simply[using Task Manager on Windows](https://www.makeuseof.com/how-to-use-windows-task-manager/) to monitor CPU usage as you perform basic tasks like web browsing, photo editing, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Upgrade Your CPU if It Struggles to Handle Basic Tasks
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![CPU usage being monitored in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cpu-usage-being-monitored-in-task-manager.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you notice that your CPU usage is high when you're not even gaming or running any demanding apps on your PC, for example, if you just have a few browser tabs open, your CPU is likely holding your PC back.
 
 [Open Task Manager on Windows](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) , group apps by CPU usage, and see if the app you're running is consuming half of your CPU resources. But before you conclude that your CPU is the bottleneck, monitor your resources using MSI Afterburner while playing a game. We'll cover that below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Upgrade Your CPU if Your GPU Isn't Fully Utilized
 
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
@@ -77,17 +78,9 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
  However, it's worth testing your GPU usage across multiple games to confirm the bottleneck. More often than not, poor optimization can also cause low GPU usage, as that was the case when I first tested Battlefield 2042 on my PC.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Upgrade Your GPU to Fix Low FPS in Games
 
  Lastly, you should decide whether to upgrade your CPU or GPU first based on the games you play and the resolution you play them at.
@@ -98,14 +91,11 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
 
  Now, you know exactly what component to upgrade in your PC first. So, if you're in the market for a new CPU,[the Ryzen 7800X3D and 7950X3D are the best options for gaming](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) . But if you need a new graphics card,[consider upgrading to an RTX 4080](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) or even an[RTX 4090](https://www.amazon.com/s?k=rtx+4090&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) if you can afford it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +104,21 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-sync-shutter-speed-blur-artistry-in-photoshop/"><u>[New] 2024 Approved Sync Shutter Speed Blur Artistry in Photoshop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-networking-haven-beyond-vidcon/"><u>[Updated] The Ultimate Networking Haven Beyond VidCon</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-winning-art-tools-comparison-chart-free-and-paid-apps-for-2024/"><u>[Updated] Winning Art Tools Comparison Chart FREE & PAID Apps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/games-at-my-own-table/"><u>Games at My Own Table</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-anonymity-disguising-activity-on-steam/"><u>Gaming Anonymity: Disguising Activity on Steam</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-f23-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo F23 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-podcast-name-creation-and-50plus-dynamic-example-titles/"><u>In 2024, Mastering the Art of Podcast Name Creation & 50+ Dynamic Example Titles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-tiktok-video-aspect-ratios/"><u>In 2024, TikTok Video Aspect Ratios</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-wi-fi-nintendo-switch-edition/"><u>Mastering Wi-Fi: Nintendo Switch Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-screen-captures-on-nintendo-switch-console/"><u>Step-by-Step Instructions for Screen Captures on Nintendo Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-reduce-low-memory-alarms-from-roblox-ios-app/"><u>Strategies to Reduce Low-Memory Alarms From Roblox iOS App</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-tomorrows-tech-today-at-ifa/"><u>Unveiling Tomorrow's Tech Today at IFA</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/zen-without-copyrights-for-2024/"><u>Zen Without Copyrights for 2024</u></a></li>
+</ul></div>
 

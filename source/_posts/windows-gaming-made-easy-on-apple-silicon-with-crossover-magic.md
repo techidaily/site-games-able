@@ -1,7 +1,7 @@
 ---
 title: Windows Gaming Made Easy on Apple Silicon with CrossOver Magic
-date: 2024-08-08T09:13:26.639Z
-updated: 2024-08-09T09:13:26.639Z
+date: 2025-01-25T16:31:43.944Z
+updated: 2025-01-30T16:15:54.872Z
 tags:
   - games
 categories:
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/8787ab7f7fcdda2f4df516fbd446b3033c8b29f54
 
  While Parallels is great, it only uses a fraction of your Mac’s power, giving for subpar gaming performance. That’s where CrossOver comes in; CrossOver will use as much of your Mac’s hardware as possible, and you can download and play Windows Steam games with it.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Download, Install, and Set Up CrossOver
 
  The first step to begin your Apple silicon Mac Windows gaming journey is downloading and installing CrossOver.
@@ -34,9 +31,6 @@ Follow the steps below to get started:
 2. Enter your name and email, and hit**Return** on your keyboard to begin the download.
 3. Install the application from the crossover.zip file. If you run into any issues, you can read our guide on[how to install Mac software](https://www.makeuseof.com/tag/install-remove-mac-software-5-easy-methods/) for some guidance.
 4. When you run the app, you’ll see a dialogue box asking you to buy or try CrossOver. Select**Try Now** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![CrossOver purchase dialogue popup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/crossover-purchase-dialogue-popup.jpeg)
 5. You’ll find yourself in a window with an empty Home page.
 
@@ -51,6 +45,11 @@ Here’s how to get Steam on CrossOver:
 1. Click**Install** at the bottom of the CrossOver side menu. You may find Steam in the**Popular Applications** section, but you can also use the search window.  
 ![Install section of CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-section-of-crossover.jpeg)
 2. Double-click**Steam** and choose**Install** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Optional: You can choose which version of Steam you would like to install or what installer you would like to use in the**Details** section of Steam’s information page. Just click**Edit** .  
 ![Steam information page in CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-information-page-in-crossover.jpeg)
 4. Click**Yes** ,**Next** , or agree to any popups that appear on your screen while the installation continues.
@@ -58,7 +57,15 @@ Here’s how to get Steam on CrossOver:
 ![Microsoft XML Parser Setup on CrossOver for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/microsoft-xml-parser-setup-on-crossover-for-macos.jpeg)
 6. Follow the on-screen instructions for Steam’s setup and wait for the app to update. You’ll see Steam’s login screen as soon as it's finished.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Return back to CrossOver’s window, and you’ll notice that you have Steam as one of your bottles. Leave Steam alone for now and download some dependencies you would need to run the games you get from Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install DirectX and DXVK
 
@@ -75,26 +82,15 @@ Here’s how to install them to your Steam bottle:
 
  These two are very important because it lets Steam access your Mac’s GPU. If you try to install games without doing this, Steam will give you an error.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Set Up Steam, Log In, and Play
 
  You can now return back to Steam and input your username and password. Go to your library, select the game you want to play and install it.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Knights of Pen & Paper II on CrossOver Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/knights-of-pen-paper-ii-on-crossover-steam.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the game is done installing, you’ll find it in your Steam bottle. You can launch it from there, or you can launch it directly from Steam if you like.
 
@@ -103,11 +99,12 @@ Here’s how to install them to your Steam bottle:
 1. Go to**Library** on Steam.
 2. Secondary-click the game you want to play to open the context menu.
 3. Navigate to**Manage > Browse local files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Knights of Pen and Paper 2 context menu on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/knights-of-pen-and-paper-2-context-menu-on-steam.jpeg)
 4. Find and select the .exe file for the game and hit**Return** on your keyboard to run it directly from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can have both your Mac and CrossOver versions of Steam open at the same time. However, it can get a little confusing and easy to mix the two up. You can differentiate them by hovering over their icons on the Dock; CrossOver’s Steam will say**wine64** , while Mac’s Steam will simply say**Steam** .
 
@@ -115,23 +112,17 @@ Here’s how to install them to your Steam bottle:
 
  Finally, watch out for your hardware. MacBook Airs are decent in processing power, but you could benefit a huge deal from using the extra memory from a MacBook Pro. We, therefore, recommend you use a MacBook Pro to run any serious AAA titles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## CrossOver Offers More Power Than Parallels
 
  Parallels is more popular than CrossOver because it simulates the Windows OS and gives you the option to navigate it just like you would navigate a Windows-powered computer. While that’s great to offer some accessibility and familiarity, the tradeoff is power. Parallels uses about half of your computer’s resources since your Mac has to create a sandbox for it.
 
  CrossOver looks a lot more barebones and may be less accessible, but you get plenty of power to run games smoothly on a Mac. You can run games like The Witcher 3 and Skyrim with little to no problems at all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,4 +131,21 @@ Here’s how to install them to your Steam bottle:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastery-of-mobile-and-desktop-calendar-integration-with-zoom/"><u>[Updated] 2024 Approved Mastery of Mobile and Desktop Calendar Integration with Zoom</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-from-basic-to-bold-invest-in-excellent-cam-add-ons/"><u>[Updated] In 2024, From Basic to Bold Invest in Excellent Cam Add-Ons</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-securing-stunning-media-backdrops-at-cost-effective-rates/"><u>[Updated] In 2024, Securing Stunning Media Backdrops at Cost-Effective Rates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-monitoring-youtube-discussions/"><u>2024 Approved The Art of Monitoring YouTube Discussions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210164940-9781645449911-behind-the-scenes/"><u>Behind the Scenes | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-thermal-efficiency-in-high-end-gaming-systems/"><u>Exploring Thermal Efficiency in High-End Gaming Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-score-up-critical-sites-to-improve-gamerscore/"><u>Game On, Score Up: Critical Sites to Improve Gamerscore</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-note-30i-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Note 30i to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-leading-online-stores-for-customized-gift-boxes/"><u>In 2024, Unveiling the Leading Online Stores for Customized Gift Boxes</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-use-of-headphones-on-series-x-console/"><u>Strategic Use of Headphones on Series X Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/titans-of-entertainment-or-monopoly-men-interactive-qanda-session/"><u>Titans of Entertainment or Monopoly Men? [Interactive Q&A Session]</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/top-rangige-datensicherung-fur-mobile-anwendungen-wd-mypassport-ultra-bestes-backupsoftware/"><u>Top-Rangige Datensicherung Für Mobile Anwendungen: WD MyPassport Ultra - Bestes Backupsoftware</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-controller-keeps-disconnecting-how-to-fix-it/"><u>Xbox Series X Controller Keeps Disconnecting? How to Fix It</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-authority-over-third-party-controllers-a-players-guide-to-the-law/"><u>Xbox's Authority Over Third-Party Controllers: A Player's Guide to the Law</u></a></li>
+</ul></div>
 

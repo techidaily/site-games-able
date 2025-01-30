@@ -1,7 +1,7 @@
 ---
 title: "Uniting Different Game Worlds: Connect Bedrock with Java on GeyserMC Server"
-date: 2025-01-09T22:16:05.569Z
-updated: 2025-01-16T23:27:47.781Z
+date: 2025-01-27T18:30:15.781Z
+updated: 2025-01-30T16:33:42.999Z
 tags:
   - games
 categories:
@@ -33,12 +33,16 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  Want to enable Minecraft Java crossplay for Bedrock players? Here's what you need to know about letting Bedrock players join Java servers while using the GeyserMC mod!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Jhet Borja/MUO
@@ -56,22 +60,22 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
  This process involves both versions of Minecraft running at the same time on one computer, connected to the same Java server. We'll show you how to create a server that you can join whether you're playing Minecraft's Java or Bedrock Edition.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Set Up a Server
 
  Firstly, you should set up a server on[Aternos](https://aternos.org/) . Aternos is a free third-party server hosting service that has everything you need to set up a server to allow crossplay between Java and Bedrock.
 
 ![Aternos Create a Server button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/aternos-create-a-server-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve made an account on Aternos, click on**Create** to create a server and name it. Make sure to choose**Java Edition** on the blue bar above.
 
@@ -89,23 +93,19 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![Choosing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-geyser-plugin-on-aternos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, head to**Plugins** . Search for**GeyserMC** and choose**GeyserMC** .
 
 ![Installing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-geyser-plugin-on-aternos.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Finally, click on the small download icon to the very right of the most recent or compatible version.
 
  For your locally run server, head to[PaperMC.io](https://hangar.papermc.io/GeyserMC/Geyser) and download GeyserMC from there. In case you need to learn how to install the GeyserMC plugin, check out how to install plugins through[Bukkit](https://bukkit.fandom.com/wiki/Installing%5FPlugins) . If your existing server has a lot of mods already, you'll have to check for compatibility and the limitations of crossplaying between Java and Bedrock Edition
 
  Once that’s all done, you can now turn on and connect to your server in the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Join the Minecraft Java Server on Bedrock Edition
 
@@ -119,11 +119,11 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![Pasting server IP details on Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pasting-server-ip-details-on-bedrock-edition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Limitations of the GeyserMC Mod
 
@@ -150,24 +150,17 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-creating-gourmet-visuals-directing-flavors-in-motion-for-2024/"><u>[New] Creating Gourmet Visuals Directing Flavors in Motion for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-discover-the-tricks-to-recording-and-screencasting-your-youtube-views-without-cash/"><u>[New] Discover The Tricks to Recording & Screencasting Your YouTube Views without Cash</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-automating-meeting-times-a-google-meet-essential/"><u>[Updated] Automating Meeting Times A Google Meet Essential</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-convert-youtube-to-mp3-in-3-ways-safe-for-2024/"><u>[Updated] How to Convert YouTube to MP3 in 3 Ways [Safe] for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-onestream-integration-tips-for-seamless-livestreaming/"><u>[Updated] OneStream Integration Tips for Seamless Livestreaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-ps5-kids-mode-essential-security-measures/"><u>Enhancing PS5 Kids Mode: Essential Security Measures</u></a></li>
-<li><a href="https://games-able.techidaily.com/immerse-in-classic-games-on-idevices-with-our-top-4-emulator-apps/"><u>Immerse in Classic Games on iDevices with Our Top 4 Emulator Apps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/join-the-fun-best-6-modern-platforms-for-alternate-chess/"><u>Join the Fun: Best 6 Modern Platforms for Alternate Chess</u></a></li>
-<li><a href="https://games-able.techidaily.com/joining-forces-on-ps5-with-game-share/"><u>Joining Forces on PS5 with Game Share</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/scarica-playlist-in-4k-con-il-downloadatore-piu-veloce-per-video-in-alta-definizione-gratis/"><u>Scarica Playlist in 4K Con Il Downloadatore Più Veloce per Video in Alta Definizione - Gratis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-moving-your-iphone-or-ipad-images-to-an-outside-hard-disk/"><u>Step-by-Step Guide: Moving Your iPhone or iPad Images to an Outside Hard Disk</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-tips-for-smoother-play-improve-frame-rate-and-reduce-lagging-issues-in-warzone/"><u>Step-by-Step Tips for Smoother Play: Improve Frame Rate and Reduce Lagging Issues in Warzone</u></a></li>
-<li><a href="https://games-able.techidaily.com/swiftly-swapping-steam-deck-storage-cloning-made-simple/"><u>Swiftly Swapping Steam Deck Storage: Cloning Made Simple</u></a></li>
-<li><a href="https://games-able.techidaily.com/tech-harmony-an-efficient-way-to-join-controllers-and-console/"><u>Tech Harmony: An Efficient Way to Join Controllers and Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/transition-to-a-better-gaming-experience-through-region-change/"><u>Transition to a Better Gaming Experience Through Region Change</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-xbox-perks-and-promotions/"><u>Unlock Xbox Perks and Promotions</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-mojang-maps-download-install-play/"><u>Unlocking Mojang Maps: Download, Install, Play</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-take-your-editing-to-the-next-level-5-expert-final-cut-pro-tips/"><u>Updated Take Your Editing to the Next Level 5 Expert Final Cut Pro Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-dissecting-tseries-profit-generation-through-youtube-videos/"><u>[Updated] 2024 Approved Dissecting TSeries' Profit Generation Through YouTube Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-djis-mavic-pro-visual-goggles-performance-review/"><u>[Updated] In 2024, DJi's Mavic Pro Visual Goggles Performance Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-maximizing-visibility-how-to-upload-videos-to-instagram-desktop-for-2024/"><u>[Updated] Maximizing Visibility How to Upload Videos to Instagram Desktop for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-snapcraft-universe-top-8-photo-connector/"><u>2024 Approved SnapCraft Universe Top 8 Photo Connector</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-tips-to-boost-your-framerate-in-counter-strike-global-offensive-for-windows/"><u>8 Tips to Boost Your Framerate in Counter-Strike: Global Offensive for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaining-starfield-previews-a-step-by-step-guide/"><u>Gaining Starfield Previews: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-guide-to-mastering-your-photos-with-facetune/"><u>In 2024, Comprehensive Guide to Mastering Your Photos with Facetune</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-find-x7-ultra-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo Find X7 Ultra Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-tecno-camon-30-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Tecno Camon 30 Pro 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/pimax-crystal-unveiling-the-peak-of-virtual-immersion-and-problematic-aspects/"><u>Pimax Crystal: Unveiling the Peak of Virtual Immersion & Problematic Aspects</u></a></li>
+<li><a href="https://games-able.techidaily.com/raspberry-pi-gaming-face-off-batocera-or-retropie/"><u>Raspberry Pi Gaming Face-Off: Batocera or RetroPie?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-rare-collectors-roadmap-scvs-elusive-treasures-76/"><u>The Rare Collector's Roadmap: SCV’s Elusive Treasures (76)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: My Office, My Arena
-date: 2024-08-08T09:15:07.531Z
-updated: 2024-08-09T09:15:07.531Z
+date: 2025-01-24T17:02:08.345Z
+updated: 2025-01-30T17:04:33.840Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 ---
 
 ## My Office, My Arena
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,19 +32,25 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
  There’s a popular myth that every gaming setup needs a gaming chair. On the surface, it makes sense; where else would you need a gaming chair? However, I’ve used both office chairs and gaming chairs long enough to establish reasons why an office chair is indeed better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 Office Chairs Are Often More Ergonomic and Comfortable
 
  Because office chairs aren’t restricted to some “gaming” aesthetic, they are often designed more ergonomically than gaming chairs. Here are some gaming chair ergonomics pain points for me...
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Race car Bucket Seat Design
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a man playing pc games in a gaming chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-man-playing-pc-games-in-a-gaming-chair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Standret/[Shutterstock](https://www.shutterstock.com/image-photo/next-gen-graphics-online-streamer-playing-2159933123)
 
@@ -48,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
  While this design effectively resists G-forces, it becomes a hindrance when gaming at a desk. It could be useful if you’re building a motion-driving simulation rig, but most gamers are not. So, it essentially forces you to remain in one position. However, office chairs allow you to stretch and move about.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Gaming Chairs Are Typically Too Big
 
  Another thing that makes gaming chairs uncomfortable is that they are usually too big. I’m about 5’11—an above-average height—and I still find many gaming chairs too big. While big chairs are good for lounging, they don’t compare to how snug and smart a good office chair feels.
@@ -65,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
 ![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Dreamchild Obari/MakeUseOf
 
  Lumbar support is one of the key arguments for using ergonomic chairs. You may have heard it a lot as a buzzword in the ergonomic chair industry, but it boils down to supporting the natural curve of your spine.
@@ -75,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
  For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an[office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 2 Gaming Chairs Are Cheaply Built and Overpriced
 
  I’ve seen this many times: a regular, not-so-great accessory is packaged with a “gaming” design and sold for a markup. It’s a popular marketing gimmick, and you may have noticed it yourself. Unfortunately, this is also often the case with gaming chairs. In fact, it’s a core[reason not to buy a gaming chair](https://www.makeuseof.com/dont-buy-a-gaming-chair-reasons-why/) .
@@ -91,14 +98,8 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
  Gaming chairs’ costs go into their metal frames and multi-colored upholsteries. However, while office chairs have more modest designs and plastics, they are better designed and cost less.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 An Office Chair Is Aesthetically Safer
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Computer setup with a white office chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/computer-setup-with-a-white-office-chair.jpg)
 
  Dreamchild Obari/MakeUseOf
@@ -111,14 +112,11 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
  This isn’t to say gaming chairs are completely worthless; there are still some pretty good brands out there, especially at the higher price points. It’s just that you’re far more likely to get a better deal with a smaller budget if you choose an ergonomic office chair.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +125,22 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-virtual-symposium-streams/"><u>[New] 2024 Approved Virtual Symposium Streams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhance-your-content-creation-with-top-5-facebook-downloaders-for-2024/"><u>[New] Enhance Your Content Creation with Top 5 Facebook Downloaders for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-cutting-edge-photography-techniques-harnessing-lut-capabilities/"><u>[New] In 2024, Cutting-Edge Photography Techniques Harnessing LUT Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmark-battle-pumpless-aio-coolers-prove-closely-matched-just-8c-behind-traditional-rivals-in-rigorous-tests/"><u>Benchmark Battle: Pumpless AIO Coolers Prove Closely Matched, Just 8°C Behind Traditional Rivals in Rigorous Tests</u></a></li>
+<li><a href="https://windows11.techidaily.com/dial-up-speed-strategies-to-revive-your-sluggish-pc/"><u>Dial Up Speed: Strategies to Revive Your Sluggish PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-look-accessing-playstation-5-written-web-world/"><u>Inside Look: Accessing PlayStation 5’ Written Web World</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-evolution-then-and-now-explored/"><u>PS5 Evolution: Then and Now Explored</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-complications-pci-encrypt-decrypt-engine-module-troubleshooting/"><u>Resolved Complications: PCI Encrypt-Decrypt Engine Module Troubleshooting</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-the-phone-experience-through-games/"><u>Revolutionizing the Phone Experience Through Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-the-assist-controller-a-quick-ps5-tutorial/"><u>Setting Up the Assist Controller: A Quick PS5 Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-a-brighter-gaming-atmosphere-with-xbox-led-controls/"><u>Tips for a Brighter Gaming Atmosphere with Xbox LED Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-gamers-choices-retro-handheld-devices-rise/"><u>Top 5 Gamers' Choices: Retro Handheld Devices Rise</u></a></li>
+<li><a href="https://games-able.techidaily.com/unravel-virtual-crimes-with-artificial-intelligence-games/"><u>Unravel Virtual Crimes with Artificial Intelligence Games</u></a></li>
+</ul></div>
 

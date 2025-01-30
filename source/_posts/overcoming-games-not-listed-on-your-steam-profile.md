@@ -1,7 +1,7 @@
 ---
 title: Overcoming Games Not Listed on Your Steam Profile
-date: 2025-01-16T16:22:35.148Z
-updated: 2025-01-23T06:35:42.318Z
+date: 2025-01-23T17:43:25.276Z
+updated: 2025-01-30T16:48:03.690Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Doesn’t Steam Recognize My Installed Games?
@@ -52,6 +52,10 @@ C:\Program Files (x86)\Steam\steamapps\common
 ![exit family view steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/exit-family-view-steam.jpg)
 4. Next, make sure you are not in**Family View** . To do this, click the**Family View** icon in the top right corner of the screen and enter your**PIN** to exit Family View.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, open the**Library** tab in the top left corner. It lists all the games that you own and installed on your PC.
 6. Click on the affected game and then click the**Install** button.  
 ![install new game steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/install-new-game-steam.jpg)
@@ -72,7 +76,7 @@ C:\Program Files (x86)\Steam\steamapps\common
 4. Click the drop-down under**Storage** . By default, it shows you the current game storage drive and location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select**Add Drive** from the drop-down options.  
@@ -83,7 +87,7 @@ C:\Program Files (x86)\Steam\steamapps\common
 7. Next, click the**Add** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Browse through your storage drives and select the Steam game folder you want to add.
@@ -104,10 +108,6 @@ C:\Program Files (x86)\Steam\steamapps\common
 ![steam install counter strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/steam-install-counter-strike.jpg)
 5. Next, hover your cursor over the**Library** tab and select**Download** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![pause steam install counter strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/pause-steam-install-counter-strike.jpg)
 
 1. Click the**Pause** button to pause the download for the affected game.  
@@ -121,7 +121,7 @@ C:\Program Files (x86)\Steam\steamapps\
 ![move appmanifest_730 acf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/move-appmanifest_730-acf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Locate the**appmanifest\_appid.acf** file for your game inside the**steamapps** folder and move it to a different folder or your desktop. Don’t delete the file, as you will need to move it back again.
@@ -132,7 +132,7 @@ C:\Program Files (x86)\Steam\steamapps\
 5. Launch the Steam app and resume the**Update/Download** . Steam will find the existing game files and show your game in the Steam library.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Steam Recognize Installed Games
@@ -156,21 +156,20 @@ C:\Program Files (x86)\Steam\steamapps\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-a-compreenas-guide-to-leveraging-ps-background-erasure-for-professional-results/"><u>[New] In 2024, A Compreenas Guide to Leveraging PS Background Erasure for Professional Results</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-overcome-obstacles-with-these-top-10-motivation-flicks/"><u>[Updated] Overcome Obstacles with These Top 10 Motivation Flicks</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/critique-on-the-jackery-powerbar-highlighting-its-convenient-built-in-wall-socket-functionality/"><u>Critique on the Jackery PowerBar – Highlighting Its Convenient Built-In Wall Socket Functionality</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-mind-games-with-nyts-strands-beginner-to-pro-steps/"><u>Elevate Your Mind Games with NYT's ‘Strands’ - Beginner to Pro Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-financial-retrospective-on-steam-platform/"><u>Game Financial Retrospective on Steam Platform</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210704047-9781915393531-happy-birthday-love-jane/"><u>Happy Birthday-Love, Jane | Free Book</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-12-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 12</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-ps5-connectivity-a-step-by-step-approach/"><u>Mastering PS5 Connectivity: A Step-by-Step Approach</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/monthly-income-prospects-for-youtube-creators/"><u>Monthly Income Prospects for YouTube Creators</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-a-step-by-step-guide-to-crafting-professional-level-android-media-with-audio-integration/"><u>New 2024 Approved A Step-by-Step Guide to Crafting Professional-Level Android Media With Audio Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/resume-your-mc-adventure-troubleshooting-disconnects-in-pc-lan/"><u>Resume Your MC Adventure: Troubleshooting Disconnects in PC LAN</u></a></li>
-<li><a href="https://games-able.techidaily.com/stronger-gameplay-starts-here-fixing-low-valorant-fps-windows-edition/"><u>Stronger Gameplay Starts Here: Fixing Low Valorant FPS Windows Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/terminate-recurring-purchases-on-steam-securely/"><u>Terminate Recurring Purchases on Steam Securely</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-mobile-computer-for-gamers-pdw4/"><u>The Ultimate Mobile Computer for Gamers: PDW4</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-resolving-ntfssys-failure-in-windows-11-bsod/"><u>Troubleshooting and Resolving ntfs.sys Failure in Windows 11 BSOD</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/turn-your-tactical-talks-into-a-thriving-youtube-trade-for-2024/"><u>Turn Your Tactical Talks Into a Thriving YouTube Trade for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ice-cream-recording-tech-deep-dive-analysis/"><u>[New] In 2024, Ice Cream Recording Tech Deep Dive Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-step-by-step-guide-to-efficient-video-capture-with-zd-software-tools/"><u>2024 Approved Step-by-Step Guide to Efficient Video Capture with ZD Software Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-server-dynamics-integrating-strategy-based-games-discord/"><u>Boosting Server Dynamics: Integrating Strategy-Based Games (Discord)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elite-hd-video-capture-software-listings/"><u>Elite HD Video Capture Software Listings</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-a-secure-steam-environment-for-kids/"><u>Ensuring a Secure Steam Environment for Kids</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-identify-problematic-graphics-cards-common-symptoms-and-solutions-by-yl-tech-experts/"><u>How to Identify Problematic Graphics Cards: Common Symptoms and Solutions by YL Tech Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-storage-exploration-how-many-vids-can-64128gb-hold/"><u>In 2024, Storage Exploration How Many Vids Can 64/128GB Hold?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-gaming-mobile-good-or-bad/"><u>Is Gaming Mobile Good or Bad?</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-f04-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy F04 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-converter-youtube-dialogue-to-text/"><u>Leading Converter YouTube Dialogue to Text</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-nintendo-switch-password-management/"><u>Simplifying Nintendo Switch Password Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-swapping-console-zones/"><u>The Ultimate Guide to Swapping Console Zones</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-choices-for-enhancing-your-steam-deck-experience/"><u>Top Choices for Enhancing Your Steam Deck Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-controller-enhanced-mobile-platforms/"><u>Top Controller-Enhanced Mobile Platforms</u></a></li>
 </ul></div>
 

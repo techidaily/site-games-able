@@ -1,7 +1,7 @@
 ---
 title: Joy-Con Steam Compatibility Checklist
-date: 2024-08-08T09:14:48.748Z
-updated: 2024-08-09T09:14:48.748Z
+date: 2025-01-29T17:53:18.390Z
+updated: 2025-01-30T17:33:36.217Z
 tags:
   - games
 categories:
@@ -22,15 +22,11 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 
  Connecting your Classic Nintendo controller to Steam begins with securing the controller itself. These controllers are only available to those with Nintendo Switch Online subscriptions. So if you don't have one of those yet, here is[everything you need to know about Nintendo Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) .
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Nintendo Switch Online logo with Mario characters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/nintendo-switch-online-characters.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Nintendo/[YouTube](https://www.youtube.com/watch?v=v6gTTzfs3sI&ab%5Fchannel=NintendoofAmerica)
 
@@ -46,51 +42,51 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 
  Once the PC finds your Classic Nintendo controller, a small pop-up window will appear on your screen showing the name of your controller. In this case, it is the N64 controller, but the name may differ for you depending on what Classic Nintendo controller you have.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Connecting N64 Controller to PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/connecting-n64-controller-to-pc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Left-click on the**controller name** to pair it. It's worth noting here that your PC won't remember the Classic Nintendo controller like it does other Bluetooth devices, and this process will have to be repeated every time you want to connect your controller to your PC.
 
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
 
  The Classic Nintendo controllers can have some interesting button layouts, especially when it comes to the N64 controller. So you may have to configure your button layout to ensure that everything works the way you want it to.
 
  There is a Nintendo Button Layout option in your controller settings, but that only switches the A, B, X, and Y buttons which differ from other major controllers. If that’s enough for you, press the**Steam** button in the top left corner and open up the**Settings** . Press**Controller** , and toggle**Use Nintendo Button Layout** to the on position.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
 
  Select the game you want to play with your Classic Nintendo controller and press the**controller icon** on the right to open your controller settings. Select**Enable Steam Input** . This allows you to fully customize your controller’s button layout.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
 
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
 
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
 
@@ -98,14 +94,11 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 
  If you’re looking for the perfect nostalgic adventure to play on Steam with one of your Classic Nintendo controllers, the Klonoa Phantasy Reverie Series or the Shovel Knight: Treasure Trove collection would be great ways to put your classic controller to good use.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +107,20 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-premium-web-outlets-for-gift-boxes-that-speak-to-you/"><u>[New] Premium Web Outlets for Gift Boxes That Speak to You</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-enhancing-watchability-adding-time-stamps-to-youtube-videos/"><u>[Updated] Enhancing Watchability Adding Time Stamps to YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flavorful-funnels-catchy-recipe-channels-that-work-for-2024/"><u>[Updated] Flavorful Funnels Catchy Recipe Channels That Work for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-stepwise-methods-for-captivating-collage-compositions/"><u>[Updated] Stepwise Methods for Captivating Collage Compositions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-instagram-cultivating-a-robust-following/"><u>[Updated] The Art of Instagram Cultivating a Robust Following</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/hue-alignment-assistant/"><u>Hue Alignment Assistant</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-13-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 13 iCloud Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-versus-edge-who-will-rule-as-top-gaming-browser/"><u>Opera GX Versus Edge: Who Will Rule as Top Gaming Browser?</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-device-lag-windows-11s-error-code-0x887a0006/"><u>Preventing Device Lag - Windows 11'S Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-path-to-accessing-google-play-games-on-your-desktop/"><u>The Path to Accessing Google Play Games on Your Desktop</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ps5-sanitation-blueprint-unveiled/"><u>The PS5 Sanitation Blueprint Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-tv-and-monitor-expo-ifa-2023/"><u>The Ultimate TV & Monitor Expo: IFA 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-deal-top-non-apple-non-anker-magsafe-charger-holder-in-my-tests-now-at-a-steep-discount-featuring-the-wallet-of-choice/"><u>Unbeatable Deal: Top Non-Apple, Non-Anker MagSafe Charger Holder in My Tests Now at a Steep Discount - Featuring the Wallet of Choice!</u></a></li>
+</ul></div>
 

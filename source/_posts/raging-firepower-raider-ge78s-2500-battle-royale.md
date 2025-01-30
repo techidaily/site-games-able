@@ -1,7 +1,7 @@
 ---
 title: "Raging Firepower: Raider GE78's $2500 Battle Royale"
-date: 2024-08-08T09:15:49.498Z
-updated: 2024-08-09T09:15:49.498Z
+date: 2025-01-26T17:46:33.750Z
+updated: 2025-01-30T17:55:33.247Z
 tags:
   - games
 categories:
@@ -22,15 +22,12 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
  Are you in the market for a ludicrous laptop that can go head-to-head with full-size gaming PCs while still allowing you to hit the road with your gaming rig? Then the Raider GE78 HX 13V should make its way onto your shortlist.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![MSI Raider GE78 HX - Front Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-front-angle.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### MSI Raider GE78 HX
@@ -143,6 +140,10 @@ Physical Webcam cover
 
  This laptop is mostly intended as a desktop replacement rather than something you take on the go as much. Carrying around its massive 330W power adapter is a workout, and the battery life won't keep you gaming—let alone browsing the web—for extended periods. That said, MSI has put a premium on cooling and maximizing performance, and it shows in the benchmark results. Just be ready to hit the gym if you plan to lug this beast around.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Configurations
 
  The MSI Raider GE78 HX 13V lineup is a refreshing update from its predecessor, the 2022 Raider GE77\. It introduces a new chassis design and improved internals. Powered by Intel Raptor Lake-H CPUs and packing the mobile GeForce 40 GPUs, it promises serious gaming and productivity performance.
@@ -167,22 +168,20 @@ Physical Webcam cover
 
 ![MSI Raider GE78 HX - Front LED Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-front-led-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
  Compared to last year's MSI Raider GE77 series, which featured an all-black matte design with minimal branding, the GE78 Raider opts for a bolder look. It introduces gold plastic and red rubberized trims, which are purely aesthetic and unique to this model.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![MSI Raider GE78 HX - Rear Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-rear-angle.jpg)
 
  Paul Antill / MakeUseOf
 
  The hinges that hold the display are now larger and firmer, although there's a peculiar grill-like cutout below the display's lower bezel that doesn't appear to serve any purpose. Some might find these design elements a bit forced, reminiscent of cars with unnecessary chrome or faux hood scoops.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![MSI Raider GE78 HX - Plastic Trim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-plastic-trim.jpg)
 
  Paul Antill / MakeUseOf
@@ -209,11 +208,16 @@ Physical Webcam cover
 
 ![MSI Raider GE78 HX - Rear Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-rear-ports.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Display
 
  Our MSI Raider GE78 HX 13V uses a QHD+ panel boasting a resolution of 2560 x 1600\. The 16:10 aspect ratio is a new addition to the Raider series, providing a taller screen, traditionally associated with productivity work, but it's been making its way into most of MSI's lineup over the past few years. The display only opens up to about 120 degrees—so no extreme angles with this one.
@@ -224,6 +228,10 @@ Physical Webcam cover
 
  The 240Hz refresh rate strikes a good balance. While the benefits of a 360Hz display might be imperceptible to the average user, this "slower" display brings cost savings, making it a worthwhile compromise. For games like Overwatch 2, where frame rates can reach 190-220 fps on the highest settings, the advantages of a faster display would only become apparent if you dialed down the settings considerably.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Trackpad and Keyboard
 
  The MSI Raider GE78 HX 13V offers a full-sized keyboard with a number pad, and the arrow keys are highlighted and also double as shortcuts to add a reticle to the screen, change fan speeds, play or pause media, or turn off the touchpad.
@@ -231,6 +239,10 @@ Physical Webcam cover
  For example, when in extreme performance mode, MSI tends to keep the fan speeds running faster even if there is minimal system load, so it's nice to have quick controls to slow the fans down and make it run quieter. Similarly, the Fn key lights up when you've activated an associated Fn function.
 
 ![MSI Raider GE78 HX - Keyboard Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-keyboard-deck.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
 
@@ -240,36 +252,28 @@ Physical Webcam cover
 
 ![MSI Raider GE78 HX - Trackpad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-trackpad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Performance
 
  The MSI Raider GE78 HX 13V delivers impressive performance with a Core i9-13950HX, a powerful mobile processor in Intel's 13th-gen Raptor Lake platform. This CPU boasts 24 cores and 32 threads, featuring a hybrid design with 8 high-performance cores and 16 efficiency cores that can work together or independently, depending on the task. The laptop slurps down up to 140W of power during demanding CPU workloads on max-performance profiles.
 
  In the graphics department, the 2023 Raider series packs top-tier RTX 4000 chips. Our review unit came equipped with the RTX 4080 Laptop GPU, capable of reaching up to 175W with Dynamic Boost. Notably, the laptop retains an MUX for a more direct connection to the GPU, although it requires a restart to switch between Hybrid and Discrete modes via the control software.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Noise and Heat
 
  During testing and benchmarking, the laptop was set to the Extreme profile with the GPU in MYHybrid mode, and the screen at its native QHD+ resolution. In Extreme mode, the laptop runs quite loudly at 50+ dB, making a good pair of over-the-ear noise-canceling headphones a wise investment. Aside from this, one major thing to note is its cooling: it blows out some serious heat.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![MSI Raider GE78 HX - Underside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-underside.jpg)
 
  Paul Antill / MakeUseOf
 
  This is most noticeable while gaming if you are right-handed, as it can push out very hot air from its right side. With this being such a large laptop already, I tend to place my mouse within a few inches of the laptop. After about 15 minutes of gaming, the laptop can be unbearably hot if you're within 1-2 inches of it. I had to back away to about 4-5 inches not to notice the heat as much.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Gaming Benchmarks
 
 | Spider-Man Remastered (Very High Preset, DLAA - 1600p)            | 85-110 fps  |
@@ -285,8 +289,9 @@ Physical Webcam cover
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Performance Benchmarks
 
  The MSI Raider GE78 HX 13V outperforms our previous laptop leader, the MSI Stealth 16 Studio, equipped with an Intel i9-13900H, Nvidia RTX 4070, and 64GB of RAM, in Cinebench R23 and Pugent Davinci Resolve rendering tests by about 30%. While the Stealth 16 Studio is an excellent choice for content creators, those who prioritize performance over portability can opt for the beefier GE78 HX 13V and even save more money.
@@ -297,9 +302,6 @@ Close
 
  The only concern we can share is with its unplugged performance. In Cinebench R23 our scores dropped to 7733, marking a 70% performance drop, despite still being in MSI's highest power mode. This isn't uncommon for MSI's more powerful laptops, though we have seen options like the Razer Blade 17, which manage not to take as big of a hit when running unplugged tests.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Incredible Value
 
  Our benchmark comparisons reveal that the MSI Raider GE78 HX 13V is an impressive performer, delivering around 79% to 89% of the performance of the full-sized Starforge Voyager Creator ([our review](https://www.makeuseof.com/starforge-voyager-creator-review/) ). The latter, equipped with an Intel i7-13700K, Nvidia RTX 4070 Ti, and 32GB of RAM, comes at a price of $2,900.
@@ -308,9 +310,6 @@ Close
 
  The gap in performance between laptops and desktops is narrowing, and the price difference is becoming less significant. The GE78 HX sits firmly at the top end of this market.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![MSI Raider GE78 HX - Front Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-front-angle.jpg)
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
@@ -325,14 +324,11 @@ Close
 
 [$3799 at Amazon](https://www.amazon.com/MSI-Raider-240Hz-Gaming-Laptop/dp/B0BT2ZHDNV?tag=makeusw-20&ascsubtag=UUmuoUeUpU2030591&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmsi-raider-ge78-hxv-review%2F&asc%5Fcampaign=Affiliate) [See at MSI](https://www.msi.com/Laptop/Raider-GE78-HX-13VX)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -341,4 +337,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos-for-2024/"><u>[New] The Choreography of Audio and Visuals A Guide to Editing Videos for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209643391-9780917849732-conversations-with-ernest/"><u>Conversations with Ernest | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-top-non-nvidia-gpus-for-gaming/"><u>Exploring Top Non-NVIDIA GPUs for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/freedom-to-play-essential-switch-ftp-games/"><u>Freedom to Play: Essential Switch FTP Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/handling-game-pass-premium-hike-quick-and-easy-ways/"><u>Handling Game Pass Premium Hike - Quick & Easy Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-apply-a-fan-translation-patch-to-a-rom/"><u>How to Apply a Fan Translation Patch to a ROM</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-repair-a-non-functional-razer-kraken-microphone/"><u>How to Repair a Non-Functional Razer Kraken Microphone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-gameplay-list-for-versatile-streaming/"><u>Ideal Gameplay List for Versatile Streaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/ideas-in-images-top-20-photos-to-fire-up-creativity/"><u>Ideas in Images Top 20 Photos to Fire Up Creativity</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-huawei-p30-pro-an-unwavering-fans-perspective/"><u>In-Depth Analysis of the Huawei P30 Pro: An Unwavering Fan's Perspective</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-devices-for-jiggle-free-filming-experience-for-2024/"><u>Optimal Devices for Jiggle-Free Filming Experience for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-shopping-affordable-vr-headsets-rated/"><u>Smart Shopping: Affordable VR Headsets Rated</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-subscribers-guide-psplus-or-xbgplus/"><u>The Ultimate Subscriber's Guide: PS+ or XbG+?</u></a></li>
+</ul></div>
 

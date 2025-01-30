@@ -1,7 +1,7 @@
 ---
 title: Mastering Quiet Mode on Xbox Series X/S & Controllers
-date: 2024-08-08T09:13:12.042Z
-updated: 2024-08-09T09:13:12.042Z
+date: 2025-01-25T17:51:48.632Z
+updated: 2025-01-30T16:45:30.342Z
 tags:
   - games
 categories:
@@ -18,11 +18,12 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
  Fortunately, the manufacturers of Xbox understand this need and have integrated settings that allow you to silence both your console and controller, offering you a personalized gaming experience tailored to your preferences. In this guide, we'll walk you through the steps to silence your Xbox Series X|S or One console and controller.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Should I Silence My Xbox Console and Controller?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Person holding xbox controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/person-holding-xbox-controller.jpg)
 
  Silencing your Xbox console and controller can be beneficial in several situations. For instance, when gaming late at night or in a quiet environment, muting the controller and console prevents loud noises and vibrations from disturbing others.
@@ -31,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
  Remember that silencing your Xbox controller and console is entirely optional and depends on what enhances your gaming experience. If you do not wish to mute the sounds completely, you can also adjust the[sound settings on your Xbox](https://www.makeuseof.com/xbox-series-xs-sound-settings/) to fit your preferences.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## How to Turn Off Your Xbox Controller's Vibration
 
  Xbox controllers have a built-in vibration feature that provides haptic feedback during gameplay. Here's how to turn off the vibration on your Xbox controller:
@@ -44,33 +42,38 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 ![Accessibility settings on Xbox One](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/accessibility-setting-xbox.jpeg)  
 ![Controller settings on Xbox One](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/controller-setting-xbox.jpeg)
 4. On the**Xbox Accessories** page, you’ll see your controller. Select**Configure** and choose your profile on the**Profiles** panel. You should see your controller’s profile open up on the right. Select the pencil icon to open controller settings.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Xbox One Accessories page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessories-xbox.jpeg)
 5. On this page, you'll see several options for configuring your Xbox controller, including options for[remapping your Xbox controller buttons](https://www.makeuseof.com/tag/how-to-remap-your-xbox-one-controller-buttons/) . From these options, locate and select the**Turn on vibration** setting and press**A** on your controller to uncheck the box next to it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Xbox configure setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-configure-setting.jpeg)
 
  With this, your Xbox controller's vibration is now disabled. Remember that you can enable it again following the same steps if you wish to revert to the default setting.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Mute Sounds on Your Xbox Console
 
  Muting the audio sounds on your Xbox console is a straightforward process. On your Xbox console, go to**Settings > Accessibility > Audio** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Xbox One accessibility audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessibility-audio-settings.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You’ll see several audio-related settings, such as**Mute navigation sounds** ,**Mute notification sounds** ,**Power chime** , and**Mute startup sounds** , that can be enabled or disabled to suit your preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox One audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-audio-settings.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The first two settings are related to the sounds you hear on your console when you receive a notification or navigate around the Xbox dashboard or through menus and settings. The latter settings pertain to the sounds the Xbox console device makes upon turning on and off.
 
@@ -86,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
  All you have to do to achieve this is follow the easy steps outlined in the post above to customize the audio options to mute vibrations and sounds as desired.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +102,19 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-the-social-media-watersheds-of-your-interest-space-for-2024/"><u>[New] Navigating the Social Media Watersheds of Your Interest Space for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>[Updated] 2024 Approved Bridging Language Barriers Adding Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-virtual-quest-evaluating-current-progress-and-potential-hurdles-for-2024/"><u>[Updated] The Virtual Quest Evaluating Current Progress & Potential Hurdles for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-updated-review-sonys-blu-ray-and-hd-masterpiece/"><u>2024 Approved The Updated Review Sony's Blu-Ray and HD Masterpiece</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/filmforge-mac-for-2024/"><u>FilmForge Mac for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-the-series-s-avoids-traditional-media-playback/"><u>How the Series S Avoids Traditional Media Playback</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-14-pro-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 14 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-huawei-nova-y91-by-drfone-android/"><u>In 2024, How to Bypass FRP from Huawei Nova Y91?</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocns-budget-monitor-high-framerate-champion/"><u>InnoCN's Budget Monitor, High Framerate Champion</u></a></li>
+<li><a href="https://games-able.techidaily.com/joy-con-link-failure-nintendo-switch-tips/"><u>Joy-Con Link Failure: Nintendo Switch Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/thrifty-gamers-guide-to-xbox-s-benefits/"><u>Thrifty Gamers' Guide to Xbox S Benefits</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-psvr2s-best-add-ons/"><u>Unveiling PSVR2's Best Add-Ons</u></a></li>
+</ul></div>
 

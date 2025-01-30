@@ -1,7 +1,7 @@
 ---
 title: "Six Thrilling Story-Sharing Duos: Text Edition"
-date: 2025-01-15T22:44:45.035Z
-updated: 2025-01-22T20:00:42.466Z
+date: 2025-01-24T18:05:51.537Z
+updated: 2025-01-30T18:05:52.565Z
 tags:
   - games
 categories:
@@ -42,7 +42,7 @@ Close
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 20 Questions
@@ -56,7 +56,7 @@ Close
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 I Spy
@@ -69,6 +69,10 @@ Close
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Song Lyrics
 
 Close
@@ -78,10 +82,6 @@ Close
  The**Song Lyrics** game plays on that by having one person quote lines from a song to the other via text or in a messaging thread. The other person then has to guess the song the lyrics are from. It helps if this is played with someone you're close to or with whom you share similar music tastes. Because if you choose a metal song, your classical music-loving mother is unlikely to ever guess correctly.
 
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Abbreviations
 
@@ -114,7 +114,7 @@ Close
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8 Kiss, Marry, Kill
@@ -127,10 +127,6 @@ Close
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9 What If...?
 
 Close
@@ -140,6 +136,10 @@ Close
  One of you messages the other a What If? scenario and asks what they would do in that situation. There are no correct or incorrect answers here. It's not only fun to see the responses given, it can also give you an insight into your friend or family member's outlook on life.
 
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10 Simple Quiz
 
@@ -168,22 +168,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-achieving-cost-free-online-educational-streaming/"><u>[New] Achieving Cost-Free Online Educational Streaming</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-master-your-stream-best-cameras-to-capture-every-moment-on-twitch-for-2024/"><u>[New] Master Your Stream Best Cameras to Capture Every Moment on Twitch for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-cinematography-skills-editing-and-sharing-360-videos-on-youtube-for-2024/"><u>[Updated] Elevate Your Cinematography Skills Editing and Sharing 360° Videos on YouTube for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-for-maximizing-your-iphones-photographic-features/"><u>2024 Approved Expert Advice for Maximizing Your iPhone's Photographic Features</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211332524-9798869177094-45-minuten-fur-tot-erklart/"><u>45 Minuten für tot erklärt | Free Book</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/all-you-need-to-know-about-samsungs-latest-gem-the-galaxy-s20-fe-5g-professional-opinions/"><u>All You Need to Know About Samsung's Latest Gem – The Galaxy S20 FE (5G): Professional Opinions</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-xboxs-cloud-based-gaming-concept/"><u>Decoding Xbox's Cloud-Based Gaming Concept</u></a></li>
-<li><a href="https://games-able.techidaily.com/dodging-delay-escaping-load-screen-lock-up/"><u>Dodging Delay: Escaping Load Screen Lock-Up</u></a></li>
-<li><a href="https://games-able.techidaily.com/eschew-discords-game-interface-features/"><u>Eschew Discord’s Game Interface Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/guiding-families-to-child-safe-steam-explorations/"><u>Guiding Families to Child-Safe Steam Explorations</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-cool-should-your-pc-be-for-optimal-gameplay/"><u>How Cool Should Your PC Be for Optimal Gameplay?</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-optimize-your-pc-reducing-steams-ram-intake/"><u>How to Optimize Your PC: Reducing Steam's RAM Intake</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-rotate-your-upside-down-and-sideway-photos-on-iphone/"><u>How to Rotate Your Upside Down and Sideway Photos on iPhone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ice-cream-recording-tech-deep-dive-analysis/"><u>Ice Cream Recording Tech Deep Dive Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-your-gaming-insights-with-steam-stats-analysis/"><u>Maximizing Your Gaming Insights with Steam Stats Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/techniques-to-increase-periscope-stream-velocity/"><u>Techniques to Increase Periscope Stream Velocity</u></a></li>
-<li><a href="https://games-able.techidaily.com/zenith-accessories-for-the-ultimate-switch-experience/"><u>Zenith Accessories for the Ultimate Switch Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-compiling-leading-short-form-video-editors-iosandroid-edition-for-2024/"><u>[New] Compiling Leading Short-Form Video Editors IOS/Android Edition for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-ultimate-expedition-manual-launching-a-career-in-travel-blogging-for-2024/"><u>[New] The Ultimate Expedition Manual Launching a Career in Travel Blogging for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-accelerating-ar-development-leveraging-custom-luts-for-2024/"><u>[Updated] Accelerating AR Development Leveraging Custom LUTs for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers/"><u>[Updated] How to Turn a Minute Into Millions Maximizing Viewership for YouTubers</u></a></li>
+<li><a href="https://games-able.techidaily.com/could-macs-lead-to-unprecedented-gaming-innovations/"><u>Could Macs Lead to Unprecedented Gaming Innovations?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-8ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 8/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-zte-nubia-z60-ultra-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-details-in-videoleap-footage/"><u>Enhancing Details in Videoleap Footage</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-savings-excellence-the-finest-11-online-purchase-destinations-for-deals/"><u>Game Savings Excellence: The Finest 11 Online Purchase Destinations for Deals</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-cut-edit-repeat-top-10-free-webm-video-editing-software-for-2024/"><u>New Cut, Edit, Repeat Top 10 Free WebM Video Editing Software for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/savor-games-without-spending-a-dime-in-them/"><u>Savor Games Without Spending a Dime in Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-big-on-ps-games-during-summer-clearance/"><u>Score Big on PS Games During Summer Clearance</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-the-pinnacle-joypads-for-nintendos-switch-in-2e2024/"><u>Selecting the Pinnacle Joypads for Nintendo's Switch in 2E2024</u></a></li>
 </ul></div>
 

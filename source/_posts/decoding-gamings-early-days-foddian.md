@@ -1,7 +1,7 @@
 ---
 title: "Decoding Gaming's Early Days: Foddian"
-date: 2024-08-08T09:13:15.434Z
-updated: 2024-08-09T09:13:15.434Z
+date: 2025-01-24T16:27:00.730Z
+updated: 2025-01-30T18:23:15.192Z
 tags:
   - games
 categories:
@@ -18,19 +18,17 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
  As a result, Foddian games are some of the most challenging titles currently available. But what are they exactly? What is the origin of the name and the concept behind these games? Also, how far has this base concept evolved to accommodate newer, unique titles? Let’s find out.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Foddian Games: The Origins and Revolution
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The First Bennet Foddy Game
 
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
 
@@ -40,15 +38,13 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
  Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### The Rise of Jump King
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Jump King is a title that transcends the Foddian game genre. You may have heard about the game thanks to its tendency to be played live on Twitch streams. Speedrunners are especially fond of the small series of Jump King games.
 
@@ -60,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
 ## Foddian Games and Content Creation
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
@@ -72,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
  Ultimately, Foddian games are[a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Evolution of Foddian Games
 
  Getting Over It created an exciting format that other game developers have explored to varying extents. A few other games fall into this genre, but only a couple have left a mark on the community.
@@ -90,7 +84,15 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
  While Foddian games are simple in design, the execution is magnificently intricate. They present a fun challenge for players, one you can ride all the way to victory at the top of the map.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
 
@@ -104,14 +106,11 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
  While Only Up! was popularized by streaming communities, if you're wondering which streamer first brought the game to a larger audience, KaiCenet first played Only Up! on the ninth of June 2023, to an audience of 55.8 thousand viewers. From this point on, the popularity of Only Up!, much like other Foddian games, grew exponentially within gaming communities.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +119,19 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/solved-epson-printer-printing-blank-pages/"><u>[SOLVED] Epson Printer Printing Blank Pages</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-streamsavvy-exploring-alternatives-to-dacast/"><u>[Updated] 2024 Approved StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-k70-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi K70 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-on-handling-a-nonworking-switch-situation/"><u>Deciding on Handling a Nonworking Switch Situation</u></a></li>
+<li><a href="https://games-able.techidaily.com/exciting-mobile-mates-top-15-companionable-phone-adventures/"><u>Exciting Mobile Mates: Top 15 Companionable Phone Adventures</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 14 Pro to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-xs-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone XS and iPad</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-nokia-g310-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Nokia G310? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-best-meme-templates/"><u>In 2024, Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-portable-communicators-a-buyers-list/"><u>Leading Portable Communicators : A Buyer's List</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-screen-drivers-non-starting-errors-in-windows/"><u>Solutions to Screen Drivers Non-Starting Errors in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-unfulfilled-steam-orders/"><u>Troubleshooting Unfulfilled Steam Orders</u></a></li>
+</ul></div>
 

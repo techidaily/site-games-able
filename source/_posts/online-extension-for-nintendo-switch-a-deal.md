@@ -1,7 +1,7 @@
 ---
 title: "Online Extension for Nintendo Switch: A Deal?"
-date: 2024-08-08T09:12:57.314Z
-updated: 2024-08-09T09:12:57.314Z
+date: 2025-01-25T18:25:44.061Z
+updated: 2025-01-30T16:33:25.123Z
 tags:
   - games
 categories:
@@ -19,17 +19,15 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
  Let's look at the Nintendo Switch Online Expansion Pack to see what it offers and whether you should sign up.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Nintendo Switch Online?
 
  In case you're not familiar, Nintendo Switch Online is an optional paid subscription service available for the Nintendo Switch system. It grants you several benefits, including access to online multiplayer, cloud backup for your saved data, and a selection of classic NES, SNES, Game Boy, and Game Boy Color titles.
 
  See our[full overview of Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) for more details.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the Switch Online Expansion Pack?
 
  The Expansion Pack includes everything from the base Switch Online plan, plus some additional benefits. It's available as a separate subscription, meaning that the core Switch Online service is still available and unchanged.
@@ -43,16 +41,14 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  Like the existing NES and SNES libraries included with Switch Online, the N64, Genesis, and GBA titles include[quality-of-life emulation benefits](https://www.makeuseof.com/pros-cons-playing-video-games-emulator/) . These include save states, which let you stop and pick up from anywhere (not just where the original game had save points).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Nintendo Switch Expansion Pack: Included Games
 
  Your interest in the Expansion Pack will likely depend on how many of its games you want to play, so let's list those next.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Games Included in the N64 Switch Online Library
 
  At the time of writing, the following Nintendo 64 titles are included in the Expansion pack:
@@ -89,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  Any games that support local multiplayer, such as Mario Tennis and Star Fox 64, are also playable online with friends. You can't matchmake with random opponents, though.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Games Included in the Genesis/Mega Drive Switch Online Library
 
  The Switch Expansion Pack also lets you play dozens of classic Sega Genesis titles. There are too many to list here; see[Nintendo's Genesis Switch Online page](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/) for a full list.
@@ -99,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
  Interestingly, several of these games were never officially released for the Genesis in North America. As with the N64 titles, any multiplayer-enabled games (including Gunstar Heroes and Streets of Rage 2) are playable with friends online, but there are no public matches.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Games Included in the Game Boy Advance Switch Online Library
 
  Nintendo's 32-bit handheld, the Game Boy Advance (GBA), is the latest system to get a library for Switch Online Expansion Pack members. Here's a list of included games:
@@ -119,9 +113,17 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  Titles set to release in the future include Kirby & The Amazing Mirror, F-Zero Maximum Velocity, and the excellent JRPG Golden Sun. Notable in this pack is Super Mario Advance 4, as it includes levels that were previously only available via a GBA accessory called the e-Reader.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nintendo Switch Expansion Pack: Included DLC
 
  In addition to the included games, the other major part of the Switch Online Expansion Pack is a few DLC packs for big Switch titles. Let's review what you get. Note that you must own the original title to access its DLC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Animal Crossing: New Horizons: Happy Home Paradise
 
@@ -139,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  The Octoling Expansion typically costs $19.99\. If you let your Switch Online subscription lapse, you won't be able to access this DLC until you either resubscribe or purchase it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mario Kart 8 Deluxe: Booster Course Pass
 
  Instead of announcing the next Mario Kart game, in February 2022, Nintendo announced a huge expansion to Mario Kart 8 Deluxe in the form of the Booster Course Pass. This brings 48 additional courses into the Switch game. Most are from previous Mario Kart titles—including the mobile Mario Kart Tour—but a few are all-new. Nintendo has also added a handful of new racers with the DLC.
@@ -153,10 +159,11 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  To sign up, open the**Nintendo Switch Online** tab at the bottom of your Switch's home screen. You can also visit the[Switch Online membership page](https://ec.nintendo.com/US/en/membership) to sign up using your computer. If you've already paid for a Switch Online membership annually, you can get a prorated discount when you upgrade to the Expansion Pack, based on the time remaining in your plan.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Switch Online Expansion Pack July 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Switch-Online-Expansion-Pack-July-2022.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### New Nintendo Switch Replica Controllers
 
@@ -186,9 +193,6 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  The same is largely true for the GBA titles. If you're a fan of Zelda, Metroid, Mario, or WarioWare and have never played the GBA entries in these franchises, there's enough value here to be worth a year's subscription at least.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### If You Want to Play All the DLCs
 
  If you plan to play the DLCs for Splatoon 2, Mario Kart 8 Deluxe, and Animal Crossing: New Horizons, the Expansion Pack has much more value. Those three packs are valued at $70 total, so if you pay for a year's worth of the service to experience them all, you've gotten a deal.
@@ -203,23 +207,17 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  We'd recommend finding a few friends and[subscribing to the shareable plan](https://www.makeuseof.com/tag/save-premium-subscriptions-9-shareable-accounts/) . That way, you can drop the price down to as low as $10/person/year, which negates some of the above worries.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Switch Online Expansion Pack: Decent, but Expensive
 
  The Switch Online Expansion Pack adds more classic games to the service, but at a high cost. You can get individual DLC and the Genesis games cheaper by purchasing them outright, and the Switch's N64 emulation isn't the best way to play those games. However, there's still enough here to make it worth the price for some, including some solid Game Boy Advance games.
 
  We'd recommend finding a few friends to bring down the cost if you don't have another way to play these games. That's just one method of spending less on Switch games.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -228,4 +226,24 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/nsuring-visual-presentation-youtube-shorts-thumbnails-fix-for-2024/"><u>[New] Ensuring Visual Presentation YouTube Shorts Thumbnails Fix for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-iphone-photography-understanding-dimensions/"><u>[New] Expertise in iPhone Photography Understanding Dimensions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-to-facebook-video-streams-on-your-apple-tv-for-2024/"><u>[New] Navigating to Facebook Video Streams on Your Apple TV for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-drone-racers-manual-fundamentals-to-high-scores-and-best-drones/"><u>[Updated] Drone Racer's Manual Fundamentals to High Scores and Best Drones</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/advanced-cameras-front-screen-center-stage-for-2024/"><u>Advanced Cameras Front Screen Center Stage for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-the-librarian-oversight-eg-games-listing-errors/"><u>Correcting the Librarian Oversight - EG Games Listing Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-pokemon-games-on-your-iphone-or-ipad/"><u>How to Play Pokémon Games on Your iPhone or iPad</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-infographic-insights-small-business-video-mastery/"><u>In 2024, Infographic Insights Small Business Video Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-epic-and-steam-connexion/"><u>Mastering the Art of Epic and Steam Connexion</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonoma-os-apples-innovative-approach-to-gaming-with-game-mode/"><u>Sonoma OS: Apple's Innovative Approach to Gaming with Game Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailor-made-computing-the-top-8-factors-in-choosing-a-cpu-cooler/"><u>Tailor-Made Computing: The Top 8 Factors in Choosing a CPU Cooler</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-hidden-consequences-of-banning-unapproved-xbox-gamepads/"><u>The Hidden Consequences of Banning Unapproved Xbox Gamepads</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-risks-of-a-gaming-ecosystem-built-on-player-tips/"><u>The Risks of a Gaming Ecosystem Built on Player Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210559538-9780593538623-the-signs-in-love/"><u>The Signs in Love | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/undoing-fortnites-financial-commitment-easy-steps-for-refund/"><u>Undoing Fortnite's Financial Commitment - Easy Steps for Refund</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wd-ultrastar-transporter-high-capacity-briefcase-with-368tb-nvme-ssds-and-advanced-tech-128gb-ram-1kw-psu-and-intels-ice-lake-xeon/"><u>WD Ultrastar Transporter: High-Capacity Briefcase with 368TB NVMe SSDs & Advanced Tech - 128GB RAM, 1kW PSU & Intel's Ice Lake Xeon</u></a></li>
+</ul></div>
 

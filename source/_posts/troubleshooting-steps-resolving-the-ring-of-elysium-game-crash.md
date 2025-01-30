@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving the 'Ring of Elysium' Game Crash"
-date: 2024-08-08T09:14:32.085Z
-updated: 2024-08-09T09:14:32.085Z
+date: 2025-01-29T17:18:42.839Z
+updated: 2025-01-30T16:25:08.299Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 [Among Us](https://www.epicgames.com/store/en-US/p/among-us?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=33956bcb55d4452d8c47e16b94e294bd) is no doubt the hottest game during the quarantine. While this indie game is fun, many players start reporting**a crashing issue** that keeps them from finding imposters. But don’t worry if you happened to be one of them. Here we gather some working fixes for your Among Us crashing issue, try them and stop the crash right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all; simply work your way down until you find the one that works for you.
@@ -28,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 5. **[Run Among Us on another GPU](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of your game files
 
  The constant crashes with Among Us may indicate an integrity with the game files. It could mean some files are corrupted or missing. You can follow these steps to fix that:
@@ -38,15 +43,21 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 2. Navigate to the**LIBRARY** tab. Right-click**Among Us** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-verify-1.jpg)
 3. In the pop-up window, navigate to the**LOCAL FILES** tab. Click**VERIFY INTEGRITY OF GAME FILES** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the checking is completed, launch Among Us and see if it crashes again.
 
  If this method doesn’t give you any luck, you can check out the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Perform a clean boot
 
  A clean boot means starting your PC with only the necessary utilities and system services. It would very likely fix most of the software conflict, which might fix the crash at the same time.
@@ -56,14 +67,8 @@ And here’s how you can do a clean boot:
 1. On your keyboard, press the**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
@@ -100,9 +105,6 @@ And here’s how you can do a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -111,9 +113,6 @@ And here’s how you can do a clean boot:
 
 If the crash continues to happen, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  In addition to drivers, we also recommend keeping your system up to date. The Windows 10 updates include regular security patches and sometimes a performance boost. If you don’t remember that last time you checked for updates, definitely do it now because it could easily save your day.
@@ -121,15 +120,18 @@ If the crash continues to happen, simply continue to the next fix.
 Here’s how:
 
 1. On your keyboard, press the **Windows logo key** and **I**  (the i key) at the same time to open the **Windows Settings**  app. Click **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Windows will automatically download and install the available updates. This might take some time depending on your Internet speed.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -148,18 +150,17 @@ Here’s how:
  If you’re using Windows 7 or 8, you can change the preferred GPU in **NVIDIA Control Panel or AMD Radeon™ Settings** .
 
 1. At the empty area of your desktop, right-click and select **Display settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Among Us launcher.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click the launcher in the list, then click**Options** . Select**Power saving** and click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu-2.jpg)
 
 Now you can launch Among Us and see if it crashes again.
@@ -174,8 +175,6 @@ Now you can launch Among Us and see if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +182,26 @@ Now you can launch Among Us and see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-free-10-best-live-streaming-apps-for-android-and-iphone/"><u>[New] In 2024, FREE 10 Best Live Streaming Apps for Android and iPhone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-select-selections-ideal-spots-to-download-snapalert-melodies-for-2024/"><u>[New] Select Selections Ideal Spots to Download SnapAlert Melodies for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-definitive-list-of-iphone-image-markers-apps/"><u>[New] The Definitive List of iPhone Image Markers Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-zoom-precision-fine-tuning-meeting-settings-for-success/"><u>[Updated] In 2024, Zoom Precision Fine-Tuning Meeting Settings for Success</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-comprehensive-guide-to-pre-fb-account-removal/"><u>A Comprehensive Guide to Pre-FB Account Removal</u></a></li>
+<li><a href="https://games-able.techidaily.com/considerations-beyond-your-steam-score/"><u>Considerations Beyond Your Steam Score</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-an-intuitive-taskbar-experience-on-windows-11-tablets/"><u>Creating an Intuitive Taskbar Experience on Windows 11 Tablets</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-make-steam-safe-and-child-friendly-with-family-view/"><u>How to Make Steam Safe and Child-Friendly With Family View</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-overcome-launcher-crash-on-windows-error-0x803f8001/"><u>How to Overcome Launcher Crash on Windows: Error 0X803F8001</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-successfully-set-up-a-wireless-keyboard-a-simple-walkthrough/"><u>How To Successfully Set Up A Wireless Keyboard: A Simple Walkthrough</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-6-plus-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 6 Plus without Security Questions?</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-accessories-for-a-next-level-ps5-setup/"><u>Innovative Accessories for a Next-Level PS5 Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-network-nebula-find-online-players/"><u>Navigating the Network Nebula: Find Online Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-gpu-founders-model-or-aib-edition-selection/"><u>Optimal GPU: Founder's Model or AIB Edition Selection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-preservation-101-digitalization-of-ancestral-prints/"><u>Photo Preservation 101 Digitalization of Ancestral Prints</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-tips-for-ps5-game-removal-success/"><u>Quick Tips for PS5 Game Removal Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-ultimate-rankings-leading-gopro-case-models/"><u>The Ultimate Rankings Leading GoPro Case Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-tips-for-extending-xbox-x-longevity/"><u>Top 5 Tips for Extending Xbox X Longevity</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-your-rights-for-xbox-digital-return/"><u>Understanding Your Rights for Xbox Digital Return</u></a></li>
+</ul></div>
 

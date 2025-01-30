@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Indie Game Discovery Experience
-date: 2025-01-18T17:06:45.026Z
-updated: 2025-01-22T16:07:28.095Z
+date: 2025-01-25T17:34:03.615Z
+updated: 2025-01-30T18:24:55.189Z
 tags:
   - games
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
  Many independent game developers display their fun, creative, and unique experiences on itch.io. However, the platform’s saturation can make it hard to find great titles. Try these methods I use to discover indie games worth playing on itch.io.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 Use Tags and Filters
@@ -59,12 +59,16 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Check Out Game Bundles
 
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Check the itch.io Blog
@@ -78,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
@@ -94,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
@@ -106,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 ![A game's page on itch.io showing more information so the rating can be seen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/more-information-game-itch.png)
 
  You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7 Check Out Community Recommendations
 
@@ -132,18 +132,20 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-when-should-you-share-your-insta-story/"><u>[New] 2024 Approved When Should You Share Your Insta Story?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211012167-9781803413334-conjuring-dirt/"><u>Conjuring Dirt | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-chatgpt-alternatives-how-safe-and-effective-are-jailbreaking-techniques/"><u>Demystifying ChatGPT Alternatives: How Safe & Effective Are Jailbreaking Techniques?</u></a></li>
-<li><a href="https://games-able.techidaily.com/fsr-3-by-amd-seeking-to-outshine-nvidias-latest-anti-aliasing-feat-dlss-35/"><u>FSR 3 by AMD: Seeking to Outshine NVIDIA's Latest Anti-Aliasing Feat, DLSS 3.5?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guia-completa-para-conversion-libre-online-de-archivo-ogm-mediante-movavi/"><u>Guía Completa Para Conversión Libre Online De Archivo OGM Mediante Movavi</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/share-across-platforms-instagram-meets-facebook-for-2024/"><u>Share Across Platforms Instagram Meets Facebook for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/small-form-factor-comparing-mini-and-full-desktop-pcs/"><u>Small Form Factor: Comparing Mini and Full Desktop Pcs</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-inherent-issues-gamers-as-the-new-developers/"><u>The Inherent Issues: Gamers as the New Developers</u></a></li>
-<li><a href="https://games-able.techidaily.com/transformative-tips-iphone-into-a-portable-gameroom/"><u>Transformative Tips: IPhone Into a Portable Gameroom</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/traversing-the-timeline-of-facebook-narratives-mobile-plus-laptop-for-2024/"><u>Traversing the Timeline of Facebook Narratives (Mobile + Laptop) for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-to-upgrading-macbook-pro-selecting-the-fastest-lag-free-ssds-on-the-market/"><u>Ultimate Guide to Upgrading MacBook Pro: Selecting the Fastest, Lag-Free SSDs on the Market</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-mechanisms-of-fairness-on-xbox-platform/"><u>Understanding Mechanisms of Fairness on Xbox Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-xbox-potential-control-pairing-made-easy/"><u>Unleash Xbox Potential: Control Pairing Made Easy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-moziscreen-plugins-for-firefox/"><u>[Updated] 2024 Approved MoziScreen Plugins for Firefox</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-streamlining-skype-calls-with-advanced-zoom-use/"><u>2024 Approved Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-commandment-picking-a-champion-between-chips/"><u>Console Commandment: Picking a Champion Between Chips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-proficient-content-for-short-form-video-best-edits-reviewed/"><u>Craft Proficient Content for Short-Form Video Best Edits Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/distinguishing-between-ev-bev-phev-and-fcev-the-comprehensive-guide/"><u>Distinguishing Between EV, BEV, PHEV & FCEV: The Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102858753-iphone-external-storage-troubles-fix-your-usb-mtp-drivers-now/"><u>IPhone External Storage Troubles? Fix Your USB MTP Drivers Now</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-top-websites-for-downloading-pc-games-for-2024/"><u>New The Ultimate List Top Websites for Downloading PC Games for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/synchronizing-files-in-steam-without-conflict/"><u>Synchronizing Files in Steam without Conflict</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-restart-your-playstation-4-console/"><u>The Essential Guide to Restart Your PlayStation 4 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gaming-tickets-google-play-game-betas-pc-winners/"><u>Top Gaming Tickets: Google Play Game Beta's PC Winners</u></a></li>
+<li><a href="https://games-able.techidaily.com/twin-strategies-for-top-notch-tetris-mobile-battles/"><u>Twin Strategies for Top-Notch Tetris Mobile Battles</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-the-essence-of-idle-status-in-online-chats/"><u>Uncovering the Essence of Idle Status in Online Chats</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-xbox-content-on-discord-servers/"><u>Unleashing Xbox Content on Discord Servers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unmissable-black-friday-offer-snag-a-40-discount-on-the-powerful-gigabyte-a5-k1-gaming-laptop-limited-time-deal/"><u>Unmissable Black Friday Offer! Snag a 40% Discount on the Powerful Gigabyte A5 K1 Gaming Laptop - Limited Time Deal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-economical-long-term-smart-light-strings-that-beat-the-market/"><u>ZDNet Reveals Economical, Long-Term Smart Light Strings That Beat the Market!</u></a></li>
 </ul></div>
 

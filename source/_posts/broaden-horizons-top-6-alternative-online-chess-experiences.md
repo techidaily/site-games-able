@@ -1,7 +1,7 @@
 ---
 title: "Broaden Horizons: Top 6 Alternative Online Chess Experiences"
-date: 2024-07-29T06:00:06.056Z
-updated: 2024-07-30T06:00:06.056Z
+date: 2025-01-28T16:13:53.276Z
+updated: 2025-01-30T17:00:12.711Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 
  Have you ever played three-player chess? Or how about a game of chess where you don't take turns but keep playing all the time? From chess variants that challenge you to discard classical strategies and think anew to playing chess with AI for fun or to get your FIDE rating, these are some of the quirkiest and most fun ways to play a different type of chess.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1. Noctie
 
 ![Play a game against the Noctie AI to find your FIDE Elo rating in chess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-noctie-ai.jpg)
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
  For reference, you can refer to the Wikipedia Elo rating range table. Above a rating of 1000, every 2000 points puts you in a different class of chess player.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2. Kung Fu Chess
 
 ![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
@@ -42,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
  Beginners should ideally start with the Kung Fu Chess solo campaign mode to play against a bot to learn and practice the new rules. Once you're confident, you can play against AI or a friend in both standard or lightning modes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3. Chesswith.Ai
 
 ![Chesswith.Ai uses ChatGPT to let you play against fictional characters who talk to you after each turn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-chesswithai.jpg)
@@ -55,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
  The free version of Chesswith.Ai gives you one credit when you verify your account, which allows you to make 40 moves—the average length of any game. You'll need to purchase additional credits to play further moves or games.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4. Halfchess
 
  Halfchess is made for those who don't have the time to play a full game of chess but want to get a quick game in. Instead of a blitz game though, Halfchess reduces the size of the board. While the standard board is 8x8 squares, Halfchess is set on a 4x8 board. It also reduces you to a maximum of 8 pieces.
@@ -67,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 
 **Download:** Half Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 5. Really Bad Chess
 
  Eight pawns on the second row. Two rooks, knights, and bishops from out to in on the first row, with the king and queen between them. That's the standard chessboard. Really Bad Chess says, "Nah!" You'll still start with 16 pieces on the first two rows, but any piece could be anywhere and even repeat—except the King, who starts in the usual spot. The other 15 are completely random.
@@ -80,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 
 **Download:** Really Bad Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6. Green Chess
 
 ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
@@ -94,22 +95,20 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
  Green Chess categorizes the variants by types, such as different initial positions, different board sizes, randomly changing pieces, modified rules, different shapes of boards, three-player chess, and four-player chess. Create a game, join from the lobby, or start learning by watching someone else's public game.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Play Chess Variants Offline
 
  If you like this variety of different ways to play chess, you can even do them offline with friends. Games that use the regular board and pieces but change the rules are the easiest to implement, like Anti-Chess. For some others, you can get creative.
 
  For example, play the Chance variant, where after you select which piece you want to move, it changes to a random other piece. The randomizer is easy online, but you can do it offline with a dice. Assign a number to King, Queen, Rook, Bishop, Knight, and Pawn, and roll the dice after you've picked the piece to move.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +117,24 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-bargain-4k-camera-deals/"><u>[New] Best Bargain 4K Camera Deals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-s2t-technology-in-professional-decks/"><u>[New] Leveraging S2T Technology in Professional Decks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cleanest-recording-app-ad-aware-edition/"><u>[Updated] 2024 Approved Cleanest Recording App - Ad-Aware Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-enhance-playstation-2-gaming-the-ultimate-guide-to-android-emulation-tools/"><u>[Updated] Enhance PlayStation 2 Gaming The Ultimate Guide to Android Emulation Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-upgrade-your-content-navigating-the-world-of-fb-video-full-scale/"><u>[Updated] In 2024, Upgrade Your Content Navigating the World of FB Video Full Scale</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/beyond-gaming-vr-uses-for-2024/"><u>Beyond Gaming VR Uses for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-steams-workshop-a-comprehensive-guide/"><u>Dive Into Steam's Workshop: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/edge-unleashed-the-ultimate-browsing-for-games/"><u>Edge Unleashed: The Ultimate Browsing for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-geniuses-gambit-which-control-dominates/"><u>Game Geniuses' Gambit: Which Control Dominates?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-your-computer-setup-the-essential-8-cooler-checks/"><u>Optimizing Your Computer Setup: The Essential 8 Cooler Checks</u></a></li>
+<li><a href="https://games-able.techidaily.com/saving-strategies-in-the-world-of-gaming-ranking-the-best-11-sites/"><u>Saving Strategies in the World of Gaming: Ranking the Best 11 Sites</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-high-costs-behind-virtual-reality-unpacking-four-key-factors/"><u>The High Costs Behind Virtual Reality: Unpacking Four Key Factors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-steam-data-secrets-gaming-hours-titles-and-achievements-overview/"><u>Uncovering Steam Data Secrets: Gaming Hours, Titles & Achievements Overview</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-game-masterpieces-from-google-play-beta-pc/"><u>Unveiling Game Masterpieces From Google Play Beta (PC)</u></a></li>
+</ul></div>
 

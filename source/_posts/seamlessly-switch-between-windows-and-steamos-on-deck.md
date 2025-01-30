@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Switch Between Windows & SteamOS on Deck
-date: 2025-01-17T17:19:25.704Z
-updated: 2025-01-23T01:16:27.515Z
+date: 2025-01-27T18:01:03.089Z
+updated: 2025-01-30T18:32:08.491Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 
 ![Clover dual boot manager on Steam Deck near controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/clover-dual-boot-manager-on-steam-deck-near-controllers.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jhet Borja / MakeUseOf
 
  Dual booting in its most basic definition is having two OSes on your device—in this case, your Steam Deck. You can also have more than two OSes on your Steam Deck, but you'd be multi-booting by then.
@@ -57,6 +49,10 @@ Jhet Borja / MakeUseOf
  And since Xbox Game Pass isn't available on SteamOS yet, Windows is the best way to take your Game Pass subscription on the go.
 
 ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -80,15 +76,7 @@ Jhet Borja/MUO
 
 ![SteamOS in boot manager again](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steamos-in-boot-manager-again.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you hold down the power button after the chime, you will most likely end up shutting your Steam Deck down again, so make sure to let go after the chime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up a Dual Boot Manager on Your Steam Deck
 
@@ -106,13 +94,13 @@ Jhet Borja/MUO
 
 ![Selecting Unbranded Boot in Device Lockdown Windows Feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-unbranded-boot-in-device-lockdown-windows-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, you’ll have to run a few commands in Command Prompt. Search "CMD" in Windows Search and right-click to select **Run as administrator**.
 
 ![CMD commands for Clover on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/cmd-commands-for-clover-on-steam-deck.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the Command Prompt, enter these commands one at a time:
 
@@ -124,7 +112,7 @@ Jhet Borja/MUO
 * bcdedit.exe -set {globalsettings} highestmode on
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Setting up Clover on SteamOS on Your Steam Deck
@@ -135,10 +123,6 @@ Jhet Borja/MUO
 
 ![Volume down and power button to enter Steam Deck boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/volume-down-and-power-button-to-enter-steam-deck-boot-manager.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jhet Borja/MUO
 
  Select SteamOS. Go to desktop mode by selecting Power after pressing the Steam button. Once you’re in desktop mode, make sure you have a sudo password set in SteamOS.
@@ -146,6 +130,10 @@ Jhet Borja/MUO
  Once your sudo password is set, search and open Konsole in the app launcher on the bottom left.
 
 ![First two Konsole commands for Clover Dual Boot Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/first-two-konsole-commands-for-clover-dual-boot-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By this point, we suggest having a browser open on your Steam Deck so that you can individually copy and paste these commands one by one on your Steam Deck.
 
@@ -184,7 +172,7 @@ Jhet Borja/MUO
 ![Boot from file Steam Deck BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/boot-from-file-steam-deck-bios.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’re in the BIOS, select **Boot from file > eps > efi > steamos > steamcl.efi**. This should boot you back into SteamOS.
@@ -201,9 +189,17 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
  This should put it back on the boot manager so that you don’t have to boot from the file anymore.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Setting a Sudo Password
 
 ![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To set your sudo password, open desktop mode and head to **Settings** in the app manager or on the task manager at the bottom of your screen.
 
@@ -215,9 +211,17 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
 ![Download Clover ZIP on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/download-clover-zip-on-github.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on **<> Code** then **Download Zip**.
 
 ![Run CloverWindows.bat as administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-cloverwindows-bat-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Extract the ZIP file into a folder and right-click **CloverWindows.bat** to **Run it as administrator**. It will tell you that Windows doesn’t recognize the app, just click **More Info > Run Anyway**.
 
@@ -227,23 +231,19 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
 ![Properties on CloverTask in Task Scheduler Library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/properties-on-clovertask-in-task-scheduler-library.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, you’ll have to open up Task Scheduler by searching it on Windows Search. In **Task Scheduler Library** search for **CloverTask**. Right-click on it and click **Properties**.
 
 ![Changed security options for CloverTask in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changed-security-options-for-clovertask-in-task-scheduler.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the properties, head to the general tab and select **Run whether user is logged on or not** and check the two boxes below it (see image), then click **OK**.
 
 ![Run on CloverTask in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-on-clovertask-in-task-scheduler.jpg)
 
  Finally, right-click CloverTask once again and click **Run**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. A SteamOS or Windows Update Broke Clover Dual Boot
 
@@ -276,20 +276,19 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pro-tips-acquiring-clip-art-without-cost/"><u>2024 Approved Pro Tips Acquiring Clip-Art Without Cost</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios/"><u>2024 Approved The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-turn-your-youtube-videos-into-lively-gifs-without-saving-files/"><u>2024 Approved Turn Your YouTube Videos Into Lively GIFs Without Saving Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-memories-best-apps-to-enhance-photos/"><u>Capture Memories Best Apps to Enhance Photos</u></a></li>
-<li><a href="https://games-able.techidaily.com/embark-on-gaming-adventures-with-google-play-games-on-desktop/"><u>Embark on Gaming Adventures with Google Play Games on Desktop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insight-on-the-netatmo-climate-gadget-the-perfect-blend-of-design-and-app-integration/"><u>Expert Insight on the Netatmo Climate Gadget: The Perfect Blend of Design and App Integration</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/igtvs-top-picks-for-next-weeks-feed/"><u>IGTV's Top Picks for Next Week's Feed</u></a></li>
-<li><a href="https://games-able.techidaily.com/interactive-excursions-gamer-friendly-traveling-hacks/"><u>Interactive Excursions: Gamer-Friendly Traveling Hacks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-lava-yuva-3-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Lava Yuva 3 Pro Phone? Unlock It Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/stream-management-101-how-to-disconnect-and-reconnect-users/"><u>Stream Management 101: How to Disconnect & Reconnect Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ming-success-starts-here-your-channel-gear-guide/"><u>Streaming Success Starts Here Your Channel Gear Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-hidden-dangers-of-using-ps5s-microphone/"><u>The Hidden Dangers of Using PS5's Microphone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-offline-puzzle-xboxs-invisible-player-quest/"><u>The Offline Puzzle: Xbox's Invisible Player Quest</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-gamers-should-consider-alternatives-to-mac-devices/"><u>Why Gamers Should Consider Alternatives to Mac Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-complete-list-of-affordable-1440p-monitors-ready-to-play/"><u>Your Complete List of Affordable 1440P Monitors, Ready to Play</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-navigating-stardew-the-complete-guide-to-ginger/"><u>[New] 2024 Approved Navigating Stardew The Complete Guide to Ginger</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-masterclass-guide-15-tripods-perfect-for-gopro-for-2024/"><u>[Updated] Masterclass Guide 15 Tripods Perfect for GoPro for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-jumpstart-your-photo-editing-essential-pixlr-wisdoms/"><u>2024 Approved Jumpstart Your Photo Editing Essential Pixlr Wisdoms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-revolutionizing-education-through-vr/"><u>2024 Approved Revolutionizing Education Through VR</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-computing-efficiency-are-you-bottlenecked-by-cpu/"><u>Assessing Computing Efficiency: Are You Bottlenecked by CPU?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-xr-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone XR</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mode-apples-answer-to-optimized-gaming-on-macos-sonoma/"><u>Game Mode: Apple's Answer to Optimized Gaming on macOS Sonoma</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-link-ps-gaming-devices-with-nintendo-switch/"><u>How to Link PS Gaming Devices with Nintendo Switch</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-best-picks-no-charging-high-definition-video-players-for-pcmacos/"><u>In 2024, Best Picks No-Charging, High Definition Video Players for PC/MacOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-creative-talent-with-these-7-game-based-skills/"><u>Master Your Creative Talent with These 7 Game-Based Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/on-the-move-gamers-checklist-nine-key-items/"><u>On-the-Move Gamer's Checklist: Nine Key Items</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-personalized-sound-experience-via-headsets/"><u>Secure Personalized Sound Experience via Headsets</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209881191-9781087804859-the-14-karmic-laws-of-love/"><u>The 14 Karmic Laws of Love | Free Book</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ultimate-guide-to-winx-mediatrans-top-ranked-app-for-seamless-ios-and-android-data-movement-between-devices-and-pc/"><u>Ultimate Guide to WinX MediaTrans: Top-Ranked App for Seamless iOS & Android Data Movement Between Devices and PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Xbox Lighting Setup 101: Customize Backlit Controls"
-date: 2025-01-16T02:07:30.906Z
-updated: 2025-01-22T18:31:29.427Z
+date: 2025-01-26T16:25:14.107Z
+updated: 2025-01-30T17:23:32.939Z
 tags:
   - games
 categories:
@@ -35,25 +35,25 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 3. Now, go to**General > TV & display options > Night mode** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![General settings on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tv-and-display-options-xbox-setting-1.jpeg)
 4. Under**Preferences** , you’d see the option for**Controller brightness** . Select this and press**A** to access the settings for controller brightness.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Xbox night mode settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-controller-brightness-setting-1.jpeg)
 5. Check the box next to**Customize brightness** to highlight the slider for brightness adjustment. Select the**Default brightness** option and slide the on-screen slider using the D-pad or the left thumbstick to increase or decrease brightness. You can either slide the slider all the way to the left to turn the light off or adjust brightness across seven different brightness levels according to your preference.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Xbox customize controller brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-customize-controller-brightness-setting-1.jpeg)
 6. Once you are satisfied with the brightness level, press**B** on your controller or press the**Xbox button** and select**Home** to exit the settings menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Alternatively, you can also access the**Controller brightness** settings by going to **Settings > Accessibility > Night mode > Controller brightness** .
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  Now, every time you turn on your Xbox controller, the light will automatically be adjusted to the set brightness. However, if you see a blinking light or no light on your controller, it's possible that your[Xbox controller is not working properly](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) , and you might need to fix it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Adjust the Brightness of Your Xbox Console Light
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  With this, you've successfully adjusted your Xbox controller and console light's brightness.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enjoy a More Personalized Experience With Your Xbox Controller
@@ -104,20 +104,21 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-expert-ff-video-extractor-kit-efficient-file-grabbing-firefox-compatibility/"><u>[New] 2024 Approved Expert FF Video Extractor Kit Efficient File Grabbing, Firefox Compatibility</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-comparing-magix-music-maker-and-studio-max/"><u>[Updated] 2024 Approved Comparing Magix Music Maker and Studio Max</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-roadmap-to-creating-successful-youtube-collaborations/"><u>[Updated] The Roadmap to Creating Successful YouTube Collaborations</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-celestial-canvas-unveiled-select-10-sites-for-high-quality-skies/"><u>2024 Approved Celestial Canvas Unveiled Select 10 Sites for High-Quality Skies</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-online-gaming-buddies-steam-way/"><u>Discovering Online Gaming Buddies: Steam Way</u></a></li>
-<li><a href="https://fox-links.techidaily.com/efficient-strategies-for-viewing-youtube-votes-and-reactions/"><u>Efficient Strategies for Viewing YouTube Votes and Reactions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-successfully-downloading-netflix-films-onto-your-laptop/"><u>Guide: Successfully Downloading Netflix Films Onto Your Laptop</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-enable-or-disable-the-game-overlay-in-discord/"><u>How to Enable or Disable the Game Overlay in Discord</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-class-on-resolving-common-graphics-card-problems/"><u>Master Class on Resolving Common Graphics Card Problems</u></a></li>
-<li><a href="https://games-able.techidaily.com/non-nvidia-gpus-for-geforce-rtx-4060-ti-fans/"><u>Non-NVIDIA GPUs for GeForce RTX 4060 Ti Fans</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-ai-directive-impact-on-gaming-experience/"><u>Steam's AI Directive: Impact on Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/subscribers-choice-psplus-vs-xbox-game-pass/"><u>Subscriber's Choice: PS+ Vs. Xbox Game Pass</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-tipping-could-hurt-developer-player-relationships/"><u>Why Tipping Could Hurt Developer-Player Relationships</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mindful-meandering-leisurely-pc-games/"><u>[New] 2024 Approved Mindful Meandering Leisurely PC Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-free-online-archive-copyright-free-gaming-harmonies/"><u>[New] In 2024, Free Online Archive Copyright-Free Gaming Harmonies</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-video-editor-comparing-inshots-features/"><u>[New] Top Video Editor Comparing InShot's Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-master-switch-pro-controller-gaming-in-steam/"><u>[Updated] In 2024, How to Master Switch Pro Controller Gaming in Steam</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-optimal-energy-solutions-for-gopro-hero5-certified-and-third-party/"><u>2024 Approved Optimal Energy Solutions for GoPro Hero5 Certified & Third-Party</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-your-consoles-visual-performance/"><u>Customize Your Console's Visual Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-costly-currency-of-virtual-reality-technology/"><u>Deciphering the Costly Currency of Virtual Reality Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/discerning-economic-implications-of-joining-ea-play/"><u>Discerning Economic Implications of Joining EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-competitive-edge-superior-sound-devices-reviewed/"><u>Enhancing Competitive Edge: Superior Sound Devices Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-distinctions-of-apples-airpods-series-4-new-features-compared-zdnet/"><u>Exploring the Distinctions of Apple's AirPods Series 4 – New Features Compared | ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000252277-fix-overwatch-2s-startup-problems-in-202n-top-7-solutions-you-need-to-try/"><u>Fix Overwatch 2'S Startup Problems in 202N - Top 7 Solutions You Need to Try</u></a></li>
+<li><a href="https://games-able.techidaily.com/synchronizing-your-ps5-subscription-portfolio/"><u>Synchronizing Your PS5 Subscription Portfolio</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-rtx-supers-battle-4070-super-versus-titans-and-4080-super/"><u>The RTX Supers' Battle: 4070 Super Versus Titans & 4080 Super</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-idle-status-in-discord-a-true-glimpse/"><u>Understanding 'Idle' Status in Discord: A True Glimpse?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/weekly-must-watch-excellence-in-igtv-for-2024/"><u>Weekly Must-Watch Excellence in IGTV for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-compatibility-how-to-get-your-usb-earbud-working/"><u>Win10 Compatibility: How to Get Your USB Earbud Working</u></a></li>
 </ul></div>
 

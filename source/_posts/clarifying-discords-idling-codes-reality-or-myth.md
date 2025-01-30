@@ -1,7 +1,7 @@
 ---
 title: "Clarifying Discord’s Idling Codes: Reality or Myth?"
-date: 2024-07-29T06:00:56.461Z
-updated: 2024-07-30T06:00:56.461Z
+date: 2025-01-25T17:49:12.953Z
+updated: 2025-01-30T17:40:29.570Z
 tags:
   - games
 categories:
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 * [Is the Discord Idle Status Always Accurate?](#is-the-discord-idle-status-always-accurate)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Being idle on Discord can mean that the person has been inactive on their computer for 10 minutes, they have minimized the smartphone app, or they have manually set their status to idle.
@@ -32,13 +33,11 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
  When you see that someone is "idle" on Discord, what does it mean? Are they available for a chat or are they away from their desk? Here's everything you need to know about the idle status on Discord and whether it's accurate.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Idle Mean on Discord?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![discord online and idle statuses in friends list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/discord-online-and-idle-statuses-in-friends-list.png)
 
  Being idle on Discord means one of three things: the person has not interacted with their computer for 10 minutes, the person has minimized the app on their smartphone, or they have manually selected the idle status.
@@ -56,17 +55,18 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
  If you manually select the idle status, you will remain idle regardless of whether you message someone or use the app in other ways. In fact, you can even be actively talking or streaming in a voice channel and the app will continue to show you as idle.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Switch Your Discord Status to Idle
 
  There are a variety of ways to[change your Discord online status](https://www.makeuseof.com/how-to-change-your-discord-online-status/) to reflect your availability on the app.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![set idle status on discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-idle-status-on-discord.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are using the desktop app, click on your profile icon in the bottom left corner, hover over the**Online** tab, and select**Idle** . There is also the option to[set a custom status on Discord](https://www.makeuseof.com/set-custom-discord-status/) .
 
@@ -75,8 +75,9 @@ Close
  If you're using the mobile app, select the**You** tab at the bottom of the app. Then tap on your**profile picture** and select**Idle** . Discord will switch your status immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is the Discord Idle Status Always Accurate?
 
  Since you can manually set your status to Idle on Discord, and this status doesn't go away once you return to your desk, it's not always accurate. Someone could be online and still marked as idle.
@@ -87,14 +88,11 @@ Close
 
  If someone is marked as idle on Discord, you might not get a response right away—it all depends on whether they're really away from their device or if they have marked the status manually.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +101,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-essential-vr-games-for-oculus-users-of-all-ages/"><u>[New] 2024 Approved Essential VR Games for Oculus Users of All Ages</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-fun-car-games-for-kids/"><u>[New] Best Fun Car Games for Kids</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-unseen-enthusiasts-blueprint-for-instagram-live-viewership/"><u>[Updated] 2024 Approved The Unseen Enthusiast’s Blueprint for Instagram Live Viewership</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-mute-non-stop-fb-video-ad-content-for-2024/"><u>[Updated] How to Mute Non-Stop FB Video Ad Content for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-agile-approaches-storing-ppt-speeches/"><u>[Updated] In 2024, Agile Approaches Storing PPT Speeches</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-maximize-content-experience-with-these-top-6-youtube-shorts-downloader-apps/"><u>2024 Approved Maximize Content Experience with These Top 6 YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/astonishing-critique-and-substitutes-guide/"><u>Astonishing Critique & Substitutes Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-impact-of-hrtf-on-valorant-sensory-engagement/"><u>Dissecting the Impact of HRTF on Valorant Sensory Engagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-multi-port-hubs-for-next-gen-games/"><u>Elite Multi-Port Hubs for Next-Gen Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/global-gamers-guide-timezone-tweaks-on-xbox-series-xs/"><u>Global Gamers Guide: Timezone Tweaks on Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/lemokey-l3-unveiled-gaming-board-redefined-by-keychron/"><u>Lemokey L3 Unveiled: Gaming Board Redefined by Keychron</u></a></li>
+<li><a href="https://games-able.techidaily.com/pitting-the-emulators-pi-edition-batocera-vs-retropie/"><u>Pitting the Emulators: Pi Edition – Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-mouse-comforts-for-playing/"><u>Prime Mouse Comforts for Playing</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-tech-buying-learning-from-past-oled-choices/"><u>Smart Tech Buying: Learning From Past OLED Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-swapping-switch-joysticks/"><u>Step-by-Step: Swapping Switch Joysticks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-7-exceptional-notetaking-apps-for-your-apple-tablet/"><u>The Ultimate Guide to 7 Exceptional Notetaking Apps for Your Apple Tablet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-mp4-record-and-assess-guide/"><u>Ultimate MP4 Record & Assess Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-the-full-potential-of-your-chatbot-masterful-prompt-design/"><u>Unleash The Full Potential Of Your ChatBot: Masterful Prompt Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-meta-mean-in-gaming-and-should-you-obey-it/"><u>What Does Meta Mean in Gaming? And Should You Obey It?</u></a></li>
+</ul></div>
 
