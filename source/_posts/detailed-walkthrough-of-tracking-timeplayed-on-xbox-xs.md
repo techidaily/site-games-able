@@ -1,7 +1,7 @@
 ---
 title: Detailed Walkthrough of Tracking Timeplayed on Xbox X/S
-date: 2025-01-24T17:51:54.318Z
-updated: 2025-01-30T16:25:10.804Z
+date: 2025-02-08T18:12:32.599Z
+updated: 2025-02-11T23:28:07.625Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Need to Know About the Time Played Stat on Xbox
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 * While the**Time played** stat is always available through your Xbox's settings, not every game tracks this stat. If a game doesn't record how long you have played, the stat will simply read**0d 0h 0m** .
 
 ![A screenshot of the Time Played statistic on Xbox Series X showcasing no time played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/001-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
 
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the game you want to see the**Time played** stat for.
@@ -64,13 +68,13 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 ![A screenshot of the gaming statistics screen for Mass Effect Legendary Edition on Xbox Series X|S](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the**Stats** screen, your**Time played** is displayed as the first metric. And, if you want to compare your**Time played** for the selected game against your friends, you can select**Time played** for a full comparison leaderboard.
 
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
 
@@ -86,14 +90,10 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 ![A screenshot of the game statistics for Mass Effect Legendary Edition taken from the Xbox app for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
@@ -117,19 +117,24 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevate-your-iphone-photography-with-advanced-hdr-methods/"><u>[Updated] 2024 Approved Elevate Your iPhone Photography with Advanced HDR Methods</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-ascend-youtube-rankings-through-optimal-dating-for-2024/"><u>[Updated] Ascend YouTube Rankings Through Optimal Dating for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-into-timecode-manipulation-in-macos-srt-files/"><u>[Updated] Expert Insights Into Timecode Manipulation in macOS SRT Files</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-cant-see-cursor-only-sony-a6400-glitch/"><u>[Updated] In 2024, Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-legitimate-techniques-for-video-popularity-surge-for-2024/"><u>[Updated] Legitimate Techniques for Video Popularity Surge for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/browsing-for-fun-the-9-intriguing-advantages-and-disadvantages-of-e-games/"><u>Browsing for Fun: The 9 Intriguing Advantages & Disadvantages of E-Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehensive-bg3-gear-checklist-and-more/"><u>Comprehensive BG3 Gear Checklist & More</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-xr-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone XR Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-key-factors-for-a-smart-ps5-buy/"><u>Evaluating Key Factors for a Smart PS5 Buy</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nubia-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nubia Devices</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/most-chosen-overseas-languages-for-education/"><u>Most Chosen Overseas Languages for Education</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-obstacles-for-opening-origins/"><u>Overcoming Obstacles for Opening Origins</u></a></li>
-<li><a href="https://games-able.techidaily.com/re-establishing-win11-steam-connections/"><u>Re-Establishing Win11 Steam Connections</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-playstation-5-with-best-add-ons/"><u>Transform Your PlayStation 5 With Best Add-Ons</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-your-influence-amidst-changing-social-media-ecosystem/"><u>[New] 2024 Approved Mastering Your Influence Amidst Changing Social Media Ecosystem</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-access-to-hp-477-series-printing-and-scanning-software-downloads/"><u>Easy Access to HP 477 Series Printing & Scanning Software Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-twitch-essentials-for-effective-stream-management/"><u>Embracing Twitch: Essentials for Effective Stream Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-gadget-alert-keeping-your-deck-cool-and-comfortable/"><u>Hot Gadget Alert: Keeping Your Deck Cool & Comfortable</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y27s-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y27s to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini Passcode without Computer?</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-security-email-legitimate-at-facebookmailcom-ensuring-fb-safety/"><u>Is Security Email Legitimate at facebookmail.com, Ensuring FB Safety?</u></a></li>
+<li><a href="https://games-able.techidaily.com/modern-gaming-systems-old-school-appeal/"><u>Modern Gaming Systems, Old-School Appeal</u></a></li>
+<li><a href="https://games-able.techidaily.com/monthly-access-subscription-showdown-psplus-xbgplus/"><u>Monthly Access Subscription Showdown: PS+ XBG+</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-get-lumafusion-for-mac-explore-the-best-video-editing-alternatives-for-2024/"><u>New Get Lumafusion for Mac Explore the Best Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/procedural-guide-constructing-timer-circuits-for-broadcasts/"><u>Procedural Guide Constructing Timer Circuits for Broadcasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-support-leading-5-cognitive-bot-apps/"><u>Revolutionizing Support: Leading 5 Cognitive Bot Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-cure-missing-gems-on-epics-library-platform/"><u>Steps to Cure Missing Gems on Epic’s Library Platform</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nokia-c210-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nokia C210 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-in-demand-discord-communities/"><u>The Ultimate List of In-Demand Discord Communities</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-and-tricks-for-ultimate-blue-ray-performance-sx/"><u>Tips & Tricks for Ultimate Blue-Ray Performance SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-procedural-dynamism-in-games/"><u>Understanding Procedural Dynamism in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-biggest-draws-in-mobile-gameplay/"><u>Unveiling the Biggest Draws in Mobile Gameplay</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AI-Powered Narrative Building for Games
-date: 2024-08-08T09:05:51.839Z
-updated: 2024-08-09T09:05:51.839Z
+date: 2025-02-09T20:11:55.990Z
+updated: 2025-02-11T18:12:36.107Z
 tags:
   - games
 categories:
@@ -18,14 +18,8 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 
  You can also use ChatGPT to automate repetitive tasks like writing barks and generating gameplay instructions. Here are some of the best ways you can use ChatGPT to make your video game scripts more engaging, along with prompt inspirations to help you get started.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Simplify the Dialogue
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![simplifying dialogue using chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/simplifying-dialogue.jpeg)
 
 > **Prompt inspiration** : "\[Dialogue\] Simplify this dialogue and make it more conversational for a video game.”
@@ -36,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 
 ## 2\. Give the NPCs Some Character
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![chatgpt roleplaying as npc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-roleplay.jpeg)
 
 > **Prompt inspiration** : "Role-play as a \[NPC character name and world setting\]. \[Provide some character history and background.\]"
@@ -48,14 +39,16 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
  You can then ask questions about the character, and the chatbot will role-play as the NPC to give you detailed answers. You can even [use ChatGPT for fictional worldbuilding](https://www.makeuseof.com/chatgpt-fictional-worldbuilding-how-to/) and create new characters from scratch.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Convey Character by Adding Emotion
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![adding emotion using chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-emotion.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Add the emotion of \[Insert emotion\] to these video game dialogues made by \[Insert character information and scenario\]: \[Insert dialogues\]."
 
@@ -65,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 
 > **Prompt inspiration** : "What kind of emotion should \[Insert character information\] during \[Insert scenario\]?"
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Generate Codex Entries
 
 ![chatgpt codex entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-codex.jpeg)
@@ -78,11 +68,12 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 
  You can ask the language model to generate all kinds of codex entries, such as item descriptions, lore tablets, character backgrounds, and even gameplay instructions. You can also instruct ChatGPT to create connections between different codex entries to make your game lore more interconnected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Brainstorm Side Quest Ideas
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![chatgpt side quest ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-side-quest.jpeg)
 
 > **Prompt inspiration** : "Give me side quest ideas for a \[Insert game type\] game set in a world with \[Insert game setting and lore\]. Be sure to include a reference to a video game where the side quest idea has been used."
@@ -95,11 +86,19 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 
 ![chatgpt generating barks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-barks.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 > **Prompt inspiration** : "Give me a list of barks for a \[Insert character type\] commenting on the player's \[Insert situation for which you need the bark\]."
 
  Barks in video games can often get repetitive and boring for players to hear again and again. And they're even more monotonous to pen down. But you can instantly set your video game apart from other titles by generating interesting barks that provide valuable information to the player.
 
  Thankfully, ChatGPT can help with this. All you need to do is provide the AI with the situation in which the bark is to be used and which character is going to say it. Then, the AI can generate a long list of barks for you to take inspiration from.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Video Game Scripts More Engaging With ChatGPT
 
@@ -107,14 +106,11 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 
  In terms of character development, ChatGPT can help you add emotions to a character and also give your NPCs a more fleshed-out character. The possibilities are virtually limitless. Plus, you can train ChatGPT to write video game scripts just like you. This will ensure your personal style stays in the script.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,6 +119,18 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-unraveling-post-upload-functionality-in-youtube-videos/"><u>[New] Unraveling Post-Upload Functionality in YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-ignoring-home-based-educational-media/"><u>[Updated] Techniques for Ignoring Home-Based Educational Media</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-of-the-best-trivia-channels/"><u>Best of the Best Trivia Channels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/burst-to-blast-android-apps-transform-slow-motion-for-2024/"><u>Burst to Blast Android Apps Transform Slow Motion for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/considering-an-immediate-switch-from-gtx-to-the-next-gen-rtx/"><u>Considering an Immediate Switch: From GTX to the Next Gen RTX?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/iew-media-collaboration-guidebook-for-2024/"><u>FullView Media Collaboration Guidebook for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-ready-for-revolutionary-hardware-at-the-biggest-tech-event/"><u>Get Ready for Revolutionary Hardware at the Biggest Tech Event</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-download-fonts-on-iphone/"><u>How to Download Fonts on iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-purging-partitions-on-your-win-os/"><u>Mastering the Art of Purging Partitions on Your Win OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-vs-edge-which-is-superior-in-the-online-gaming-arena/"><u>Opera GX vs Edge: Which Is Superior in the Online Gaming Arena?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-skeptical-approach-to-fake-playtime-teasers/"><u>The Skeptical Approach to Fake Playtime Teasers</u></a></li>
+</ul></div>
 

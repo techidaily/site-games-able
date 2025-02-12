@@ -1,7 +1,7 @@
 ---
 title: "Unearthing Indie Wonders: My Top Game Selections"
-date: 2025-01-29T17:42:57.570Z
-updated: 2025-01-30T17:11:25.922Z
+date: 2025-02-04T22:32:28.242Z
+updated: 2025-02-11T19:01:44.152Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Last Word
 
 [Last Word](https://store.steampowered.com/app/355530/Last%5FWord/) is an RPG where you do battle not with swords or staves, but with the power of words. You’ve been summoned to a mysterious mansion alongside a cadre of colorful characters (not unlike Clue), where you must investigate matters of international intrigue.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  To progress in the game, you build up conversational capital and challenge the other characters to various debates, basically RPG battles where “fight” and “magic” have been replaced by “pow” and “tact” to represent your conversational prowess.
 
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 Untitled Goose Game
 
@@ -57,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 A Short Hike
 
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Adam Robinson-Yu](https://ashorthike.com/)
 
@@ -74,12 +66,16 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Storyteller
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  What’s great about itch.io is not just that it’s sort of a free-for-all for indie games, but many of those games are playable in your browser, meaning you don’t have to sign up for an account or download any files, so it’s easy enough to dip in and out of new titles.
 
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
@@ -120,24 +120,17 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/xploring-youtubes-functionality-following-uploaded-videos/"><u>[New] Exploring YouTube’s Functionality Following Uploaded Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-dive-into-the-world-of-time-lagged-footage-with-these-android-tips/"><u>[Updated] 2024 Approved Dive Into the World of Time-Lagged Footage with These Android Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-spark-inspiration-free-soundtracks-to-enhance-projects/"><u>[Updated] 2024 Approved Spark Inspiration - Free Soundtracks to Enhance Projects</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-epochs-epic-journey-best-free-mmo-games-roundup-for-2024/"><u>[Updated] Epoch's Epic Journey Best Free MMO Games Roundup for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-exclusive-twitter-gif-compiler-for-avid-scribes/"><u>[Updated] Exclusive Twitter GIF Compiler for Avid Scribes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-convert-youtube-sounds-to-wider-reach-mp3-for-mac-users/"><u>[Updated] In 2024, Convert YouTube Sounds to Wider Reach MP3 for Mac Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-transform-your-tone-and-texture-with-easy-snapchat-voice-tweaks/"><u>[Updated] In 2024, Transform Your Tone and Texture with Easy Snapchat Voice Tweaks</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-the-economics-of-ea-play/"><u>Dissecting the Economics of EA Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-the-game-the-true-value-of-tech/"><u>Elevating the Game: The True Value of Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-group-of-16-couch-game-pairings-for-xbox-series/"><u>Elite Group of 16 Couch Game Pairings for XBox Series</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-erratic-scroll-action-in-mice/"><u>Fixing Erratic Scroll Action in Mice</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmonize-tech-connect-your-xbox-one-remote/"><u>Harmonize Tech: Connect Your Xbox One Remote</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-15-plus-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 15 Plus to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-with-enhanced-exposure-controls/"><u>In 2024, Pushing Boundaries with Enhanced Exposure Controls</u></a></li>
-<li><a href="https://games-able.techidaily.com/limited-edition-marvels-spiderman-2-how-to-purchase-early/"><u>Limited-Edition Marvel's SpiderMan 2: How to Purchase Early</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-steam-purchase-power-financing-strategies/"><u>Maximizing Steam Purchase Power: Financing Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-adventure-playing-2p-minecraft-on-switch/"><u>Navigate the Adventure: Playing 2P Minecraft on Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-escape-artists-guide-to-gamers/"><u>The Escape Artist's Guide to Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-guide-unlocking-the-potential-of-your-electronics/"><u>Tom's Gadget Guide: Unlocking the Potential of Your Electronics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-fusing-melody-with-moments-music-and-voiceovers-in-reels/"><u>[New] 2024 Approved Fusing Melody with Moments Music & Voiceovers in Reels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-converting-speech-to-text-with-google-docs/"><u>[New] Mastering the Art of Converting Speech to Text with Google Docs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-10-apps-to-boost-audio-velocity/"><u>[Updated] 2024 Approved Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-all-about-dji-inspire-1-in-depth-analysis-for-2024/"><u>[Updated] All About DJI Inspire 1 in Depth Analysis for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosted-performance-fixing-fps-and-optimizing-pc-gaming-in-valorant/"><u>Boosted Performance: Fixing FPS and Optimizing PC Gaming in Valorant</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-controller-and-device-a-beginners-guide-to-android-setup/"><u>Bridging Controller and Device: A Beginner's Guide to Android Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-risks-no-mic-feature-in-ps5/"><u>Bypassing Risks: No Mic Feature in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-now-available-dive-into-these-6-games/"><u>ChatGPT Now Available - Dive Into These 6 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/clear-cache-to-run-facebook-games-smoothly-in-chrome/"><u>Clear Cache to Run Facebook Games Smoothly in Chrome</u></a></li>
+<li><a href="https://extra-information.techidaily.com/does-pickup-elevate-your-editing-game-on-android-heres-what-you-need-to-know/"><u>Does PickUp Elevate Your Editing Game on Android? Here’s What You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-poco-c51-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Poco C51</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-playback-issues-solving-windows-11-and-7-sound-stuttering-and-distortion-challenges/"><u>Overcome Playback Issues: Solving Windows 11 and 7 Sound Stuttering and Distortion Challenges</u></a></li>
 </ul></div>
 

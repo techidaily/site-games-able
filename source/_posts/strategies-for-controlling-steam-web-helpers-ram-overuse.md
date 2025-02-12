@@ -1,7 +1,7 @@
 ---
 title: Strategies for Controlling Steam Web Helper's RAM Overuse
-date: 2025-01-23T18:18:52.628Z
-updated: 2025-01-30T18:05:13.946Z
+date: 2025-02-09T23:52:58.536Z
+updated: 2025-02-11T19:54:45.147Z
 tags:
   - games
 categories:
@@ -27,33 +27,33 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Steam Use So Much Memory?
 
 ![Steam processes running in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_processes_running_in_task_manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Steam is made up of several components. Its most popular components are its download manager and games list, but it has several other features, and all of these other features run off the Steam Client WebHelper. This is essentially an internet browser that Steam manages. Every store page, friends list, and chat window creates a new Steam Client WebHelper instance.
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Disable Hardware-Accelerated Rendering
 
@@ -69,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 4. Restart Steam after making this change.
 
  This will ease the burden that Steam's web pages have on your available memory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Low-Performance Mode
 
@@ -93,13 +97,13 @@ steam://open/minigameslist
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Create a Custom Batch File for Minimal Steam
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
@@ -115,10 +119,6 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
  Ensure that Steam is closed, and then open this .bat file. Steam should launch, looking very similar to the Steam Mini Games List from earlier. This version of Steam is extremely bare-bones. You will be unable to view friends, visit the store, organize screenshots, or check out the news, but you'll be able to run Steam on essentially anything this way.
 
  Steam may crash in certain circumstances using this configuration. If this is a problem, remove the command**\-cef-disable-breakpad** from the batch file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Go Bare Bones With Steam
 
@@ -139,24 +139,24 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elevating-presentations-with-adobe-captivate-skills/"><u>[New] 2024 Approved Elevating Presentations with Adobe Captivate Skills</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlining-the-recording-process-in-virtual-gatherings/"><u>[Updated] In 2024, Streamlining the Recording Process in Virtual Gatherings</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-navigate-the-past-reversing-media-on-iphones-for-2024/"><u>[Updated] Navigate the Past Reversing Media on iPhones for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/1725289268946-ai60fps/"><u>AI增强视频编码器：达成流畅60fps及更高画面转换效果</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-down-on-decorative-images-in-win-search/"><u>Cutting Down on Decorative Images in Win Search</u></a></li>
-<li><a href="https://games-able.techidaily.com/direct-xbox-gameplay-to-discord-users-with-ease/"><u>Direct Xbox Gameplay to Discord Users with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-straightening-gridlines-on-monitors/"><u>Effective Solutions for Straightening Gridlines on Monitors</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-access-to-nostalgia-classic-games-new-tech-pc/"><u>Effortless Access to Nostalgia: Classic Games, New Tech (PC)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elevate-visual-storytelling-with-carvers-frame-innovations/"><u>Elevate Visual Storytelling with Carver’s Frame Innovations</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exciting-educational-methods-for-spanish-study/"><u>Exciting Educational Methods for Spanish Study</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-solve-noise-in-xbox-one-audio-signal/"><u>How to Solve Noise in Xbox One Audio Signal</u></a></li>
-<li><a href="https://games-able.techidaily.com/java-gaming-breakdown-what-we-loved-most/"><u>Java Gaming Breakdown: What We Loved Most</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719161846220-joy-con-plus-the-ultimate-guide-for-controller-extension-92-chars-this-title-slightly-exceeds-but-is-relevant-enough-to-be-considered-within-the-limit/"><u>Joy-Con Plus: The Ultimate Guide for Controller Extension (92 Chars) – This Title Slightly Exceeds but Is Relevant Enough to Be Considered Within the Limit</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/pulsar-pioneer-top-brand-revelations-in-pcs/"><u>Pulsar Pioneer: Top Brand Revelations in PCs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-cycling-sims-worth-your-time-in-2024/"><u>Top Cycling Sims Worth Your Time, In 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-titles-need-top-tech-for-optimal-play/"><u>Top Titles Need Top Tech for Optimal Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-creativity-5-techniques-for-upgrading-the-xbox-game-bar-interface/"><u>Unleashing Creativity: 5 Techniques for Upgrading the Xbox Game Bar Interface</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-gamify-your-evening-routine-try-netflix-games/"><u>Why Gamify Your Evening Routine - Try Netflix Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-optimizing-your-mac-for-big-sur-release/"><u>[New] In 2024, Optimizing Your Mac for Big Sur Release</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-video-game-top-10-keyword-strategy-resources-for-2024/"><u>[Updated] Elevate Your Video Game Top 10 Keyword Strategy Resources for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-vids-to-mp4-downloader-efficient-and-effective-for-2024/"><u>[Updated] FB Vids to MP4 Downloader – Efficient & Effective for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bass-bridges-and-high-beats-understanding-sound-mixing/"><u>Bass Bridges & High Beats Understanding Sound Mixing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enchant-your-audience-with-these-20-marketing-phrases/"><u>Enchant Your Audience with These 20 Marketing Phrases</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-g34-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocn-39g1r-refresh-quick-low-cost/"><u>InnoCN 39G1R - Refresh Quick, Low Cost</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-nvidias-latest-gaming-cloud-a-game-changer/"><u>Is Nvidia’s Latest Gaming Cloud a Game Changer?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-fps-gameplay-selecting-the-right-mouse-sensitivity/"><u>Navigating FPS Gameplay: Selecting the Right Mouse Sensitivity</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-excel-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for Excel</u></a></li>
+<li><a href="https://games-able.techidaily.com/portable-playing-more-than-just-fun/"><u>Portable Playing: More Than Just Fun?</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-discord-a-step-by-step-guide-for-mac-users/"><u>Setting Up Discord: A Step-by-Step Guide for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/sketch-to-score-rhythm-games-and-graphic-devices/"><u>Sketch to Score: Rhythm Games & Graphic Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-for-troubleshooting-display-driver-not-launching-in-windows-11/"><u>Solutions for Troubleshooting Display Driver Not Launching in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategy-for-saving-steam-screen-captures/"><u>Strategy for Saving Steam Screen Captures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-checklist-for-capturing-live-conversations-for-2024/"><u>The Ultimate Checklist for Capturing Live Conversations for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gamers-guide-to-30-top-ps3-games-for-pc-emulation/"><u>The Ultimate Gamer's Guide to 30 Top PS3 Games for PC Emulation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-haul-video-guide-from-camera-to-final-cut-for-2024/"><u>The Ultimate Haul Video Guide From Camera to Final Cut for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-se-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone SE Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
 

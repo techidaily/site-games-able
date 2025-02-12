@@ -1,7 +1,7 @@
 ---
 title: "Beyond TV: Uncover Fallout's Video Games Worldwide"
-date: 2024-07-29T05:56:05.115Z
-updated: 2024-07-30T05:56:05.115Z
+date: 2025-02-08T18:11:25.889Z
+updated: 2025-02-11T23:40:59.912Z
 tags:
   - games
 categories:
@@ -15,8 +15,9 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 ## Beyond TV: Uncover Fallout's Video Games Worldwide
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Fallout: New Vegas](#fallout-new-vegas)
@@ -31,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
  The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fallout: New Vegas
 
  It was always going to be easy to start this list: Fallout: New Vegas isn't just a great Fallout game; it's also one of the best RPGs of all time, and that's saying something in such a densely packed genre.
@@ -44,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fallout 3
 
  Fallout 3 was the first Fallout title I played and was the first to move from its original isometric design into the fully rendered, open world we know and love today. Like Fallout: NV, Fallout 3 is a classic, though the writing isn't as tight in places.
@@ -57,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fallout 4
 
  Fallout 4 is the last release in the "numbered" game series ([Fallout 1, 2, 3, & 4](https://www.makeuseof.com/fallout-series-explained/) —the multiplayer game, Fallout 76, doesn't count), launched in 2015\. It received great reviews when it launched, though it simplified many of the in-depth role-playing elements that made previous Fallout titles such unique, personal experiences. However, it did introduce detailed base building and crafting, which were both great new elements to get to grips with.
@@ -70,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fallout
 
  Fallout is a great game, and it's the one that started it all. Launched in 1997, Fallout 1 was a remarkable feat of world-building for the time, and the game's scale was breathtaking. It's a little difficult to go back to now as it lacks so many of the mod-cons of modern gaming, but if you're delving into Fallout games, it's absolutely worth a play. It's not considered one of the best RPGs ever for no reason!
@@ -84,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
  Better still, each modern-era Fallout game has extensive modding support and extremely passionate communities. Once you get through with the game, you can install a bunch of mods to change the game, and there are even[enormous total conversion mods](https://gamerant.com/x-best-fallout-new-vegas-total-conversion-mods/) that breathe new life into each title.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +102,24 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-iphone-audio-augmentation-3-inexpensive-ways-for-clips-with-a-soundtrack-for-2024/"><u>[New] IPhone Audio Augmentation 3 Inexpensive Ways for Clips with a Soundtrack for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-profit-strategies-for-vimeo-content-creators/"><u>[New] Mastering Profit Strategies for Vimeo Content Creators</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-ethical-approaches-to-achieve-one-million-youtube-subscribers-for-2024/"><u>[Updated] Ethical Approaches to Achieve One Million YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfect-pairing-best-6-video-capture-tools-for-macos-for-2024/"><u>[Updated] Perfect Pairing Best 6 Video Capture Tools for MacOS for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-power-play-enhancing-your-pages-popularity-ranking-for-2024/"><u>[Updated] The Power Play Enhancing Your Page's Popularity Ranking for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-vanguard-visual-transformers-lenscrafters-art/"><u>[Updated] Vanguard Visual Transformers LensCrafters' Art</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-approach-to-dualsense-update-process/"><u>A Comprehensive Approach to DualSense Update Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/activate-meta-quest-3s-advanced-ai-features-before-apple-watch-series-upgrades-expert-tips-and-tricks/"><u>Activate Meta Quest 3'S Advanced AI Features Before Apple Watch Series Upgrades: Expert Tips and Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-aesthetics-in-computing-devices/"><u>Affordable Aesthetics in Computing Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-heat-decks-must-have-accessories/"><u>Beat the Heat: Deck's Must-Have Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-2-years-in-high-definition-with-an-oled-monitor/"><u>My 2 Years in High Definition with an OLED Monitor!</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-ps5-and-slimmer-tech-differences-discussed/"><u>Old PS5 & Slimmer Tech: Differences Discussed</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-purchase-how-to-evade-monitor-shopping-fails/"><u>Perfect Purchase: How to Evade Monitor Shopping Fails</u></a></li>
+<li><a href="https://games-able.techidaily.com/recognizing-and-responding-to-gaming-abuse-series-sx/"><u>Recognizing and Responding to Gaming Abuse (Series S/X)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-an-ipad-9gen-for-a-steal-just-250-post-apple-unveil-expert-advice-on-tech-deals-with-zdnet/"><u>Score an iPad (9Gen) for a Steal: Just $250 Post-Apple Unveil | Expert Advice on Tech Deals with ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essence-of-metagame-strategy-understanding-and-following/"><u>The Essence of Metagame Strategy - Understanding & Following</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-essential-guide-to-radiant-android-videos-for-2024/"><u>The Essential Guide to Radiant Android Videos for 2024</u></a></li>
+</ul></div>
 

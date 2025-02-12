@@ -1,7 +1,7 @@
 ---
 title: The Ultimate EA Play Game Guide for PS5
-date: 2025-01-23T17:07:03.985Z
-updated: 2025-01-30T17:18:05.789Z
+date: 2025-02-08T00:35:59.894Z
+updated: 2025-02-11T16:47:34.029Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. It Takes Two
 
  It Takes Two is an award-winning thrilling local cooperative platformer game by Hazelight Studios. The story follows Cody and May, a husband and wife at the cusp of a divorce, who both get transformed into dolls by a sentient relationship book called Dr. Hakim.
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  Two players must get the tiny characters from the garden shed to their house. They must avoid, maneuver, and overcome obstacles together as they journey to save their marriage. Many reviewers have described this game as genre-bending, and it’s one of the most refreshing games of its decade.
 
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. FIFA 23
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  One of FIFA’s greatest appeals is its easy couch co-op system. It’s one of those games you should just have on your PS5 so you and your pals can have fun together. We placed it on this list as a good solution for multiplayer action for all soccer lovers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The Sims 4
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Need for Speed Heat
 
  You’ll find almost all the contemporary Need for Speed games available on EA Play membership, but if we had to choose only one, we’d pick Need for Speed Heat. It combines the cars and racing system of Payback and the police chases of Most Wanted ‘05 to create a unique experience.
@@ -67,11 +63,19 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Plants vs Zombies Garden Warfare 2
 
  The last thing people expected PopCap to pull off was an FPS game derived from the award-winning strategy game Plants vs Zombies. The original Garden Warfare was an unexpected hit FPS game when it came out. But the sequel builds on the original and improves the game with more characters, more content, and even a single-player mode.
 
  While level progression in the game might be tedious, and you would need a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Star Wars Jedi: Fallen Order
 
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  In this story, Cal Kestis, once a Jedi Padawan, is living in hiding before he is found by Imperial Inquisitors. Playing as Cal, you will attempt to outfox the Inquisitors, traveling across the galaxy and trying to rebuild the Jedi Order.
 
  This is definitely one of the more exciting adventure games on EA Play. In fact, we think this is the best single-player action-adventure game available on EA Play’s Play List for the PS5\. You should get it if you want an immersive single-player game with a challenging combat system, a well-written storyline, and a beautiful setting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. UFC 3
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  As long as you stay away from the micro-transactions (AKA Ultimate Team) part of this game, you will enjoy it if you love combat sports. This version also gets commentary from Snoop Dogg in addition to the usual Joe Rogan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## EA Play Is $5 Per Month of Unlimited Fun
@@ -118,21 +118,20 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-ghostly-lens-takedown-reviews/"><u>[New] 2024 Approved Ghostly Lens Takedown Reviews</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-your-craft-minecraft-gameplay-on-a-mac-for-2024/"><u>[New] Capturing Your Craft Minecraft Gameplay on a Mac for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-quick-step-elevate-through-video-and-like-gameplay/"><u>[New] In 2024, Instagram Quick-Step Elevate Through Video & Like Gameplay</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-best-in-class-our-comprehensible-guide-to-top-12-vlogging-cameras/"><u>[New] In 2024, The Best in Class Our Comprehensible Guide to Top 12 Vlogging Cameras</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-xbox-screencast-capture-techniques/"><u>[Updated] 2024 Approved Mastering Xbox Screencast Capture Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-the-world-of-windows-gaming-with-dxvk/"><u>Dive Into the World of Windows Gaming with DXVK</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ting-video-experience-best-youtube-to-avi-companions/"><u>Elevating Video Experience Best YouTube-to-AVI Companions</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-ps5-upgrades-from-past-to-present/"><u>Exploring PS5 Upgrades From Past to Present</u></a></li>
-<li><a href="https://games-able.techidaily.com/interact-and-master-youtubes-fresh-fun-mini-gaming-challenges/"><u>Interact & Master YouTube's Fresh, Fun Mini Gaming Challenges</u></a></li>
-<li><a href="https://games-able.techidaily.com/pushing-limits-upgrade-pc-csgo-performance/"><u>Pushing Limits: Upgrade PC CS:GO Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamlessly-connect-steam-and-xbox-game-pass-via-glossi/"><u>Seamlessly Connect Steam & Xbox Game Pass via GlosSI</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/setting-new-targets-tips-for-adjusting-your-apple-watch-exercise-objectives-insights-from-zdnet/"><u>Setting New Targets: Tips for Adjusting Your Apple Watch Exercise Objectives - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-pinnacle-of-photonic-innovation-sonys-xperia-xz-premium/"><u>The Pinnacle of Photonic Innovation Sony's Xperia XZ Premium</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-asus-rog-allys-top-docking-stations-24/"><u>Unveiling ASUS ROG Ally's Top Docking Stations '24</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/vn-video-editor-pc-edition-a-compact-review-for-2024/"><u>VN Video Editor PC Edition A Compact Review for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-every-gamer-needs-steam-in-their-arsenal-heres-why/"><u>Why Every Gamer Needs Steam in Their Arsenal (Here's Why)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-controlling-youtubes-playback-speed-mobile-and-pc/"><u>[New] 2024 Approved Controlling YouTube's Playback Speed - Mobile and PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-blueprint-for-obtaining-free-visual-aids/"><u>[Updated] 2024 Approved The Blueprint for Obtaining Free Visual Aids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigate-your-way-to-perfect-content-top-12-flipscreen-cams/"><u>[Updated] Navigate Your Way to Perfect Content Top 12 Flipscreen Cams</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-become-a-broadcast-pro-screen-sharing-101-for-facebookers/"><u>2024 Approved Become a Broadcast Pro Screen Sharing 101 for Facebookers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-clipcomposers-journey-thorough-review-of-androvid/"><u>2024 Approved ClipComposer's Journey – Thorough Review of AndroVid</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-sonys-top-games-at-a-bargain-price/"><u>Discover Sony’s Top Games at a Bargain Price</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-sonys-handheld-gaming-tech/"><u>Discovering Sony's Handheld Gaming Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-game-experience-xbox-display-tuning/"><u>Enhancing Game Experience: Xbox Display Tuning</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-stream-your-podcast-with-a-click/"><u>In 2024, How to Stream Your Podcast with a Click</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-controllers-with-android-devices-a-step-by-step-guide/"><u>Joining Controllers with Android Devices: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-to-reactivate-playstation-services/"><u>Methods to Reactivate PlayStation Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/murderous-minds-unlocked-by-intelligent-ai/"><u>Murderous Minds Unlocked by Intelligent AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-gaming-justified-for-mts/"><u>Premium Gaming: Justified for MTs?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-venues-for-vr-entertainment-for-2024/"><u>Prime Venues for VR Entertainment for 2024</u></a></li>
 </ul></div>
 

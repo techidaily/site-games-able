@@ -1,7 +1,7 @@
 ---
 title: Combatting GPU Drop in Gaming Performance
-date: 2024-07-29T05:57:47.401Z
-updated: 2024-07-30T05:57:47.401Z
+date: 2025-02-05T22:53:38.863Z
+updated: 2025-02-11T18:01:51.481Z
 tags:
   - games
 categories:
@@ -22,9 +22,6 @@ Why? Because of a phenomenon called "GPU sag."
 
 ## What Is GPU Sag?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![pair of nvidia rtx 2080 gpus](https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854aa08d5996bdfaffcb47f66d.jpg)
 
  GPU sag, or GPU sagging, is a term used to describe the phenomenon where a[high-end graphics card](https://www.makeuseof.com/what-is-high-end-graphics-card-how-much-do-they-cost/) is so heavy that if it's connected to a vertically-positioned motherboard, it ends up exerting downward pressure on the slot and "sagging" from it rather than staying in place snugly. While smaller graphics cards use your case's[PCI Express](https://www.makeuseof.com/pcie-30-vs-pcie-40-vs-pcie-50-whats-the-difference/) [lanes](http://www.makeuseof.com/pcie-30-vs-pcie-40-vs-pcie-50-whats-the-difference/) and cutouts to avoid sagging, bigger graphics cards with big shrouds can cause a lot of stress in the PCI Express slot.
@@ -34,9 +31,9 @@ Why? Because of a phenomenon called "GPU sag."
  The main reason for GPU sag is, as we mentioned, the weight and dimensions of the graphics card itself, which can cause stress on not only the PCIe slot but also the GPU itself. To their credit, PCI Express slots are very resilient, and higher-end motherboards have slots that are physically reinforced to account for GPU sagging. But even if you have the most resilient slot out there, it might still be damaged by sagging, and you might also suffer other kinds of hardware damage in the long run.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Consequences Does GPU Sag Have?
 
 ![Closeup of a gaming motherboard's PCB](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/closeup-of-motherboard-pcb.jpg)
@@ -50,16 +47,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  This is more of a fringe scenario, but GPU sag can also even mess with the alignment of the GPU cooler and the heat sink to the point it might reduce the contact area of the cooler and the thermal conductivity between them. As a result, the heat dissipation efficiency of the graphics card can also be compromised. And we all know what happens when something can't be cooled properly—[it thermal throttles and ends in a disaster](https://www.makeuseof.com/what-is-gpu-thermal-throttling-in-gaming/) .
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Avoid GPU Sag
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![gpu stress test tools windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpu-stress-test-tools-windows.jpg)
 
  GPU sag is an issue. But with all those huge GPUs out there, they can't be breaking everyone's PCs. And as it turns out, plenty of options exist to reduce GPU sag to a minimum or even eliminate it completely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Use a GPU Bracket
 
@@ -67,14 +66,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The GPU support bracket's purpose is to help support the GPU so that not all the pressure is exerted on the fragile connection point. Some brackets have a wide base to rest on the bottom of the case, while others attach to the PCIe slots or other mounting points on the motherboard. It's usually an easy and tool-less installation, and you can adjust the height of the support to fit the specific size of your graphics card.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Build Your PC Horizontally
 
  Support brackets are included with most big GPUs and should be the go-to choice for most people. But what if you don't want to use one? Well, the next best way to fix GPU sagging is to forego installing your motherboard vertically.
 
  By using a horizontal case, downward pressure would not be exerted on the PCI Express slot at all, allowing you to build your PC with as big of a GPU as you want with complete peace of mind. There are plenty of horizontal PC cases out there, and if you were planning on using one anyway, you'll be glad to know GPU sag isn't an issue at all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Get a Smaller GPU
 
@@ -83,20 +83,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Luckily, there are plenty of smaller GPUs out there that can still game just fine. These will normally be "mid-range" units for the most part. It's really just a matter of looking at your options and seeing which one would fit the bill best.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## There's a Fix to GPU Sag
 
  GPU sag happens to the best of us, and it can cause great damage to your PC. However, with a little elbow grease, you should be able to fix it. Just be sure that your GPU comes with a bracket—or try one of our two other methods to avoid it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +103,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-engaging-enthusiasts-30plus-revolutionary-bio-strategies-for-maximum-popularity-on-filmoras-tiktok-platform/"><u>[New] 2024 Approved Engaging Enthusiasts 30+ Revolutionary Bio Strategies for Maximum Popularity on Filmora's TikTok Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-8-tripods-ideal-for-4k-camera-shooting/"><u>[New] Excellent 8 Tripods Ideal for 4K Camera Shooting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-integrate-voice-over-into-powerpoint-shows-easily/"><u>[Updated] Integrate Voice-Over Into PowerPoint Shows Easily</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-methods-for-restoring-full-display-in-youtube-videos-for-2024/"><u>[Updated] Methods for Restoring Full Display in YouTube Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/create-a-vibrant-gaming-community-on-discord-through-xbox-streams/"><u>Create a Vibrant Gaming Community on Discord Through Xbox Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-essential-specifications-for-gaming-devices/"><u>Discovering Essential Specifications for Gaming Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/download-platforms-for-bg3-unveiled/"><u>Download Platforms for BG3 Unveiled!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-updated-epson-xp-310-driver-for-optimal-performance/"><u>Get the Updated Epson XP 310 Driver for Optimal Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/nest-egg-personalized-steam-picks/"><u>Nest Egg: Personalized Steam Picks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/simplify-video-accessibility-mastering-mkv-subtitle-integration-with-minimal-hassle/"><u>Simplify Video Accessibility: Mastering MKV Subtitle Integration with Minimal Hassle</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-gaming-reality-explore-fortnite-in-a-new-dimension/"><u>Virtual Gaming Reality: Explore Fortnite in a New Dimension</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtube-games-unleash-your-potential-on-new-mini-challenges/"><u>YouTube Games: Unleash Your Potential on New Mini Challenges!</u></a></li>
+</ul></div>
 

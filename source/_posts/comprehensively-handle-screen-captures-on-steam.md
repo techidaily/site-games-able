@@ -1,7 +1,7 @@
 ---
 title: Comprehensively Handle Screen Captures on Steam
-date: 2025-01-11T16:22:24.734Z
-updated: 2025-01-16T21:16:28.791Z
+date: 2025-02-08T19:03:46.248Z
+updated: 2025-02-11T21:27:04.326Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Take a Screenshot With Steam
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![steam screenshot taken](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-screenshot-taken.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To view all the screenshots you've captured so far during the game session, press**Shift + Tab** to open the Steam overlay and click**Screenshots** (the image icon) from the bottom menu.
 
  When you close the game, you'll see a**Post-game summary** in your Steam library that shows all the screenshots you captured during that session.
@@ -46,11 +42,7 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 ![steam post-game summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-post-game-summary.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manage Your Steam Screenshots
@@ -61,15 +53,15 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![steam screenshot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-screenshot-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To select multiple screenshots, hold**Ctrl** and click each in turn, or hold**Shift** and click to highlight all screenshots in the range. You can also click**Select All** .
 
  To remove an image from your computer, click**Delete** (the trash can icon) and**Delete** again to confirm.
 
  If you want to browse the raw image files on your computer, click**Show on disk** (the folder icon). This opens the folder on your system where the screenshots are stored. You'll notice the folder path is convoluted, and each game is stored in its own confusingly named folder, so you're better off navigating to your local screenshots via this method than going manually through File Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Customize Your Steam Screenshot Settings
 
@@ -82,9 +74,17 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ![steam screenshot settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-screenshot-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here you're able to set your**Screenshot shortcut keys** , plus toggle whether a screenshot should**display a notification** and**play a sound** .
 
  If you want your screenshots saved in the highest quality possible, enable**Save an uncompressed copy of my screenshots** , though be aware this will use more disk space. To change the storage location of these uncompressed screenshots, click**Change folder** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## It's Easy to Take Screenshots on a Steam Deck Too
 
@@ -105,19 +105,18 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-launchpad-to-success-establishing-your-own-food-flavor-blogchannel/"><u>[Updated] Launchpad to Success Establishing Your Own Food Flavor Blog/Channel</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-gaining-clarity-on-your-youtube-audiences-behavior/"><u>2024 Approved Gaining Clarity on Your YouTube Audience's Behavior</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-games-the-importance-of-right-gear/"><u>Elevating Games: The Importance of Right Gear</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-free-image-savers-optimizing-video-graphics/"><u>In 2024, FREE Image Savers Optimizing Video Graphics</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simple-guide-turning-favorite-tiktok-beats-into-cellphone-signals/"><u>In 2024, Simple Guide Turning Favorite TikTok Beats Into Cellphone Signals</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-3d-text-design-in-ps/"><u>In 2024, The Ultimate Guide to 3D Text Design in PS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-video-capture-clash-a-rivalry-of-screens-obs-vs-shadowcast/"><u>In 2024, Video Capture Clash A Rivalry of Screens (OBS Vs. ShadowCast)</u></a></li>
-<li><a href="https://games-able.techidaily.com/makeuseof-mwc-winners-innovation-spotlight/"><u>MakeUseOf MWC Winners: Innovation Spotlight</u></a></li>
-<li><a href="https://games-able.techidaily.com/making-your-ps5-gaming-experience-social/"><u>Making Your PS5 Gaming Experience Social</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-nitro-a-worthwhile-purchase/"><u>Premium Nitro: A Worthwhile Purchase?</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-role-of-mechanical-keys-in-esports-dominance/"><u>The Role of Mechanical Keys in Esports Dominance</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-methods-for-quick-and-high-quality-dvd-conversion-to-h264-on-your-mac/"><u>Top Methods for Quick & High-Quality DVD Conversion to H.264 On Your Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-how-to-reconnect-to-your-mc-lan-party-on-pc/"><u>Troubleshooting: How to Reconnect to Your MC LAN Party on PC</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elite-story-creation-centers-avoiding-the-ordinary-top-8/"><u>[New] Elite Story Creation Centers – Avoiding the Ordinary (Top 8)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-iphone-2024s-best-friend-ranked-8-sticks/"><u>[New] Iphone 2024'S Best Friend Ranked #8 Sticks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-6-superior-nft-tools-for-artistic-innovation/"><u>[Updated] Explore 6 Superior NFT Tools for Artistic Innovation</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-professional-tips-top-10-text-effects-for-2024/"><u>[Updated] Professional Tips Top 10 Text Effects for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/boost-your-computers-speed-with-simple-tricks-insights-by-yl-software-experts/"><u>Boost Your Computer's Speed with Simple Tricks - Insights by YL Software Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-xiaomi-redmi-note-13-proplus-5g-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Xiaomi Redmi Note 13 Pro+ 5G with Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-s23-tactical-edition-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy S23 Tactical Edition to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mise-a-niveau-gratuite-de-h265-vers-h264-pour-pc-et-mac-sous-windows-1011/"><u>Mise À Niveau Gratuite De H.265 Vers H.264 Pour PC Et Mac Sous Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/mute-mastery-playing-silently-on-xbox/"><u>Mute Mastery: Playing Silently on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedy-steams-reacquire-unverified-files/"><u>Remedy: Steam's Reacquire Unverified Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-play-mode-disable-controller-shocks/"><u>Silent Play Mode: Disable Controller Shocks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-ingenuity-of-twelve-souths-bookbook-v2-the-perfect-blend-for-your-macbook-case/"><u>Unveiling the Ingenuity of Twelve South's BookBook V2 - The Perfect Blend for Your MacBook Case</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ideal-gaming-setup-top-5-console-emulators-for-macos/"><u>Your Ideal Gaming Setup: Top 5 Console Emulators for macOS</u></a></li>
 </ul></div>
 

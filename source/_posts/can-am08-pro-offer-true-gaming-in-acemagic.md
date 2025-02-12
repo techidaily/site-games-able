@@ -1,7 +1,7 @@
 ---
 title: Can AM08 Pro Offer True Gaming in AceMagic?
-date: 2024-07-29T05:59:19.858Z
-updated: 2024-07-30T05:59:19.858Z
+date: 2025-02-07T19:19:02.030Z
+updated: 2025-02-11T18:01:33.414Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/787eeaa7ff322b9215aaa10fafb3d58916c322d18
 
 ## Can AM08 Pro Offer True Gaming in AceMagic?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The AM08 Pro is a compact and affordable gaming PC that is suitable for casual gamers and teenagers looking for a powerful and reasonably priced gaming option.
@@ -96,9 +93,6 @@ But what is in that box?
 
  But once you’re done with that, it’s time to start installing and playing games.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Who Is This Mini Gaming PC For?
 
  Usually, when reviewing computers, it is clear who the device is aimed at. A laptop for anyone who needs to work anywhere (office/coffee shop/train/school or college). Desktop PCs are for office-anchored staff, small shops, or ticket management at legacy entertainment businesses (bowling alleys, cinema chains, etc.).
@@ -107,14 +101,15 @@ But what is in that box?
 
 So who would want an AceMagic AM08 Pro?
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ACEMAGIC AM08 Pro in bedroom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-bedroom.JPG)
 
   I’ll tell you: teens. More specifically, teenagers who want an upgradeable system for gaming (unlike a laptop). Kids over 12 that are looking for a system that has the space and processing power to handle 4K video authoring.
 
  Fortunately, I have a couple of children in this exact age range. One of them, Bruce, has helped by providing space in his bedroom and considerable time testing various games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AceMagic AM08 Pro Device Specifications
 
@@ -122,9 +117,6 @@ So who would want an AceMagic AM08 Pro?
 
  The reviewed computer has 32GB of DDR5 RAM (a 16GB option is available), upgradable to 64GBs, with a 512GB M.2 SSD (PCIe NVME) and 4 x USB 3.2 Type-A ports (two at the front, two on the back). Wi-Fi 6E and Bluetooth 5.2 provide wireless connectivity. Audio in and out can be handled with the 3.5mm port, mounted on the front.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![HDMI and Ethernet ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-rear-ports-1.JPG)
 
  Up to three 4K displays can be connected to this computer. Dual HDMI ports are mounted on the device, along with a USB 4.0 Type-C port. This handles other data besides display output.
@@ -140,18 +132,20 @@ So who would want an AceMagic AM08 Pro?
 Perhaps most surprisingly, this unit is expandable.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## You Can Upgrade the AceMagic AM08 Pro
 
  The right-hand side of the AM08 Pro (as viewed from the front) is secured only by magnets. Enabling easy access to the RAM and storage media, the side plate is simple to remove and replace, eschewing thumbscrews.
 
  You'll find an empty SATA port for a 2.5-inch storage device inside. Beneath this is the M.2 storage, while positioned higher in the case are the dual RAM sticks. All of these items can be removed and upgraded with relative ease.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![ACEMAGIC AM08 Pro expansion ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-ports.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Admittedly, these are laptop-style upgrades, but they’re upgrades nevertheless. It’s enough to give this machine a bit of longevity.
 
@@ -159,18 +153,6 @@ Perhaps most surprisingly, this unit is expandable.
 
  This may be a quirk of the review device (I checked with the AceMagic people and the problem could not be replicated), but it was easily dealt with thanks to a powerline adapter. While your own experience may differ, this is worth keeping in mind.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Gaming on the AceMagic AM08 Pro
 
  Since this is marketed as a gaming PC, we opted for games that would really push the AceMagic AM08 Pro. Relying on Steam, Bruce installed:
@@ -187,8 +169,9 @@ Perhaps most surprisingly, this unit is expandable.
  Most importantly, our 12-year-old is seriously impressed, to the extent that he wants to keep it. I’d say that was a pretty good point in the AceMagic AM08 Pro’s favor.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What About PC Tasks That Aren’t Games?
 
  Something as small and relatively cheap as the AM08 Pro is likely to attract attention as a gift. With Windows 11 Pro preinstalled, it is ready-made for media production, and suitable for everything from homework to online shopping.
@@ -201,9 +184,6 @@ But how does this work out in practice?
 
  It should be no surprise to read that it handled them all perfectly. But then, all it has done throughout this review is surprise. Sure, it is a tiny computer, but it appears to be just as capable as any standard PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## No, It’s Not a Gaming PC, But It'll Do
 
  By this point, you’re probably thinking one of two things: “There's no way that’s really a gaming PC” or “Wow, a gaming PC for $500!”.
@@ -211,6 +191,10 @@ But how does this work out in practice?
  Both opinions are right. If you’re a hardcore gamer, this system—LEDs aside—is not for you. It’s baseline stuff; cooling control is useful but nothing hardcore, and you won’t be able to push this system to extremes. You need a totally different setup, let’s be honest.
 
 ![ACEMAGIC AM08 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-vents-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But if you’re new to gaming and found a standard laptop doesn’t do the job, then the AceMagic AM08 Pro will blow your mind. It produces excellent results with recent games, and while you may need to dial back the graphics quality for newer titles, it can still cope.
 
@@ -226,6 +210,10 @@ But how does this work out in practice?
 
 ![ACEMAGIC AM08 Pro LEDs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-leds-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### ACEMAGICIAN ACEMAGIC AM08 Pro
 
  8/ 10
@@ -234,14 +222,11 @@ But how does this work out in practice?
 
 [See at AceMagic](https://www.acemagic.com/collections/gaming-mini-pc/products/ace-am08-pro-amd-ryzen-9%E2%84%A2-6900hx)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -250,4 +235,21 @@ But how does this work out in practice?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-edge-techniques-for-aspiring-youtube-game-streamers/"><u>[New] 2024 Approved Cutting-Edge Techniques for Aspiring YouTube Game Streamers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-quantum-hdr-principles/"><u>[New] Mastering Quantum HDR Principles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unleash-productivity-learn-to-screen-record-on-mac-using-just-keys/"><u>[Updated] Unleash Productivity Learn to Screen Record on Mac Using Just Keys</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-perfecting-iphoneipad-screenshots-a-youtube-guide/"><u>2024 Approved Perfecting iPhone/iPad Screenshots A YouTube Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-reading-understanding-and-playing-epic-and-gog-titles/"><u>A Guide to Reading, Understanding, and Playing Epic & GOG Titles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-performance-resolving-outriders-lagging-frames-per-second-fps-problems/"><u>Boosting Performance: Resolving Outriders' Lagging Frames per Second (FPS) Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquering-your-console-game-pass-portfolio/"><u>Conquering Your Console Game Pass Portfolio</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/delay-in-ford-explorer-evs-arrival-expected-availability-now-set-for-next-years-summer-season/"><u>Delay in Ford Explorer EV's Arrival - Expected Availability Now Set for Next Year's Summer Season</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-video-tags-with-ease-best-mp4-editors-for-windows-and-mac-for-2024/"><u>Edit Video Tags with Ease Best MP4 Editors for Windows and Mac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enriching-w1111-interfaces-with-psoft-tools/"><u>Enriching W11/11 Interfaces with PSoft Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-achieve-a-cinematic-experience-with-tv-tuning/"><u>How to Achieve a Cinematic Experience with TV Tuning</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-xs-max-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone XS Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-alert-parenting-in-the-era-of-virtual-connectivity/"><u>Stay Alert! Parenting in the Era of Virtual Connectivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-device-razers-hot-swappable-keyboard/"><u>The Ultimate Gaming Device: Razer's Hot-Swappable Keyboard</u></a></li>
+</ul></div>
 

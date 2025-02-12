@@ -1,7 +1,7 @@
 ---
 title: "Crossing the Servers: From Bedrock to Java on GeyserMC Network"
-date: 2025-01-24T17:36:30.062Z
-updated: 2025-01-30T18:07:57.041Z
+date: 2025-02-06T23:49:01.849Z
+updated: 2025-02-11T20:05:29.537Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 * [Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?](#why-can-39-t-minecraft-bedrock-players-join-minecraft-java-servers-normally)
 * [How Minecraft Bedrock Edition Players Can Join Java Edition Servers](#how-minecraft-bedrock-edition-players-can-join-java-edition-servers)
 * [The Limitations of the GeyserMC Mod](#the-limitations-of-the-geysermc-mod)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,16 +38,12 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  Want to enable Minecraft Java crossplay for Bedrock players? Here's what you need to know about letting Bedrock players join Java servers while using the GeyserMC mod!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja/MUO
 
@@ -71,11 +63,19 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
  This process involves both versions of Minecraft running at the same time on one computer, connected to the same Java server. We'll show you how to create a server that you can join whether you're playing Minecraft's Java or Bedrock Edition.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Set Up a Server
 
  Firstly, you should set up a server on[Aternos](https://aternos.org/) . Aternos is a free third-party server hosting service that has everything you need to set up a server to allow crossplay between Java and Bedrock.
 
 ![Aternos Create a Server button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/aternos-create-a-server-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve made an account on Aternos, click on**Create** to create a server and name it. Make sure to choose**Java Edition** on the blue bar above.
 
@@ -84,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ### 2\. Install GeyserMC
 
 ![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that you’ve made your server, don’t turn it on yet. First, head to**Software** , then choose**Paper/Bukkit** on the software selection screen.
 
@@ -107,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
  Once that’s all done, you can now turn on and connect to your server in the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Join the Minecraft Java Server on Bedrock Edition
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
@@ -119,11 +119,11 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![Pasting server IP details on Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pasting-server-ip-details-on-bedrock-edition.jpg)
 
- Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
 
 ## The Limitations of the GeyserMC Mod
 
@@ -150,20 +150,24 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pro-tools-for-pc-gamers-screen-record-windows-10/"><u>[Updated] 2024 Approved Pro Tools for PC Gamers Screen Record Windows 10</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-elite-zero-cost-fb-picturemovie-composer/"><u>[Updated] Elite Zero-Cost FB Picture/Movie Composer</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-navigating-file-extraction-from-youtube-browser-os-and-terminal-methods/"><u>2024 Approved Navigating File Extraction From Youtube Browser, OS and Terminal Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-entertainment-navigating-costs-with-series-sx/"><u>Affordable Entertainment: Navigating Costs with Series S/X</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyerdynamic-mmx-200-exceptional-audio-quality/"><u>Beyerdynamic MMX 200: Exceptional Audio Quality</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comprendre-lactualisation-complete-de-votre-stockage-sur-onedrive-un-guide-en-francais/"><u>Comprendre L'actualisation Complète De Votre Stockage Sur OneDrive: Un Guide en Français</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-frame-rate-165hz-monitors/"><u>Elite Frame Rate 165Hz Monitors</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-v29-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-14-plus-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 14 Plus to Chromecast? | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/pioneering-avengers-the-marvellous-world-builders-for-2024/"><u>Pioneering Avengers The Marvellous World-Builders for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/pitch-perfect-excellent-audio-games-for-music-enthusiasts/"><u>Pitch Perfect: Excellent Audio Games for Music Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/reactivating-purchased-games-on-ps5-console/"><u>Reactivating Purchased Games on PS5 Console</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-solutions-for-saving-scenarios-top-6-tips-in-windows/"><u>Speedy Solutions for Saving Scenarios: Top 6 Tips in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/visual-beats-integrating-tablets-into-games/"><u>Visual Beats: Integrating Tablets Into Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-essential-techniques-for-editing-digits-in-tiktok-content/"><u>[New] Essential Techniques for Editing Digits in TikTok Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-innovative-tips-producing-instagram-ready-loop-videos-for-2024/"><u>[New] Innovative Tips Producing Instagram-Ready Loop Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-quick-fixes-for-professional-looking-indie-films-for-2024/"><u>[New] Quick Fixes for Professional-Looking Indie Films for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-pioneering-apps-for-synching-pictures-and-beats-for-2024/"><u>[Updated] Pioneering Apps For Synching Pictures & Beats for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unveiling-the-art-of-itunes-video-capture/"><u>[Updated] Unveiling the Art of iTunes Video Capture</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fix-for-star-citizens-windows-operating-system-crashes/"><u>Comprehensive Fix for Star Citizen's Windows Operating System Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-exorbitant-costs-4-factors-behind-vrs-pricing/"><u>Decoding the Exorbitant Costs: 4 Factors Behind VR's Pricing</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-ways-to-prevent-and-resolve-subnautica-below-zeros-frequent-pc-system-failures/"><u>Effective Ways to Prevent and Resolve Subnautica: Below Zero's Frequent PC System Failures</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-cartridges-to-cloud-evaluating-the-9-perks-and-pitfalls-of-games/"><u>From Cartridges to Cloud: Evaluating the 9 Perks and Pitfalls of Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-diagnose-and-solve-right-side-problems-with-the-wrath-of-the-righteous-game-controller/"><u>How to Diagnose and Solve Right Side Problems with the Wrath of the Righteous Game Controller</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-google-pixel-fold-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Google Pixel Fold Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/informing-authorities-about-player-misdeeds-xbox/"><u>Informing Authorities About Player Misdeeds (Xbox)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-photo-color-alteration-a-professionals-guide-for-2024/"><u>Mastering Photo Color Alteration A Professional's Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-sony-headset-troubleshooter-effective-fixes-to-reconnect-your-microphone-on-windows-pcs/"><u>Mastering the Sony Headset Troubleshooter: Effective Fixes to Reconnect Your Microphone on Windows PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/memimagic-create-funny-images-on-the-go/"><u>MemiMagic Create Funny Images On-the-Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/serious-gaming-meets-high-tech-akkos-mod007b-overview/"><u>Serious Gaming Meets High-Tech: Akko's MOD007B Overview</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-sparkling-ps5-maintenence/"><u>The Ultimate Guide to Sparkling PS5 Maintenence</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-unlinking-ps5-accounts/"><u>The Ultimate Guide to Unlinking PS5 Accounts</u></a></li>
 </ul></div>
 

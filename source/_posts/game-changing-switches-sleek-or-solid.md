@@ -1,7 +1,7 @@
 ---
 title: "Game-Changing SWITCHES: Sleek or Solid?"
-date: 2024-12-23T02:50:20.305Z
-updated: 2024-12-25T19:52:04.375Z
+date: 2025-02-04T22:55:15.273Z
+updated: 2025-02-11T20:44:07.203Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do Mechanical Switches Work?
@@ -32,12 +32,16 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 ![Mechanical keyboard on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/michelle-ding-50uD7HzOLW8-unsplash.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mechanical switches work](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) by creating contact between a metal piece on the bottom of the key and one on the keyboard. This closes the circuit and signals to the PC the key has been pressed.
 
  There are three main types of mechanical switches: linear, tactile, and clicky. Linear keys are quieter, require less force, and provide no tactile feedback when pressed. Tactile keys are louder and produce a bump in the middle of the keystroke, while clicky keys give a larger bump and a loud "click" in the middle of the keystroke, making them loud but satisfying.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do Optical Switches Work?
 
@@ -48,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 So, which is better for gaming?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Optical Switches vs. Mechanical Switches
 
 ![Mechanical keyboard with back-lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/vipul-jha-a4X1cdC1QAc-unsplash.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There are a few important aspects of mechanical switches you must consider when deciding which is better for gaming, including:
 
@@ -84,6 +84,10 @@ Let's take a look at these four factors in closer detail.
 
  Other than that, the reaction speed of optical switches appears to depend largely on the manufacturer. The breadwinners seem to be the[Razer Clicky Optical Purple](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2004621&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Frazer-optical-switch) switches. These are touted as some of the fastest keys on the market and are around 30ms faster than the fastest Cherry MX keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Feel and Noisiness
 
  How mechanical or optical keys feel is largely down to preference, which also goes for the loudness. But, with more options available, it's more likely you'll find a mechanical keyset matching your preferences.
@@ -99,10 +103,6 @@ Let's take a look at these four factors in closer detail.
 ### Price and Availability
 
 ![Sleek mechanical keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/jay-zhang-XX8zaI3XbvE-unsplash.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Because there are dozens of manufacturers and types of mechanical keys, you're likely to find a mechanical keyboard you like fairly easily. You can also modify most mechanical keysets to make them louder, quieter, quicker, or last longer. As mentioned above, buying a hot-swappable mechanical keyboard makes this process much easier, as you won't have to desolder the switches before changing or silencing them.
 
@@ -139,22 +139,18 @@ Let's take a look at these four factors in closer detail.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-premier-text-motion-manuals/"><u>[New] In 2024, Premier Text Motion Manuals</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-effective-time-management-streamlining-zoom-meetings-on-win11-systems/"><u>[Updated] Effective Time Management Streamlining Zoom Meetings on Win11 Systems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-capture-times-essence-a-comprehensive-guide-to-making-slow-motion-video-from-still-images-online/"><u>[Updated] In 2024, Capture Time's Essence A Comprehensive Guide to Making Slow-Motion Video From Still Images Online</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-prime-insta-tunes-locator-a-guide-to-premium-sound-sets/"><u>[Updated] Prime Insta Tunes Locator A Guide to Premium Sound Sets</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-blades-visual-journey-from-standard-to-stunning-4k/"><u>2024 Approved Blade's Visual Journey From Standard to Stunning 4K</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-gaming-accessories-corsairs-restored-legacy-lineup-amazes-with-budget-friendly-options/"><u>Affordable Gaming Accessories: Corsair’s Restored Legacy Lineup Amazes with Budget-Friendly Options</u></a></li>
-<li><a href="https://games-able.techidaily.com/end-of-virtual-retail-steam-revises-policy/"><u>End of Virtual Retail: Steam Revises Policy</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-techniques-to-excel-at-pokemon-on-idevices/"><u>Essential Techniques to Excel at Pokémon on iDevices</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-use-steam-achievement-manager-to-unlock-any-achievement/"><u>How to Use Steam Achievement Manager to Unlock Any Achievement</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-v-purse-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor V Purse To Phone | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/lead-from-the-sidelines-manage-champions-on-pc-without-costs/"><u>Lead From the Sidelines: Manage Champions on PC without Costs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimal-speech-recognition-for-silent-input/"><u>Optimal Speech Recognition for Silent Input</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-20-mobile-gaming-sets-for-social-interaction/"><u>Perfect 20 Mobile Gaming Sets for Social Interaction</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-big-picture-a-user-guide/"><u>Steam Big Picture: A User Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/strategie-rapide-per-spostare-i-programmi-tra-due-pc-con-windows-11-tutto-cio-che-devi-sapere/"><u>Strategie Rapide per Spostare I Programmi Tra Due PC Con Windows 11: Tutto Ciò Che Devi Sapere</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-subscribe-unlock-and-dive-into-ea-play-on-ps5/"><u>The Ultimate Guide: Subscribe, Unlock, and Dive Into EA Play on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-secured-access-the-process-of-creating-ps5-passcodes/"><u>Unlocking Secured Access: The Process of Creating PS5 Passcodes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-best-biz-youtubes-top-10-for-quick-channel-setup-for-2024/"><u>[Updated] Best Biz YouTubes Top 10 for Quick Channel Setup for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-to-addressing-windows-10s-red-screen-malfunction-successfully/"><u>Complete Guide to Addressing Windows 10'S Red Screen Malfunction Successfully</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-abruptly-discontinuing-hanging-software-in-your-windows-11-system/"><u>Expert Tips: Abruptly Discontinuing Hanging Software in Your Windows 11 System</u></a></li>
+<li><a href="https://games-able.techidaily.com/faster-web-surfing-strategies-to-decrease-slow-pings/"><u>Faster Web Surfing: Strategies to Decrease Slow Pings</u></a></li>
+<li><a href="https://games-able.techidaily.com/global-gaming-clock-set-new-timezone-for-series-sxs/"><u>Global Gaming Clock: Set New Timezone for Series SX|S</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-gopro-hero5-pro-vs-gopro-hero4-platinum/"><u>In 2024, GoPro Hero5 Pro Vs GoPro Hero4 Platinum</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unleashing-virality-steps-to-skyrocket-your-instagram-content/"><u>In 2024, Unleashing Virality Steps to Skyrocket Your Instagram Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-basics-of-palworld/"><u>Mastering the Basics of PalWorld</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximum-gaming-clarity-innocn-39g1-r/"><u>Maximum Gaming Clarity: InnoCN 39G1 R</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speaking-volumes-the-new-age-of-ai-interaction/"><u>Speaking Volumes: The New Age of AI Interaction</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-java-game-experience-explained/"><u>The Ultimate Java Game Experience, Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voicecommand-power-integrating-gpt-into-android-life/"><u>VoiceCommand Power – Integrating GPT Into Android Life</u></a></li>
 </ul></div>
 

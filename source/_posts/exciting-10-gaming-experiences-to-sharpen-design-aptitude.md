@@ -1,7 +1,7 @@
 ---
 title: Exciting 10 Gaming Experiences to Sharpen Design Aptitude
-date: 2025-01-25T16:58:12.664Z
-updated: 2025-01-30T17:06:33.822Z
+date: 2025-02-10T20:30:25.221Z
+updated: 2025-02-11T20:50:22.853Z
 tags:
   - games
 categories:
@@ -42,10 +42,6 @@ The game presents a gradient color wheel. There are six rounds:
 
  Depending on the round, you’ll complete a circle of color with a new color based on the round name. You’re against the clock, but there’s plenty of time. There’s a calm, meditative feeling when you get the color matched correctly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2. Pixactly
 
 ![Pixactly design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pixactly-design-game.jpg)
@@ -61,12 +57,16 @@ The game presents a gradient color wheel. There are six rounds:
 ![I Love Hue app start page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-001.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![I Love Hue app game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-002.jpg)
 
 ![I Love Hue app game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-003.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -84,10 +84,6 @@ Close
 
  This game is helpful for those new to UX/UI design. Once you’ve mastered the do’s and don’ts of interface design, you should[master some other technical skills of UX/UI designers](https://www.makeuseof.com/ui-ux-designer-skills-you-should-master/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5. Kolor
 
 ![Kolor design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kolor-design-game.jpg)
@@ -96,6 +92,10 @@ Close
 
  This game is scored and timed, and with every few rounds, it increases in difficulty. If you’ve got a good eye for color, you’ll enjoy this game and score highly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6. It’s Centred That
 
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-001.jpg)
@@ -103,13 +103,13 @@ Close
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-002.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-003.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -118,16 +118,12 @@ Close
 
  In ten levels, you’ll be asked if a black dot is central to the shape on which it's placed. Select the happy emoji if you think it is or the poop emoji if you think it isn’t. Keep going through the rounds and find your results. It’s a great practice for eye measurements in design.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7. Hex Invaders
 
 ![Hex Invaders design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hex-invaders-design-game.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another great color game, Hex Invaders helps you identify color combinations by their HEX codes. The HEX code is a 6-digit code that uses letters and numbers to represent the levels of Red, Green, and Blue—RGB—that make up any screen color.
@@ -138,10 +134,6 @@ Close
 
 ![Font Memory Game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/font-memory-game-design-game.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It’s everybody’s favorite card game—Snap—for typography enthusiasts. This game tests not only your creative knowledge of font recognition, but also your memory.
 
  Flip each card presenting a typographic example and match it with its partner. This game is low-stakes and a reminder to use some[games or apps to improve your memory](https://www.makeuseof.com/best-adult-memory-game-apps/) in your spare time, too.
@@ -151,12 +143,16 @@ Close
 ![The Bezier Game design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bezier-design-game.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you draw with the Bézier tool in Illustrator or other software, you’ll know that the best drawings use the least amount of nodes and steps. The Bézier Game is a fun game to test your Bézier skills.
 
  The game provides a shape outline and a number of nodes. You must use the Bézier tool to draw the outline in as many nodes as have been provided. You can’t use more. This game will test your skills and sanity as you improve your Bézier drawing technique. Once you've mastered the Bézier tool, take your skills to Adobe Illustrator and learn[how to scale your stroke widths](https://www.makeuseof.com/illustrator-how-to-scale-strokes-proportionally/) too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10. Figma Ninja
 
@@ -171,6 +167,10 @@ Close
 ## 11. Kerntype
 
 ![Kerntype design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kerntype-design-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Kerning is an important aspect of graphic design. Think you know about correct letter spacing? Kerntype is a fun and helpful game to train your eye for better letter spacing.
 
@@ -188,6 +188,10 @@ Close
 
 ![Dudel Draw app home page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudle-draw-app-001.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Dudel Draw app with doodle on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudel-draw-app-002.jpg)
 
 ![Dudel Draw app game options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudel-draw-app-003.jpg)
@@ -199,10 +203,6 @@ Close
  You can rotate or flip the blob to accentuate your creative mind. After the day’s doodle, you can compare with friends too. Everyone gets the same blob shape daily. If you don’t want to partake in the daily challenge, Dudel Draw also offers practice shapes just for fun.
 
  If the competition of Dudel Draw isn't enough for you, you could also enter[creative design challenges to improve your design skills](https://www.makeuseof.com/design-challenges-to-boost-creativity/) and confidence.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Gamify Your Creative Design Skills
 
@@ -223,24 +223,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-early-bird-winners-youtubes-quick-favorites/"><u>[New] 2024 Approved Early Bird Winners Youtube's Quick Favorites</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-discovering-the-ins-and-outs-of-youtube-shorts-capital-for-2024/"><u>[Updated] Discovering the Ins and Outs of YouTube Shorts Capital for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-chart-success-the-top-online-stock-portals/"><u>2024 Approved Chart Success The Top Online Stock Portals</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-vr-headsets-high-quality-low-price/"><u>Affordable VR Headsets: High Quality, Low Price</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-excess-from-your-ps5-club-selections/"><u>Cutting Excess From Your PS5 Club Selections</u></a></li>
-<li><a href="https://games-able.techidaily.com/exchange-joy-through-steam-games-as-presents/"><u>Exchange Joy Through Steam Games as Presents</u></a></li>
-<li><a href="https://games-able.techidaily.com/future-ready-ergonomic-desk-surfaces/"><u>Future-Ready Ergonomic Desk Surfaces</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-13-mini-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 13 mini SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a14-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A14 4G Phones with/without a PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-recoup-efficient-refunds-from-digital-games-series-xs/"><u>Quick Recoup: Efficient Refunds From Digital Games, Series X/S</u></a></li>
-<li><a href="https://win11.techidaily.com/reset-and-reboot-your-way-back-into-the-ms-store-windows-11/"><u>Reset & Reboot Your Way Back Into the MS Store (Windows 11)</u></a></li>
-<li><a href="https://games-able.techidaily.com/script-writing-revolution-chatgpt/"><u>Script Writing Revolution: ChatGPT</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-screen-no-pin-mastery-for-projector-mode-win11/"><u>Secure Screen, No-Pin Mastery for Projector Mode Win11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/simplified-guide-to-saving-instagrams-dynamic-content-for-2024/"><u>Simplified Guide to Saving Instagram's Dynamic Content for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/smart-cleanup-wizard-schedule-and-wipe-files-with-precision-in-stellar-eraser-standard-edition-v5/"><u>Smart Cleanup Wizard: Schedule & Wipe Files with Precision in Stellar Eraser Standard Edition V5</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-into-action-clearing-connection-snags/"><u>Switch Into Action! Clearing Connection Snags</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-game-boy-advance-emulator-showdown-on-ios/"><u>The Ultimate Game Boy Advance Emulator Showdown on iOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-ps5-upgrade-list-nine-must-haves/"><u>The Ultimate PS5 Upgrade List: Nine Must-Haves</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-distributing-your-ai-interactions/"><u>Unlocking the Power of Distributing Your AI Interactions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-expertise-in-iphone-photography-understanding-dimensions/"><u>[New] In 2024, Expertise in iPhone Photography Understanding Dimensions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unleash-your-inner-animator-easily-share-gifs-on-snapchat-for-2024/"><u>[New] Unleash Your Inner Animator Easily Share Gifs on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-charting-the-course-with-youtubes-top-makeup-influencers/"><u>[Updated] 2024 Approved Charting the Course with YouTube's Top Makeup Influencers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-snapshotstop-screen-shot-on-demand-guide/"><u>[Updated] 2024 Approved SnapshotStop Screen Shot on Demand Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-cost-effective-aerospace-for-huge-datasets-at-low-rates/"><u>[Updated] Cost-Effective AeroSpace for Huge Datasets at Low Rates</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-cast-and-control-using-steam-deck-to-access-pc-gaming/"><u>Connect, Cast & Control: Using Steam Deck to Access PC Gaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/declutter-your-email-effortlessly-discover-how-this-single-trick-can-organize-without-complex-filters-or-separate-emails/"><u>Declutter Your Email Effortlessly: Discover How This Single Trick Can Organize Without Complex Filters or Separate Emails</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/decoding-youtubes-revenue-model-for-video-clips/"><u>Decoding YouTube's Revenue Model for Video Clips</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hidden-treasures-of-ps-vr2-add-ons/"><u>Discover the Hidden Treasures of PS VR2 Add-Ons</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-game-with-essential-steam-deck-add-ons/"><u>Elevating Your Game with Essential Steam Deck Add-Ons</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-voice-controlled-devices-the-premier-smart-speakers-to-own/"><u>Leading Voice-Controlled Devices: The Premier Smart Speakers to Own</u></a></li>
+<li><a href="https://games-able.techidaily.com/portable-playground-essential-tips-for-gamers-on-the-move/"><u>Portable Playground: Essential Tips for Gamers on the Move</u></a></li>
+<li><a href="https://games-able.techidaily.com/1723008690530-red-dead-online-stability-issues-heres-what-you-need-to-know/"><u>Red Dead Online Stability Issues? Here's What You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/serious-gaming-tech-mod007b-hall-keyboard-review/"><u>Serious Gaming Tech: MOD007B Hall Keyboard Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-picks-inexpensive-motherboards-for-pc-gaming/"><u>Smart Picks: Inexpensive Motherboards for PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-approaches-to-write-memorable-steam-reviews/"><u>Strategic Approaches to Write Memorable Steam Reviews</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-youtube-editing-a-compreenasive-guidebook-for-2024/"><u>The Art of YouTube Editing A Compreenasive Guidebook for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-15-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 15 from iCloud</u></a></li>
 </ul></div>
 

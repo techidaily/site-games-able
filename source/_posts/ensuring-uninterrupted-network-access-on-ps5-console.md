@@ -1,7 +1,7 @@
 ---
 title: Ensuring Uninterrupted Network Access on PS5 Console
-date: 2025-01-25T18:21:27.910Z
-updated: 2025-01-30T17:03:02.877Z
+date: 2025-02-05T16:32:47.067Z
+updated: 2025-02-11T16:54:29.672Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Check Other Devices](#check-other-devices)
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 * [Connect With an Ethernet Cable](#connect-with-an-ethernet-cable)
 
  If you connect your PS5 to your network via Wi-Fi, we'll show you what to do if you suddenly can't get online or suffer from poor network performance. While we focus on Wi-Fi here, many of these tips will also help you fix internet issues if you're using Ethernet to connect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1 Check Other Devices
 
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
 ![PS5 Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/PS5-Power-Menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can use the physical power button on the front of your PS5 to shut it down:
 
 * On the original standard PS5 model, the**Power** button is the one closer to the bottom of the console.
@@ -62,15 +58,15 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
 ![PS5 Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/PS5-Power-Button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ben Stegner/MakeUseOf
 
  Regardless of your model, press and hold the**Power** button on your PS5\. When you hear one beep, continue holding it until you hear a second beep, then let go. This will fully[shut down your PS5](https://www.makeuseof.com/how-to-turn-off-ps5/) and turn off its top lights. If you see orange lights, the PS5 is in rest mode and didn't shut down fully—turn it back on and try this again. Putting your system into rest mode isn't a proper power cycle.
 
  If rebooting your PS5 doesn't fix the problem, restart your router and modem (if you have a combination unit, reboot that). Some models have a physical power switch you can turn off; if that's not present on yours, unplug them for a minute or two, then plug them back in. Try to get your PS5 back online once everything is connected again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Confirm Your Wi-Fi Network Details
 
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
 ![PS5 Set Up Internet Connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/01-PS5-Set-Up-Internet-Connection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under the list of**Networks found** , select your Wi-FI connection and enter your network's Wi-Fi password. Be sure to pick the right network, especially if there are similarly-named options on the list.
 
  Make sure you type the password correctly. If it still doesn't connect, and someone else manages the network in your home, ask if they set a new password recently.
@@ -87,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 ![Enter Wi-Fi Password PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/02-Enter-Wi-Fi-Password-PS5.jpg)
 
  After connecting, if you'd like to change other parameters for the connection, press the**Options** button with your Wi-Fi connection highlighted under**Registered networks** and choose**Advanced Settings** . Most of these aren't relevant, but as an additional troubleshooting step, you can try[using an alternative DNS server for your PS5](https://www.makeuseof.com/how-to-change-ps5-dns-settings/) under**DNS Settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Run the PlayStation 5's Network Test
 
@@ -110,7 +106,7 @@ Here's what the steps in this test mean:
 ![PS5 Network Connection Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/04-PS5-Network-Connection-Test.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your PS5 is online but won't connect to PSN, or you only have problems with a certain game, you may need to[forward ports on your router](https://www.makeuseof.com/tag/what-is-port-forwarding-and-how-can-it-help-me/) so your console can access PSN services. This can happen if your system is connected to an enterprise network, like at a college. You may need to talk with the network administrator if you want to connect at your university.
@@ -129,10 +125,6 @@ Here's what the steps in this test mean:
 
  For more detailed help, see our[guide to improving router speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 Stop Other Network Activities and Review Your Internet Plan
 
  Your home network only has so much bandwidth, so if there's a lot of other heavy activity happening, your PS5's network performance will suffer. Stop any other devices in your house that are downloading or uploading large files, streaming 4K video, torrenting, or similar. This should free up bandwidth for your PS5 to perform at its best.
@@ -149,9 +141,17 @@ Here's what the steps in this test mean:
 
 ![PSN Status 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/06-PSN-Status-2021.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should also check your ISP for outages. If you still can't get online normally, use mobile data on your phone. Then you can log into your account with your ISP and check its status page for issues in your area, or try a site like[Downdetector](https://downdetector.com/) to check for recent reports of problems. You can contact your ISP and let them know about the issue, but you'll probably talk to an automated assistant.
 
  In case of issues on someone else's end, there's not much you can do aside from waiting for Sony or your ISP to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8 Connect With an Ethernet Cable
 
@@ -184,17 +184,19 @@ Here's what the steps in this test mean:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-exciting-entertainment-top-10-ios-games-ready-for-no-wireless-connection-for-2024/"><u>[New] Exciting Entertainment - Top 10 iOS Games, Ready for No Wireless Connection for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-pro-tips-on-podcast-titling-and-a-collection-of-over-50-engaging-names/"><u>[New] Pro Tips on Podcast Titling & A Collection of Over 50 Engaging Names</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-end-screen-creation-made-simple-free-templates-and-guides/"><u>[Updated] End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-exploring-and-utilizing-your-twitter-archive/"><u>[Updated] In 2024, Exploring and Utilizing Your Twitter Archive</u></a></li>
-<li><a href="https://games-able.techidaily.com/capture-the-dreamcatcher-spirit-playing-game-on-android/"><u>Capture the Dreamcatcher Spirit: Playing Game on Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-razers-breakthrough-the-gaming-keyboard-evolution/"><u>Dissecting Razer's Breakthrough: The Gaming Keyboard Evolution</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-steam-gifts-joyful-digital-delights/"><u>Effortless Steam Gifts: Joyful Digital Delights</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/free-conversion-of-audio-files-transforming-mp4-book-m4b-into-high-quality-flac-format-with-movavi/"><u>Free Conversion of Audio Files: Transforming MP4 Book (M4B) Into High-Quality FLAC Format with Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-responsiveness-at-an-attractive-price-point-for-games/"><u>High Responsiveness at an Attractive Price Point for Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-opening-cmd-on-windows-7-8-10-and-11-with-ease/"><u>Master Opening CMD on Windows 7, 8, 10 & 11 with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-combatting-high-disk-usage-from-microsoft-compatibility-telemetry/"><u>Troubleshooting Windows 10: Combatting High Disk Usage From Microsoft Compatibility Telemetry</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-potential-conquering-counter-strike-2-on-a-mac/"><u>Unleash Potential: Conquering Counter-Strike 2 on a Mac</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-download-comprehensive-guide-on-setting-up-qualcomm-atheros-ar3011-bluetooth/"><u>[Instant Download] Comprehensive Guide on Setting Up Qualcomm Atheros AR3011 Bluetooth</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-comparing-gopros-max-and-hero-11-for-the-best-video-quality-for-2024/"><u>[New] Comparing GoPro's Max and Hero 11 for the Best Video Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-video-hacks-instant-mp4-downloads/"><u>[New] FB Video Hacks Instant MP4 Downloads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-stream-google-meet-to-youtube-step-by-step-guide/"><u>[New] How To Stream Google Meet to YouTube [Step-by-Step Guide]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-art-of-tall-videos-editing-vertical-media-for-impactful-insta-feeds/"><u>[Updated] The Art of Tall Videos Editing Vertical Media for Impactful Insta Feeds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-sweet-surveillance-guide-to-recording-summer-treats/"><u>2024 Approved Sweet Surveillance Guide to Recording Summer Treats</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-ultimate-guide-upgrade-your-fb-videos-with-hd-mp4-format-forfree/"><u>2024 Approved The Ultimate Guide Upgrade Your FB Videos with HD MP4 Format – Forfree</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieving-email-clarity-how-to-utilize-labels-for-messaging-order-in-gmail/"><u>Achieving Email Clarity: How to Utilize Labels for Messaging Order in Gmail</u></a></li>
+<li><a href="https://games-able.techidaily.com/better-decision-making-for-your-oled-purchase/"><u>Better Decision-Making for Your OLED Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-screen-real-insights-into-gaming-promos/"><u>Beyond the Screen: Real Insights Into Gaming Promos</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-bonds-5-cooperative-mini-games-in-mc/"><u>Building Bonds: 5 Cooperative Mini-Games in MC</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-mousepads-reviewed/"><u>Champion Mousepads Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/clarifying-discords-idling-codes-reality-or-myth/"><u>Clarifying Discord’s Idling Codes: Reality or Myth?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/kostengunstige-methode-zur-reparatur-von-beschadigten-datentragern-mit-cmd-eine-einfache-anleitung/"><u>Kostengünstige Methode Zur Reparatur Von Beschädigten Datenträgern Mit Cmd: Eine Einfache Anleitung</u></a></li>
 </ul></div>
 

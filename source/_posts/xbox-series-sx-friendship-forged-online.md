@@ -1,7 +1,7 @@
 ---
 title: "Xbox Series S/X: Friendship Forged Online"
-date: 2025-01-10T19:16:31.776Z
-updated: 2025-01-17T01:14:01.233Z
+date: 2025-02-06T22:23:54.666Z
+updated: 2025-02-11T23:42:34.760Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is a Club on the Xbox Series X|S?
@@ -44,23 +44,19 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 ![People Tab of Xbox Home Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/people-tab-of-xbox-home-menu.jpg)
 3. Select**Friends & Community Updates** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select**Clubs on Xbox** and press**Create a Club** .  
 ![Clubs on Xbox Button in Community Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clubs-on-xbox-button-in-community-menu.jpg)
 5. Select whether you want to make a**Public** ,**Private** , or**Hidden** group. Public means anyone can find, play, and see your club's content, but only members can chat. Private means anyone can see your club, but only members can engage with it, and hidden means that only members can see or engage with the club.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Club Types on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-types-on-xbox.jpg)
 6. Now comes the hardest part—thinking of a name for your club. If you’re creating the club to find players to play a certain game, giving it a name that resonates with that game is a good start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Select**Create club** once you’ve made your choices.
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  And just like that, you have created your Club. You just have to sit back and wait for the tags to do their work before you can start playing the[best co-op games on the Xbox Series X|S](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/) with your new friends.
 
  Provided it’s not hidden, of course. If it is, you will have to press**Invite someone** on the Club home page and send your invites out to your lucky recipients manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Delete a Club on the Xbox Series X|S
 
@@ -84,11 +84,11 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 ![Delete Club Screen Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-club-screen-xbox.jpg)
 6. Make your way to the**Ownership** section, and press**Delete club** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Your Club will now be deleted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Share Your Love of Gaming With Others
 
@@ -111,21 +111,21 @@ Your Club will now be deleted.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-make-a-boomerang-on-snapchat-a-comprehensive-guide/"><u>[New] In 2024, Make a Boomerang on Snapchat – A Comprehensive Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-quick-voice-mods-for-pubg-top-easy-techniques-for-2024/"><u>[New] Quick Voice Mods for PUBG Top Easy Techniques for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unlocking-the-full-potential-of-iphone-7-screen-save/"><u>[New] Unlocking the Full Potential of iPhone 7 Screen Save</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-noticing-lack-of-interaction-in-chatworld/"><u>[Updated] 2024 Approved Noticing Lack of Interaction in Chatworld</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-starting-from-scratch-on-youtube-channel-creation-and-monetization-basics/"><u>[Updated] In 2024, Starting From Scratch on Youtube Channel Creation and Monetization Basics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030006099-xvideos/"><u>「最新！フリーでクオリティ高いXVideosコンテンツ保存方法一手引き」</u></a></li>
-<li><a href="https://win-able.techidaily.com/deathloop-stability-issues-heres-how-to-keep-it-running-smoothly-on-pc/"><u>Deathloop Stability Issues? Here's How to Keep It Running Smoothly on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/devices-in-the-ring-tablet-vs-smartphone-for-gamers/"><u>Devices in the Ring: Tablet Vs. Smartphone for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-visual-experience-controlling-ambiance-on-microsoft-devices/"><u>Enhancing Visual Experience: Controlling Ambiance on Microsoft Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-honor-90-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Honor 90 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/inside-the-tech-what-makes-amds-rx-7800xt-and-7700xt-stand-out/"><u>Inside the Tech: What Makes AMD's RX 7800XT & 7700XT Stand Out</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-waters-of-live-streaming-with-twitch-app-mobile/"><u>Navigate the Waters of Live Streaming with Twitch App (Mobile)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/y-for-hidden-shorts-video-thumbnails-for-2024/"><u>Remedy for Hidden Shorts Video Thumbnails for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/smooth-gaming-journey-overcoming-epics-windows-glitches/"><u>Smooth Gaming Journey: Overcoming Epic's Windows Glitches</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-versatility-with-windowssteamos-setup-on-deck/"><u>Unleash Versatility with Windows/SteamOS Setup on Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-exclusive-twitch-content-with-prime/"><u>Unlock Exclusive Twitch Content with Prime</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-maximizing-impact-with-google-based-podcast-uploads/"><u>[Updated] In 2024, Maximizing Impact with Google-Based Podcast Uploads</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-blueprint-for-brilliant-broadcasts-dos-and-donts-unveiled/"><u>[Updated] The Blueprint for Brilliant Broadcasts Do's & Don'ts Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-technology-with-toms-expert-guidance-on-computer-hardware/"><u>Discover Cutting-Edge Technology with Tom's Expert Guidance on Computer Hardware</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-compatible-epson-stylus-nx42n-driver-pack-for-windows-7810-install-now/"><u>Download Compatible Epson Stylus NX42n Driver Pack for Windows 7/8/10 - Install Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976840534-download-the-official-asus-dvd-driver-software-today/"><u>Download the Official ASUS DVD Driver Software Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-gaming-life-learn-how-to-effortlessly-play-steam-games-on-meta-quest/"><u>Enhance Your Gaming Life - Learn How to Effortlessly Play Steam Games on Meta Quest</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-boundless-possibilities-of-game-control-on-your-phonetablet/"><u>Explore the Boundless Possibilities of Game Control on Your Phone/Tablet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-how-chatgpts-current-info-retrieval-affects-us-all/"><u>Exploring How ChatGPT’s Current Info Retrieval Affects Us All</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-art-of-video-editing-employing-strikethrough-for-clarity/"><u>In 2024, The Art of Video Editing Employing Strikethrough for Clarity</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocn-39g1r-affordable-high-refresh-pace-monitor/"><u>InnoCN 39G1R: Affordable, High Refresh Pace Monitor</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-hp-officejet-4500-printing-solutions-find-your-updated-drivers-here/"><u>Newest HP Officejet 4500 Printing Solutions: Find Your Updated Drivers Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-tips-for-top-level-gamers-why-choose-steam-first/"><u>Pro Tips for Top-Level Gamers: Why Choose Steam First</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-steam-discrepancies-in-windows-files/"><u>Remedying Steam Discrepancies in Windows Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/review-illusions-why-gaming-metrics-are-misleading/"><u>Review Illusions: Why Gaming Metrics Are Misleading</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-your-console-link-fixing-the-controller-windows/"><u>Reviving Your Console Link: Fixing the Controller (Windows)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210064954-9781250779694-ultimate-energy-using-your-natural-energies-to-balance-body-mind-and-spirit/"><u>Ultimate Energy: Using Your Natural Energies to Balance Body, Mind, and Spirit | Free Book</u></a></li>
 </ul></div>
 

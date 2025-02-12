@@ -1,7 +1,7 @@
 ---
 title: Budget Breakdown for Switch Online Expansion
-date: 2024-07-29T05:58:11.608Z
-updated: 2024-07-30T05:58:11.608Z
+date: 2025-02-05T20:51:52.179Z
+updated: 2025-02-11T17:34:31.786Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
  Let's look at the Nintendo Switch Online Expansion Pack to see what it offers and whether you should sign up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Nintendo Switch Online?
 
  In case you're not familiar, Nintendo Switch Online is an optional paid subscription service available for the Nintendo Switch system. It grants you several benefits, including access to online multiplayer, cloud backup for your saved data, and a selection of classic NES, SNES, Game Boy, and Game Boy Color titles.
@@ -25,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
  See our[full overview of Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) for more details.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Switch Online Expansion Pack?
 
  The Expansion Pack includes everything from the base Switch Online plan, plus some additional benefits. It's available as a separate subscription, meaning that the core Switch Online service is still available and unchanged.
@@ -44,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
  Your interest in the Expansion Pack will likely depend on how many of its games you want to play, so let's list those next.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Games Included in the N64 Switch Online Library
 
  At the time of writing, the following Nintendo 64 titles are included in the Expansion pack:
@@ -84,17 +86,15 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
  Any games that support local multiplayer, such as Mario Tennis and Star Fox 64, are also playable online with friends. You can't matchmake with random opponents, though.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Games Included in the Genesis/Mega Drive Switch Online Library
 
  The Switch Expansion Pack also lets you play dozens of classic Sega Genesis titles. There are too many to list here; see[Nintendo's Genesis Switch Online page](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/) for a full list.
 
  Interestingly, several of these games were never officially released for the Genesis in North America. As with the N64 titles, any multiplayer-enabled games (including Gunstar Heroes and Streets of Rage 2) are playable with friends online, but there are no public matches.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Games Included in the Game Boy Advance Switch Online Library
 
  Nintendo's 32-bit handheld, the Game Boy Advance (GBA), is the latest system to get a library for Switch Online Expansion Pack members. Here's a list of included games:
@@ -114,8 +114,9 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
  Titles set to release in the future include Kirby & The Amazing Mirror, F-Zero Maximum Velocity, and the excellent JRPG Golden Sun. Notable in this pack is Super Mario Advance 4, as it includes levels that were previously only available via a GBA accessory called the e-Reader.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Nintendo Switch Expansion Pack: Included DLC
 
  In addition to the included games, the other major part of the Switch Online Expansion Pack is a few DLC packs for big Switch titles. Let's review what you get. Note that you must own the original title to access its DLC.
@@ -142,11 +143,6 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
  Five of the six "waves" of the DLC are available now, with the last set to release by the end of 2023\. If you drop your Switch Online membership, you'll have to pay the regular price of $24.99 to access these new courses again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## How Much Does the Switch Online Expansion Pack Cost?
 
  The Switch Online Expansion Pack is only available as an annual membership; there's no option to pay monthly like the base plan. Subscribing to the Expansion Pack costs $49.99 for 12 months, compared to $19.99/year for the regular subscription.
@@ -156,6 +152,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  To sign up, open the**Nintendo Switch Online** tab at the bottom of your Switch's home screen. You can also visit the[Switch Online membership page](https://ec.nintendo.com/US/en/membership) to sign up using your computer. If you've already paid for a Switch Online membership annually, you can get a prorated discount when you upgrade to the Expansion Pack, based on the time remaining in your plan.
 
 ![Switch Online Expansion Pack July 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Switch-Online-Expansion-Pack-July-2022.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### New Nintendo Switch Replica Controllers
 
@@ -185,9 +185,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  The same is largely true for the GBA titles. If you're a fan of Zelda, Metroid, Mario, or WarioWare and have never played the GBA entries in these franchises, there's enough value here to be worth a year's subscription at least.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### If You Want to Play All the DLCs
 
  If you plan to play the DLCs for Splatoon 2, Mario Kart 8 Deluxe, and Animal Crossing: New Horizons, the Expansion Pack has much more value. Those three packs are valued at $70 total, so if you pay for a year's worth of the service to experience them all, you've gotten a deal.
@@ -195,8 +192,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  However, keep in mind that for the Animal Crossing and Mario Kart expansions, you'll probably want ongoing access. The Splatoon 2 DLC isn't something you'll worry about much after clearing it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Expansion Pack's Price Is Too High
 
  The Expansion Pack being poorly priced compounds its other problems.[PlayStation Plus Essential and Xbox Live Gold each](https://www.makeuseof.com/tag/xbox-live-versus-playstation-plus-get/) cost just $10 more ($60/year), yet they offer free games, deeper discounts during sales, and much better online infrastructure. Switch Online, meanwhile, offers a pitiful excuse for party chat with its janky app implementation, and has additional classic games arrive at a glacial pace.
@@ -206,22 +204,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  We'd recommend finding a few friends and[subscribing to the shareable plan](https://www.makeuseof.com/tag/save-premium-subscriptions-9-shareable-accounts/) . That way, you can drop the price down to as low as $10/person/year, which negates some of the above worries.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Switch Online Expansion Pack: Decent, but Expensive
 
  The Switch Online Expansion Pack adds more classic games to the service, but at a high cost. You can get individual DLC and the Genesis games cheaper by purchasing them outright, and the Switch's N64 emulation isn't the best way to play those games. However, there's still enough here to make it worth the price for some, including some solid Game Boy Advance games.
 
  We'd recommend finding a few friends to bring down the cost if you don't have another way to play these games. That's just one method of spending less on Switch games.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -230,4 +226,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-audio-mastery-top-strategies-for-win10-users/"><u>[New] Audio Mastery Top Strategies for Win10 Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-tactics-for-android-video-capture/"><u>[New] In 2024, Essential Tactics for Android Video Capture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlock-the-secrets-of-effective-video-cropping-for-instagram/"><u>[New] In 2024, Unlock the Secrets of Effective Video Cropping for Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-virtual-artisans-haven-retreat/"><u>[Updated] Virtual Artisans' Haven Retreat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-and-ios-tips-for-optimal-chatgpt-use/"><u>Android & iOS Tips for Optimal ChatGPT Use</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-game-recognition-errors-in-steam-database/"><u>Correcting Game Recognition Errors in Steam Database</u></a></li>
+<li><a href="https://games-able.techidaily.com/digging-deep-into-downloading-minecraft-dungeons/"><u>Digging Deep Into Downloading Minecraft Dungeons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-fixing-the-infamous-phoenix-point-sudden-shutdown-issue/"><u>Expert Advice on Fixing the Infamous Phoenix Point Sudden Shutdown Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/initiating-a-gaming-league-on-xbox-10/"><u>Initiating a Gaming League on Xbox 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/level-up-strategy-discover-fun-and-innovative-chess-games/"><u>Level Up Strategy: Discover Fun & Innovative Chess Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/reduce-expenses-increase-fun-with-xbox-s/"><u>Reduce Expenses, Increase Fun with Xbox S</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-your-download-rate-for-valorant-on-windows-pc/"><u>Upgrade Your Download Rate for Valorant on Windows PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-f14-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy F14 5G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

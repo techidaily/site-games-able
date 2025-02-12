@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Meta: Significance and Enforced Rules in Gaming"
-date: 2024-07-29T05:59:33.172Z
-updated: 2024-07-30T05:59:33.172Z
+date: 2025-02-04T23:15:51.462Z
+updated: 2025-02-11T20:29:04.640Z
 tags:
   - games
 categories:
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 * [Are Metas Good or Bad for Gaming?](#are-metas-good-or-bad-for-gaming)
 * [Should You Follow the Meta in Games?](#should-you-follow-the-meta-in-games)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Metas can help keep games fresh and introduce new play methods, benefiting from consistent updates and tweaks.
@@ -32,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
  If you've ever played an online game, there's a good chance you've heard of the term "meta." Metas can make or break an online game, but it can be tricky to figure out what, exactly, a meta is. So, let's explore what a meta is and whether you should follow it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is a Meta in Gaming?
 
 ![A group of e-sports players in an arena.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/esport-arena1.jpg)
@@ -56,9 +54,6 @@ OpenAI / MakeUseOf
 
 ## Are Metas Good or Bad for Gaming?
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![woman playing first person shooter on gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/woman-playing-first-person-shooter-on-gaming-pc.jpg)
 
  DC Studio/[Shutterstock](https://www.shutterstock.com/image-photo/over-shoulder-view-african-american-gamer-2177467491)
@@ -68,8 +63,9 @@ OpenAI / MakeUseOf
  That's one of the fascinating things about metas. The core game can remain and persist through both good and bad meta changes. Let's look at how a meta can help or hurt a game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Metas Can Help Games
 
  Metas can sometimes be seen as "flavors of the month." This is especially true for a game that receives consistent updates that tweak how the game is played. In this way, metas can help keep the game from going "stale" and introduce new play methods.
@@ -81,6 +77,10 @@ OpenAI / MakeUseOf
  Magic the Gathering has the Standard format, where new batches of cards are introduced every six months, and cards become illegal to play in Standard after two years of their release unless it's reprinted. This allows Standard to have a "rotating meta" where there's a flow of new cards coming in and older cards falling out of Standard. Any particularly overpowered or annoying cards are banned.
 
  The end result is a meta that shifts every six months, which keeps Magic the Gathering from getting boring and allows players to find new combos and playstyles with the new cards. And while Magic the Gathering has had its fair share of oppressive metas, they have either been banned or drifted out of Standard. It's a great example of how a game can shed a bad meta, introduce a good one, and keep players happy and engaged.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Metas Can Harm Games
 
@@ -99,8 +99,9 @@ OpenAI / MakeUseOf
  Let's look at why you might want to follow along, why you might want to ignore the meta, and how to do so selectively.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Following the Game Meta Can Enhance Your Enjoyment
 
  If a meta is healthy and you enjoy playing in it, there's nothing wrong with following it. After all, the meta developed because people found the best way to achieve something within the game.
@@ -114,8 +115,9 @@ OpenAI / MakeUseOf
  That's where you'll find people actively discussing, debating, and often complaining about the meta of a given game. You'll have plenty of reading material!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### But Sometimes Following the Meta Kills the Fun
 
  On the flip side, some people don't like following the meta. They instead prefer to play as they desire, regardless of if it's the best tactic in-game.
@@ -130,14 +132,11 @@ OpenAI / MakeUseOf
 
  So you should never feel bad stepping back from a game when you realize that the game's meta has tricked you into a grind or play style you don't enjoy!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +145,20 @@ OpenAI / MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-seamlessly-blend-sound-and-visuals-editing-tips-for-canva-videos/"><u>[New] 2024 Approved Seamlessly Blend Sound & Visuals Editing Tips for Canva Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-scratch-to-screen-video-editing-with-youtube-and-others/"><u>[Updated] In 2024, From Scratch to Screen Video Editing with YouTube & Others</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unraveling-virtual-physical-coexistence-what-is-mixed-reality/"><u>[Updated] Unraveling Virtual-Physical Coexistence What Is Mixed Reality?</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-the-no-response-from-steam-servers-error/"><u>Addressing the No Response From Steam Servers Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-misleading-game-spots-insights-galore/"><u>Decoding Misleading Game Spots: Insights Galore</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solution-reviving-non-functioning-keys-on-your-hp-device/"><u>Effortless Solution: Reviving Non-Functioning Keys on Your HP Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-windows-performance-to-fix-steam-games-error/"><u>Enhancing Windows Performance to Fix Steam Games Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-ps5-upgrades-the-best-9-add-ons/"><u>Essential PS5 Upgrades: The Best 9 Add-Ons</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-enhanced-gaming-free-logitech-g-pro-driver-installer-for-windows-pcs/"><u>Experience Enhanced Gaming: Free Logitech G Pro Driver Installer for Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovos-stronghold-the-latest-on-the-legion-go/"><u>Lenovo's Stronghold: The Latest on the Legion Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-switch-key-settings-to-adjust/"><u>Mastering Your Switch: Key Settings to Adjust</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-motorola-defy-2-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Defy 2 Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformation-gratuite-dun-fichier-mod-a-avi-sur-internet-tapez-avec-movavi/"><u>Transformation Gratuite D'un Fichier MOD À AVI Sur Internet - Tapez Avec MOVAVI</u></a></li>
+</ul></div>
 

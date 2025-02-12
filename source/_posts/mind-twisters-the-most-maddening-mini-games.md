@@ -1,7 +1,7 @@
 ---
 title: "Mind-Twisters: The Most Maddening Mini-Games"
-date: 2025-01-24T17:11:41.305Z
-updated: 2025-01-30T18:34:29.004Z
+date: 2025-02-08T20:25:40.408Z
+updated: 2025-02-11T22:55:16.921Z
 tags:
   - games
 categories:
@@ -26,12 +26,16 @@ Let’s explore some of the names leading the scene.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Jump King
 
 ![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you just discovered[what Foddian games are](https://www.makeuseof.com/what-are-foddian-games/) , chances are you’ve heard of Jump King. It’s a massive title in the community, the completion of which holds a lot of sway. Jump King is one of the easiest Foddian games to grasp because of its simple mechanics.
 
@@ -49,6 +53,10 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Getting Over It
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
@@ -65,10 +73,6 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
@@ -80,6 +84,10 @@ Let’s explore some of the names leading the scene.
  Pogostuck is tough to complete but also great for a relaxed playthrough, as it is one of many[Steam Deck-compatible games](https://www.makeuseof.com/how-to-check-steam-deck-compatibility/) . It also has a multiplayer function, which the previously mentioned titles do not. As such, you can play with your friends and other players online while live tracking when someone completes a course in the same session as you.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Bread & Fred
 
@@ -96,16 +104,12 @@ Let’s explore some of the names leading the scene.
 **Download** : Bread & Fred on[Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and[Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Only Up
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
@@ -116,10 +120,6 @@ Let’s explore some of the names leading the scene.
  Only Up! was at the top of the livestreaming world for almost a month, but the hype has since died. What the game lacks in replayability, it more than makes up for in difficulty. All the same, reaching the top and triggering the final cutscene feels incredibly rewarding.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## It’s About the Journey
 
@@ -142,14 +142,16 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-walking-through-time-a-guide-to-inverted-videos-on-instagram/"><u>[New] 2024 Approved Walking Through Time A Guide to Inverted Videos on Instagram</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-set-up-facebook-cover-videos/"><u>[New] In 2024, Set up Facebook Cover Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-photo-framing-best-web-and-app-solutions/"><u>[New] Mastering Photo Framing Best Web and App Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-smooth-mouse-scrolling-action/"><u>Ensuring Smooth Mouse Scrolling Action</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-list-of-top-11-no-cost-words-games-androidios/"><u>Essential List of Top 11 No-Cost Words Games (Android/iOS)</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How Can I Create My Pokemon Overworld Maps On Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-huawei-p60-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Huawei P60 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/optical-vs-mechanical-switches-whats-best-for-gaming/"><u>Optical Vs. Mechanical Switches: What’s Best for Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/reasons-xbox-series-s-lacks-a-disc-drive/"><u>Reasons Xbox Series S Lacks a Disc Drive</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-amazons-premier-hits-peak-twitter-engagement-and-viewership/"><u>[New] 2024 Approved Amazon's Premier Hits Peak Twitter Engagement & Viewership</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-brevity-in-action-shortening-youtube-video-content/"><u>[New] 2024 Approved Brevity in Action Shortening YouTube Video Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhancing-your-film-edits-proficient-use-of-kinemaster-and-best-digital-options-for-2024/"><u>[Updated] Enhancing Your Film Edits Proficient Use of KineMaster & Best Digital Options for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-navigating-the-world-of-pc-screencasters-with-ease/"><u>[Updated] In 2024, Navigating the World of PC Screencasters with Ease</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/bridging-the-gap-luts-from-cg-central-to-movie-colors-for-2024/"><u>Bridging the Gap Luts From CG Central to Movie Colors for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/compatible-pc-building-a-7-step-blueprint/"><u>Compatible PC Building - A 7-Step Blueprint</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/embellish-slides-with-sonic-elements/"><u>Embellish Slides with Sonic Elements</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhancing-digital-screens-for-up-close-focus-for-2024/"><u>Enhancing Digital Screens for Up-Close Focus for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigational-wisdom-to-prevent-no-signal-woes-in-pokemon-go/"><u>Navigational Wisdom to Prevent No Signal Woes in Pokémon Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-upgrade-10-benefits-of-pc-over-console/"><u>The Ultimate Upgrade: 10 Benefits of PC over Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-dxvks-role-in-graphics-boosting-windows-games/"><u>Understanding DXVK's Role in Graphics Boosting Windows Games</u></a></li>
 </ul></div>
 

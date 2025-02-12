@@ -1,7 +1,7 @@
 ---
 title: The Cooling Cost of Graphics Gamble
-date: 2025-01-23T16:21:14.677Z
-updated: 2025-01-30T17:58:59.690Z
+date: 2025-02-07T22:31:18.240Z
+updated: 2025-02-11T20:06:24.529Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Increased Power Draw](#increased-power-draw)
@@ -33,16 +29,12 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  Overclocking lets you squeeze every last drop of performance that your graphics card has to offer. But is it worth all the effort and potential downsides? Well, not in my experience with my GeForce RTX 4090\. Let's discuss why.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Increased Power Draw
 
 ![MSI Afterburner and RTSS showing performance stats for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-and-rtss-showing-performance-stats-for-cyberpunk-2077.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Increased power draw is an inevitable side effect of overclocking, no matter how safely you[overclock your graphics card](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) . That's because to get more performance out of your graphics card, you need to provide it with more voltage in most cases.
 
@@ -52,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  In my experience with my RTX 4090, the energy consumption skyrocketed by 15-30 percent for a 2-5 percent boost in frame rate across various games. So, is overclocking worth the increased electricity costs? Not in my book.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Higher Operating Temperature
 
 ![MSI Afterburner running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-running-on-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another downside of raising the voltage while overclocking is increased heat dissipation. Simply put, the more voltage you supply, the more heat your graphics card generates. And nobody wants their graphics card to run too hot.
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  However, if your graphics card runs hot most of the time, expect a negative impact on its lifespan. Therefore, if you plan to keep your graphics card for several years, I highly recommend against overclocking it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Screen Flickering
@@ -74,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  While there are several[ways to fix screen flickering on Windows](https://www.makeuseof.com/tag/fix-windows-10-screen-flashing-problem/) , the only way to resolve it after an overclock is by either raising your GPU voltage or reverting the clocks to their default values.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Occasional Crashes While Gaming
 
 ![Cyberpunk 2077 crash message on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyberpunk-2077-crash-message-on-windows.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Besides screen flickering, your favorite games may occasionally crash after you overclock your GPU. This issue is predominant in games that are GPU-intensive. Once again, this is a good sign that your overclock isn't stable.
 
@@ -105,18 +105,17 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-4k-screen-capturing-solutions/"><u>[New] Premium 4K Screen Capturing Solutions</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-discords-premier-love-and-fun-sites/"><u>2024 Approved Discord's Premier Love and Fun Sites</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-nokia-xr21-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Nokia XR21</u></a></li>
-<li><a href="https://fox-that.techidaily.com/halt-double-notifications-disable-ipad-sounds-during-iphone-call-activation/"><u>Halt Double Notifications: Disable iPad Sounds During iPhone Call Activation</u></a></li>
-<li><a href="https://games-able.techidaily.com/helldivers-2-and-its-impact-on-future-game-development/"><u>Helldivers 2 and Its Impact on Future Game Development</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205309142-how-to-correctly-align-a-laptop-display-no-more-inverted-screens/"><u>How to Correctly Align a Laptop Display: No More Inverted Screens!</u></a></li>
-<li><a href="https://games-able.techidaily.com/ignite-the-passion-expand-on-the-fallout-series/"><u>Ignite the Passion: Expand on The Fallout Series</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-there-merit-to-in-game-purchases-in-premiums/"><u>Is There Merit to In-Game Purchases in Premiums?</u></a></li>
-<li><a href="https://games-able.techidaily.com/slam-dunk-the-best-ios-and-android-sports-gaming-hits/"><u>Slam Dunk! The Best iOS and Android Sports Gaming Hits</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-gameplay-efficiently-change-nintendo-switch-joy-con-joysticks/"><u>Transform Gameplay: Efficiently Change Nintendo Switch Joy-Con Joysticks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unmissable-bargains-amazon-tech-deals-for-prime-shoppers-2024-edition/"><u>Unmissable Bargains: Amazon Tech Deals for Prime Shoppers, 2024 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-is-amd-rdna-35-and-when-will-it-launch/"><u>What Is AMD RDNA 3.5 and When Will It Launch?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frame-by-frame-verbalizer/"><u>[New] In 2024, Frame by Frame Verbalizer</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-free-high-quality-screenshot-apps/"><u>[Updated] In 2024, The Ultimate List of Free, High-Quality Screenshot Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/bingeboosting-battles-seasonal-gaming-boons/"><u>BingeBoosting Battles: Seasonal Gaming Boons</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-bridge-between-ps5-and-smartphone/"><u>Bluetooth Bridge Between PS5 and Smartphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-conscious-rgb-and-backlight-options/"><u>Budget-Conscious RGB and Backlight Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/ceasing-random-mouse-scroll-motions/"><u>Ceasing Random Mouse Scroll Motions</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-up-steam-decks-synchronization-hurdles/"><u>Clearing Up Steam Deck's Synchronization Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004803159-elden-ring-wont-start-here-are-fixes-for-your-consoles-black-screen-dilemma/"><u>Elden Ring Won't Start? Here Are Fixes for Your Console's Black Screen Dilemma</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-computing-the-essential-guide-from-toms-hardware/"><u>Expert Insights on Computing: The Essential Guide From Tom's Hardware</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-assessing-camera-multicam-systems-in-modern-living-spaces/"><u>In 2024, Assessing Camera Multicam Systems in Modern Living Spaces</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-sony-xperia-5-v-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Sony Xperia 5 V? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/laymans-how-to-initiating-your-membership-on-the-playstation-community-site/"><u>Layman's How-To: Initiating Your Membership on the PlayStation Community Site</u></a></li>
 </ul></div>
 

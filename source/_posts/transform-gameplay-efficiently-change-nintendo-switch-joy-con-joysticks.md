@@ -1,7 +1,7 @@
 ---
 title: "Transform Gameplay: Efficiently Change Nintendo Switch Joy-Con Joysticks"
-date: 2025-01-10T00:24:53.018Z
-updated: 2025-01-16T23:57:48.161Z
+date: 2025-02-05T20:49:59.362Z
+updated: 2025-02-11T19:46:34.161Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 ![Close up of Nintendo Switch Pikachu and Eevee Joy Cons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Close-up-of-Nintendo-Switch-Pikachu-and-Eeve-joy-cons.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to[fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
@@ -41,19 +41,11 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Do I Need to Replace the Joysticks in My Nintendo Switch Joy-Con?
 
  There are a couple of tools you will require to complete the task at hand. These can all be purchased individually or in sets from sites like eBay or Amazon for just a couple of dollars each.
 
 ![Tools For Replacing Joy Con Joystick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/tools-for-replacing-joy-con-joystick.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * 1.5mm tri-wing screwdriver.
 * 2.0mm Phillips head screwdriver.
@@ -62,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 * A replacement joystick. These are universal, so don’t worry about having to locate a left or right one.
 
  It isn’t compulsory for the replacement, but you would also seriously benefit from using a small dish to keep all your loose screws.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Replace the Joysticks in Your Nintendo Switch Joy-Con
 
@@ -79,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 ![Joy Con Three Middle Plate Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-three-middle-plate-screws-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Remove the ribbon cable holding the center plate on by gently lifting the flap and pulling it out.
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 3. Unplug the ribbon cable that runs over the top of the joystick.  
 ![Joystick Ribbon Cables in Joy Con](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joystick-ribbon-cables-in-joy-con-1.jpg)
 4. Grab your 2.0mm Phillips head screwdriver and remove the two screws holding the joystick in place. Gently wiggle the joystick until it releases and place it to the side.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Take your new joystick and place it in position, then reinstall the two screws you just removed with your 2.0mm Phillips head screwdriver.  
 ![Joy Con Joystick Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-joystick-screws.jpg)
@@ -100,13 +100,13 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 ![Joy Con Battery Plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-battery-plug.jpg)
 5. Place the backplate on and screw the four screws back in using the 1.5mm tri-wing screwdriver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your Joy-Con should now be as good as new. The last step is to use the joystick calibration tool to make sure everything is working as it should. You can find the calibration tool in the Switch’s settings. Scroll down to**Controllers and Sensors** , press**Calibrate Control Sticks** , and follow the on-screen prompts to calibrate your joysticks.
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
@@ -131,20 +131,22 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-direct-from-twitter-posting-engaging-video-content-on-snapchat/"><u>2024 Approved Direct From Twitter Posting Engaging Video Content on Snapchat</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-from-concept-to-completion-using-magix-video-pro-x/"><u>2024 Approved From Concept to Completion Using Magix Video Pro X</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-quick-start-downloading-and-using-tiktok-on-macbook/"><u>2024 Approved Quick Start Downloading and Using TikTok on MacBook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-sonic-update-for-whatsapp-statues/"><u>2024 Approved Sonic Update for WhatsApp Statues</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-no-cost-adventures-on-the-switch/"><u>Discover No-Cost Adventures on the Switch</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/enhance-gaming-sessions-the-ultimate-tutorial-for-connecting-discord-and-ps5/"><u>Enhance Gaming Sessions: The Ultimate Tutorial for Connecting Discord and PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoyable-earnest-and-economically-friendly-games/"><u>Enjoyable, Earnest, and Economically Friendly Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/games-historical-price-tags-on-steam-revealed/"><u>Games' Historical Price Tags on Steam Revealed</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-y17s-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo Y17s to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-integrating-pre-recorded-content-into-facebook-live-shows/"><u>In 2024, Integrating Pre-Recorded Content Into Facebook Live Shows</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovation-standouts-mwc-and-makeuseof-winners/"><u>Innovation Standouts: MWC and MakeUseOf Winners</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-latest-version-of-amd-radeon-drivers-for-enhanced-gaming-on-windows-pcs/"><u>Install the Latest Version of AMD Radeon Drivers for Enhanced Gaming on Windows PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-imperative-to-innovate-microsofts-quadruple-strategy-for-xbox-points/"><u>The Imperative to Innovate: Microsoft's Quadruple Strategy for Xbox Points</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-technique-for-gpu-powered-film-extraction/"><u>The Ultimate Technique for GPU-Powered Film Extraction</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visual-verve-essential-guide-for-iphones-photo-cropping/"><u>Visual Verve Essential Guide for iPhone's Photo Cropping</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-turn-mundane-games-into-epic-scenes/"><u>[New] 2024 Approved How to Turn Mundane Games Into Epic Scenes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-5-rapid-methods-to-upgrade-your-indoor-film-project/"><u>[New] In 2024, 5 Rapid Methods to Upgrade Your Indoor Film Project</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tips-and-tricks-for-successful-social-media-video-for-2024/"><u>[New] Tips & Tricks for Successful Social Media Video for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-joyful-jokes-youtubes-funniest-creators-to-relax-with/"><u>[Updated] 2024 Approved Joyful Jokes YouTube's Funniest Creators to Relax With</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-8-ultimate-online-photo-mosaic-compiler/"><u>[Updated] 8 Ultimate Online Photo Mosaic Compiler</u></a></li>
+<li><a href="https://win11.techidaily.com/countering-dxgideviceremoved-failsafe-techniques/"><u>Countering DXGI_DEVICE_REMOVED Failsafe Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/determining-the-peak-of-visual-technology-oled-amoled-or-ips/"><u>Determining The Peak Of Visual Technology: OLED, AMOLED or IPS?</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-frame-by-frame-gaming-archives/"><u>Efficient Frame-by-Frame Gaming Archives</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-stuttering-glitches-while-playing-age-of-empires-4-expert-tips-and-tricks/"><u>Eliminating Stuttering Glitches While Playing Age of Empires 4: Expert Tips & Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-fallouts-multi-media-journey/"><u>Embark on Fallout’s Multi-Media Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/gain-monthly-access-opera-and-free-discord-nitro-junction/"><u>Gain Monthly Access: Opera & Free Discord Nitro Junction</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-google-pixel-8-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Google Pixel 8 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-mmos-new-horizon-a-fresh-perspective/"><u>Navigating MMO’s New Horizon: A Fresh Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-boundaries-razer-basilisk-v3-pro-for-gamers/"><u>Pushing Boundaries: Razer Basilisk V3 Pro for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconciling-missing-games-with-your-steam-database/"><u>Reconciling Missing Games with Your Steam Database</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharging-ps5-with-these-essential-features/"><u>Supercharging PS5 with These Essential Features</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/top-ranked-transpo-cost-control-firm-accelerates-bill-approvals-via-intelligent-data-systems/"><u>Top-Ranked Transpo Cost Control Firm Accelerates Bill Approvals via Intelligent Data Systems</u></a></li>
 </ul></div>
 

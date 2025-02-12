@@ -1,7 +1,7 @@
 ---
 title: "Command the Century: Ranking the 11 Finest WW2 Games"
-date: 2024-07-29T05:59:32.357Z
-updated: 2024-07-30T05:59:32.357Z
+date: 2025-02-06T16:07:03.177Z
+updated: 2025-02-11T20:34:30.018Z
 tags:
   - games
 categories:
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  From squad-based combat to continental-scale strategy, you can step into some of the most famous battles of all time to test your strategic mettle. Here are the best WW2 strategy games, both old and new, that are worth playing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1. Company of Heroes 3
 
  The original Company of Heroes is one of the best examples of real-time strategy games period, let alone in the war genre. The third entry is equally impressive.
@@ -28,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
  Company of Heroes 3 offers campaign and skirmish modes in single player as well as online multiplayer fun. It looks great too, with an impressive sandbox that lets you blow up buildings to create dynamic cover.
 
  If you've never played a Company of Heroes game before, it's easy to jump in here thanks to the Full Tactical Pause feature available in single-player, which lets you pause the action and plan an attack at your own pace.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2. Steel Division 2
 
@@ -38,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
  On top of all that, the game looks great. So much attention has been paid to the vehicles and environments that you'll feel totally immersed in the World War II experience.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3. Hearts of Iron IV
 
  Instead of controlling individual units, Hearts of Iron IV puts you in command of the highest-level strategy in the war. You develop technology, build and outfit armies, control forces on land, sea, and air, and launch invasions that will change the tide of the war.
@@ -64,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  Once you're done with the game's main content, you can use the powerful scenario editor to build your own campaigns and maps with ease. Panzer Corps 2 is so deep that you may never need to buy another WW2 game again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 6. Codename: Panzers
 
  Codename: Panzers was first released in 2004, but it has since been remastered to work with modern systems and support larger resolutions. Despite its age, this is a game that is still worth playing thanks to its timeless tactical fun.
@@ -76,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
  While there is an online multiplayer mode to keep you happy, you should definitely check out the story mode, which is engrossing and supported by great voice acting.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7. War in the East
 
  War in the East is a different type of WW2 strategy game. It descends from a long line of tabletop war games, and it shows; it captures the look of cardboard pieces on paper maps.
@@ -86,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  Beyond combat, you also manage production, supply lines, weather, and fog of war effects. This is a complicated, challenging strategy game that you can sink hundreds of hours into.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 8. Men of War: Assault Squad 2
 
  If you're looking for a WW2 strategy game that has a lot to offer, you can't go wrong with Assault Squad 2\. It's a top-down real-time strategy game that lets you control every unit in your squad. 200 soldiers with unique loadouts, 250 vehicles, and five different factions make for a huge amount of variety.
@@ -96,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
  There's a realistic and gritty feel here that few games manage to capture—it's almost like starring in one of[the best World War II movies](https://www.makeuseof.com/tag/world-war-ii-movies-watch-netflix/) . The graphics are great and help immerse in the action. You face off against other armored units, engage in sniper battles, and pit groups of infantry against the enemy in massive engagements.
 
  Be warned that this game won't hold your hand and you will find it very difficult. Welcome to World War II.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9. Sudden Strike 4
 
@@ -106,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
  If you're looking for a console-based WW2 strategy experience, Sudden Strike 4 is the way to go.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10. Unity of Command II
 
  If you only decide to buy one WW2 strategy game, you can't go wrong with Unity of Command II. It's a follow-up to the 2011 cult classic, putting you in command of the Western Allies as you manage their supply and logistics.
@@ -130,14 +132,11 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  If you don't fancy buying a game right now, or just want something to dip into wherever you are, consider exploring strategy games available free via your browser.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +145,21 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-visionary-backdrop-transformers-photorealm-innovation/"><u>[New] In 2024, Visionary Backdrop Transformers PhotoRealm Innovation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-know-your-rights-sharing-videos-with-friends-on-fb-for-2024/"><u>[New] Know Your Rights Sharing Videos with Friends on FB for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-3-pasos-sencillos-transferir-tus-datos-del-servidor-de-archivos-synology-a-un-dispositivo-de-almacenamiento-qnap/"><u>1. [3 Pasos Sencillos] Transferir Tus Datos Del Servidor De Archivos Synology a Un Dispositivo De Almacenamiento QNAP</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-hardware-and-downloads-for-bg3-lovers/"><u>Dive Into Hardware & Downloads for BG3 Lovers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-elite-collection-of-online-video-grabbers-and-savers/"><u>In 2024, Elite Collection of Online Video Grabbers & Savers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy XCover 7?</u></a></li>
+<li><a href="https://games-able.techidaily.com/level-up-essential-adjustments-to-boost-ps4/"><u>Level Up: Essential Adjustments to Boost PS4</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/professional-guide-to-the-leading-tablets-comprehensive-evaluations-from-zdnet/"><u>Professional Guide to the Leading Tablets : Comprehensive Evaluations From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/reasons-that-keep-gamefi-from-capturing-the-masses/"><u>Reasons That Keep GameFi From Capturing the Masses</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-ps5-audio-via-bluetooth-technology/"><u>Sony PS5 Audio via Bluetooth Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-destination-for-steam-shot-savings/"><u>The Destination for Steam Shot Savings</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-manual-for-xbox-one-connections/"><u>The Essential Manual for Xbox One Connections</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-empfehlungen-fur-backup-programme-unter-microsoft-windows-fur-privatanwender-and-firmenkunden/"><u>Top-Empfehlungen Für Backup-Programme Unter Microsoft Windows Für Privatanwender & Firmenkunden</u></a></li>
+</ul></div>
 

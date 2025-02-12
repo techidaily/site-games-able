@@ -1,7 +1,7 @@
 ---
 title: How to Quell the Game Bar on Windows 10/11 PCs
-date: 2025-01-27T16:27:46.238Z
-updated: 2025-01-30T18:18:53.503Z
+date: 2025-02-07T23:55:17.453Z
+updated: 2025-02-11T23:30:56.796Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable the Xbox Game Bar in Windows 10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 4. Turn off the toggle under the**Xbox Game Bar** .  
 ![disable the xbox gamebar in windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Restrict Xbox Game Bar's Background Activity in Windows 11
 
  Unlike Windows 10, Windows 11 does not offer an easy way to disable the Xbox Game Bar completely. Therefore, you will have to block the app from running in the background to save system resources. Here's how you can do that:
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 4. Search**"Xbox"** in the search bar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click the**three horizontal dots** next to the**Xbox Game Bar** app and select**Advanced options** .  
@@ -56,20 +60,16 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 6. Select**Never** in the dropdown menu under**Let this app run in the background** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Like disabling the Xbox Game Bar, you can tweak a few settings to[improve your gaming performance on Windows 10](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) and[Windows 11](https://www.makeuseof.com/improve-gaming-experience-windows-11/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Don't Let the Xbox Game Bar Drain Your System Resources
 
@@ -92,15 +92,20 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-superior-class-of-8-best-4k-high-definition-players/"><u>[Updated] 2024 Approved Superior Class of 8 Best 4K High Definition Players</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile/"><u>2024 Approved The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-upcoming-subtle-but-powerful-ai-innovation-revealed-at-wwdc-the-hidden-gem-of-tech/"><u>Apple's Upcoming Subtle but Powerful AI Innovation Revealed at WWDC: The Hidden Gem of Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-excellence-achieved-with-oled-technology/"><u>Gaming Excellence Achieved with OLED Technology</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-frolic-fables-a-vhs-review-of-the-comical-epic/"><u>In 2024, 'Frolic Fables' - A VHS Review of The Comical Epic</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-innovative-approaches-to-run-a-winning-fb-giveaway/"><u>In 2024, Innovative Approaches to Run a Winning FB Giveaway</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-straightforward-steps-upside-down-video-with-vlc-software/"><u>In 2024, Straightforward Steps Upside-Down Video with VLC Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/slipping-past-the-watchful-gaze/"><u>Slipping Past the Watchful Gaze</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-cost-of-enhancing-nintendo-switch-connectivity/"><u>The Cost of Enhancing Nintendo Switch Connectivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-path-to-mastering-steams-review-system/"><u>The Path to Mastering Steam's Review System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-key-to-flawless-tiktok-profile-hyperlinking/"><u>[New] The Ultimate Key to Flawless TikTok Profile Hyperlinking</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-comprehensive-guide-to-precision-screen-capture/"><u>[Updated] 2024 Approved The Comprehensive Guide to Precision Screen Capture</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-a-beginners-guide-to-youtube-seo-keywords-for-2024/"><u>[Updated] A Beginner's Guide to YouTube SEO Keywords for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-elite-hue-refiner-toolkit/"><u>[Updated] Elite Hue Refiner Toolkit</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-social-media-to-monetary-success-the-roadmap-for-instagram-sponsorship/"><u>[Updated] From Social Media to Monetary Success The Roadmap for Instagram Sponsorship</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-whats-new-in-vr/"><u>2024 Approved What's New in VR?</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-epic-stories-for-games-using-ai/"><u>Crafting Epic Stories for Games Using AI</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/novice-to-expert-ascending-with-asmr-video-production-tactics/"><u>From Novice to Expert Ascending with ASMR Video Production Tactics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-repair-microsoft-teams-microphone-in-windows-1011/"><u>How to Enable and Repair Microsoft Teams Microphone in Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/portability-perfected-choosing-the-best-nintendo-switch-docks/"><u>Portability Perfected: Choosing the Best Nintendo Switch Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-playstation-sound-streaming-technique/"><u>Sony's PlayStation Sound Streaming Technique</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-duel-smartphone-gaming-vs-tablet-experience/"><u>Tech Duel: Smartphone Gaming VS. Tablet Experience</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/troubleshooting-your-scanner-essential-tips-and-steps-by-yl-software-experts/"><u>Troubleshooting Your Scanner - Essential Tips and Steps by YL Software Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-games-with-xbox-game-pass/"><u>Unlocking Your Games with Xbox Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-seven-mobile-game-shortcomings/"><u>Unveiling Seven Mobile Game Shortcomings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unblocking Steam's Friends Error in Windows 11
-date: 2025-01-28T17:38:37.313Z
-updated: 2025-01-30T16:34:19.447Z
+date: 2025-02-06T16:30:39.531Z
+updated: 2025-02-11T19:25:42.353Z
 tags:
   - games
 categories:
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 Restart Steam and check if the issue is now fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Steam Friends & Chat Settings
@@ -50,7 +50,7 @@ Restart Steam and check if the issue is now fixed.
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Opt Out of Steam’s Beta Participation
@@ -66,7 +66,7 @@ Restart Steam and check if the issue is now fixed.
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Edit Steam’s Executable
@@ -83,14 +83,10 @@ Restart Steam and check if the issue is now fixed.
 
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Delete Steam's Web Data
@@ -106,6 +102,10 @@ Restart Steam and check if the issue is now fixed.
 7. Close the game, restart Steam, and check if the issue is now solved.
 
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
 
@@ -126,24 +126,15 @@ Restart Steam and check if the issue is now fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-7-free-video-editing-programs-that-work-flawlessly/"><u>[Updated] 2024 Approved 7 Free Video Editing Programs That Work Flawlessly</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-excellence-in-endless-data-archiving-services-for-2024/"><u>[Updated] Excellence in Endless Data Archiving Services for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-complete-mobizen-users-handbook-for-screen-capturing/"><u>[Updated] In 2024, The Complete Mobizen User's Handbook for Screen Capturing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-guide-to-best-internet-recording-tools-2023/"><u>[Updated] In 2024, Ultimate Guide to Best Internet Recording Tools 2023</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-refining-images-how-to-use-the-eraser-tool-in-psx/"><u>2024 Approved Refining Images How to Use the Eraser Tool in PSX</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-list-gamers-journey-tracking-sites/"><u>A-List Gamers' Journey Tracking Sites</u></a></li>
-<li><a href="https://games-able.techidaily.com/access-all-features-on-xbox-1-without-standard-controls/"><u>Access All Features on Xbox 1 without Standard Controls</u></a></li>
-<li><a href="https://games-able.techidaily.com/breaking-down-believability-why-game-reviews-arent-always-reliable/"><u>Breaking Down Believability: Why Game Reviews Aren't Always Reliable</u></a></li>
-<li><a href="https://fox-info.techidaily.com/clearshot-smoother-mobile-film-gadgetry/"><u>ClearShot Smoother - Mobile Film Gadgetry</u></a></li>
-<li><a href="https://games-able.techidaily.com/curtailing-xbox-game-bars-intrusive-activities-in-windows-11/"><u>Curtailing Xbox Game Bar's Intrusive Activities in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hero5-and-yi-4k-face-off-action-cam-wars/"><u>In 2024, Hero5 and Yi 4K Face-Off Action Cam Wars</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-superior-choices-in-group-chat-software/"><u>In 2024, Superior Choices in Group Chat Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-investing-in-automation-why-i-committed-to-the-premium-robomower-6000-for-my-yard/"><u>Inside Look: Investing in Automation – Why I Committed to the Premium RoboMower ($6,000) for My Yard</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-pre-launch-path-to-starfield-experience/"><u>Navigating the Pre-Launch Path to Starfield Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-tracker-for-video-game-quests/"><u>Prime Tracker for Video Game Quests</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-gaming-experience-reasons-to-ditch-ps5-mics/"><u>Secure Gaming Experience: Reasons to Ditch PS5 Mics</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategic-tech-investment-cpu-or-gpu-first/"><u>Strategic Tech Investment: CPU or GPU First?</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-hidden-internet-capabilities-of-ps5/"><u>Unlocking Hidden Internet Capabilities of PS5</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-foundation-of-a-great-facebook-presence-mastering-covers/"><u>[New] 2024 Approved The Foundation of a Great Facebook Presence Mastering Covers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-the-metaverse-essential-gear-to-consider-top-7/"><u>[New] Transforming the Metaverse Essential Gear to Consider (Top 7)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix .</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/essential-techniques-for-color-enhancement-in-ps-for-2024/"><u>Essential Techniques for Color Enhancement in PS for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-ai-innovation-comparing-gpt-4-with-its-siblings-gpt-4-turbo-and-gpt-n/"><u>Inside AI Innovation: Comparing GPT-4 with Its Siblings, GPT-4 Turbo & GPT-N</u></a></li>
+<li><a href="https://games-able.techidaily.com/reaching-new-heights-with-luxury-chairs/"><u>Reaching New Heights with Luxury Chairs</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverse-latest-xbox-joystick-calibration/"><u>Reverse Latest Xbox Joystick Calibration</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-dark-side-of-handheld-gaming/"><u>The Dark Side of Handheld Gaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-building-dungeons-and-dragons-heroes-via-chatgptdall-e/"><u>The Ultimate Guide to Building Dungeons & Dragons Heroes via ChatGPT/DALL-E</u></a></li>
+<li><a href="https://games-able.techidaily.com/void-virtuoso-investigating-new-tech-brands/"><u>Void Virtuoso: Investigating New Tech Brands</u></a></li>
 </ul></div>
 

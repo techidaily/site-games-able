@@ -1,7 +1,7 @@
 ---
 title: "From Sign-Up to Subscription: Optimizing Every Gaming Moment in EA Play PS5"
-date: 2025-01-28T18:31:08.421Z
-updated: 2025-01-30T16:14:54.905Z
+date: 2025-02-08T22:21:58.174Z
+updated: 2025-02-11T18:27:18.754Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is EA Play?
 
  Essentially, EA Play (once known as EA Access) is a subscription service for PlayStation and Xbox that offers select EA titles to “rent” while your subscription is on. It also gives you a 10% discount on some non-free titles, season passes, points packs, and DLCs. Lastly, EA Play membership will give you a free 10-hour early access trial to some EA games, and your progress will sync should you choose to buy the game.
@@ -47,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-in-playstation-store-s-subscription-page.JPG)
 4. Select**$4.99** and choose**Order & Pay** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
  If you have money in your wallet, EA Play will debit the wallet before any other payment method—even on subsequent renewals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use an EA Play Membership on the PS5
@@ -64,19 +64,19 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
 
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
@@ -111,18 +111,20 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-capture-clarity-best-webcams-to-elevate-your-podcasts/"><u>[New] Capture Clarity Best Webcams to Elevate Your Podcasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-efficient-digital-voice-alteration-for-vtubers/"><u>[New] In 2024, Efficient Digital Voice Alteration for VTubers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-from-passive-viewers-to-earnings-youtubes-monetization-mastery-for-2024/"><u>[Updated] From Passive Viewers to Earnings YouTube's Monetization Mastery for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/269438-9780743293679-another-door-opens/"><u>Another Door Opens | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-savvy-whitescape-choices-the-best-systems-in-2-writes/"><u>Budget-Savvy Whitescape Choices: The Best Systems in 2 Writes</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-ios-why-apple-arcade-wins-my-heart/"><u>Discovering iOS: Why Apple Arcade Wins My Heart</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/essential-knowledge-for-using-final-cut-pro-effectively/"><u>Essential Knowledge for Using Final Cut Pro Effectively</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-games-beta-top-10-games-to-try-on-pc/"><u>Google Play Games Beta: Top 10 Games to Try on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-accelerate-downloads-in-utorrent-expert-advice-for-faster-torrenting/"><u>How To Accelerate Downloads in uTorrent – Expert Advice for Faster Torrenting</u></a></li>
-<li><a href="https://games-able.techidaily.com/linking-headphones-to-sony-gaming-system/"><u>Linking Headphones to Sony Gaming System</u></a></li>
-<li><a href="https://games-able.techidaily.com/melody-mavericks-navigate-the-world-of-music-quizzes/"><u>Melody Mavericks: Navigate the World of Music Quizzes</u></a></li>
-<li><a href="https://games-able.techidaily.com/setting-up-ps5-friends-access/"><u>Setting Up PS5 Friends' Access</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-opengl32dll-file-absence-issues-a-step-by-step-guide/"><u>Solving OpenGL32.dll File Absence Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-identifying-the-perfect-hashtag-for-your-tiktok-profile/"><u>[New] In 2024, Identifying the Perfect Hashtag for Your TikTok Profile</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-perfecting-pics-with-practicality-top-5-pc-snipping-tools/"><u>[Updated] Perfecting Pics with Practicality - Top 5 PC Snipping Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-syma-x5c-a-beginners-prime-drone-choice/"><u>2024 Approved Unveiling the Syma X5C A Beginner’s Prime Drone Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-connectivity-for-playstation-audio-devices/"><u>Bluetooth Connectivity for PlayStation Audio Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/build-a-game-masterpiece-with-these-crucial-parts/"><u>Build a Game Masterpiece with These Crucial Parts</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-am08-pro-assert-its-authenticity-in-magic-gaming/"><u>Can AM08 Pro Assert Its Authenticity in Magic Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-amds-fsr-3-render-better-than-nvidias-dlss-35/"><u>Can AMD’s FSR 3 Render Better Than NVIDIA's DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-the-classic-dock-adapt-to-switchs-oled-display/"><u>Can the Classic Dock Adapt to Switch's OLED Display?</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-8-virtual-environments-playing-android-on-pcmac/"><u>Champion 8 Virtual Environments: Playing Android on PC/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-launcher-crash-with-error-code-0x803f8001-in-mcpc/"><u>Combatting Launcher Crash with Error Code 0X803F8001 in MCPC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-6s-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 6s With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-vivo-y200e-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y200e 5G Phone that is Locked?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-breaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>In 2024, Breaking Barriers World’s Best & Largest Shorts Downloaders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/key-facts-about-the-structure-of-lg-sales-channels/"><u>Key Facts About the Structure of LG Sales Channels</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-slash-high-graphic-demands-of-the-desktop-window-manager-on-windows-11/"><u>Troubleshooting Guide: Slash High Graphic Demands of the Desktop Window Manager on Windows 11</u></a></li>
 </ul></div>
 

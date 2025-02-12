@@ -1,7 +1,7 @@
 ---
 title: Best Seated Player Partnerships - Top 16 on Xbox Series S/X
-date: 2024-08-08T09:06:08.209Z
-updated: 2024-08-09T09:06:08.209Z
+date: 2025-02-06T22:34:25.348Z
+updated: 2025-02-11T21:00:49.412Z
 tags:
   - games
 categories:
@@ -19,11 +19,16 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
  Whether you're looking for something fast-paced or relaxing, the Xbox Series X/S has a great selection of local co-op games to choose from. Here, we've rounded up some of the best.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1. LEGO Star Wars: The Skywalker Saga
 
  Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for [excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2. Rocket League
 
@@ -39,16 +44,10 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
 
  Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally [decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5. Overcooked! All You Can Eat
 
  In Overcooked, you and your friends are the cute chefs that must keep up with the demands of the customers, with an onslaught of funny obstacles and wacky scenarios to keep you on your toes. You'll need to work in perfect sync to ensure your kitchen doesn't go up in flames. Expect arguments.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6. Portal 2
 
  Portal 2 first released in 2011, but this incredible game stands the test of time. While there is a superb single-player story, the co-op experience is equally fantastic and fully fledged. You and your robot chum must use the portal gun to navigate complex physical puzzles and escape the rooms.
@@ -62,43 +61,41 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
  In Unravel Two, you and a friend take control of Yarnys—two creatures made from yarn, connected by a single thread. You work together to navigate through a series of treacherous landscapes. This is the perfect Xbox game to play locally with someone who doesn't usually play many video games.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9. Halo: The Master Chief Collection
 
  Whether you're a Halo novice or veteran, The Master Chief Collection is the ultimate Xbox experience. It bundles six Halo games into a single package. All of them are worth playing—not only to see how they shaped the first-person shooter genre, but just because they're downright fun, especially when played in couch co-op.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10. Minecraft
 
  If you have a single creative bone in your body, you'll love Minecraft. Whatever you imagine, you can build in Minecraft. Don't let its deceptively simple blocky graphics put you off. You'll end up spending the whole day with your friends building and exploring, since Minecraft supports up to four players in local co-op.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11. Dirt 5
 
  Nowadays, it's rare for a racing game to offer split-screen, which is why it's so delightful that Dirt 5 does. It's a globe-trotting arcade racer that really gives you the sensation of being behind the wheel of some amazing vehicles, skirting across gravel, ice, and sand as you rev your way to the finish line. While playing Dirt 5 alone is fun, it really comes alive in local co-op.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12. Borderlands 3
 
  Whether you opt for Borderlands: The Handsome Collection (which includes Borderlands 2 and Borderlands: The Pre-Sequel) or Borderlands 3, you're in for some rollicking first-person fun as you shoot and loot with your friends through these hilarious games. Come for the action, stay for the witty characters.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 13. Rayman Legends
 
  Rayman is a certified gaming icon and the series has arguably never been better than in Rayman Legends, a 2D platformer that bursts at the seams with creativity and excitement. Not only is the colorful art a feast for the eyes, but the gameplay offers hours of perfectly finessed platforming fun.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 14. Crash Team Racing Nitro-Fueled
 
  You might know Crash Bandicoot best from his platformers, but Crash Team Racing Nitro-Fueled is a loving remake of the 1999 arcade kart racer. Expect mayhem as you race around wild tropical tracks, using silly items to throw your fellow racers off course. You can play Nitro-Fueled on your Xbox Series X/S with up to four others in local split-screen.
@@ -107,28 +104,19 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
 
  Get your thrills with The Quarry, a choice-based horror game where you control nine teenage summer camp counselors as they try to survive the night; your decisions impact who makes it until morning. It supports couch co-op for up to eight people, where each player is assigned a character and passes the controller around—ideal for cost-effective frights.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 16. Human Fall Flat
 
  Human Fall Flat is a puzzle platformer, tasking you and a friend to navigate through the themed environments. Sounds simple? It's anything but, with the slapstick physics meaning you'll be flailing through the levels. Though you can play this solo, you shouldn't—it's much funnier in couch co-op.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Choose Xbox for Endless Couch Co-Op Entertainment
 
  As you've seen, the Xbox Series X/S has a plethora of fabulous local co-op games to choose from, whether you're in the mood for a relaxing farming sim, frantic first-person shooter, or charming puzzle-platformer. Gaming doesn't have to be a solitary activity!
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,6 +125,22 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-vives-ultimate-virtual-journey-unparalleled-immersion/"><u>[New] In 2024, Vive's Ultimate Virtual Journey Unparalleled Immersion</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-best-portable-power-nintendo-switch-docks-guide/"><u>2024'S Best Portable Power: Nintendo Switch Docks Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-quiet-play-managing-xbox-alerts/"><u>Achieving Quiet Play: Managing Xbox Alerts</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-push-for-innovation-with-rdna-35-when-will-it-arrive/"><u>AMD's Push for Innovation with RDNA 3.5 - When Will It Arrive?</u></a></li>
+<li><a href="https://games-able.techidaily.com/atlasos-for-the-vintage-tech-enthusiast/"><u>AtlasOS for the Vintage Tech Enthusiast</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-data-disasters-with-steam-image-storage/"><u>Avoid Data Disasters with Steam Image Storage</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-boosted-game-pass-rate-strategies-to-save/"><u>Beat the Boosted Game Pass Rate: Strategies to Save!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-systems-the-ultimate-guide-to-pc-hardware/"><u>Exploring Tom's Systems: The Ultimate Guide to PC Hardware</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-fix-reappear-hidden-watch-video-icon/"><u>Facebook Fix Reappear Hidden Watch Video Icon</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-edge-40-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Edge 40 Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastery-check-unpacking-the-features-and-efficiency-of-poweradd-pilot-pro2-laptopdevice-charging-dock/"><u>Mastery Check: Unpacking the Features & Efficiency of POWERADD Pilot Pro2 Laptop/Device Charging Dock</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/review-of-ankers-foldable-triple-qi2-charger-the-ultimate-compact-and-portable-wireless-device/"><u>Review of Anker's Foldable Triple Qi2 Charger - The Ultimate Compact and Portable Wireless Device</u></a></li>
+</ul></div>
 

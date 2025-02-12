@@ -1,7 +1,7 @@
 ---
 title: "Battle Tech Talk: Gaming with a Controller or Stick?"
-date: 2024-08-08T09:06:47.739Z
-updated: 2024-08-09T09:06:47.739Z
+date: 2025-02-07T00:28:00.265Z
+updated: 2025-02-11T16:14:56.384Z
 tags:
   - games
 categories:
@@ -28,10 +28,11 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
 ### 1\. Input Precision
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![Darts on a dartboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/darts-g42b26ee2a_1920.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s time to take a closer look at what is required to be competitive in a fighting game. There’s a reason the FGC is thriving after over 30 years of competition.
 
@@ -45,16 +46,13 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
  So, while an arcade stick is precise, it requires more skill than a controller.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### 2\. Durability
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Broken controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/broken-controller.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: soepratman/[Freepik](https://www.freepik.com/free-vector/game-crash-icon-logo-design%5F44691241.htm)
 
@@ -68,9 +66,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  A high-quality arcade stick can last five to six years without maintenance and even longer when maintained periodically. Controllers, however, need to be changed more frequently and are costly to fix when damaged.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Functional Buttons
 
 ![A yellow arcade stick with blue input buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arcade-stick.jpg)
@@ -85,11 +80,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ### 4\. Feedback
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![A vibrating PS5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/untitled-design-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Feedback in console games has been a big thing since the release of early dual-shock controllers. Most modern fighting game titles allow for varying degrees of feedback. It can be as small as a little vibration when your player gets hit.
 
@@ -100,11 +95,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  However, some enthusiasts are playing around with the idea of introducing haptic feedback to arcade sticks. It is also worth noting that the DualSense controller, in particular, supports haptic feedback, which can [make your fighting games a bit more immersive](https://www.makeuseof.com/force-haptic-feedback-games/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Ergonomics
 
 ![A father and his son playing video games on a couch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ergonomics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ergonomics as a concept has become increasingly important with the emergence of the competitive gaming scene. Assessing the best ways to optimize your environment for prolonged sitting is important, especially when you spend long hours playing your fighting game of choice.
 
@@ -136,23 +136,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  However, some top players in the fighting game scene use controllers. Albeit possible, it takes much more effort to be good on a controller consistently. If you have the extra time to put in, then it won’t be a problem. Otherwise, an arcade stick is the way to go.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Get the Best Competitive Advantage
 
  The ultimate goal of any competitive fighting game player is to be the best. As a result, fighting games have spawned a passionate community of gamers dedicated to honing their skills.
 
  But to be the best, you need the best gear. It all boils down to what feels right. Do you prefer an arcade stick’s control or a controller’s comfort and convenience? Either way, you will have an amazing time playing the fighting games you love.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,6 +155,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-amplify-your-footage-the-power-of-enhancer-22/"><u>[New] Amplify Your Footage The Power of Enhancer 2.2</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevating-zooms-video-resolution-expert-advice-for-2024/"><u>[New] Elevating Zoom's Video Resolution Expert Advice for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools/"><u>[New] In 2024, Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-exploring-the-neuroscience-of-decision-making-and-its-implications-for-leadership/"><u>2024 Approved Exploring the Neuroscience of Decision-Making and Its Implications for Leadership</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-ways-to-play-adobe-flash-games-without-flash/"><u>4 Ways to Play Adobe Flash Games Without Flash</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-reasons-why-gamefi-fails-to-win-gamers-trust/"><u>5 Reasons Why GameFi Fails to Win Gamers' Trust</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-high-refresh-rate-monitors-gaming-edition/"><u>Affordable High Refresh Rate Monitors: Gaming Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-mac-games-compatible-console-emulators/"><u>Best Mac Games: Compatible Console Emulators</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-it-phoenix-launches-pdf-healer/"><u>Fix-It Phoenix Launches PDF Healer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-reno-8t-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo Reno 8T 5G FRP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picart-privacy-filter-no-more-recognizable-faces/"><u>In 2024, PicArt Privacy Filter No More Recognizable Faces</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-sculpting-textures-creating-realistic-3d-effects-in-illustrator/"><u>In 2024, Sculpting Textures Creating Realistic 3D Effects in Illustrator</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170382520-nvidia-drivers-the-solution-to-your-computer-glitches/"><u>Nvidia Drivers: The Solution to Your Computer Glitches.</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169378228-ultimate-steam-deck-cool-tech-companions/"><u>Ultimate Steam Deck Cool Tech Companions!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-final-cut-pro-project-backup-a-quick-and-simple-tutorial-for-2024/"><u>Updated Final Cut Pro Project Backup A Quick and Simple Tutorial for 2024</u></a></li>
+</ul></div>
 

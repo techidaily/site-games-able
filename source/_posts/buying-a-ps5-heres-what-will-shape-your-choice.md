@@ -1,7 +1,7 @@
 ---
 title: Buying a PS5? Here's What Will Shape Your Choice
-date: 2024-07-29T05:57:42.765Z
-updated: 2024-07-30T05:57:42.765Z
+date: 2025-02-04T16:27:53.998Z
+updated: 2025-02-11T21:10:28.971Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 
 ## Buying a PS5? Here's What Will Shape Your Choice
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Consider the total cost of a PS5, including games and accessories, which could add up to hundreds of dollars on top of the initial price.
@@ -37,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 
  Depending on how many extras you want to buy, the initial \~$450 price tag could quickly climb to hundreds more. To help offset this cost, you might consider[selling your PlayStation 4](https://www.makeuseof.com/sell-ps4-where-why-how-much/) and putting the cash towards a PlayStation 5, after considering...
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Are You Done Playing PlayStation 4 Games?
 
  The[PS4 is home to tons of great games](https://www.makeuseof.com/tag/best-ps4-exclusives/) . If you picked up the system partway through its lifespan, chances are that you haven't had a chance to play them all. Thus, you should consider whether you have PS4 games you still want to check out.
@@ -45,14 +46,19 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 
  Once you do upgrade, you'll be glad to know[the PlayStation 5 is backward-compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) with almost all PlayStation 4 games. You can use PS4 controllers to play PS4 games, and the PS5 also supports playing PS4 titles from an external drive. And while some PS4 games run slightly better on PS5, the difference isn't huge.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PS5 Download PS4 Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/03-PS5-Download-PS4-Game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're not in a rush to play certain PS5 games, you might as well finish your backlog on PS4\. With the PS5's limited SSD space, finishing them before you upgrade means less juggling of installed games.
 
  If you're mostly done with PS4 games, moving to the PS5 makes more sense.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Are You Interested in the Available PS5 Games?
 
@@ -60,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 
  If the next entry in your favorite series is only coming to PS5, then you should get the newer console. It's up to you whether you should[upgrade for the superior PS5 version of cross-generational titles](https://www.makeuseof.com/reasons-wait-play-ps5-version-cross-gen-games/) .
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. There Are Now Two Models of PS5
 
  In October 2023, Sony announced a minor revision to the PS5, which most call the PS5 Slim following prior console naming conventions.
@@ -73,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 
  Thankfully, the PS5's notorious stock issues have mostly cleared up as of this writing, so you shouldn't have much trouble getting your hands on one.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Waiting May Get You Better Deals
 
  The middle of a console's lifetime is a great time to buy, as there are more games to choose from with plenty on the horizon, and any hardware issues from the original models are usually ironed out with a revision. Even so, being a bit more patient might result in you getting a better value for your purchase.
@@ -85,8 +85,9 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
  It's up to you whether it's worth jumping in now to play, or if you want to wait for the optimal moment.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Is the PlayStation 5 the Best Choice for You?
 
  Don't forget that the PlayStation 5 isn't the only gaming system available. Microsoft's Xbox Series X and Xbox Series S launched around the same time as the PS5\. If you're a PlayStation fan, the decision is probably easy. But don't discount the other choices.
@@ -98,27 +99,20 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
  Alternatively, you could[build a decent gaming PC](http://www.makeuseof.com/build-gaming-pc/) for the cost of a PlayStation 5, though you can put a lot more money into that project if you like. PC gaming has a lot of benefits, such as more control options, better graphical performance, and free multiplayer. If you're not sold on the PS5, perhaps this would be a good time to try PC gaming.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Carefully Consider Buying a PlayStation 5
 
  We're not here to discourage you from buying a PS5\. The console is a big improvement over the PS4, and a few years in, there are enough great games that make it worth buying. But before you jump in, consider the points above to decide if it's best to buy one right now.
 
  Maybe you've decided to skip upgrading for now. In that case, why not consider a portable game console instead?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +121,24 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/nhance-your-channels-voice-dive-into-the-world-of-banner-makers-apps/"><u>[New] Enhance Your Channel's Voice Dive Into the World of Banner Makers (Apps)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-intense-meetings-perfect-your-screen-focus-in-msteams/"><u>[New] Intense Meetings Perfect Your Screen Focus in MSTEAMS</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-iphone-and-ipad-gbadvance-emulators-round-up/"><u>Best iPhone & iPad GBAdvance Emulators Round-Up!</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-steam-login-issues-on-rust-platforms-windows/"><u>Bypassing Steam Login Issues on Rust Platforms Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-language-with-precision-using-openai-apis/"><u>Crafting Language with Precision Using OpenAI APIs</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-solve-steam-errors-on-windows-11-system/"><u>Efficiently Solve Steam Errors on Windows 11 System</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-giants-and-the-threat-to-competition-online-forum/"><u>Gaming Giants and the Threat to Competition [Online Forum]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-from-startup-to-success-skyrocketing-youtube-subs/"><u>In 2024, From Startup to Success Skyrocketing Youtube Subs</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-friends-lost-tracking-your-unfollowers-for-2024/"><u>Insta Friends Lost Tracking Your Unfollowers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/murder-minds-solved-engage-in-4-ai-driven-mysteries/"><u>Murder Minds Solved: Engage in 4 AI-Driven Mysteries</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-anti-blue-radiation-frames/"><u>Premier Anti-Blue Radiation Frames</u></a></li>
+<li><a href="https://games-able.techidaily.com/saving-smart-with-inexpensive-gaming-tech-boards/"><u>Saving Smart with Inexpensive Gaming Tech Boards</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-shaped-by-online-multiplayer-excellence/"><u>The Future Shaped by Online Multiplayer Excellence</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/trim-perfect-clearing-thin-lines-on-youtube-for-2024/"><u>Trim Perfect Clearing Thin Lines on YouTube for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-free-avi-video-rotation-tools-for-any-device/"><u>Updated 2024 Approved Best Free AVI Video Rotation Tools for Any Device</u></a></li>
+</ul></div>
 

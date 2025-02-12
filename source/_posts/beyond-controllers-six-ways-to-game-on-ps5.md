@@ -1,7 +1,7 @@
 ---
 title: "Beyond Controllers: Six Ways to Game on PS5"
-date: 2024-07-29T05:54:56.944Z
-updated: 2024-07-30T05:54:56.944Z
+date: 2025-02-08T17:54:21.252Z
+updated: 2025-02-11T17:23:42.566Z
 tags:
   - games
 categories:
@@ -20,10 +20,11 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 ## 1\. Power Off and On and Eject Discs via the PS5 Buttons
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Eject and power buttons on the lower end of a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/eject-and-power-buttons-on-the-lower-end-of-a-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can power your PS5 by pressing the**PS** button on your controller, and you can eject discs with your controller by hovering over a game on your home screen, pressing the**options** button, and selecting**Eject Disc** from the menu. But you could also switch your PS5 off and on and eject discs by pressing the power and eject buttons on the body of the PS5.
 
@@ -33,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 [Your PS5 could also turn on and off with your monitor and TV](https://www.makeuseof.com/stop-ps5-turning-on-off-with-tv/) .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## 2\. Use Remote Play to Remote Control Your PS5
 
  Remote play is one of the most popular ways to game on your PS5 without the controller. You can access all the titles on your PS5 online with remote play. However, you must have a good internet connection (at least 5MB/s) and a compatible device (Mac, PC, iPad, iPhone, Android device, etc.). Still, you can remotely access your PS5 as if you’re using it directly.
@@ -44,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
  Remote play doesn’t work for PlayStation VR, Blu-Ray Discs and DVDs, music, SharePlay, and some video streaming apps.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Control Media Playback With a Media Remote
 
  One of the[things you can do to make your PS5 an excellent entertainment system](https://www.makeuseof.com/tips-to-get-the-best-ps5-entertainment-experience/) is get a PS5 media remote. The media remote is a simple one with buttons for volume, source, navigation, play/pause, fast forward, rewind, and additional buttons to launch entertainment apps quickly.
@@ -56,11 +51,16 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
  Of course, you can’t play games with a media remote; it works best for media playback.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Alternate From Your Controller Using a Mouse and Keyboard
 
 ![Astronomical Desk Pad under a Keyboard and Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/astronomical-desk-pad-under-a-keyboard-and-mouse.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Jowi Morales](https://www.makeuseof.com/author/jowi-morales)
 
@@ -68,11 +68,12 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
  You can navigate your PS5 with a keyboard; use the arrow keys to move through the lists and the**Enter** or**Return** button to select the games or apps you want to launch. However, unlike the Xbox, which returns you to the home screen when you press the**Windows** button on a keyboard, the PS5 doesn’t recognize any home key on the keyboard. You must press the**PS** button on your controller or media remote to return home.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Control Your PS5 With Voice Commands
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Enabling voice command in PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ps5-voice-command.JPG)
 
  Like the PS4, the PS5 also has a voice command feature. You can use this to control your PS5 with several commands. Of course, its functionality is limited, and you might not be able to access this feature at all in other regions, but here’s a list of things you can do with it for now:
@@ -100,22 +101,20 @@ Here’s how to do it:
  The PS App will connect to your console (whether or not you’re on the same network) and launch the game. If your PS5 is in Rest Mode, you can also wake it up remotely with this method if it’s connected to the internet. It could be useful to make sure no sneaky updates blindside you before you come to play.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Explore the PS5 Without a Controller
 
  If your controller is unavailable for any reason, remember there are still various ways to use your PS5\. All remote access options require your console to be connected to the internet, and others need you to own additional hardware accessories.
 
  However, none of these methods really makes gaming as fluid as a controller directly on your PS5 does. But they can be good for using your PS5 as an entertainment system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +123,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-stay-on-top-of-fashion-and-savings-amazons-essential-tiktok-finds/"><u>[New] 2024 Approved Stay on Top of Fashion & Savings - Amazon's Essential TikTok Finds</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-art-of-photo-edits-a-newcomers-guide-to-lunapic/"><u>[New] In 2024, The Art of Photo Edits A Newcomer’s Guide to LunaPic</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-comprehensible-approach-to-multisnapping-videos-for-2024/"><u>[New] The Comprehensible Approach to Multisnapping Videos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-from-idea-to-share-the-process-of-adding-gifs-on-snapchat/"><u>[Updated] 2024 Approved From Idea to Share The Process of Adding Gifs on Snapchat</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-checklist-before-you-purchase-your-ps5/"><u>A Step-by-Step Checklist: Before You Purchase Your PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-navigating-android-with-advanced-buttons/"><u>Enhancing Gaming: Navigating Android with Advanced Buttons</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-and-furious-boost-your-counter-strike-fps/"><u>Fast and Furious: Boost Your Counter-Strike FPS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-seamless-backgrounds-in-teamconferences-via-microsoft-teams/"><u>In 2024, Seamless Backgrounds in TeamConferences via Microsoft Teams</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-glion-dolly-e-scooter-analysis-luxury-at-a-high-cost/"><u>In-Depth Glion Dolly E-Scooter Analysis: Luxury at a High Cost</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-list-of-top-10-podcast-editors-including-both-cost-free-and-paid-variants-for-2024/"><u>New The Ultimate List of Top 10 Podcast Editors, Including Both Cost-Free and Paid Variants for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-steam-deck-dock-mastery-techniques/"><u>Optimize Your Steam Deck: Dock Mastery Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/platinum-membership-fees-at-sony-online-entertainment/"><u>Platinum Membership Fees at Sony Online Entertainment</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-reconnecting-and-fixing-windows-media-playback-problems/"><u>Quick Solutions: Reconnecting and Fixing Windows Media Playback Problems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-nord-n30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-steams-picture-vault-placement/"><u>Secrets to Steam's Picture Vault Placement</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-restore-faulty-steam-remote-play-on-pc/"><u>Steps to Restore Faulty Steam Remote Play on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-console-content-psplus-or-xbox-game-pass/"><u>Ultimate Console Content: PS+ or Xbox Game Pass?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-the-potential-of-your-steam-wallet-with-right-funding/"><u>Unleash the Potential of Your Steam Wallet with Right Funding</u></a></li>
+</ul></div>
 

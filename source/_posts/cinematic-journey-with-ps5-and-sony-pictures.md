@@ -1,7 +1,7 @@
 ---
 title: Cinematic Journey with PS5 & Sony Pictures
-date: 2024-07-29T05:56:11.055Z
-updated: 2024-07-30T05:56:11.055Z
+date: 2025-02-04T23:05:16.252Z
+updated: 2025-02-11T23:44:12.637Z
 tags:
   - games
 categories:
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  If you want to know more about Sony Pictures Core and what you need to do to unlock up to 100 free movies on the platform, here is everything you need to get started.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Sony Pictures Core?
 
  Sony Pictures Core (previously known as Bravia Core) is a movie streaming service you can get on PS4 or PS5 consoles. Sony Pictures Core contains a massive library of up to 2,000 movies from Sony Pictures, providing early access to some titles, behind-the-scenes content, director’s commentaries, and other exclusive offers.
@@ -41,13 +38,14 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  You don't need a PS Plus membership to rent or buy movies on Sony Pictures Core, but there are exclusive benefits if you are subscribed to the Premium or Deluxe tiers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Do I Need to Watch Movies for Free on Sony Pictures Core?
 
  You can watch a rotating catalog of up to 100 movies for free on Sony Pictures Core if you have a PS Plus Premium or Deluxe membership.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PlayStation Plus logo](https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd4635182093dadda40d9b14071da58.jpg)
 
  Image Credit:[PlayStation Blog](https://blog.playstation.com/2022/03/29/all-new-playstation-plus-launches-in-june-with-700-games-and-more-value-than-ever/)
@@ -56,33 +54,36 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  If you’re a movie buff, those 100 free movies could make[deciding between the PS Plus Extra, Essential, and Premium/Deluxe tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) a little easier, and that’s not considering the other exclusive benefits.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Download and Use Sony Pictures Core on Your PS5
 
  Sony Pictures Core is a free app available to download on PS4 and PS5 consoles. To access it, scroll to the**Media** tab on your PS5 by pressing R on your controller while on the home screen and select the**magnifying glass** icon in the top right corner to begin searching for**Sony Pictures Core** . Once it shows up, select the app and press**Download** .
 
 ![the Media Tab on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/media-tab-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Using Sony Pictures Core requires you to enable the HDCP settings on your PlayStation.[HDCP is different to HDMI](https://www.makeuseof.com/hdcp-vs-hdmi-whats-the-difference/) . It stands for High-Bandwidth Digital Copyright/Content Protection, and it prevents you from being able to stream or record content while you’re watching it on the app.
 
 ![Go to HDMI option on Sony Pictures Core PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/go-to-hdmi-sony-pictures-core-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your HDCP settings are enabled already, you will be able to launch and use Sony Pictures Core as normal. If not, an error screen will appear, prompting you to enable the settings before you can use the app. To enable HDCP, select**Go to HDMI** . Your PlayStation will direct you to the exact setting you need to change.
 
  Once you launch Sony Pictures Core, you will be required to make an account to gain access to the massive catalog of epic Sony Pictures movies. Creating an account is also free. Press**Get Started** to set it up.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Start the Set Up for Sony Pictures Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/start-set-up-sony-pictures-core.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The app will ask you if you want to sign in with the PS Plus account of the profile you’re using. If the account linked isn’t yours, select the email address and change it to the correct one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![Link PS Plus Account on Sony Pictures Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/link-ps-plus-account-sony-pictures-core.jpg)
 
  You will then be directed to the terms and conditions. Check all the boxes and press**Next** .
@@ -91,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  Lastly, you will be asked once again if you would like to link your PS Plus account with Sony Pictures Core. This is essential if you want to access the 100 free movies that come with a PS Plus Premium or Deluxe subscription. Press**Agree and Continue** to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Account Linking in Sony Pictures Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/account-linking-in-sony-pictures-core.jpg)
 
  Once you have created your Sony Pictures Core account, you are free to roam the app. Scroll through the different categories by pressing down on your controller and left and right to scroll through the movies.
@@ -102,20 +100,21 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 ![Included with PlayStation Plus Section of Sony Pictures Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/included-with-playstation-plus-section-of-sony-pictures-core.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Press the left arrow button to find the menu, where you can find things like the**search bar** , your**Library** , and**Studio Access** , which is where you can find bonus material, such as deleted scenes and director’s commentaries.
 
  Once you find a movie you're interested in, select it and press**Rent** or**Buy** depending on your preference. You can find any movies you purchase or rent in your**Library** .
 
  And that's all you need to do to be able to watch Sony movies on your PlayStation 5\. Turning your console into a movie streaming device in addition to a gaming one.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +123,24 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/mooth-cinematography-premium-stabilizer-recommendations/"><u>[New] Smooth Cinematography Premium Stabilizer Recommendations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tips-for-faster-vimeo-video-viewing/"><u>[Updated] In 2024, Tips for Faster Vimeo Video Viewing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-techniques-to-slow-down-online-video-playback-49-chars/"><u>[Updated] Techniques to Slow Down Online Video Playback (49 Chars)</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-successful-strategies-for-repairing-0-byte-hard-drives-and-retrieving-lost-files/"><u>1. Successful Strategies for Repairing 0 Byte Hard Drives & Retrieving Lost Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevated-experience-premium-seating-for-the-taller-set/"><u>Elevated Experience: Premium Seating for the Taller Set</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cost-effective-cumulus-vault-for-colossal-archives/"><u>In 2024, Cost-Effective Cumulus Vault for Colossal Archives</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oneplus-11-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from OnePlus 11 5G?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-fixing-roblox-error-code-403-on-windows-systems/"><u>Mastering the Art of Fixing Roblox Error Code 403 on Windows Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/moments-made-perfect-expert-techniques-for-iphone-photo-editing-for-2024/"><u>Moments Made Perfect Expert Techniques for iPhone Photo Editing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/redefining-wanderlust-with-virtual-reality-tours-for-2024/"><u>Redefining Wanderlust with Virtual Reality Tours for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-risks-dont-tap-into-ps5s-microphone/"><u>Reducing Risks: Don't Tap Into PS5's Microphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-controller-enhancing-classic-games/"><u>Retro Controller: Enhancing Classic Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-usb-hubs-tailored-for-playstation-5/"><u>Superior USB Hubs, Tailored for PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-earning-early-starfield-access-credits/"><u>Tips for Earning Early Starfield Access Credits</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-steam-deck-model-potentials/"><u>Unlocking Steam Deck Model Potentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-serious-games-resist-the-allure-of-gamefi/"><u>Why Serious Games Resist the Allure of GameFi</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/zoom-mastery-for-selfie-success-in-instagram-stories/"><u>Zoom Mastery for Selfie Success in Instagram Stories</u></a></li>
+</ul></div>
 

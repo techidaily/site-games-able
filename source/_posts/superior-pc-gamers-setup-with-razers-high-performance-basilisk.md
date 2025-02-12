@@ -1,7 +1,7 @@
 ---
 title: Superior PC Gamers' Setup with Razer's High Performance Basilisk
-date: 2025-01-13T22:18:46.134Z
-updated: 2025-01-16T16:31:01.268Z
+date: 2025-02-10T16:06:24.598Z
+updated: 2025-02-11T20:12:23.219Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
  Building off the success of the hugely popular wired Razer Basilisk V3 (released in September 2021), the Razer Basilisk V3 Pro gets updated with wireless connectivity and an even faster sensor. If you already own or have used the previous wired model and looking for an upgrade or replacement, the V3 Pro is worth checking out.
 
 ![Razer Basilisk V3 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Razer-Basilisk-V3-Pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/editors-choice-2024.png)
 
@@ -87,7 +91,7 @@ Yes
  With its 11 programmable buttons, dual-mode tilt wheel, and Razer’s third-gen optical switches, this is Razer's best and fastest customizable wireless mouse, though it does have a few quirks. Unfortunately, the V3 Pro comes in at a higher $160 price point and a rather heavy weight of 112g, which may deter those on a tighter budget and those who prefer lighter options. Many of the V3 Pro's new features also rely on additional hardware which is not included in the box. That said, for those looking for a more well-rounded gaming mouse that can also double as a solid everyday wireless option, the V3 Pro is just that.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New? V3 vs V3 Pro
@@ -96,6 +100,10 @@ Yes
 
 ![Razer Basilisk V3 - Gaming 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-gaming-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Paul Antill / MUO
 
  Unlike its predecessor, the Basilisk V3 Pro features the newest Razer Optical Mouse Switches, which use infrared light to send signals without mechanical contact. This results in an instant actuation of 0.2ms, no unintended click registration, and the lowest latency of any other gaming mouse. Whether or not you'll be able to perceive this improvement is another story.
@@ -103,10 +111,14 @@ Paul Antill / MUO
 ![Razer Basilisk V3 - Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Paul Antill / MUO
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design: RGB All The Things
 
@@ -146,6 +158,10 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Underside Controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-underside-controls.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Paul Antill / MUO
 
  There are left and right arrows to the side of the scroll wheel, indicating its use as two separate directional buttons in addition to the usual click-in you normally find. The scroll wheel itself has two modes: a tactile cycling mode, which takes advantage of its ridged rubber design for precision rolls, and a free-spin mode for high-speed scrolling.
@@ -154,10 +170,6 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-scroll-wheel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Paul Antill / MUO
 
  Understandably, one downside to having all of these features in a wireless mouse is the increased size and weight that comes with it. This is like the Cadillac Blackwing of gaming mice. It's big, but it's speedy. Compared to much of the competition, it's also larger, measuring 5.11 inches (130mm) long by 2.96 inches (75.4mm) wide, and 1.67 inches (42.5mm) tall.
@@ -165,7 +177,7 @@ Paul Antill / MUO
 ![Razer Basilisk V3 - Compared to Cobra Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-compared-to-cobra-pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Paul Antill / MUO
@@ -173,10 +185,6 @@ Paul Antill / MUO
  To maintain a 90-hour battery life, the Basilisk V3 Pro contains an internal battery that sits just above the sensor in an assembly that also includes a slot for the scroll wheel's housing. All of this together makes the device fairly front-heavy, with an overall weight of 112g, far heavier than the usual 70-80g max, which some enthusiasts try to stay under. While this isn't as noticeable as sliding the mouse, if you frequently lift your mouse, it will be.
 
 ![Razer Basilisk V3 - Laying on its Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-laying-on-its-side.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Paul Antill / MUO
 
@@ -187,10 +195,6 @@ Paul Antill / MUO
  Adding these expenses to the V3 Pro's already hefty price tag could be a dealbreaker for those looking to make a cost-conscious decision. However, it is worth noting that the Basilisk V3 Pro bundle that includes the Mouse Dock Pro is currently on sale for $200 (down from $230) which may be worth it for those who want to take advantage of all the features this mouse has to offer. You can also buy the mouse renewed for $100, though reviews are not as positive and your luck may vary here.
 
  For gamers who are already firmly on Team Razer, the Basilisk V3 Pro could be a great upgrade to their peripherals. Taking advantage Razer's HyperSpeed multi-device support allows you to control their compatible Razer keyboard and mouse with a single dongle, freeing up connectivity space and optimizing stability for even lower latency.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Base Model Is More Than Enough
 
@@ -205,10 +209,6 @@ Paul Antill / MUO
 ![Razer Basilisk V3 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Razer-Basilisk-V3-Pro.jpg)
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/editors-choice-2024.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Razer Basilisk V3 Pro
 
@@ -235,16 +235,24 @@ Paul Antill / MUO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-pushing-the-boundaries-animated-fb-ads-that-increase-return-on-investment/"><u>[New] Pushing the Boundaries Animated FB Ads That Increase Return on Investment</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-twitch-stream-mastery-top-4-innovations-to-try/"><u>[New] Twitch Stream Mastery Top 4 Innovations to Try</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/10-sandbox-innovations-you-shouldnt-skip-for-2024/"><u>10 Sandbox Innovations You Shouldn't Skip for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fully-resolved-the-delay-mystery-of-immortals-fenyx-rising-unraveled/"><u>Fully Resolved: The Delay Mystery of Immortals Fenyx Rising Unraveled</u></a></li>
-<li><a href="https://games-able.techidaily.com/interoperability-between-newer-and-older-playstation/"><u>Interoperability Between Newer and Older PlayStation?</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategic-delays-in-gaming-releases/"><u>Strategic Delays in Gaming Releases</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-tackle-error-code-0x887a0006-in-windows/"><u>Strategies to Tackle Error Code 0X887A0006 in Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-path-to-insta-prominence-unveiling-9-key-moves-for-fame-seekers-for-2024/"><u>The Path to Insta Prominence Unveiling 9 Key Moves for Fame Seekers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/war-wisdom-crafting-a-list-of-top-11-ww2-tactical-games/"><u>War Wisdom: Crafting a List of Top 11 WW2 Tactical Games</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/zero-price-infinite-possibilities-top-steam-games-you-can-get-for-free/"><u>Zero Price, Infinite Possibilities: Top Steam Games You Can Get For Free</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-high-definition-vision-saving-tech/"><u>[New] 2024 Approved High Definition Vision Saving Tech</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-hidden-narratives-unlocked-a-complete-snapguide/"><u>[Updated] 2024 Approved Hidden Narratives Unlocked A Complete Snapguide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-precious-playtimes-kids-fun-and-games-anthology/"><u>[Updated] 2024 Approved Precious Playtimes Kids' Fun & Games Anthology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-for-audio-editors-using-garageband/"><u>2024 Approved The Ultimate Guide for Audio Editors Using GarageBand</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-how-xbox-handles-game-rule-violations/"><u>Dissecting How Xbox Handles Game Rule Violations</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-dual-boot-your-steam-deck-to-windows-and-steamos/"><u>How to Dual Boot Your Steam Deck to Windows and SteamOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-tips-essential-techniques-for-adjusting-photo-colors/"><u>In 2024, Quick Tips Essential Techniques for Adjusting Photo Colors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-share-your-stories-with-lush-soundtracks/"><u>In 2024, Share Your Stories with Lush Soundtracks!</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-minecraft-connections-7-helpful-steps-on-windows/"><u>Navigating Minecraft Connections - 7 Helpful Steps on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-performance-in-cs2-tips-and-tricks-for-mac-users/"><u>Optimize Performance in CS2: Tips and Tricks for Mac Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-job-search-building-a-compelling-cover-letter-with-chatgpt/"><u>Revolutionize Your Job Search: Building a Compelling Cover Letter with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-ideal-dpi-for-top-gun-games/"><u>Selecting Ideal DPI for Top Gun Games</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/smaller-is-better-top-drone-brands-reviewed-for-2024/"><u>Smaller Is Better Top Drone Brands Reviewed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-freeloaders-strategy-procuring-pristine-games-on-steam-for-free/"><u>The Freeloader's Strategy: Procuring Pristine Games on Steam for Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-nostalgia-factor-meets-todays-tech-edge/"><u>The Nostalgia Factor Meets Today's Tech Edge</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ddr5-board-guide-2024/"><u>The Ultimate DDR5 Board Guide 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-3-strategies-for-enhanced-zoom-video-conversion-techniques-for-2024/"><u>Top 3 Strategies for Enhanced Zoom Video Conversion Techniques for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribed-titles-next-chapter-or-ending/"><u>Unsubscribed Titles: Next Chapter or Ending?</u></a></li>
 </ul></div>
 

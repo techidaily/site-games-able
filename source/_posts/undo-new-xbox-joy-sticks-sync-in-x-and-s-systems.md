@@ -1,7 +1,7 @@
 ---
 title: Undo New Xbox Joy Sticks Sync in X and S Systems
-date: 2025-01-28T17:43:35.256Z
-updated: 2025-01-30T18:31:22.973Z
+date: 2025-02-04T19:44:49.480Z
+updated: 2025-02-12T00:35:16.173Z
 tags:
   - games
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Things to Note Before Reverting Your Xbox Wireless Controller's Firmware
 
  Before you go through with reverting an Xbox Wireless Controller update, there are a few things you should know beforehand, as the process has a few caveats. Specifically, the main points you should be aware of before reverting firmware for your controller are as follows:
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 * Reverting the firmware of Xbox Wireless Controllers on your Xbox Series X|S isn't compatible with some older controller models.
 
 ![A screenshot of a message on an Xbox Series X informing the user that Xbox controller firmware cannot be reverted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3112.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While these factors can prevent a firmware reset from correcting your controller issue, there are still ways you can fix your specific problem. If the issue is tied to your console, you may want to[troubleshoot your Xbox Series X|S by placing it in Safe Mode](https://www.makeuseof.com/xbox-xs-safe-mode-startup-troubleshooter/) or exiting the Xbox Preview Program.
 
@@ -54,13 +54,13 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 ![A screenshot of the Guide menu on an Xbox Series X with the option for Xbox Support highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3117.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Under the options for**Get Help** , highlight**Help topics** and select**Hardware & networking** .
 
 ![A screenshot of the Xbox Support service on an Xbox Series X with Hardware And Netorking highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3120.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Select**Controllers** followed by**Troubleshoot your Xbox Wireless Controller** .
 
@@ -70,14 +70,10 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 ![A screenshot of the controller troubleshooting options available within the Xbox Support app on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3126.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You will then be taken to the firmware settings page of the**Xbox Support** menus and be shown potential fixes for firmware issues your controller may be experiencing. You can use this settings page to revert the firmware of your Xbox Wireless Controller.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Revert Your Xbox Wireless Controller’s Firmware
@@ -90,13 +86,17 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 ![A screenshot of the option to check Xbox controller firmware within the Xbox Support app on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3129.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Your Xbox will then inform you whether your controller's firmware can be reverted. If it can, select**Revert firmware** .
 * A warning message will then appear. To confirm, select**Yes, revert firmware** .
 
  Your Xbox will then start reverting the firmware of your Xbox Wireless Controller. Once the process is finished, your controller will have been downgraded to the prior firmware update and any issues associated with the current firmware should be removed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Maintain Your Xbox Controller Physically and Through Its Firmware
 
@@ -119,24 +119,20 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-discords-broadcasting-features-unveiled-a-step-by-step-guide/"><u>[New] Discord's Broadcasting Features Unveiled A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-essential-steps-for-tiktok-voiceover-artists/"><u>[New] Essential Steps for TikTok Voiceover Artists</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-instagram-speed-mastering-video-and-likes/"><u>[New] In 2024, Unlock Instagram Speed - Mastering Video and Likes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-maximizing-video-capacity-in-64128gb-drives/"><u>2024 Approved Maximizing Video Capacity in 64/128GB Drives</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-comprehensive-guide-to-personalizing-games-using-the-workshop/"><u>A Comprehensive Guide to Personalizing Games Using The Workshop</u></a></li>
-<li><a href="https://games-able.techidaily.com/discarded-digital-gear-reclaiming-your-fortnite-funds-efficiently/"><u>Discarded Digital Gear? Reclaiming Your Fortnite Funds Efficiently</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-performance-metrics-polling-ratio-insights/"><u>Evaluating Performance Metrics: Polling Ratio Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expertly-selected-best-gimbals-for-ultimate-camera-stability/"><u>Expertly Selected Best Gimbals for Ultimate Camera Stability</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-on-resolving-roblox-error-403-in-windows-environment/"><u>Guide on Resolving Roblox Error 403 in Windows Environment</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-xs-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone XS Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-12-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi 12 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-game-speed-boost-windows-fps/"><u>Master the Game Speed: Boost Windows FPS</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169201708-navigate-display-driver-startup-woes-with-ease-here/"><u>Navigate Display Driver Startup Woes with Ease, Here!</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-tips-to-fix-disconnected-joy-cons-on-your-switch-console/"><u>Quick Tips to Fix Disconnected Joy-Cons on Your Switch Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/stealthy-storage-of-virtual-games/"><u>Stealthy Storage of Virtual Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-for-private-discussions-with-friends-on-xbox/"><u>Tips for Private Discussions with Friends on Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-anti-haze-vision-accessories/"><u>Top Anti-Haze Vision Accessories</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-transforming-video-and-audio-files-into-various-formats/"><u>Ultimate Guide: Transforming Video and Audio Files Into Various Formats</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-12-pro-max-lock-with-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 Pro Max lock with Apple ID</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-androids-optimal-cloud-savers-updated-list/"><u>2024 Approved Android's Optimal Cloud Savers Updated List</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-photoshop-sway-reduction-a-necessity-debate-for-2024/"><u>Assessing Photoshop Sway Reduction A Necessity Debate for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-roblox-error-403-and-fix-strategies-for-pc-enthusiasts/"><u>Decoding Roblox Error 403 & Fix Strategies for PC Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-steps-to-reproduce-your-gaming-snaps/"><u>Easy Steps to Reproduce Your Gaming Snaps</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-gaming-budget-management-on-playstation/"><u>Effective Gaming Budget Management on PlayStation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ating-youtubes-potential-monthly-earnings-for-2024/"><u>Evaluating YouTube's Potential Monthly Earnings for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/guida-completa-per-il-ripristino-di-iphone-senza-perdita-dei-dati/"><u>Guida Completa per Il Ripristino Di iPhone Senza Perdita Dei Dati</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-14-proipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 14 Pro/iPad Without Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-guide-perfecting-instagram-collage-formats-for-2024/"><u>Quick Guide Perfecting Instagram Collage Formats for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-evaluating-my-tech-rtx-4090-overkill/"><u>Re-Evaluating My Tech: RTX 4090 Overkill?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-x50iplus-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor X50i+</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-bypassing-cannot-end-task-error-in-windows/"><u>Tips for Bypassing 'Cannot End Task Error' In Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-xbox-game-pass-essential-information/"><u>Unlocking Xbox Game Pass: Essential Information</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-streaming-pc-games-via-steam-deck/"><u>Unveiling the Secrets of Streaming PC Games via Steam Deck</u></a></li>
 </ul></div>
 

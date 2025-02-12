@@ -1,7 +1,7 @@
 ---
 title: Avoid Buyer's Remorse with PC Compatibility Checks
-date: 2024-08-08T09:06:22.594Z
-updated: 2024-08-09T09:06:22.594Z
+date: 2025-02-07T23:33:51.775Z
+updated: 2025-02-11T19:16:16.808Z
 tags:
   - games
 categories:
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
  Figuring out hardware compatibility isn't always easy, so we've compiled a list of seven ways to check hardware compatibility before you buy.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. PCPartPicker
 
  Top of any PC hardware compatibility list is always [PCPartPicker](ttps://pcpartpicker.com) . It's the ultimate go-to for anyone building a new PC or considering a hardware upgrade. It's filled with a vast array of PC hardware, and you can use it to build out a whole configuration or to check if two parts work together.
@@ -35,23 +36,18 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  Most manufacturers provide extensively detailed information on their hardware, including compatibility, updates, warranty information, and more. For example, if you head on over to the Intel site and search for a CPU, it'll tell you the exact chipset to use (which tells you which type of motherboard to buy), along with the supported amount and type of RAM.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![intel i9 13900k spec sheet 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intel-i9-13900k-spec-sheet-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. GPU Check
 
 [GPU Check](https://www.gpucheck.com/gpu-benchmark-comparison) is a handy tool for figuring out how your CPU and GPU might perform together. Sure, the go-to is typically to buy the biggest and best of both, and when you're building a new PC from scratch, that's a straightforward option.
 
  But when upgrading a PC with new components, you might want to consider how your older CPU will play with a newer GPU or vice versa. With GPU Check, you can compare CPU and GPU combinations against one another and see how the changes affect performance. Of course, it's a general guide; CPU and GPU age, cooling, and other factors will affect your outright performance, but it's a good gauge, nonetheless.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Newegg Custom PC Builder
 
  PCPartPicker tops the list because it's [the biggest and best of the PC hardware compatibility bunch](https://www.makeuseof.com/best-custom-pc-builder-website/) , but the [Newegg Custom PC Builder](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Ftools%2Fcustom-pc-builder) is also worth a shout.
@@ -60,16 +56,14 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  I asked the Build With AI tool for a "PC to play Cities Skylines 2 at very high quality," which is clear enough for humans but maybe a little vague for an AI tool, as the game hasn't been released at the time of writing. Whether the AI tool understands the specs of Cities Skylines 2 or is just responding to the "very high quality" prompt, it produced three fully-compatible custom PC builds within seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![newegg ai pc part picker high end custom pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/newegg-ai-pc-part-picker-high-end-custom-pc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I switched up the prompt to "budget $700, want to play racing games, would like RGB" to add some challenge. The three custom PC builds were a little more hit-and-miss but would still run some racing games at 1080p (though not much RGB on show!).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![newegg ai pc part picker racing game build budget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/newegg-ai-pc-part-picker-racing-game-build-budget.jpg)
 
  The individual component selection works similarly to PCPartPicker, helping you match compatible hardware by eliminating parts that don't work after each selection.
@@ -99,16 +93,21 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  The second way you can use Google Bard is to cross-check a custom PC build list for compatibility issues.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google bard checks custom pc build list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-checks-custom-pc-build-list.jpg)
 
  In both scenarios, Google Bard helped figure out which PC components were compatible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Power Supply Calculator
 
  A power supply unit (PSU) calculator is a handy tool that helps you figure out the size of PSU your custom PC will need. There are [several power supply unit calculators](https://www.makeuseof.com/best-online-power-supply-calculators/) , including options from OuterVision, Cooler Master, and Be Quiet!, all of which can help you figure out what you need.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Forums and Communities
 
@@ -128,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,6 +134,23 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-crafting-curls-and-contours-creating-a-personalized-beauty-channel/"><u>[New] 2024 Approved Crafting Curls and Contours Creating a Personalized Beauty Channel</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-eyedome-xtreme-ultimate-os-video-snapper/"><u>[Updated] EyeDome Xtreme Ultimate OS Video Snapper</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-best-video-titling-solutions-online-now/"><u>[Updated] In 2024, Best Video Titling Solutions Online Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/11-captivating-phone-game-experiences-anytime-anyplace/"><u>11 Captivating Phone Game Experiences Anytime, Anyplace</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-key-role-of-image-quality-in-generating-clicks-on-youtube-videos/"><u>2024 Approved The Key Role of Image Quality in Generating Clicks on YouTube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-approach-to-elevating-games-on-steam/"><u>A Step-by-Step Approach to Elevating Games on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-non-sticky-scroll-wheel-problems/"><u>Addressing Non-Sticky Scroll Wheel Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-dungeon-making-uncovering-the-best-six-chatgpt-strategies/"><u>AI Dungeon Making: Uncovering the Best Six ChatGPT Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-enhanced-features-in-nitro-justified/"><u>Are Enhanced Features in Nitro Justified?</u></a></li>
+<li><a href="https://games-able.techidaily.com/audio-pairing-sony-and-bluetooth-headset/"><u>Audio Pairing: Sony & Bluetooth Headset</u></a></li>
+<li><a href="https://games-able.techidaily.com/augment-xbox-performance-with-a-secondary-laptop-display/"><u>Augment Xbox Performance with a Secondary Laptop Display</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-rectify-missing-openal32dll-filesystem-errors/"><u>Comprehensive Solutions to Rectify Missing OpenAL32.dll Filesystem Errors</u></a></li>
+<li><a href="https://win-superb.techidaily.com/dex-3-integrates-with-hercules-djcontrol-impulse-500-seamless-compatibility-for-pro-djs/"><u>DEX 3 Integrates with Hercules DJControl Impulse 500: Seamless Compatibility for Pro DJs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-ultimate-list-of-5-best-no-cost-aac-music-software-compatible-with-windows-and-macos/"><u>Discover the Ultimate List of 5 Best No-Cost AAC Music Software Compatible with Windows and macOS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-magic-v2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor Magic V2 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-creative-potential-smart-b-roll-incorporation/"><u>Unlock Creative Potential Smart B Roll Incorporation</u></a></li>
+</ul></div>
 

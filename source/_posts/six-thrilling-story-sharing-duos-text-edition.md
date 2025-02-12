@@ -1,7 +1,7 @@
 ---
 title: "Six Thrilling Story-Sharing Duos: Text Edition"
-date: 2025-01-24T18:05:51.537Z
-updated: 2025-01-30T18:05:52.565Z
+date: 2025-02-08T22:54:36.448Z
+updated: 2025-02-11T22:32:42.901Z
 tags:
   - games
 categories:
@@ -42,7 +42,7 @@ Close
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 20 Questions
@@ -56,7 +56,7 @@ Close
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 I Spy
@@ -69,10 +69,6 @@ Close
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Song Lyrics
 
 Close
@@ -82,6 +78,10 @@ Close
  The**Song Lyrics** game plays on that by having one person quote lines from a song to the other via text or in a messaging thread. The other person then has to guess the song the lyrics are from. It helps if this is played with someone you're close to or with whom you share similar music tastes. Because if you choose a metal song, your classical music-loving mother is unlikely to ever guess correctly.
 
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Abbreviations
 
@@ -114,7 +114,7 @@ Close
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8 Kiss, Marry, Kill
@@ -138,7 +138,7 @@ Close
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10 Simple Quiz
@@ -168,18 +168,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-compiling-leading-short-form-video-editors-iosandroid-edition-for-2024/"><u>[New] Compiling Leading Short-Form Video Editors IOS/Android Edition for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-expedition-manual-launching-a-career-in-travel-blogging-for-2024/"><u>[New] The Ultimate Expedition Manual Launching a Career in Travel Blogging for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-accelerating-ar-development-leveraging-custom-luts-for-2024/"><u>[Updated] Accelerating AR Development Leveraging Custom LUTs for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers/"><u>[Updated] How to Turn a Minute Into Millions Maximizing Viewership for YouTubers</u></a></li>
-<li><a href="https://games-able.techidaily.com/could-macs-lead-to-unprecedented-gaming-innovations/"><u>Could Macs Lead to Unprecedented Gaming Innovations?</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-8ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 8/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-zte-nubia-z60-ultra-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from ZTE Nubia Z60 Ultra</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhancing-details-in-videoleap-footage/"><u>Enhancing Details in Videoleap Footage</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-savings-excellence-the-finest-11-online-purchase-destinations-for-deals/"><u>Game Savings Excellence: The Finest 11 Online Purchase Destinations for Deals</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-cut-edit-repeat-top-10-free-webm-video-editing-software-for-2024/"><u>New Cut, Edit, Repeat Top 10 Free WebM Video Editing Software for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/savor-games-without-spending-a-dime-in-them/"><u>Savor Games Without Spending a Dime in Them</u></a></li>
-<li><a href="https://games-able.techidaily.com/score-big-on-ps-games-during-summer-clearance/"><u>Score Big on PS Games During Summer Clearance</u></a></li>
-<li><a href="https://games-able.techidaily.com/selecting-the-pinnacle-joypads-for-nintendos-switch-in-2e2024/"><u>Selecting the Pinnacle Joypads for Nintendo's Switch in 2E2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-maximum-potential-screen-recording-on-anymac/"><u>[New] Unlocking Maximum Potential Screen Recording on AnyMac</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-prolific-photography-and-video-app-selection-iphone-vs-android/"><u>[Updated] 2024 Approved Prolific Photography & Video App Selection IPhone vs Android</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-next-wave-of-social-media-top-apps-as-periscope-alternates/"><u>[Updated] The Next Wave of Social Media Top Apps as Periscope Alternates</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-connections-the-hidden-risks-of-linkedin-gaming/"><u>Beyond Connections: The Hidden Risks of LinkedIn Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-am08-pro-enhance-authenticity-of-magic-play/"><u>Can AM08 Pro Enhance Authenticity of Magic Play?</u></a></li>
+<li><a href="https://games-able.techidaily.com/clouding-up-game-highlights-store-screenshots-easily/"><u>Clouding Up Game Highlights: Store Screenshots Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/comet-craftsmanship-evaluating-next-gen-computers/"><u>Comet Craftsmanship: Evaluating Next-Gen Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparative-analysis-steam-vs-gog-game-platforms/"><u>Comparative Analysis: Steam vs GOG Game Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-compelling-videos-youtubes-best-thumbnail-practices-for-2024/"><u>Crafting Compelling Videos YouTube's Best Thumbnail Practices for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-zte-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best ZTE Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y77t-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y77t to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/toolwiz-app-reviewed-the-ultimate-photo-editor-in-2024/"><u>Toolwiz App Reviewed The Ultimate Photo Editor, In 2024</u></a></li>
 </ul></div>
 

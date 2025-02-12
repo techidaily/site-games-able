@@ -1,7 +1,7 @@
 ---
 title: "Perfectly Tuned: Top Settings Every Switcher Should Know"
-date: 2025-01-11T19:23:58.512Z
-updated: 2025-01-16T23:50:45.090Z
+date: 2025-02-04T16:27:33.762Z
+updated: 2025-02-11T16:47:08.199Z
 tags:
   - games
 categories:
@@ -31,11 +31,11 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 ![Save Data Cloud Settings on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/save-data-cloud-settings-on-nintendo-switch.jpg)
 
- To do so, head to the settings and make your way to**Data Management** . From there, click**Save Data Cloud** and choose your**user profile** . Scroll down to**Settings** at the bottom and turn on**Automatically Back Up Save Data** . Once you have activated this setting, you will be able to retrieve any data you lose. This feature is only available if you have a Nintendo Switch Online Membership.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To do so, head to the settings and make your way to**Data Management** . From there, click**Save Data Cloud** and choose your**user profile** . Scroll down to**Settings** at the bottom and turn on**Automatically Back Up Save Data** . Once you have activated this setting, you will be able to retrieve any data you lose. This feature is only available if you have a Nintendo Switch Online Membership.
 
 ## 2\. Use Flight Mode to Extend Your Switch’s Battery Life
 
@@ -47,11 +47,19 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
  To put your phone on Flight Mode. Simply open your settings and scroll down to**Flight Mode** . It’s the second option on the menu and will only take a moment to activate, but could save you precious moments in your game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use Quick Archive to Free Up Space on Your Nintendo Switch
 
  The Switch doesn’t have a lot of storage space. A Switch Lite, for example, only has 32GB of space available, and a portion of that is reserved for the system. 32GB may sound like a lot, but if you’re looking at downloading big games, even the Switch OLED's improved 64 GB will quickly disappear.
 
 ![Quick Archive on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quick-archive-on-nintendo-switch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your options here are to buy a large SD card to give your Switch more storage space or juggle your games. If your Switch is full, but you want to download a new game, don’t worry. You don’t have to delete all of your games to make space, you can quickly archive them instead.[Archiving software on your Switch](https://www.makeuseof.com/nintendo-switch-how-to-archive-software/) still frees up storage space, but leaves an icon of the game on your home screen, so you can quickly and easily redownload it when you’re ready.
 
@@ -69,11 +77,11 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 ![TV Resolution on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-resolution-on-nintendo-switch.jpg)
 
- If your TV is capable of displaying a 1080p image, so is your Nintendo Switch. In handheld mode, the Switch is only capable of 720p, but this can be improved in docked mode. You do have to change your**TV Resolution** setting, however.[Improving your Nintendo Switch’s resolution in docked mode](https://www.makeuseof.com/improve-nintendo-switch-docked-graphics/) is as easy as heading to your settings, going to**TV Output** , and selecting**1080p** from your**TV Resolution** settings.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If your TV is capable of displaying a 1080p image, so is your Nintendo Switch. In handheld mode, the Switch is only capable of 720p, but this can be improved in docked mode. You do have to change your**TV Resolution** setting, however.[Improving your Nintendo Switch’s resolution in docked mode](https://www.makeuseof.com/improve-nintendo-switch-docked-graphics/) is as easy as heading to your settings, going to**TV Output** , and selecting**1080p** from your**TV Resolution** settings.
 
 ## 6\. Calibrate Your Nintendo Switch Controllers
 
@@ -82,14 +90,10 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This issue can cause some serious headaches in-game, but there is a way to fix it (if the case is mild enough.) That is by recalibrating your Joy-Cons or any other controller you may be having issues with. Simply head to your settings, select**Controllers and Sensors** , and press**Calibrate Control Sticks** . The Switch will guide you through the rest of the process, and you should finally experience some relief from drift for a little while, at least.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Alter the MTU Setting to Unlock Faster Download Speeds
 
@@ -97,15 +101,7 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 ![MTU Settings on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mtu-settings-on-nintendo-switch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To begin, make sure your Switch is connected to the internet and go to your**Internet Settings** . From there, select the Wi-Fi you’re connected to and press**Change Settings** . Then scroll down and bump the**MTU** up from**1400** to**1500** . That will ensure that the maximum amount of data is being transferred, and you should experience an improvement in your download speeds.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Extend the Auto-Lock Time on Your Nintendo Switch
 
@@ -116,12 +112,16 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 ![Auto Sleep on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/auto-sleep-on-nintendo-switch.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To customize auto-sleep on your Nintendo Switch, head to the settings and scroll down to**Sleep Mode** . You have two choices for auto-sleep, one for when you’re using your console in handheld mode and the other for when you’re playing on the TV.
 
  Both can be customized separately. Pick the mode you’re looking for and choose your perfect timeframe from the list provided. You can choose from**one** ,**three** ,**five** ,**10** , and**30 minutes** , or even**never** if you’re not afraid of accidentally leaving your system on overnight.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Discover Your Nintendo Switch’s Maintenance Mode
 
@@ -154,22 +154,22 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vimeo-shorts-to-professional-mp4-a-comprehensive-tutorial/"><u>[Updated] In 2024, From Vimeo Shorts to Professional MP4 A Comprehensive Tutorial</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-virality-of-jake-paul-a-youtube-odyssey/"><u>2024 Approved The Virality of Jake Paul A YouTube Odyssey</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-display-dilemmnas-why-you-shouldnt-splurge-on-hdr/"><u>Decoding Display Dilemmnas: Why You Shouldn't Splurge on HDR</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-eyeglasses-for-pc-screen-safety/"><u>Elite Eyeglasses for PC Screen Safety</u></a></li>
-<li><a href="https://games-able.techidaily.com/having-playstation-4-wi-fi-issues-8-tips-and-fixes-worth-trying/"><u>Having PlayStation 4 Wi-Fi Issues? 8 Tips and Fixes Worth Trying</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023s-innovative-devices-a-gamers-paradise/"><u>IFA 2023'S Innovative Devices – A Gamer's Paradise</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unveiling-the-swift-growing-youtube-sources-for-inspiration/"><u>In 2024, Unveiling the Swift-Growing YouTube Sources for Inspiration</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-switchs-connectivity-upgrade-worth-the-dollar/"><u>Is Switch's Connectivity Upgrade Worth the Dollar?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/microsoft-outages-show-why-governments-need-to-ditch-big-tech/"><u>Microsoft Outages Show Why Governments Need to Ditch Big Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-the-challenge-error-code-262-on-roblox/"><u>Overcoming the Challenge: Error Code 262 on Roblox</u></a></li>
-<li><a href="https://facebook.techidaily.com/pinpointing-unfriended-individuals-on-facebook/"><u>Pinpointing Unfriended Individuals on Facebook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/real-time-broadcasting-the-ultimate-guide-to-using-manycam-as-your-go-to-live-streaming-and-remote-camera-tool/"><u>Real-Time Broadcasting: The Ultimate Guide to Using ManyCam as Your Go-To Live Streaming and Remote Camera Tool</u></a></li>
-<li><a href="https://games-able.techidaily.com/reinventing-identity-the-process-for-name-and-logo-change-on-riot-games/"><u>Reinventing Identity: The Process for Name and Logo Change on Riot Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-chatgpt-is-currently-overloaded-on-your-windows-pc/"><u>Resolving 'ChatGPT Is Currently Overloaded' On Your Windows PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-remedy-errors-in-oculus-application-on-win-1011/"><u>Steps To Remedy Errors in Oculus Application on Win 10/11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/struggle-with-productivity-at-work-improve-your-focus-with-the-pomodoro-method-forbes/"><u>Struggle With Productivity at Work? Improve Your Focus with the Pomodoro Method | Forbes</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/understanding-facebooks-new-policies-and-updates/"><u>Understanding Facebook's New Policies and Updates</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-best-apps-to-transform-your-vertical-igtv-footage/"><u>[Updated] Best Apps to Transform Your Vertical IGTV Footage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-ps-tips-for-perfecting-photo-shades-and-saturation/"><u>2024 Approved PS Tips for Perfecting Photo Shades and Saturation</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-windows-standard-pdf-display/"><u>Altering Window's Standard PDF Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/compatibility-queries-for-older-ps-games/"><u>Compatibility Queries for Older PS Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-and-solving-the-puzzling-case-of-windows-11s-persistent-black-screen/"><u>Demystifying and Solving the Puzzling Case of Windows 11'S Persistent Black Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-easy-to-use-tips-for-live-broadcasts-mobile/"><u>Discover Easy-to-Use Tips for Live Broadcasts (Mobile)</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-on-steam-heres-why-in-9-points/"><u>Elevate Your Gameplay on Steam, Here's Why (In 9 Points)</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensure-smooth-gameplay-google-chrome-and-fb-games/"><u>Ensure Smooth Gameplay: Google Chrome and FB Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-xbox-gaming-hours-tracking/"><u>Exploring Xbox Gaming Hours Tracking</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-swiftly-resolve-steam-service-disruptions-in-windows-11/"><u>How to Swiftly Resolve Steam Service Disruptions in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-zte-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your ZTE Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/regaining-true-navigational-aid-for-pokemon-go/"><u>Regaining True Navigational Aid for Pokémon Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/sparkling-success-ps5-dust-free-methods/"><u>Sparkling Success: PS5 Dust-Free Methods</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/the-ultimate-guide-to-solving-critical-hardware-failures-tackling-whea-errors/"><u>The Ultimate Guide to Solving Critical Hardware Failures - Tackling WHEA Errors</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-c53-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme C53 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://solve-help.techidaily.com/winx-pro-hd-mac/"><u>WinX Pro HD ビデオ コンバーター Mac版: マックのみ、ハイスピード・高品質な動画変換ソフト！直感的で操作しやすい。</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Score Big on PS Games During Summer Clearance
-date: 2025-01-28T17:23:20.287Z
-updated: 2025-01-30T16:15:24.164Z
+date: 2025-02-07T00:19:35.450Z
+updated: 2025-02-11T21:19:36.449Z
 tags:
   - games
 categories:
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Overcooked! 2
 
  The best part of the summer holidays is that your friends are most likely on holiday as well, which means that there is no excuse not to invite them over and have a night of ridiculous fun playing Overcooked! 2\. Overcooked! 2 is a chaotic party game where you have to work together to serve food to some very impatient customers under extreme conditions in a short time limit. If you like laughing, you'll like this.
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. My Time at Portia Deluxe Edition
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Deathloop
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Owlboy
 
@@ -78,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Resident Evil Village
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
@@ -122,15 +122,19 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-pixelpanorama-crafting-collage-vids-on-gear/"><u>[New] PixelPanorama Crafting Collage Vids on Gear</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-taleshifters-academy-top-8-picks/"><u>[Updated] Top Taleshifters Academy - Top 8 Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-steps-for-changing-usernames-in-riot-games/"><u>Decoding the Steps for Changing Usernames in Riot Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/enlighten-your-switch-experience-with-best-ftp-games/"><u>Enlighten Your Switch Experience with Best FTP Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-discovery-blueprint-unlocking-top-quality-costless-steam-games/"><u>Game Discovery Blueprint: Unlocking Top Quality, Costless Steam Games</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-12-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus 12 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-kickstart-creative-video-editing-with-xp-edition/"><u>In 2024, Kickstart Creative Video Editing with Xp Edition</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/platform-dominance-a-comprehensive-twitch-vs-youtube-review-for-2024/"><u>Platform Dominance A Comprehensive Twitch Vs. YouTube Review for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-your-ps4-with-a-fresh-start/"><u>Reviving Your PS4 with a Fresh Start</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-c55-by-drfone-android/"><u>Three Ways to Sim Unlock Realme C55</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unveiling-authentic-identity-in-fb-messages/"><u>[New] 2024 Approved Unveiling Authentic Identity in FB Messages</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-discover-the-ultimate-affordable-tool-to-transform-your-valorant-gameplay/"><u>[Updated] In 2024, Discover the Ultimate, Affordable Tool to Transform Your Valorant Gameplay</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-linkedin-live-clarity-ending-the-partially-muted-frustration/"><u>[Updated] In 2024, LinkedIn Live Clarity - Ending the Partially Muted Frustration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-switching-between-safe-mode-and-picture-in-picture-on-iosmacos/"><u>2024 Approved Switching Between Safe Mode & Picture In Picture on iOS/MacOS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Motorola Moto G Stylus (2023).</u></a></li>
+<li><a href="https://games-able.techidaily.com/blackwidow-v4s-gaming-revolution-a-deep-dive-review/"><u>BlackWidow V4's Gaming Revolution - A Deep Dive Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-games-the-art-of-minimized-3d-models/"><u>Boosting Games: The Art of Minimized 3D Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/breathe-new-life-into-your-games-steams-workshop-explained/"><u>Breathe New Life Into Your Games: Steam's Workshop Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-the-music-headset-connection-tips-for-xbox-one/"><u>Bring Back the Music: Headset Connection Tips for Xbox One</u></a></li>
+<li><a href="https://games-able.techidaily.com/build-your-gaming-clan-on-xbox-sx/"><u>Build Your Gaming Clan on Xbox S/X</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/compreehing-movavis-progress-an-in-depth-look-at-the-2024-edition/"><u>Compreehing Movavi's Progress An In-Depth Look at the 2024 Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-on-demand-content-examination-summary/"><u>In 2024, On-Demand Content Examination Summary</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-audio-no-cost-lut-repository-summary-for-2024/"><u>Premium Audio No-Cost LUT Repository Summary for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-itel-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Itel</u></a></li>
 </ul></div>
 

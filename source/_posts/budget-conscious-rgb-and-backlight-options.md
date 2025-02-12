@@ -1,7 +1,7 @@
 ---
 title: Budget-Conscious RGB and Backlight Options
-date: 2024-07-29T05:55:38.753Z
-updated: 2024-07-30T05:55:38.753Z
+date: 2025-02-04T22:00:02.240Z
+updated: 2025-02-11T16:25:49.250Z
 tags:
   - games
 categories:
@@ -29,9 +29,6 @@ Best Overall
 [$52 at Walmart](https://www.walmart.com/ip/Logitech-G413-Backlit-Mechanical-Gaming-Keyboard-with-USB-Passthrough-Carbon/583007950)
 
 * [](https://www.amazon.com/gp/product/B019O9BLVY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2002121&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-budget-gaming-keyboards%2F&asc%5Fcampaign=Affiliate)  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![redragon-k552-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/redragon-k552-1.jpg)  
 
 ##### Redragon K552  
@@ -48,9 +45,6 @@ Best IP Rating
 [See at Amazon](https://www.amazon.com/dp/B01M4LIKLI?tag=makeusw-20&ascsubtag=UUmuoUeUpU2002121&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-budget-gaming-keyboards%2F&asc%5Fcampaign=Affiliate)
 
 * [](https://www.amazon.com/dp/B07ZGDPT4M?tag=makeusw-20&ascsubtag=UUmuoUeUpU2002121&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-budget-gaming-keyboards%2F&asc%5Fcampaign=Affiliate)  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![SteelSeries Apex 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steelseries-apex-3.jpg)  
 
 ##### SteelSeries Apex 3  
@@ -78,9 +72,6 @@ Most Compact
 [$100 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhyperx-alloy-origins-60-wired-mechanical-linear-red-switch-gaming-keyboard-and-rgb-back-lighting-black%2F6452798.p%3FskuId%3D6452798)
 
 * [](https://www.walmart.com/ip/ROCCAT-Magma-Silent-Membrane-Switch-PC-Gaming-Keyboard-with-5-Zone-10-LED-AIMO-RGB-Top-Plate-and-Detachable-Palm-Rest-Black/602085349)  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![roccat magma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/roccat-magma.png)  
 Roccat  
 
@@ -98,15 +89,8 @@ Most Comfortable
 Lowest Profile  
 [$35 at Amazon](https://www.amazon.com/Razer-Ornata-Gaming-Keyboard-Spill-Resistant/dp/B09X6GJ691?tag=makeusw-20&ascsubtag=UUmuoUeUpU2002121&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-budget-gaming-keyboards%2F&asc%5Fcampaign=Affiliate)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Our Favorite Budget Gaming Keyboards in 2023
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![logitech-g413-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/logitech-g413-keyboard-2.jpg)
 
 ##### Logitech G413
@@ -140,6 +124,10 @@ Best Overall
  The Logitech G413 also comes in handy when you've got a paper to write. Along with tactile mechanical keys, its 12 function keys are programmable via Logitech's proprietary G Hub software. More importantly, it has a 26-key rollover and anti-ghosting for improved performance.
 
 ![redragon-k552-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/redragon-k552-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Redragon K552
 
@@ -197,9 +185,6 @@ For Those Prone to Tipping Drinks
 
  Additionally, six macro keys are found on the left-hand side, which you can use Corsair's iCUE software to program. For a gaming setup, the Corsair K55 RGB is a fantastic solution for those on a budget.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![SteelSeries Apex 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steelseries-apex-3.jpg)
 
 ##### SteelSeries Apex 3
@@ -228,6 +213,10 @@ Quietest Keys
  The advantage here, however, is that the keys produce far less sound. If you tend to game at night, when others are asleep, this is a fine option. In addition to good switches, it has great durability. Its magnetic wrist rest is comfortable and easily removable. More importantly, it has an IP32 water resistance rating.
 
 ![rosewill-neon-k85-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/rosewill-neon-k85-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Rosewill Neon K85 RGB
 
@@ -261,6 +250,10 @@ When You Want to Game in Style
 
 ![profile view of hyperx alloy origins 60 keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hyperx-alloy-origins-60.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### HyperX Alloy Origins 60
 
 Most Compact
@@ -286,9 +279,6 @@ Most Compact
 
  The magic comes from HyperX’s mechanical switches, which feature a short travel time and require very little force to actually press. That combination makes the HyperX Alloy Origins 60 incredibly responsive and a must-have when gaming gets intense. The HyperX Alloy Origins 60 can also take quite the beating. Given its aircraft-grade aluminum casing, it is resistant to bending and gives the keyboard quite a long lifespan.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![roccat magma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/roccat-magma.png)
 
 ##### ROCCAT Magma
@@ -319,10 +309,11 @@ Most Comfortable
 
  On top of support for your wrist and palms, the ROCCAT Magma has good spacing between the keys. Combined with the keyboard’s membrane design, the softness of the key presses is a soothing experience for some when it comes to typing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![razer ornata v3 x gaming keyboard featuring a wrist rest and rgb](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/razer-ornata-v3-x.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Razer Ornata V3 X
 
@@ -362,10 +353,11 @@ Lowest Profile
 
  If you love stretching your bottom dollar, then it's the Redragon K552 you want. It's a surprisingly durable TKL keyboard, and Redragon even gives you a choice between Blue, Brown, and Red mechanical switches.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![logitech-g413-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/logitech-g413-keyboard-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Logitech G413
 
@@ -397,8 +389,6 @@ Best Overall
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -406,4 +396,26 @@ Best Overall
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/evolutionize-viewing-experience-the-best-yt-reaction-methods-for-2024/"><u>[New] Revolutionize Viewing Experience The Best YT Reaction Methods for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-customize-your-youtube-watch-experience-speed-settings/"><u>[Updated] 2024 Approved Customize Your YouTube Watch Experience (Speed Settings)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-key-methods-to-change-music-speedplay-on-spotify/"><u>[Updated] Key Methods to Change Music Speedplay on Spotify</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speech-to-script-top-apps-for-on-the-go-text-generation/"><u>[Updated] Speech to Script Top Apps for On-the-Go Text Generation</u></a></li>
+<li><a href="https://techidaily.com/abbyy-vantage-crowned-with-2024s-prestigious-ai-innovation-prize/"><u>ABBYY Vantage Crowned with 2024'S Prestigious AI Innovation Prize</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-relevance-of-dual-mode-monitors-in-gaming/"><u>Assessing the Relevance of Dual-Mode Monitors in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-ssd-brands-for-ps5-gamers/"><u>Best SSD Brands for PS5 Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-download-speeds-on-ubisoft-connect-platforms/"><u>Boosting Download Speeds on Ubisoft Connect Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-motorola-edge-40-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Edge 40 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-selection-of-multiplayer-titles-anywhere-you-are/"><u>Exclusive Selection of Multiplayer Titles, Anywhere You Are</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-vivo-v29-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Vivo V29 Pro.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-reactivate-windows-11-desktop-synchronization-settings-no-longer-disabled/"><u>How to Reactivate Windows 11 Desktop Synchronization Settings (No Longer Disabled)</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-internet-required-here-are-your-best-game-choices-on-ios/"><u>No Internet Required? Here Are Your Best Game Choices on iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-gamers-mice-best-hdmi-and-dpi-combinations/"><u>Precision Gamer's Mice: Best HDMI & DPI Combinations</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-quest-from-download-to-dynamic-diversion/"><u>Quick Quest: From Download to Dynamic Diversion</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-criteria-for-investing-in-your-next-handhayered-gaming-device/"><u>The Essential Criteria for Investing in Your Next Handhayered Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-steams-gametime-and-awards-metrics/"><u>Unveiling the Secrets of Steam's Gametime and Awards Metrics</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamers-shouldnt-be-the-main-source-of-devs-income/"><u>Why Gamers Shouldn’t Be the Main Source of Devs' Income</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-f15-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+</ul></div>
 

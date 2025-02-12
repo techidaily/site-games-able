@@ -1,7 +1,7 @@
 ---
 title: "LinkedIn's New Trend: Beware the Gamification Traps"
-date: 2025-01-29T18:15:35.332Z
-updated: 2025-01-30T16:29:35.196Z
+date: 2025-02-06T23:37:53.197Z
+updated: 2025-02-11T21:39:10.087Z
 tags:
   - games
 categories:
@@ -19,15 +19,15 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [LinkedIn Has Added NYT-Style Games](#linkedin-has-added-nyt-style-games)
 * [What Possessed LinkedIn to Add Games?](#what-possessed-linkedin-to-add-games)
 * [Why LinkedIn Users Shouldn't Play These Games](#why-linkedin-users-shouldn-39-t-play-these-games)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,36 +44,32 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
  Now, LinkedIn has decided to join in with the fun, adding a Games tab populated with (at the time of writing), three "fun" games. These are Pinpoint, Crossclimb, and Queens.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pinpoint
 
 ![Playing the Pinpoint game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pinpoint-linkedin-games.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Pinpoint](https://www.linkedin.com/games/pinpoint/) is a simple game that has you guessing the category from the clues provided. There are five clues in total, with the idea being to guess the category from the fewest number of clues. Its simple nature means this is the most fun and least frustrating game on offer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Crossclimb
 
 ![Playing the Crossclimb game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/crossclimb-linkedin-games.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Crossclimb](https://www.linkedin.com/games/crossclimb/) has two elements to it. First, you need to find the four-letter answers to the clues provided. Second, you need to rearrange the answers so that there's only one letter different to the answer above and below. Only then will you unlock the top and bottom clues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Queens
 
 ![Playing the Queens game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/queens-linkedin-games.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Queens](https://www.linkedin.com/games/queens/) is a little like Sudoku, in that you have to be aware of several different elements in order to place things correctly. In Sudoku, it's numbers, whereas in Queens, it's crowns. There's a lot of trial and error with this, so you'll either love it or hate it.
 
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
  LinkedIn thinks you'll use these games as another networking tool. In the same way that many of us send our Wordle, Connections, and Strands scores to our loved ones every morning, LinkedIn wants you to do the same with Pinpoint, Queens, and Crossclimb. However, there's a fundamental difference between your family and friends and the people you are likely to connect with on LinkedIn.
 
  Do you really want to invite hiring managers and C-suite executives to play a silly little game with you? Not just once, but every single day without fail? The correct answer is no. While LinkedIn may see this as a way of increasing engagement levels and making the usually dull and dreary LinkedIn a little more fun, that isn't why any of us use LinkedIn in the first place.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why LinkedIn Users Shouldn't Play These Games
 
@@ -108,17 +108,21 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-heres-what-you-dont-know-about-instagram-story-viewer2/"><u>[New] In 2024, Here's What You Don't Know About Instagram Story Viewer2</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-optimizing-playback-speed-with-professional-tactics/"><u>[New] In 2024, Optimizing Playback Speed with Professional Tactics</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-prime-focus-systems-ultimate-4k-dslr-rig-guide/"><u>[New] In 2024, Prime Focus Systems Ultimate 4K DSLR Rig Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-android-the-ultimate-recorder-at-no-cost/"><u>[Updated] Capture Android The Ultimate Recorder at No Cost</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-fuel-the-fire-top-videos-that-inspire-audiences-for-2024/"><u>[Updated] Fuel the Fire Top Videos That Inspire Audiences for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-crafting-compelling-tiktok-tweets-for-engagement/"><u>[Updated] In 2024, Crafting Compelling TikTok Tweets for Engagement</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-resizing-imagery-on-iphone-without-hassle-for-2024/"><u>[Updated] Resizing Imagery on iPhone Without Hassle for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-recreation-playing-xbox-games-on-a-pc/"><u>Effortless Recreation: Playing Xbox Games on a PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-for-managing-steam-screens/"><u>Essential Tips for Managing Steam Screens</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-z-flip-5-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy Z Flip 5 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-your-first-person-shooter-key-settings/"><u>Mastering Your First-Person Shooter: Key Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-with-a-ps5-controlling-ps4/"><u>Playing with a PS5 Controlling PS4?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-harnessing-facebooks-potential-for-maximum-revenue-for-2024/"><u>[New] Harnessing Facebook's Potential for Maximum Revenue for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-selecting-the-best-online-platforms-for-budget-stock-media/"><u>[New] Selecting the Best Online Platforms for Budget Stock Media</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-add-timestamp-on-youtube-video-link-desktop-and-mobile/"><u>[Updated] 2024 Approved How to Add Timestamp on YouTube Video Link? [Desktop and Mobile]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-streamlining-your-meetings-using-zoom-with-win11/"><u>2024 Approved Streamlining Your Meetings Using Zoom with Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/acquiring-and-attaching-mojang-maps-with-ease/"><u>Acquiring and Attaching Mojang Maps with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-highview-monitor-27m2v-pixels/"><u>Affordable HighView Monitor, 27M2V Pixels</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-assisted-adventure-crafting-top-6-strategies-with-chatgpt/"><u>AI-Assisted Adventure Crafting: Top 6 Strategies with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/athletic-adventures-7-exciting-sporting-titles-for-ios-and-android/"><u>Athletic Adventures: 7 Exciting Sporting Titles for iOS & Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/banish-errors-and-enhance-your-pc-with-new-nvidia-drivers-update/"><u>Banish Errors and Enhance Your PC with New Nvidia Drivers Update.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cost-comparison-is-riding-with-uber-more-economical-than-taking-a-cab/"><u>Cost Comparison: Is Riding with Uber More Economical than Taking a Cab?</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172049939-secure-your-ultimate-marvel-gaming-experience-now/"><u>Secure Your Ultimate Marvel Gaming Experience Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/stay-cool-online-shopping-alert-score-amazing-discounts-on-laptop-fans-this-cyber-monday-2022-deals-to-keep-your-pc-frosty-gizmodo/"><u>Stay Cool Online Shopping Alert! Score Amazing Discounts on Laptop Fans This Cyber Monday, 2022 Deals to Keep Your PC Frosty | Gizmodo</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-endless-loop-breaker-deleting-your-account-forever/"><u>The Endless Loop Breaker: Deleting Your Account Forever</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165694207-the-history-and-evolution-of-street-mapping-techniques-and-tools/"><u>The History and Evolution of Street Mapping Techniques and Tools</u></a></li>
+<li><a href="https://fox-search.techidaily.com/transformacion-instantanea-del-diseno-en-reversion-explora-estos-5-metodos-de-exito-probado-y-confirmado/"><u>Transformación Instantánea Del Diseño en Reversión: ¡Explora Estos 5 Métodos De Éxito Probado Y Confirmado!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/urgent-update-required-secure-your-system-from-google-chromes-latest-exploit/"><u>Urgent Update Required: Secure Your System From Google Chrome's Latest Exploit</u></a></li>
 </ul></div>
 

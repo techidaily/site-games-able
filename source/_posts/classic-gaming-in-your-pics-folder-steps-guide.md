@@ -1,7 +1,7 @@
 ---
 title: "Classic Gaming in Your Pics Folder: Steps Guide"
-date: 2024-07-29T05:58:01.838Z
-updated: 2024-07-30T05:58:01.838Z
+date: 2025-02-05T16:08:32.401Z
+updated: 2025-02-11T16:28:47.988Z
 tags:
   - games
 categories:
@@ -18,12 +18,17 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
  Let's look at how to fix this issue and get your old games properly reading the My Pictures folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't Some Older Games Read the "My Picture" Folder?
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of the my pictures folder highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_highlighted.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The My Pictures folder you can find under My Documents isn't actually a real folder, as far as Windows is concerned. This My Pictures folder is basically a shortcut that points to the actual My Pictures folder, located in the Users directory.
 
@@ -31,18 +36,16 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
 ## How to Give Read Access Rights for Older Games
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The easiest way to enable older games to read the My Pictures folder is to grant global read permissions to this folder. This is a similar process to[solving "Access Denied" folder errors in Windows](https://www.makeuseof.com/tag/fix-access-denied-folders-windows-10/) .
 
  Start by right-clicking the My Pictures folder and hitting**Properties.** Then open the**Security** tab and click**Advanced.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of advanced security settings selecting principal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_advanced_security_settings_select_principal.jpg)
 
  Hit**Select a principal** , which will open yet another window. In this new window, underneath**Enter the object name to select** , type in**Everyone** and hit**Check Names.**
@@ -53,19 +56,20 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
 ## Should I Grant Read Access to Other User Folders?
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![screenshot of all the user folders highlighted in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_all_user_folders_highlighted.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should be careful which folders you provide full read rights to. While it's unlikely the old game you're trying to play will do anything untoward to your folders, it can be risky granting full read rights to anything on your computer.
 
  Certain games may try to read information from your My Documents folder as well, so it's worth trying this fix on that folder if it's needed. Otherwise, use this fix sparingly. It might even be a good idea to remove these access rights once you're done.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## New Fixes for Old Games on Windows
 
  Windows 11 has been steadily getting better at maintaining compatibility with older software, but it's no surprise that it can't cover every edge case.
@@ -78,9 +82,6 @@ The ultimate burning program for all your needs!</a>
 
  There are a few ways to make your old games work with your Windows 11 operating system. One way is to run your games in Windows' compatibility mode. This lets you choose the Windows version you want to run your game in. Second way is to use an emulator that lets you play old games on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: Does Windows 11 Work With All Games?
 
  Windows 11 is similar to Windows 10, so most of your games compatible with Windows 10 should run just fine on your Windows 11 computer. If a game fails to work on your PC, you can use your PC's compatibility mode to make the game run in an older version of Windows.
@@ -89,14 +90,11 @@ The ultimate burning program for all your needs!</a>
 
  Windows 11 doesn't delete your games if you choose to preserve your files when you upgrade from an earlier version of Windows. If you find a game missing, you can always reinstall it on your upgraded system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +103,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-choices-best-livestream-equip-and-tech-for-youtubers/"><u>[New] Top Choices Best Livestream Equip & Tech for Youtubers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-creative-tinder-bio-ideas-to-make-your-profiles-cant-resist/"><u>[Updated] Creative Tinder Bio Ideas to Make Your Profiles Can't Resist</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-start-streaming-the-simple-method-for-mac-book-air-recording/"><u>[Updated] In 2024, Start Streaming The Simple Method for Mac Book Air Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-luminous-leadership-elevating-content-through-insta-hits/"><u>[Updated] Luminous Leadership Elevating Content Through Insta Hits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-flawlessly-flip-twist-and-merge-videos-on-your-android-gear/"><u>2024 Approved Flawlessly Flip, Twist & Merge Videos on Your Android Gear</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/add-music-in-premiere-pro-for-2024/"><u>Add Music In Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/disabling-safe-mode-a-step-by-step-guide-for-your-android-device/"><u>Disabling Safe Mode: A Step-by-Step Guide for Your Android Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-lenovos-groundbreaking-auto-swivel-laptop-unveiled-at-ifa-2n-2024-insider-scoop-from-the-showfloor/"><u>Exploring Lenovo's Groundbreaking Auto-Swivel Laptop Unveiled at IFA 2N 2024 – Insider Scoop From the Showfloor</u></a></li>
+<li><a href="https://games-able.techidaily.com/led-strip-innovations-standout-selections/"><u>LED Strip Innovations: Standout Selections</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-guide-running-android-apps-seamlessly/"><u>Linux Guide: Running Android Apps Seamlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-bg3-experience-with-dlc-and-upgrades/"><u>Maximizing Your BG3 Experience with DLC & Upgrades</u></a></li>
+<li><a href="https://games-able.techidaily.com/pairing-ps-controllers-with-switch-console-easily/"><u>Pairing PS Controllers with Switch Console Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailoring-content-the-importance-of-aspect-ratios-for-2024/"><u>Tailoring Content The Importance of Aspect Ratios for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-challenges-for-gamefis-mass-appeal/"><u>Top 5 Challenges for GameFi's Mass Appeal</u></a></li>
+<li><a href="https://games-able.techidaily.com/unseen-games-evasive-steam-practices/"><u>Unseen Games: Evasive Steam Practices</u></a></li>
+</ul></div>
 

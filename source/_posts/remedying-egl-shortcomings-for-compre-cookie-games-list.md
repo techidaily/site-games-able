@@ -1,7 +1,7 @@
 ---
 title: Remedying EGL Shortcomings for Compre Cookie Games List
-date: 2025-01-23T17:05:24.351Z
-updated: 2025-01-30T18:06:41.488Z
+date: 2025-02-06T18:05:05.724Z
+updated: 2025-02-11T18:45:18.522Z
 tags:
   - games
 categories:
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![How to refresh the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/refresh-library-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Restart the Epic Games Launcher
 
  If refreshing the library didn’t fix the issue, try restarting the Epic Games Launcher app. This way, you stop its processes from running in the background and give it a fresh start. Once you close the app, press**Ctrl + Shift + Esc** to bring up the Task Manager.
@@ -43,21 +39,25 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
  Then, relaunch the app and check if all of your games are now showing within the library.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Log Out and Log In to Epic Game
 
  Another quick fix that you can try is to log out and log back in. This way, you force Epic Games Launcher to verify your account information and display your complete library. Also, make sure you’ve logged in using the right account.
 
  If there’s someone else with an Epic Games account using the same device as you, you’ll see only the games purchased by their account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Check the Game’s Availability
 
  As you may know, you can[get free games on the Epic Games store](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) . Besides its permanent free games catalog, you can get a new free game every week. However, not every free game is yours forever.
 
 ![Check the game's availability on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-availability-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![How to unhide the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hide-game-library-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Remove Library Filters
@@ -82,7 +82,11 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Delete the Epic Games Launcher Cache
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 5. Relaunch Epic Games and check if the problem is now solved.
 
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bring Back Your Epic Games Library
 
@@ -120,18 +120,14 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-impressive-initiations-podcasting-prose-poems-for-2024/"><u>[Updated] Impressive Initiations Podcasting Prose Poems for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-pathway-for-storytellers-mastery-over-facebook-live-feature-for-2024/"><u>[Updated] The Ultimate Pathway for Storytellers Mastery Over Facebook Live Feature for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-number-1-in-the-elite-8-virtual-composite-maker/"><u>2024 Approved Number 1 in the Elite 8 Virtual Composite Maker</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-ticklishtunes-your-guide-to-amusing-ringtone-downloads/"><u>2024 Approved TicklishTunes Your Guide to Amusing Ringtone Downloads</u></a></li>
-<li><a href="https://games-able.techidaily.com/constraining-background-observations-by-game-bar-on-os-11/"><u>Constraining Background Observations by Game Bar on OS 11</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-screen-real-estate-win11s-best-practices/"><u>Customizing Screen Real Estate: Win11's Best Practices</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-steams-image-archive-habits/"><u>Discovering Steam's Image Archive Habits</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-the-nyt-relationship-chess-game/"><u>How to Play the NYT Relationship Chess Game</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-smart-guide-top-picks-for-6-fb-lite-videos/"><u>In 2024, Smart Guide Top Picks for 6 FB Lite Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-reno-9a-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Reno 9A Device</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/premium-memory-device-for-sony-a7s-cameras/"><u>Premium Memory Device for Sony A7S Cameras</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/rotational-realities-how-to-captivate-with-instagrams-sideways-videos-for-2024/"><u>Rotational Realities How to Captivate with Instagram's Sideways Videos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/six-no-cost-gaming-experiences-worth-exploring/"><u>Six No-Cost Gaming Experiences Worth Exploring</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-image-uploads-on-instagram/"><u>[New] Mastering Image Uploads on Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-integrating-multimedia-for-iphone-users/"><u>[Updated] Integrating Multimedia for iPhone Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-cultivating-inquisitive-interview-habits/"><u>2024 Approved Cultivating Inquisitive Interview Habits</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-gaming-with-these-3-streaming-services/"><u>Enhance Gaming with These 3 Streaming Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-low-cost-high-refresh-rate-displays/"><u>Game On: Low Cost, High Refresh Rate Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/harness-the-power-of-game-passes-with-seamless-management-on-sx-models/"><u>Harness the Power of Game Passes with Seamless Management on S/X Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-disable-and-limit-xbox-game-bar-in-windows-1011/"><u>How to Disable and Limit Xbox Game Bar in Windows 10/11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-become-a-kinemaster-meme-wizard/"><u>In 2024, Become a KineMaster Meme Wizard</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-the-direct3d-boot-challenges/"><u>Overcoming the Direct3D Boot Challenges</u></a></li>
 </ul></div>
 

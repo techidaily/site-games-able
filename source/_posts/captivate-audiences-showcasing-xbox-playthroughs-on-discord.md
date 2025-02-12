@@ -1,7 +1,7 @@
 ---
 title: "Captivate Audiences: Showcasing Xbox Playthroughs on Discord"
-date: 2024-07-29T05:57:09.326Z
-updated: 2024-07-30T05:57:09.326Z
+date: 2025-02-05T18:10:24.399Z
+updated: 2025-02-11T22:01:55.458Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
  As long as you have your Xbox and Discord accounts connected, you are always only a few minutes away from streaming games. But how do you stream your Xbox games directly to Discord, and what do you need to do to ensure the process works? Let's take a look.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## What You Need to Know About Discord on Xbox
 
  Before we jump into streaming gameplay from your Xbox Series X|S to Discord, there are a few things about how the streaming feature works on Xbox, and Discord functionality, that you may need to be aware of. To be specific, the key aspects of how streaming to Discord on Xbox Series X|S works can be defined by the following:
@@ -44,30 +40,29 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 * Highlight**Profile & system** , and select**Settings** .
 * Under**Account** , choose**Linked social accounts** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of the Account settings available on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/linked-social-accounts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * From here, find the**Discord** tab and select**Link** .
 
 ![A screenshot of the Linked Social Accounts settings on Xbox Series X with Discord highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/link-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Select**Continue on console** to be taken to the Microsoft Edge application.
 * When prompted, sign into your Discord account and select**Authorize** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of the Microsoft Edge application on Xbox Series X highlighting Discord authorisation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/authorize.jpg)
 
  With permission given for your Discord and Xbox accounts to share information, you can access all the supported Discord features available on Xbox Series X|S.
 
  However, while the features for Discord on Xbox are plentiful, it's best to support your experience of Discord on Xbox with the official Discord app. If you want to[find and join some of the best Discord Servers](https://www.makeuseof.com/tag/how-to-find-best-discord-servers/) or even manage your servers and accounts, you're best doing so on the Discord app: it is not supported on Xbox.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Stream Games Using Discord on Xbox
 
  Now that your Discord account is linked to your Xbox, and as long as you are an applicable Xbox Insider, you're ready to start streaming games from Xbox to Discord.
@@ -79,11 +74,12 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![A screenshot of the Parties and Chats menu on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/parties-and-chats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Choose the**Server** you want to stream from, followed by the specific**Voice channel** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of the available Discord Voice Channels for an Xbox account on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/discord-voice-channels.jpg)
 
 * From here, select**Stream your game** .
@@ -95,36 +91,29 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![A screenshot of the Stream Settings for Discord on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stream-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And with**Start streaming** selected, Discord will stream any game you play directly to the Discord Voice Channel of your choice. You can even alter your**Stream settings** throughout the stream by re-entering the**Discord** menu on the**Parties & chats** screen.
 
  However, some aspects of your**Stream settings** are locked behind Discord's Nitro paid service, so if you want to stream in a higher resolution than 720p, you'll have to pay for the privilege. But even with this hindrance, streaming to Discord from your Xbox takes mere minutes and feels completely intuitive.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Streaming Gameplay Easy With Discord and Xbox
 
  While Discord Nitro may cause some unnecessary restrictions, being able to stream your Xbox games directly to a Discord Channel of your choice in a matter of moments makes streaming accessible and easy.
 
  And with Discord offering numerous ways to enhance gaming communities, sharing gameplay with friends using your Discord account and Xbox console only furthers a gamer-friendly service, enhancing both platforms.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +122,18 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-red-eye-photo-fixes-on-your-iphone-no-money-needed/"><u>[Updated] Quick Red-Eye Photo Fixes on Your iPhone, No Money Needed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamlessly-shift-focus-with-picart-clear-borders/"><u>[Updated] Seamlessly Shift Focus with PicArt Clear Borders</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-a-brief-review-of-capcut-translate-with-alternative/"><u>2024 Approved A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-universally-turn-off-controller-vibration-on-your-xbox-series-xs/"><u>How to Universally Turn Off Controller Vibration on Your Xbox Series X|S</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x50-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X50</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-acme-audio-playwriting-compendium/"><u>In 2024, Acme Audio Playwriting Compendium</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/konvertierung-von-webm-zu-ogg-gratis-online-mit-movavi/"><u>Konvertierung Von Webm Zu Ogg Gratis Online Mit Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-psp-gaming-perks-reviewed/"><u>Sony PSP Gaming Perks, Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ps5-dualsense-chargers-of-the-future/"><u>Superior PS5 DualSense Chargers of the Future</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-expertise-in-expunging-stickers-from-videos/"><u>The Ultimate Expertise in Expunging Stickers From Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-connectivity-choosing-top-ethernets/"><u>Unbeatable Connectivity: Choosing Top Ethernets</u></a></li>
+</ul></div>
 

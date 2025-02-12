@@ -1,7 +1,7 @@
 ---
 title: Exploring Multiplatform Gaming Between PS5 & PS4?
-date: 2025-01-26T17:00:41.762Z
-updated: 2025-01-30T17:03:58.465Z
+date: 2025-02-06T23:17:17.649Z
+updated: 2025-02-11T22:00:14.304Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The PS5 Controller and PS4 Console Are Not Compatible
 
  Sony made it clear in a[PlayStation Blog post](https://blog.playstation.com/2020/11/09/ps5-the-ultimate-faq/#dualsens) that the DualSense controller will not work on PS4 consoles, as the two devices aren't compatible when connected directly. The console manufacturer has not provided a reason why this is the case, but it's a bit strange considering that the[PS4 controller is forward-compatible with the PS5](https://www.makeuseof.com/use-ps4-controllers-on-playstation-5/) and backward-compatible with the PS3.
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
  However, if all you have is a PS4 console and DualSense controller (no PS4 controller to play with), you can indirectly connect these incompatible devices with the help of two middlemen: PS Remote Play or the Titan Two adapter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on PC?
@@ -44,12 +48,16 @@ Here’s how to do that:
 2. Turn on your PS4, make sure it connects to the internet, and that it’s logged in to your PlayStation Network account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Open the Remote Play app on your PC or Mac, click the**Sign In to PSN** button, and follow the instructions to log in to your PSN account.  
 ![signing in to the ps remote play app on pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/sign-in-ps-remote-play-pc.jpg)
 4. After you sign in, click the**PS4 icon** on the right. This will make the app attempt to connect to the PS4 console.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![choosing which console to connect to on the ps remote play app for pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/connect-ps4-remote-play-pc.jpg)
 5. Once the Remote Play app and PS4 connect, plug the DualSense controller into your computer using a USB-C cable.
@@ -57,10 +65,6 @@ Here’s how to do that:
 6. Enjoy your game.
 
  The PS5 controller will now work on your PS4, but if you unplug it from your computer, it will lose the connection. Keep it plugged in at all times.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on Mobile?
 
@@ -74,7 +78,7 @@ Here’s how to do that:
 ![choosing a console to connect to on the PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/choosing-a-console-to-connect-to-on-the-ps-remote-play-mobile-app.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -89,10 +93,6 @@ Close
  Once you purchase the Titan Two, all you have to do is plug it into your PS4 console and then plug in your DualSense into the adapter using a USB-C cable.
 
  Now you'll be able to use the DualSense controller on your PlayStation 4 without needing Remote Play.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use the DualSense Controller on PS4 the Hard Way
 
@@ -115,21 +115,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-key-to-viral-posts-on-instagram-unveiled/"><u>[New] The Key to Viral Posts on Instagram Unveiled</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-simplified-guide-crafting-and-altering-multisnap-stories/"><u>[Updated] Simplified Guide Crafting & Altering Multisnap Stories</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-screenshot-to-masterpiece-explore-these-top-8-multimedia-apps/"><u>2024 Approved From Screenshot to Masterpiece Explore These Top 8 Multimedia Apps</u></a></li>
-<li><a href="https://facebook.techidaily.com/building-a-noteworthy-and-authentic-online-self-image-on-fb/"><u>Building a Noteworthy and Authentic Online Self-Image on FB</u></a></li>
-<li><a href="https://games-able.techidaily.com/decode-deaths-4-ai-enhanced-online-mysteries/"><u>Decode Deaths: 4 AI-Enhanced Online Mysteries</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-deceptive-digital-game-hype-trailers/"><u>Demystifying Deceptive Digital Game Hype Trailers</u></a></li>
-<li><a href="https://games-able.techidaily.com/easy-steps-remove-and-re-download-ps5-titles/"><u>Easy Steps: Remove & Re-Download PS5 Titles</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-pratique-changer-de-disque-dur-par-ssd-dans-windows-10-sans-reinstallation-du-systeme/"><u>Guide Pratique : Changer De Disque Dur Par SSD Dans Windows 10 Sans Réinstallation Du Système</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-3d-panels-boosting-home-console-entertainment/"><u>Ideal 3D Panels Boosting Home Console Entertainment</u></a></li>
-<li><a href="https://games-able.techidaily.com/indie-game-hunt-top-tactics-for-itchio-fans/"><u>Indie Game Hunt: Top Tactics for Itch.io Fans</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719577339220-norwegian-skills-surge-10-minute-mini-marathons/"><u>Norwegian Skills Surge, 10-Minute Mini-Marathons!</u></a></li>
-<li><a href="https://games-able.techidaily.com/streaming-mastery-how-to-excel-on-the-twitch-stage/"><u>Streaming Mastery: How to Excel on the Twitch Stage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/through-the-lens-through-editing-pro-secrets-of-stunning-art-for-2024/"><u>Through the Lens, Through Editing Pro Secrets of Stunning Art for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-gadget-review-comprehensive-insights-on-latest-technology/"><u>Tom's Gadget Review: Comprehensive Insights on Latest Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/unpacking-idevices-entertainment-apple-arcades-role/"><u>Unpacking iDevices Entertainment: Apple Arcade's Role</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210935184-9781667457949-waarom-egskeiding-n-moet-is/"><u>Waarom egskeiding 'n moet is | Free Book</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-an-in-depth-look-at-huawei-p10s-audio-experience/"><u>[New] 2024 Approved An In-Depth Look at Huawei P10's Audio Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-professional-strategies-for-screen-capturing-facetime/"><u>[New] In 2024, Professional Strategies for Screen-Capturing FaceTime</u></a></li>
+<li><a href="https://common-error.techidaily.com/achieve-seamless-xbox-one-operation-on-computer/"><u>Achieve Seamless Xbox One Operation on Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-free-to-play-uncover-the-top-5-mobile-game-advantages/"><u>Beyond 'Free-to-Play': Uncover the Top 5 Mobile Game Advantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-bottom-line-thinking-envisioning-electricitys-role/"><u>Beyond Bottom-Line Thinking: Envisioning Electricity's Role</u></a></li>
+<li><a href="https://discover-best.techidaily.com/boost-your-pcs-speed-expert-tips-from-yl-computing-and-yl-software/"><u>Boost Your PC's Speed: Expert Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-console-and-computer-with-switch/"><u>Bridging Console and Computer with Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/broaden-horizons-top-6-alternative-online-chess-experiences/"><u>Broaden Horizons: Top 6 Alternative Online Chess Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/capturing-steam-gameplay-with-precision/"><u>Capturing Steam Gameplay with Precision</u></a></li>
+<li><a href="https://games-able.techidaily.com/cease-steams-startup-routine/"><u>Cease Steam's Startup Routine</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-swings-for-gaming-optical-or-mechanical/"><u>Choosing Swings for Gaming: Optical or Mechanical?</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-desk-based-computers-to-gaming-pcs/"><u>Comparing Desk-Based Computers to Gaming PCs</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-strategies-for-auto-deleting-outdated-documents-on-google-drive/"><u>Effective Strategies for Auto-Deleting Outdated Documents on Google Drive</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-15-crucial-strategies-for-accessing-international-sport-events/"><u>In 2024, 15 Crucial Strategies for Accessing International Sport Events</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-kids-drones/"><u>In 2024, The Ultimate Guide to Kids' Drones</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-username-experience-on-windows-11-platform/"><u>Transforming UserName Experience on Windows 11 Platform</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y78t-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo Y78t Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

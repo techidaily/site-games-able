@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Revolution: Keychron's Lemokey L3 Launched"
-date: 2025-01-13T22:52:09.188Z
-updated: 2025-01-16T21:50:42.448Z
+date: 2025-02-06T23:12:18.659Z
+updated: 2025-02-11T20:39:17.272Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ![lemokey l3 keyboard in via customization software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/lemokey-l3-keyboard-in-via-customization-software.jpg)  
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
  It's a fantastic keyboard; there is little doubt about that. But is the Lemokey L3 a "gaming keyboard," or just a brilliant mechanical keyboard with some extra gaming features?
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
@@ -139,10 +139,6 @@ No
 
  It's a good range of options, not forgetting that the Lemokey L3 is a hot-swappable keyboard. Hot-swappable means you can replace the keyboard's switches without soldering; they're plug-and-play.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Style and Construction
 
  The Lemokey L3 feels sublime. It's a premium gaming mechanical keyboard that weighs an excellent 1.97kg (4.3lbs). You're basically buying a block of high-quality CNC machined aluminum that also happens to be a mechanical keyboard; you won't be shoving the Lemokey L3 in your rucksack for the local LAN session, that's for sure. The weight has another important use, though—stopping your keyboard from moving around as you game or type.
@@ -169,6 +165,10 @@ No
 
  Inside the Lemokey L3 are multiple layers of sound-absorbing foam, which, along with the double-gasket mounted design, contribute to the smooth typing experience and warming typing sound.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery Life and Connectivity
 
  Battery life is another plus point for the Lemokey L3—though, given its weight, I strongly doubt you'll ever roam too far from a USB-C port or an outlet. The Lemokey L3 is rated for up to 200 hours while using 2.4GHz wireless, rising to a whopping 300 hours while using Bluetooth. I didn't track this precisely, but I never ran out of battery using either wireless mode.
@@ -176,10 +176,14 @@ No
 ![red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lemokey L3 Typing Experience
 
@@ -193,6 +197,10 @@ No
 
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  Even for someone who doesn't game competitively online, the L3's inputs are noticeably fast and accurate, and if you do frequent games like CS2 (formerly CS:GO), CoD Warzone or Modern Warfare, Overwatch, or any of the myriad first-person shooters, having your inputs registered rapidly is vital.
@@ -200,7 +208,7 @@ No
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customization With VIA
@@ -213,13 +221,13 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Lemokey L3 a Good Gaming Keyboard?
 
@@ -233,15 +241,7 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -266,21 +266,18 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/issecting-ajey-nagars-2023-youtube-economic-landscape-for-2024/"><u>[New] Dissecting Ajey Nagar's 2023 YouTube Economic Landscape for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-tech-savvy-tips-for-lenovo-display-capture/"><u>[New] Tech-Savvy Tips for Lenovo Display Capture</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitch-your-way-mastering-twitter-video-livestreaming/"><u>[Updated] In 2024, Twitch Your Way Mastering Twitter Video Livestreaming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-secure-subjects-with-stealthy-image-alteration/"><u>[Updated] Secure Subjects with Stealthy Image Alteration</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-revolutionary-videography-toolset-for-vimeo-users/"><u>2024 Approved Revolutionary Videography Toolset for Vimeo Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-full-compensation-for-abandoned-steam-titles/"><u>Ensuring Full Compensation for Abandoned Steam Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/here-are-the-most-important-specs-i-look-for-in-a-gaming-monitor/"><u>Here Are the Most Important Specs I Look for in a Gaming Monitor</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-interpret-your-laptops-power-meter-in-windows-10-for-optimal-performance/"><u>How to Interpret Your Laptop's Power Meter in Windows 10 for Optimal Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-shield-your-child-from-dangers-in-social-chats/"><u>How to Shield Your Child From Dangers in Social Chats</u></a></li>
-<li><a href="https://games-able.techidaily.com/iem-benefits-in-competitive-video-game-sets/"><u>IEM Benefits in Competitive Video Game Sets</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-the-art-of-igtv-on-instagram-stories/"><u>In 2024, Mastering the Art of IGTV on Instagram Stories</u></a></li>
-<li><a href="https://games-able.techidaily.com/lessons-from-my-titan-gpu-overinvestment/"><u>Lessons From My Titan GPU Overinvestment</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317733-9781401929527-letters-to-louise/"><u>Letters to Louise | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/pro-240hz-gaming-screens-for-optimal-immersion/"><u>Pro 240Hz Gaming Screens for Optimal Immersion</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revamping-music-studio-setup-with-the-tascam-cd-200bts-professional-features-reviewed/"><u>Revamping Music Studio Setup with the Tascam CD-200BT's Professional Features Reviewed</u></a></li>
-<li><a href="https://games-able.techidaily.com/unmatched-powerhouse-raider-ge78s-desktop-dominance/"><u>Unmatched Powerhouse: Raider GE78's Desktop Dominance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-art-of-capturing-with-iphones-micro-and-macro-lenses/"><u>[New] 2024 Approved The Art of Capturing with iPhone's Micro and Macro Lenses</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-streamlining-the-acquisition-of-background-visual-content-for-2024/"><u>[New] Streamlining the Acquisition of Background Visual Content for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-repairing-driver-loading-glitch-in-battleye-service-error-145ebyte/"><u>Comprehensive Guide to Repairing Driver Loading Glitch in BattlEye Service Error 145Ebyte</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-viewers-live-xbox-streaming-on-discord/"><u>Engaging Viewers: Live Xbox Streaming on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-gaming-experience-with-game-pass-ultimate/"><u>Enhance Your Gaming Experience With Game Pass Ultimate</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-noise-reduction-in-xbox-audio/"><u>Navigating Noise Reduction in Xbox Audio</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-top-switch-accessory-picks-2024-edition/"><u>Nintendo's Top Switch Accessory Picks: 2024 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/origins-of-foddian-a-gaming-journey/"><u>Origins of Foddian: A Gaming Journey</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-no-audio-output-problem-a-comprehensive-guide/"><u>Solving the 'No Audio Output' Problem: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamers-should-opt-for-steam-the-ultimate-decision-maker-guide/"><u>Why Gamers Should Opt for Steam: The Ultimate Decision-Maker Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bring Dreamcast Fun: Emulating Games on Android"
-date: 2024-07-29T05:57:04.194Z
-updated: 2024-07-30T05:57:04.194Z
+date: 2025-02-10T21:38:19.134Z
+updated: 2025-02-11T22:46:36.717Z
 tags:
   - games
 categories:
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
  To set up each Sega Dreamcast emulator you need to make a ROMs folder to store the dc\_boot.bin file as well as your games. You can do that using any Android file manager. We'll be using[Files by Google](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 1: Create a Folder to Store Your Dreamcast Games
 
 To create a folder for your Dreamcast games and the BIOS file:
@@ -60,9 +57,6 @@ Once you've downloaded the files, move them to your ROMs folder.
 
  If you copy the files from a laptop via USB, you can move them directly into your ROMs folder.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 3: Unzip the ROM Files
 
  If your ROM files are zipped, you'll need to unzip and extract them into your ROMs folder. To do that, first, install the app[RAR](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=com.rarlab.rar) to your device. Open it and be sure to select**Allow access to manage all files** when prompted.
@@ -71,15 +65,13 @@ Once you've downloaded the files, move them to your ROMs folder.
 
 ![Browsing for folder in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/browse-for-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Extracting a .7zip file in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extraction-rar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Unzipped the Shenmue ROM file in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-shenmue.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -89,31 +81,37 @@ Close
 
  For example, if you want to play the homebrew Minecraft clone Crafiti on Dreamcast but the zip file contains a file named track01.bin and you already have a file with the exact name in your ROMs folder, change Crafiti's respective track01.bin filename to crafititrack01.bin, and so on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 4: Set Up Your Sega Dreamcast Emulator
 
  Redream and Flycast are two of the most flexible Sega Dreamcast emulators available for Android. Choose Redream if you want to quickly jump in and start playing. But if you want an emulator that provides a few more in-depth options, Flycast is the way to go. Here's how to set up both.
 
  By Flycast, we are referring to "Flycast Libretro" (an upstream of the discontinued Flycast Sega Dreamcast emulator).
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up Redream on Android
 
 [Redream](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=io.recompiled.redream) is the easiest emulator to set up—for starters, you can download it directly from Google Play. Install and open the app, then select**CONTINUE IN LITE MODE** unless you want to upgrade to premium. To play Sega Dreamcast games on your Android device, you can play for free.
 
  To add your games, select **Go to Library > Add Directory > ROMs > Sega Dreamcast > Use this folder > Allow > Games** . Now you will see your library. Tap the image of the game you want to play.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Library in Redream](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/redream-library-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hang tight while the game loads (it'll only take a few seconds). As long as none of the files in the ROM file are corrupted, the game will automatically load. Redream makes it super easy to change the button layout via the settings to something that works better for you.
 
  Take a look at Crazy Taxi with an adjusted layout. The**LT** and**RT** buttons are off-screen and blocking the**D** and**R** gears, but my thumbs could actually reach the buttons, so it was an improvement. I'll take that win, and adjust accordingly later, because it's easy.
 
  Take the time to make Redream your own by going through even more settings, specifically the**Input** and**System** settings. Get a quick tour below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Flycast on Android
 
@@ -138,9 +136,6 @@ Finally, set the Home directory. To do that:
 
  Go back to**Library** and tap a game's icon to load it. You'll immediately jump into the game.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Change the Controller Layout in Flycast
 
  Flycast makes adjusting the layout of the controller so simple and seamless. If you ever thought that the Dreamcast's controller would feel better with the joystick at the bottom of the controller versus the top, this is your chance to put that theory to the test (sort of).
@@ -148,8 +143,9 @@ Finally, set the Home directory. To do that:
  Flycast allows you to go deep into the settings. You can emulate virtually every peripheral to be released for the Dreamcast. From light guns and maracas to even the Ethernet Broadband Adapter only released in Japan.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Optional: Use a Bluetooth Controller to Play Sega Dreamcast Games
 
  You can[use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) , but you have to set it to the mode appropriate for your platform and connect it using that mode's specific combination.
@@ -160,18 +156,19 @@ Finally, set the Home directory. To do that:
 
 [Pair this device via Bluetooth,](https://www.makeuseof.com/how-to-connect-android-bluetooth) then set the controller mode to**A** and hold down the**Seeking** button for a few seconds until the bottom four LEDs power on. Hold down**Start + A** and the controller will connect to your Android device!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Play the Hits of the Sega Dreamcast All Over Again on Android
 
  Despite the Sega Dreamcast's early demise, it still made an enormous impact. The unique games and experiences made it one of the most iconic consoles in gaming history. And you can experience it—all of it—directly from your pocket.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +177,18 @@ Finally, set the Home directory. To do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-showcase-your-brand-with-our-50-free-youtube-banners/"><u>[Updated] 2024 Approved Showcase Your Brand with Our 50 Free YouTube Banners</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-tips-for-creating-engaging-screencasts-for-2024/"><u>[Updated] Expert Tips for Creating Engaging Screencasts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtubes-highest-pay-per-view-pioneers/"><u>[Updated] In 2024, YouTube's Highest Pay Per View Pioneers</u></a></li>
+<li><a href="https://games-able.techidaily.com/connectivity-wonders-switchs-usb-and-bluetooth-unveiled-100-chars/"><u>Connectivity Wonders: Switch's USB and Bluetooth Unveiled (100 Chars)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/content-creation-battleground-choosing-between-vimeo-youtube-dailymotion-for-2024/"><u>Content Creation Battleground Choosing Between Vimeo, YouTube, DailyMotion for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-rmvb-videos-for-free-using-an-online-service-expert-tips-with-movavi-technology/"><u>Convert RMVB Videos for Free Using an Online Service - Expert Tips with Movavi Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/cryptic-gamers-hiding-your-activities/"><u>Cryptic Gamers: Hiding Your Activities</u></a></li>
+<li><a href="https://games-able.techidaily.com/enter-the-battlefield-top-10-immersive-online-fps-browser-games/"><u>Enter the Battlefield: Top 10 Immersive Online FPS Browser Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-data-only-fun-iphoneipads-top-15-offline-gaming-lists/"><u>No Data, Only Fun! IPhone/iPad's Top 15 Offline Gaming Lists</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-synapse-the-cutting-edge-of-online-interaction-spaces/"><u>Social Synapse: The Cutting Edge of Online Interaction Spaces</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-improved-steam-deck-key-presses/"><u>Tips for Improved Steam Deck Key Presses</u></a></li>
+</ul></div>
 

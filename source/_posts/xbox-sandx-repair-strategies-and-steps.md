@@ -1,7 +1,7 @@
 ---
 title: Xbox S&X Repair Strategies & Steps
-date: 2025-01-28T16:22:31.204Z
-updated: 2025-01-30T17:43:58.791Z
+date: 2025-02-10T19:09:07.589Z
+updated: 2025-02-11T20:53:27.599Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Register Your Xbox Series X|S With Microsoft
 
  Before you attempt to book a service repair for your Xbox Series X|S through Xbox, you will need to register your device with Microsoft. This will enable you to access warranty information for your console, and ultimately book a repair for your console.
@@ -38,16 +34,24 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![A screenshot of the Devices page for a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3091.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You will then be faced with a terms and conditions pop-up. Select**Confirm** to register your Xbox.
 
  Alternatively, if your Xbox isn't listed under**Devices** , you can select**Register device** and input the serial number of your Xbox Series X|S to register your console manually. You can find the serial number of your Series X|S by examining the back label of your console, or by accessing the**Console info** tab under**System** settings.
 
 ![A screenshot of the Register Device option for a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3094.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But with that, your Xbox Series X|S will be registered with Microsoft, and you should be well on your way to booking a repair with Xbox for your Series X|S.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check the Warranty Status of Your Xbox Series X|S
@@ -66,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  Bear in mind, that standard Xbox Series X|S warranties for consoles last for 12 months, so if you purchase your Xbox upon release, its warranty will have unfortunately expired. Because of this, you should[maintain consoles like the Xbox Series X](https://www.makeuseof.com/ways-to-maintain-xbox-series-x-hardware/) throughout its generation. This way, you may avoid ever needing to repair your Xbox.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Book a Repair for Your Broken Xbox Series X|S
 
  At this point, you should have all the information you need to fix your Xbox Series X|S and send it off for an official repair. So, to book a repair for your Series X|S, return to the**Devices** section of your Microsoft account via[Microsoft](https://account.microsoft.com/devices/?) and follow these steps:
@@ -81,27 +81,27 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![A screenshot of a Microsoft account Device Service and Repair screen for an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3103-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Enter a short description of your issue and select**Next** .
 * Choose a delivery address for the return of your repair and select**Next** .
 * Microsoft will then inform you of the cost of the repair. To confirm the repair, select**Next** .
 
 ![A screenshot of the repair costs for an Xbox Series X being repaired through Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3108.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From here, you need to**Select a shipping method** and agree to Microsoft's terms and conditions. You will then be expected to pay for the repair and any delivery fees. If your console is under warranty, the repair fees should be waived depending on the exact issue with your Xbox.
 
 ![A screenshot of the Shipping Methods for the repair of an Xbox Series X through Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3111.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  But with your repair paid for and the delivery method selected, you can expect your Xbox to be fixed and returned to you very soon, or at least depending upon your chosen delivery method.
 
  However, if you find the price tag for a repair to be too expensive, there are plenty of Xbox issues that are fixable at home. For instance,[fixing Xbox Wireless Controller stick drift](https://www.makeuseof.com/how-to-fix-xbox-one-controller-drift/) can be easy and doesn't necessarily require replacements or an official repair.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Repair Your Xbox Series X|S Officially and Efficiently
 
@@ -124,18 +124,16 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-fixing-iphone-x-overcoming-face-id-malfunction/"><u>[New] Fixing iPhone X Overcoming Face ID Malfunction</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-instant-transformation-gifs-becoming-stickers-across-discord-whatsapp-and-more/"><u>[New] Instant Transformation Gifs Becoming Stickers Across Discord, WhatsApp & More</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-sharper-images-richer-minescapes-zoom-techniques-revealed/"><u>[New] Sharper Images, Richer Minescapes Zoom Techniques Revealed</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-top-12-sites-for-premium-free-photography-images/"><u>[Updated] 2024 Approved Top 12 Sites for Premium-Free Photography Images</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-from-video-to-visual-storytelling-crafting-gifs-with-youtube-content/"><u>2024 Approved From Video to Visual Storytelling Crafting GIFs with YouTube Content</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-samurai-warriors-5-from-crashing-on-your-windows-computer/"><u>How to Prevent Samurai Warriors 5 From Crashing on Your Windows Computer?</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-pads-for-gamers-needs/"><u>Ideal Pads for Gamers' Needs</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-strategies-for-psp-as-a-wii-u-clone/"><u>Innovative Strategies for PSP as a Wii U Clone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-master-movie-making-a-step-by-step-guide-to-pro-level-videos/"><u>New Master Movie Making A Step-by-Step Guide to Pro-Level Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-remote-play-windows-connection-problems-guide/"><u>Steam Remote Play: Windows Connection Problems Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-nokia-nokia-72-showcase-impeccable-display-exceptional-photography-and-competitive-pricing/"><u>The Ultimate Guide to the Nokia Nokia 7.2 Showcase: Impeccable Display, Exceptional Photography, and Competitive Pricing</u></a></li>
-<li><a href="https://games-able.techidaily.com/valve-squeezes-out-misuse-in-easy-game-returns/"><u>Valve Squeezes Out Misuse in Easy Game Returns</u></a></li>
-<li><a href="https://win-top.techidaily.com/1726223234384-mp2-avi-movavi/"><u>오픈소스 장소: MP2를 AVI로 전환하는 가능성 - Movavi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-zooming-through-efficient-meeting-coordination-tips/"><u>[New] 2024 Approved Zooming Through Efficient Meeting Coordination Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-quick-fix-resetting-live-broadcasts-on-twitch/"><u>[Updated] 2024 Approved Quick Fix Resetting Live Broadcasts on Twitch</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>2024 Approved How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-am08-pro-transform-acemagic-experience/"><u>Does AM08 Pro Transform AceMagic Experience?</u></a></li>
+<li><a href="https://games-able.techidaily.com/enter-the-world-of-fun-with-chatgpts-6-best-games/"><u>Enter the World of Fun with ChatGPT's 6 Best Games!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-completing-the-process-of-disabling-your-linkedin-profile/"><u>In 2024, Completing the Process of Disabling Your LinkedIn Profile</u></a></li>
+<li><a href="https://games-able.techidaily.com/interstellar-builders-guide-to-cutting-edge-computers/"><u>Interstellar Builder's Guide to Cutting-Edge Computers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/step-by-step-mastering-the-art-of-vr-exploration/"><u>Step-by-Step Mastering the Art of VR Exploration</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-grand-unveiling-of-it-takes-two-a-landmark-achievement-in-collaboration/"><u>The Grand Unveiling of 'It Takes Two': A Landmark Achievement in Collaboration</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-the-best-of-mobile-entertainment-on-ios-through-arcade/"><u>Uncovering the Best of Mobile Entertainment on iOS Through Arcade</u></a></li>
 </ul></div>
 

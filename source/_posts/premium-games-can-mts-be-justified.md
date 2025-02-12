@@ -1,7 +1,7 @@
 ---
 title: "Premium Games: Can MTs Be Justified?"
-date: 2025-01-14T23:57:09.905Z
-updated: 2025-01-16T18:44:42.121Z
+date: 2025-02-09T21:55:12.314Z
+updated: 2025-02-11T21:03:56.745Z
 tags:
   - games
 categories:
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 * [Why Do Microtransactions Exist in Video Games At All?](#why-do-microtransactions-exist-in-video-games-at-all)
 * [Why Microtransactions Are Appearing in Premium Games](#why-microtransactions-are-appearing-in-premium-games)
 * [Are Microtransactions Good for the Gaming Industry?](#are-microtransactions-good-for-the-gaming-industry)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 But what about premium games? Should they have microtransactions?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Microtransactions Are Appearing in Premium Games
@@ -66,7 +62,7 @@ But what about premium games? Should they have microtransactions?
 ![Elder Scrolls Obvlivion gold horse armor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/elder-scrolls-obvlivion-gold-horse-armor.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, it didn’t start today; we can see signs of this as far back as 2006\. The most infamous early example was Horse Armor in The Elder Scrolls: Oblivion (2006). Horse Armor was a $2.50 DLC package Microsoft and Bethesda added to the Xbox 360 release of the game.
@@ -77,10 +73,6 @@ But what about premium games? Should they have microtransactions?
 
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are Microtransactions Good for the Gaming Industry?
 
  On the surface, more money in an industry is always a good thing. It allows companies to have bigger budgets to research and develop better games, and it allows better marketing to introduce the products to diverse audiences.
@@ -88,6 +80,10 @@ But what about premium games? Should they have microtransactions?
  Also, without microtransactions, free games would not exist or would have little to no support. In that sense, microtransactions can be positive since they give gamers an opportunity to support the industry. But if we’re being honest, putting them in a game you’ve already paid for in full doesn’t help anybody but the company.
 
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Paying More to Experience Less
 
@@ -97,9 +93,17 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bloat and Battle Passes
 
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -118,10 +122,6 @@ But what about premium games? Should they have microtransactions?
  It’s downright dishonest to create a core game mechanic and exclude it as an option in the base game. Because you’ve spent $40 already, you might as well spend $10 more to enjoy the game.
 
 ![Diablo III selling necromancer class as extra content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/diablo-iii-selling-necromancer-class-as-extra-content.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once again, Blizzard makes an appearance. Diablo III costs $19.99, and the Necromancer expansion costs $14.99\. It’s unfair that a separate expansion pack that pretty much adds only a class is worth almost as much as the base game. That means Blizzard is fairly confident that the necromancer class is the sole reason some people want to play the game. Yet, it’s not included as part of the standard offer.
 
@@ -146,21 +146,18 @@ But what about premium games? Should they have microtransactions?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-comedic-choreography-producing-funny-mock-films/"><u>[New] 2024 Approved Comedic Choreography Producing Funny Mock Films</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-smirk-secrets-crafting-chuckles-with-simplicity/"><u>[New] 2024 Approved Smirk Secrets Crafting Chuckles with Simplicity</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-enhance-your-footage-perfect-aspect-ratio-selection/"><u>[Updated] Enhance Your Footage Perfect Aspect Ratio Selection</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-transforming-storytelling-into-cinematic-art/"><u>[Updated] Transforming Storytelling Into Cinematic Art</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-the-digital-ghost-gamers-guide/"><u>Deciphering the Digital Ghost: Gamer's Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/deconstructing-xbox-sx-controller-step-by-step/"><u>Deconstructing Xbox S/X Controller Step-by-Step</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-minimize-text-messaging-overages-no-data-plan-required-tips/"><u>How to Minimize Text Messaging Overages: No Data Plan Required Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oneplus-ace-2-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to OnePlus Ace 2 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-contenders-sxs-versus-high-end-pc/"><u>Next-Gen Contenders: SXS Versus High-End PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionize-how-you-stay-connected-important-messaging-enhancements-coming-to-iphones-with-ios-18-update-zdnet-exclusive-insights/"><u>Revolutionize How You Stay Connected – Important Messaging Enhancements Coming to iPhones with iOS 18 Update | ZDNET Exclusive Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-download-0-bytes-8-best-fixes/"><u>Steam Download 0 Bytes | 8 Best Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-distinctive-features-of-steam-and-gog-marketplaces/"><u>The Distinctive Features of Steam & GOG Marketplaces</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unmatched-allure-of-google-play-pass-with-a-caveat/"><u>The Unmatched Allure of Google Play Pass with a Caveat</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-ps5-upgrades-game-changing-additions/"><u>Ultimate PS5 Upgrades: Game-Changing Additions</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-hidden-value-in-early-games/"><u>Unveiling the Hidden Value in Early Games</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209854761-9780997457612-wonders-at-the-veil/"><u>Wonders at the Veil | Free Book</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fixing-half-silenced-facebook-video-volume/"><u>[New] In 2024, Fixing Half-Silenced Facebook Video Volume</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-most-advanced-iphone-videography-apps/"><u>[Updated] Most Advanced iPhone Videography Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-top-10-music-reactions-on-yt-a-year-end-review/"><u>2024 Approved Top 10 Music Reactions on YT A Year-End Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-sonys-ps5-exclusives-the-ultimate-gaming-selection/"><u>Discover Sony's PS5 Exclusives: The Ultimate Gaming Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/endocannabinoid-signaling-pathways-and-their-impact-on-mood-regulation/"><u>Endocannabinoid Signaling Pathways and Their Impact on Mood Regulation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exceptional-audio-clarity-an-in-depth-look-at-the-midland-gxt1000vp4-radio/"><u>Exceptional Audio Clarity: An In-Depth Look at the Midland GXT1000VP4 Radio</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/explore-english-across-the-globe-through-pearson/"><u>Explore English Across the Globe Through Pearson</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-track-pinpointing-your-virtual-gaming-number/"><u>Fast Track: Pinpointing Your Virtual Gaming Number</u></a></li>
+<li><a href="https://games-able.techidaily.com/friendly-face-off-15-must-play-mobile-gaming-matchups/"><u>Friendly Face-Off: 15 Must-Play Mobile Gaming Matchups</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-the-finest-keyboards-gaming/"><u>Gamers' Choice: The Finest Keyboards Gaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/learn-to-screen-capture-flawlessly-on-mac-using-just-keys-for-2024/"><u>Learn to Screen Capture Flawlessly on Mac Using Just Keys for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalizing-the-ps5-visual-theme/"><u>Personalizing the PS5 Visual Theme</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-kid-friendly-mobile-devices-a-comprehensive-guide-techradar/"><u>Top Kid-Friendly Mobile Devices: A Comprehensive Guide | TechRadar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Clouding Up Game Highlights: Store Screenshots Easily"
-date: 2024-07-29T05:59:51.432Z
-updated: 2024-07-30T05:59:51.432Z
+date: 2025-02-04T19:31:22.686Z
+updated: 2025-02-11T19:28:31.792Z
 tags:
   - games
 categories:
@@ -18,17 +18,15 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
  Many people use Steam to take screenshots. In this article, you'll learn how to properly back up your Steam screenshots both to the cloud and locally on your computer. We'll also show you how to move your locally saved Steam screenshots to another PC without losing your metadata.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Back Up Screenshots to the Steam Cloud
 
  Backing up your screenshots to the Steam Cloud is simple. First, open Steam and Navigate to**Settings** by selecting the tab,**Steam** , in the upper-right-hand corner of your screen. Next, select**In Game** from the available options. This menu will display your current shortcut key for taking an in-game snap. Furthermore, it provides you the option to change your default Steam screenshot folder.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The In Game settings menu on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-in-game-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you understand how to take a screenshot, launch a game and press**F12** (or whatever you set the keybinding to) to take a snap. A Steam pop-up containing all the screenshots you have taken will be displayed upon exiting the game. You will be given the option to upload all or some of your screenshots to the Steam Cloud.
 
@@ -36,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
  Furthermore, when uploading pictures to the Steam Cloud, you can choose whether they remain private, visible to friends only, or visible to the public. Your screenshots will be available locally on your PC and on the Steam Cloud once you have uploaded your photos.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Screenshots section on a Steam profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-profile-screenshots.jpg)
 
  You can view your snaps on the Steam Cloud by selecting your username and clicking on**Screenshots** on the menu to the right of the screen. Should you choose to delete or if you accidentally deleted your locally saved Steam pictures, take note that you cannot re-download Steam screenshots into your local library.
@@ -50,9 +45,9 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 **Download:** Steam for[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU39294/https://itunes.apple.com/us/app/steam-mobile/id495369748?mt=8) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU39294/https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community&hl=en%5FUS) (free)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Uploading Non-Steam Screenshots to the Steam Cloud
 
  Screenshots created through third party software cannot natively be uploaded to the Steam Cloud since each Steam screenshot is registered within the text file,**screenshots.vdf** . This file can be found at**Steam\\Userdata\\\[Unique User ID Number\]\\760\\screenshots.vdf.**
@@ -63,10 +58,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  As a result, Steam will view these screenshots as its own and allow you to upload them to the Steam Cloud. You will notice that the metadata connected to each screenshot will be of the moment Steascree registered them within the screenshots.vdf file. The[Steam Cloud is great for storing your game data online](https://www.makeuseof.com/how-to-use-steam-cloud/) , and you can even use it to store your non-Steam screenshots.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The homepage of the SteaScree website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/SteaScree-Menu-Screen-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Download:** SteaScree for[Windows](https://steascree.download/) |[Mac](https://steascree.download/) |[Linux](https://steascree.download/) (free)
 
@@ -80,6 +76,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  By copying and pasting your**760** folder to a dedicated USB flash drive, you'll have created a backup. Even with 1000s of screenshots, your**760** folder will still take up less than 10GB of space. After backing up your Steam screenshots, you can put them into any of the[best Windows photo organizer apps](https://www.makeuseof.com/photo-organizer-software-windows/) to keep your digital library organized.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Back Up Steam Screenshots to a New PC
 
  If you are interested in moving your Steam screenshot library to a new PC, it is extremely simple. All you have to do is download Steam and a single game to your new PC. Launch the game and take one screenshot you don't mind deleting. By taking one screenshot, you will have created a new**760** folder on your new PC.
@@ -88,9 +88,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ## How to Combine Multiple Libraries on One PC
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![The GameSave Manager backup menu with Steam screenshots selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gamesave-manager-steam-screenshots.jpg)
 
  What should you do if you are trying to combine multiple Steam screenshot libraries from different PCs together on one computer? As long as the screenshots are from the same account, there is a way. GameSave Manager, a free popular platform that backs up PC game content for hundreds of games, is also capable of creating a backup of your Steam screenshots.
@@ -105,20 +102,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **Download:** [GameSave Manager](https://www.gamesave-manager.com/) (free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Make Steam Work for You
 
  Hopefully, you now know how to back up your Steam screenshots whether locally or online. There are plenty of great gaming experiences you can have on Steam, and capturing some of these to look back on is a great idea.
 
  There are a lot of great things you can do on Steam besides gaming, which is why it's proved to be such a popular platform. However, there are some people who denounce Steam, and prefer using alternative platforms.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +125,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-jumpstarting-instagram-celebrity-status/"><u>2024 Approved Jumpstarting Instagram Celebrity Status</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-keyboards-a-comprehensive-look/"><u>Budget-Friendly Keyboards: A Comprehensive Look</u></a></li>
+<li><a href="https://games-able.techidaily.com/companionable-conquest-the-best-15-smartphone-duo-adventures/"><u>Companionable Conquest: The Best 15 Smartphone Duo Adventures</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/your-perfect-vlog-title-best-free-name-generators/"><u>Find Your Perfect Vlog Title - Best Free Name Generators</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-install-game-launchers-on-your-steam-deck/"><u>How to Install Game Launchers on Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-your-ideal-elgato-for-productivity-boosts/"><u>Identifying Your Ideal Elgato for Productivity Boosts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-sony-xperia-10-v-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Sony Xperia 10 V to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-deciphering-ffmpegs-audio-conversion-quirks/"><u>In 2024, Deciphering FFmpeg's Audio Conversion Quirks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-for-unregistered-games-on-steam-platform/"><u>Solutions for Unregistered Games on Steam Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-handheld-console-unpacked/"><u>Sony’s Handheld Console Unpacked</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-fix-unraveling-the-causes-of-drop-in-game-frames-per-second-fps/"><u>The Fix: Unraveling the Causes of Drop in Game Frames per Second (FPS)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-redmi-note-13-pro-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Redmi Note 13 Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-ergonomic-seats-for-giants-in-games/"><u>Ultimate Ergonomic Seats for Giants in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unexpected-indie-gems-the-games-that-stood-out/"><u>Unexpected Indie Gems: The Games That Stood Out</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnets-ultimate-ranking-the-toughest-and-most-resilient-laptops-of-the-year-2024/"><u>ZDNet's Ultimate Ranking: The Toughest and Most Resilient Laptops of the Year 2024</u></a></li>
+</ul></div>
 

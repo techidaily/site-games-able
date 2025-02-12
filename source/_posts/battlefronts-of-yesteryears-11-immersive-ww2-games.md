@@ -1,7 +1,7 @@
 ---
 title: "Battlefronts of Yesteryears: 11 Immersive WW2 Games"
-date: 2024-08-08T09:07:48.088Z
-updated: 2024-08-09T09:07:48.088Z
+date: 2025-02-09T22:05:19.298Z
+updated: 2025-02-11T18:21:33.180Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
  WW2 strategy games provide some of the best experiences in the genre. They require you to think tactically as you lead your troops into battle and hopefully toward victory. And they all help immerse you in World War II.
 
  From squad-based combat to continental-scale strategy, you can step into some of the most famous battles of all time to test your strategic mettle. Here are the best WW2 strategy games, both old and new, that are worth playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1. Company of Heroes 3
 
@@ -34,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
  On top of all that, the game looks great. So much attention has been paid to the vehicles and environments that you'll feel totally immersed in the World War II experience.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3. Hearts of Iron IV
 
  Instead of controlling individual units, Hearts of Iron IV puts you in command of the highest-level strategy in the war. You develop technology, build and outfit armies, control forces on land, sea, and air, and launch invasions that will change the tide of the war.
@@ -45,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
  This is a complex game, and it requires a monumental amount of strategic thinking. If you want to see what World War II must have looked from the highest level of command, this is the game for you.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4. Order of Battle: World War II
 
  Order of Battle: World War II may seem like a free-to-play game, but you actually buy each campaign individually. It's very expensive if you buy them all, so instead it's better to pick and choose from those that interest you the most.
@@ -63,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
  According to the developers, no other game has as many authentic World War II vehicles. There are over 1,000 unique units, each modeled with incredible detail and realistic animations. You can take charge of them in the single-player campaign or online.
 
  Once you're done with the game's main content, you can use the powerful scenario editor to build your own campaigns and maps with ease. Panzer Corps 2 is so deep that you may never need to buy another WW2 game again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6. Codename: Panzers
 
@@ -81,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
  Beyond combat, you also manage production, supply lines, weather, and fog of war effects. This is a complicated, challenging strategy game that you can sink hundreds of hours into.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8. Men of War: Assault Squad 2
 
  If you're looking for a WW2 strategy game that has a lot to offer, you can't go wrong with Assault Squad 2\. It's a top-down real-time strategy game that lets you control every unit in your squad. 200 soldiers with unique loadouts, 250 vehicles, and five different factions make for a huge amount of variety.
@@ -92,8 +95,9 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
  Be warned that this game won't hold your hand and you will find it very difficult. Welcome to World War II.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9. Sudden Strike 4
 
  There's one thing that sets Sudden Strike 4 apart from many of its contemporaries: it's one of the few WW2 strategy games available on PS4 and Xbox One, as well as on PC.
@@ -102,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
  If you're looking for a console-based WW2 strategy experience, Sudden Strike 4 is the way to go.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 10. Unity of Command II
 
  If you only decide to buy one WW2 strategy game, you can't go wrong with Unity of Command II. It's a follow-up to the 2011 cult classic, putting you in command of the Western Allies as you manage their supply and logistics.
@@ -112,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
  No two play sessions are the same thanks to dynamic campaigns that branch out with your decisions, meaning you can alter the course of history. Despite that, there's still a keen attention to detail in the units that will please history buffs.
 
  There's also a scenario editor with Steam Workshop support, so you can build your own campaigns and download other people's with ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11. Close Combat
 
@@ -121,23 +126,17 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
  Don't let the old-school graphics put you off; it's the gameplay that matters. This is an immersive strategy game series that will suck you in for hours.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## You Can Also Play Strategy Games in Your Browser
 
  These aren't the only World War II strategy games out there, but they are some of the best. Whether you're looking for tactical, operational, or grand scale battles, you'll find what you're looking for in the WW2 strategy games above.
 
  If you don't fancy buying a game right now, or just want something to dip into wherever you are, consider exploring strategy games available free via your browser.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,6 +145,18 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-youtube-the-ultimate-guide-to-video-trimming/"><u>[New] 2024 Approved Mastering YouTube The Ultimate Guide to Video Trimming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spotlight-on-windows-11-innovations/"><u>[New] Spotlight on Windows 11 Innovations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-lightroom-hdr-tutorial-how-to-create-and-merge-stunning-hdr-images-in-lightroom-for-2024/"><u>[Updated] Lightroom HDR Tutorial How to Create and Merge Stunning HDR Images in Lightroom for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-tailoring-your-digital-footprint-customizing-your-youtube-url/"><u>2024 Approved Tailoring Your Digital Footprint Customizing Your YouTube Url</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-reasons-why-you-shouldnt-leave-your-ps5-running-all-the-time/"><u>6 Reasons Why You Shouldn’t Leave Your PS5 Running All the Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-secrets-to-unleashing-top-fps-in-counter-strike/"><u>9 Secrets to Unleashing Top FPS in Counter-Strike</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-games-unite-saying-goodbye-to-exclusives/"><u>All Games Unite: Saying Goodbye to Exclusives</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-scams-smart-management-of-your-switch-id/"><u>Avoid Scams: Smart Management of Your Switch ID</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/beginners-ultimate-gear-list-for-film-shooting/"><u>Beginner's Ultimate Gear List for Film Shooting</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-s24-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy S24 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173588793-switch-online-troubles-lets-fix-it/"><u>Switch Online Troubles? Let's Fix It</u></a></li>
+</ul></div>
 

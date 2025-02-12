@@ -1,7 +1,7 @@
 ---
 title: Ceasing Random Mouse Scroll Motions
-date: 2024-07-29T05:55:37.916Z
-updated: 2024-07-30T05:55:37.916Z
+date: 2025-02-05T19:43:32.012Z
+updated: 2025-02-11T21:20:32.153Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
  To fix a jumpy scroll wheel, one option is to buy yourself a new encoder and replace it with the existing one in your mouse, and all will be set. However, if you don't want to take that route, you can fix the encoder and the loose scroll wheel yourself—we will show you how you can do that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Perform Some Preliminary Checks
 
  Before you begin fixing the mouse scroll wheel to make it more stable, perform the preliminary checks and fixes below, as they may resolve the issue right away:
@@ -35,9 +39,9 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
  If none of the above attempts resolve the issue, you can proceed to troubleshoot the hardware issue with your mouse.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Do You Need to Fix Your Mouse Scroll Wheel?
 
  There is no need for special equipment to fix the mouse scroll wheel, nor do you need to be an avid DIYer. To fix a jumpy mouse scroll wheel, you only need a screwdriver to unscrew the screws holding your mouse in place. Besides, you may need to replace your old encoder if worn out.
@@ -51,13 +55,11 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
  Here's a step-by-step guide for how to stop your mouse scroll wheel from jumping up and down.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 1: Disassemble the Mouse Casing
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
@@ -70,32 +72,31 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
  Your mouse may have a connection that connects the LED on the top panel of the casing with the main circuit. If there is, unplug it first and carefully place the top panel of your mouse casing on your desk. Remove the rest of the necessary connections from the mouse circuit as well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Person Unplugging the LED Cable Connected to the Upper Panel of the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Person-Unplugging-the-LED-Cable-Connected-to-the-Upper-Panel-of-the-Mouse-Casing.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Even though removing your mouse's circuit from the lower panel is unnecessary, if you want to do that, make sure there are no screws attached. If there are any, remove them and take the circuit off the bottom panel of your mouse. Alternatively, you can unmount the scroll wheel directly without unmounting the circuit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3: Unmount the Scroll Wheel
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Unplug the encoder attached to the scroll wheel from the main board before unmounting the scroll wheel. Then, unplug any other connections, unscrew any screws, and take out the scroll wheel. After you have unmounted the scroll wheel, remove the encoder and proceed to the next step: fix the encoder.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Step 4: Fix the Encoder Assembly
 
 ![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -114,9 +115,6 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
  If the issue persists, there might be a problem with the scroll wheel hub. So, fixing the encoder coil spring assembly may not help.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub
 
 ![Man Holding a Small Piece of Paper to Fit in the Mouse Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Man-Holding-a-Small-Piece-of-Paper-to-Fit-in-the-Mouse-Scroll-Wheel.jpg)
@@ -128,8 +126,9 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
  However, what if everything listed above fails to stabilize the scroll wheel? In that case, you should invest in a new encoder.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Buy a New Encoder
 
  The steps above will help you fix the jumpy scroll wheel, but if it still doesn't work, purchasing a new encoder should be your last resort. Find out what type of encoder your mouse has and buy it. Replace the old encoder with the new one; hopefully, it will fix the problem.
@@ -144,23 +143,17 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
 **2\. Buy a New Mouse:** If a technician fails to repair your mouse, you should turn to the last resort: get a brand-new mouse. If you decide to go this route, our guide covering the[best high DPI gaming mice](https://www.makeuseof.com/best-high-dpi-gaming-mice/) can help you make a well-informed decision. Invest in a reliable device to avoid encountering the same problem again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix the Jumpy Scroll Wheel and Enjoy Gaming
 
  A jumpy scroll wheel can make us miss our targets when playing shooting games. Scrolling also becomes very annoying with a poor response from your mouse scroll wheel. We hope you'll be able to solve the jumpy scroll wheel problem by following our instructions.
 
  Remember, sometimes the problem is with your operating system rather than the hardware. When that happens, you'll need to apply operating system-level fixes to stabilize scrolling.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +162,26 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-clear-up-your-zoom-audio-flawlessly/"><u>[New] Clear Up Your Zoom Audio Flawlessly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-discover-the-leading-sites-offering-customizable-text-flair/"><u>[Updated] 2024 Approved Discover the Leading Sites Offering Customizable Text Flair</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exploring-alternatives-google-vr-vs-samsung-tech-for-2024/"><u>[Updated] Exploring Alternatives Google VR Vs. Samsung Tech for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-tutorial-enhancing-your-hp-screen-recordings/"><u>[Updated] Step-by-Step Tutorial Enhancing Your HP Screen Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-sound-sanctuary-optimizing-system-alerts/"><u>Crafting a Sound Sanctuary: Optimizing System Alerts</u></a></li>
+<li><a href="https://games-able.techidaily.com/curated-leading-twitch-video-archives-5-suggestions/"><u>Curated Leading Twitch Video Archives: #5 Suggestions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-the-audio-narrator-feature-in-your-samsung-television/"><u>Disabling the Audio Narrator Feature in Your Samsung Television</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-guide-transforming-quicktime-videos-between-mac-and-windows-systems/"><u>Easy Guide: Transforming QuickTime Videos Between Mac & Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changer-top-9-innovations-for-an-enhanced-playstation-5/"><u>Game Changer: Top 9 Innovations for an Enhanced PlayStation 5</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-the-best-value-understanding-the-iseebell-video-doorbell-(50-review/"><u>Get the Best Value: Understanding the ISeeBell Video Doorbell <$50 Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-market-trends-are-higher-costs-on-the-horizon/"><u>GPU Market Trends: Are Higher Costs on the Horizon?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-13-proplus-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 13 Pro+ 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-showdown-ps5-versus-low-cost-gaming-machine/"><u>Next-Gen Showdown: PS5 Versus Low-Cost Gaming Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/stellar-sculptors-guide-to-next-level-gaming/"><u>Stellar Sculptor's Guide to Next-Level Gaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-process-to-set-trending-tiktok-beats-as-your-cellphone-alarm-for-2024/"><u>Step-by-Step Process to Set Trending TikTok Beats as Your Cellphone Alarm for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-deciding-to-mend-or-replace-your-console/"><u>Tips for Deciding to Mend or Replace Your Console</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unraveling-technology-secrets-at-toms-hardware-hub/"><u>Unraveling Technology Secrets at Tom's Hardware Hub</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-magic-behind-nvidias-g-sync-technology/"><u>Unveiling the Magic Behind Nvidia's G-Sync Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-gameplay-mastering-popular-titles-in-steam-on-meta-quest-xbox-series-s/"><u>Upgrade Your Gameplay: Mastering Popular Titles in Steam on Meta Quest Xbox Series S</u></a></li>
+</ul></div>
 

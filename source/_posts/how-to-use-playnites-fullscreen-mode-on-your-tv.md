@@ -1,7 +1,7 @@
 ---
 title: How to Use Playnite's Fullscreen Mode on Your TV
-date: 2025-01-12T16:44:40.907Z
-updated: 2025-01-16T22:11:45.475Z
+date: 2025-02-11T00:45:06.301Z
+updated: 2025-02-11T20:51:10.996Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Does Playnite's Fullscreen Mode Work?
 
  Many use their PCs as media centers and console alternatives with their living room TVs. However, squinting at tiny text while fumbling with a mouse on your sofa isn't fun. Playnite solves those problems with its Fullscreen Mode.
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
  Accessible at the press of a button, Playnite's Fullscreen Mode comes with larger fonts and images that help with legibility. Also, it only offers the essential functionality for selecting and launching games to keep interactions simple when using a joypad.
 
  If you haven't installed and configured Playnite to access your gaming libraries yet, check our guide on[how to unify and make sense of your game collections with Playnite on Windows](https://www.makeuseof.com/windows-playnite-guide/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Download Fullscreen Themes
 
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
 ![Playnite Switch to Fullscreen Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-switch-to-fullscreen-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternative themes change the app's aesthetics and offer better integration for some of Playnite's many add-ons. For example, they might display data more prominently from the[HowLongToBeat](https://howlongtobeat.com/) and[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) sites next to a game's description.
 
 To install third-party themes to Playnite:
@@ -52,14 +56,14 @@ To install third-party themes to Playnite:
 ![Playnite Menu Add Ons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-menu-add-ons.jpg)
 2. Expand the "**Browse** " section on the left of the**Add-ons** window, and visit the**Themes Fullscreen** page. There, check the list of available themes. Select any to read its description and see some preview thumbnails. Click the**Install** button on the right to bring it on board.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Playnite Add Ons Browse Themes Fullscreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-add-ons-browse-themes-fullscreen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customize Fullscreen Mode
@@ -68,15 +72,19 @@ To install third-party themes to Playnite:
 
 ![Playnite Fullscreen Mode Menu Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-menu-selected.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In most themes you can move the selector to the top of the screen, then to the right, to find and access the app's menu. Select**Settings** .
 
 ![Playnite Fullscreen Mode Menu Settings Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-menu-settings-entry.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here are some of the spots you might want to visit:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### General
 
@@ -84,15 +92,7 @@ Here are some of the spots you might want to visit:
 
 ![Playnite Fullscreen Mode Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-settings-general.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also select if you want to see the**Clock** ,**Battery Status** (useful if using a laptop), and if you prefer the app's**Image rendering scaler** to prioritize speed or quality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Visuals
 
@@ -113,10 +113,6 @@ Here are some of the spots you might want to visit:
 
 ![Playnite Fullscreen Mode Settings Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-settings-layout.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You might want to avoid playing with the**Horizontal Scrolling** and**Smooth scrolling** checkboxes, but keep their location in mind: some themes will send you back here to change those options.
 
 ### Input
@@ -128,6 +124,10 @@ Here are some of the spots you might want to visit:
  Fans of imported games used to alternative input approaches may also want to enable**Inverted X/A main view button binding** and**Swap confirmation/cancelation button binding** .
 
  Also, if not using other software bound to that joypad button (like the Xbox or Nvidia overlays) that could lead to conflicts, you can enable**Guide button focuses Playnite** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Autostart Into Fullscreen Mode
 
@@ -166,20 +166,22 @@ Here are some of the spots you might want to visit:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-enhance-igtv-engagement-with-diverse-subtitle-options/"><u>[New] 2024 Approved Enhance IGTV Engagement with Diverse Subtitle Options</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-an-inclusive-easeus-recexperts-review/"><u>[Updated] An Inclusive EaseUS RecExperts Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-embracing-asmr-a-path-to-holistic-health/"><u>[Updated] In 2024, Embracing ASMR A Path to Holistic Health</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-rise-to-greatness-with-these-10-elevating-films/"><u>[Updated] Rise to Greatness with These 10 Elevating Films</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-editing-and-uploading-360-videos-on-youtube/"><u>2024 Approved Step-by-Step Editing & Uploading 360 Videos on YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-mono-to-binaries-customizing-your-device-for-all-games/"><u>From Mono to Binaries: Customizing Your Device for All Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-upfront-benefits-vs-potential-issues/"><u>Game Upfront: Benefits Vs. Potential Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-beyond-borders-the-upsides-and-downsides-of-online-purchases/"><u>Gaming Beyond Borders: The Upsides & Downsides of Online Purchases</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-frontier-gadgets-galore-top-10-vr-accessories/"><u>In 2024, Frontier Gadgets Galore Top 10 VR Accessories</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/reigniting-your-favorite-games-5-powerful-tactics-on-a-mac/"><u>Reigniting Your Favorite Games: 5 Powerful Tactics on a Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-compatibility-issues-aoc-monitor-wont-connect-with-windows-10/"><u>Resolving Compatibility Issues: AOC Monitor Won't Connect with Windows 10</u></a></li>
-<li><a href="https://games-able.techidaily.com/unblocking-screen-driver-launch-issue-with-windows-1011/"><u>Unblocking Screen Driver Launch Issue with Windows 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrade-your-joy-con-control-swapping-old-joysticks-in-the-switch/"><u>Upgrade Your Joy-Con Control: Swapping Old Joysticks in the Switch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zero-users-focus-enforcing-group-policy-on-individual-profiles/"><u>Zero-Users Focus: Enforcing Group Policy on Individual Profiles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-sea-dwellers-in-focus-tips-for-shooting-stunning-gopro-video-below-water/"><u>[New] 2024 Approved Sea Dwellers in Focus Tips for Shooting Stunning GoPro Video Below Water</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-cut-to-the-chase-must-know-tips-for-win10-users/"><u>[New] In 2024, Cut-to-the-Chase Must-Know Tips for Win10 Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-ranked-costless-pixel-perfection-aid/"><u>[Updated] 2024 Approved Top-Ranked Costless Pixel Perfection Aid</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-financial-investment-for-youtube-ads-success/"><u>[Updated] Financial Investment for Youtube Ads Success</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-zoom-room-usage-for-first-time-users/"><u>[Updated] In 2024, Zoom Room Usage for First-Time Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-pioneering-sustainability-transforming-metropolitan-environments/"><u>2024 Approved Pioneering Sustainability Transforming Metropolitan Environments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289441913-mp4flv/"><u>運用無成本工具轉換影片格式：MP4到FLV的方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-much-video-ram-do-you-hold/"><u>How Much Video RAM Do You Hold?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-simple-steps-modify-windows-speech-of-sea-creatures/"><u>In 2024, Simple Steps Modify Windows Speech of Sea Creatures</u></a></li>
+<li><a href="https://games-able.techidaily.com/initiate-immediate-invigoration-in-league/"><u>Initiate Immediate Invigoration in League</u></a></li>
+<li><a href="https://games-able.techidaily.com/safety-of-using-roblox-fps-enhancement-tools/"><u>Safety of Using Roblox FPS Enhancement Tools?</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactical-console-control-silencing-system-alerts/"><u>Tactical Console Control: Silencing System Alerts</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-mobile-gamer-experience-good-and-bad/"><u>The Mobile Gamer Experience: Good and Bad</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-nature-inspired-ar-apps-for-active-adventures/"><u>Top 8 Nature-Inspired AR Apps for Active Adventures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-smooth-play-in-halo-infinite-no-more-stutters/"><u>Troubleshooting Tips for Smooth Play in Halo Infinite - No More Stutters!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unearth-exclusive-perks-3-essential-xbox-redemption-techniques/"><u>Unearth Exclusive Perks: 3 Essential Xbox Redemption Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-secrets-to-conquering-4-common-gpu-setbacks/"><u>Unveiling Secrets to Conquering 4 Common GPU Setbacks</u></a></li>
 </ul></div>
 

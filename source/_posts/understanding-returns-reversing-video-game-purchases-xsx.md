@@ -1,7 +1,7 @@
 ---
 title: "Understanding Returns: Reversing Video Game Purchases, XS/X"
-date: 2025-01-23T17:57:09.587Z
-updated: 2025-01-30T17:27:58.526Z
+date: 2025-02-08T17:50:50.084Z
+updated: 2025-02-11T21:38:25.988Z
 tags:
   - games
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 ![an Xbox game controller on a gradient background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/video-game-designer-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While it is possible to return a digital game or product on the Xbox Series X|S, there are some limitations. The two main factors that can affect the success of your refund request are as follows:
 
 1\. You must request your refund within 14 days of the purchase date.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
  The definition of what exactly a ‘significant amount of time’ is isn’t explained on[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Request a Refund for a Digital Game on the Xbox Series X|S
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 ![Request a Refund Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/request-a-refund-microsoft.jpg)
 4. Start filling out your form, beginning with the**Reason for request** . The options available are:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Accidental purchase** .
 * **Billing error** .
 * **Purchased content doesn’t work** .
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 ![Request a Refund Form Page Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/request-a-refund-form-page-microsoft.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6\. Enter the email address of the Microsoft account you used to make the purchase.
 
  7\. Press**Next** .
@@ -73,11 +77,11 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 ![Review Details of Request a Refund Form Page Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/review-details-of-request-a-refund-form-page-microsoft.jpg)
 
- Your refund request will then be sent away for review, and you should expect an answer within 72 hours.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Your refund request will then be sent away for review, and you should expect an answer within 72 hours.
 
 ### What Happens if the Game I Want to Refund Isn’t Listed?
 
@@ -86,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
  In most cases, if the game in question doesn’t show up on the returns page, it is non-refundable for one reason or another. In that case, it might pay to go back and review the details of your purchase and make sure you are eligible for a refund.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Happens Once My Refund Request Is Accepted?
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 ![Microsoft account order history page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-account-order-history-page-1.jpg)
 
  To check your Microsoft account and see if your refund is being processed, head back to the Microsoft website and click your**user icon** in the top right corner. Select**My Microsoft account** , and head down to your**Order history** . If your refund was successful, you will see**Refunded** next to the game title.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make Sure You Request Your Refunds Before It’s Too Late
 
@@ -122,20 +122,19 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-step-by-step-strategies-to-thrive-on-reddit/"><u>[New] In 2024, Step-by-Step Strategies to Thrive on Reddit</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ising-through-the-rankings-adding-highlight-channels-to-youtube/"><u>[New] Rising Through the Rankings Adding Highlight Channels to YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-convert-your-instagram-followers-into-earnings/"><u>2024 Approved How to Convert Your Instagram Followers Into Earnings</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhanced-performance-flawless-operation-install-latest-nvidia-driver/"><u>Enhanced Performance, Flawless Operation – Install Latest Nvidia Driver</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-virtual-reality-lgs-360-degree-experience-for-2024/"><u>Exploring Virtual Reality LG's 360-Degree Experience for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/introducing-enhanced-graphics-driver-for-win10s-nvidia-210/"><u>Introducing Enhanced Graphics Driver for Win10's NVIDIA 210</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-harmonyvoices-mastering-cross-platform-audio-synchronization-in-adobe-premiere-pro/"><u>New In 2024, HarmonyVoices Mastering Cross-Platform Audio Synchronization in Adobe Premiere Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/quiet-control-switch-off-xbox-svibration-mode/"><u>Quiet Control: Switch Off Xbox Svibration Mode</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamlessly-collaborate-on-icloud-using-apples-pages-documents-insights/"><u>Seamlessly Collaborate on iCloud Using Apple's Pages Documents - Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-speaking-managing-xbox-game-chats/"><u>Secure Speaking: Managing Xbox Game Chats</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-deck-game-unlock-launcher-integration-tips/"><u>Steam Deck Game Unlock: Launcher Integration Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-in-guide-ps5-controller-compatibility-on-your-pc/"><u>Step-In Guide: PS5 Controller Compatibility on Your PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-way-to-play-steam-games-anywhere-link-iphone-android/"><u>The Best Way to Play Steam Games Anywhere: Link, iPhone, Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-frugal-gamers-guide-to-xbox-series-xs/"><u>The Frugal Gamer's Guide to Xbox Series X/S</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtube-profits-demystified-from-clicks-to-credit/"><u>YouTube Profits Demystified From Clicks to Credit</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-mobile-photos-with-best-iphone-cameras-x-7plus/"><u>[New] 2024 Approved Mastering Mobile Photos with Best iPhone Cameras (X, 7+)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-ultimate-picture-narrative-craft-pro-edition/"><u>[New] In 2024, Ultimate Picture Narrative Craft - Pro Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-truthful-insights-into-recordcast-functionality/"><u>[New] Truthful Insights Into RecordCast Functionality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-transforming-viewing-habits-with-fb-live-on-roku/"><u>[Updated] In 2024, Transforming Viewing Habits with FB Live on Roku</u></a></li>
+<li><a href="https://games-able.techidaily.com/camouflage-gaming-on-steam/"><u>Camouflage Gaming on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-change-the-background-on-your-ps5/"><u>Can You Change the Background on Your PS5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/case-studies-highlighting-successful-map-designs-that-effectively-integrate-functional-mapping-elements-with-aesthetic-considerations-eg-signage-in-public-s5/"><u>Case Studies Highlighting Successful Map Designs that Effectively Integrate Functional Mapping Elements with Aesthetic Considerations (E.g., Signage in Public Spaces).</u></a></li>
+<li><a href="https://games-able.techidaily.com/championship-edge-the-ultimate-7-iosandroid-sports-gaming-hits/"><u>Championship Edge: The Ultimate 7 iOS/Android Sports Gaming Hits</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-chronicles-a-selection-of-top-11-immersive-games/"><u>Command Chronicles: A Selection of Top 11 Immersive Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/design-dynamics-font-application-in-adobe-after-effects/"><u>Design Dynamics Font Application in Adobe After Effects</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/discovering-pc-hardware-configuration-on-windows-expert-guide-by-yl-computing/"><u>Discovering PC Hardware Configuration on Windows - Expert Guide by YL Computing</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/ssdwindows-8-81-4/"><u>SSDへのWindows 8-8.1変換手順: 効率的4段階方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-baldurs-gate-overcoming-pc-game-crashes/"><u>Troubleshooting Baldur's Gate Ⅲ: Overcoming PC Game Crashes</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/zakonove-pripravene-pruvodectvi-jak-snadno-pokusit-sebe-oblasti-obrazovky-s-obs-movavi/"><u>Zákonové Přípravené Průvodectví Jak Snadno Pokusit Sebe Oblasti Obrazovky S OBS - Movavi</u></a></li>
 </ul></div>
 

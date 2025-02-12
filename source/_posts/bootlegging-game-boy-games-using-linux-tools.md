@@ -1,7 +1,7 @@
 ---
 title: Bootlegging Game Boy Games Using Linux Tools
-date: 2024-07-29T05:58:35.194Z
-updated: 2024-07-30T05:58:35.194Z
+date: 2025-02-04T23:30:55.755Z
+updated: 2025-02-11T18:07:22.542Z
 tags:
   - games
 categories:
@@ -17,14 +17,16 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
  The Linux terminal, while certainly a fun place, isn't especially well known as a console gaming platform—largely thanks to its limited ASCII and Braille output. But its Spartan interface is almost perfect for replicating the display of an original 1989 Nintendo Game Boy. Here's how to play Game Boy games in your terminal.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Emulate a Game Boy in the Terminal?
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pokemon red star splash screen in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-red-star-splash-screen-in-the-linux-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Nintendo's Game Boy is one of the most wildly successful game consoles ever created, and introduced generations of kids and adults to the joys of games such as Tetris, Pokemon, and the Super Mario Land series.
 
@@ -45,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
  You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install php-terminal-gameboy-emulator on Linux
 
  Before you install php-terminal-gameboy-emulator, you should first make sure you have PHP installed. To check this, open a terminal and enter:
@@ -88,8 +91,9 @@ Make it executable with:
 `sudo mv php-gameboy.phar /usr/local/bin/php-gameboy`
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Play Awesome Game Boy Games in Your Linux Terminal
 
  To start a game with php-terminal-gameboy-emulator, you need to pass the filename of the ROM file as an argument. For instance:
@@ -113,22 +117,20 @@ Make it executable with:
 | M                 | Start            |
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Impress Your Friends With php-terminal-gameboy-emulator
 
  Playing action, fighting, and adventure games from within the Linux terminal is a technical feat that's sure to inspire your colleagues and relations, and can be an excellent way to convince them of Linux's pre-eminence as a gaming system.
 
  You can also use it as a way to relive your childhood in some idle downtime when you're working.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +139,22 @@ Make it executable with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-tips-for-skype-calls-best-recording-techniques-freepaid/"><u>[Updated] Expert Tips for Skype Calls Best Recording Techniques (Free/Paid)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-instagram-engagement-obs-streamed-content-for-2024/"><u>[Updated] Instagram Engagement OBS Streamed Content for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-ea-plays-best-for-ps5/"><u>Discover EA Play's Best for PS5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-dilemma-no-image/"><u>Display Dilemma: No Image</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-uncover-these-5-must-have-mice-traits-for-top-performance/"><u>Game On! Uncover These 5 Must-Have Mice Traits for Top Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-fidelity-in-esports-iem-excellence-analysis/"><u>High Fidelity in Esports: IEM Excellence Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-perfection-an-essential-guide-to-hdr-imaging/"><u>In 2024, Crafting Perfection An Essential Guide to HDR Imaging</u></a></li>
+<li><a href="https://games-able.techidaily.com/nitro-upgrade-worth-the-investment/"><u>Nitro Upgrade: Worth the Investment?</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-strategies-for-claiming-back-on-xbox-games/"><u>Smart Strategies for Claiming Back on Xbox Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/syncopated-patterns-in-youtube-music-collections-for-2024/"><u>Syncopated Patterns in YouTube Music Collections for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-alternatives-pour-inshot-sur-bureau-decouvrez-les-meilleurs-choix/"><u>Top Alternatives Pour InShot Sur Bureau - Découvrez Les Meilleurs Choix !</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-calendar-viewing-experience-with-windows-outlook-tips/"><u>Transform Your Calendar Viewing Experience with Windows Outlook Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464049347-trouble-with-your-iphone-and-vpn-fix-it-now-with-7-proven-strategies/"><u>Trouble With Your iPhone and VPN? Fix It Now with 7 Proven Strategies!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-8-low-resource-android-game-environments-pc-and-mac/"><u>Ultimate 8 Low-Resource Android Game Environments, PC & Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-xboxs-cloud-streaming-experience/"><u>Unveiling Xbox's Cloud Streaming Experience</u></a></li>
+</ul></div>
 

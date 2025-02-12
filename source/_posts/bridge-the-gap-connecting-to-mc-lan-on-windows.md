@@ -1,7 +1,7 @@
 ---
 title: "Bridge the Gap: Connecting to MC LAN on Windows"
-date: 2024-07-29T05:55:45.102Z
-updated: 2024-07-30T05:55:45.102Z
+date: 2025-02-04T16:45:08.138Z
+updated: 2025-02-11T22:31:19.675Z
 tags:
   - games
 categories:
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 ![Uncheck the Automatic Connection Permission for the Wi-Fi Network on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uncheck-the-automatic-connection-permission-for-the-wi-fi-network-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Connect to the Same Network Using the Same Connection Method
 
  Ensure your device is connected to the network using the same type of connection as the host, such as Wi-Fi, Ethernet, etc. Although it's not a requirement from Minecraft, and most users don't have issues as long as they're connected to the same network, some players reported having problems when their connection type differed from the host's.
@@ -38,17 +39,9 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
  If the connection type is different, change it. If the connection type already matches the host, you can proceed to the next solution.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Ensure You're Using the Same Minecraft Version as the Host
 
  Although this may be evident, your device must run the same Minecraft version as the host to join the LAN world. Minecraft updates automatically in most cases, so perhaps a new version came out and everyone updated to it, mismatching their version from the server's.
@@ -59,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
  If the issue persists, note down the version listed under the**Latest release** and confirm that the host uses the same version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change Your Windows Network Profile to Private
 
  When you connect to a network for the first time, it is usually set as public and hides itself from other devices on the network. If you haven't changed the network profile before, you probably use the default settings, which is likely the public profile.
@@ -67,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
  If you are having difficulty connecting to a host computer, ensure the host computer is configured to use a private network profile.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Enable Network Discovery in the Control Panel
 
  The network discovery feature in Windows allows your device to discover other devices connected to the same network or permit other devices to see yours. If you still can't join the LAN world in Minecraft or have issues, make sure this setting is turned on. Here's how you can check that:
@@ -77,11 +71,13 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 1. Type**"Control Panel"** in Windows Search and open the**Control Panel** app.
 2. Navigate to**Network and Internet > Network and Sharing Center** .
 3. Click on the**Change advanced sharing settings** option on the left.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Open the Advanced Sharing Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-the-advanced-sharing-settings-on-windows.jpg)
 4. Expand the private network profile and turn on the toggle next to N**etwork discovery** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Also, check the box beside**Set up network connected devices automatically** .  
 ![Enable Network Discovery in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-network-discovery-in-the-windows-settings-app.jpg)
 
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
  In case the above fixes also don't work, try setting up a direct connection to the host server in Minecraft.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Create a Direct Connection in Minecraft
 
  If you cannot view or connect to other players in Minecraft on the same network, try establishing a direct connection with the host. The direct connection enables users to join the server using the server's address, which is the host's IPv4 address for the local network, and the LAN port number of the server.
@@ -106,56 +106,31 @@ To directly join a Minecraft server, follow these steps:
 ![Open the Direct Connection in Minecraft Multiplayer Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-the-direct-connection-in-minecraft-multiplayer-mode.jpg)
 2. Paste the**IPv4 address** into the**Server Address** box, add a colon, and enter the**LAN port** provided by the host.
 3. Then, click on**Join Server** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![Add the Server Address to Join the LAN Server in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-the-server-address-to-join-the-lan-server-in-minecraft.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Join a Minecraft LAN World Seamlessly on Windows
 
  Having trouble joining a LAN world when friends are waiting for you can be frustrating. Hopefully, you now have a clearer understanding of what can prevent you from entering a LAN world. If you carefully apply the fixes listed above, you can join the LAN world in Minecraft. If nothing works, you should try to establish a direct connection.
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: How Do You Join a Minecraft LAN Server With an IP Address?
 
  You can[join a Minecraft LAN server](https://www.makeuseof.com/how-to-join-minecraft-server/) with an IP address by copying the host's IP address, selecting Multiplayer > Add a server or Direct connect, pasting the copied IP address, and connecting to the server.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Q: What Is the IP for a LAN Minecraft Server?
 
  Your computer's[IP address](https://www.makeuseof.com/tag/what-is-ip-address/) is the IP address for your LAN Minecraft server. You can[find your Windows PC's IP address](https://www.makeuseof.com/tag/find-ip-address-windows-10/) by running the "ipconfig" command in a Command Prompt window. The value next to "IPv4 Address" is your machine's local IP address.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +139,22 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-crafting-dynamic-fb-video-covers-a-step-by-step-guide/"><u>[New] In 2024, Crafting Dynamic FB Video Covers A Step-by-Step Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigate-the-world-of-games-top-12-pc-clickers-revealed/"><u>[New] Navigate the World of Games Top 12 PC Clickers Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metaverse-jokes-and-gems-how-to-make-your-own-funny-memes/"><u>[Updated] Metaverse Jokes & Gems How to Make Your Own Funny Memes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-disabling-gpgpu-task-prioritization-windows-wise/"><u>Delving Into Disabling GPGPU Task Prioritization Windows-Wise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easily-customize-your-gmail-experience-with-different-keyboard-layouts-step-by-step-tutorial/"><u>Easily Customize Your Gmail Experience with Different Keyboard Layouts - Step by Step Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-ai-powered-gaming-discover-chatgpts-best-6/"><u>Explore AI-Powered Gaming: Discover ChatGPT's Best 6</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-edge-outperforms-other-gaming-browsers/"><u>How Edge Outperforms Other Gaming Browsers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-i-fixed-my-evil-genius-2-game-not-launching-problem/"><u>How I Fixed My Evil Genius 2 Game Not Launching Problem</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-note-12-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Xiaomi Redmi Note 12 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-issues-with-windows-and-steam-remote-play/"><u>Overcoming Issues with Windows & Steam Remote Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-the-hurdles-of-steams-wide-screen-display/"><u>Overcoming the Hurdles of Steam's Wide Screen Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/rtx-supers-grand-challenge-compare-and-contrast-4070-titan-x-4080/"><u>RTX Supers' Grand Challenge: Compare & Contrast 4070, Titan X, 4080</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-ps5-game-access-with-an-unique-passcode/"><u>Securing PS5 Game Access with an Unique Passcode</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-cod-modern-warfare-3-app-crashes-fix-and-solutions/"><u>Troubleshooting Cod: Modern Warfare 3 App Crashes - Fix and Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-offers-maximize-your-gaming-budget/"><u>Xbox Offers: Maximize Your Gaming Budget</u></a></li>
+</ul></div>
 

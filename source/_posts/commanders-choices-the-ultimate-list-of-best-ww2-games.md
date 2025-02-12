@@ -1,7 +1,7 @@
 ---
 title: "Commanders' Choices: The Ultimate List of Best WW2 Games"
-date: 2024-07-29T05:57:46.569Z
-updated: 2024-07-30T05:57:46.569Z
+date: 2025-02-09T16:28:00.346Z
+updated: 2025-02-11T19:45:10.308Z
 tags:
   - games
 categories:
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
  From squad-based combat to continental-scale strategy, you can step into some of the most famous battles of all time to test your strategic mettle. Here are the best WW2 strategy games, both old and new, that are worth playing.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1. Company of Heroes 3
 
  The original Company of Heroes is one of the best examples of real-time strategy games period, let alone in the war genre. The third entry is equally impressive.
@@ -37,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 
  On top of all that, the game looks great. So much attention has been paid to the vehicles and environments that you'll feel totally immersed in the World War II experience.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3. Hearts of Iron IV
 
  Instead of controlling individual units, Hearts of Iron IV puts you in command of the highest-level strategy in the war. You develop technology, build and outfit armies, control forces on land, sea, and air, and launch invasions that will change the tide of the war.
@@ -47,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
  You also handle negotiations, trade, and politics. By appointing ministers and generals, you can use the game's AI to help you ensure victory. Plus, you can do it with any country involved in the war, from the major players to the smaller nations just trying to survive.
 
  This is a complex game, and it requires a monumental amount of strategic thinking. If you want to see what World War II must have looked from the highest level of command, this is the game for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4. Order of Battle: World War II
 
@@ -65,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
  Once you're done with the game's main content, you can use the powerful scenario editor to build your own campaigns and maps with ease. Panzer Corps 2 is so deep that you may never need to buy another WW2 game again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6. Codename: Panzers
 
  Codename: Panzers was first released in 2004, but it has since been remastered to work with modern systems and support larger resolutions. Despite its age, this is a game that is still worth playing thanks to its timeless tactical fun.
@@ -74,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
  Across landscapes like small towns, bleak mountains, and murky swamps, Codename: Panzers plunges you into the depths of war and lets you control lots of units like a battle tank, a flame-throwing squad, an organ rocket launcher, and more.
 
  While there is an online multiplayer mode to keep you happy, you should definitely check out the story mode, which is engrossing and supported by great voice acting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7. War in the East
 
@@ -83,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 
  Beyond combat, you also manage production, supply lines, weather, and fog of war effects. This is a complicated, challenging strategy game that you can sink hundreds of hours into.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8. Men of War: Assault Squad 2
 
  If you're looking for a WW2 strategy game that has a lot to offer, you can't go wrong with Assault Squad 2\. It's a top-down real-time strategy game that lets you control every unit in your squad. 200 soldiers with unique loadouts, 250 vehicles, and five different factions make for a huge amount of variety.
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 
  Be warned that this game won't hold your hand and you will find it very difficult. Welcome to World War II.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 9. Sudden Strike 4
 
  There's one thing that sets Sudden Strike 4 apart from many of its contemporaries: it's one of the few WW2 strategy games available on PS4 and Xbox One, as well as on PC.
@@ -114,9 +114,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  There's also a scenario editor with Steam Workshop support, so you can build your own campaigns and download other people's with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 11. Close Combat
 
  The Close Combat series began in 1996 and still exists to this day as a mixture of remakes and originals. It's a top-down strategy series that puts the focus on realism. Your troops have changing mental and physical conditions, you need to scavenge for ammunition, and a troop's experience on the battlefield impacts how they react to a situation.
@@ -125,20 +122,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Don't let the old-school graphics put you off; it's the gameplay that matters. This is an immersive strategy game series that will suck you in for hours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You Can Also Play Strategy Games in Your Browser
 
  These aren't the only World War II strategy games out there, but they are some of the best. Whether you're looking for tactical, operational, or grand scale battles, you'll find what you're looking for in the WW2 strategy games above.
 
  If you don't fancy buying a game right now, or just want something to dip into wherever you are, consider exploring strategy games available free via your browser.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +145,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/4-common-gpu-problems-and-how-to-troubleshoot-them/"><u>4 Common GPU Problems and How to Troubleshoot Them</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-isomp4mp3-windows-11/"><u>無償でDVD ISO/MP4/MP3への変換 - Windows 11アップデート後の最適ソフトウェア</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winx-mediatrans-iphone-ipad-ipod-pcwindows10/"><u>最適化されたWinX MediaTrans - iPhone, iPad, iPodのデータバックアップ・管理ソリューション! PCとの簡単なデータ転送をWindows(10)で実現。公式版</u></a></li>
+<li><a href="https://games-able.techidaily.com/amd-vs-nvidia-does-fsr-3-edge-over-dlss-35-performance-gains/"><u>AMD Vs. NVIDIA: Does FSR 3 Edge Over DLSS 3.5 Performance Gains?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elden-rings-launch-postponement-explained-factors-affecting-gamers-worldwide/"><u>Elden Ring's Launch Postponement Explained: Factors Affecting Gamers Worldwide</u></a></li>
+<li><a href="https://games-able.techidaily.com/faster-loading-lore-windows-winning-strategy/"><u>Faster Loading Lore: Windows Winning Strategy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-moto-g73-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Moto G73 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-leveraging-edits-to-captivate-audiences-on-instagram/"><u>In 2024, Leveraging Edits to Captivate Audiences on Instagram</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-14-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 14</u></a></li>
+<li><a href="https://games-able.techidaily.com/inaudible-console-setup-for-xbox-fans/"><u>Inaudible Console Setup for Xbox Fans</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/selecting-the-top-infinite-storage-providers/"><u>Selecting the Top Infinite Storage Providers</u></a></li>
+<li><a href="https://games-able.techidaily.com/smarter-monitor-shopping-good-vs-wrong-oled/"><u>Smarter Monitor Shopping: Good vs Wrong OLED</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-device-lag-fix-for-error-code-0x887a0006-in-wins/"><u>Tackling Device Lag: Fix for Error Code 0X887A0006 in Wins</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-your-gaming-identity-on-riot-platform/"><u>Transforming Your Gaming Identity on Riot Platform</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-11-transfer-and-setup-on-m2-ssd-without-reinstalling/"><u>Windows 11 Transfer & Setup on M.2 SSD Without Reinstalling</u></a></li>
+</ul></div>
 

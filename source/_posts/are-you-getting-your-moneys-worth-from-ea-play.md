@@ -1,7 +1,7 @@
 ---
 title: Are You Getting Your Money's Worth From EA Play?
-date: 2024-08-08T09:05:59.481Z
-updated: 2024-08-09T09:05:59.481Z
+date: 2025-02-06T18:42:50.973Z
+updated: 2025-02-11T23:49:41.999Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 ---
 
 ## Are You Getting Your Money's Worth From EA Play?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,18 +34,12 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  Here's what you should know about EA Play and whether it's worth the money.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is EA Play?
 
  EA Play offers members access to many EA titles for a monthly subscription. You also get Game Trials, which lets you try new EA titles for up to 10 hours without buying them. If you decide to purchase a game after trying it, you get to keep your progress, so you don’t have to start all over again.
 
  EA Play members also get a 10% discount on EA digital content, including expansions, passes, packs, and DLCs. The subscription also offers in-game challenges and rewards, letting you get more out of your games and giving you a more competitive experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
 
  EA Play comes in two tiers. The base EA Play, which costs $4.99 a month or $29.99 a year, lets you access many popular EA titles and gives you the Game Trials, Member Rewards, and 10% discount benefits.
@@ -49,15 +47,13 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
  But if you’re a hardcore EA fan, you could select the EA Play Pro subscription. This tier costs $14.99 monthly or $99.99 annually but gives you access to even more EA titles. You can also play premium editions of some newly-released games even before their official release date.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Popular Games Are Included in EA Play?
 
  One of the reasons you choose a subscription is to get access to your favorite game titles. At the time of writing, EA Play gives you access to 89 titles, while EA Play Pro gives you access to 61 additional titles for a total of 150 games.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
  Some of the most popular titles you can get with a basic EA Play subscription include the Battlefield series, from Battlefield 3 to Battlefield 2042, seven Need for Speed titles, including the three latest releases (Payback, Heat, and Unbound), and a few classics like Burnout Paradise Remastered, the Command & Conquer collection, and SimCity 3000 Unlimited.
@@ -66,30 +62,27 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![Ea Play Pro games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-pro-games.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The more expensive EA Play Pro subscription includes everything in the EA Play subscription plus more niche games, like several titles from EA Sports and many Star Wars franchise titles.
 
  You also get a few top-billed indie games like FTL: Faster Than Light, Frostpunk, and They Are Billions. If you want to see all the games included in this subscription, you can check out this [list of all EA Play Pro games on PC](https://www.ea.com/ea-play/games#ea-play-pro) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is EA Play Worth the Price?
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![man playing on a gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/man-playing-on-a-gaming-pc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gorodenkoff/[Shutterstock](https://www.shutterstock.com/image-photo/professional-gamer-playing-firstperson-shooter-online-1430140334)
 
@@ -115,14 +108,11 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  EA Play isn’t exactly the best value gaming subscription out there, especially if you’re a PC gamer. Unless you’re a superfan of Electronic Arts, you’re better off going for Xbox Game Pass for PC or just buying your favorite titles outright from Steam or EA.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,6 +121,23 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-decoding-t-series-online-earnings-stream/"><u>[New] In 2024, Decoding T-Series' Online Earnings Stream</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-crafting-compelling-compositions-effects-on-text/"><u>[Updated] 2024 Approved Crafting Compelling Compositions Effects on Text</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quick-tips-capturing-screen-on-a-dell-notebook-pc/"><u>[Updated] Quick Tips Capturing Screen on a Dell Notebook PC</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-6-gopro-helmet-harnesses-tips-and-techniques-unveiled-for-2024/"><u>[Updated] Top 6 GoPro Helmet Harnesses Tips and Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/2-year-tale-why-i-prefer-an-oled-monitor/"><u>2-Year Tale: Why I Prefer an OLED Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-steps-to-prevent-incompatibility-in-your-new-computer-buy/"><u>7 Steps to Prevent Incompatibility in Your New Computer Buy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/a-detailed-walkthrough-for-integrating-instagram-effects-on-archive-media-for-2024/"><u>A Detailed Walkthrough for Integrating Instagram Effects on Archive Media for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapt-overcome-playing-fortnite-on-your-mac-wisely/"><u>Adapt, Overcome: Playing Fortnite on Your Mac Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-unauthorized-card-error-messages-in-ps5/"><u>Addressing Unauthorized Card Error Messages in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-word-game-virtuoso-mastering-strands-new-york-times-edition/"><u>Become a Word Game Virtuoso: Mastering Strands, New York Times Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172752956-game-boy-advance-excellence-with-ioss-leading-emulators/"><u>Game Boy Advance Excellence with iOS's Leading Emulators!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-deskjet-ink-advantage-3630-windows-10-driver-download-and-setup-tutorials-for-easy-printing-solutions/"><u>HP Deskjet Ink Advantage 3630 Windows 10 Driver Download and Setup Tutorials for Easy Printing Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-vlogging-vs-micro-video-which-outperforms-youtubes-shorts-or-tiktoks/"><u>In 2024, Vlogging Vs. Micro-Video Which Outperforms? YouTubes Shorts or TikToks?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-epson-wf-2540-printer-drivers-on-windows-7-81-and-10-systems/"><u>Install Epson WF-2540 Printer Drivers on Windows 7, 8.1 and 10 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168257558-step-into-the-fun-zone-engage-with-these-6-chatgpt-games/"><u>Step Into the Fun Zone: Engage With These 6 ChatGPT Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-best-curved-gaming-displays-of-2n24/"><u>Top-Ranked Best Curved Gaming Displays of 2N24</u></a></li>
+</ul></div>
 

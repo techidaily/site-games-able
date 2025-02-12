@@ -1,7 +1,7 @@
 ---
 title: Why GameFi Can't Break Through to Core Gamer Circles
-date: 2025-01-29T17:04:11.599Z
-updated: 2025-01-30T16:29:54.628Z
+date: 2025-02-08T23:28:39.576Z
+updated: 2025-02-11T22:25:00.144Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  So, what are the problems with GameFi, and why will they seal its fate?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GameFi?
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  In P2E games, almost everything can be tokenized, from avatars to weapons to land. You can often receive these assets by completing quests and winning tournaments, but the nature of the P2E model changes from game to game.
 
  While GameFi may seem innovative, many downsides affect players and investors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Token Instability
 
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 ## 2\. Scams
 
 ![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Scams are, unfortunately, native to the crypto realm, and GameFi is no exception to this rule. If there's money to be stolen, chances are criminals will find some way to access it.
 
@@ -86,15 +82,15 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  People invested in CryptoZoo but lost thousands when it was revealed that Paul and his development team had effectively (allegedly) rug-pulled investors. Investors are yet to be refunded, and a lawsuit has been filed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. High Transaction Fees
 
  You'll almost always incur a fee when you conduct a crypto transaction. Some cryptos have low fees, whereas others can reach unreasonable levels. Transaction fees usually increase or decrease with a blockchain network's transaction demand. Other factors, such as the size of the transaction, also play a role here.
 
  Higher transaction fees can put people off getting into GameFi, as a large chunk of their earnings will be stripped away through these mandatory charges. It's a loss and isn't something that attracts gamers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Prioritizing Money Over the Game
 
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  This isn't anyone's fault, but the developer can dodge any liability when gamers ask for compensation. If the game has made any financial promises, the developers may also be able to keep their hands clean if these promises fall through.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will GameFi Last?
 
  No one knows for sure if GameFi will sink or swim, but the nature of this sector makes long-term success difficult.
@@ -124,13 +124,13 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 ![screenshot of coinmarketcap illuvium seven day price graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/illuvium-price-graph.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Between August 14 and 22, the price of one ILV token went from $53 to $42, a drop of almost 21% in just over a week. This drop doesn't seem to be the result of any major scandal or market crash. Rather, it seems to be a product of a lack of interest.
 
  It's been a while since Illuvium's developers have given gamers anything new, with many getting bored with waiting. While top-tier games without the P2E structure focus heavily on user satisfaction and experience, P2E developers often have more of a focus on increasing the in-game token value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## GameFi's Future Is Precarious
 
@@ -151,21 +151,18 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-concluding-your-digital-footprint-with-linkedins-deactivation-process-for-2024/"><u>[New] Concluding Your Digital Footprint with LinkedIn's Deactivation Process for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-superior-guide-to-16-freeware-players-for-pc-and-mac-for-2024/"><u>[New] Superior Guide to 16 Freeware Players for PC & Mac for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-altering-game-console-speech-ps5ps4-upgrades/"><u>[Updated] Altering Game Console Speech PS5/PS4 Upgrades</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-tips-to-ensure-seamless-and-timed-google-collaborative-sessions/"><u>[Updated] In 2024, Expert Tips to Ensure Seamless and Timed Google Collaborative Sessions</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-compelling-game-lore-with-ai/"><u>Crafting Compelling Game Lore with AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-tomorrows-world-today-unleashing-the-power-of-gpt-4-in-home-improvement/"><u>Crafting Tomorrow's World Today: Unleashing the Power of GPT-4 in Home Improvement</u></a></li>
-<li><a href="https://games-able.techidaily.com/customize-in-game-overlay-display-on-discord/"><u>Customize In-Game Overlay Display on Discord</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-system-installation-guide-for-pc-manager-w11/"><u>Elevate Your System - Installation Guide for PC Manager W11</u></a></li>
-<li><a href="https://games-able.techidaily.com/fine-tuning-your-gameplay-choosing-mouse-sensitivity/"><u>Fine-Tuning Your Gameplay: Choosing Mouse Sensitivity</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/learn-to-appeal-digital-game-console-purchases/"><u>Learn to Appeal Digital Game Console Purchases</u></a></li>
-<li><a href="https://games-able.techidaily.com/sony-unveils-10-must-have-games-on-deal/"><u>Sony Unveils 10 Must-Have Games on Deal</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-ea-play-game-guide-for-ps5/"><u>The Ultimate EA Play Game Guide for PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-potential-install-windows-and-steamos-seamlessly/"><u>Unlocking Potential: Install Windows & SteamOS Seamlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-marshall-motif-anc-expert-evaluation-of-sound-quality-and-noise-cancellation-on-zdnet/"><u>Unveiling the Marshall Motif ANC: Expert Evaluation of Sound Quality and Noise Cancellation on ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-how-to-blur-the-video-background-in-a-microsoft-teams-meeting/"><u>[Updated] 2024 Approved How to Blur the Video Background in a Microsoft Teams Meeting?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-pros-playlist-shuffle-manual/"><u>[Updated] The Pro's Playlist Shuffle Manual</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-metric-questioning-critic-consensus/"><u>Beyond the Metric: Questioning Critic Consensus</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-sound-to-xbox-one-unplug-headset-fixes/"><u>Bring Back Sound to Xbox One - Unplug Headset Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-past-hits-to-present-xemus-role-in-pc-gaming/"><u>Bringing Past Hits to Present: Xemu's Role in PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-breakdown-for-switch-online-expansion/"><u>Budget Breakdown for Switch Online Expansion</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-ps5-home-screen-image/"><u>Change PS5 Home Screen Image</u></a></li>
+<li><a href="https://games-able.techidaily.com/changing-backgrounds-on-ps5-console/"><u>Changing Backgrounds on PS5 Console</u></a></li>
+<li><a href="https://article-posts.techidaily.com/exciting-journeys-in-samsungs-virtual-reality-games-for-2024/"><u>Exciting Journeys in Samsung's Virtual Reality Games for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-f5-pro-5g-lock-screen-password-by-drfone-android/"><u>How To Change Poco F5 Pro 5G Lock Screen Password?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-14-plus-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 14 Plus Prevention & Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tipsy-circuits-how-my-robo-sommeliers-wine-blunder-turned-into-an-odd-tip-request-adventure-zdnet/"><u>Tipsy Circuits! How My Robo-Sommelier's Wine Blunder Turned Into an Odd Tip Request Adventure | ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v27e-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27e Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

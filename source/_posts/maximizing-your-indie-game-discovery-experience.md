@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Indie Game Discovery Experience
-date: 2025-01-25T17:34:03.615Z
-updated: 2025-01-30T18:24:55.189Z
+date: 2025-02-09T18:55:51.308Z
+updated: 2025-02-11T16:16:31.216Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
  Many independent game developers display their fun, creative, and unique experiences on itch.io. However, the platform’s saturation can make it hard to find great titles. Try these methods I use to discover indie games worth playing on itch.io.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 Use Tags and Filters
@@ -53,37 +57,37 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
 ![Adding tags to a search on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/add-roguelite-tag-itch.png)
 
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 Check Out Game Bundles
 
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Check the itch.io Blog
 
  The[itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Check Out Game Jams
 
  Game jams are a fantastic way to discover hidden gems for free. On itch.io, game jams take place throughout the year, so keep your eye on the[Game Jams page](https://itch.io/jams) to see upcoming events on the calendar. Look for past game jams to try highly rated game submissions.
 
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
  Another way to discover developers to follow is by looking at your feed, which shows you recommendations based on your activity on itch.io. I usually switch to the**Featured Games Feed** or**Global Feed** tab to see what is trending based on my interests.
 
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
 
@@ -132,20 +132,24 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-moziscreen-plugins-for-firefox/"><u>[Updated] 2024 Approved MoziScreen Plugins for Firefox</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-streamlining-skype-calls-with-advanced-zoom-use/"><u>2024 Approved Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-commandment-picking-a-champion-between-chips/"><u>Console Commandment: Picking a Champion Between Chips</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-proficient-content-for-short-form-video-best-edits-reviewed/"><u>Craft Proficient Content for Short-Form Video Best Edits Reviewed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/distinguishing-between-ev-bev-phev-and-fcev-the-comprehensive-guide/"><u>Distinguishing Between EV, BEV, PHEV & FCEV: The Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102858753-iphone-external-storage-troubles-fix-your-usb-mtp-drivers-now/"><u>IPhone External Storage Troubles? Fix Your USB MTP Drivers Now</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-top-websites-for-downloading-pc-games-for-2024/"><u>New The Ultimate List Top Websites for Downloading PC Games for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/synchronizing-files-in-steam-without-conflict/"><u>Synchronizing Files in Steam without Conflict</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-guide-to-restart-your-playstation-4-console/"><u>The Essential Guide to Restart Your PlayStation 4 Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-gaming-tickets-google-play-game-betas-pc-winners/"><u>Top Gaming Tickets: Google Play Game Beta's PC Winners</u></a></li>
-<li><a href="https://games-able.techidaily.com/twin-strategies-for-top-notch-tetris-mobile-battles/"><u>Twin Strategies for Top-Notch Tetris Mobile Battles</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncovering-the-essence-of-idle-status-in-online-chats/"><u>Uncovering the Essence of Idle Status in Online Chats</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-xbox-content-on-discord-servers/"><u>Unleashing Xbox Content on Discord Servers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unmissable-black-friday-offer-snag-a-40-discount-on-the-powerful-gigabyte-a5-k1-gaming-laptop-limited-time-deal/"><u>Unmissable Black Friday Offer! Snag a 40% Discount on the Powerful Gigabyte A5 K1 Gaming Laptop - Limited Time Deal</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-economical-long-term-smart-light-strings-that-beat-the-market/"><u>ZDNet Reveals Economical, Long-Term Smart Light Strings That Beat the Market!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-techniques-saving-and-recording-ps4-gaming-escapades/"><u>[Updated] In 2024, Top Techniques Saving and Recording PS4 Gaming Escapades</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-winning-animation-projects-using-movie-maker/"><u>2024 Approved Unleash Creativity Winning Animation Projects Using Movie Maker</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-filmmakers-handbook-building-effective-luts/"><u>A Filmmaker's Handbook Building Effective LUTs</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-tale-of-windows-and-steamos-harmony-on-a-single-chip/"><u>A Tale of Windows & SteamOS Harmony on a Single Chip</u></a></li>
+<li><a href="https://games-able.techidaily.com/ally-x-endgame-for-handheld-tech-predicaments/"><u>Ally X: Endgame for Handheld Tech Predicaments</u></a></li>
+<li><a href="https://games-able.techidaily.com/appreciating-google-play-pass-yet-its-flaw-remains/"><u>Appreciating Google Play Pass, Yet Its Flaw Remains</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-we-witnessing-the-onset-of-gpu-expensive-era/"><u>Are We Witnessing the Onset of GPU Expensive Era?</u></a></li>
+<li><a href="https://games-able.techidaily.com/augment-gameplay-efficiency-unlocking-secrets-to-android-fps-measurement/"><u>Augment Gameplay Efficiency: Unlocking Secrets to Android FPS Measurement</u></a></li>
+<li><a href="https://games-able.techidaily.com/awesome-google-play-pass-but-not-without-drawbacks/"><u>Awesome Google Play Pass, But Not Without Drawbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-subscriptions-the-smart-xbox-players-way/"><u>Balancing Subscriptions: The Smart Xbox Player's Way</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-of-the-giants-opera-gx-vs-microsofts-edge-browser/"><u>Battle of the Giants: Opera GX vs Microsoft's Edge Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-screen-finding-ps5s-silent-browser/"><u>Behind the Screen: Finding PS5's Silent Browser</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/exclusive-photo-safekeeping-top-free-and-paid-cloud-storage-solutions-for-2024/"><u>Exclusive Photo Safekeeping Top Free & Paid Cloud Storage Solutions for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/fast-tracking-your-vimeo-watch-time-for-2024/"><u>Fast-Tracking Your Vimeo Watch Time for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208449351-how-to-fix-surface-device-unplugged-but-wont-charge-problem-solved/"><u>How to Fix Surface Device Unplugged but Won't Charge Problem: Solved!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-devices-for-capturing-stellar-videos-on-the-move-for-2024/"><u>Ideal Devices for Capturing Stellar Videos on the Move for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-mobile-platforms-how-the-ios-and-google-play-stores-stack-up/"><u>Navigating Mobile Platforms: How the IOS and Google Play Stores Stack Up</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975737253-the-iaea-plays-a-central-role-in-monitoring-compliance-with-non-proliferation-agreements-and-promoting-peaceful-uses-of-nuclear-technology/"><u>The IAEA Plays a Central Role in Monitoring Compliance with Non-Proliferation Agreements and Promoting Peaceful Uses of Nuclear Technology.</u></a></li>
 </ul></div>
 

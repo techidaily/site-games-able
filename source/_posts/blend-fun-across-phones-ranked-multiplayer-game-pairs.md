@@ -1,7 +1,7 @@
 ---
 title: "Blend Fun Across Phones: Ranked Multiplayer Game Pairs"
-date: 2024-07-29T05:57:36.643Z
-updated: 2024-07-30T05:57:36.643Z
+date: 2025-02-04T21:47:44.784Z
+updated: 2025-02-11T23:58:47.432Z
 tags:
   - games
 categories:
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
  So, the next time you're looking for multiplayer games to play with friends, try the cross-platform mobile titles below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Spaceteam
 
  Spaceteam is the one game on this list that requires all your friends to be in the same physical space.
@@ -31,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
 **Download:** Spaceteam for[iOS](https://apps.apple.com/app/spaceteam/id570510529) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.sleepingbeastgames.spaceteam) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 2\. Words With Friends 2
 
 The sequel to the acclaimed Words With Friends is more like an update.
@@ -46,18 +44,6 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Words With Friends 2 for[iOS](https://apps.apple.com/app/words-with-friends-2-word-game/id1196764367) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.zynga.words3) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Pokémon UNITE
 
  A MOBA (Multiplayer Online Battle Arena) similar to League of Legends, Pokémon UNITE offers more fast-paced, streamlined gameplay for quick on-demand teamwork battles.
@@ -84,9 +70,6 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Minecraft for[iOS](https://apps.apple.com/app/minecraft/id479516143) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe) ($6.99 \[iOS\], $6.99 \[Android\], in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Hearthstone
 
  Real-life trading card games are fun, but online trading card games let you do things like summon demons and blow up your booster packs.
@@ -97,16 +80,16 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Hearthstone for[iOS](https://apps.apple.com/app/hearthstone/id625257520) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Pokémon Go
 
  When it debuted, Pokémon Go smashed the glass ceiling for AR (Augmented Reality) gaming, bringing pocket monsters into the real world. You and your friends can take your phones, whether Android or iOS, and go out into the real world and explore.
 
 **Download:** Pokémon Go for[iOS](https://apps.apple.com/app/pok%C3%A9mon-go/id1094591345) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 8\. PUBG Mobile
 
  The world's classic battle royale game is available on pretty much any platform you can think of, including iOS and Android.
@@ -116,6 +99,10 @@ The sequel to the acclaimed Words With Friends is more like an update.
  Plus, with its typically sub-30-minute match time, it's one of the easier phone games to play with your friends online.
 
 **Download:** PUBG Mobile for[iOS](https://apps.apple.com/app/pubg-mobile-arcane/id1330123889) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.tencent.ig) (Free, in-app purchases available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Mario Kart Tour
 
@@ -127,6 +114,10 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Mario Kart Tour for[iOS](https://apps.apple.com/us/app/mario-kart-tour/id1293634699) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.nintendo.zaka) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Old School RuneScape
 
  Ready to scratch the nostalgia bug with friends? As one of the earliest accessible MMORPGs, many gamers will fondly remember RuneScape. Whether you're ready to fish, mine, or fight, you can resume your adventures in true crossplay form with all of your friends.
@@ -134,8 +125,9 @@ The sequel to the acclaimed Words With Friends is more like an update.
 **Download:** Old School RuneScape for[iOS](https://apps.apple.com/app/apple-store/id1269648762) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.jagex.oldscape.android) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. League of Legends: Wild Rift
 
  If you've been a fan of Riot Games' League of Legends franchise, taking to the Rift with friends on mobile was previously impossible. While League of Legends: Wild Rift doesn't support crossplay with PC players, Android and iOS users can queue up in duos, trios, or a complete five-person party as you target the enemy's nexus. With Riot's MOBA mobile launch, you can now play a full phone game with your friends.
@@ -146,14 +138,11 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
  So there we have it, a selection of the best cross-platform multiplayer games to play on mobile. With these tested titles, you can download a game you know can play together for a long time. So if you want more fun mobile games to play with friends, it's a simple install away.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +151,26 @@ The sequel to the acclaimed Words With Friends is more like an update.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitter-to-whatsapp-video-broadcasting-guide/"><u>[Updated] 2024 Approved Twitter-to-WhatsApp Video Broadcasting Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-constructing-an-intriguing-trailer-blueprint/"><u>2024 Approved Constructing an Intriguing Trailer Blueprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-up-roblox-memory-overload-on-your-iphone/"><u>Clearing Up Roblox Memory Overload on Your iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-line-console-for-revitalizing-nintendo-classics/"><u>Command-Line Console for Revitalizing Nintendo Classics</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-xs-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone XS Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-request-a-refund-for-digital-xbox-series-xs-purchases/"><u>How to Request a Refund for Digital Xbox Series X|S Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-a-ps4-controller-on-your-pc-or-mac/"><u>How to Use a PS4 Controller on Your PC or Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-12-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-high-quality-audio-interpretation-via-google/"><u>In 2024, Unlocking High-Quality Audio Interpretation via Google</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-correcting-erratic-mouse-scrolling/"><u>Methods for Correcting Erratic Mouse Scrolling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/preventing-shake-in-cellphone-recorded-movies/"><u>Preventing Shake in Cellphone-Recorded Movies</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-superior-mats-for-enhanced-desk-ergonomics/"><u>Selecting Superior Mats for Enhanced Desk Ergonomics</u></a></li>
+<li><a href="https://games-able.techidaily.com/spring-into-action-with-augmented-gaming/"><u>Spring Into Action with Augmented Gaming</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/stun-sicilians-with-20plus-authentic-expressions/"><u>Stun Sicilians with 20+ Authentic Expressions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-for-muting-windows-folders/"><u>The Ultimate List for Muting Windows Folders</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-poco-x5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Poco X5 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-the-downside-to-linkedins-new-game-platform/"><u>Uncover the Downside to LinkedIn's New Game Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-genetic-basis-for-variations-in-cannabinoid-sensitivity/"><u>Unraveling the Genetic Basis for Variations in Cannabinoid Sensitivity</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Baldur's Gate 3: Hardware Requirements, Download Platforms, DLCs, and More"
-date: 2024-08-08T09:05:56.591Z
-updated: 2024-08-09T09:05:56.591Z
+date: 2025-02-05T23:01:44.832Z
+updated: 2025-02-11T21:49:32.186Z
 tags:
   - games
 categories:
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
  You may already be certain you will love this major D&D 5e video game title, but you still need more information before you make the $60 investment. Here, we’ll let you know everything you need to know so you can get in Baldur’s Gate 3 as ready as can be.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are Baldur’s Gate 3's Hardware and Software Requirements?
 
  Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the [best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
@@ -42,15 +43,13 @@ Here’s a table for Baldur’s Gate 3’s specs:
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
 * (Intel) MacBook Pros from 2016 to early 2020 might need to run on low settings unless they have the recommended specs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## What Platforms Can You Get Baldur's Gate 3 On, and How Much Is It?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the [cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
 
@@ -61,18 +60,20 @@ Here’s a table for Baldur’s Gate 3’s specs:
  There are mods for Baldur’s Gate 3, but we suggest you wait a little longer to try them out since most were made with early access in mind.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Does Baldur's Gate 3 Have a Multiplayer, and How Does It Work?
 
  Baldur’s Gate 3 has a single-player mode you can play by yourself. However, you can quickly change your single-player game into a multiplayer game where your friends can join and control characters in your game.
 
  But if you want a game where all the players have their own custom characters, you’ll need to press the**Multiplayer** button in Baldur’s Gate 3’s main menu. From there, you can host your party or join an existing party.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Baldur's Gate 3's multiplayer menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-s-multiplayer-menu.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can load saves across different platforms, but there’s no cross-play for PS5 and PC. Meaning that you can’t play with a friend using a PS5 if you’re using a PC and vice-versa.
 
@@ -87,22 +88,20 @@ Here’s a table for Baldur’s Gate 3’s specs:
  There is a toggle to hide nudity in the character creation stage. This might help reduce the chances of a child seeing something inappropriate while you play.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Now You’re Ready to Play Baldur’s Gate 3 (or Not)
 
  With all the information here, you should know all it takes to make Baldur’s Gate 3 work for you. It’s a large and long game, and it will take a lot of your time, but the good part is that you don’t have to rush it; you can finish it in small sessions.
 
  You also don’t need prior experience in Dungeons and Dragons to play the game. It’s very accessible and does a good job of introducing the mechanics to the players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,6 +110,22 @@ Here’s a table for Baldur’s Gate 3’s specs:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-anymp4-screen-recorder-download-and-review-for-2024/"><u>[Updated] AnyMP4 Screen Recorder Download and Review for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-creating-impactful-podcast-titles-with-ease-and-comprehensively-sampled-ideas/"><u>[Updated] In 2024, Creating Impactful Podcast Titles with Ease & Comprehensively Sampled Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-quirky-and-fun-chess-apps-to-play-chess-variants-online-or-against-ai/"><u>6 Quirky and Fun Chess Apps to Play Chess Variants Online or Against AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-for-parents-to-monitor-children-on-discord/"><u>A Guide for Parents to Monitor Children on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/add-an-unbreakable-barrier-implement-passcode-lock-on-switch-console/"><u>Add an Unbreakable Barrier: Implement Passcode Lock on Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-fail-to-start-driver-issue-on-windows-11-and-11-pcs/"><u>Addressing Fail-To-Start Driver Issue on Windows 11 & 11 PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-mobile-play-controller-enhanced-gaming/"><u>Advanced Mobile Play: Controller-Enhanced Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/banishing-display-lag-zeroing-out-error-code-0x887a0006/"><u>Banishing Display Lag: Zeroing Out Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-master-at-nyts-strands-play-and-win/"><u>Become a Master at NYT’s Strands: Play & Win</u></a></li>
+<li><a href="https://win11.techidaily.com/gentle-slumber-a-windows-techs-guide/"><u>Gentle Slumber: A Windows Tech's Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ace-meetings-integrating-filters-to-stand-out-on-zoom/"><u>In 2024, Ace Meetings Integrating Filters to Stand Out on Zoom</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-90-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor 90 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/meilleur-transcodificateur-de-videos-en-h265hevc-pour-windows-11-et-macos-comparatif-des-encodeurs/"><u>Meilleur Transcodificateur De Vidéos en H.265/HEVC Pour Windows 11 Et macOS - Comparatif Des Encodeurs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-fast-forward-your-videos-a-quicktime-player-tutorial-for-2024/"><u>Updated Fast Forward Your Videos A QuickTime Player Tutorial for 2024</u></a></li>
+</ul></div>
 

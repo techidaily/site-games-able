@@ -1,7 +1,7 @@
 ---
 title: "Lemokey L3 Gaming Keys: A Quality Revelation"
-date: 2025-01-12T19:46:41.559Z
-updated: 2025-01-16T16:11:48.986Z
+date: 2025-02-08T21:22:19.807Z
+updated: 2025-02-11T23:28:10.763Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,11 +36,11 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -132,7 +128,7 @@ No
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Configuration
@@ -140,10 +136,6 @@ No
  Like all Keychron keyboards, the Lemokey L3 is available in several configurations. The Fully Assembled Knob version, which features in this review, will set you back $214, while the barebones version is $194.
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -178,7 +170,7 @@ No
  Inside the Lemokey L3 are multiple layers of sound-absorbing foam, which, along with the double-gasket mounted design, contribute to the smooth typing experience and warming typing sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery Life and Connectivity
@@ -188,6 +180,10 @@ No
 ![red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3.jpg)
 
  Hannah Stryker / MakeUseOf
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lemokey L3 Typing Experience
 
@@ -218,16 +214,12 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Lemokey L3 a Good Gaming Keyboard?
 
@@ -241,7 +233,15 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -266,22 +266,22 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-concurrent-display-registration/"><u>[New] In 2024, Concurrent Display Registration</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-strategies-for-smooth-clear-sound-in-zoom-powered-podcasts-for-2024/"><u>[New] Strategies for Smooth, Clear Sound in Zoom-Powered Podcasts for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-guide-to-adding-frames-on-instagram-photos/"><u>2024 Approved Step-by-Step Guide to Adding Frames on Instagram Photos</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquer-unresponsive-steam-by-implementing-troubleshooting-tips/"><u>Conquer Unresponsive Steam by Implementing Troubleshooting Tips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/excellence-in-editing-selecting-the-right-software-for-2024/"><u>Excellence in Editing Selecting the Right Software for 2024</u></a></li>
-<li><a href="https://solve-info.techidaily.com/experience-enhanced-marketing-success-using-the-advanced-capabilities-of-cookiebot-solutions/"><u>Experience Enhanced Marketing Success Using the Advanced Capabilities of Cookiebot Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-timeless-titles-playing-nintendo-on-ios/"><u>Explore Timeless Titles: Playing Nintendo on iOS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/factors-influencing-creep-include-stress-level-temperature-material-composition-grain-size-and-environmental-conditions/"><u>Factors Influencing Creep Include Stress Level, Temperature, Material Composition, Grain Size, and Environmental Conditions.</u></a></li>
-<li><a href="https://games-able.techidaily.com/focusing-on-essentials-gamer-mice-design-features/"><u>Focusing on Essentials: Gamer Mice Design Features</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-pro-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15 Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/miniaturize-your-arcade-archive-with-efficient-chdman-techniques/"><u>Miniaturize Your Arcade Archive with Efficient CHDMAN Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-google-docs-and-sheets-with-chatgpt/"><u>Navigating Google Docs & Sheets with ChatGPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/office-desk-vs-playstation-choosing-your-machine/"><u>Office Desk Vs. PlayStation: Choosing Your Machine</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-slims-big-reveal-must-know-facts/"><u>PS5 Slim's Big Reveal: Must-Know Facts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-sailing-startechs-fixes-to-win8710-drivers/"><u>Smooth Sailing: StarTech's Fixes to WIN8/7/10 Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-and-correcting-steam-remote-play-problems-on-pc/"><u>Streamlining and Correcting Steam Remote Play Problems on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/wheel-warfare-vs-digital-dashboard-dominance-in-racing-games/"><u>Wheel Warfare Vs. Digital Dashboard Dominance in Racing Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/overt-content-creation-how-to-invisibly-alter-videos-for-2024/"><u>[New] Covert Content Creation How to Invisibly Alter Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-easily-transform-youtube-music-into-mp3-for-mac-os/"><u>[New] In 2024, Easily Transform YouTube Music Into MP3 for Mac OS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-youtube-trailers-using-filmora-tools/"><u>2024 Approved The Art of YouTube Trailers Using Filmora Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-nokia-g310-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia G310 Fingerprint Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-past-iphone-games-with-legendary-titles/"><u>Embrace the Past: IPhone Games with Legendary Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-world-of-cozy-gaming-delights/"><u>Exploring the World of Cozy Gaming Delights</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-adobe-off-new-pathways-for-playing-flash-titles/"><u>Game On, Adobe Off: New Pathways for Playing Flash Titles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-enable-and-navigate-whatsapp-on-a-mac-device/"><u>How to Enable and Navigate WhatsApp on a Mac Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-framing-the-perfect-frame-talking-head-shot-essentials/"><u>In 2024, Framing the Perfect Frame Talking-Head Shot Essentials</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-joining-in-on-tiktok-gigs-without-causing-a-ruckus/"><u>In 2024, Joining in on TikTok Gigs Without Causing a Ruckus</u></a></li>
+<li><a href="https://article-posts.techidaily.com/listenleap-escaping-dacasts-grip-for-2024/"><u>ListenLeap Escaping DaCast's Grip for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-psp-transform-into-nintendo-ds-simulator/"><u>Mastering PSP: Transform Into Nintendo DS Simulator</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-geforce-now-passes-raise-doubts/"><u>Nvidia's GeForce NOW Passes Raise Doubts</u></a></li>
+<li><a href="https://games-able.techidaily.com/organizing-your-steam-screenshots-effectively/"><u>Organizing Your Steam Screenshots Effectively</u></a></li>
+<li><a href="https://article-posts.techidaily.com/projector-vs-tv-showdown-which-prevails-in-4k-clarity-in-2024/"><u>Projector vs TV Showdown Which Prevails in 4K Clarity, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-play-instructions-for-switch-passcode-activation/"><u>Safe Play: Instructions for Switch Passcode Activation</u></a></li>
+<li><a href="https://games-able.techidaily.com/stream-assist-the-key-to-seamless-video-game-streaming/"><u>Stream Assist: The Key to Seamless Video Game Streaming</u></a></li>
 </ul></div>
 

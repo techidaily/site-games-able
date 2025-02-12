@@ -1,7 +1,7 @@
 ---
 title: Key Steps for Reviewing Gameplay Durations on Xbox
-date: 2025-01-29T17:58:36.372Z
-updated: 2025-01-30T18:08:53.684Z
+date: 2025-02-10T23:43:49.438Z
+updated: 2025-02-11T19:37:47.270Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About the Time Played Stat on Xbox
 
  Unfortunately, before you check your play-time for an Xbox game, you might want to be aware of some key aspects of the feature. And how, despite the**Time played** statistic being a staple feature of Xbox Series X|S game settings, this specific stat can be inconsistent.
@@ -36,14 +40,10 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 ![A screenshot of the Time Played statistic on Xbox Series X showcasing no time played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/001-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Check Your Time Played From Your Xbox Series X|S
 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the game you want to see the**Time played** stat for.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 ![A screenshot of the Achievements screen for Xbox games on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-selection.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Under**Progress** , highlight**Stats** .
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
@@ -117,24 +117,24 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-seamless-viewing-of-time-honored-facebook-stories/"><u>[New] 2024 Approved Seamless Viewing of Time-Honored Facebook Stories</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-digital-documentation-at-its-best-with-ezvide-software/"><u>[New] Digital Documentation at Its Best with EZvide Software</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-strategy-for-creating-viral-hashtags-on-facebook/"><u>[Updated] 2024 Approved The Ultimate Strategy for Creating Viral Hashtags on Facebook</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitmedia-mastery-elevate-your-tweet-game/"><u>[Updated] 2024 Approved TwitMedia Mastery Elevate Your Tweet Game</u></a></li>
-<li><a href="https://games-able.techidaily.com/compact-mini-led-screen-best-value-deal/"><u>Compact Mini-LED Screen: Best Value Deal!</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-game-hunt-best-switch-ftp-experience/"><u>Exclusive Game Hunt: Best Switch FTP Experience</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-discreetly-streaming-top-8-video-tools-of-the-year-2023/"><u>In 2024, Discreetly Streaming Top 8 Video Tools of the Year, 2023</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-dall-e-3-for-rapid-webp-to-standard-image-changes/"><u>Leveraging DALL-E 3 for Rapid WebP to Standard Image Changes</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-xbox-points-a-quad-of-key-improvements-needed/"><u>Optimizing Xbox Points: A Quad of Key Improvements Needed</u></a></li>
-<li><a href="https://games-able.techidaily.com/pc-gamers-dream-list-top-games-in-google-play-game-beta/"><u>PC Gamers’ Dream List - Top Games in Google Play Game Beta</u></a></li>
-<li><a href="https://games-able.techidaily.com/platform-exclusive-games-might-be-a-thing-of-the-past-heres-why-thats-good/"><u>Platform-Exclusive Games Might Be a Thing of The Past: Here's Why That's Good</u></a></li>
-<li><a href="https://games-able.techidaily.com/rapid-recreation-compile-your-favorite-quick-game-titles/"><u>Rapid Recreation: Compile Your Favorite Quick Game Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/rendering-rivalry-directx-11-vs-directx-12-benefits/"><u>Rendering Rivalry: DirectX 11 Vs. DirectX 12 Benefits</u></a></li>
-<li><a href="https://games-able.techidaily.com/swiftly-tackle-windows-graphics-hang-code-0x887a0006-solution/"><u>Swiftly Tackle Windows' Graphics Hang: Code 0X887A0006 Solution</u></a></li>
-<li><a href="https://facebook.techidaily.com/tactics-to-decrease-fb-reel-viewing-frequency/"><u>Tactics to Decrease Fb Reel Viewing Frequency</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-m1-pro-vs-the-m1-max-showdown-what-sets-them-apart/"><u>The M1 Pro Vs. The M1 Max Showdown - What Sets Them Apart?</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-240hz-displays-the-ultimate-game-setup/"><u>Top 240Hz Displays: The Ultimate Game Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-euro-truck-simulator-2-pc-instability-problems/"><u>Troubleshooting Guide: Solving Euro Truck Simulator 2 PC Instability Problems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-elite-8s-imagery-merging-digital-software/"><u>[New] 2024 Approved Elite 8’S Imagery Merging Digital Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-gb-for-a-continuous-video-watched-daily-for-2024/"><u>[Updated] GB for a Continuous Video Watched Daily for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transition-smoothly-to-metaverse-living-with-these-tools/"><u>[Updated] Transition Smoothly to Metaverse Living with These Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-social-platforms-leveraging-chatgpt-for-improved-post-creation-and-engagement/"><u>Ace Social Platforms: Leveraging ChatGPT for Improved Post Creation and Engagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/curtailing-game-bar-functionality-in-windows-11-edition/"><u>Curtailing Game Bar Functionality in Windows 11 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-gameplay-controllers-and-buttons-on-android/"><u>Enhancing Your Gameplay: Controllers and Buttons on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-give-old-games-access-to-the-my-pictures-folder-on-windows-11/"><u>How to Give Old Games Access to the My Pictures Folder on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-complete-overview-how-to-navigate-telegram-web/"><u>In 2024, Complete Overview How To Navigate Telegram Web</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-vs-new-game-compatibility-between-ps4-and-ps3/"><u>Old vs New: Game Compatibility Between PS4 & PS3</u></a></li>
+<li><a href="https://games-able.techidaily.com/reawakening-your-playstation-4-with-a-system-reset/"><u>Reawakening Your PlayStation 4 with a System Reset</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-download-options-available-for-wacom-device-drivers/"><u>Speedy Download Options Available for Wacom Device Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/sweat-and-smile-top-7-sports-gaming-hits-for-iphone-and-android/"><u>Sweat & Smile: Top 7 Sports Gaming Hits for iPhone and Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quintessential-selection-of-prime-twitch-downloader-apps/"><u>The Quintessential Selection of Prime Twitch Downloader Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-edge-in-online-gaming-best-fps-browser-games-revealed/"><u>The Ultimate Edge in Online Gaming: Best FPS Browser Games Revealed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-xp-pen-artist-16-pro-tablet-showdown-features-performance-and-user-experience-evaluation/"><u>The XP-Pen Artist 16 Pro Tablet Showdown: Features, Performance & User Experience Evaluation</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/top-20-gratist-video-konverterar-apps-for-windows-11-8-and-7/"><u>Top 20 Gratist Video Konverterar Apps För Windows 11, 8 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-2024-playlist-top-tier-gaming-devices-reviewed/"><u>Ultimate 2024 Playlist: Top-Tier Gaming Devices Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-vision-navigating-video-degrees-with-ease-for-2024/"><u>YouTube Vision Navigating Video Degrees with Ease for 2024</u></a></li>
 </ul></div>
 

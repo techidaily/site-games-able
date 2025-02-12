@@ -1,7 +1,7 @@
 ---
 title: "Choose Wisely: 6 Things Before Committing to PS5"
-date: 2024-07-29T05:58:26.576Z
-updated: 2024-07-30T05:58:26.576Z
+date: 2025-02-09T17:54:47.001Z
+updated: 2025-02-11T18:58:07.223Z
 tags:
   - games
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
  If you haven't picked up a PS5 yet, but are thinking about it, you should consider whether it's the right move for you. Here are several points to think about before you spend several hundred dollars on Sony's latest console.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Can You Afford the Total Cost of a PS5?
 
  Before you buy anything, you should of course consider the price. While the cost varies across models, the PS5 starts at $400 or $450—not cheap enough to buy on impulse.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
  Depending on how many extras you want to buy, the initial \~$450 price tag could quickly climb to hundreds more. To help offset this cost, you might consider[selling your PlayStation 4](https://www.makeuseof.com/sell-ps4-where-why-how-much/) and putting the cash towards a PlayStation 5, after considering...
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 2\. Are You Done Playing PlayStation 4 Games?
 
  The[PS4 is home to tons of great games](https://www.makeuseof.com/tag/best-ps4-exclusives/) . If you picked up the system partway through its lifespan, chances are that you haven't had a chance to play them all. Thus, you should consider whether you have PS4 games you still want to check out.
@@ -46,15 +46,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Once you do upgrade, you'll be glad to know[the PlayStation 5 is backward-compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) with almost all PlayStation 4 games. You can use PS4 controllers to play PS4 games, and the PS5 also supports playing PS4 titles from an external drive. And while some PS4 games run slightly better on PS5, the difference isn't huge.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![PS5 Download PS4 Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/03-PS5-Download-PS4-Game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're not in a rush to play certain PS5 games, you might as well finish your backlog on PS4\. With the PS5's limited SSD space, finishing them before you upgrade means less juggling of installed games.
 
  If you're mostly done with PS4 games, moving to the PS5 makes more sense.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Are You Interested in the Available PS5 Games?
 
@@ -62,9 +66,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If the next entry in your favorite series is only coming to PS5, then you should get the newer console. It's up to you whether you should[upgrade for the superior PS5 version of cross-generational titles](https://www.makeuseof.com/reasons-wait-play-ps5-version-cross-gen-games/) .
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. There Are Now Two Models of PS5
 
  In October 2023, Sony announced a minor revision to the PS5, which most call the PS5 Slim following prior console naming conventions.
@@ -76,8 +77,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Thankfully, the PS5's notorious stock issues have mostly cleared up as of this writing, so you shouldn't have much trouble getting your hands on one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Waiting May Get You Better Deals
 
  The middle of a console's lifetime is a great time to buy, as there are more games to choose from with plenty on the horizon, and any hardware issues from the original models are usually ironed out with a revision. Even so, being a bit more patient might result in you getting a better value for your purchase.
@@ -86,9 +88,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  It's up to you whether it's worth jumping in now to play, or if you want to wait for the optimal moment.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Is the PlayStation 5 the Best Choice for You?
 
  Don't forget that the PlayStation 5 isn't the only gaming system available. Microsoft's Xbox Series X and Xbox Series S launched around the same time as the PS5\. If you're a PlayStation fan, the decision is probably easy. But don't discount the other choices.
@@ -100,22 +99,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Alternatively, you could[build a decent gaming PC](http://www.makeuseof.com/build-gaming-pc/) for the cost of a PlayStation 5, though you can put a lot more money into that project if you like. PC gaming has a lot of benefits, such as more control options, better graphical performance, and free multiplayer. If you're not sold on the PS5, perhaps this would be a good time to try PC gaming.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Carefully Consider Buying a PlayStation 5
 
  We're not here to discourage you from buying a PS5\. The console is a big improvement over the PS4, and a few years in, there are enough great games that make it worth buying. But before you jump in, consider the points above to decide if it's best to buy one right now.
 
  Maybe you've decided to skip upgrading for now. In that case, why not consider a portable game console instead?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +121,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-how-to-convert-youtube-to-mp4-safely/"><u>[New] 2024 Approved How to Convert YouTube to MP4 Safely?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-experts-choice-androids-best-large-group-calling-for-2024/"><u>[New] Expert's Choice Android's Best Large Group Calling for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-revolutionize-your-farm-life-stardews-best-7-game-updates/"><u>[Updated] In 2024, Revolutionize Your Farm Life Stardew's Best 7 Game Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/decade-old-changes-valves-latest-steam-family-sharing-update/"><u>Decade-Old Changes: Valve’s Latest Steam Family Sharing Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-disconnect-patterns-for-xbox-players/"><u>Decoding Disconnect Patterns for Xbox Players</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-fix-a-scanner-that-will-not-start-tips-by-yl-software-professionals/"><u>How to Fix a Scanner That Will Not Start: Tips by YL Software Professionals</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719159997750-immediate-relief-best-online-games-now/"><u>Immediate Relief: Best Online Games Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seizing-stability-eliminating-instability/"><u>In 2024, Seizing Stability Eliminating Instability</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-lenovo-thinkpad-x1-nano-assessment-the-ultimate-compact-workhorse/"><u>In-Depth Lenovo ThinkPad X1 Nano Assessment - The Ultimate Compact Workhorse</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/ppro-full-screen-showcase-made-simple-for-2024/"><u>PPro Full-Screen Showcase Made Simple for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-missing-gps-on-your-pokemon-journey/"><u>Restoring Missing GPS on Your Pokémon Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-gaming-system-with-ease/"><u>Supercharge Your Gaming System with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-cancelling-steam-membership-monthly/"><u>Tips for Cancelling Steam Membership Monthly</u></a></li>
+</ul></div>
 

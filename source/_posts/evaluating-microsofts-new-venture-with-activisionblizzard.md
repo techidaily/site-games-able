@@ -1,7 +1,7 @@
 ---
 title: Evaluating Microsoft's New Venture With Activision/Blizzard
-date: 2025-01-15T21:23:47.533Z
-updated: 2025-01-16T17:02:51.349Z
+date: 2025-02-08T17:27:21.418Z
+updated: 2025-02-11T20:11:53.471Z
 tags:
   - games
 categories:
@@ -33,23 +33,15 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
 ![A screenshot of the loading screen for Diablo II Resurrected on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/diablo-ii-resurrected-loading-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And with Xbox owning massive Activision/Blizzard franchises, there is also the worry that the deal will enable Xbox to turn multiplatform franchises into Xbox exclusives. And while platform exclusivity is a more nuanced effect of the deal, with specific clauses, there are undoubtedly consequences of such an industry-shaking deal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Potential Problems the Deal May Cause Gamers
 
  While the deal is good for Xbox as a platform and Xbox gamers, there are many damaging implications for the industry and gamers alike, even if you're a huge Xbox fan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Xbox Owns a Sizable Chunk of the Entire Gaming Industry
 
@@ -72,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
  While there are many[great Xbox Series X|S exclusives](https://www.makeuseof.com/the-best-xbox-exclusives-to-test-out-your-xbox-series-xs/) , acquiring Activision/Blizzard represents a drastic expansion of the exclusive games Xbox could offer. And typically, this is something that PlayStation is notoriously better at doing than Xbox.
 
 ![A promotional image of God of War Ragnarok depicting a scene from the game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/god-of-war.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: [PlayStation](https://www.playstation.com/en-us/games/god-of-war-ragnarok/)
 
@@ -98,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
  While you certainly have good reasons to be dubious of the acquisition of Activision/Blizzard by Microsoft, there is evidence to suggest that the deal isn't as problematic for gamers as previously thought.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Exclusive Games Have Always Been a Pivotal Part of Console Gaming
@@ -115,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
  So, while exclusivity may worry you, the deal is unable to affect platform exclusivity for at least 15 years, and even if it goes on to do so, it would only be following pre-established trends within the gaming industry.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Xbox Is Focused on Consumer-Orientated Gaming
 
  While you may see the deal between Microsoft and Activision/Blizzard as stoking problematic issues for gamers, Xbox and its emphasis on consumer choice implies otherwise.
@@ -133,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
  So, if you take the pro-consumer practices Xbox engages in with the changing of the guard at Activision/Blizzard, the deal injects hope into a troubled company, highlighting a positive change for Activision/Blizzard and consumers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Xbox Is the Underdog of the Industry
 
  There are also reasons for you to see the Microsoft and Activision/Blizzard deal as being unable to provide Xbox with a monopoly over the industry, even with Activision/Blizzard titles prioritizing Xbox services.
@@ -144,12 +140,16 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 ![A photograph of an PlayStation 5 console and controller atop a white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playstation-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Brad Smith also cited how PlayStation, at the time of the discussions, had 286 exclusive games and Xbox only had 59 to back up his statements. So, while you may be justifiably worried about the deal's implications, you could see the acquisition as simply allowing Xbox to catch up to PlayStation.
 
  Even with the acquisition of Activision/Blizzard, it may be more likely that competition between Xbox and PlayStation would increase instead of the industry being monopolized.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Acquisition of Activision/Blizzard by Xbox Improves Competition
 
@@ -174,15 +174,24 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhance-video-performance-selecting-top-12-players/"><u>[Updated] 2024 Approved Enhance Video Performance Selecting Top 12 Players</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-customizable-mcb-visuals-for-youtube-banners/"><u>[Updated] In 2024, Customizable MCB Visuals for YouTube Banners</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-launching-an-impactful-instagram-live-session/"><u>In 2024, Launching an Impactful Instagram Live Session</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/jumpstart-gpt-capabilities-best-9-plugin-guide-revealed/"><u>Jumpstart GPT Capabilities – Best 9 Plugin Guide Revealed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidia-reveals-a-groundbreaking-gaming-app-feature/"><u>Nvidia Reveals a Groundbreaking Gaming App Feature</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-vision-defense-frameworks/"><u>Optimal Vision Defense Frameworks</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-checklist-for-finding-your-perfect-handheld-game-companion/"><u>The Ultimate Checklist for Finding Your Perfect Handheld Game Companion</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-i-embrace-the-world-of-games-with-apple-arcade/"><u>Why I Embrace the World of Games with Apple Arcade</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-easily-access-igtv-content-download-guide-for-pcmac-users/"><u>[New] 2024 Approved Easily Access IGTV Content Download Guide for PC/Mac Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>[New] 2024 Approved Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-comparative-study-of-youtubes-and-dailymentions/"><u>[Updated] Comparative Study of YouTubes and DailyMentions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-premier-mac-recording-software-top-5-innovations-revealed-for-2024/"><u>[Updated] Premier Mac Recording Software Top 5 Innovations Revealed for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-14-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 14 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-turn-on-ps5-with-these-6-tips/"><u>Effortlessly Turn On PS5 with These 6 Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-delight-mod007b-keyboard-evaluation/"><u>Gamers' Delight: Mod007B Keyboard Evaluation</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-walk-on-8-innovative-ar-walks/"><u>Get Your Walk On - 8 Innovative AR Walks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-how-to-quickly-terminate-stuck-applications-in-windows-using-revouninstaller/"><u>Guide: How to Quickly Terminate Stuck Applications in Windows Using RevoUninstaller</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-master-nyt-alliances-and-rivalries/"><u>How to Master NYT Alliances & Rivalries</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-showcase-slender-smarts-with-tecnos-new-innovations/"><u>IFA Showcase: Slender Smarts with Tecno's New Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovations-in-cannabinoid-drug-formulation-for-enhanced-brain-penetration/"><u>Innovations in Cannabinoid Drug Formulation for Enhanced Brain Penetration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-factors-to-evaluate-when-choosing-a-video-recording-equipment/"><u>Key Factors to Evaluate When Choosing a Video Recording Equipment</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-immersion-master-screen-settings-on-console/"><u>Maximize Immersion: Master Screen Settings on Console</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/michael-kors-gen-5e-mkgo-watch-review-sophisticated-design-meets-intelligent-features/"><u>Michael Kors Gen 5E MKGO Watch Review: Sophisticated Design Meets Intelligent Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-ddr5-gaming-cards-in-24/"><u>Premium DDR5 Gaming Cards in '24</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-upgrade-to-the-latest-drivers-for-your-nvidia-rtx-2080-on-windows-systems-windows-1011/"><u>Step-by-Step: Upgrade to the Latest Drivers for Your NVIDIA RTX 2080 on Windows Systems (Windows 10/11)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/superior-select-five-4k-cameras-for-2024/"><u>Superior Select Five 4K Cameras for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-robloxs-error-code-403-steps-for-windows-users/"><u>Troubleshooting Roblox's Error Code 403: Steps for Windows Users</u></a></li>
 </ul></div>
 

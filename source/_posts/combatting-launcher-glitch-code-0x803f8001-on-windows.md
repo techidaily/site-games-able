@@ -1,7 +1,7 @@
 ---
 title: Combatting Launcher Glitch Code 0X803F8001 on Windows
-date: 2024-07-29T05:55:04.909Z
-updated: 2024-07-30T05:55:04.909Z
+date: 2025-02-04T21:44:04.276Z
+updated: 2025-02-12T00:13:05.783Z
 tags:
   - games
 categories:
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
  If this error prevents you from running the game, here are some fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Ensure You're Signed Into the Right Microsoft Account
 
  Make sure you are logged into the Microsoft Store with the same account that has the Minecraft license. Here is how to check that:
@@ -48,6 +49,10 @@ Here is how to launch the troubleshooter:
 4. The troubleshooter will open and scan for app issues. Apply any potential resolutions it suggests.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-store-apps-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Ensure the Windows Time and Date Is Correct
 
  One of the leading causes of Microsoft Store errors is incorrect time and date settings. When you launch a game, it connects to the game servers remotely. If the time and date aren't configured correctly, this can lead to miscommunication between the host and server, which can lead to the error in question.
@@ -56,9 +61,6 @@ Here is how to launch the troubleshooter:
 
  Keeping that in mind, check the time and date in the bottom-right corner of your screen. If the date and time are correct but not in the format described above, refer to our guide on[how to change the date and time format in Windows](https://www.makeuseof.com/windows-change-date-time-format/) and select the appropriate one.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reset the Microsoft Store and Minecraft Launcher via Settings
 
  The Settings app includes a**Reset** option for apps that erases app data when selected. As that option can fix apps that aren’t working right, it’s recommended that you reset data for both Microsoft Store and Minecraft Launcher.
@@ -69,22 +71,18 @@ You can reset your apps in Windows 11 like this:
 2. Select the**Apps** tab inside Settings.
 3. Click**Apps & features** to view your PC’s app list.
 4. Next, click the three-dot button for the Microsoft Store app.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The three-dot button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-three-dot-button.jpg)
 5. Select**Advanced options** to bring up the**Reset** button.
 6. Click the**Reset** option. Select**Reset** again on the confirmation prompt.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![The Repair and Reset buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-repair-and-reset-buttons.jpg)
 7. Note that you can also select a**Repair** option that’s just above the**Reset** button. If resetting doesn’t do the trick, try selecting the**Repair** option for Microsoft Store.
-8. Repeat the above steps for the Microsoft Launcher app.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. Repeat the above steps for the Microsoft Launcher app.
+
 ## 5\. Reset the Microsoft Store Cache
 
  The Minecraft Launcher error 0x803f8001 might occur because of a corrupted Microsoft Store cache. As such, resetting the corrupted cache could be the fix you’re looking for. You can reset the Microsoft Store cache with wsreset.exe like this:
@@ -92,11 +90,12 @@ You can reset your apps in Windows 11 like this:
 1. Bring up the Power User menu with the**Win** +**X** keyboard shortcut.
 2. Open Run by selecting it on that menu.
 3. Type**wsreset.exe** in the Open dialog box.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The wsreset Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-wsreset-command.jpg)
 4. Click**OK** to reset Microsoft Store’s cache.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Re-Register the Microsoft Store via an Elevated PowerShell
 
@@ -114,8 +113,13 @@ You can reset your apps in Windows 11 like this:
 ![A reregister app package PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/a-reregister-app-package-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall the Microsoft Store
 
  You might need to fix a corrupted Microsoft Store installation to resolve error 0x803f8001\. Reinstalling Microsoft Store will likely fix such an issue. However, you can’t uninstall that app via Settings. To reinstall it, you’ll need to enter a couple of PowerShell commands like this:
@@ -131,8 +135,9 @@ You can reset your apps in Windows 11 like this:
 ![The reinstall app package PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reinistall-app-package-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reinstall the Minecraft Launcher App
 
  A lot of users have confirmed that reinstalling the Minecraft Launcher app fixes error 0x803f8001\. This is how you can reinstall the Minecraft Launcher:
@@ -148,8 +153,9 @@ You can reset your apps in Windows 11 like this:
 8. Then click Minecraft Launcher’s**Play** option in Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Install the Minecraft Launcher From the Microsoft Store
 
  Do you use the Minecraft Launcher you downloaded from the Minecraft website? If you do, uninstall the launcher using one of the[ways to uninstall apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, install it from the Microsoft Store.
@@ -164,10 +170,6 @@ You can reset your apps in Windows 11 like this:
 
  Check out[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for further instructions on how to perform both scans.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 11\. Update Windows
 
  Alternatively, updating your copy of Windows may also fix the issue. Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) for more information.
@@ -176,14 +178,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Those are some of the potential resolutions with which players have fixed Minecraft Launcher error 0x803f8001 in Windows 11/10\. Hopefully, one of those fixes resolved the error on your PC too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,4 +191,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/everage-tags-a-step-by-step-youtube-tactical-guide-for-2024/"><u>[New] Leverage Tags A Step-by-Step YouTube Tactical Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-crafting-curve-concepts-for-text-visualization/"><u>[Updated] 2024 Approved Crafting Curve Concepts for Text Visualization</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-playtime-perfection-the-kiddo-gamer-guide-for-2024/"><u>[Updated] Playtime Perfection The Kiddo Gamer Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-hooked-on-these-6-non-monetary-gaming-treasures/"><u>Get Hooked on These 6 Non-Monetary Gaming Treasures</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE with/without SIM Card</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/qualified-macbook-owners-benefit-from-new-apple-settlement-announced-by-zdnet/"><u>Qualified MacBook Owners Benefit From New Apple Settlement Announced by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-deck-gaming-101-integrating-emudeck/"><u>Steam Deck Gaming 101: Integrating EmuDeck</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-reverting-to-defaults-with-a-full-hp-laptop-system-reboot/"><u>The Ultimate Tutorial: Reverting to Defaults with a Full HP Laptop System Reboot</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-play-step-by-step-guide-for-controller-linkage/"><u>Uniting Play: Step-by-Step Guide for Controller Linkage</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-one-reviving-your-hdmi-cable-connected-headset/"><u>Xbox One: Reviving Your HDMI-Cable Connected Headset</u></a></li>
+</ul></div>
 

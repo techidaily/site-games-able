@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Commander’s Compendium: Top 11 WW2 Games"
-date: 2025-01-27T18:09:07.833Z
-updated: 2025-01-30T18:33:01.380Z
+date: 2025-02-10T17:50:22.210Z
+updated: 2025-02-11T18:33:09.121Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1. Company of Heroes 3
 
  The original Company of Heroes is one of the best examples of real-time strategy games period, let alone in the war genre. The third entry is equally impressive.
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  On top of all that, the game looks great. So much attention has been paid to the vehicles and environments that you'll feel totally immersed in the World War II experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3. Hearts of Iron IV
 
  Instead of controlling individual units, Hearts of Iron IV puts you in command of the highest-level strategy in the war. You develop technology, build and outfit armies, control forces on land, sea, and air, and launch invasions that will change the tide of the war.
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  You also handle negotiations, trade, and politics. By appointing ministers and generals, you can use the game's AI to help you ensure victory. Plus, you can do it with any country involved in the war, from the major players to the smaller nations just trying to survive.
 
  This is a complex game, and it requires a monumental amount of strategic thinking. If you want to see what World War II must have looked from the highest level of command, this is the game for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4. Order of Battle: World War II
 
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  If you like traditional turn-based hex gameplay, this is the game for you. It's easy to pick up, but packs a lot of depth, and has some nice animations and effects to keep things interesting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5. Panzer Corps 2
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  According to the developers, no other game has as many authentic World War II vehicles. There are over 1,000 unique units, each modeled with incredible detail and realistic animations. You can take charge of them in the single-player campaign or online.
 
  Once you're done with the game's main content, you can use the powerful scenario editor to build your own campaigns and maps with ease. Panzer Corps 2 is so deep that you may never need to buy another WW2 game again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6. Codename: Panzers
 
@@ -107,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  If you're looking for a console-based WW2 strategy experience, Sudden Strike 4 is the way to go.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10. Unity of Command II
 
  If you only decide to buy one WW2 strategy game, you can't go wrong with Unity of Command II. It's a follow-up to the 2011 cult classic, putting you in command of the Western Allies as you manage their supply and logistics.
@@ -120,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  There's also a scenario editor with Steam Workshop support, so you can build your own campaigns and download other people's with ease.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11. Close Combat
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Each game in the Close Combat series focuses on a different, real-life key event from WWII, with grand campaigns playing out on large maps, so choose the one which interests you the most. 2019's Close Combat: The Bloody First was the first 3D entry, though reviews for that are mixed.
 
  Don't let the old-school graphics put you off; it's the gameplay that matters. This is an immersive strategy game series that will suck you in for hours.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You Can Also Play Strategy Games in Your Browser
 
@@ -152,20 +152,20 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-viral-video-vanguard-youtubes-1-24-hours-list/"><u>[New] 2024 Approved Viral Video Vanguard YouTube's #1 24 Hours List</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/"><u>[Updated] 2024 Approved The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-quickening-instagram-video-streams-on-mobile-devices/"><u>[Updated] In 2024, Quickening Instagram Video Streams on Mobile Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-standout-emulator-options-for-mac-users/"><u>5 Standout Emulator Options for Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/gameplay-experience-series-x-vs-custom-pc/"><u>Gameplay Experience: Series X Vs. Custom PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-firmware-lasting-sound-quality/"><u>Instant Firmware, Lasting Sound Quality</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173155093-my-2-years-in-high-definition-with-an-oled-monitor/"><u>My 2 Years in High Definition with an OLED Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-itchios-best-indie-game-finds/"><u>Navigating Itch.io's Best Indie Game Finds</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-with-new-york-times-connections/"><u>Playing with New York Times Connections</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-re-activating-stalled-asana-windows-integration/"><u>Strategies for Re-Activating Stalled Asana Windows Integration</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/960676-9781780997360-the-patient-in-room-nine-says-hes-god/"><u>The Patient in Room Nine Says He's God | Free Book</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/trailblaze-your-way-to-success-insights-on-youtube-metrics-with-social-blade/"><u>Trailblaze Your Way to Success Insights on YouTube Metrics with Social Blade</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-your-consoles-potential-with-these-wi-fi-tips/"><u>Unlock Your Console's Potential with These Wi-Fi Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721451904807-unveiling-the-must-have-features-in-ios-153-why-upgrading-is-imperative-right-now/"><u>Unveiling the Must-Have Features in iOS 15.3: Why Upgrading Is Imperative Right Now</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-cutting-edge-of-photography-iphone-cropping-tips/"><u>[New] 2024 Approved The Cutting Edge of Photography IPhone Cropping Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-interactive-media-adding-audio-to-visual-narratives-for-2024/"><u>[Updated] Interactive Media Adding Audio to Visual Narratives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ground-rules-to-learn-langchain-llms/"><u>Ground Rules to Learn LangChain LLMs</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonious-hearing-balancing-game-and-home-sounds-on-xbox/"><u>Harmonious Hearing: Balancing Game and Home Sounds on Xbox</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-asus-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Asus Unlock Without Password</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instagram-success-secrets-8-steps-to-becoming-a-top-poster-for-2024/"><u>Instagram Success Secrets 8 Steps to Becoming a Top Poster for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps3-gaming-30-essential-pc-emulators/"><u>Mastering PS3 Gaming: 30 Essential PC Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-game-reviewing-in-the-steam-world/"><u>Mastering the Art of Game Reviewing in the Steam World</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavis-kostenloze-online-tool-herleiden-dpx-bestanden-in-gratis-png-format-efficient-en-gemakkelijk/"><u>Movavi's Kostenloze Online Tool: Herleiden DPX-Bestanden in Gratis PNG-Format Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://games-able.techidaily.com/murder-mysteries-in-cyberspace-with-ai-assistance/"><u>Murder Mysteries in Cyberspace with AI Assistance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-email-no-phone-heres-how-you-can-get-back-into-facebook/"><u>No Email? No Phone? Here's How You Can Get Back Into Facebook!</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-visuals-with-xboxs-calibration-utility/"><u>Optimizing Visuals with Xbox's Calibration Utility</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-gaming-secrets-scoring-the-best-apple-arcade-offerings/"><u>Pro Gaming Secrets: Scoring the Best Apple Arcade Offerings</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-display-needs-skip-the-hdr-route/"><u>Understanding Display Needs: Skip the HDR Route</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Block or Unblock: Handle Twitch Conversations Smartly"
-date: 2024-07-29T05:56:21.446Z
-updated: 2024-07-30T05:56:21.446Z
+date: 2025-02-06T16:24:29.700Z
+updated: 2025-02-11T19:36:25.656Z
 tags:
   - games
 categories:
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 
 Here's how to block or unblock someone on Twitch...
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## How to Block Someone on Twitch
 
  Twitch has become a major player in the video game world and has attracted a wide range of different people as a result. Hopefully, the majority of the people you'll meet will be friendly, but there will always be the odd troll here and there.
@@ -38,9 +34,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you're okay with this, click**Block** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The block confirmation screen on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-confirmation.png)
 
  Twitch won't retroactively scrub away the person's messages, so if they said something particularly nasty, refresh the page to clear the chat and get rid of their comments.
@@ -56,32 +49,39 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If you know what the user's exact name is, you can**type /unblock \[username\]** to bring them back. However, if you can't remember their name, you'll need to do some extra work.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Unblock People on Twitch Using Settings
 
  To unblock someone on Twitch on your PC, do the following. First, click on your profile at the top right, then click**Settings** .
 
 ![twitch settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-menu.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on the**Security and Privacy** tab at the top. Next, scroll down to the**Privacy** section, then find the**Blocked Users** section.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![twitch settings show blocked users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-show-blocked-users.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**Show Blocked Users** . Twitch will then load a list of everyone you've blocked and the date that you blocked them.
 
 ![Viewing blocked users on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/blocked-users-twitch.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the**Unblock** button adjacent to the user you'd like to unblock.
 
  Twitch will save the changes immediately and remove the user from your block list.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unblock People on the Twitch App
 
  If you're using an Android phone, you'll quickly discover that unblocking someone via the official Android app can be a huge pain. This is because, weirdly enough, the Android app is missing a feature that the iOS version has.
@@ -96,16 +96,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Then, tap on**Settings** , then**Security & Privacy** .
 3. Scroll down to the bottom of this page to see your blocked users. You can then remove a user from your blocked list by tapping**Unblock** at the right-hand side of the user's name if you want to be able to receive messages from them again.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Twitch Account view page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-twitch-profile-view-ios.jpg)
 
 ![Twitch Settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-twitch-settings-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
 
 Close
@@ -122,14 +120,11 @@ Close
 
  If someone is getting on your nerves, you can quickly and easily block them on Twitch. If you decide to unblock them later on, it's easy and quick to do—as long as you're not on Android.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +133,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-optimized-approach-to-delete-unwanted-youtube-posts/"><u>[New] In 2024, Optimized Approach to Delete Unwanted YouTube Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-skypes-premier-audio-capture-solutions/"><u>[New] In 2024, Skype's Premier Audio Capture Solutions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-diy-tips-for-affordable-youtube-introend-videos-for-2024/"><u>[Updated] DIY Tips for Affordable YouTube Intro/End Videos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/an-intro-to-shap-e-how-does-it-work-for-interpreting-machine-learning-models/"><u>An Intro to Shap-E: How Does It Work for Interpreting Machine Learning Models?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y56-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y56 5G Lock Screen Password</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-instagram-video-sharing-tips/"><u>In 2024, Instagram Video Sharing Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-melody-management-and-legalities-on-social-media/"><u>In 2024, Melody Management and Legalities on Social Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/muting-game-sounds-a-comprehensive-guide-to-noise-reduction/"><u>Muting Game Sounds: A Comprehensive Guide to Noise Reduction</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-linux-playtime-top-7-terminal-games/"><u>Step Up Your Linux Playtime: Top 7 Terminal Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-xbox-series-xs-controller-dismantling-guide/"><u>Step-by-Step Xbox Series X/S Controller Dismantling Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-simulate-steam-disconnection/"><u>Strategies to Simulate Steam Disconnection</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-dirt-free-diary-weekly-console-care-routines/"><u>The Dirt-Free Diary: Weekly Console Care Routines</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-potential-a-compreenas-five-tips-for-customizing-your-xbox-game-bar-experience/"><u>Unlock Potential: A Compreenas Five Tips for Customizing Your Xbox Game Bar Experience</u></a></li>
+</ul></div>
 

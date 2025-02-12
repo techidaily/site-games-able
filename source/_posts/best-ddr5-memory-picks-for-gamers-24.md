@@ -1,7 +1,7 @@
 ---
 title: Best DDR5 Memory Picks for Gamers - '24
-date: 2024-08-08T09:06:43.709Z
-updated: 2024-08-09T09:06:43.709Z
+date: 2025-02-10T16:58:09.994Z
+updated: 2025-02-11T18:48:31.745Z
 tags:
   - games
 categories:
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  DDR5 modules are now more affordable than ever, making it the right time to upgrade to the newer DDR5 memory and enjoy even better performance than the [fastest DDR4 RAM](https://www.makeuseof.com/tag/best-ddr4-ram/) . We've rounded up the best DDR5 motherboards to take the new chips for a spin.
 
 * [](https://www.amazon.com/ASUS-ROG-Z790-Motherboard-ThunderboltTM/dp/B0BG6M53DG?linkCode=ll1&tag=makeusw-20&linkId=ab2f408f2d7ce1b52f92e6bb5e42ae07&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![ASUS ROG Maximus Z790 Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-maximus-z790-hero.png)  
 
 ##### ASUS ROG Maximus Z790 Hero  
@@ -44,9 +41,6 @@ Best for Gaming
 [$635 at Amazon](https://www.amazon.com/ASUS-ROG-X670E-Motherboard-Front-Panel/dp/B0BDTN8SNJ?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)
 
 * [](https://www.amazon.com/MSI-Z790I-Motherboard-Supports-Processors/dp/B0BHCJ6KQ2?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![MSI MPG Z790I Edge WiFi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-mpg-z790i-edge-wifi.png)  
 
 ##### MSI MPG Z790I Edge Wi-Fi  
@@ -55,9 +49,6 @@ Best for Compact Builds
 [$187 at Amazon](https://www.amazon.com/MSI-Z790I-Motherboard-Supports-Processors/dp/B0BHCJ6KQ2?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)
 
 * [](https://www.amazon.com/GIGABYTE-B650M-Micro-ATX-Warranty-Motherboard/dp/B0BH6XND27?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GIGABYTE B650M AORUS Elite AX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/gigabyte-b650m-aorus-elite-ax.png)  
 
 ##### GIGABYTE B650M AORUS Elite AX  
@@ -65,9 +56,6 @@ Best for Compact Builds
 Best Micro-ATX  
 [$180 at Amazon](https://www.amazon.com/GIGABYTE-B650M-Micro-ATX-Warranty-Motherboard/dp/B0BH6XND27?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Best DDR5 Motherboard Overall: ASUS ROG Maximus Z790 Hero
 
 ![The ASUS ROG Maximus Z790 Hero motherboard on a blue background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-maximus-z790-hero.jpg)
@@ -81,6 +69,10 @@ _ASUS_
  The rest of the motherboard is nothing short of impressive. It features two PCIe 5.0 x16 slots with x8/x8 capability, futureproof PCIe 5.0 and PCIe 4.0 M.2 NVMe slots, Wi-Fi 6E, RGB, and 2.5G Ethernet. In addition, you get plenty of tools for troubleshooting, including a 7-segment display, a BIOS FlashBack button, and an onboard power button.
 
 ![ASUS ROG Maximus Z790 Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-maximus-z790-hero.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### ASUS ROG Maximus Z790 Hero
 
@@ -105,9 +97,6 @@ Best Overall
 
 ## Best Budget DDR5 Motherboard: MSI B760 Gaming Plus Wi-Fi
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The MSI B760 Gaming Plus Wi-Fi motherboard on a green background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-b760-gaming-plus-wi-fi.jpg)
 
 _MSI_
@@ -141,9 +130,6 @@ Best Budget
 
 ## Best DDR5 Motherboard for Gaming: ASUS ROG Crosshair X670E Hero
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The ASUS ROG Crosshair X670E Hero motherboard on a red background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-crosshair-x670e-hero.jpg)
 
 _ASUS_
@@ -155,6 +141,10 @@ _ASUS_
  The rear IO is just as impressive, with eight 10Gbps USB-A ports, two 40Gbps USB4 ports, an additional 20Gbps USB-C port, 2.5G Ethernet, optical audio output, and HDMI 2.1 for integrated RDNA2 graphics on the Ryzen 7000 Series CPUs. It's an excellent motherboard for overclockers, and the presence of onboard power and reset buttons, a BIOS flashback, and a 7-segment display make it ideal for extreme tweaks.
 
 ![ASUS ROG Crosshair X670E Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-crosshair-x670e-hero.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### ASUS ROG Crosshair X670E Hero
 
@@ -175,14 +165,8 @@ Best for Gaming
 
 [$635 at Amazon](https://www.amazon.com/ASUS-ROG-X670E-Motherboard-Front-Panel/dp/B0BDTN8SNJ?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-crosshair-x670e-hero-usb-c-gen2-amd-motherboard-with-led-lighting%2F6523724.p%3FskuId%3D6523724) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fasus-rog-crosshair-x670e-hero%2Fp%2FN82E16813119582)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Best Mini-ITX DDR5 Motherboard: MSI MPG Z790I Edge Wi-Fi
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![The MSI MPG Z790I Edge WiFi motherboard on a gray background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-mpg-z790i-edge-wifi.jpg)
 
 _MSI_
@@ -191,10 +175,11 @@ _MSI_
 
  If you're leaning towards AMD for your compact build, the [ASUS ROG STRIX X670E-I](https://www.amazon.com/ASUS-STRIX-X670E-I-GAMING-WIFI/dp/B0BDTVCJF8?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) is an excellent alternative, but it costs more than the MPG Z790I Edge Wi-Fi while offering the same 105A VRMs and many of the same features. From a budget perspective, the MPG Z790I Edge Wi-Fi is a much better value than other AMD and Intel mini-ITX offerings. Pairing it with a [powerful AIO cooler](https://www.makeuseof.com/best-aio-coolers/) can reduce overheating issues when running demanding workloads.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![MSI MPG Z790I Edge WiFi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-mpg-z790i-edge-wifi.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### MSI MPG Z790I Edge Wi-Fi
 
@@ -218,8 +203,9 @@ Best for Compact Builds
 [$187 at Amazon](https://www.amazon.com/MSI-Z790I-Motherboard-Supports-Processors/dp/B0BHCJ6KQ2?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-mpg-z790i-edge-wifi-ddr5-socket-1700-usb-3-2-intel-motherboard%2F6543600.p) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fp%2FN82E16813144566%3FItem%3DN82E16813144566%26SoldByNewegg%3D1)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Best Micro-ATX DDR5 Motherboard: GIGABYTE B650M AORUS Elite AX
 
 ![The GIGABYTE B650M AORUS Elite AX motherboard on a purple background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/gigabyte-b650m-aorus-elite-ax.jpg)
@@ -231,6 +217,10 @@ _GIGABYTE_
  The B650M AORUS Elite AX is affordable, works with the latest AM5 processors out of the box, and even supports DDR5 memory overclocking. While the 60A power stages might struggle with high-end CPUs, it's not really a dealbreaker since mid-range AMD CPUs like the [Ryzen 5 7600X](https://www.amazon.com/AMD-7600X-12-Thread-Unlocked-Processor/dp/B0BBJDS62N?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) pack enough power for competitive gaming and everyday productivity tasks.
 
 ![GIGABYTE B650M AORUS Elite AX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/gigabyte-b650m-aorus-elite-ax.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### GIGABYTE B650M AORUS Elite AX
 
@@ -254,9 +244,14 @@ Best Micro-ATX
 [$180 at Amazon](https://www.amazon.com/GIGABYTE-B650M-Micro-ATX-Warranty-Motherboard/dp/B0BH6XND27?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fgigabyte-b650m-aorus-elite-ax%2Fp%2FN82E16813145413) [See at B&H](https://www.bhphotovideo.com/c/product/1736694-REG/gigabyte%5Fb650m%5Faorus%5Felite%5Fax.html/BI/21349/KBID/23476/SID/UUmuoUeUpU2018693)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: How much faster is DDR5 RAM over DDR4 RAM?
 
@@ -276,8 +271,6 @@ Best Micro-ATX
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,6 +278,19 @@ Best Micro-ATX
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-uncover-the-best-12-flipscreen-vlogging-cameras-on-a-budget/"><u>[New] 2024 Approved Uncover the Best 12 Flipscreen Vlogging Cameras on a Budget</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-template-transformations-build-unique-logos-for-pennies/"><u>[New] In 2024, Template Transformations Build Unique Logos for Pennies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tarting-a-successful-vlog-and-earning-potential-for-2024/"><u>[New] Starting a Successful Vlog and Earning Potential for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-choosing-between-vlc-and-mpc-for-free-video-viewing/"><u>[Updated] Choosing Between VLC and MPC for Free Video Viewing</u></a></li>
+<li><a href="https://games-able.techidaily.com/13-fun-games-to-improve-your-creative-design-skills/"><u>13 Fun Games to Improve Your Creative Design Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-ergonomic-designs-for-extended-play-sessions/"><u>Affordable Ergonomic Designs for Extended Play Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-retro-replaying-classic-pokemon-adventures/"><u>Android Retro: Replaying Classic Pokemon Adventures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-productivity-4-applications-for-saving-and-sharing-your-chatgpt-conversations/"><u>Boost Productivity: 4 Applications for Saving and Sharing Your ChatGPT Conversations</u></a></li>
+<li><a href="https://facebook.techidaily.com/england-athletics-endorses-digital-detox-movement/"><u>England Athletics Endorses Digital Detox Movement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-the-stardew-valley-startup-issue/"><u>Resolved: Overcoming the Stardew Valley Startup Issue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/speech-to-text-magic-free-edition/"><u>Speech-to-Text Magic Free Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166103892-top-4-ios-emulators-bring-classic-gbadvance-games-alive/"><u>Top 4 iOS Emulators: Bring Classic GBAdvance Games Alive</u></a></li>
+</ul></div>
 

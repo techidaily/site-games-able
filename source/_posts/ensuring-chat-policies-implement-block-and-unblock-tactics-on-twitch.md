@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Chat Policies: Implement Block & Unblock Tactics on Twitch"
-date: 2025-01-14T19:12:16.723Z
-updated: 2025-01-16T20:04:15.873Z
+date: 2025-02-08T18:19:44.136Z
+updated: 2025-02-11T16:18:40.560Z
 tags:
   - games
 categories:
@@ -35,23 +35,19 @@ Here's how to block or unblock someone on Twitch...
 
 ![Blocking someone on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-dots.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Twitch will quickly remind you what a blocked person can and cannot do. In short, once you block someone, they can't whisper you, host you, add you as a friend, or gift[Twitch subscriptions](https://www.makeuseof.com/tag/twitch-complete-guide-buying-subscriptions/) to your channel.
 
  If you're okay with this, click**Block** .
 
 ![The block confirmation screen on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-confirmation.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Twitch won't retroactively scrub away the person's messages, so if they said something particularly nasty, refresh the page to clear the chat and get rid of their comments.
 
  Alternatively, you can type**/block \[username\]** into the chat to get rid of them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Unblock People on Twitch: The Easiest Way
 
@@ -61,11 +57,19 @@ Here's how to block or unblock someone on Twitch...
 
  If you know what the user's exact name is, you can**type /unblock \[username\]** to bring them back. However, if you can't remember their name, you'll need to do some extra work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Unblock People on Twitch Using Settings
 
  To unblock someone on Twitch on your PC, do the following. First, click on your profile at the top right, then click**Settings** .
 
 ![twitch settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-menu.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on the**Security and Privacy** tab at the top. Next, scroll down to the**Privacy** section, then find the**Blocked Users** section.
 
@@ -85,10 +89,6 @@ Here's how to block or unblock someone on Twitch...
 
  Here are the best ways to unblock people on Twitch on iOS and Android...
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Unblock People on iOS
 
  If you do use iOS, you're in luck. Here's how you can unblock someone:
@@ -99,15 +99,19 @@ Here's how to block or unblock someone on Twitch...
 
 ![Twitch Account view page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-twitch-profile-view-ios.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Twitch Settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-twitch-settings-ios.jpg)
 
 ![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ### How to Unblock People on Android
 
@@ -116,10 +120,6 @@ Close
  As such, a quick and hassle-free way to unblock someone on Android is by using Twitch's desktop site on your device. Just head over to Twitch and load the desktop version of the site (here's a guide on how you can[view the desktop version of any site](https://www.makeuseof.com/how-to-view-desktop-version-of-any-site-on-mobile/) ). After that, follow the steps above for unblocking Twitch users via Settings.
 
  If you don't want to use this method, we'd recommend logging into your Twitch account on PC to manage your blocked users list instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Managing People Better on Twitch
 
@@ -140,17 +140,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-future-of-fb-ads-predictions/"><u>[New] 2024 Approved Future of FB Ads Predictions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-complete-guide-to-masterful-lunapic-photography/"><u>[New] In 2024, The Complete Guide to Masterful LunaPic Photography</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/echoing-evolution-voices-in-free-fire/"><u>Echoing Evolution Voices in Free Fire</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-tech-displays-at-ifa-event/"><u>Exclusive Tech Displays at IFA Event</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-pass-generally-fantastic-except/"><u>Google Play Pass: Generally Fantastic Except...</u></a></li>
-<li><a href="https://games-able.techidaily.com/hrtfs-role-in-valorant-is-it-beneficial/"><u>HRTF's Role in Valorant - Is It Beneficial?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-head-to-head-showdown-final-cut-pro-or-lumafusion-for-video-editing/"><u>New In 2024, Head-to-Head Showdown Final Cut Pro or LumaFusion for Video Editing?</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-browsing-beyond-the-obvious-access-points/"><u>Ps5 Browsing: Beyond the Obvious Access Points</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-when-your-hp-screen-goes-black/"><u>Solution Found: When Your HP Screen Goes Black</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-game-library-with-efficient-disk-management/"><u>Streamline Your Game Library with Efficient Disk Management</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/troubleshooting-steps-for-lost-ark-connection-issues-resolving-server-related-errors/"><u>Troubleshooting Steps for 'Lost Ark' Connection Issues: Resolving Server-Related Errors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-conquering-content-diversity-with-verticalized-h-video-posts/"><u>[New] 2024 Approved Conquering Content Diversity with Verticalized H-Video Posts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-boosting-gopro-power-endurance-tips-and-tricks/"><u>[New] In 2024, Boosting GoPro Power Endurance Tips & Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-sound-windows-10-recorder-tips/"><u>[New] Mastering Sound Windows 10 Recorder Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-vlogs-to-viral-jake-pauls-online-empire-expansion-for-2024/"><u>[Updated] From Vlogs to Viral Jake Paul’s Online Empire Expansion for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2-top-dvd-ripping-software-review-explore-the-power-of-winx-dvd-ripper-platinum-for-quick-mp4-h2-64hevc-conversions/"><u>2. Top DVD Ripping Software Review: Explore the Power of WinX DVD Ripper Platinum for Quick MP4 (H.2 64/HEVC) Conversions!</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-your-favorite-gaming-buddy-for-rpi-batocera-or-retropie/"><u>Deciding Your Favorite Gaming Buddy for RPi: Batocera or RetroPie?</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-settings-for-a-perfect-typing-experience-on-steam-deck/"><u>Fine-Tuning Settings for a Perfect Typing Experience on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-the-best-way-ultrawide-monitors-at-144hz/"><u>Game the Best Way: Ultrawide Monitors at 144Hz</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-k11x-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo K11x Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/pretend-promo-reality-check-in-the-gaming-sphere/"><u>Pretend Promo Reality Check in the Gaming Sphere</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unlikely-future-of-gamefi-among-serious-gamers/"><u>The Unlikely Future of GameFi Among Serious Gamers</u></a></li>
 </ul></div>
 

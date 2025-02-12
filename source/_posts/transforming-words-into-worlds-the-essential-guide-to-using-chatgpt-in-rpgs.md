@@ -1,7 +1,7 @@
 ---
 title: "Transforming Words Into Worlds: The Essential Guide to Using ChatGPT in RPGs"
-date: 2025-01-11T17:00:49.884Z
-updated: 2025-01-16T17:00:20.498Z
+date: 2025-02-10T16:51:09.214Z
+updated: 2025-02-11T17:56:43.016Z
 tags:
   - games
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can see, this is more compact and easier to look at than the default look.
 
 > 6\. The ‘Description’ must stay between 3 to 10 sentences.
@@ -72,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 > 10\. Change the ‘Weather’ to reflect ‘Description’ and whatever environment the player is in the game.
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
 
@@ -118,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Craft the Story, Setting, and NPCs
@@ -141,7 +137,15 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
 
@@ -169,6 +173,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -186,10 +194,6 @@ And finally, don’t forget to actually start the game:
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
@@ -293,10 +297,6 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -318,21 +318,22 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-compact-content-leading-5-services-to-compress-video-urls-for-2024/"><u>[Updated] Compact Content Leading 5 Services to Compress Video URLs for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-time-saving-hacks-for-recording-instagram-stories/"><u>[Updated] In 2024, Time-Saving Hacks for Recording Instagram Stories</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-explore-the-finest-moba-games-for-android/"><u>2024 Approved Explore the Finest MOBA Games for Android</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/cut-the-hassle-with-macos-easy-to-follow-video-size-adjustment-for-instagram/"><u>Cut the Hassle with MacOS Easy-to-Follow Video Size Adjustment for Instagram</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discerning-disk-differences-c-vs-d-drive/"><u>Discerning Disk Differences: C: Vs D: Drive</u></a></li>
-<li><a href="https://games-able.techidaily.com/fix-freezing-games-on-chrome-easy-steps-ahead/"><u>Fix Freezing Games on Chrome - Easy Steps Ahead</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-optimize-your-gaming-with-steam-big-picture/"><u>How to Optimize Your Gaming With Steam Big Picture</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-broken-headphone-port-on-your-computer-or-laptop/"><u>How to Repair a Broken Headphone Port on Your Computer or Laptop</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovos-u310-hassle-free-driver-updates/"><u>Lenovo's U310: Hassle-Free Driver Updates</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-uploading-movie-maker-videos-on-vimeo-for-2024/"><u>Mastering Uploading Movie Maker Videos on Vimeo for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-riots-name-and-slogan-alteration-process/"><u>Navigating Riot's Name & Slogan Alteration Process</u></a></li>
-<li><a href="https://games-able.techidaily.com/overclocked-obsession-a-cautionary-tale/"><u>Overclocked Obsession: A Cautionary Tale</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-ps5-to-pc-gaming-with-simple-steps-and-tips/"><u>Streamlining PS5 to PC Gaming with Simple Steps and Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-to-immersive-playnite-on-tv-with-fs-mode/"><u>Switch to Immersive Playnite on TV with FS Mode</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-list-of-the-best-console-games-for-macs/"><u>The Essential List of the Best Console Games for Macs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-halo-infinitys-data-center-connectivity-error/"><u>Troubleshooting Guide for Halo Infinity’s Data Center Connectivity Error</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-fresh-content-massive-traction-secrets-to-a-thriving-insta-account/"><u>[New] Fresh Content, Massive Traction Secrets to a Thriving Insta Account</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-understanding-user-psychology-in-youtube-shorts-template-design/"><u>2024 Approved Understanding User Psychology in YouTube Shorts Template Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-price-tag-on-sonys-playstation-plus/"><u>Dissecting the Price Tag on Sony’s PlayStation Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-and-conquer-a-list-of-top-10-free-online-shooters-for-browsers/"><u>Engage and Conquer: A List of Top 10 Free Online Shooters for Browsers</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/erreur-de-mis-a-jour-windows-reservation-despace-supplementaire-necessaire-pour-6-correctifs/"><u>Erreur De Mis À Jour Windows : Réservation D'espace Supplémentaire Nécessaire Pour 6 Correctifs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-picks-laptops-that-transform-raw-footage/"><u>Expert Picks Laptops That Transform Raw Footage</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-common-ground-in-minecraft-bedrock-java-interoperability-via-geysermc/"><u>Finding Common Ground in Minecraft: Bedrock-Java Interoperability via GeyserMC</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-mouse-dpi-for-competitive-first-person-shooters/"><u>Ideal Mouse DPI For Competitive First-Person Shooters</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-inside-track-to-optimizing-adobe-and-selective-non-adobe-solutions/"><u>In 2024, Inside Track to Optimizing Adobe and Selective Non-Adobe Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-secrets-in-xbox-series-xs-games/"><u>Keeping Secrets in Xbox Series X|S Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/manage-your-gaming-screenshots-like-a-pro/"><u>Manage Your Gaming Screenshots Like a Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-2023s-bargain-for-aspiring-drivers/"><u>MOZA R5: 2023'S Bargain for Aspiring Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simplifying-webinars-mastering-your-zoom-presentations-with-obs-a-step-by-step-guide/"><u>Simplifying Webinars: Mastering Your Zoom Presentations with Obs - A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-pads-for-extensive-gaming-sessions/"><u>Top Pads for Extensive Gaming Sessions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/k-the-youtube-algorithm-maximizing-viewership-with-strategic-featured-listings/"><u>Unlock the Youtube Algorithm Maximizing Viewership with Strategic Featured Listings</u></a></li>
 </ul></div>
 

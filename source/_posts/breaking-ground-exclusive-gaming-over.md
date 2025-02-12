@@ -1,7 +1,7 @@
 ---
 title: "Breaking Ground: Exclusive Gaming Over"
-date: 2024-07-29T05:55:02.370Z
-updated: 2024-07-30T05:55:02.370Z
+date: 2025-02-04T20:55:43.895Z
+updated: 2025-02-11T20:24:16.686Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 ## Breaking Ground: Exclusive Gaming Over
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [A Brief History of Platform Exclusivity](#a-brief-history-of-platform-exclusivity)
@@ -25,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 * [Why I'm Glad Platform Exclusives Are No More](#why-i-39-m-glad-platform-exclusives-are-no-more)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Platform-exclusive games are on the decline, with Microsoft's move to make some Xbox exclusives available on other platforms the opening salvo.
@@ -41,16 +39,21 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Console exclusives started in the 1980s, with Atari securing exclusive home console rights to popular arcade games such as Space Invaders and Pac-Man. At this point, the idea was to persuade regular arcade-goers to buy a home console in order to play their favorite titles from the comfort of their sofa and without having to feed a machine with endless quarters. Ironically, you can now buy[arcade machines designed for your home](https://www.makeuseof.com/best-home-arcade-machines/) .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Giuseppe Cammino/[Shutterstock](https://www.shutterstock.com/image-photo/joystick-vintage-arcade-videogame-coinop-1089499448)
 
  In the late 80s and early 90s, this platform exclusivity formed around two now-iconic characters: Sonic and Mario. Nintendo and Mario were well-established, but then Sega and Sonic entered the scene. And if you wanted to play the Sonic games, you needed to own a Sega system. And millions duly bought Sega's consoles as a result.
 
  Once we entered the PlayStation/Xbox era, platform exclusivity became an even bigger part of the story. Both Sony and Microsoft created original IP designed to shift units, as well as paying third-party developers and publishers large amounts of money to secure timed exclusives. And that battle of the exclusives (of all kinds) has persisted ever since.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Platform Exclusives Are Coming to an End
 
@@ -69,14 +72,11 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Platform Exclusives Are Going Away
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
@@ -91,13 +91,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why I'm Glad Platform Exclusives Are No More
 
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
@@ -106,14 +107,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The practice of making some games exclusive to one platform is anti-consumer, as it forces gamers to buy multiple consoles to play specific games. And while I can see why it has been standard practice for decades as manufacturers sought to make sure their platform was the essential one, it's about time we opened gaming up to be more inclusive. And this could start by switching to platform agnosticism.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +120,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-break-down-barriers-with-cost-free-vob-player/"><u>[Updated] 2024 Approved Break Down Barriers with Cost-Free VOB Player</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-eye-catching-youtube-most-followed-channels/"><u>[Updated] Eye-Catching YouTube Most Followed Channels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieve-professionalism-and-concealment-a-guide-to-setting-up-a-blurred-video-call-environment-on-skype/"><u>Achieve Professionalism and Concealment: A Guide to Setting Up a Blurred Video Call Environment on Skype</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/aiff-to-flac-konvertierung-kostenlos-movavi-schnell-und-effizient/"><u>Aiff-to-Flac Konvertierung Kostenlos - Movavi: Schnell Und Effizient</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-whitescale-gadgets-to-power-your-system/"><u>Budget Whitescale Gadgets to Power Your System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-facil-y-gratuita-de-raw-a-formato-bmp-online-descubra-el-poderoso-servicio-de-movavi/"><u>Conversión Fácil Y Gratuita De RAW a Formato BMP Online: Descubra El Poderoso Servicio De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-eliminating-the-fifa-21-crashing-issues-on-desktop-computers/"><u>Expert Advice: Eliminating the FIFA 21 Crashing Issues on Desktop Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-old-school-gaming-how-to-emulate-dreamcast-titles-android-style/"><u>Explore Old-School Gaming: How to Emulate Dreamcast Titles, Android Style</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-nvidias-ai-enhanced-dlss-35/"><u>Exploring Nvidia's AI-Enhanced DLSS 3.5</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1728461961238-hdd/"><u>HDDから仮想機械へのデータコピーと再活性化手順</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-not-using-microphones-boosts-ps5-security/"><u>How Not Using Microphones Boosts PS5 Security</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-a14-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy A14 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-creative-with-these-top-rated-video-dubbing-apps/"><u>New In 2024, Get Creative with These Top-Rated Video Dubbing Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-installation-issues-in-windows-11/"><u>Troubleshooting Steam Installation Issues in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-xbox-360-slim-assembly/"><u>Unraveling the Xbox 360 Slim Assembly</u></a></li>
+</ul></div>
 

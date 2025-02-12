@@ -1,7 +1,7 @@
 ---
 title: "Sustaining Power: Tips for Prolonged Xbox Joystick Use"
-date: 2025-01-14T19:41:49.394Z
-updated: 2025-01-16T19:57:44.420Z
+date: 2025-02-09T18:33:55.676Z
+updated: 2025-02-12T00:13:05.592Z
 tags:
   - games
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn Off Controller Vibration for Your Xbox Wireless Controller
 
  One of the main drainers on your Xbox Wireless Controller's battery life is its rumble and vibration features. While vibration may enhance your experience in-game, it takes up a lot of energy. Luckily, through your Xbox One or Xbox Series X|S console, you can disable vibrations and save energy.
@@ -33,25 +37,29 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 ![A screenshot of the Apps selection screen on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3147.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Find your**Xbox Wireless Controller** , and select**Configure** .
 
 ![A screenshot of the Xbox Accessories application with the option to Configure an Xbox controller highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3150.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Select**Edit** .
 * Ensure**Turn on vibration** is deselected.
 
 ![A screenshot of the customization options for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3153.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And with**Turn on vibration** no longer checked off as an in-use option for your Xbox controller, you should never experience controller vibration from that specific controller unless you re-enable the setting.
 
  However, if you want to disable vibration to preserve energy for specific games, you are best utilizing the in-game settings for the game in question to see if you can turn off vibration. This way, you can cater your gaming experience in individual Xbox titles to your preference while conserving your controller's battery.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Take Advantage of Xbox Wireless Controller Accessories
 
@@ -60,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
  One of these accessories is the official Xbox Rechargeable Battery and USB Cable pack. This accessory will provide you with around 30 hours of usability before it needs recharging. But as long as you adapt to regularly charging your controller, you can help to guarantee your controller's battery life.
 
 ![A promotional image of the official Xbox Rechargeable Battery Pack and USB Cable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/af7467b7-cdf8-437e-9f11-e2ffda640628.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit:[Xbox](https://www.xbox.com/en-us/accessories/batteries-chargers/play-and-charge-kit)
 
@@ -85,11 +89,11 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
 ![A screenshot of option to Turn Off Controller on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3156.jpg)
 
- And with that, you can guarantee that your controller won't be wasting any of your leftover battery life. While this may seem like a small method, when combined with methods like[adjusting the brightness of the Xbox button on your controller](https://www.makeuseof.com/how-to-adjust-brightness-of-xbox-controller-and-console-light/#:~:text=Navigate%20to%20the%20Profile%20%26%20system,the%20settings%20for%20controller%20brightness.) or disabling vibrations, you may see a substantial difference in battery life.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ And with that, you can guarantee that your controller won't be wasting any of your leftover battery life. While this may seem like a small method, when combined with methods like[adjusting the brightness of the Xbox button on your controller](https://www.makeuseof.com/how-to-adjust-brightness-of-xbox-controller-and-console-light/#:~:text=Navigate%20to%20the%20Profile%20%26%20system,the%20settings%20for%20controller%20brightness.) or disabling vibrations, you may see a substantial difference in battery life.
 
 ## 4\. Use a Wired Connection for Your Xbox Wireless Controller
 
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 * For any Xbox Wireless Controller that features the Share button at the center of the controller, connect your controller via a USB-C cable.
 
 ![A photograph of a white Xbox Wireless Controller for Xbox Series X and S](https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d961f8420245056a49851ba62.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * For any Xbox One Controller, or an Xbox Wireless Controller that doesn't feature the Share button, connect your controller via a Micro-USB cable.
 
@@ -132,22 +132,19 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-no-pay-necessary-the-art-of-unpaid-football-editing/"><u>[New] No Pay Necessary The Art of Unpaid Football Editing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-streamlining-spotify-listening-with-secure-speed-techniques/"><u>[New] Streamlining Spotify Listening with Secure Speed Techniques</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-deciphering-the-meanings-behind-facebooks-status-symbols-a-closer-look-at-the-blues-for-2024/"><u>[Updated] Deciphering the Meanings Behind Facebook's Status Symbols A Closer Look at the Blues for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-elite-webinar-software-showcase/"><u>[Updated] In 2024, Elite Webinar Software Showcase</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-techniques-for-vimeo-video-insertion-into-corporate-presentations/"><u>[Updated] Techniques for Vimeo Video Insertion Into Corporate Presentations</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhance-your-content-filmmaking-for-youtube-trailers-with-filmora/"><u>2024 Approved Enhance Your Content Filmmaking for YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-k11-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from K11 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-idle-label-is-it-a-genuine-indication/"><u>Delving Into 'Idle' Label: Is It a Genuine Indication?</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-steps-reconnecting-non-joy-con-in-nintendo-switch/"><u>Effective Steps: Reconnecting Non-Joy-Con in Nintendo Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminate-game-sounds-quiet-console-play/"><u>Eliminate Game Sounds: Quiet Console Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-cash-flow-for-steam-gaming-purchases/"><u>Optimizing Cash Flow for Steam Gaming Purchases</u></a></li>
-<li><a href="https://games-able.techidaily.com/preventing-steam-from-starting-at-boot/"><u>Preventing Steam From Starting at Boot</u></a></li>
-<li><a href="https://fox-http.techidaily.com/red-eye-remover-how-to-remove-red-eye-from-photos-on-iphone-free-for-2024/"><u>Red Eye Remover| How to Remove Red Eye From Photos on iPhone [Free] for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/region-rotation-changing-timezone-on-xbox-series/"><u>Region Rotation: Changing Timezone on Xbox Series</u></a></li>
-<li><a href="https://games-able.techidaily.com/shooters-paradise-the-ultimate-list-of-free-online-fps-browser-gaming/"><u>Shooter's Paradise: The Ultimate List of Free Online FPS Browser Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-game-of-life-taking-breaks-not-breaks/"><u>The Game of Life: Taking Breaks, Not Breaks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unveiling-the-new-age-of-virtual-reality/"><u>Unveiling the New Age of Virtual Reality</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-simplified-guide-to-iphone-screen-adjustment-for-2024/"><u>[New] Simplified Guide to iPhone Screen Adjustment for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-discord-live-broadcasts/"><u>[New] The Ultimate Guide to Discord Live Broadcasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10plus-best-online-screen-recorders-for-2024/"><u>[New] Top 10+ Best Online Screen Recorders for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-breaking-into-livestrances-a-gamers-guide-to-youtube-success/"><u>[Updated] Breaking Into Livestrances A Gamers' Guide to YouTube Success</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-masterclass-in-15-high-impact-youtube-startups-for-2024/"><u>[Updated] Masterclass in 15 High-Impact YouTube Startups for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-steam-statistics-assessing-gameplay-performance/"><u>Decoding Steam Statistics: Assessing Gameplay Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-game-play-by-fixing-loading-errors-in-chrome/"><u>Enhance Game Play by Fixing Loading Errors in Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-handhraniable-titles-with-controller/"><u>Excellent Handhraniable Titles With Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-silence-turn-off-controller-shakes-xbox/"><u>Game on, Silence: Turn Off Controller Shakes Xbox</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-spark-20-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Spark 20 Data? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-top-10-heavy-lift-drones-you-should-know/"><u>In 2024, Top 10 Heavy Lift Drones You Should Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/pimaxs-clear-cut-vision-with-a-side-of-software-glitches/"><u>Pimax's Clear Cut Vision with a Side of Software Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-expertise-pinpointing-specific-players/"><u>Steam Expertise: Pinpointing Specific Players</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-xiaomi-redmi-a2plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Xiaomi Redmi A2+ ?</u></a></li>
 </ul></div>
 

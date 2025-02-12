@@ -1,7 +1,7 @@
 ---
 title: "Tailored Thermal Profile: Game-Changing Performance Upgrades"
-date: 2025-01-26T17:31:10.188Z
-updated: 2025-01-30T16:31:38.425Z
+date: 2025-02-10T21:23:31.982Z
+updated: 2025-02-11T22:46:49.638Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -51,12 +51,16 @@ Jhet Borja/MakeUseOf
 
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jhet Borja/MakeUseOf
 
  If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out[how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or[undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should Your GPU Fans Run at 100%?
@@ -65,13 +69,13 @@ Jhet Borja/MakeUseOf
 
  However, in rare cases, the motor might need replacing as well. However, a[replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
 
@@ -84,10 +88,6 @@ Jhet Borja/MakeUseOf
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Benchmark and Find Your Temperatures
 
@@ -102,10 +102,6 @@ Jhet Borja/MakeUseOf
 
 ![Manual fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/manual-fan-speed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
@@ -114,17 +110,21 @@ Jhet Borja/MakeUseOf
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
 
@@ -151,21 +151,22 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-checklist-for-adding-effective-on-screen-captions-to-your-videos/"><u>[Updated] 2024 Approved The Ultimate Checklist for Adding Effective On-Screen Captions to Your Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-secret-screengrabs-elusive-methods-for-concealed-photo-taking/"><u>[Updated] In 2024, Secret ScreenGrabs Elusive Methods for Concealed Photo-Taking</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-explore-mp4-recording-tools-today/"><u>2024 Approved Explore MP4 Recording Tools Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/advanced-power-boards-for-next-gen-ps5-accessories/"><u>Advanced Power Boards for Next Gen PS5 Accessories</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oppo-f23-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo F23 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/emulate-android-games-in-linux-system/"><u>Emulate Android Games in Linux System</u></a></li>
-<li><a href="https://games-able.techidaily.com/expedite-access-to-your-steam-collection-after-error/"><u>Expedite Access to Your Steam Collection After Error</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-privacy-voice-chats-in-xbox-sx/"><u>Maximizing Privacy: Voice Chats in Xbox S/X</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/no-need-for-indicators-assess-macbook-charging-velocity-with-ease-expert-advice-from-zdnet/"><u>No Need for Indicators? Assess MacBook Charging Velocity with Ease - Expert Advice From ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/by-step-guide-to-youtube-video-editing-mastery-for-2024/"><u>Step by Step Guide to YouTube Video Editing Mastery for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-diy-tech-help-identifying-and-solving-your-computers-hardware-problems-in-windows-advice-by-yl-software/"><u>Ultimate DIY Tech Help: Identifying and Solving Your Computer's Hardware Problems in Windows – Advice by YL Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-performance-gaming-from-logitech-mice/"><u>Ultimate Performance Gaming From Logitech Mice</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-hidden-pleasures-in-playstation-5/"><u>Unleashing Hidden Pleasures in PlayStation 5</u></a></li>
-<li><a href="https://article-helps.techidaily.com/virtual-horizons-explored-essential-vr-peripherals/"><u>Virtual Horizons Explored Essential VR Peripherals</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-you-need-to-know-about-the-new-ps5-slim-model/"><u>What You Need to Know About the New PS5 Slim Model</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-seamlessly-stream-and-save-youtube-lives-from-every-device/"><u>[New] 2024 Approved Seamlessly Stream and Save YouTube Lives From Every Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-list-of-the-best-8-sites-for-free-3d-text-psd-downloads/"><u>[New] A List of the Best 8 Sites for Free 3D Text PSD Downloads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-essential-action-cam-recommendations-for-winter-sports/"><u>[New] Essential Action Cam Recommendations for Winter Sports</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-vivacut-an-exhaustive-2024-review/"><u>[New] Mastering VivaCut An Exhaustive 2024 Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-to-mp3-converting-hacks-for-2024/"><u>[Updated] Instagram Video-to-MP3 Converting Hacks for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pivotal-movie-edits-ranked-by-professionals/"><u>2024 Approved Pivotal Movie Edits Ranked by Professionals</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-adjusting-nintendo-switch-regional-settings/"><u>Guide: Adjusting Nintendo Switch Regional Settings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-tecno-spark-20-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Tecno Spark 20</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-terminal-gaming-guide-top-7-suggestions/"><u>Linux Terminal Gaming Guide: Top 7 Suggestions</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-joy-cons-and-pro-pads-a-comprehensive-guide-to-2024/"><u>Optimal Joy-Cons & Pro Pads: A Comprehensive Guide to 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-mobile-tools-to-enhance-dji-drone-imagery-for-2024/"><u>Prime Mobile Tools to Enhance DJi Drone Imagery for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/repair-guide-reviving-your-xbox-sx/"><u>Repair Guide: Reviving Your Xbox S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-your-playstation-5-controller-with-ease/"><u>Reviving Your PlayStation 5 Controller with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-intels-hidden-issues-in-their-new-core-design/"><u>Unveiling Intel's Hidden Issues in Their New Core Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-tracking-game-cost-over-time-on-steam/"><u>Unveiling: Tracking Game Cost Over Time on Steam</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-win11s-graphic-backbone-using-acer-tools/"><u>Update Win11's Graphic Backbone Using Acer Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-favor-ioss-finest-choosing-apple-arcade/"><u>Why I Favor iOS's Finest: Choosing Apple Arcade</u></a></li>
 </ul></div>
 

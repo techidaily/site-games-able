@@ -1,7 +1,7 @@
 ---
 title: Best Storage Devices Matching PlayStation 5
-date: 2024-07-29T05:56:38.403Z
-updated: 2024-07-30T05:56:38.403Z
+date: 2025-02-08T21:01:33.040Z
+updated: 2025-02-12T00:20:25.938Z
 tags:
   - games
 categories:
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
  While the PS5 officially supports storage expansion, not all SSDs play nice with the console. These PS5-compatible SSDs offer not just expanded storage but an uncompromised gaming experience and guaranteed compatibility.
 
 * [](https://www.amazon.com/WD-BLACK-SN850X-Internal-Gaming-Heatsink-dp-B0B7CPSN2K/dp/B0B7CPSN2K?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce)  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The WD_BLACK SN850X with heatsink](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/wd_black-sn850x-with-heatsink.png)  
 _Western Digital_  
 
@@ -29,9 +26,6 @@ Best Overall
 [$117 at Amazon](https://www.amazon.com/WD-BLACK-SN850X-Internal-Gaming-Heatsink-dp-B0B7CPSN2K/dp/B0B7CPSN2K?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce)
 
 * [](https://www.amazon.com/Crucial-Plus-PCIe-NAND-5000MB/dp/B0B25NXWC7?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce)  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Crucial P3 Plus NVMe SSD 1TB](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/crucial-p3-plus-nvme-ssd-1tb.png)  
 _Crucial_  
 
@@ -50,9 +44,6 @@ Best Premium
 [$119 at Amazon](https://www.amazon.com/Electronics-Heatsink-Internal-Compatible-MZ-V8P1T0CW/dp/B09JHL33X7?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce)
 
 * [](https://www.amazon.com/Corsair-MP600-NVMe-PCIe-Gen4/dp/B0CJRN3LLX?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce)  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Corsair MP600 PRO LPX in black](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/corsair-8tb-mp600-pro-lpx.png)  
 _Corsair_  
 
@@ -62,9 +53,6 @@ Best High-Capacity
 [$980 at Amazon](https://www.amazon.com/Corsair-MP600-NVMe-PCIe-Gen4/dp/B0CJRN3LLX?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce)
 
 * [](https://www.amazon.com/Silicon-Power-1TB-XS70-SP01KGBP44XS7005/dp/B09T2S1Z8T?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![The Silicon Power XS70 M.2 NVMe SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/silicon-power-xs70.png)  
 _Silicon Power_  
 
@@ -77,16 +65,21 @@ Best Heatsink
 
 ![The WD_BLACK SN850X NVMe SSD on a desktop PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/wd_black-sn850x-nvme-ssd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Western Digital_
 
  The[WD_BLACK SN850X](https://www.amazon.com/WD-BLACK-SN850X-Internal-Gaming-Heatsink-dp-B0B7CPSN2K/dp/B0B7CPSN2K?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce) is a high-end M.2 SSD that replaces its popular SN850\. It brings excellent upgrades over its predecessor, including faster sequential performance and a new 4TB capacity model. It's also one of the few M.2 drives that support[Microsoft DirectStorage](https://www.makeuseof.com/what-is-microsoft-directstorage-how-does-it-make-gaming-faster/) for compatible PC games.
 
  The SN850X boasts blistering read speeds of up to 7,300MB/s, exceeding Sony's 5,500MB/s speed requirements. It not only delivers similar gaming performance to the PS5's built-in SSD but also remains a solid choice for handling future demanding games. Throw in the low-profile heatsink and Western Digital's excellent thermal management, and you get the perfect SSD for your PS5 console.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The WD_BLACK SN850X with heatsink](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/wd_black-sn850x-with-heatsink.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### WD\_BLACK SN850X
 
@@ -140,9 +133,6 @@ Best Budget
 
 [$74 at Amazon](https://www.amazon.com/Crucial-Plus-PCIe-NAND-5000MB/dp/B0B25NXWC7?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fcrucial-p3-plus-1tb-internal-ssd-pcie-gen-4-x4-nvme%2F6509715.p%3FskuId%3D6509715)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Best Premium SSD for PS5: Samsung 980 PRO with Heatsink
 
 ![SAMSUNG 980 PRO installed in the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/samsung-980-pro-in-a-ps5.jpg)
@@ -153,10 +143,11 @@ _SAMSUNG_
 
  Samsung designed the heatsink to fit perfectly in the PS5 SSD bay. At just 8.6mm thicker, it's well below the 11.25mm maximum thickness allowed by the PS5, which means you can install this drive with its heatsink and safely close all the panels without any issues. Add to that Samsung's renowned thermal design and optimization, and you get a PS5 SSD that can handle extended periods of play without any performance drops.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Samsung 980 PRO with Heatsink](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/samsung-980-pro-with-heatsink.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Samsung 980 PRO with Heatsink
 
@@ -181,9 +172,6 @@ Best Premium
 
 ## Best High-Capacity SSD for PS5: Corsair MP600 PRO LPX
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Installing the Corsair MP600 PRO LPX in a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/corsair-mp600-pro-lpx-8tb.jpg)
 
 _Corsair_
@@ -192,9 +180,6 @@ _Corsair_
 
  While not the most budget-friendly option, the MP600 PRO LPX's price per gigabyte becomes increasingly attractive at higher capacities, making the 8TB model a compelling choice for hardcore gamers. The MP600 PRO LPX also comes in a sleek white finish and smaller capacities up to 500GB.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Corsair MP600 PRO LPX in black](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/corsair-8tb-mp600-pro-lpx.png)
 
 ##### Corsair MP600 PRO LPX
@@ -218,10 +203,11 @@ Best High-Capacity
 
 ## Best PS5 SSD with Heatsink: Silicon Power XS70
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Silicon Power XS70 installed in a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/silicon-power-xs70-in-a-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Silicon Power_
 
@@ -229,11 +215,11 @@ _Silicon Power_
 
  Despite its beefy heatsink, the XS70 seamlessly fits into the PS5's expansion slot, adding up to 4TB of storage. Plus, it boasts a competitive price point, especially for the 4TB version, making it a budget-friendly powerhouse. Silicon Power also offers the XS70 in an 8TB variant, but it's often out of stock. If you need higher capacity, the[8TB Corsair MP600 PRO LPX](https://www.amazon.com/Corsair-MP600-NVMe-PCIe-Gen4/dp/B0CJRN3LLX?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce) is a nice alternative.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![The Silicon Power XS70 M.2 NVMe SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/silicon-power-xs70.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Silicon Power XS70
 
@@ -257,9 +243,9 @@ Best Heatsink
 [$78 at Amazon](https://www.amazon.com/Silicon-Power-1TB-XS70-SP01KGBP44XS7005/dp/B09T2S1Z8T?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce) [See at B&H](https://www.bhphotovideo.com/c/product/1801272-REG/silicon%5Fpower%5Fsu01kgbp44xs7005bh%5F1tb%5Fsilicon%5Fpower%5Fxs70.html/BI/21349/KBID/23476/SID/UUmuoUeUpU2009707) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fsilicon-power-4tb%2Fp%2F0D9-0021-00137)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQ
 
 ### Q: What does SSD stand for?
@@ -278,6 +264,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Yes, Sony recommends using a heatsink for effective heat dissipation, especially with high-performance SSDs or intense gaming sessions. Most M.2 drives come with a heatsink, but you can also snag an affordable M.2 drive and pair it with a PS5-compatible heatsink, like the[MHQJRH M.2 2280 SSD heatsink](https://www.amazon.com/MHQJRH-heatsink-Double-Sided-Thermal-Silicone/dp/B07KDDKDNN?tag=makeusw-20&ascsubtag=UUmuoUeUpU2009707&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ssd-for-ps5%2F&asc%5Fcampaign=Commerce) , for a budget-friendly upgrade.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q: How do I install an SSD into my PS5?
 
  Installing an SSD on your PS5 is a fairly straightforward process that involves removing the back cover of your console to expose the M.2 drive bay. To avoid damaging your console or the SSD, follow our step-by-step guide to[installing an M.2 SSD on your PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) .
@@ -288,8 +278,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,4 +285,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-power-of-imagery-in-podcast-art/"><u>[Updated] Unlocking the Power of Imagery in Podcast Art</u></a></li>
+<li><a href="https://win-web.techidaily.com/can-want-links-retain-their-effectiveness-when-zooming-inout-on-a-website-using-flipbuilder/"><u>Can Want Links Retain Their Effectiveness When Zooming In/Out on a Website Using FlipBuilder?</u></a></li>
+<li><a href="https://games-able.techidaily.com/canceling-firmware-changes-on-xbox-console/"><u>Canceling Firmware Changes on Xbox Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-hidden-game-savings-in-promos/"><u>Discover Hidden Game Savings in Promos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-5740-printer-drivers-on-windows-11-10-and-8/"><u>Download & Install HP OfficeJet 5740 Printer Drivers on Windows 11, 10 & 8</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-aesthetics-with-a-purpose/"><u>Gaming Aesthetics with a Purpose</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-htc-u23-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any HTC U23 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mirthful-content-extraction-report/"><u>Mirthful Content Extraction Report</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-outputs-weighing-in-on-mini-and-full-desktop-pcs/"><u>Optimal Outputs: Weighing In on Mini and Full Desktop Pcs</u></a></li>
+<li><a href="https://games-able.techidaily.com/overclocking-my-graphics-card-was-a-bad-idea-heres-why/"><u>Overclocking My Graphics Card Was a Bad Idea: Here's Why</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-establishing-access-to-steams-loaded-game-files/"><u>Re-Establishing Access to Steam's Loaded Game Files</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/transfer-and-automate-file-sharing-across-pcs-on-your-home-lan-for-free/"><u>Transfer & Automate File Sharing Across PCs on Your Home LAN for FREE</u></a></li>
+</ul></div>
 

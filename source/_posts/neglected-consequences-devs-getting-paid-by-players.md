@@ -1,7 +1,7 @@
 ---
 title: "Neglected Consequences: Devs Getting Paid by Players"
-date: 2025-01-23T16:09:12.839Z
-updated: 2025-01-30T17:45:21.436Z
+date: 2025-02-06T22:32:41.954Z
+updated: 2025-02-12T00:26:50.830Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Tipping game developers could be an option, but other methods like crowdfunding and Patreon already exist.
@@ -30,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 * Tipping culture in gaming may lead to low pay and poor conditions; a sustainable gaming economy is crucial for the future of the industry.
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who’s Suggesting We Tip Game Developers?
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
@@ -51,13 +51,13 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
@@ -79,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -124,17 +124,18 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-navigating-the-path-iphone-file-exchange-for-2024/"><u>[Updated] Navigating the Path IPhone File Exchange for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-bringing-vision-to-life-the-art-of-post-color-enhancement/"><u>2024 Approved Bringing Vision to Life The Art of Post-Color Enhancement</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/captivating-conversations-opening-lines-in-audios-for-2024/"><u>Captivating Conversations Opening Lines in Audios for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/dhcp-connectivity-problems-solutions-for-server-contact-failures/"><u>DHCP Connectivity Problems – Solutions for Server Contact Failures</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-steam-vs-gog-retail-platforms-compared/"><u>Dissecting Steam vs GOG: Retail Platforms Compared</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/legacylite-gaming-machine-handheld-history/"><u>LegacyLite Gaming Machine: Handheld History</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-up-your-mobile-games-with-these-ios-four-star-emulators/"><u>Step Up Your Mobile Games with These iOS Four-Star Emulators</u></a></li>
-<li><a href="https://games-able.techidaily.com/switching-off-discord-game-overlay/"><u>Switching Off Discord Game Overlay</u></a></li>
-<li><a href="https://games-able.techidaily.com/unwiring-your-xbox-series-x-controller/"><u>Unwiring Your Xbox Series X Controller</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-you-need-to-know-about-troubleshooting-error-0x80070570/"><u>What You Need to Know About Troubleshooting Error 0X80070570</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-veracity-of-ffmpegs-audio-extraction-techniques/"><u>[New] In 2024, The Veracity of FFmpeg’s Audio Extraction Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-grandmaster-gaming-evaluating-the-best-7-total-war-experiences/"><u>2024 Approved Grandmaster Gaming Evaluating the Best 7 Total War Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-settings-to-make-a-ps5-safer-for-kids-to-use/"><u>5 Settings to Make a PS5 Safer for Kids to Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/amd-unveils-fsr-3-upgrade-or-obsolete-against-dlss-35/"><u>AMD Unveils FSR 3: Upgrade or Obsolete Against DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-ally-laptop-docks-the-ultimate-guide-to-2024/"><u>ASUS ROG Ally Laptop Docks: The Ultimate Guide to 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-hurdles-in-your-next-steam-decks-ssd-changeover/"><u>Avoiding Hurdles in Your Next Steam Deck's SSD Changeover</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-match-for-your-nintendo-switch/"><u>Best Match for Your Nintendo Switch</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/easy-tips-for-tweaking-windows-login-options-and-controls-with-yl-software-expertise/"><u>Easy Tips for Tweaking Windows Login Options and Controls with YL Software Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-techniques-for-resolving-dpi-scaling-woes/"><u>Effective Techniques for Resolving DPI Scaling Woes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-voice-broadcasting-made-easy-on-your-idevice-tips-and-tricks/"><u>In 2024, Voice Broadcasting Made Easy on Your iDevice Tips & Tricks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/surpassing-all-others-in-performance-and-user-friendliness-the-unrivaled-excellence-of-linux-mint-asterisk-22-zdnet-insight/"><u>Surpassing All Others in Performance and User-Friendliness: The Unrivaled Excellence of Linux Mint Asterisk 22 | ZDNET Insight</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncover-the-secrets-of-airtag-surveillance-your-complete-guide/"><u>Uncover the Secrets of AirTag Surveillance - Your Complete Guide</u></a></li>
 </ul></div>
 

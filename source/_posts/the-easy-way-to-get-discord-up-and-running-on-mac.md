@@ -1,7 +1,7 @@
 ---
 title: The Easy Way to Get Discord Up and Running on Mac
-date: 2025-01-27T18:27:48.223Z
-updated: 2025-01-30T16:40:11.548Z
+date: 2025-02-05T16:53:16.531Z
+updated: 2025-02-11T22:05:29.941Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Download Discord's Installation File to Your Mac
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 2. Click**Download for Mac** , and a Finder window will appear for you to choose the location to save Discord's installation file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Saving Discord to Downloads on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/saving-discord-to-downloads-on-macos.jpeg)
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 4. Wait for the installation file to finish downloading.
 
  You can use Discord online on your browser by clicking**Open Discord** at the top-right corner of Discord's website.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 2: Install Discord on Your Mac
 
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 4. Close the Finder window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Launchpad** from the Dock and select**Discord** from one of the pages. Or launch it[using Spotlight search on your Mac](https://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) .
@@ -70,17 +66,21 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
  macOS's Gatekeeper might not let you install or run Discord right away. If you run into that problem or any other problems, read our guide on[installing third-party apps on a Mac](https://www.makeuseof.com/how-to-install-third-party-apps-mac/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3: Sign Up or Sign In to Discord
 
 ![Discord's login page on the Mac app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-s-login-page-on-the-mac-app.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When Discord opens, you'll be greeted by its login page. If you already have an account, type in your email or phone number, enter your password, and click**Log In** to sign in.
 
  If you don't have an account, click**Register** at the bottom and fill in your details.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Started With Discord on Your Mac
 
@@ -103,20 +103,14 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-combining-camera-and-display-in-one-go/"><u>[Updated] In 2024, Combining Camera and Display in One Go</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-orchestrate-instagram-reel-magic-with-music-and-voiceovers/"><u>[Updated] In 2024, Orchestrate Instagram Reel Magic with Music & Voiceovers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tips-for-keeping-your-iphones-memories-in-order-and-backed-up-on-icloud/"><u>2024 Approved Top Tips for Keeping Your iPhone's Memories in Order and Backed Up on iCloud</u></a></li>
-<li><a href="https://extra-information.techidaily.com/caption-kings-and-queens-top-10-mobile-writing-aids-iosandroid/"><u>Caption Kings and Queens Top 10 Mobile Writing Aids (iOS/Android)</u></a></li>
-<li><a href="https://games-able.techidaily.com/controller-or-joystick-a-fighters-verdict/"><u>Controller or Joystick: A Fighter's Verdict</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-why-gamers-choose-multi-mode-monitors/"><u>Exploring Why Gamers Choose Multi-Mode Monitors</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-moto-g73-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Moto G73 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-understanding-limits-to-instagram-videography/"><u>In 2024, Understanding Limits to Instagram Videography</u></a></li>
-<li><a href="https://games-able.techidaily.com/kickstart-your-racing-journey-with-499-moza-bundle/"><u>Kickstart Your Racing Journey with $499 MOZA Bundle</u></a></li>
-<li><a href="https://games-able.techidaily.com/optic-switches-vs-heavy-metal-in-games/"><u>Optic Switches Vs. Heavy Metal in Games</u></a></li>
-<li><a href="https://win11.techidaily.com/programmable-shortcuts-to-boost-windows-use/"><u>Programmable Shortcuts to Boost Windows Use</u></a></li>
-<li><a href="https://win-community.techidaily.com/stunning-one-piece-hd-visuals-for-your-screen-premium-wallpapers-and-background-graphics-by-yl-computing-solutions/"><u>Stunning One Piece HD Visuals for Your Screen: Premium Wallpapers and Background Graphics by YL Computing Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-checklist-for-clearing-your-steam-games/"><u>The Essential Checklist for Clearing Your Steam Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-chat-issues-in-call-of-duty-warzone-across-pc-and-consoles/"><u>Troubleshooting Voice Chat Issues in Call of Duty: Warzone Across PC and Consoles</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-stuck-steam-8-effective-methods-to-try-first/"><u>Unlock Stuck Steam: 8 Effective Methods to Try First</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-social-media-syncing-made-simple-tweets-and-tiktoks/"><u>[New] Social Media Syncing Made Simple Tweets and TikToks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-from-stills-to-songs-the-art-of-audio-visual-fusion/"><u>[Updated] In 2024, From Stills to Songs The Art of Audio-Visual Fusion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-seamless-integration-of-obs-studio-with-android-tech-for-2024/"><u>[Updated] Seamless Integration of OBS Studio with Android Tech for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-addictive-features-of-mobile-games-you-should-watch-out-for/"><u>6 Addictive Features of Mobile Games You Should Watch Out For</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-easy-ways-to-fix-steam-when-it-wont-open/"><u>8 Easy Ways to Fix Steam When It Won't Open</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-gaming-connoisseur-selecting-best-from-apples-selection/"><u>Become a Gaming Connoisseur: Selecting Best From Apple's Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-multi-genre-game-list-for-content-makers/"><u>Best Multi-Genre Game List for Content Makers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guidelines-for-webpage-not-displayed-in-ie-browser/"><u>Solution Guidelines for 'Webpage Not Displayed' In IE Browser</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210390233-9781956837018-the-path-of-femininity-the-6-gifts-of-your-sovereignty/"><u>The Path of Femininity; The 6 Gifts of Your Sovereignty | Free Book</u></a></li>
 </ul></div>
 

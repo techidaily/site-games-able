@@ -1,7 +1,7 @@
 ---
 title: Best Affordable FPS Controller Bundles Analyzed
-date: 2024-08-08T09:06:32.536Z
-updated: 2024-08-09T09:06:32.537Z
+date: 2025-02-06T23:28:10.171Z
+updated: 2025-02-11T21:56:06.962Z
 tags:
   - games
 categories:
@@ -72,9 +72,6 @@ Most Compact
 [$100 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhyperx-alloy-origins-60-wired-mechanical-linear-red-switch-gaming-keyboard-and-rgb-back-lighting-black%2F6452798.p%3FskuId%3D6452798)
 
 * [](https://www.walmart.com/ip/ROCCAT-Magma-Silent-Membrane-Switch-PC-Gaming-Keyboard-with-5-Zone-10-LED-AIMO-RGB-Top-Plate-and-Detachable-Palm-Rest-Black/602085349)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![roccat magma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/roccat-magma.png)  
 Roccat  
 
@@ -94,9 +91,6 @@ Lowest Profile
 
 ## Our Favorite Budget Gaming Keyboards in 2023
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![logitech-g413-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/logitech-g413-keyboard-2.jpg)
 
 ##### Logitech G413
@@ -129,10 +123,11 @@ Best Overall
 
  The Logitech G413 also comes in handy when you've got a paper to write. Along with tactile mechanical keys, its 12 function keys are programmable via Logitech's proprietary G Hub software. More importantly, it has a 26-key rollover and anti-ghosting for improved performance.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![redragon-k552-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/redragon-k552-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Redragon K552
 
@@ -161,10 +156,11 @@ Performance on a Budget
 
  Speaking of durability, the Redragon K552 is a pretty strong piece of hardware. It boasts a metal and ABS construction, with the keys themselves being plate-mounted, adding to the tactile feedback.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![corsair-k55-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/corsair-k55-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Corsair K55 RGB
 
@@ -193,10 +189,6 @@ For Those Prone to Tipping Drinks
 
  Additionally, six macro keys are found on the left-hand side, which you can use Corsair's iCUE software to program. For a gaming setup, the Corsair K55 RGB is a fantastic solution for those on a budget.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![SteelSeries Apex 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steelseries-apex-3.jpg)
 
 ##### SteelSeries Apex 3
@@ -224,10 +216,11 @@ Quietest Keys
 
  The advantage here, however, is that the keys produce far less sound. If you tend to game at night, when others are asleep, this is a fine option. In addition to good switches, it has great durability. Its magnetic wrist rest is comfortable and easily removable. More importantly, it has an IP32 water resistance rating.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![rosewill-neon-k85-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/rosewill-neon-k85-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Rosewill Neon K85 RGB
 
@@ -259,10 +252,11 @@ When You Want to Game in Style
 
  Sturdy and tough, the Rosewill Neon K85 RGB has an aluminum build, giving it longevity, a premium look, and a sleek design. The RGB lighting, in particular, is quite vibrant, with many customization options available.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![profile view of hyperx alloy origins 60 keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hyperx-alloy-origins-60.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### HyperX Alloy Origins 60
 
@@ -289,9 +283,6 @@ Most Compact
 
  The magic comes from HyperX’s mechanical switches, which feature a short travel time and require very little force to actually press. That combination makes the HyperX Alloy Origins 60 incredibly responsive and a must-have when gaming gets intense. The HyperX Alloy Origins 60 can also take quite the beating. Given its aircraft-grade aluminum casing, it is resistant to bending and gives the keyboard quite a long lifespan.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![roccat magma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/roccat-magma.png)
 
 ##### ROCCAT Magma
@@ -323,6 +314,10 @@ Most Comfortable
  On top of support for your wrist and palms, the ROCCAT Magma has good spacing between the keys. Combined with the keyboard’s membrane design, the softness of the key presses is a soothing experience for some when it comes to typing.
 
 ![razer ornata v3 x gaming keyboard featuring a wrist rest and rgb](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/razer-ornata-v3-x.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Razer Ornata V3 X
 
@@ -362,9 +357,6 @@ Lowest Profile
 
  If you love stretching your bottom dollar, then it's the Redragon K552 you want. It's a surprisingly durable TKL keyboard, and Redragon even gives you a choice between Blue, Brown, and Red mechanical switches.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![logitech-g413-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/logitech-g413-keyboard-2.jpg)
 
 ##### Logitech G413
@@ -397,8 +389,6 @@ Best Overall
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -406,6 +396,19 @@ Best Overall
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-isolated-audio-interruption-fixed-guide/"><u>[New] Isolated Audio Interruption Fixed Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-quick-conversions-best-free-tools-transforming-gif/"><u>2024 Approved Seamless, Quick Conversions Best Free Tools Transforming GIF</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-ways-to-see-if-someone-is-appearing-offline-using-an-xbox-series-xs/"><u>4 Ways to See if Someone Is Appearing Offline Using an Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-high-performance-budget-friendly-motherboards-2023s-selection/"><u>Affordable, High-Performance Budget-Friendly Motherboards - 2023'S Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-fun-and-frustration-in-gaming/"><u>Balancing Fun & Frustration in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164401657-discover-iphones-best-video-game-emulators-now/"><u>Discover iPhone's Best Video Game Emulators Now</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ensuring-seamless-integration-how-to-test-scanner-and-windows-system-compatibility-tips-from-yl-software/"><u>Ensuring Seamless Integration: How to Test Scanner and Windows System Compatibility - Tips From YL Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-fix-stardew-valley-wont-launch-essential-steps-for-a-seamless-gaming-experience/"><u>How to Fix 'Stardew Valley Won't Launch': Essential Steps for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-zoom-with-precision-using-videoleap-software/"><u>In 2024, Zoom with Precision Using Videoleap Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-30-5g-music-recovery-recover-deleted-music-from-infinix-hot-30-5g-by-fonelab-android-recover-music/"><u>Infinix Hot 30 5G Music Recovery - Recover Deleted Music from Infinix Hot 30 5G</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-10-best-vlog-editor-apps-ios-and-android/"><u>New In 2024, 10 Best Vlog Editor Apps iOS & Android</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-tempestuous-screens-in-vista-or-win7/"><u>Taming the Tempestuous Screens in Vista or Win7</u></a></li>
+</ul></div>
 

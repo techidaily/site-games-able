@@ -1,7 +1,7 @@
 ---
 title: Top 6 Game Takeaways From Helldivers 2'S Journey
-date: 2025-01-24T18:01:06.849Z
-updated: 2025-01-30T16:44:33.128Z
+date: 2025-02-07T19:33:25.506Z
+updated: 2025-02-11T16:10:50.743Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 * [Have a Free Progression System](#have-a-free-progression-system)
 * [Balance Gameplay Mechanics](#balance-gameplay-mechanics)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Cross-platform play and free progression without making in-game purchases mandatory are key to player satisfaction.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 ## 1 Allow Cross-Platform Multiplayer Play
 
 ![Screenshot of Helldivers 2 Super Earth public service announcement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0416461.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Helldivers 2 is a third-person shooter live service game where players become Helldivers fighting for Super Earth. Players join teammates in missions on different planets across the universe to eradicate Terminids (bug-like alien life forms) and Automatons (robots). Helldivers harvest valuable resources from planets that are home to Terminids and Automatons.
 
@@ -55,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 ![Screenshot of Helldivers 2 Warbond menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415451.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
@@ -65,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
  The Helldivers 2 social media pages post frequent game updates, challenges, and memes that earn impressive engagement. For instance, the[Helldivers 2 Instagram page](https://www.instagram.com/helldivers2game/?hl=en) boasts over 100,000 followers.
 
  Helldivers 2 also has a[Discord server](https://discord.com/invite/zbbZ5rNcuK) with almost 1 million members, where players receive updates from the game's developers. During the Sony PSN linking debacle, development leads updated the game's player base amid ongoing negotiations with Sony.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Offer Community Challenges
 
@@ -80,25 +92,17 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 ![Screenshot of Helldivers 2 Acquisition Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415430.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Players can find Super Credits, which unlock new monthly Warbonds and cosmetics, across missions at random points on the map. Super Credits are also available for purchase in the game store. Medals can be obtained by completing Major Orders or finding stashes during missions. You can also earn medals by completing missions. The higher the difficulty level of the mission, the more medals players unlock upon completion.
 
 ![Screenshot of Helldivers 2 Super Credits store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415072.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are also samples scattered across each mission depending on the difficulty level. Players can trade in these samples to upgrade their ships and stratagems, which are mission call-ins and weapons, such as airstrikes and turrets. Finally, requisition slips pop up, which players earn by completing missions or locating points of interest on the map, which unlock new stratagems.
 
 ![Screenshot of Helldivers 2 strategem menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415051.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There are plenty of other[live service games that are not pay-to-win](https://www.makeuseof.com/live-service-games-that-arent-pay-to-win/) , as well, including Fortnite and Smite.
 
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
  For example, the SG-225 Breaker shotgun got "nerfed", meaning the game developers reduced its overall power by reducing its ammo capacity and increasing its recoil to balance the game and encourage using other weapons.
 
 ![Screenshot of Helldivers 2 SG-225 Breaker automatic shotgun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0504130.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Balancing game mechanics helps keep the experience varied and allows people to use different combinations of guns and other strategies to succeed in the game.
 
@@ -133,19 +133,22 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-tik-hop-waves-unveiling-todays-viral-rap-sounds/"><u>[New] In 2024, Tik-Hop Waves Unveiling Today's Viral Rap Sounds</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-illusions-manipulating-past-and-future-events/"><u>[Updated] In 2024, Illusions Manipulating Past & Future Events</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-secrets-when-to-share-content-for-youtube-success/"><u>2024 Approved Secrets When to Share Content for YouTube Success</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-10-speedy-rising-yt-spaces-for-cognitive-illumination/"><u>2024 Approved The 10 Speedy Rising YT Spaces For Cognitive Illumination</u></a></li>
-<li><a href="https://games-able.techidaily.com/championship-playlist-the-ultimate-7-iosandroid-sports-games/"><u>Championship Playlist: The Ultimate 7 iOS/Android Sports Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dissecting-the-effects-of-restrictions-in-digital-chat-companions/"><u>Dissecting the Effects of Restrictions in Digital Chat Companions</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-connection-performance-lower-pings-and-higher-rates/"><u>Enhancing Connection Performance: Lower Pings and Higher Rates</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-conventional-to-revolutionary-the-pdw4-story/"><u>From Conventional to Revolutionary: The PDW4 Story</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamings-future-path-directx-11-or-directx-12/"><u>Gaming's Future Path: DirectX 11 or DirectX 12?</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-save-and-playback-sharepoint-content-as-mp4-or-avi-easy-steps-for-windowsmac-users/"><u>How to Save and Playback SharePoint Content as MP4 or AVI – Easy Steps for Windows/Mac Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-your-pcs-unexpected-off-switch-during-gaming-comprehensive-guide-for-windows-users/"><u>Resolving Your PC's Unexpected Off Switch During Gaming - Comprehensive Guide for Windows Users.</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-notch-ssd-compatibility-with-ps5/"><u>Top-Notch SSD Compatibility with PS5</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlimited-free-image-refinement-onlinemobile/"><u>Unlimited Free Image Refinement Online/Mobile</u></a></li>
-<li><a href="https://games-able.techidaily.com/xna-evolution-directx-11-vs-directx-12/"><u>XNA Evolution: DirectX 11 Vs. DirectX 12</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-easy-path-to-engaging-animation-in-your-videos-for-2024/"><u>[New] The Easy Path to Engaging Animation in Your Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-speed-demos-like-video-duo-for-rapid-growth/"><u>[Updated] In 2024, Instagram Speed Demos Like-Video Duo for Rapid Growth</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smoothly-softening-endings-audio-fades-made-simple-with-adobe-premiere-pro/"><u>2024 Approved Smoothly Softening Endings Audio Fades Made Simple with Adobe Premiere Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-xbox-experience-through-dual-display-setup/"><u>Boosting Xbox Experience Through Dual Display Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/breathing-life-back-into-your-gps-reclaiming-signal-in-pokemon-go-adventures/"><u>Breathing Life Back Into Your GPS: Reclaiming Signal in Pokémon Go Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-those-good-old-days-why-your-game-needs-pi/"><u>Bring Back Those Good Old Days: Why Your Game Needs Pi</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-your-ps4-joystick-immediate-fix-tips-and-tricks/"><u>Bring Back Your PS4 Joystick: Immediate Fix Tips and Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-reuse-your-older-games-drives-with-the-ps5/"><u>Can You Reuse Your Older Games' Drives with the PS5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-circuits-victory-vistas/"><u>Champion Circuits: Victory Vistas</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-game-pass-ultimate-for-endless-gaming-joy/"><u>Choose Game Pass Ultimate for Endless Gaming Joy</u></a></li>
+<li><a href="https://games-able.techidaily.com/circumventing-steam-login-failures-windows-and-rust-approach/"><u>Circumventing Steam Login Failures: Windows & Rust Approach</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expert-configuration-clock-integration-for-streaming-software/"><u>Expert Configuration Clock Integration for Streaming Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997317086-how-to-fix-obs-when-it-wont-record-your-screen-anymore-solved/"><u>How to Fix OBS When It Won't Record Your Screen Anymore - Solved</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-moments-how-to-utilize-inshots-segmentation-power/"><u>Mastering Moments How to Utilize Inshot's Segmentation Power</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-new-best-free-game-video-editing-software-for-2024/"><u>New NEW Best Free Game Video Editing Software for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restore-your-malfunctioning-bose-sound-system/"><u>Step-by-Step Guide to Restore Your Malfunctioning Bose Sound System</u></a></li>
 </ul></div>
 

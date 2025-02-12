@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fine-Tuning Your Steam Deck's Input Devices for Better Typing
-date: 2025-01-24T17:37:14.010Z
-updated: 2025-01-30T17:22:15.031Z
+date: 2025-02-08T18:44:49.335Z
+updated: 2025-02-11T21:47:35.513Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ Here’s how to bring up the Steam Deck in various scenarios.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Bring Up the Steam Deck Keyboard In-Game
@@ -35,15 +35,15 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
  First, be sure you’ve given the Steam Deck two seconds at most for the Steam Deck keyboard to appear. If nothing is happening,**hold Steam Button > X** (just one of several[secret Steam Deck shortcuts you need to know](https://www.makeuseof.com/steam-deck-shortcuts/) ). The Steam Deck will appear at the bottom of the screen per usual. See it in action below in the classic immersive RPG "Deus Ex".
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Bring Up the Steam Deck Keyboard in SteamOS
 
  If you’re beating your head against your desk and screaming aloud, “Why is the Steam Deck keyboard not appearing when I press the**Steam Button** and**X** in SteamOS,” let me save you the additional headache. The Steam Deck keyboard shortcut does not work in SteamOS so long as a text field is present on-screen (as of August 2023). Whether this is a bug or a feature yet to be implemented is unknown at this time.
 
  But you don’t need to use this button combo anyway. To bring up the Steam Deck keyboard in SteamOS, select the text field where you want to type. The Steam Deck keyboard automatically appears every time. See an example below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Bring Up the Steam Deck Keyboard in Steam Desktop
 
@@ -56,12 +56,16 @@ Here’s how to bring up the Steam Deck in various scenarios.
  The Steam Deck keyboard will not appear in Desktop Mode if the Steam Client isn’t running.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Effortlessly Bring Up the Steam Deck’s Keyboard in SteamOS, Desktop Mode, or In-Game
 
  The Steam Deck’s on-screen keyboard may seem like it acts a bit funky once you first use the Steam Deck. But once you learn the ins and outs of the Deck, the keyboard is at your beck and call whenever you need it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -70,16 +74,12 @@ Here’s how to bring up the Steam Deck in various scenarios.
  Numerous[secret shortcuts for your Steam Deck](https://www.makeuseof.com/steam-deck-shortcuts/) can make navigation a breeze. But, to specifically use the escape command shortcut on your Steam Deck with the on-screen keyboard, press the**Steam Button + D-pad left** at the same time. Your Steam Deck should then close the current software you are running as soon as you enter the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: How Do You Use a Mouse and Keyboard With Your Steam Deck?
 
  You can connect a keyboard and mouse to your Steam Deck via wired connections or Bluetooth. For a wired connection, plug your accessories into your Steam Deck through the USB-C or USB-A ports on your console. For Bluetooth, ensure**Bluetooth** is enabled, and hold down the**Create** button on your console while simultaneously pressing whatever represents the sync button on your accessories. This process is similar to[connecting a DualSense controller to your Steam Deck](https://www.makeuseof.com/how-to-connect-ps5-controller-to-steam-deck/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: How Do You Change the Keyboard Layout on Your Steam Deck?
 
@@ -100,18 +100,19 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-craft-your-fortune-terrarias-best-map-list/"><u>[Updated] Craft Your Fortune Terraria's Best Map List</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-explore-affordable-cross-platform-video-chat-platforms-for-windowsmac/"><u>[Updated] In 2024, Explore Affordable, Cross-Platform Video Chat Platforms for Windows/Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-live-broadcast-plus-media-management-at-your-fingertips-for-2024/"><u>[Updated] Live Broadcast + Media Management at Your Fingertips for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-legal-pathways-for-gaining-a-million-youtube-views/"><u>[Updated] Navigating Legal Pathways for Gaining a Million YouTube Views</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-optimized-titling-techniques-for-youtube-success/"><u>2024 Approved Optimized Titling Techniques for YouTube Success</u></a></li>
-<li><a href="https://games-able.techidaily.com/computex-2024-the-dawn-of-advanced-ai-tech/"><u>Computex 2024: The Dawn of Advanced AI Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-nvidias-innovation-for-gamers-worldwide/"><u>Explore Nvidia's Innovation for Gamers Worldwide!</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-connect-and-sync-an-xbox-one-controller/"><u>How to Connect and Sync an Xbox One Controller</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-boost-your-iphone-videography-skills-master-these-8-essentials/"><u>In 2024, Boost Your iPhone Videography Skills Master These 8 Essentials</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728508798848-outlook3/"><u>Outlookにおけるメール署名設定が不可能時の解決手段：上位3方法</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/ranking-the-best-top-10-video-editing-software-options/"><u>Ranking the Best Top 10 Video Editing Software Options</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-to-limit-steams-memory-usage-5-strategies/"><u>Tips to Limit Steam's Memory Usage: 5 Strategies</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/transform-your-digital-strategy-using-advanced-cookiebot-tech/"><u>Transform Your Digital Strategy Using Advanced Cookiebot Tech</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-tier-action-cams-for-sports-enthusiasts/"><u>[New] 2024 Approved Top-Tier Action Cams for Sports Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-turn-your-vlogs-into-tunes-with-an-insta-mp3-conversion-hack/"><u>[Updated] 2024 Approved Turn Your Vlogs Into Tunes with an Insta-Mp3 Conversion Hack</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-accelerate-follower-count-key-strategies-unlocked-for-2024/"><u>[Updated] Accelerate Follower Count Key Strategies Unlocked for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-crafting-compelling-video-narratives-using-captivate-for-2024/"><u>[Updated] Crafting Compelling Video Narratives Using Captivate for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-sync-sony-console-and-earpieces/"><u>Bluetooth Sync: Sony Console & Earpieces</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-what-makes-cozy-games-beloved/"><u>Breaking Down What Makes Cozy Games Beloved</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-the-isolation-quick-tips-for-rejoining-your-mc-network/"><u>Breaking the Isolation: Quick Tips for Rejoining Your MC Network</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-wisely-6-things-before-committing-to-ps5/"><u>Choose Wisely: 6 Things Before Committing to PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-and-high-res-innocn-39g1-display/"><u>Compact & High Res: InnoCN 39G1 Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-founders-design-with-asus-branded-graphics-card/"><u>Comparing Founder's Design with Asus-Branded Graphics Card</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-ready-affordable-12-m2-hardware-adapter-now-available-for-your-raspberry-pi-5/"><u>Get Ready: Affordable $12 M.2 Hardware Adapter Now Available for Your Raspberry Pi 5</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-7-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 7 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-meditative-playlist-top-10-free-tracks-for-serenity/"><u>In 2024, Meditative Playlist Top 10 Free Tracks for Serenity</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-video-making-on-mac-top-tools-and-tips/"><u>New In 2024, The Ultimate Guide to Video Making on Mac Top Tools and Tips</u></a></li>
 </ul></div>
 

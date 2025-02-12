@@ -1,7 +1,7 @@
 ---
 title: Optic Switches Vs. Heavy Metal in Games
-date: 2025-01-16T01:16:05.237Z
-updated: 2025-01-17T00:15:24.752Z
+date: 2025-02-10T19:38:28.374Z
+updated: 2025-02-11T23:32:42.768Z
 tags:
   - games
 categories:
@@ -23,21 +23,17 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Do Mechanical Switches Work?
 
 ![Mechanical keyboard on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/michelle-ding-50uD7HzOLW8-unsplash.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Mechanical switches work](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) by creating contact between a metal piece on the bottom of the key and one on the keyboard. This closes the circuit and signals to the PC the key has been pressed.
 
  There are three main types of mechanical switches: linear, tactile, and clicky. Linear keys are quieter, require less force, and provide no tactile feedback when pressed. Tactile keys are louder and produce a bump in the middle of the keystroke, while clicky keys give a larger bump and a loud "click" in the middle of the keystroke, making them loud but satisfying.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do Optical Switches Work?
 
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
  Mechanically, both switches are quite similar. For example, pressing the keycap pushes the stem down, and a spring pushes the cap back into position. And optical switches can also have similar characteristics to mechanical switches in terms of being more linear, tactile, or clicky.
 
 So, which is better for gaming?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Optical Switches vs. Mechanical Switches
 
@@ -61,7 +61,7 @@ So, which is better for gaming?
 Let's take a look at these four factors in closer detail.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Durability
@@ -72,10 +72,6 @@ Let's take a look at these four factors in closer detail.
 
  Keep in mind, though, 60 million keystrokes equate to around 10 to 15 years of intense gaming or typing, which is probably going to be long enough for most people to feel they've made a good purchasing decision. Don't forget[hot-swappable keyboards allow you to swap out](https://www.makeuseof.com/why-you-need-hot-swappable-mechanical-keyboard/) the keyboard switches, so in the event you wear a switch out, you can just pop a new one in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Speed
 
  The speed of switches depends on a couple of things, including the amount of force required and the distance the key has to travel to actuate.
@@ -83,6 +79,10 @@ Let's take a look at these four factors in closer detail.
  Mechanical switches have around a five-millisecond debounce delay. Optical switches, on the other hand, don't suffer from this delay, which means optical switches will generally have around 5 ms faster response time. However, the jury is still out on whether or not this small increase in speed results in better performance while gaming.
 
  Other than that, the reaction speed of optical switches appears to depend largely on the manufacturer. The breadwinners seem to be the[Razer Clicky Optical Purple](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2004621&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Frazer-optical-switch) switches. These are touted as some of the fastest keys on the market and are around 30ms faster than the fastest Cherry MX keys.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Feel and Noisiness
 
@@ -97,7 +97,7 @@ Let's take a look at these four factors in closer detail.
  The[Razer Huntsman](https://www.amazon.com/Razer-Huntsman-Tournament-Tenkeyless-Keyboard/dp/B07V25YPVW?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=5b69344691c987a7fdf2e0c9ed994455&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) series offers the Razer Linear Optical Reds and the Razer Clicky Optical Purples. Gateron also has several options, including Gateron Optical Black, Blue, Brown, and Red, each with characteristics similar to their mechanical counterparts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Price and Availability
@@ -139,20 +139,19 @@ Let's take a look at these four factors in closer detail.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-steps-for-iphone-screen-shotting-for-2024/"><u>[Updated] Essential Steps for iPhone Screen Shotting for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimize-zoom-audio-in-2-steps-to-enhance-hearing-experience-for-2024/"><u>[Updated] Optimize Zoom Audio in 2 Steps to Enhance Hearing Experience for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-15-pro-max-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 15 Pro Max without the Previous Owner?</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ces-showdown-apple-watching-as-peers-escalate-innovation-race-the-latest-from-zdnet/"><u>CES Showdown: Apple Watching as Peers Escalate Innovation Race – The Latest From ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-c51-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme C51 Device SIM</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhanced-engagement-investing-in-high-quality-hardware/"><u>Enhanced Engagement: Investing in High-Quality Hardware</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-mechanics-of-xbox-cloud-gaming/"><u>Exploring the Mechanics of Xbox Cloud Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-changing-tools-that-boost-your-experience/"><u>Game-Changing Tools That Boost Your Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/hot-swap-prowess-unveiling-the-razer-blackwidow-v4/"><u>Hot Swap Prowess: Unveiling the Razer BlackWidow V4</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovative-methods-for-3d-text-illustration/"><u>Innovative Methods for 3D Text Illustration</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-game-time-infinite-access-to-steams-finest-for-free/"><u>Maximize Your Game Time: Infinite Access to Steam’s Finest for FREE</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/rhythmic-beak-boogie-for-2024/"><u>Rhythmic Beak Boogie for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/stealth-mode-for-gameplay-on-xbox-consoles/"><u>Stealth Mode for Gameplay on Xbox Consoles</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-power-of-precision-how-nvidia-g-sync-elevates-play/"><u>The Power of Precision: How Nvidia G-Sync Elevates Play</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-10-techniques-for-youtube-to-mp4-conversion/"><u>Top 10 Techniques for YouTube to MP4 Conversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flipping-the-script-in-photos-learn-distortions-efficiently/"><u>[New] Flipping the Script in Photos Learn Distortions Efficiently</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-high-speed-capture-device-with-preloaded-narrations/"><u>[New] High-Speed Capture Device with Preloaded Narrations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-reel-production-embedding-soundtracks-for-2024/"><u>[New] The Art of Reel Production Embedding Soundtracks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-titans-clash-evaluating-chatgpt-against-microsofts-bing-chat/"><u>Generative AI Titans Clash: Evaluating ChatGPT Against Microsoft's Bing Chat</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gps-vs-cellular-features-in-latest-apple-watch-models-which-to-choose/"><u>GPS Vs. Cellular Features in Latest Apple Watch Models – Which to Choose?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nubia-z50s-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nubia Z50S Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/illuminating-the-hidden-gems-a-seekers-guide-to-shiny-pokemon-in-scarlet-and-violet-84/"><u>Illuminating the Hidden Gems: A Seeker's Guide to Shiny Pokémon in Scarlet & Violet (84)</u></a></li>
+<li><a href="https://games-able.techidaily.com/methodical-measures-securing-and-sustaining-mc-maps/"><u>Methodical Measures: Securing & Sustaining MC Maps</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-pokemon-titles-on-mobile-platforms/"><u>Navigating Pokémon Titles on Mobile Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/off-mode-how-to-deactivate-igtv/"><u>Off Mode How to Deactivate IGTV</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-drivers-for-geforce-gtx-1060-model/"><u>Optimized Drivers for GeForce GTX 1060 Model</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolve-reboot-and-choose-os-error-on-windows/"><u>Quick Solutions: Resolve 'Reboot and Choose OS' Error on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ps4-controller-for-your-pcmac/"><u>The Ultimate PS4 Controller for Your PC/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-potential-cpu-limitations-on-your-computers-speed/"><u>Unveiling Potential CPU Limitations on Your Computer's Speed</u></a></li>
 </ul></div>
 

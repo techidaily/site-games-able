@@ -1,7 +1,7 @@
 ---
 title: Tips to Rectify Missing Dependencies on Windows 11/11 Pro
-date: 2025-01-24T16:50:53.479Z
-updated: 2025-01-30T16:55:01.097Z
+date: 2025-02-10T21:53:00.767Z
+updated: 2025-02-11T21:47:18.305Z
 tags:
   - games
 categories:
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Repair Visual C++ Packages on Your PC
 
  The “following components are required” error often complains about missing Visual C++ or DirectX runtimes. If it specifies a missing Visual C++ runtime, you may need to repair your PC's version of Visual C++.
@@ -47,14 +43,14 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/modify-option.jpg)
 4. Select the**Repair** option in the Visual C++ window that opens.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
@@ -68,16 +64,8 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![The x64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-x64-link.jpg)
 3. Click**I agree** \>**Install** in the Microsoft Visual C++ 2015-2022 window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
 
@@ -96,16 +84,24 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 6. Select**Next** to install the required DirectX components.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out[how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
@@ -126,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
 
@@ -148,21 +148,19 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-becoming-an-influencer-entrepreneur-creating-a-business-profile-on-ig/"><u>[New] Becoming an Influencer Entrepreneur Creating a Business Profile on IG</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-unlock-video-potential-leading-tools-turning-youtubes-to-avis/"><u>[New] In 2024, Unlock Video Potential Leading Tools Turning YouTubes to Avis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-tricks-for-non-engagement-with-edgenuity-video-content-for-2024/"><u>[New] Tricks for Non-Engagement with Edgenuity Video Content for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-premium-commercial-cloud-vaulting-services/"><u>2024 Approved Premium Commercial Cloud Vaulting Services</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rare-frankenboards-maximus-xiii-hero-with-custom-so-dimm-memory-slots-and-authentic-kingston-fury-logo-a-collectors-delight/"><u>Asus' Rare Frankenboards: Maximus XIII Hero with Custom So-DiMM Memory Slots and Authentic Kingston Fury Logo - A Collector’s Delight</u></a></li>
-<li><a href="https://games-able.techidaily.com/display-dominance-assessing-oled-amoled-and-ips-efficacy/"><u>Display Dominance: Assessing OLED, AMOLED & IPS Efficacy</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-mechanical-keyboards-role-in-gaming/"><u>Evaluating Mechanical Keyboards' Role in Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-immersive-experience-with-high-end-iems/"><u>Game Immersive Experience with High-End IEMs</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-delight-large-scale-arcade-framing/"><u>Gamer's Delight - Large-Scale Arcade Framing!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nubia-red-magic-9-proplus-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nubia Red Magic 9 Pro+ Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/microsoft-recall-understanding-why-it-isnt-the-ultimate-privacy-disaster-top-7-insights-to-ease-your-concerns-zdnet/"><u>Microsoft Recall: Understanding Why It Isn't the 'Ultimate Privacy Disaster' – Top 7 Insights to Ease Your Concerns | ZDNet</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/navigating-android-for-immersive-vr-experiences-for-2024/"><u>Navigating Android for Immersive VR Experiences for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-meets-joy-con-a-new-gaming-hybrid-experience/"><u>PlayStation Meets Joy-Con: A New Gaming Hybrid Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-ensure-your-next-handheld-games-device-meets-expectations/"><u>Steps to Ensure Your Next Handheld Games Device Meets Expectations</u></a></li>
-<li><a href="https://games-able.techidaily.com/uniting-different-game-worlds-connect-bedrock-with-java-on-geysermc-server/"><u>Uniting Different Game Worlds: Connect Bedrock with Java on GeyserMC Server</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-a-beginners-guide-choosing-your-first-film-camera/"><u>[New] In 2024, A Beginner's Guide Choosing Your First Film Camera</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pro-techniques-recording-your-twitch-showcase/"><u>[Updated] 2024 Approved Pro Techniques Recording Your Twitch Showcase</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-averages-questioning-game-score-credibility/"><u>Beyond Averages: Questioning Game Score Credibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-plugin-new-ways-to-engage-with-flash-gaming/"><u>Beyond the Plugin: New Ways to Engage with Flash Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-harmony-with-ps5-gaming-setup/"><u>Bluetooth Harmony with PS5 Gaming Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/breakthrough-rog-allys-core-console-fixation/"><u>Breakthrough: RoG Ally's Core Console Fixation</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-audio-worlds-on-playstation-5/"><u>Bridging Audio Worlds on PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/cinematic-journey-with-ps5-and-sony-pictures/"><u>Cinematic Journey with PS5 & Sony Pictures</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-updated-brother-hl-2280dw-drivers-on-windows-11windows-10vistaxp-download-guide/"><u>How to Get Updated Brother HL-2280DW Drivers on Windows 11/Windows 10/Vista/XP - Download Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-10-4g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Tecno Spark 10 4G</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-downloading-karaoke-tracks-from-youtube-without-restrictions/"><u>Step-by-Step Guide: Downloading Karaoke Tracks From YouTube Without Restrictions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mlined-simplicity-ayts-quick-ways-to-blur-background/"><u>Streamlined Simplicity AYT's Quick Ways to Blur Background</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/obile-filmmakers-blueprint-crafting-viral-thumbnails-for-youtubes-for-2024/"><u>The Mobile Filmmaker's Blueprint Crafting Viral Thumbnails for YouTubes for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/el-the-secrets-to-sequential-video-viewing-no-charges/"><u>Unravel the Secrets to Sequential Video Viewing (No Charges)</u></a></li>
 </ul></div>
 

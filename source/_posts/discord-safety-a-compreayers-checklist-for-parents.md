@@ -1,7 +1,7 @@
 ---
 title: "Discord Safety: A Compreayer's Checklist for Parents"
-date: 2025-01-28T16:33:34.360Z
-updated: 2025-01-30T18:04:25.041Z
+date: 2025-02-09T22:03:59.560Z
+updated: 2025-02-11T16:50:13.416Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Discord, and Why Do Kids Use It?
@@ -34,16 +34,12 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
  Discord has millions of active communities, or servers, as they are called. New ones are being created daily, since everyone can set up their own server free of charge. Some are private and invite-only, while others are public and can be accessed by anyone with a link. Like everyone else, kids and adolescents can use Discord to socialize, communicate with friends, and engage in various communities centered around their hobbies or interests.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does Discord Have Parental Controls?
 
 ![Discord logo on black and white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/discord-parental-controls.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
 
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
  ConnectSafely and the National Parent Teacher Association (PTA) have both endorsed Discord's Family Center. ConnectSafely CEO Larry Magid said the feature helps parents protect their children, while respecting privacy and not being too invasive. The President of the National PTA Yvonne Johnson echoed these sentiments, saying the Family Center will help create a "healthier digital environment."
 
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
@@ -67,25 +67,25 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
  It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Set Time Limits
 
  Setting time limits is a must as well. Excessive Discord usage (and excessive screen time in general) can have a major impact on a child's mental and physical well-being, influencing their academic performance and social development negatively. It's important to encourage other interests and set boundaries early on, so that the child doesn't develop addiction-like behaviors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Remind Your Kid to Lead by Example
 
  Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Encourage Critical Thinking
 
  And lastly, none of the above will make a real difference if your child isn't encouraged to think critically. It's one thing to be digitally literate, but it's imperative for every kid and teenager to understand how technology actually works, what motivates bad behaviors, how to identify threats, and why taking responsibility is important.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Discord Is as Safe as You Make It
 
@@ -108,18 +108,18 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-excellence-professional-editing-techniques-revealed-for-2024/"><u>[New] Instagram Excellence Professional Editing Techniques Revealed for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ally-x-overcomes-key-handheld-challenge/"><u>Ally X Overcomes Key Handheld Challenge</u></a></li>
-<li><a href="https://games-able.techidaily.com/collaborative-construction-in-mc-5-group-gaming-approaches/"><u>Collaborative Construction in MC: 5 Group Gaming Approaches</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-geforce-xray-issue/"><u>Fixing GeForce XRay Issue</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-highlights-next-gen-gaming-innovations/"><u>IFA 2023 Highlights Next-Gen Gaming Innovations</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-11-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 11? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1726029072243-iphoneandroid/"><u>IPhone・Android用: 動画から着信メロディ作成ガイド</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-5-controller-for-pc-a-comprehensive-guide/"><u>PlayStation 5 Controller for PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/qi-wireless-charging-now-available-on-iphone-12-without-requiring-magsafe-accessory/"><u>Qi Wireless Charging Now Available on iPhone 12 Without Requiring MagSafe Accessory</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-price-of-playing-free-to-play-switch-gems/"><u>The Price of Playing: Free-to-Play Switch Gems</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-10-pc-games-in-google-play-games-beta-tests/"><u>Top 10 PC Games in Google Play Games Beta Tests</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-value-asmr-gear-premium-sound-affordably-priced/"><u>Top Value ASMR Gear Premium Sound Affordably Priced</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unbeatable-amazon-labor-day-bargain-alert-snatch-up-an-ipad-for-just-199-bucks-highlighted-by-zdnet-news/"><u>Unbeatable Amazon Labor Day Bargain Alert: Snatch Up an iPad for Just 199 Bucks, Highlighted by ZDNet News!</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-and-master-your-way-through-youtubes-mini-gaming/"><u>Explore & Master Your Way Through YouTube's Mini Gaming</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-most-recent-intel-iris-plus-g7-gt4e-655-gpu-drivers-for-windows-operating-systems/"><u>Get the Most Recent Intel® Iris Plus G7 (GT4e) 655 GPU Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-dodge-a-bad-oled-monitor-buy/"><u>How to Dodge a Bad OLED Monitor Buy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-crafting-a-connected-collection-across-applications/"><u>In 2024, Crafting a Connected Collection Across Applications</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smoothly-blending-bio-and-linktree-on-your-tiktok-platform/"><u>In 2024, Smoothly Blending Bio & Linktree on Your TikTok Platform</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-gotrax-gxl-v2-the-ideal-urban-commuter-e-scooter/"><u>In-Depth Analysis of the Gotrax GXL V2 - The Ideal Urban Commuter E-Scooter</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-reimagines-keyboards-hot-swappable-widow-unleashed/"><u>Razer Reimagines Keyboards: Hot Swappable Widow Unleashed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/for-effortless-sharing-of-musical-selections/"><u>Tips for Effortless Sharing of Musical Selections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-e-commerce-platforms-of-2022-create-your-store-with-expert-reviews-zdnet/"><u>Top E-Commerce Platforms of 2022: Create Your Store with Expert Reviews - ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-razer-keyboard-illumination-issues/"><u>Troubleshooting Your Razer Keyboard Illumination Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unleash-your-stories-gratis-facebook-enhancers-online-and-on-the-go/"><u>Unleash Your Stories Gratis, Facebook Enhancers Online & On-The-Go</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-how-to-add-titles-in-final-cut-pro-x/"><u>Updated In 2024, How to Add Titles in Final Cut Pro X</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-xbox-s-strays-from-classic-gaming-formats/"><u>Why Xbox S Strays From Classic Gaming Formats</u></a></li>
 </ul></div>
 
