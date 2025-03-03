@@ -1,7 +1,7 @@
 ---
 title: "Achieve Control Calmness: Tame Xbox Series S"
-date: 2024-08-15T17:16:12.078Z
-updated: 2024-08-16T17:16:12.078Z
+date: 2025-03-01T17:25:04.957Z
+updated: 2025-03-03T00:33:04.271Z
 tags:
   - games
 categories:
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
 
  But aside from the practical caveats of altering controller vibration, the most common way you might otherwise be hindered is due to physical issues with a controller. A build-up of dirt, for instance, can cause stick drift or non-responsive vibration motors, and you may need to [take your Xbox controller apart](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) to fix any vibration problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Disable Controller Vibration on Xbox Series X|S
 
  Now you know some of the specifics involved in universally turning off controller vibration on your Xbox, let's take a look at how you actually do so on your own Xbox. To universally disable controller vibration on your Xbox Series X|S, follow these steps:
@@ -41,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
 * Highlight the options for**Profile & system** , and select**Settings** .
 
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Under**Accessibility** , select**Controller** .
 
@@ -56,40 +50,19 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
 * Ensure that**Turn on vibration** is deselected.
 
 ![A screenshot of the button mapping screen for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-vibration.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
  With**Turn on vibration** unchecked and disabled, your current controller**Profile** will have vibration universally disabled no matter what game or app you use on your Xbox. Inversely, if you ever want to re-enable vibration, simply go back into**Vibration settings** and ensure**Turn on vibration** is selected.
 
  If you ever switch your controller**Profile** or reset a**Profile** to default settings, your vibration preferences would be overwritten. In this case, you would need to [configure your Xbox Series X|S controller](https://www.makeuseof.com/configure-xbox-series-s-x-controller/) again to ensure vibration is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Customize Your Xbox Wireless Controller to Suit You
 
  With your controller optimized and vibration-free, you'll be able to use your Xbox Series X|S without the fear of intrusive rumble features disturbing your experience of the platform. And aside from controller-centric features, your Xbox console is also full of preferences that can prevent unnecessary intrusions.
 
  So, by customizing your controller settings to your preferences, you can even go on to do the same for your Xbox Series X|S to help guarantee your gaming experience.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: Why Is Your Xbox Series X|S Constantly Vibrating?
 
  If your Xbox Series X|S controller is constantly vibrating or carries on vibrating even after disabling the feature, there may be a fault with your controller. To fix controller vibration, you need to [take apart your Xbox Wireless Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) and replace the vibration motors. Failing this, you will need to replace your Xbox controller.
@@ -102,14 +75,11 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
 
  The Xbox Wireless Controller for Xbox Series X|S and the PlayStation 5 DualSense Controller use haptic feedback to enhance your immersion in a game. Put plainly, by using smaller and more precise rumble effects, haptic feedback allows for intricate and accurate reflections of your gameplay when compared to standard controller vibration. However,[the ways haptic feedback enhances immersion](https://www.makeuseof.com/force-haptic-feedback-games/) are broad and even extend to targeting your senses.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,8 +88,20 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-comparing-obs-and-fraps-aimed-at-filmmakers/"><u>[Updated] Comparing OBS and Fraps Aimed at Filmmakers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-for-proficient-use-of-movie-maker-in-win11/"><u>2024 Approved Step-by-Step Guide for Proficient Use of Movie Maker in Win11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-revolution-of-filmmaking-discovering-yis-4k-hero-series/"><u>2024 Approved The Revolution of Filmmaking Discovering Yi's 4K Hero Series</u></a></li>
+<li><a href="https://win-answers.techidaily.com/genshin-impact-stability-problems-heres-how-to-prevent-pc-crashes/"><u>Genshin Impact Stability Problems? Here's How to Prevent PC Crashes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-7-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 7 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-skys-the-limit-crafting-professional-drone-videos/"><u>In 2024, Sky's the Limit Crafting Professional Drone Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/microsoft-explores-ai-powered-chatbot-innovations-for-enhanced-xbox-user-support-discover-the-mechanics/"><u>Microsoft Explores AI-Powered Chatbot Innovations for Enhanced Xbox User Support – Discover the Mechanics</u></a></li>
+<li><a href="https://games-able.techidaily.com/snag-the-odyssey-g7-from-samsung-at-half-price-in-amazons-mega-spring-promo-top-deal-on-zdnet/"><u>Snag the Odyssey G7 From Samsung at Half Price in Amazon's Mega Spring Promo: Top Deal on ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-11-solutions-for-eliminating-display-flash-issues-on-windows-11-systems/"><u>Top 11 Solutions for Eliminating Display Flash Issues on Windows 11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-ultimate-40-viewing-experience-industry-experts-weigh-in/"><u>Top Picks for Ultimate 40 Viewing Experience - Industry Experts Weigh In</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-presidents-day-blowout-discounts-alive-exclusive-offers-at-amazon-walmart-and-best-buy/"><u>Top President's Day Blowout Discounts Alive: Exclusive Offers at Amazon, Walmart & Best Buy</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranking-glorious-aura-keycaps-explored-the-ultimate-guide-to-premium-pudding-caps-featured-on-zdnet/"><u>Top-Ranking Glorious Aura Keycaps Explored: The Ultimate Guide to Premium Pudding Caps - Featured on ZDNet</u></a></li>
+</ul></div>
 

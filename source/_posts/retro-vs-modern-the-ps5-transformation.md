@@ -1,7 +1,7 @@
 ---
 title: "Retro Vs. Modern: The PS5 Transformation"
-date: 2025-02-10T23:58:29.454Z
-updated: 2025-02-11T18:54:21.927Z
+date: 2025-02-25T20:18:07.334Z
+updated: 2025-03-02T17:13:14.517Z
 tags:
   - games
 categories:
@@ -21,17 +21,9 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Sony Is Launching a New (Slimmer) PS5
 
 ![the new slimmer PS5 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/new-slim-version-of-the-ps5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
@@ -50,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
  If you're having trouble imagining what that looks like, we entered the sizes of all the PS5 models, old and new, into[CompareSizes.com](https://comparesizes.com/comparison/Old-PS5-Disc-Edition-vs-Old-PS5-Digital-Edition-vs-New-PS5-Disc-Edition/1697380758700) . Looking at the results, while smaller than the original, the newer PS5 models will still take up some space.
 
 ![the size differences for all PS5 versions on the CompareSizes website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-size-differences-for-all-ps5-versions-on-comparesizes-website.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
@@ -75,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
  So that means you'll have over 200GB of extra internal storage space on the new PS5\. You can always upgrade it by[adding an M.2 SSD to the PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) with more storage space if that's still not enough.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Old PS5 vs. New PS5: Price
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
@@ -86,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
@@ -114,18 +94,22 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-the-art-of-multitasking-with-picture-in-picture/"><u>[Updated] 2024 Approved Mastering the Art of Multitasking with Picture In Picture</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-reasons-to-challenge-ray-tracings-dominance-in-gaming/"><u>7 Reasons to Challenge Ray Tracing's Dominance in Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/accessories-more-than-just-visual-enhancements/"><u>Accessories: More Than Just Visual Enhancements</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-powered-narrative-building-for-games/"><u>AI-Powered Narrative Building for Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-the-variances-in-asus-tuf-proart-prime-pcs/"><u>Analyzing the Variances in Asus, Tuf, ProArt, Prime PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-royale-at-your-desktop-selecting-the-best-online-fps-games/"><u>Battle Royale at Your Desktop: Selecting the Best Online FPS Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-competitors-to-grab-spider-man-2-limited-edition/"><u>Beat Competitors to Grab Spider-Man 2 Limited Edition</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-htc-u23-is-unlocked-by-drfone-android/"><u>How To Check if Your HTC U23 Is Unlocked</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-tecno-pop-8-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Tecno Pop 8 is off? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-workstation-nvidia-quadro-graphics-drivers-for-windows-11/"><u>Optimize Your Workstation: NVIDIA Quadro Graphics Drivers for Windows 11</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/persistent-scanner-errors-discover-why-with-yl-softwares-expert-analysis/"><u>Persistent Scanner Errors? Discover Why with YL Software's Expert Analysis</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-compressing-videos-in-final-cut-pro-x/"><u>The Ultimate Guide to Compressing Videos in Final Cut Pro X</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-a23-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy A23 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dive-into-filmmaking-the-role-of-lenses-in-videos/"><u>[New] 2024 Approved Dive Into Filmmaking The Role of Lenses in Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-youtube-video-magic-advanced-editing-with-premiere-pro/"><u>[New] 2024 Approved YouTube Video Magic Advanced Editing with Premiere Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-between-the-nintendo-switch-and-nintendo-switch-oled-a-comprehensive-guide-zdnet/"><u>Choosing Between the Nintendo Switch and Nintendo Switch OLED: A Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-ps4-gamepad-to-phone-with-ease-comprehensive-instructions-for-gamers/"><u>Connect PS4 Gamepad to Phone with Ease – Comprehensive Instructions for Gamers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-buy-subscribers-wisely-watch-your-numbers-soar/"><u>In 2024, Buy Subscribers Wisely, Watch Your Numbers Soar!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-ios-leaders-the-10-ultimate-video-apps-to-know/"><u>In 2024, IOS Leaders The 10 Ultimate Video Apps to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-analysis-of-the-shure-mv7-microphone-the-ultimate-choice-for-podcasters-and-streamers-revealed-by-zdnet/"><u>In-Depth Analysis of the Shure MV7 Microphone: The Ultimate Choice for Podcasters and Streamers Revealed by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/income-streams-from-windows-11-an-examination/"><u>Income Streams From Windows 11: An Examination</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-2024-ultimate-television-bargains-save-big-on-your-favorite-shows-56plus-deals-zdnet-insider-tips/"><u>Labor Day 2024 Ultimate Television Bargains: Save Big on Your Favorite Shows (56+ Deals) | ZDNET Insider Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-the-world-of-youtube-building-strong-partner-relationships/"><u>Navigating the World of YouTube Building Strong Partner Relationships</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-study-reveals-why-pc-gamers-are-switching-to-windows-11-leaving-behind-windows-10-digital-trends/"><u>New Study Reveals Why PC Gamers Are Switching to Windows 11, Leaving Behind Windows 10 | Digital Trends</u></a></li>
+<li><a href="https://blog-min.techidaily.com/revolutionizing-gaming-how-microsofts-directx-raytracing-dxr-enhances-pc-graphics/"><u>Revolutionizing Gaming: How Microsoft's DirectX Raytracing (DXR) Enhances PC Graphics</u></a></li>
+<li><a href="https://games-able.techidaily.com/scoring-a-deal-secure-the-ultimate-viewing-experience-with-this-85-inch-tcl-tv-on-sale-for-only-900-exclusive-labor-day-blowout-at-zdnet/"><u>Scoring a Deal? Secure the Ultimate Viewing Experience with This 85-Inch TCL TV on Sale for Only $900 | Exclusive Labor Day Blowout at ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-chrome-and-firefox-issues-stop-youtube-videos-from-stopping-audio/"><u>Solving Chrome and Firefox Issues: Stop YouTube Videos From Stopping Audio</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-56-unbeatable-labor-day-television-bargains-discover-them-here-zdnet/"><u>Top 56 Unbeatable Labor Day Television Bargains - Discover Them Here! | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-hidden-gaming-console-within-this-affordable-samsung-projector-now-with-an-extra-200-savings/"><u>Unveiling the Hidden Gaming Console Within This Affordable Samsung Projector - Now with an Extra $200 Savings!</u></a></li>
 </ul></div>
 

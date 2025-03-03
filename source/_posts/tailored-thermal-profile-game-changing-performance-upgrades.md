@@ -1,7 +1,7 @@
 ---
 title: "Tailored Thermal Profile: Game-Changing Performance Upgrades"
-date: 2025-02-10T21:23:31.982Z
-updated: 2025-02-11T22:46:49.638Z
+date: 2025-02-26T23:38:48.993Z
+updated: 2025-03-03T00:43:00.458Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -51,17 +47,9 @@ Jhet Borja/MakeUseOf
 
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jhet Borja/MakeUseOf
 
  If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out[how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or[undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should Your GPU Fans Run at 100%?
 
@@ -72,10 +60,6 @@ Jhet Borja/MakeUseOf
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
 
@@ -114,17 +98,9 @@ Jhet Borja/MakeUseOf
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
 
@@ -151,22 +127,20 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-seamlessly-stream-and-save-youtube-lives-from-every-device/"><u>[New] 2024 Approved Seamlessly Stream and Save YouTube Lives From Every Device</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-a-list-of-the-best-8-sites-for-free-3d-text-psd-downloads/"><u>[New] A List of the Best 8 Sites for Free 3D Text PSD Downloads</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-essential-action-cam-recommendations-for-winter-sports/"><u>[New] Essential Action Cam Recommendations for Winter Sports</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-mastering-vivacut-an-exhaustive-2024-review/"><u>[New] Mastering VivaCut An Exhaustive 2024 Review</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-to-mp3-converting-hacks-for-2024/"><u>[Updated] Instagram Video-to-MP3 Converting Hacks for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pivotal-movie-edits-ranked-by-professionals/"><u>2024 Approved Pivotal Movie Edits Ranked by Professionals</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-adjusting-nintendo-switch-regional-settings/"><u>Guide: Adjusting Nintendo Switch Regional Settings</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-tecno-spark-20-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Tecno Spark 20</u></a></li>
-<li><a href="https://games-able.techidaily.com/linux-terminal-gaming-guide-top-7-suggestions/"><u>Linux Terminal Gaming Guide: Top 7 Suggestions</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-joy-cons-and-pro-pads-a-comprehensive-guide-to-2024/"><u>Optimal Joy-Cons & Pro Pads: A Comprehensive Guide to 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-mobile-tools-to-enhance-dji-drone-imagery-for-2024/"><u>Prime Mobile Tools to Enhance DJi Drone Imagery for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/repair-guide-reviving-your-xbox-sx/"><u>Repair Guide: Reviving Your Xbox S/X</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-your-playstation-5-controller-with-ease/"><u>Reviving Your PlayStation 5 Controller with Ease</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-intels-hidden-issues-in-their-new-core-design/"><u>Unveiling Intel's Hidden Issues in Their New Core Design</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-tracking-game-cost-over-time-on-steam/"><u>Unveiling: Tracking Game Cost Over Time on Steam</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-win11s-graphic-backbone-using-acer-tools/"><u>Update Win11's Graphic Backbone Using Acer Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-i-favor-ioss-finest-choosing-apple-arcade/"><u>Why I Favor iOS's Finest: Choosing Apple Arcade</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-6-proven-techniques-to-elevate-your-youtube-engagement-and-reduce-churn/"><u>[New] 2024 Approved 6 Proven Techniques to Elevate Your YouTube Engagement and Reduce Churn</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-15-cine-luts-for-gopro-action-cam/"><u>[New] 2024 Approved Top 15 Cine LUTs for Gopro Action Cam</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-unlocking-the-full-potential-of-canvas-image-tools/"><u>[New] In 2024, Unlocking the Full Potential of Canva's Image Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamyrecorder-your-simple-screen-recorder-for-windows-11/"><u>[New] StreamyRecorder Your Simple Screen Recorder for Windows 11</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-6-misconceptions-macs-vs-gaming-computers/"><u>Dissecting 6 Misconceptions: Macs Vs. Gaming Computers</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/download-the-hottest-edm-tracks-from-the-video-pools-top-charted-music-videos/"><u>Download the Hottest EDM Tracks From The Video Pool's Top Charted Music Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-interactive-communication-enhancing-your-youtube-presence/"><u>In 2024, Interactive Communication Enhancing Your YouTube Presence</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalizing-the-visual-fidelity-of-your-xbox-series-xs-via-vrr-configuration/"><u>Personalizing the Visual Fidelity of Your Xbox Series X|S via VRR Configuration</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-games-at-no-cost-on-series-xs/"><u>Revive Games at No Cost on Series X|S</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211239412-9798888962060-runic-connection/"><u>Runic Connection | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-troublesome-display-driver-failed-error-on-windows-1111-update/"><u>Tackling Troublesome Display Driver Failed Error on Windows 11/11 Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-the-story-behind-foddian-game-names/"><u>Uncovering the Story Behind Foddian Game Names</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-gaming-chaos-top-10-reasons-and-fixes-for-smooth-play/"><u>Unraveling Gaming Chaos: Top 10 Reasons & Fixes for Smooth Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtubes-newest-fun-interactive-and-playable-mini-games/"><u>YouTube's Newest Fun: Interactive and Playable Mini-Games</u></a></li>
 </ul></div>
 

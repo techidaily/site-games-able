@@ -1,7 +1,7 @@
 ---
 title: Addressing Expired Card Issues on Sony Console
-date: 2024-08-15T17:15:47.762Z
-updated: 2024-08-16T17:15:47.762Z
+date: 2025-02-28T22:38:22.370Z
+updated: 2025-03-02T18:27:38.550Z
 tags:
   - games
 categories:
@@ -37,9 +37,6 @@ Here’s what you should do:
 
 Be extra careful to enter the right numbers and confirm your details.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 2\. Fund the Card
 
  You might simply not have enough money on your card for the purchase you want to make. The methods to confirm this amount vary depending on your bank or the type of card you’ve added.
@@ -48,9 +45,6 @@ Be extra careful to enter the right numbers and confirm your details.
 
  After adding funds to the card or your bank account, return to the PS5 and try to make the purchase again. It should work this time around.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Replace Your Card
 
  Eventually, all cards expire, and in some cases, the card provider terminates their services before the expiry. You should replace your card by deleting the old card and adding a new one to your PS5.
@@ -62,18 +56,12 @@ Follow these instructions:
 3. When you enter the Add a Credit/Debit Card page, select**Use Controller Instead** (you can also scan the QR code to use your phone).
 4. Add the new card number, expiration date, security code, and name on the card.  
 ![Input page for a credit and debit card on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/input-page-for-a-credit-debit-card-on-the-ps5.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 5. Choose**Continue** and enter your address.
 
  Your card’s address must match with your PS5’s region. If you don’t have the correct region selected, we have [an unofficial way you can change your PS5’s region](https://www.makeuseof.com/how-to-unofficially-change-ps-store-region/) . Sony has not provided any official way to do so yet.
 
  You can add as many cards as you want to your PS5, but you should select the preferred one as the default payment method (favor the regularly funded one).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Change the Payment Method
 
  Cards are great, but they aren’t the only way to make payments on a PS5\. There are a couple of other ways you can pay:
@@ -83,23 +71,17 @@ Follow these instructions:
 
  You can learn how to add these methods and set them as your default in our guide on [how to add funds to your PSN wallet and buy games](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) .
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Card Problems Are Mostly From the Issuer
 
  Most card issues will come from your end or will be the card provider’s fault. Sony doesn’t provide support apart from similar advice we’ve given here. So, contacting PlayStation Support might not necessarily help any more than this will.
 
  A good way to troubleshoot card issues is to contact your bank or credit institution and lodge your complaints. If the card is valid, the information you input into the PS5 matches on all accounts, and you have enough cash on it, then you should be able to use it with no problems.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,8 +90,20 @@ Follow these instructions:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-prime-7-cameras-unbeatable-in-underwater-shooting-for-2024/"><u>[New] Prime 7 Cameras Unbeatable In Underwater Shooting for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-crafting-vivid-instagram-profile-previews-for-2024/"><u>[Updated] Crafting Vivid Instagram Profile Previews for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-15-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 15 with a Broken Screen?</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-lifesaver-backing-up-steam-saved-games/"><u>Digital Lifesaver: Backing Up Steam Saved Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-steps-to-delete-outdated-data-on-ps5-console/"><u>Easy Steps to Delete Outdated Data on PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-white-hardware-choices-on-a-limited-dollar/"><u>Essential White Hardware Choices on a Limited Dollar</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-15-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 15 Plus without Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-windows-games-on-an-apple-silicon-mac-using-crossover/"><u>How to Play Windows Games on an Apple Silicon Mac Using CrossOver</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-writers-who-defined-genres-through-exceptional-works/"><u>In 2024, Writers Who Defined Genres Through Exceptional Works</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/liberate-your-conversations-with-windows-freegpt/"><u>Liberate Your Conversations with Windows FreeGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-playgrounds-the-ultimate-fps-startup-guide/"><u>Precision Playgrounds: The Ultimate FPS Startup Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-xbox-xs-playtime-details/"><u>Uncover Xbox X/S Playtime Details</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s18-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S18 Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Best Buys in PlayStation Summer Clearance Sale
-date: 2024-08-08T09:09:32.781Z
-updated: 2024-08-09T09:09:32.781Z
+date: 2025-02-25T00:39:09.352Z
+updated: 2025-03-02T21:21:39.278Z
 tags:
   - games
 categories:
@@ -30,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/8979e8080587e2a8dc2c43407031e5a8747618e7a
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 3\. Deathloop
 
  Deathloop is 75% off, which is a massive saving for a Game of the Year nominee. If you like first-person shooters and the movie Groundhog Day, you will most likely love Deathloop. You may be thinking that that’s a strange combination of things, and you wouldn’t be wrong. But Deathloop is an action-packed adventure that is puzzling, hilarious, and well worth $14.99.
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 4\. Little Nightmares 1 & 2
 
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
@@ -54,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/8979e8080587e2a8dc2c43407031e5a8747618e7a
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Unravel Two
 
  Unravel Two is a beautifully rendered puzzle platformer that can be enjoyed alone, but it is best experienced with a friend. It has some incredibly unique and satisfying mechanics where you can use the yarn that makes up your body to interact with your surroundings and solve puzzles. It is very similar to It Takes Two, so if you were a fan of that, this should be at the top of your backlog.
@@ -69,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/8979e8080587e2a8dc2c43407031e5a8747618e7a
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Resident Evil Village
 
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
@@ -84,30 +72,21 @@ thumbnail: https://thmb.techidaily.com/8979e8080587e2a8dc2c43407031e5a8747618e7a
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Final Fantasy VII Remake
 
  Final Fantasy VII Remake is the first of two parts. The next chapter, Final Fantasy VII Rebirth, is scheduled for release in 2024\. If you are intrigued by the look of Final Fantasy Rebirth, now is your chance to play the first part for 50% off.
 
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Be a Little Adventurous This Summer
 
  What better way is there to have an adventurous summer than to get your hands on a literal adventure for super cheap? The PlayStation summer sale will end on August 16th, 2023, so make sure you take a look and pick up a great deal before it’s too late.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,6 +95,22 @@ thumbnail: https://thmb.techidaily.com/8979e8080587e2a8dc2c43407031e5a8747618e7a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-tailored-techniques-to-procure-tweets-gifs-for-2024/"><u>[New] Tailored Techniques to Procure Tweets GIFs for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-understanding-a-symbol-the-purpose-of-facebooks-blue-emoji/"><u>[Updated] In 2024, Understanding a Symbol The Purpose of Facebook's Blue Emoji</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/boxing-brilliance-versus-broadband-bonanza/"><u>Boxing Brilliance versus Broadband Bonanza</u></a></li>
+<li><a href="https://win-lab.techidaily.com/comment-faciliter-le-recuperation-des-donnees-dun-espace-de-stockage-cloud-une-methode-rapide-et-facile/"><u>Comment Faciliter Le Récupération Des Données D’un Espace De Stockage Cloud : Une Méthode Rapide Et Facile</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-enjoyment-embark-on-idles/"><u>Effortless Enjoyment: Embark on Idles</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-xbox-game-pass-games-on-steam-link-with-glossi/"><u>How to Play Xbox Game Pass Games on Steam Link With GlosSI</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-envy-laptop-series-fixing-the-7640s-driver-woes-with-ease/"><u>HP Envy Laptop Series: Fixing the 7640'S Driver Woes with Ease</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/introducing-jacos-smartpro-digital-tire-inflator-an-expert-assessment-of-a-portable-and-robust-tire-pump/"><u>Introducing Jaco's SmartPro Digital Tire Inflator: An Expert Assessment of a Portable and Robust Tire Pump</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-precise-assessment-of-cpu-utilization-in-windows/"><u>Methods for Precise Assessment of CPU Utilization in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-through-pc-hdr-content-watch-edit-enjoy/"><u>Navigating Through PC HDR Content Watch, Edit, Enjoy</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-performance-heres-why-to-rethink-ray-tracing/"><u>Optimizing Performance? Here's Why to Rethink Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickquest-quirks-special-abilities-for-a-time/"><u>QuickQuest Quirks: Special Abilities for a Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-remedy-fixing-joy-con-connection-errors-in-nintendo-switch/"><u>Swift Remedy: Fixing Joy-Con Connection Errors in Nintendo Switch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-displays-ultimate-ps5-and-xbox-series-consoles-compatible-monitors/"><u>Top Rated Gaming Displays: Ultimate PS5 & Xbox Series Consoles Compatible Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-free-fun-on-switch-curated-collection/"><u>Unlock Free Fun on Switch: Curated Collection</u></a></li>
+</ul></div>
 

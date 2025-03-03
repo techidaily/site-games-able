@@ -1,7 +1,7 @@
 ---
 title: "$489+ InnoCN 39G1 R: Top Refresh Tech"
-date: 2024-08-15T17:15:43.575Z
-updated: 2024-08-16T17:15:43.575Z
+date: 2025-02-25T21:22:15.512Z
+updated: 2025-03-02T22:51:50.965Z
 tags:
   - games
 categories:
@@ -111,9 +111,6 @@ Yes - 3000R
  As for cable management, there's no channel in the stand to run the cables, but there is a small circular cutout as well as a port cover.
 
 ![innocn 39g1r - rear panel and cable ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-rear-panel-and-cable-ports.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  You'll find two HDMI 2.0 ports and two DisplayPort 1.4 ports. Unfortunately, if your cabling is a bit large, the port cover barely fits back on. I found angling the monitor applied just enough force on the port cover to pull it off again. I'll probably leave it off–it’s not essential, especially if the back of the display isn't visible.
 
@@ -128,9 +125,6 @@ Yes - 3000R
  On the rear, you'll find a diagonal line of LEDs. They’re not bright enough to serve as bias lighting (in the image above, the blue reflecting on the wall is coming from my PC fans, not the monitor), nor do they synchronize with on-screen content. You can manually configure them to one of seven different static colors, a few different scene styles, and adjust the brightness (though the maximum "vibrant" brightness setting would be better described as "just about visible").
 
 ![innocn 39g1r monitor rear middle of room-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-monitor-rear-middle-of-room-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
  No attribution required; taken by author James Bruce  
 
@@ -139,24 +133,14 @@ Yes - 3000R
  The 39G1R product specs claim to be VESA mountable, but that might be a mistake. I don't see any mounting points, and it would be tricky given the large cylindrical area into which the bracket inserts.
 
 ![innocn 39g1r - display rear cyclinder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-display-rear-cyclinder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
  The legs have a sizable footprint, however, and the option to VESA mount would have been appreciated. Unlike the small, solid metal bases of most monitors, the 39G1R relies on a tripod leg structure. It's stable, but it requires about a foot of depth. While you probably wouldn’t try to cram a 39-inch monitor onto a tiny desk anyway, that’s still a significant footprint for any desk size. The awkward tripod shape also means you can't slide a mini-PC in there, or tuck your keyboard out of the way when not in use.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## OSD and Controls
 
  The display is controlled with a single nub-like thumbstick underneath, in the center. Tap in any direction or click to open the first menu, and click again to turn off the display. You can also navigate right to the full on-screen display menu, left to control the lighting, or up for "game mode", which adds a customizable crosshair in the center of the display.
 
 ![innocn 39g1r - OSD menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-osd-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  It’s a somewhat confusing system, and I often turned the monitor off unintentionally until I'd gotten used to it. Input swapping was a notable pain point. While one might expect input swapping to be on the quick menu, the only way to swap is to navigate the full OSD menu structure. To illustrate, swapping from HDMI 1 to DP 1 requires a sequence of button presses more akin to a Street Fighter special move: right, right, right, down, down, right. On the other hand, if you shut down one input, it will automatically switch over, so it’s a minor nuisance.
 
@@ -175,9 +159,6 @@ Yes - 3000R
  Still, SDR content looks incredible. The panel uses VA technology with a 3000:1 contrast ratio, which enables it to deliver deep blacks. The glossy screen finish also helps with overall color richness, though it's prone to reflections from ambient light sources.
 
 ![innocn 39g1r - lego browls high motion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-lego-browls-high-motion.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
  The maximum refresh rate is 165Hz, which will benefit any high-motion gaming (though only if your machine can push the frames that fast). But as with many VA panels, there might be some ghosting. You can adjust the response time in the on-screen menu if you find this problematic, but it won't eliminate the problem entirely. In real-world usage, I didn't notice any ghosting.
 
@@ -192,17 +173,10 @@ Yes - 3000R
  In Cyberpunk, I managed about 120fps max with medium settings, but even that looked incredible. I didn't notice any lack of sharpness from the resolution, but maybe that's because I've never been able to play it in 4K resolution anyway, given how demanding the game is. The brightness seemed good, the colors were well-defined with plenty of details in the shadows, and the black levels were superb. The benefits of VA panel tech are obvious in a game like this.
 
 ![innocn 39g1r - cyberpunk bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-cyberpunk-bar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
  To test the high frame rates, I loaded up Lego Brawls, which is basic enough to run at the full 165 frames a second—and promptly came first in every match I played. I'm not saying the high frame rate was a huge benefit when weighed against my obvious elite skills to compete against random children on the internet. Still, it probably played a not insignificant role.
 
 ![innocn 39g1r - lego bralws gameplay top brawlers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-lego-bralws-gameplay-top-brawlers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
  I also wanted to try something strategy-based to see if the low pixel density was more frustrating, so I fired up Company of Heroes. The added size of the map more than made up for any loss of detail. However, we should acknowledge that monitors can be highly subjective—you may be more sensitive to low pixel densities than I am.
 
@@ -215,10 +189,6 @@ The ultimate burning program for all your needs!</a>
  Now that’s good enough for most people, but don’t buy this specifically for VRR support if you’re on PlayStation. This isn’t uncommon, I should add. Sony has implemented a very restrictive form of variable refresh which needs HDMI 2.1, and the 39G1R doesn’t provide that. For the highest refresh rates, you’ll need to use the DisplayPort.
 
 ![innocn 39g1r - call of duty](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-call-of-duty.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  I also ran through the standard assortment of Eizo monitor tests, and a couple of points stood out that I hadn’t noticed during regular use.
 
@@ -233,31 +203,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Secondly, on the response rate test, there was some definite ghosting, most evident on dark blue, which led to purple ghosting on the grey background, and bright red with brown ghosting.
 
 ![innocn 39g1r - brown and purple ghosting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-brown-and-purple-ghosting.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The ghosting is to be expected from a VA panel, as are minor uniformity issues on something at this budget.
 
  Best left unspoken are the built-in 2W speakers. They’re functional, but no surprises there: they are monitor speakers, and pretty much anything else would be better.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Should You Buy the Innocn 39G1R?
 
  In the sub-$500 price range, the 39G1R can’t be beaten. It’s not the highest pixel density around, but the sheer size, the high refresh rates, and the high contrast ratio more than make up for it. If you did want 4K resolution, the closest alternative would be the [38” ASUS ROG PG38UQ](https://www.amazon.com/ASUS-Swift-Gaming-Monitor-PG38UQ/dp/B0BZR81SQG?tag=muo-v2-7s9kakr-20&ascsubtag=UUmuoUeUpU2029202&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Finnocn-39g1r-review%2F&asc%5Fcampaign=Affiliate) , at almost three times the price.
 
  For value and impact, the Innocn 39G1R is a fantastic buy. It might not suit the most discerning of folks, but for most people, I think you’ll be really pleased.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -266,8 +227,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-making-simple-text-pop-in-videos-without-costs/"><u>[New] 2024 Approved Making Simple Text Pop in Videos without Costs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-stabilizing-shots-best-4k-gimbals-reviewed/"><u>[Updated] In 2024, Stabilizing Shots Best 4K Gimbals Reviewed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unfolding-cinema-narratives/"><u>2024 Approved Unfolding Cinema Narratives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-how-to-remove-background-in-picsart-for-2024/"><u>Behind the Scenes How to Remove Background in Picsart for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-playtime-steam-decks-memory-boost/"><u>Elevate Your Playtime: Steam Deck's Memory Boost</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhancing-bloodhunt-performance-overcoming-pc-glitches-freezes-and-stutters/"><u>Enhancing Bloodhunt Performance: Overcoming PC Glitches, Freezes & Stutters</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Infinix Smart 7 HD</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-integration-of-android-and-windows-11-for-an-enhanced-user-experience/"><u>Mastering the Integration of Android and Windows 11 for an Enhanced User Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-future-handheld-gaming/"><u>Navigating the Future: Handheld Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-virtual-realms-for-gaming-success/"><u>Optimizing Virtual Realms for Gaming Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-display-driver-non-startup-problems-in-win1011/"><u>Overcoming Display Driver Non-Startup Problems in Win10/11</u></a></li>
+</ul></div>
 

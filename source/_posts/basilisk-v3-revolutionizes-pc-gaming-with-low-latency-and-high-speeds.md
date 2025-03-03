@@ -1,7 +1,7 @@
 ---
 title: Basilisk V3 Revolutionizes PC Gaming with Low Latency & High Speeds
-date: 2024-08-08T09:12:44.356Z
-updated: 2024-08-09T09:12:44.356Z
+date: 2025-02-27T17:59:59.800Z
+updated: 2025-03-02T21:19:15.837Z
 tags:
   - games
 categories:
@@ -22,14 +22,8 @@ thumbnail: https://thmb.techidaily.com/32a49341dcd2e3ff58b1a58ec7c331011d71244cd
 
  Building off the success of the hugely popular wired Razer Basilisk V3 (released in September 2021), the Razer Basilisk V3 Pro gets updated with wireless connectivity and an even faster sensor. If you already own or have used the previous wired model and looking for an upgrade or replacement, the V3 Pro is worth checking out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Razer Basilisk V3 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Razer-Basilisk-V3-Pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/editors-choice-2024.png)
 
 ##### Razer Basilisk V3 Pro
@@ -87,13 +81,6 @@ Yes
 
  With its 11 programmable buttons, dual-mode tilt wheel, and Razer’s third-gen optical switches, this is Razer's best and fastest customizable wireless mouse, though it does have a few quirks. Unfortunately, the V3 Pro comes in at a higher $160 price point and a rather heavy weight of 112g, which may deter those on a tighter budget and those who prefer lighter options. Many of the V3 Pro's new features also rely on additional hardware which is not included in the box. That said, for those looking for a more well-rounded gaming mouse that can also double as a solid everyday wireless option, the V3 Pro is just that.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## What's New? V3 vs V3 Pro
 
  The Basilisk V3 Pro features the Razer Focus Pro 30K Optical Sensor, which Razer calls, "the world's most precise optical sensor." Marketing jargon aside, the Focus Pro sensor provides three levels of lift-off customization with 26 levels of height adjustment for gamers to program their mouse specifically to their unique play style. With smart tracking and motion sync, this optical sensor also maintains better control and greater accuracy on any surface—even tracking on glass as long as it is at least 4mm thick. While most users will probably still stick to their trusty mouse pads, for the times when one isn't available, the mouse still works great.
@@ -108,16 +95,10 @@ Paul Antill / MUO
 
 Paul Antill / MUO
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Design: RGB All The Things
 
  The V3 Pro is a right-handed mouse, focussed on ergonomic and style. It's available in two colors: black, or white.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Razer Basilisk V3 - Official Colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-official-colors.jpg)
 
 Paul Antill / MUO
@@ -132,9 +113,6 @@ Paul Antill / MUO
 
  For RGB lighting, there are 12 lighting zones, full under glow, and plenty of customizable options.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Razer Basilisk V3 - RGB Zones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-rgb-zones.jpg)
 
 Paul Antill / MUO
@@ -147,9 +125,6 @@ Paul Antill / MUO
 
  However, as we quickly found out, you will need to leave Razer Synapse running for your custom lighting effects to play. Even closing the window once your preferred settings are saved will cause the mouse to default to its basic pattern.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Razer Basilisk V3 - Synapse Customization](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-synapse-customization.jpg)
 
 Paul Antill / MUO
@@ -176,9 +151,6 @@ Paul Antill / MUO
 
  To maintain a 90-hour battery life, the Basilisk V3 Pro contains an internal battery that sits just above the sensor in an assembly that also includes a slot for the scroll wheel's housing. All of this together makes the device fairly front-heavy, with an overall weight of 112g, far heavier than the usual 70-80g max, which some enthusiasts try to stay under. While this isn't as noticeable as sliding the mouse, if you frequently lift your mouse, it will be.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Razer Basilisk V3 - Laying on its Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-laying-on-its-side.jpg)
 
 Paul Antill / MUO
@@ -195,9 +167,6 @@ Paul Antill / MUO
 
  The Razer Basilisk V3 Pro offers a beautiful design and excellent integration with its device ecosystem. For those contemplating an upgrade from the previous Basilisk V3 or deciding between the two, it essentially boils down to how much you value the Pro's wireless enhancements. Its excellent ergonomics, fast Bluetooth and 2.4GHz connections, along with a remarkable 90-hour battery life, certainly make it stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Razer Basilisk V3 - Left Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-left-side.jpg)
 
 Paul Antill / MUO
@@ -206,9 +175,6 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Razer-Basilisk-V3-Pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/editors-choice-2024.png)
 
 ##### Razer Basilisk V3 Pro
@@ -221,14 +187,11 @@ Paul Antill / MUO
 
 [$150 at Amazon](https://www.amazon.com/Razer-Basilisk-Customizable-Wireless-Gaming/dp/B0BHFDVLF8?th=1&tag=makeusw-20&ascsubtag=UUmuoUeUpU2030588&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Frazer-basilisk-v3-pro-review%2F&asc%5Fcampaign=Affiliate) [See at Razer](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2030588&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgaming-mice%2Frazer-basilisk-v3-pro%2FRZ01-04620100-R3G1%23specs) [See at Walmart](https://www.walmart.com/ip/Razer-Basilisk-V3-Pro-Wireless-Gaming-Mouse-HyperScroll-Tilt-Wheel-2-4Ghz-Bluetooth-RGB-White/1609858144)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -237,6 +200,26 @@ Paul Antill / MUO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-instagram-desktop-video-upload/"><u>[New] In 2024, The Ultimate Guide to Instagram Desktop Video Upload</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-tutorial-blocking-youtube-ads-on-all-platforms/"><u>[New] The Ultimate Tutorial Blocking YouTube Ads on All Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-zoom-skills-for-exceptional-audio-capture-in-podcasting/"><u>[Updated] Essential Zoom Skills for Exceptional Audio Capture in Podcasting</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-virtual-reality-grips-the-ultimate-selection/"><u>[Updated] In 2024, Virtual Reality Grips The Ultimate Selection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-differences-between-standard-and-premium-youtube-viewing/"><u>[Updated] The Differences Between Standard and Premium YouTube Viewing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-abletons-pathway-to-harmonious-declines/"><u>2024 Approved Ableton's Pathway to Harmonious Declines</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-amd-graphics-mastery-with-in-depth-look-at-radeon-xt-rx-7800-7700/"><u>Discover AMD Graphics Mastery with In-Depth Look at Radeon XT (RX 7800, 7700)</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-peripherals-for-pc-and-console-play/"><u>Economical Peripherals For PC and Console Play</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-tips-for-high-quality-sound-memos-for-2024/"><u>Expert Tips for High-Quality Sound Memos for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/fastest-8-tech-to-grab-screen-frames/"><u>Fastest 8 Tech to Grab Screen Frames</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-cannabinoids-penetrate-the-blood-brain-barrier-for-therapeutic-effects/"><u>How Cannabinoids Penetrate the Blood-Brain Barrier for Therapeutic Effects</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovate-and-inspire-computexs-ai-hardware/"><u>Innovate and Inspire: Computex’s AI Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-highlighting-obstacles-in-windows-pdf-files/"><u>Overcome Highlighting Obstacles in Windows' PDF Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagining-your-presence-riot-game-name-and-tagline-shift/"><u>Reimagining Your Presence: Riot Game Name & Tagline Shift</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-merge-sony-and-nintendo-joy-cons/"><u>Step-by-Step Guide to Merge Sony & Nintendo Joy-Cons</u></a></li>
+<li><a href="https://games-able.techidaily.com/streams-return-policy-maximizing-your-refund-potential/"><u>Stream's Return Policy: Maximizing Your Refund Potential</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-of-both-worlds-ar-and-outdoor-games/"><u>The Best of Both Worlds: AR & Outdoor Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-foundation-of-high-fidelity-gaming-experience/"><u>The Foundation of High-Fidelity Gaming Experience</u></a></li>
+</ul></div>
 

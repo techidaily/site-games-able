@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Indie Game Discovery Experience
-date: 2025-02-09T18:55:51.308Z
-updated: 2025-02-11T16:16:31.216Z
+date: 2025-02-24T19:25:17.655Z
+updated: 2025-03-02T21:19:07.892Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  Many independent game developers display their fun, creative, and unique experiences on itch.io. However, the platform’s saturation can make it hard to find great titles. Try these methods I use to discover indie games worth playing on itch.io.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Use Tags and Filters
 
  On itch.io, you can use various tags and filters to find great indie games. I am a big fan of[roguelite video games](http://www.makeuseof.com/what-are-roguelike-and-roguelite-video-games/) , so I use the**Roguelite** tag to ensure I only see the relevant results.
@@ -57,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
 ![Adding tags to a search on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/add-roguelite-tag-itch.png)
@@ -71,17 +59,9 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 Check the itch.io Blog
 
  The[itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Check Out Game Jams
 
@@ -132,24 +112,22 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-techniques-saving-and-recording-ps4-gaming-escapades/"><u>[Updated] In 2024, Top Techniques Saving and Recording PS4 Gaming Escapades</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-winning-animation-projects-using-movie-maker/"><u>2024 Approved Unleash Creativity Winning Animation Projects Using Movie Maker</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-filmmakers-handbook-building-effective-luts/"><u>A Filmmaker's Handbook Building Effective LUTs</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-tale-of-windows-and-steamos-harmony-on-a-single-chip/"><u>A Tale of Windows & SteamOS Harmony on a Single Chip</u></a></li>
-<li><a href="https://games-able.techidaily.com/ally-x-endgame-for-handheld-tech-predicaments/"><u>Ally X: Endgame for Handheld Tech Predicaments</u></a></li>
-<li><a href="https://games-able.techidaily.com/appreciating-google-play-pass-yet-its-flaw-remains/"><u>Appreciating Google Play Pass, Yet Its Flaw Remains</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-we-witnessing-the-onset-of-gpu-expensive-era/"><u>Are We Witnessing the Onset of GPU Expensive Era?</u></a></li>
-<li><a href="https://games-able.techidaily.com/augment-gameplay-efficiency-unlocking-secrets-to-android-fps-measurement/"><u>Augment Gameplay Efficiency: Unlocking Secrets to Android FPS Measurement</u></a></li>
-<li><a href="https://games-able.techidaily.com/awesome-google-play-pass-but-not-without-drawbacks/"><u>Awesome Google Play Pass, But Not Without Drawbacks</u></a></li>
-<li><a href="https://games-able.techidaily.com/balancing-subscriptions-the-smart-xbox-players-way/"><u>Balancing Subscriptions: The Smart Xbox Player's Way</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-of-the-giants-opera-gx-vs-microsofts-edge-browser/"><u>Battle of the Giants: Opera GX vs Microsoft's Edge Browser</u></a></li>
-<li><a href="https://games-able.techidaily.com/behind-the-screen-finding-ps5s-silent-browser/"><u>Behind the Screen: Finding PS5's Silent Browser</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/exclusive-photo-safekeeping-top-free-and-paid-cloud-storage-solutions-for-2024/"><u>Exclusive Photo Safekeeping Top Free & Paid Cloud Storage Solutions for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/fast-tracking-your-vimeo-watch-time-for-2024/"><u>Fast-Tracking Your Vimeo Watch Time for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208449351-how-to-fix-surface-device-unplugged-but-wont-charge-problem-solved/"><u>How to Fix Surface Device Unplugged but Won't Charge Problem: Solved!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-devices-for-capturing-stellar-videos-on-the-move-for-2024/"><u>Ideal Devices for Capturing Stellar Videos on the Move for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-mobile-platforms-how-the-ios-and-google-play-stores-stack-up/"><u>Navigating Mobile Platforms: How the IOS and Google Play Stores Stack Up</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722975737253-the-iaea-plays-a-central-role-in-monitoring-compliance-with-non-proliferation-agreements-and-promoting-peaceful-uses-of-nuclear-technology/"><u>The IAEA Plays a Central Role in Monitoring Compliance with Non-Proliferation Agreements and Promoting Peaceful Uses of Nuclear Technology.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-powerpoint-persona-establishing-your-presentations-voice/"><u>[New] 2024 Approved PowerPoint Persona Establishing Your Presentation's Voice</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-play-your-old-games-anywhere-anytime-choosing-the-best-gba-emulators-for-windows-pcs/"><u>[Updated] Play Your Old Games Anywhere, Anytime Choosing the Best GBA Emulators for Windows PCs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-video-submission-pc-and-android-users-blueprint/"><u>2024 Approved Facebook Video Submission PC and Android Users' Blueprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-there-boundaries-to-the-capabilities-of-the-wireless-steelseries-aerox-5-insights-and-review-by-zdnet/"><u>Are There Boundaries to the Capabilities of the Wireless SteelSeries AeroX ^5? Insights & Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hidden-gaming-power-of-this-samsung-projector-save-200-on-labor-day-deal-zdnet/"><u>Discover the Hidden Gaming Power of This Samsung Projector - Save $200 on Labor Day Deal | ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-labor-day-deal-grab-your-nintendo-switch-oled-for-just-60-at-walmart-insider-tips-from-zdnet/"><u>Exclusive Labor Day Deal: Grab Your Nintendo Switch OLED for Just $60 at Walmart - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel has stopped working error?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-honor-x9b-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Honor X9b to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-11-pro-max-5-ways-to-get-into-a-locked-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 11 Pro Max? 5 Ways to get into a Locked Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-navigating-vlogging-nuances-with-confidence-and-clarity/"><u>In 2024, Navigating Vlogging Nuances with Confidence and Clarity</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-look-at-sonys-latest-marvel-playstation-5-pro-key-specifications-cost-analysis-and-launch-timeline-covered/"><u>In-Depth Look at Sony's Latest Marvel: PlayStation 5 Pro - Key Specifications, Cost Analysis & Launch Timeline Covered</u></a></li>
+<li><a href="https://games-able.techidaily.com/organizing-an-interactive-quiz-or-game-based-activity-that-reinforces-the-students-knowledge-of-periodic-trends-particularly-focabulary-related-to-reactivit91/"><u>Organizing an Interactive Quiz or Game-Based Activity that Reinforces the Students' Knowledge of Periodic Trends, Particularly Focabulary Related to Reactivity Series, and Allows Them to Apply This Information in a Fun and Competitive Environment.</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-gaming-preference-shift-windows-11-surpasses-windows-10-in-popularity-zdnet/"><u>PC Gaming Preference Shift: Windows 11 Surpasses Windows 10 in Popularity | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-mirroring-mac-displays-to-televisions-using-airplay-technology/"><u>Step-by-Step Tutorial on Mirroring Mac Displays to Televisions Using AirPlay Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-40-greatest-discounts-on-gaming-rigs-for-festive-season-2023-explore-the-latest-offers/"><u>Top 40 Greatest Discounts on Gaming Rigs for Festive Season 2023 - Explore the Latest Offers!</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-comprehensive-steelseries-aerox-eblishing-itself-as-the-optimal-choice-for-gamers-seeking-unparalleled-performance-in-mmomoba-titles/"><u>ZDNet's Comprehensive SteelSeries Aerox Eblishing Itself as the Optimal Choice for Gamers Seeking Unparalleled Performance in MMO/MOBA Titles</u></a></li>
 </ul></div>
 

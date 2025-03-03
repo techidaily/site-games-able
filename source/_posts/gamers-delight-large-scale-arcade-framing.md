@@ -1,7 +1,7 @@
 ---
 title: Gamer's Delight - Large-Scale Arcade Framing!
-date: 2025-02-09T22:09:04.474Z
-updated: 2025-02-11T21:35:15.016Z
+date: 2025-02-23T17:02:27.316Z
+updated: 2025-03-02T23:41:54.504Z
 tags:
   - games
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like[building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
  Leveraging the power of Big Box via EmuMovies automatically finds all of the metadata for each game automatically, allows you to essentially set it and forget it! But you’ll need to be a premium member of both, then link your EmuMovies account to LaunchBox.
 
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
@@ -75,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
  For example, when I want to exit a game, I tap my**Player 1 Start button** and**A button** simultaneously twice to activate the**Close the Active Window** value, which exits my game. I can also do a different button combination for the volume control, among other functions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Big Box Adds Second Screen Support for Digital Marquees
 
  When you populate your library with metadata via EmuMovies, you probably notice that a marquee file is always downloaded. These files are used with a second screen, displayed as a marquee like a traditional arcade cabinet.
@@ -87,15 +75,7 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Use Big Box In-Place of Your Windows Shell
 
@@ -124,24 +104,22 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-master-the-art-of-photo-editing-with-snapseed/"><u>[New] Master the Art of Photo Editing with Snapseed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-sound-solution-for-twitters-video-content/"><u>[New] The Sound Solution for Twitter's Video Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-fade-perfection-quick-tips-and-tricks/"><u>[Updated] Fade Perfection Quick Tips and Tricks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-harnessing-youtube-and-fb-techniques-for-maximum-engagement/"><u>[Updated] In 2024, Harnessing YouTube & FB Techniques for Maximum Engagement</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-selecting-from-the-top-9-free-youtube-tools/"><u>[Updated] The Ultimate Guide to Selecting From the Top 9 FREE YouTube Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-eye-catching-text-in-media/"><u>2024 Approved Top 10 Eye-Catching Text in Media</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-top-rated-asmr-mic-picks-for-quality-sound/"><u>2024 Approved Top-Rated ASMR Mic Picks for Quality Sound</u></a></li>
-<li><a href="https://games-able.techidaily.com/edge-why-its-the-preferred-choice-among-gamers/"><u>Edge: Why It’s the Preferred Choice Among Gamers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-officejet-n4650-windows-drivers-free-downloads/"><u>Get the Latest HP OfficeJet N4650 Windows Drivers – Free Downloads</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-res-monitors-unnecessary-expense-heres-why/"><u>High-Res Monitors - Unnecessary Expense? Here's Why</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-high-refresh-rate-gaming-screens/"><u>Ideal High-Refresh Rate Gaming Screens</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-effortlessly-transform-youtube-tunes-to-mp3-with-mac/"><u>In 2024, Effortlessly Transform YouTube Tunes to MP3 with Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-shiny-path-in-pokemon-scarlet-and-violet-83/"><u>Navigating the Shiny Path in Pokémon Scarlet and Violet (83)</u></a></li>
-<li><a href="https://games-able.techidaily.com/pc-graphics-evolution-directx-11-vs-directx-12/"><u>PC Graphics Evolution: DirectX 11 V/S DirectX 12</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategy-mastery-play-and-win-old-championship-manager-for-free-windows/"><u>Strategy Mastery: Play and Win Old Championship Manager for Free (Windows)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-myth-of-misleading-online-gaming-ads/"><u>The Myth of Misleading Online Gaming Ads</u></a></li>
-<li><a href="https://games-able.techidaily.com/thrifty-gamers-unite-best-buy-locations-for-discounted-video-games/"><u>Thrifty Gamers Unite: Best Buy Locations for Discounted Video Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-wallet-reviews-of-2024-comprehensive-analysis-by-tech-experts/"><u>Top-Rated MagSafe Wallet Reviews of 2024 - Comprehensive Analysis by Tech Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-tablet-into-a-game-conduit-with-steam-link/"><u>Transform Your Tablet Into a Game Conduit with Steam Link</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-logo-magic-sprucing-up-your-podcasts-visual-appeal/"><u>[New] Logo Magic Sprucing Up Your Podcast's Visual Appeal</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-restore-original-sound-in-tweet-video-links-for-2024/"><u>[New] Restore Original Sound in Tweet Video Links for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tiktoks-legal-boundaries-understanding-pre-upload-rights-for-2024/"><u>[Updated] TikTok's Legal Boundaries Understanding Pre-Upload Rights for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nokia-c12-plus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nokia C12 Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gameplay-using-an-external-hard-drive-via-steam/"><u>Elevate Gameplay: Using an External Hard Drive via Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-reviews-steam-deck-models/"><u>Expert Reviews: Steam Deck Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-dreame-bot-l10-pro-your-smart-lidar-equipped-cleaning-companer/"><u>Exploring the Features of Dreame Bot L10 Pro, Your Smart LiDAR-Equipped Cleaning Companer</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-rom-repository-with-terminal-tools/"><u>Exploring the ROM Repository with Terminal Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-v30t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme V30T Devices | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-complet-supprimer-les-espaces-vides-sur-windows-10-top-techniques/"><u>Guide Complet : Supprimer Les Espaces Vides Sur Windows 10 - Top Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-7-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-streaming-prime-and-twitch-collaboration/"><u>Mastering Streaming: Prime & Twitch Collaboration</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-computex-pioneering-ai-technologies-revealed/"><u>New Computex: Pioneering AI Technologies Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-gaming-fund-allocation-and-game-acquisition/"><u>Strategic Gaming: Fund Allocation & Game Acquisition</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-240hz-gaming-screens-to-elevate-your-gameplay/"><u>Ultimate 240Hz Gaming Screens to Elevate Your Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/vaulting-tech-finest-steam-deck-cases-of-the-year/"><u>Vaulting Tech: Finest Steam Deck Cases of the Year</u></a></li>
 </ul></div>
 

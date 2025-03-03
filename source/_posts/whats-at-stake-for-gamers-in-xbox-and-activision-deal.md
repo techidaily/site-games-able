@@ -1,7 +1,7 @@
 ---
 title: What's at Stake for Gamers in Xbox & Activision Deal?
-date: 2025-02-04T20:33:35.290Z
-updated: 2025-02-11T20:17:11.177Z
+date: 2025-03-01T18:01:30.566Z
+updated: 2025-03-02T16:13:44.269Z
 tags:
   - games
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is the Deal Between Microsoft and Activision/Blizzard?
 
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
  With Microsoft having already acquired Bethesda in 2021 for $7.5 billion, the scope for Xbox to push consumers to Xbox Series X|S for Bethesda titles already exists. If you want to play the AAA Bethesda title Starfield, you have to own an Xbox Series X|S.
 
 ![A promotional image highlighting the key art for Starfield](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/starfield.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit:[Bethesda](https://bethesda.net/en/game/starfield)
 
@@ -83,19 +75,11 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
  While not guaranteed, the acquisition of Activision/Blizzard by Microsoft is connected by the CMA to a potential increase in the costs you may face for your games and gaming services.
 
  And while there may be many[reasons you will see the price of Xbox Game Pass increasing](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , the price tag of $68.7 billion for Activision/Blizzard will only inflate things further. So, even if you're a fan of Xbox, you may still be affected by price increases associated with the deal.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why the Activision/Blizzard Deal May Not Be as Bad as You Think
 
@@ -115,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
  So, while exclusivity may worry you, the deal is unable to affect platform exclusivity for at least 15 years, and even if it goes on to do so, it would only be following pre-established trends within the gaming industry.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Xbox Is Focused on Consumer-Orientated Gaming
 
  While you may see the deal between Microsoft and Activision/Blizzard as stoking problematic issues for gamers, Xbox and its emphasis on consumer choice implies otherwise.
@@ -132,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
  Activision/Blizzard is also a company marred by controversy, as reported by[Forbes](https://www.forbes.com/sites/tylerroush/2023/02/03/activision-blizzard-will-pay-sec-35-million-to-settle-claims-over-its-workplace-misconduct-disclosures/) . And with the completion of Microsoft's acquisition,[Forbes](https://www.forbes.com/sites/conormurray/2023/10/13/activision-blizzard-ceo-bobby-kotick-set-to-leave-in-december-heres-what-to-know-about-his-controversies/) highlights that as a result of the deal's completion, the Managing Director of Activision/Blizzard, Bobby Kotick, exited the company.
 
  So, if you take the pro-consumer practices Xbox engages in with the changing of the guard at Activision/Blizzard, the deal injects hope into a troubled company, highlighting a positive change for Activision/Blizzard and consumers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Xbox Is the Underdog of the Industry
 
@@ -174,20 +150,22 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-choreographing-narrative-news-wrappers-for-2024/"><u>[New] Choreographing Narrative News Wrappers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-assessment-photo-editing-tool-for-creatives/"><u>2024 Approved In-Depth Assessment Photo Editing Tool for Creatives</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-versus-computer-what-plays-better/"><u>Console Versus Computer: What Plays Better?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/essential-guide-uncovering-the-truth-about-y2mate-reviews-and-remedies/"><u>Essential Guide: Uncovering the Truth About Y2Mate - Reviews & Remedies</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-premier-collection-of-ps3-emulators-for-pc/"><u>Explore: The Premier Collection of PS3 Emulators for PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/gameplay-innovations-light-and-leverage/"><u>Gameplay Innovations: Light and Leverage</u></a></li>
-<li><a href="https://article-files.techidaily.com/htc-vive-redefining-virtual-playtime-with-unmatched-immersion-for-2024/"><u>HTC Vive Redefining Virtual Playtime with Unmatched Immersion for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ipod-touch-7th-gen-bridging-gaps-in-mobile-tech/"><u>IPod Touch 7Th Gen: Bridging Gaps in Mobile Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-mobile-playtime-with-an-external-controller-for-android/"><u>Maximize Mobile Playtime with an External Controller for Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/mmo-evolutionary-path-then-and-now/"><u>MMO Evolutionary Path: Then & Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/relive-the-past-30-top-rated-ps3-emulators-for-your-pc/"><u>Relive the Past: 30 Top-Rated PS3 Emulators for Your PC</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/roku-vs-chromecast-showdown-determining-the-top-streaming-stick/"><u>Roku vs Chromecast Showdown: Determining the Top Streaming Stick</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/seamless-integration-of-snap-camera-for-enhanced-online-participation-for-2024/"><u>Seamless Integration of Snap Camera for Enhanced Online Participation for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-teleporting-technique-upgrading-phones-for-vr-immersion/"><u>The Teleporting Technique Upgrading Phones for VR Immersion</u></a></li>
-<li><a href="https://fox-where.techidaily.com/transform-pdf-documents-to-stylish-ebooks-easy-conversion-and-storage-with-flipbuilder-services/"><u>Transform PDF Documents to Stylish eBooks: Easy Conversion and Storage with FlipBuilder Services</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-20-essential-youtube-tips-for-optimal-engagement/"><u>[New] In 2024, Top 20 Essential YouTube Tips for Optimal Engagement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-hdmi-radeon-revival/"><u>[Updated] 2024 Approved HDMI Radeon Revival</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-search-comments-on-youtube-quickly/"><u>[Updated] In 2024, How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-timer-power-with-zero-cost/"><u>[Updated] Unlocking Timer Power with Zero Cost</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defogging-your-iphone-lens-a-step-by-step-fix-for-blurry-pics/"><u>Defogging Your iPhone Lens: A Step-by-Step Fix for Blurry Pics</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-gaming-cards-for-gamers/"><u>Economical Gaming Cards for Gamers</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mens-college-basketball-showdowns-live-from-march-madness-to-final-four-on-airwaves/"><u>Men's College Basketball Showdowns – Live From March Madness to Final Four on Airwaves.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-free-web-based-tool-for-changing-m4r-video-clips-to-mp4-version/"><u>Movavi's FREE Web-Based Tool for Changing M4R Video Clips to MP4 Version</u></a></li>
+<li><a href="https://games-able.techidaily.com/multiple-approaches-to-steam-reactivation/"><u>Multiple Approaches to Steam Reactivation</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserve-your-switch-5-crucial-care-methods/"><u>Preserve Your Switch: 5 Crucial Care Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/record-holders-the-epitome-of-reddit-engagement-10-threads/"><u>Record Holders The Epitome of Reddit Engagement (10 Threads)</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplicity-or-sophistication-steering-wheel-versus-touchscreen/"><u>Simplicity or Sophistication: Steering Wheel Versus Touchscreen</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ps5-extras-to-elevate-play/"><u>Superior PS5 Extras to Elevate Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-16-sync-play-comfort-chairs-on-xbox-series-xs/"><u>Top 16 Sync-Play Comfort Chairs on Xbox Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-fx-showdown-directx-11-versus-directx-12/"><u>Visual FX Showdown: DirectX 11 Versus DirectX 12</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-the-microsoft-blizzard-merger-mean-for-gamers/"><u>What Does the Microsoft-Blizzard Merger Mean for Gamers?</u></a></li>
 </ul></div>
 

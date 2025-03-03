@@ -1,7 +1,7 @@
 ---
 title: "Behind the Name: Foddian Game Chronicles"
-date: 2024-08-15T17:14:25.863Z
-updated: 2024-08-16T17:14:25.863Z
+date: 2025-03-01T23:18:34.372Z
+updated: 2025-03-02T19:44:34.234Z
 tags:
   - games
 categories:
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### The First Bennet Foddy Game
 
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Rise of Jump King
 
 ![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
@@ -52,16 +46,9 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Foddian Games and Content Creation
 
 ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
 
@@ -85,9 +72,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  While Foddian games are simple in design, the execution is magnificently intricate. They present a fun challenge for players, one you can ride all the way to victory at the top of the map.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## FAQ
 
 ### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
@@ -98,21 +82,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  A popular Foddian game, Only Up! takes around 40 to 120 minutes to complete. However, because of the game's difficulty, it will more than likely take quite a lot longer than the listed competition time, especially due to a lack of checkpoints. Because of this, you may be looking at a completion time of around four to five hours depending on your skill level.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: Who Popularized the Only Up! Game?
 
  While Only Up! was popularized by streaming communities, if you're wondering which streamer first brought the game to a larger audience, KaiCenet first played Only Up! on the ninth of June 2023, to an audience of 55.8 thousand viewers. From this point on, the popularity of Only Up!, much like other Foddian games, grew exponentially within gaming communities.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,6 +99,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-pro-video-gear-expert-recommendations-for-youtube-clips/"><u>[New] 2024 Approved Pro Video Gear Expert Recommendations for YouTube Clips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-list-of-top-online-video-conferencing-platforms-all-free/"><u>[Updated] 2024 Approved Master List of Top Online Video Conferencing Platforms (All Free)</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-incorrectly-declined-payment-methods-on-ps5/"><u>Correcting Incorrectly Declined Payment Methods on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-all-games-free-to-play-and-premium-on-one-plan/"><u>Embrace All Games, Free-to-Play & Premium On One Plan!</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-weighing-mech-vs-standard-keyboards/"><u>Gamers Weighing Mech Vs. Standard Keyboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-arena-rivalry-high-end-vs-low-cost-setup/"><u>Gaming Arena Rivalry: High-End vs Low-Cost Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-showdown-continues-with-amd-and-intel-debate/"><u>GPU Showdown Continues with AMD and Intel Debate</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-persistent-freezing-in-firefox/"><u>How to Fix Persistent Freezing in Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-install-idt-hd-audio-codec-drivers-on-windows-11-a-complete-guide/"><u>How to Install IDT HD Audio Codec Drivers on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-poco-c51-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Poco C51 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-m4a-editor-software-top-5-options/"><u>New In 2024, Free M4A Editor Software Top 5 Options</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-gen-vs-last-gen-five-pivotal-disparities-between-gpt-4-and-its-predecessor-gpt-n35-revealed/"><u>Next-Gen vs Last Gen: Five Pivotal Disparities Between GPT-4 and Its Predecessor GPT-N_3.5 Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/outsmarting-others-vanish-online-with-steam/"><u>Outsmarting Others: Vanish Online with Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/pimax-crystal-stunning-graphics-meets-technical-hurdles/"><u>Pimax Crystal: Stunning Graphics Meets Technical Hurdles</u></a></li>
+<li><a href="https://solve-info.techidaily.com/wiederholung-verlorener-zip-archive-auf-windows-11-professionelle-ersteinweisung/"><u>Wiederholung Verlorener ZIP-Archive Auf Windows 11: Professionelle Ersteinweisung</u></a></li>
+</ul></div>
 

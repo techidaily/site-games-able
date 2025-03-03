@@ -1,7 +1,7 @@
 ---
 title: "Balance Efficiency & Authenticity: Preserving Original Games with CHDMAN"
-date: 2024-08-08T09:07:57.368Z
-updated: 2024-08-09T09:07:57.368Z
+date: 2025-02-26T23:31:01.615Z
+updated: 2025-03-02T19:14:16.929Z
 tags:
   - games
 categories:
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
  What's best is that many emulators support the CHD format. So, you can keep playing your ROMs without extracting or decompressing them. Let's see how.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## What Is CHDMAN?
 
  MAME's Compressed Hunks of Data (CHD) manager, or "CHDMAN" for short, allows you to store the files of a ROM in a single compressed archive. Apart from saving space, this can also simplify the management of multi-file ROMs, like optical media backups consisting of a game's data track and many more audio tracks for its music.
@@ -49,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
  Move the files of the ROM you want to compress to that folder. For this article, we'll use an original PlayStation backup stored in a CUE & BIN file combination.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of a BIN and CUE ROM image from the File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bin-and-cue-in-windows-file-explorer.jpg)
 
  Run Windows CMD or PowerShell. Then, move to the folder with your game's files with the Change Directory (CD) command:
@@ -62,9 +56,6 @@ Our command was:
 
 `cd "H:\Emulation\ROMs\PS1\Compress-to-CHD"`
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
 
 To compress your game with CHDMAN to CHD format, use the following:
@@ -76,9 +67,6 @@ Our command was:
 `chdman createcd -i "MUO_PSX.cue" -o "MUO_PSX.chd"  
 `
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
 
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
@@ -93,16 +81,10 @@ Our command was:
 
  Knowing how to compress your large ROMs to leaner CHD files is our target in this article. Still, the following might be helpful if you decide to use that file format for your emulated games.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Which Emulators Support CHDs?
 
  Although CHD files are now considered a standard for storing optical media and HDD backups in a compressed emulation-friendly format, not all emulators support them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![DuckStation File Selector set to MAME CHD images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duckstation-chd-file-selection-1.jpg)
 
  If you're looking for a CHD-compatible emulator then, luckily some of the most popular emulators support them. Here are a few examples of emulators that allow you to play CHDs:
@@ -150,14 +132,11 @@ Our command was:
 
  Freeing up storage space means you can expand your ROM collection further. And that, in turn, translates to even more games in your backlog. With so many games a click away, having a CHDMAN equivalent that could compress and multiply our free time would be great.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,6 +145,18 @@ Our command was:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://solve-hot.techidaily.com/boost-traffic-and-engagement-with-cookiebot-integration-the-ultimate-seo-solution/"><u>Boost Traffic and Engagement with Cookiebot Integration: The Ultimate SEO Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/directx-11-vs-directx-12-what-are-the-differences-and-which-should-you-use/"><u>DirectX 11 Vs. DirectX 12: What Are the Differences and Which Should You Use?</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-failed-file-creation-error-30005-on-pcs/"><u>Fixing Failed File Creation: Error 30005 on PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fusing-fun-and-functionality-top-6-engaging-video-formats-for-2024/"><u>Fusing Fun and Functionality Top 6 Engaging Video Formats for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-a-guide-to-incorporating-launchers-on-dev-consoles/"><u>Game On: A Guide to Incorporating Launchers on Dev Consoles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-video-editors-top-8-linux-picks/"><u>In 2024, Ultimate Video Editors Top 8 Linux Picks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lgs-leap-into-limitless-vision-the-4k-spectacle-of-the-31mu97-b-for-2024/"><u>LG's Leap Into Limitless Vision - The 4K Spectacle of the 31MU97-B for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-building-with-toms-hardware/"><u>Navigating the World of PC Building with Tom's Hardware</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/reparando-hdvs-com-direitos-autorais-no-windows-1011-e-mac-solucoes-comprovadas/"><u>Reparando HDVs Com Direitos Autorais No Windows 10/11 E Mac - Soluções Comprovadas</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-classics-win-11-integration-with-mypics/"><u>Reviving Classics: Win 11 Integration with MyPics</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-with-these-7-terminal-gaming-hacks/"><u>Win with These 7 Terminal Gaming Hacks</u></a></li>
+</ul></div>
 

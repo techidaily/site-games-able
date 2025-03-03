@@ -1,7 +1,7 @@
 ---
 title: Navigating Your Way Through EA Play on PS5
-date: 2025-02-05T19:42:25.748Z
-updated: 2025-02-11T17:33:01.294Z
+date: 2025-02-24T18:15:30.785Z
+updated: 2025-03-02T18:50:15.840Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is EA Play?
 
  Essentially, EA Play (once known as EA Access) is a subscription service for PlayStation and Xbox that offers select EA titles to “rent” while your subscription is on. It also gives you a 10% discount on some non-free titles, season passes, points packs, and DLCs. Lastly, EA Play membership will give you a free 10-hour early access trial to some EA games, and your progress will sync should you choose to buy the game.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
  EA Play on the PS5 is $4.99/month or $29.99/year, and it will grant you access to more than 50 games. This makes it way cheaper than any of the[PlayStation Plus subscription tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) . Judging solely by the number of games available, EA Play will give you more value than PlayStation Plus Essential ($9.99/month).
 
  By the way, EA Play is one of the[ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Subscribe to EA Play on the PS5
 
@@ -54,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
  If you have money in your wallet, EA Play will debit the wallet before any other payment method—even on subsequent renewals.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use an EA Play Membership on the PS5
 
@@ -74,19 +62,11 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Cancel an EA Play Membership on the PS5
 
  You might no longer want EA Play after paying for the first month. And this might be the best course of action if you’re only trying to use the membership to get discounts. In that case, head into **Settings > Account > Payment and Subscriptions > Subscriptions > EA Play > Cancel Subscription** .
 
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
 
@@ -111,18 +91,19 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-primeworldplus-local-complete-tv-content-at-fingertips/"><u>[New] 2024 Approved PrimeWorld+ Local Complete TV Content at Fingertips</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-vivo-v30-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo V30? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquering-virtual-worlds-perfecting-steam-gaming-settings-for-meta-quest-headset/"><u>Conquering Virtual Worlds: Perfecting Steam Gaming Settings for Meta Quest Headset</u></a></li>
-<li><a href="https://win11.techidaily.com/elusive-sd-card-on-pc-explorer-troubleshooting-steps/"><u>Elusive SD Card on PC Explorer - Troubleshooting Steps</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-15-plus-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-make-the-most-out-of-your-xbox-game-pass/"><u>How to Make the Most Out of Your Xbox Game Pass</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6s-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6s to Roku? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/modular-perfection-in-gaming-akko-mod007b-highlights/"><u>Modular Perfection in Gaming: Akko MOD007B Highlights</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-saving-tips-why-idle-ps5/"><u>Power-Saving Tips: Why Idle PS5?</u></a></li>
-<li><a href="https://win11.techidaily.com/premium-temperature-trackers-on-win-os/"><u>Premium Temperature Trackers on Win OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-roblox-error-code-262/"><u>Resolving Roblox: Error Code 262</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/revolutionizing-fintech-unleash-the-power-of-automation-for-a-smarter-more-efficient-financial-services-industry-through-idc-insights/"><u>Revolutionizing FinTech: Unleash the Power of Automation for a Smarter, More Efficient Financial Services Industry Through IDC Insights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/synchronizing-teams-mastering-device-agnostic-zoom-events/"><u>Synchronizing Teams Mastering Device-Agnostic Zoom Events</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unleash-creative-potential-with-green-screen-tips/"><u>[New] In 2024, Unleash Creative Potential with Green Screen Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-8-tools-for-subtitle-srt-format-switching/"><u>2024 Approved Leading 8 Tools for Subtitle-SRT Format Switching</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-and-exploring-every-aspect-of-macs-preview-app/"><u>2024 Approved Navigating and Exploring Every Aspect of Mac's Preview App</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-universal-iptv-broadcasting/"><u>2024 Approved Universal IPTV Broadcasting</u></a></li>
+<li><a href="https://games-able.techidaily.com/cooling-regime-customization-for-extreme-graphics-performance/"><u>Cooling Regime Customization for Extreme Graphics Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-non-hdcp-enabled-screens-a-comprehensive-guide/"><u>Dealing With Non-HDCP Enabled Screens: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-virtual-reality-gameplay/"><u>Elevate Your Virtual Reality Gameplay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-magic-6-lite-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-tecno-pova-6-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Tecno Pova 6 Pro 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalizing-playstations-digital-rights/"><u>Revitalizing PlayStation's Digital Rights</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-to-resolve-the-http-error-503-service-temporarily-unavailable/"><u>Simple Solutions to Resolve the 'HTTP Error 503: Service Temporarily Unavailable'</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-right-move-fixing-up-or-swapping-out-a-switch/"><u>The Right Move: Fixing Up or Swapping Out a Switch</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-of-logitechs-pro-hd-c92-1-webcam-for-crystal-clear-video-quality/"><u>The Ultimate Review of Logitech's Pro HD C92 1 Webcam for Crystal Clear Video Quality</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-sets-cozy-games-apart-in-gaming/"><u>What Sets Cozy Games Apart in Gaming?</u></a></li>
 </ul></div>
 

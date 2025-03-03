@@ -1,7 +1,7 @@
 ---
 title: Unveil the Extraordinary with Big Box Cabinetry!
-date: 2024-08-15T17:15:12.820Z
-updated: 2024-08-16T17:15:12.820Z
+date: 2025-02-26T22:32:01.773Z
+updated: 2025-03-02T20:15:51.508Z
 tags:
   - games
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like [building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -40,16 +37,10 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
  Leveraging the power of Big Box via EmuMovies automatically finds all of the metadata for each game automatically, allows you to essentially set it and forget it! But you’ll need to be a premium member of both, then link your EmuMovies account to LaunchBox.
 
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
 ![Importing metadata into Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/import-flyers-bezels-etc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This saves days’ worth of work alone, and means [LaunchBox Premium is worth the cost of admission](https://www.makeuseof.com/launchbox-premium-worth-buying/) highly recommend getting a lifetime subscription to both LaunchBox and EmuMovies. You’re looking at $135 for both licenses as of July 2023.
 
@@ -65,18 +56,12 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 
  If you’re already familiar with [LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
 
  If you’re building your arcade cabinet for the first time, you’re probably wondering how the heck you’re going to be able to exit a game or adjust the volume. You may think you need dedicated buttons, and while that’s one route, Big Box solves this problem by allowing you to hotkey certain tasks.
 
  For example, when I want to exit a game, I tap my**Player 1 Start button** and**A button** simultaneously twice to activate the**Close the Active Window** value, which exits my game. I can also do a different button combination for the volume control, among other functions.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Big Box Adds Second Screen Support for Digital Marquees
 
  When you populate your library with metadata via EmuMovies, you probably notice that a marquee file is always downloaded. These files are used with a second screen, displayed as a marquee like a traditional arcade cabinet.
@@ -84,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
  Once you have [set up dual monitors](https://www.makeuseof.com/how-to-set-up-dual-monitors/) for your arcade system, go into Big Box then select**Options > General > Marquee Screen > Screen 2** . Now, whenever you highlight a game in Big Box, your second screen will display the marquee for that particular game, usually reflective of the cabinet it was in during its heyday. It’s a nice touch that goes a long way toward making your cabinet feel authentic yet new.
 
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
 
@@ -103,14 +84,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  The amount of time and frustration saved alone is worth the cost of admission for LaunchBox and EmuMovies. It’s layered tidily in Big Box, making navigating your library of games via arcade controls so easy, you’ll wonder why other frontends are so complicated. Give it a shot, and you’ll become one of the converted.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,8 +97,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-nativescreenvid-chrome-os-recording-tool/"><u>[Updated] 2024 Approved NativeScreenVid Chrome OS Recording Tool</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discovering-synergistic-partnerships-on-youtube-platforms-for-2024/"><u>[Updated] Discovering Synergistic Partnerships on YouTube Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximize-impact-best-practices-for-fb-video-posts/"><u>[Updated] Maximize Impact Best Practices for FB Video Posts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-method-for-making-tiktok-audio-your-ringtone/"><u>[Updated] The Ultimate Method for Making TikTok Audio Your Ringtone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-creative-process-with-instagrams-audio-features/"><u>2024 Approved Streamline Your Creative Process with Instagram's Audio Features</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-flashback-snapshot/"><u>2024 Approved Vimeo Flashback Snapshot</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-ai-driven-nvidias-dlss-35-features/"><u>Deciphering AI-Driven Nvidia's DLSS 3.5 Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-impact-of-xboxs-ban-on-unauthorized-controller-use/"><u>Deciphering the Impact of Xbox's Ban on Unauthorized Controller Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gameplay-streamlined-3d-graphics/"><u>Enhancing Gameplay: Streamlined 3D Graphics</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210431603-9780646851525-find-your-way/"><u>Find Your Way | Free Book</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-and-where-should-you-invest-in-pre-made-digital-products-discover-the-secrets-of-plr-markets-using-massmail-tools/"><u>How and Where Should You Invest in Pre-Made Digital Products? Discover the Secrets of PLR Markets Using MassMail Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-mobile-pokemon-experience/"><u>Maximizing Your Mobile Pokémon Experience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigating-video-chat-zoom-on-xbox-for-2024/"><u>Navigating Video Chat Zoom on Xbox for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unauthorized-controllers-banned-by-xbox-player-perspectives/"><u>Unauthorized Controllers Banned by Xbox: Player Perspectives</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-do-we-pay-big-bucks-for-virtual-realities-4-explanations-here/"><u>Why Do We Pay Big Bucks for Virtual Realities? 4 Explanations Here</u></a></li>
+</ul></div>
 

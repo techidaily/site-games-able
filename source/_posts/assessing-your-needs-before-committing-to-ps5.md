@@ -1,7 +1,7 @@
 ---
 title: Assessing Your Needs Before Committing to PS5
-date: 2024-08-08T09:11:40.911Z
-updated: 2024-08-09T09:11:40.911Z
+date: 2025-03-01T22:36:20.151Z
+updated: 2025-03-02T18:00:31.437Z
 tags:
   - games
 categories:
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 
  However, the PlayStation 5 has a long way to go to reach those dizzy heights. Here are all the reasons why we don't think you should buy a PS5, at least for now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 1\. Limited Number of Exclusive First-Party Games
 
  It's not uncommon for gamers to play across multiple platforms, like the Nintendo Switch or Xbox Series X/S. That's why it's so important that a console has amazing exclusive games; those that you can only experience on that system.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 
  Over time, this will change. Sony will eventually provide the wealth of first-party exclusive games that the PS5 sorely needs. However, at the time of writing, it's been almost three years since the PS5 launched and it's hard to point at a single game that's a system seller.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Most Games Are Available on the PS4 and PC
 
  Compounding the issue is that many of these "exclusives" use that term loosely because they are also available on the PS4, like God of War Ragnarök and Marvel's Spider-Man: Miles Morales. These games are fantastic on the PS5, but they're great on the PS4 too. For this reason,[it may still be worth buying the PS4](https://www.makeuseof.com/is-it-still-worth-buying-ps4/) if you don't own one.
@@ -42,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 
  Not to bemoan Sony for this too heavily, though. It's great that the company is supporting the PC and that it hasn't immediately cut PS4 owners off in a bid to force them to upgrade to the PS5\. It just means if you already own a PS4 or gaming PC, then there's not much incentive to buy the PS5—unless factors such as the console's graphical prowess or peripherals like PlayStation VR2 are draws for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 3\. The PS5 Is Too Expensive
 
  In August 2022,[Sony announced that the PS5 was increasing in price](https://www.makeuseof.com/why-ps5-getting-more-expensive/) in many regions due to the challenges of the "global economic environment". In the US, a PS5 costs $500, which is very costly—though you can shave $100 off that if you buy the Digital Edition (which has no disc drive).
@@ -55,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 
  Granted, these cheaper devices don't pack the same punch when it comes to performance, and they host different games. But if you're simply in the market for a fun games machine and need to save your cash, they make for optimal alternatives.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. Wait for the Inevitable Upgraded PS5
 
  At 390mm x 104mm x 260mm in size and 4.5kg in weight,[the PS5 is one hefty beast](https://www.makeuseof.com/how-big-is-the-ps5/) . If you usually keep your consoles beneath the TV in a media unit, you might find that the PS5 physically doesn't fit. And while the console's design is fine, it's not exactly a centerpiece; you don't want it dominating the room.
@@ -67,23 +54,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The same thing is bound to happen with the PS5, as it has done every console cycle—rumors indicate that [a PS5 Slim will arrive in 2023](https://www.makeuseof.com/is-sony-releasing-ps5-slim-2023/) , with a smaller form factor and detachable disc drive. Plus, it might be cheaper. Patience pays off.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Buy a PS5?
 
  Ultimately, only you know the answer to whether you should buy a PS5\. If none of these reasons sound like a dealbreaker to you, that's great—go ahead and buy the PS5, and hopefully you'll get hundreds of hours of entertainment from it.
 
  However, many people might want to pause. Perhaps wait until there are more PS5 exclusive games, it drops in price, or for the second iteration… or for all three. At that point, it's likely that the PS5 will be in a stronger position and become a must-own games console.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,6 +73,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-10-best-live-tv-streaming-services-with-comparison/"><u>[New] 10 Best Live TV Streaming Services - With Comparison</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-outstanding-movies-beyond-the-leading-titles/"><u>[New] 2024 Approved Outstanding Movies Beyond the Leading Titles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-shrouded-screen-images-techniques-for-redacting-info/"><u>[New] 2024 Approved Shrouded Screen Images Techniques for Redacting Info</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-quest-for-content-videos-in-social-media-network/"><u>[Updated] 2024 Approved The Quest for Content Videos in Social Media Network</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-12-pro-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 12 Pro to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-intels-technology-for-optimized-gameplay/"><u>Deciphering Intel's Technology for Optimized Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-in-most-aspects-the-one-glitch-with-google-play-pass/"><u>Excellent in Most Aspects: The One Glitch with Google Play Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-m1-chips-playing-your-favorite-windows-games-via-crossover/"><u>Exploring M1 Chips: Playing Your Favorite Windows Games via Crossover</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-samsung-galaxy-f34-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Samsung Galaxy F34 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-spark-20-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Spark 20 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-lost-progress-decoding-and-addressing-10-common-gaming-errors/"><u>No More Lost Progress: Decoding and Addressing 10 Common Gaming Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-playgrounds-triumph-territories/"><u>Peak Playgrounds: Triumph Territories</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-killer-overclocked-gpu-trouble/"><u>Silent Killer: Overclocked GPU Trouble</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-ps5-cleanliness-protocol/"><u>The Essential PS5 Cleanliness Protocol</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-free-gamers-codex-mastering-the-art-of-finding-no-cost-steam-games/"><u>The Free Gamer's Codex: Mastering the Art of Finding No-Cost Steam Games</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1124222-9781619400894-the-grand-and-noble-order-of-button-busters-a-side-degree-for-the-use-of-secret-societies-the-object-of-which-is-to-revive-interest-in-the-meetings-increase-the-a/"><u>The Grand and Noble Order of Button Busters: A Side Degree for the use of Secret Societies, the object of which is to Revive Interest in the Meetings, Increase the Attendance and Furnish Entertainment for the Members | Free Book</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Games Not Listed on Your Steam Profile
-date: 2025-02-06T22:25:04.258Z
-updated: 2025-02-12T00:20:59.127Z
+date: 2025-02-26T00:12:35.803Z
+updated: 2025-03-02T17:38:10.304Z
 tags:
   - games
 categories:
@@ -48,18 +48,10 @@ C:\Program Files (x86)\Steam\steamapps\common
 ![exit family view steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/exit-family-view-steam.jpg)
 4. Next, make sure you are not in**Family View** . To do this, click the**Family View** icon in the top right corner of the screen and enter your**PIN** to exit Family View.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Next, open the**Library** tab in the top left corner. It lists all the games that you own and installed on your PC.
 6. Click on the affected game and then click the**Install** button.  
 ![install new game steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/install-new-game-steam.jpg)
 7. As Steam begins to install the game, it will likely recognize the existing files and complete the installation without downloading the game files all again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Add an Existing Installation Folder
 
@@ -72,20 +64,12 @@ C:\Program Files (x86)\Steam\steamapps\common
 ![steam settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/steam-settings.jpg)
 3. In the**Settings** window, open the**Storage** tab in the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![steam settings storage tab Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-storage-tab-windows.jpg)
 4. Click the drop-down under**Storage** . By default, it shows you the current game storage drive and location.
 
 5. Select**Add Drive** from the drop-down options.  
 ![steam settings add new drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-drive-windows.jpg)
 6. Click the drop-down in**Add a New Steam Library Folder** dialog, and select the**Let me choose another location** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![steam settings add new steam library folder Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-steam-library-folder-windows.jpg)
 7. Next, click the**Add** button.
@@ -110,10 +94,6 @@ C:\Program Files (x86)\Steam\steamapps\common
 
 ![pause steam install counter strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/pause-steam-install-counter-strike.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click the**Pause** button to pause the download for the affected game.  
 ![exit steam jpg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/exit-steam-jpg.jpg)
 2. Next, click on**Steam** (in the top left corner) and select**Exit** . It is important to exit the Steam client. If you close the app without exiting, you won't be able to make the necessary changes.
@@ -130,10 +110,6 @@ C:\Program Files (x86)\Steam\steamapps\
 4. Next, move the**appmanifest\_appid.acf** file back to the steamapps folder at**C:\\Program Files (x86)\\Steam\\steamapps\\** .  
 ![Steam install counter strike after moving acf file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Steam-install-counter-strike-after-moving-acf-file.jpg)
 5. Launch the Steam app and resume the**Update/Download** . Steam will find the existing game files and show your game in the Steam library.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make Steam Recognize Installed Games
 
@@ -156,22 +132,20 @@ C:\Program Files (x86)\Steam\steamapps\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-web-accessory-fb-stories-keeper-for-2024/"><u>[New] Web Accessory FB Stories Keeper for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-your-go-to-guide-for-the-best-top-10-apps-to-download-facebook-videos-on-android/"><u>[Updated] 2024 Approved Your Go-To Guide for the Best Top 10 Apps to Download Facebook Videos on Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders/"><u>2024 Approved Flight in the Smallest Form A Compreenasive Look at DJI Spark's Miniature Wonders</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-multimedia-slides-with-speech-recordings-powerpoint/"><u>2024 Approved Mastering Multimedia Slides with Speech Recordings (PowerPoint)</u></a></li>
-<li><a href="https://games-able.techidaily.com/cybersecurity-challenges-for-gamers-today/"><u>Cybersecurity Challenges for Gamers Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/ending-war-thunders-downfall-in-2t4-ultimate-troubleshooting-guide-for-constant-crashes/"><u>Ending War Thunder's Downfall in 2T4: Ultimate Troubleshooting Guide for Constant Crashes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-distortion-effects-on-photographic-text/"><u>Exploring Distortion Effects on Photographic Text</u></a></li>
-<li><a href="https://games-able.techidaily.com/fate-of-ps-plus-games-after-cancellation/"><u>Fate of PS Plus Games After Cancellation</u></a></li>
-<li><a href="https://games-able.techidaily.com/find-your-perfect-fixer-top-10-video-recovery-programs-for-both-windows-and-macos-systems/"><u>Find Your Perfect Fixer: Top 10 Video Recovery Programs for Both Windows & macOS Systems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1429457-9781608827503-mindfulness-for-prolonged-grief/"><u>Mindfulness for Prolonged Grief | Free Book</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimal-lens-selection-for-smooth-vlogging-experience-for-2024/"><u>Optimal Lens Selection for Smooth Vlogging Experience for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/professioneller-bildschirmaufzeichner-ideal-fur-windows-10-8-und-7-pcs-vollstandige-oder-selektive-aufnahmemodi/"><u>Professioneller Bildschirmaufzeichner: Ideal Für Windows 10, 8 Und 7 PCs - Vollständige Oder Selektive Aufnahmemodi</u></a></li>
-<li><a href="https://games-able.techidaily.com/review-of-ddpai-mini3-dashcam-an-unexpectedly-entertaining-ride/"><u>Review of DDPai Mini3 Dashcam - An Unexpectedly Entertaining Ride</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-tutorial-breaking-free-from-iphones-persistent-data-recovery-hang/"><u>Step-by-Step Tutorial: Breaking Free From iPhone's Persistent Data Recovery Hang</u></a></li>
-<li><a href="https://games-able.techidaily.com/taming-the-stream-twitchs-blockade-reconnection-strategies/"><u>Taming the Stream: Twitch's Blockade, Reconnection Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-hide-and-seek-spaces-for-game-captures/"><u>The Hide-and-Seek Spaces for Game Captures</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-ps4-input-pc-and-mac-integration-guide/"><u>Unlocking PS4 Input: PC & Mac Integration Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unparalleled-templates-for-meme-artists-for-2024/"><u>[New] Unparalleled Templates for Meme Artists for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-illuminate-your-images-adding-life-with-illustrator-motion/"><u>[Updated] In 2024, Illuminate Your Images Adding Life with Illustrator Motion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-troubleshoot-mute-audio-in-tweeted-vids/"><u>[Updated] In 2024, Troubleshoot Mute Audio in Tweeted Vids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-heavy-haulers-face-off-t5-or-sjcam-s6-legend/"><u>2024 Approved Heavy Haulers Face-Off T5 or SJCAM S6 Legend?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-optimizing-video-posts-with-flawless-srt-file-integration-tactics/"><u>2024 Approved Optimizing Video Posts with Flawless SRT File Integration Tactics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choose-wisely-with-our-reviewed-selection-of-32-free-backup-tools/"><u>Choose Wisely with Our Reviewed Selection of 32 Free Backup Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-top-benefits-how-chromebooks-outshine-traditional-laptops-for-everyone-techexplorers/"><u>Discover the Top Benefits: How Chromebooks Outshine Traditional Laptops for Everyone | TechExplorers</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-unresponsive-gaming-controllers-for-windows-users/"><u>Fixing Unresponsive Gaming Controllers for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/guarantee-more-playtime-with-better-power-management/"><u>Guarantee More Playtime with Better Power Management</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-chrome-audio-transformers-leading-web-based-text-to-speech-apps/"><u>In 2024, Prime Chrome Audio Transformers Leading Web-Based Text-to-Speech Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/make-every-session-epic-try-these-7-terminal-games/"><u>Make Every Session Epic: Try These 7 Terminal Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/protecting-gaming-implementing-a-password-on-your-switch-console/"><u>Protecting Gaming: Implementing a Password on Your Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-games-to-load-faster-with-models/"><u>Tailoring Games to Load Faster with Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-the-distinctions-between-steam-and-gog/"><u>Unpacking the Distinctions Between Steam and GOG</u></a></li>
 </ul></div>
 

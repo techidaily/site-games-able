@@ -1,7 +1,7 @@
 ---
 title: Affordable Realism in Sim - MOZA R5 at Just $499
-date: 2024-08-08T09:10:16.084Z
-updated: 2024-08-09T09:10:16.084Z
+date: 2025-02-24T19:13:20.010Z
+updated: 2025-03-02T22:25:31.873Z
 tags:
   - games
 categories:
@@ -14,11 +14,6 @@ thumbnail: https://thmb.techidaily.com/729729197b22ccebe2bbfe977aa7bc85dbf69a72f
 
 ## Affordable Realism in Sim - MOZA R5 at Just $499
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The MOZA R5 Bundle is an entry-level direct drive sim racing wheel bundle that offers great value for money at just $499.
@@ -29,9 +24,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### MOZA R5 Bundle
@@ -108,9 +100,6 @@ Yes
 
 [$549 at Amazon](https://www.amazon.com/Racing-Gaming-Simulator-Bundle-Steering-PC/dp/B07DW25P3R?tag=muo-v2-51um1p3-20&ascsubtag=UUmuoUeUpU2030726&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmoza-r5-bundle-review%2F&asc%5Fcampaign=Affiliate) [See at MOZA Racing](https://mozaracing.com/product/r5-bundle)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What’s in the Boxes?
 
  For testing, we received the basic R5 bundle with all the included add-ons: the Formula Wheel Mod for the ES Steering Wheel; Brake Performance Kit; and clutch for the bundled pedals. I’ll be covering these accessories in detail later.
@@ -127,40 +116,24 @@ Yes
 
  Taking out the ES Steering Wheel is the first thing you’ll do when opening up the box, and it's certainly exciting. The faux leather feels and smells good, but apart from the touch, the shiny brushed design on the face and rattly buttons didn’t resonate well with me.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![MOZA R5 quick release detached](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-quick-release-detached.JPG)
 
  Jhet Borja / MakeUseOf
 
  The thing that caught my attention about the rim is the quick release. It was intimidating in a good way and instilled the sense that this isn't a toy, but a serious piece of kit.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![MOZA R5 without steering wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-without-steering-wheel.JPG)
 
  Jhet Borja / MakeUseOf
 
  The R5 Wheel Base is dense and heavy, more than I imagined, further exciting me and solidifying its presence as serious equipment. It has a thick and durable layer of powder-coating, which is a nice touch, preventing scratches and fingerprints. It also has some fins, which I suppose are for heat dissipation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Closeup of R5 quick release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/closeup-of-r5-quick-release.JPG)
 
  Jhet Borja / MakeUseOf
 
  However, the quick release on the wheel base feels like it’ll eventually get scratched, especially with a sticker stating that the quick release might have scratches from quality assurance testing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![SR-P Lite pedals with clutch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/sr-p-lite-pedals-with-clutch.JPG)
 
  Image Credit: Jhet Borja
@@ -179,9 +152,6 @@ No advertising on the website.
 
  I was able to clamp it to my desk and get in position after just about 20 minutes since unboxing—and that’s including adding the clutch pedal and brake mod.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## MOZA Pit House Software
 
 ![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
@@ -212,22 +182,12 @@ Close
 
 ![Pedal curve settings bugging out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings-bugging-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Pedal curve settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![MOZA Racing moible app connected hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-moible-app-connected-hardware.jpg)
 
 ![FFB frequency settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/ffb-frequency-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Wheel base settings advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/wheel-base-settings-advanced.jpg)
 
 ![MOZA Racing Mobile App Wheel Base settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-mobile-app-wheel-base-settings.jpg)
@@ -236,23 +196,14 @@ Close
 
  The app could use some language improvements though, as the wording can be quite strange, such as “Enter the car” to change the settings, “SteeringWheel Recenter,” and “Unconnected to the screen".
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Desk Usage
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
 
  Jhet Borja / MakeUseOf
 
  The MOZA R5 is mounted on my desk since I don’t have a dedicated sim rig yet, but as mentioned, I was able to figure out a system for setting it up and stowing it away quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Sticky pads for SR-P Lite pedals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/sticky-pads-for-sr-p-lite-pedals.jpg)
 
  Jhet Borja / MakeUseOf
@@ -265,28 +216,14 @@ Close
 
  I eventually had a wooden box made and bolted the pedals down to that. It’s not pretty, but it gets the job done, and I’m way more consistent with it bolted down. I don’t have to worry about the pedals moving and messing up my inputs.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![MOZA R5 on edge of table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-edge-of-table.JPG)
 
  Image Credit: Jhet Borja
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Quick Release System
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
 
  Jhet Borja / MakeUseOf
@@ -321,9 +258,6 @@ Close
 
  Considering the prices of the R5 base and the ES Wheel alone are $299 and $129, leaving just $71 for the pedals—the SR-P Lite does its job quite well. Using precise hall-effect sensors and a solid all-metal construction, it’s not a bad set of pedals. However, I do think the pedals are the weakest point of this bundle, and I have a few complaints about them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Brake Performance Kit for SR-P Lite pedals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/brake-performance-kit-for-sr-p-lite-pedals.JPG)
 
  Jhet Borja / MakeUseOf
@@ -340,9 +274,6 @@ Close
 
  The ES Steering Wheel is a great D-shaped rim for a bundled item. I wouldn't deliberately opt for it, but it’s a great starting point. It offers 22 face buttons, which is plenty for most people.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![MOZA R5 front view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-front-view.JPG)
 
  Jhet Borja / MakeUseOf
@@ -377,14 +308,11 @@ Close
 
 [$549 at Amazon](https://www.amazon.com/Racing-Gaming-Simulator-Bundle-Steering-PC/dp/B07DW25P3R?tag=muo-v2-51um1p3-20&ascsubtag=UUmuoUeUpU2030726&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmoza-r5-bundle-review%2F&asc%5Fcampaign=Affiliate) [See at MOZA Racing](https://mozaracing.com/product/r5-bundle)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -393,6 +321,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-insightful-discussion-on-youtube-keyword-mastery/"><u>[New] In 2024, Insightful Discussion on YouTube Keyword Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-secrets-of-nvidia-g-sync-in-gaming/"><u>Decoding the Secrets of Nvidia G-Sync in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-the-ultimate-elgato-stream-deck-model/"><u>Find the Ultimate Elgato Stream Deck Model</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/inflatable-microphones-for-diverse-scenarios-for-2024/"><u>Inflatable Microphones for Diverse Scenarios for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-friends-across-platforms-bedrock-java-via-geysermc-server/"><u>Making Friends Across Platforms: Bedrock-Java via GeyserMC Server</u></a></li>
+<li><a href="https://games-able.techidaily.com/past-price-points-of-games-on-steam/"><u>Past Price Points of Games on Steam</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808155320-skype-cant-connect-5-ways-to-fix-on-windows-10-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 10 Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-chatgpt-issues-on-an-iphone/"><u>Troubleshooting Guide: How to Fix ChatGPT Issues on an iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-engage-telnet-securely/"><u>Windows 11: How to Engage Telnet Securely</u></a></li>
+</ul></div>
 

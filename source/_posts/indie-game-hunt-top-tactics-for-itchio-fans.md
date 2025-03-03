@@ -1,7 +1,7 @@
 ---
 title: "Indie Game Hunt: Top Tactics for Itch.io Fans"
-date: 2025-02-06T20:48:46.520Z
-updated: 2025-02-11T23:10:17.631Z
+date: 2025-02-26T20:24:00.760Z
+updated: 2025-03-02T23:01:52.708Z
 tags:
   - games
 categories:
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 * [Look at User Reviews and Ratings](#look-at-user-reviews-and-ratings)
 * [Check Out Community Recommendations](#check-out-community-recommendations)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Find indie games on itch.io using tags that describe the genre of the game.
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 Check Out Game Bundles
 
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
@@ -70,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 ## 3 Check the itch.io Blog
 
  The[itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Check Out Game Jams
 
@@ -93,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
 
 ## 6 Look at User Reviews and Ratings
@@ -104,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
  If you have a problem deciding whether a game is good, you can look at its rating. On the game’s itch.io page, scroll down past the description and click**More Information** . Here, you can see how many users rated the game (out of five stars).
 
 ![A game's page on itch.io showing more information so the rating can be seen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/more-information-game-itch.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
 
@@ -132,21 +112,19 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ive-into-the-world-of-interactive-video-features-on-youtube/"><u>[New] Dive Into the World of Interactive Video Features on YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-glow-up-guide-3-masterful-instagram-highlight-tricks/"><u>[New] Glow-Up Guide 3 Masterful Instagram Highlight Tricks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-improve-browser-performance-fb-vids-chrome/"><u>2024 Approved Improve Browser Performance FB Vids, Chrome</u></a></li>
-<li><a href="https://games-able.techidaily.com/access-old-gaming-pics-on-windows-11-easy-guide/"><u>Access Old Gaming Pics on Windows 11 Easy Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/avi-naar-m4a-converten-zonder-opnamen-met-movavi-gratis-webanalyseonline/"><u>AVI Naar M4A Converten Zonder Opnamen Met Movavi - Gratis Webanalyseonline</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-controllers-six-ways-to-game-on-ps5/"><u>Beyond Controllers: Six Ways to Game on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-your-game-experience-playing-on-an-external-storage-device-via-steam/"><u>Boosting Your Game Experience: Playing on an External Storage Device via Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/bored-dive-into-this-collection-of-speedy-web-games/"><u>Bored? Dive Into This Collection of Speedy Web Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/breaching-barriers-for-early-starfield-entry-passes/"><u>Breaching Barriers for Early Starfield Entry Passes</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridging-ps4-and-personal-computers/"><u>Bridging PS4 and Personal Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/command-center-using-buttons-to-play-any-android-game/"><u>Command Center: Using Buttons to Play Any Android Game</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-15-pro-max-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 15 Pro Max using macOS finder</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-tecno-camon-20-premier-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Tecno Camon 20 Premier 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-transforming-team-meeting-aesthetics-the-prepost-customization-angle/"><u>In 2024, Transforming Team Meeting Aesthetics The Pre/Post Customization Angle</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/overcome-post-loading-interruptions-on-snapchat-for-2024/"><u>Overcome Post Loading Interruptions on Snapchat for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-aplus-game-streaming-tech-reviews-for-2024/"><u>[New] A+ Game Streaming Tech Reviews for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-selection-of-6-pioneering-instagram-reel-apps/"><u>[New] In 2024, The Ultimate Selection of 6 Pioneering Instagram Reel Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-art-of-social-media-videos-for-maximum-reach-for-2024/"><u>[New] Mastering the Art of Social Media Videos for Maximum Reach for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-incredible-method-unlock-mac-using-apple-watch/"><u>[Updated] In 2024, Incredible Method Unlock Mac Using Apple Watch</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-xboxs-response-to-in-game-misconduct/"><u>Deciphering Xbox’s Response to In-Game Misconduct</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-leader-mastering-social-media-marketing-smm-in-10-steps-for-2024/"><u>From Novice to Leader Mastering Social Media Marketing (SMM) in 10 Steps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-overwork-navigating-life-between-levels/"><u>Game Overwork: Navigating Life Between Levels</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-buy-fortnite-v-bucks-on-a-ps5/"><u>How to Buy Fortnite V-Bucks on a PS5</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-getting-started-with-snapchat-on-apple-computers/"><u>In 2024, Getting Started with Snapchat on Apple Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-ai-text-talk-like-you-training-steps/"><u>Making AI Text Talk Like You: Training Steps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-players-in-social-media-a-closer-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Players in Social Media: A Closer Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/seeking-the-glow-in-scarlet-and-violets-realm-84/"><u>Seeking the Glow in Scarlet & Violet's Realm (84)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-potential-why-switch-to-ultimate-edition/"><u>Unleash Potential: Why Switch to Ultimate Edition?</u></a></li>
 </ul></div>
 

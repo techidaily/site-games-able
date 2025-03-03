@@ -1,7 +1,7 @@
 ---
 title: "Behind-the-Scenes: Foddian Game Origins"
-date: 2024-08-08T09:10:43.032Z
-updated: 2024-08-09T09:10:43.032Z
+date: 2025-02-27T19:40:23.572Z
+updated: 2025-03-02T19:28:55.166Z
 tags:
   - games
 categories:
@@ -18,17 +18,10 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
  As a result, Foddian games are some of the most challenging titles currently available. But what are they exactly? What is the origin of the name and the concept behind these games? Also, how far has this base concept evolved to accommodate newer, unique titles? Let’s find out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Foddian Games: The Origins and Revolution
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### The First Bennet Foddy Game
 
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
@@ -53,14 +46,8 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Foddian Games and Content Creation
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
@@ -69,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
  Ultimately, Foddian games are [a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Evolution of Foddian Games
 
  Getting Over It created an exciting format that other game developers have explored to varying extents. A few other games fall into this genre, but only a couple have left a mark on the community.
@@ -90,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
 
  Within the genre of Foddian games, numerous titles emulate the addicting frustration of games like Getting Over With Bennett Foddy. Of these games, titles like QWOP, an aggravating sprinting game in which you need to order every limb of your runner to move, or the classic browser game Happy Wheels, are some of the most popular Foddian-like games. That said, tons of [difficult browser games](https://www.makeuseof.com/tag/the-hardest-games-in-the-whole-wide-world/) also provide a similar Foddian experience.
@@ -105,14 +86,11 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
  While Only Up! was popularized by streaming communities, if you're wondering which streamer first brought the game to a larger audience, KaiCenet first played Only Up! on the ninth of June 2023, to an audience of 55.8 thousand viewers. From this point on, the popularity of Only Up!, much like other Foddian games, grew exponentially within gaming communities.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,6 +99,22 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-art-of-saving-and-enjoying-animated-gifs-on-your-iphone/"><u>[New] In 2024, The Art of Saving and Enjoying Animated GIFs on Your iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skincare-revolution-the-best-apps-for-your-phone/"><u>[Updated] Skincare Revolution The Best Apps for Your Phone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/alexa-vs-google-assistant-showdown-identifying-the-top-contender-for-personal-use/"><u>Alexa vs Google Assistant Showdown: Identifying the Top Contender for Personal Use</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/contrasting-streamers-realms-twitch-vs-youtube/"><u>Contrasting Streamers' Realms Twitch Vs YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-play-experience-understanding-android-fps/"><u>Elevate Your Play Experience: Understanding Android FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-virtual-reality-with-ps-vr2-perks/"><u>Enhance Virtual Reality with PS VR2 Perks</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-skills-essential-strategies-for-cs2-mac-edition/"><u>Enhancing Skills: Essential Strategies for CS2, Mac Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-an-innovative-weather-forecast-app-powered-by-artificnial-intelligence-for-google-pixel-9-smartphones/"><u>Introducing an Innovative Weather Forecast App Powered by Artificnial Intelligence for Google Pixel 9 Smartphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-deck-purchase/"><u>Mastering Steam Deck Purchase</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/perfect-pair-how-to-get-apple-airpods-working-with-your-macbook-air/"><u>Perfect Pair: How To Get Apple AirPods Working With Your MacBook Air</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-surprising-benefits-of-regular-restarting/"><u>The Surprising Benefits of Regular Restarting</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-techniques-for-lithuanian-self-learning-online/"><u>Top Techniques for Lithuanian Self-Learning Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-strategies-tackling-fps-changes-in-valorant-on-windows/"><u>Winning Strategies: Tackling FPS Changes in Valorant on Windows</u></a></li>
+</ul></div>
 

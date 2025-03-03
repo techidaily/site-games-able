@@ -1,7 +1,7 @@
 ---
 title: "Neglected Consequences: Devs Getting Paid by Players"
-date: 2025-02-06T22:32:41.954Z
-updated: 2025-02-12T00:26:50.830Z
+date: 2025-02-24T23:16:35.126Z
+updated: 2025-03-02T18:52:12.354Z
 tags:
   - games
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  He implied that an in-game option might encourage players to reward the developer on completion of a game, when they’re most engaged with it.
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
 
@@ -55,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tipping is an interesting idea, but do we really need one more payment method?
 
 [Sites like Patreon and Ko-fi](https://www.makeuseof.com/patreon-vs-ko-fi-for-creators/) approach the issue of funding in different ways. The former focuses on subscription and recurring payments to provide creators with a side income; regular tips, if you like. Ko-fi, meanwhile, encourages small, one-off or regular payments, more akin to the nature of tipping, but less directly associated with service.
@@ -66,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Crowdfunding is also a popular revenue source, at the opposite end of a game’s lifecycle. Hollow Knight raised around $40,000 from just over 2,000 backers via Kickstarter. Given the game’s success, this seems like quite a small amount, but a fundraising campaign can prove an idea is good and provide just enough capital to get started.
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
 
@@ -82,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -124,18 +104,24 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-the-veracity-of-ffmpegs-audio-extraction-techniques/"><u>[New] In 2024, The Veracity of FFmpeg’s Audio Extraction Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-grandmaster-gaming-evaluating-the-best-7-total-war-experiences/"><u>2024 Approved Grandmaster Gaming Evaluating the Best 7 Total War Experiences</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-settings-to-make-a-ps5-safer-for-kids-to-use/"><u>5 Settings to Make a PS5 Safer for Kids to Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/amd-unveils-fsr-3-upgrade-or-obsolete-against-dlss-35/"><u>AMD Unveils FSR 3: Upgrade or Obsolete Against DLSS 3.5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/asus-rog-ally-laptop-docks-the-ultimate-guide-to-2024/"><u>ASUS ROG Ally Laptop Docks: The Ultimate Guide to 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-hurdles-in-your-next-steam-decks-ssd-changeover/"><u>Avoiding Hurdles in Your Next Steam Deck's SSD Changeover</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-match-for-your-nintendo-switch/"><u>Best Match for Your Nintendo Switch</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/easy-tips-for-tweaking-windows-login-options-and-controls-with-yl-software-expertise/"><u>Easy Tips for Tweaking Windows Login Options and Controls with YL Software Expertise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-techniques-for-resolving-dpi-scaling-woes/"><u>Effective Techniques for Resolving DPI Scaling Woes</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-voice-broadcasting-made-easy-on-your-idevice-tips-and-tricks/"><u>In 2024, Voice Broadcasting Made Easy on Your iDevice Tips & Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/surpassing-all-others-in-performance-and-user-friendliness-the-unrivaled-excellence-of-linux-mint-asterisk-22-zdnet-insight/"><u>Surpassing All Others in Performance and User-Friendliness: The Unrivaled Excellence of Linux Mint Asterisk 22 | ZDNET Insight</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncover-the-secrets-of-airtag-surveillance-your-complete-guide/"><u>Uncover the Secrets of AirTag Surveillance - Your Complete Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-masterpiece-makers-leading-ios-draw-tools/"><u>[New] 2024 Approved Masterpiece Makers Leading iOS Draw Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-a-comprehensive-guide-to-understanding-instagrams-music-copyright-rul/"><u>[New] In 2024, A Comprehensive Guide To Understanding Instagram's Music Copyright Rul</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photoshop-stability-enhancement-essentiality/"><u>[New] Photoshop Stability Enhancement - Essentiality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-rotate-and-share-with-ease-enhancing-instagram-videos-on-all-devices/"><u>[Updated] 2024 Approved Rotate & Share with Ease Enhancing Instagram Videos on All Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-you-need-to-know-about-sonys-new-playstation-5-pro-key-benefits-cost-details-launch-timeline-and-more-insights-explore-inside/"><u>All You Need To Know About Sony's New PlayStation 5 Pro: Key Benefits, Cost Details, Launch Timeline, And More Insights - Explore Inside</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-magic-6-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor Magic 6 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-updating-text-display-with-custom-fonts-on-windows-11/"><u>Guide: Updating Text Display with Custom Fonts on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/hps-gaming-powerhouse-the-victus-15l-pc-slashes-price-to-480-for-labor-day-extravaganza-dont-miss-out-cnet-reviews/"><u>HP's Gaming Powerhouse, the Victus 15L PC, Slashes Price to $480 for Labor Day Extravaganza – Don’t Miss Out! | CNET Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/hps-new-launch-the-victus-15l-gaming-desktop-now-at-a-steal-for-520-get-the-scoop-on-huge-savings/"><u>HP's New Launch: The Victus 15L Gaming Desktop Now at a Steal for $520 – Get the Scoop on Huge Savings!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-x-chair-x4-executive-perfect-workplace-seating-solution/"><u>In-Depth Analysis of the X-Chair X4 Executive - Perfect Workplace Seating Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-mic-diagnostics-ensure-top-notch-recording-quality/"><u>Instant Mic Diagnostics - Ensure Top-Notch Recording Quality</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-deal-get-your-nintendo-switch-oled-for-60-less-at-walmart-smart-shopping-tips/"><u>Labor Day Deal: Get Your Nintendo Switch OLED for $60 Less at Walmart – Smart Shopping Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-exclusive-offer-snag-your-free-xbox-game-pass-plus-save-an-unbelievable-33-on-amazon-fire-tv-sticks-act-fast/"><u>Labor Day Exclusive Offer: Snag Your FREE Xbox Game Pass + Save an Unbelievable 33% on Amazon Fire TV Sticks! Act Fast!</u></a></li>
+<li><a href="https://games-able.techidaily.com/massive-price-cut-hp-victus-15l-laptop-now-available-for-only-520-save-almost-40/"><u>Massive Price Cut: HP Victus 15L Laptop Now Available for Only $520 – Save Almost 40%</u></a></li>
+<li><a href="https://games-able.techidaily.com/pulsar-xlite-v2-mini-wireless-keyboard-and-mouse-combo-in-depth-review-and-testimony-on-enhanced-productivity/"><u>Pulsar XLITE V2 Mini Wireless Keyboard and Mouse Combo - In-Depth Review and Testimony on Enhanced Productivity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-itel-s23-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Itel S23 Black and White | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-three-months-more-on-xbox-game-pass-ultimate-with-a-low-cost-plan-secrets-unveiled-by-zdnet/"><u>Score Three Months More on Xbox Game Pass Ultimate with a Low-Cost Plan - Secrets Unveiled by ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-55-unbeatable-labor-day-2024-television-specials-exclusive-offers-you-cant-miss-zdnet/"><u>Top 55 Unbeatable Labor Day 2024 Television Specials - Exclusive Offers You Can't Miss (ZDNet)</u></a></li>
 </ul></div>
 

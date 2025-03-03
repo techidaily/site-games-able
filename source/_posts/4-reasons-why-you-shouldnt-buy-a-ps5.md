@@ -1,7 +1,7 @@
 ---
 title: 4 Reasons Why You Shouldn't Buy a PS5
-date: 2024-08-15T17:15:02.226Z
-updated: 2024-08-16T17:15:02.226Z
+date: 2025-02-25T18:38:43.946Z
+updated: 2025-03-02T18:26:17.496Z
 tags:
   - games
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Over time, this will change. Sony will eventually provide the wealth of first-party exclusive games that the PS5 sorely needs. However, at the time of writing, it's been almost three years since the PS5 launched and it's hard to point at a single game that's a system seller.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Most Games Are Available on the PS4 and PC
 
  Compounding the issue is that many of these "exclusives" use that term loosely because they are also available on the PS4, like God of War Ragnarök and Marvel's Spider-Man: Miles Morales. These games are fantastic on the PS5, but they're great on the PS4 too. For this reason,[it may still be worth buying the PS4](https://www.makeuseof.com/is-it-still-worth-buying-ps4/) if you don't own one.
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Not to bemoan Sony for this too heavily, though. It's great that the company is supporting the PC and that it hasn't immediately cut PS4 owners off in a bid to force them to upgrade to the PS5\. It just means if you already own a PS4 or gaming PC, then there's not much incentive to buy the PS5—unless factors such as the console's graphical prowess or peripherals like PlayStation VR2 are draws for you.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. The PS5 Is Too Expensive
 
  In August 2022,[Sony announced that the PS5 was increasing in price](https://www.makeuseof.com/why-ps5-getting-more-expensive/) in many regions due to the challenges of the "global economic environment". In the US, a PS5 costs $500, which is very costly—though you can shave $100 off that if you buy the Digital Edition (which has no disc drive).
@@ -52,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Granted, these cheaper devices don't pack the same punch when it comes to performance, and they host different games. But if you're simply in the market for a fun games machine and need to save your cash, they make for optimal alternatives.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Wait for the Inevitable Upgraded PS5
 
  At 390mm x 104mm x 260mm in size and 4.5kg in weight,[the PS5 is one hefty beast](https://www.makeuseof.com/how-big-is-the-ps5/) . If you usually keep your consoles beneath the TV in a media unit, you might find that the PS5 physically doesn't fit. And while the console's design is fine, it's not exactly a centerpiece; you don't want it dominating the room.
@@ -63,23 +54,17 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  The same thing is bound to happen with the PS5, as it has done every console cycle—rumors indicate that [a PS5 Slim will arrive in 2023](https://www.makeuseof.com/is-sony-releasing-ps5-slim-2023/) , with a smaller form factor and detachable disc drive. Plus, it might be cheaper. Patience pays off.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Buy a PS5?
 
  Ultimately, only you know the answer to whether you should buy a PS5\. If none of these reasons sound like a dealbreaker to you, that's great—go ahead and buy the PS5, and hopefully you'll get hundreds of hours of entertainment from it.
 
  However, many people might want to pause. Perhaps wait until there are more PS5 exclusive games, it drops in price, or for the second iteration… or for all three. At that point, it's likely that the PS5 will be in a stronger position and become a must-own games console.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -88,8 +73,24 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-massive-viewership-triumphs-youtubes-greatest-hits/"><u>[New] Massive Viewership Triumphs YouTube's Greatest Hits</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-diving-into-hololens-technology-the-visionary-glimpse/"><u>2024 Approved Diving Into HoloLens Technology – The Visionary Glimpse</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expertly-ranked-best-internet-sound-recorders-2023/"><u>Expertly Ranked Best Internet Sound Recorders 2023</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-repair-a-non-functional-nvidia-graphics-software-interface/"><u>How To Repair A Non-Functional NVIDIA Graphics Software Interface</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capturing-consoles-step-by-step-pc-playback-guide/"><u>In 2024, Capturing Consoles Step-by-Step PC Playback Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/lead-from-the-sidelines-manage-champions-on-pc-without-costs/"><u>Lead From the Sidelines: Manage Champions on PC without Costs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/open-world-wonders-beyond-gtas-empire-for-2024/"><u>Open World Wonders Beyond GTA's Empire for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-choices-of-144hz-monitors-for-gaming/"><u>Optimal Choices of 144Hz Monitors for Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-cure-for-flickering-screens-on-windows-11-pcs/"><u>Quick Cure for Flickering Screens on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-of-missing-imessages-from-yesterday-insights-and-fixes/"><u>Solving the Mystery of Missing iMessages From Yesterday: Insights and Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-big-picture-a-user-guide/"><u>Steam Big Picture: A User Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategizing-your-search-top-indie-game-picks-on-itchio/"><u>Strategizing Your Search: Top Indie Game Picks on Itch.io</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-your-virtual-reality-with-ps-vr2-extras/"><u>Tailoring Your Virtual Reality with PS VR2 Extras</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-nokia-c12-plus-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Nokia C12 Plus Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-pacing-keeping-gaming-enjoyable/"><u>The Art of Pacing: Keeping Gaming Enjoyable</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-gen-of-gaming-graphics-demystifying-amds-rdna-35/"><u>The Next Gen of Gaming Graphics - Demystifying AMD’s RDNA 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-subscribe-unlock-and-dive-into-ea-play-on-ps5/"><u>The Ultimate Guide: Subscribe, Unlock, and Dive Into EA Play on PS5</u></a></li>
+</ul></div>
 

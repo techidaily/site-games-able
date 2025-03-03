@@ -1,7 +1,7 @@
 ---
 title: 7 Great Games You Can Play in Your Linux Terminal
-date: 2024-08-15T17:16:34.617Z
-updated: 2024-08-16T17:16:34.617Z
+date: 2025-02-26T20:21:37.490Z
+updated: 2025-03-02T17:53:38.464Z
 tags:
   - games
 categories:
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 ## 2\. solitaire-tui
 
 ![playing solitaire in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playing-solitaire-in-the-linux-terminal.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
  Solitaire is the perfect way to waste some time on your own while you wait for binaries to [compile from the source](https://www.makeuseof.com/compile-install-software-from-source-linux/) .
 
@@ -67,9 +63,6 @@ You can now launch solitaire-tui by typing:
 ## 4\. nInvaders
 
 ![ninvaders in linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ninvaders-in-linux-terminal.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  nInvaders is a reimagining of the classic Space Invaders arcade games—one of the first and most successful video games ever.
 
@@ -86,9 +79,6 @@ You can install nInvaders on Debian-based systems with:
 ## 5\. Gambit
 
 ![gambit chessboard with checkmate imminent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gambit-chessboard-with-checkmate-imminent.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Chess is one of the greatest adversarial games ever invented and pits strategic thinkers against each other in a battle of wits.
 
@@ -101,9 +91,6 @@ You can install nInvaders on Debian-based systems with:
 ## 6\. Clidle
 
 ![clidle in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clidle-in-the-linux-terminal.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wordle is a guessing game where you try to guess a five-letter word, by inputting your word and seeing how many letters they have in common. You're limited to six guesses in total, so the stakes are high, and there are dozens of [tricks and strategies to help you improve your Wordle score](https://www.makeuseof.com/wordle-tips-hints-tricks/) .
 
@@ -120,9 +107,6 @@ Type a five-letter word to begin and see how good your score is!
 ## 7\. Tetris
 
 ![tetris in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tetris-in-the-linux-terminal.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Tetris is a quick time-killer that has been around since 1985 and holds the record for the most ported game ever, having been adapted for 65 different platforms.
 
@@ -130,21 +114,15 @@ Type a five-letter word to begin and see how good your score is!
 
  While it sounds simple, working out the optimum rotation can be difficult at higher difficulty levels.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## There’s No Shortage of Terminal Games on Linux
 
  This selection of games for your Linux terminal is great if you just want to waste some time. But if you're playing command-line games because your Linux PC has poor performance, there are a variety of ways to increase the framerate and your gaming experience.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,8 +131,23 @@ Type a five-letter word to begin and see how good your score is!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-master-guide-convert-youtube-videos-seamlessly-to-mpeg/"><u>[New] 2024 Approved Master Guide Convert YouTube Videos Seamlessly to MPEG</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-tips-and-tricks-for-creating-killer-short-videos-on-yt/"><u>[New] In 2024, Essential Tips and Tricks for Creating Killer Short Videos on YT</u></a></li>
+<li><a href="https://games-able.techidaily.com/1-top-65-unbeatable-christmas-bargain-guides-on-television-discovered-by-zdnet/"><u>1. Top 65 Unbeatable Christmas Bargain Guides on Television - Discovered by ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/compiling-top-ios-recording-utilities/"><u>Compiling Top iOS Recording Utilities</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-15-plus-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 15 Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-t2x-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo T2x 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-firmware-version-for-hp-officejet-4630/"><u>Latest Firmware Version for HP Officejet 4630</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-facil-y-gratuito-de-reducir-el-tamano-del-archivo-de-video-mkv/"><u>Top 5 Fácil Y Gratuito De Reducir El Tamaño Del Archivo De Video MKV</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-notch-cloud-gaming-experience-with-the-new-acer-chromebook-amoled-516-ge-expert-review-by-zdnet/"><u>Top-Notch Cloud Gaming Experience with the New Acer Chromebook Amoled 516 GE - Expert Review by ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-sherlock-holmes-into-an-interactive-adventure-how-chatgpt-makes-classic-tales-playable/"><u>Transforming Sherlock Holmes Into an Interactive Adventure: How ChatGPT Makes Classic Tales Playable</u></a></li>
+<li><a href="https://games-able.techidaily.com/unboxing-and-testing-sony-inzone-h9-the-ultimate-gamers-choice-rivaling-iphone-pro-series/"><u>Unboxing and Testing Sony INZONE H9 – The Ultimate Gamer’s Choice, Rivaling iPhone Pro Series</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-the-power-of-online-cricket-broadcasts/"><u>Unleashing the Power of Online Cricket Broadcasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-savings-with-these-budget-friendly-gaming-mouse-picks-for-gamers-on-a-tight-budget-under-60-cnet/"><u>Unlock Savings with These Budget-Friendly Gaming Mouse Picks for Gamers on a Tight Budget: Under $60 | CNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-game-with-epos-gtw-270-top-tier-wireless-gaming-headphones-unleash-the-potential-on-zdnet/"><u>Upgrade Your Game with Epos Gtw 270: Top-Tier Wireless Gaming Headphones - Unleash the Potential on Zdnet</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-unearthing-absent-settings-in-control-panel/"><u>Windows 11: Unearthing Absent Settings in Control Panel</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnet-exclusive-roblox-unveils-innovative-ai-translator-for-live-conversations-in-16-different-tongues/"><u>ZDNet Exclusive: Roblox Unveils Innovative AI Translator for Live Conversations in 16 Different Tongues!</u></a></li>
+</ul></div>
 

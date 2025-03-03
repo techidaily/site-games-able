@@ -1,7 +1,7 @@
 ---
 title: "Baldur's Gate 3: Meet the Minimum Specs Needs"
-date: 2024-08-08T09:08:59.115Z
-updated: 2024-08-09T09:08:59.115Z
+date: 2025-02-28T17:42:34.109Z
+updated: 2025-03-03T00:36:30.240Z
 tags:
   - games
 categories:
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
  You may already be certain you will love this major D&D 5e video game title, but you still need more information before you make the $60 investment. Here, we’ll let you know everything you need to know so you can get in Baldur’s Gate 3 as ready as can be.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## What Are Baldur’s Gate 3's Hardware and Software Requirements?
 
  Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the [best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
@@ -42,9 +39,6 @@ Here’s a table for Baldur’s Gate 3’s specs:
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
 * (Intel) MacBook Pros from 2016 to early 2020 might need to run on low settings unless they have the recommended specs.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Platforms Can You Get Baldur's Gate 3 On, and How Much Is It?
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
@@ -57,18 +51,12 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
  There are mods for Baldur’s Gate 3, but we suggest you wait a little longer to try them out since most were made with early access in mind.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Does Baldur's Gate 3 Have a Multiplayer, and How Does It Work?
 
  Baldur’s Gate 3 has a single-player mode you can play by yourself. However, you can quickly change your single-player game into a multiplayer game where your friends can join and control characters in your game.
 
  But if you want a game where all the players have their own custom characters, you’ll need to press the**Multiplayer** button in Baldur’s Gate 3’s main menu. From there, you can host your party or join an existing party.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Baldur's Gate 3's multiplayer menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-s-multiplayer-menu.jpeg)
 
  You can load saves across different platforms, but there’s no cross-play for PS5 and PC. Meaning that you can’t play with a friend using a PS5 if you’re using a PC and vice-versa.
@@ -77,32 +65,23 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
  You should run your split-screen game with DirectX instead of Vulkan because it could crash otherwise.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Is Baldur's Gate 3 Okay for Kids?
 
  If you were thinking of gifting this to an underage child, don’t. The game has very mature themes and contains nudity and sexual content. It’s a game for adults and not something you should give a child or even play around where a child could see. The game is rated 18 for violence, language, and sex.
 
  There is a toggle to hide nudity in the character creation stage. This might help reduce the chances of a child seeing something inappropriate while you play.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Now You’re Ready to Play Baldur’s Gate 3 (or Not)
 
  With all the information here, you should know all it takes to make Baldur’s Gate 3 work for you. It’s a large and long game, and it will take a lot of your time, but the good part is that you don’t have to rush it; you can finish it in small sessions.
 
  You also don’t need prior experience in Dungeons and Dragons to play the game. It’s very accessible and does a good job of introducing the mechanics to the players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,6 +90,26 @@ Here’s a table for Baldur’s Gate 3’s specs:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-creative-captioning-masterful-techniques-for-text-in-windowsmac-pics/"><u>[New] 2024 Approved Creative Captioning Masterful Techniques for Text in Windows/Mac Pics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-vlc-capture-tool-assessment/"><u>[New] 2024 Approved VLC Capture Tool Assessment</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-top-10plus-instagram-content-downloaders-reviewed/"><u>[New] In 2024, Top 10+ Instagram Content Downloaders Reviewed</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhance-visibility-youtube-thumbnails-made-simple/"><u>2024 Approved Enhance Visibility YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/die-besten-aomei-backup-software-produkte-handbucher-und-angebote-entdecken-ihre-schritt-fur-schritt-anleitung/"><u>Die Besten AOMEI Backup Software Produkte, Handbücher Und Angebote Entdecken - Ihre Schritt-Für-Schritt Anleitung!</u></a></li>
+<li><a href="https://games-able.techidaily.com/dont-settle-for-less-choose-best-fit-oled-screen/"><u>Don't Settle for Less: Choose Best-Fit OLED Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-the-latest-hevc-video-coding-format-support-in-vlc-media-player-no-cost/"><u>Download the Latest Hevc Video Coding Format Support in VLC Media Player - No Cost!</u></a></li>
+<li><a href="https://games-able.techidaily.com/eject-rightly-with-this-tipsheet-on-series-x-console/"><u>Eject Rightly With This Tipsheet on Series X Console</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-10-and-11-desktop-context-menu-not-working/"><u>How to Fix the Windows 10 & 11 Desktop Context Menu Not Working</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-gameplay-elevate-your-ps4-experience/"><u>Master the Gameplay: Elevate Your PS4 Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-file-conversions-the-ultimate-guide-to-switching-to-pdf/"><u>Mastering File Conversions: The Ultimate Guide to Switching to PDF</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-expert-advice-to-prevent-freezing-and-crashing-during-your-play-of-persona-4-golden/"><u>Mastering Stability: Expert Advice to Prevent Freezing & Crashing During Your Play of Persona 4 Golden</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-latest-dlss-enhancement-with-ai-technology/"><u>Nvidia's Latest DLSS Enhancement with AI Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/reach-beyond-limits-mobile-gaming-writ-large-in-geforce-now/"><u>Reach Beyond Limits: Mobile Gaming' Writ Large in GeForce Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-legacy-games-and-the-future-of-ps4-playability/"><u>Sony's Legacy Games and the Future of PS4 Playability</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-appeal-mobile-gaming-with-apple-arcade-subscription/"><u>The Appeal: Mobile Gaming with Apple Arcade Subscription</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/"><u>The Old PS5 Vs. The New (Slimmer) PS5: What Are the Differences?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-potential-the-case-for-pc-over-consoles/"><u>Unlocking Potential: The Case for PC Over Consoles</u></a></li>
+</ul></div>
 

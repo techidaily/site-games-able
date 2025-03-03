@@ -1,7 +1,7 @@
 ---
 title: Avoid Disconnections on Xbox S X Controller
-date: 2024-08-08T09:10:04.927Z
-updated: 2024-08-09T09:10:04.927Z
+date: 2025-02-24T00:42:13.446Z
+updated: 2025-03-02T23:49:10.786Z
 tags:
   - games
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
  You may be one of the Xbox Series X owners whose joypads are falling foul of a controller disconnection error. If so, here are several ways you may be able to solve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is the Xbox Series X Controller Issue?
 
  Not long after the release of the Xbox Series X and S, several Xbox owners were experiencing connectivity issues with the Series X controller. Since then,[Microsoft has reportedly fixed the bug](https://www.makeuseof.com/microsoft-fixes-xbox-controller-disconnection-bug/) with a software update. However, you may still experience issues with your Xbox Series X controller disconnecting.
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
  So, what can you do to fix Xbox Series X controller issues? Give these solutions a try.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Update Your Xbox Series X Controller
 
  If your Xbox controller keeps disconnecting, you might just need to update the firmware. To check whether your controller has the latest firmware, go to **Profile & system > Settings > Devices & connections > Accessories** . This will allow you to check whether the firmware is up-to-date.
@@ -54,14 +48,8 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
  To [update your Series X or Series S](https://www.makeuseof.com/how-to-update-xbox-series-x-series-s/) console, go to **Profile & system > Settings > System > Updates** . If a console update is available, it will say so next to your console on this settings page. Just update your console, as this might resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reset and Re-Sync Your Series X Controller
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![series x joypad power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/series-x-joypad-power-button.png)
 
  One potential workaround for the connectivity issue is resetting your Xbox Series X controller. You can achieve this without being connected to the console, so if your gamepad and console have lost connection, this is a way to re-sync the two.
@@ -70,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
  You can then switch it on again via the same method and see if that solves the connection issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use a Wired Connection
 
 ![xbox series x controller usb c port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-controller-usb-c-port.png)
@@ -85,14 +70,8 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
  Physically connecting your controller and console will immediately overcome the wireless connectivity issue. Once the two devices talk to each other again, you can remove the wired connection and check whether your controller works wirelessly. If it doesn't, you could always stay wired if it's convenient enough.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 5\. Hard Restart Your Xbox Series X
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![xbox series x power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-power-button.png)
 
  If all else fails, you can always exercise the IT expert's golden rule... try turning it off and on again. This is an operation you'd only want to carry out as a last resort, especially if you are in the middle of a game and haven't saved recently. Try all the other steps here first, or you risk losing your game progress.
@@ -113,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
  To access and swap the AA batteries, all you need to do is push the battery cover below the controller upwards and pull either end of each battery outwards. Then, put the new ones back in and snap the battery cover in place.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 7\. Use an Xbox One Controller
 
 ![Xbox One controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-One-Pad.jpg)
@@ -135,14 +110,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  However, if you're still out of luck, chances are that your Series X controller is facing hardware issues. In that case, you'll need to check if your controller is still under warranty and request a free replacement from Microsoft.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,6 +123,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-precision-and-perfection-a-guide-to-youtube-studio-video-edits/"><u>[Updated] Precision and Perfection A Guide to YouTube Studio Video Edits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808290732-disable-windows-10-updates-easily/"><u>Disable Windows 10 Updates Easily!</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-founders-series-vs-asus-vega-graphics/"><u>Evaluating Founder's Series Vs. ASUS Vega Graphics</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-nord-n30-se-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus Nord N30 SE Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-end-games-and-the-debate-on-mt-integration/"><u>High-End Games and the Debate on MT Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-disable-and-restrict-xbox-game-bar-background-activity-in-windows-10-and-11/"><u>How to Disable and Restrict Xbox Game Bar Background Activity in Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-8740-driver-download-for-windows-11-10-and-8-get-installed-now/"><u>HP OfficeJet Pro 8740 Driver Download for Windows 11, 10 & 8 – Get Installed Now</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-erase-red-eye-in-iphone-pics-for-free-with-our-guide/"><u>In 2024, Erase Red-Eye in iPhone Pics for Free with Our Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-fine-tuning-dimensions-aspect-ratio-essentials/"><u>In 2024, Fine-Tuning Dimensions Aspect Ratio Essentials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mirthful-methods-building-humor-in-a-click/"><u>In 2024, Mirthful Methods Building Humor in a Click</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamers-handbook-top-ranked-twitch-vod-retrievers/"><u>Streamer's Handbook: Top-Ranked Twitch VOD Retrievers</u></a></li>
+</ul></div>
 

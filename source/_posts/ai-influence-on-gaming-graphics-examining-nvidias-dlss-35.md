@@ -1,7 +1,7 @@
 ---
 title: "AI Influence on Gaming Graphics: Examining Nvidia's DLSS 3.5"
-date: 2024-08-08T09:08:05.068Z
-updated: 2024-08-09T09:08:05.068Z
+date: 2025-02-26T16:33:19.470Z
+updated: 2025-03-02T21:20:08.879Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
 ## AI Influence on Gaming Graphics: Examining Nvidia's DLSS 3.5
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * DLSS 3.5 is an upgrade of Nvidia's DLSS technology, using AI to generate higher-quality pixels for ray-traced scenes, reducing artifacts and enhancing image quality.
@@ -27,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
  DLSS has been evolving since its debut in 2018, and the 2023 version, DLSS 3.5, promises to deliver even better results for ray-traced games and applications. Read on to learn what DLSS 3.5 is, how it works, and what it means for you as a gamer or a creator.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is DLSS 3.5?
 
  DLSS 3.5 is the 2023 evolution of Nvidia's DLSS technology. It introduces a new Ray Reconstruction technique that uses AI to generate higher-quality pixels for ray-traced scenes.
@@ -38,14 +32,8 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
  DLSS 3.5 takes this further by using AI to reconstruct missing or noisy pixels in ray-traced scenes. Unlike previous versions of DLSS, which used hand-tuned denoisers for each lighting pass, DLSS 3.5 uses a single neural network that can generate higher-quality pixels for any lighting pass. This means that DLSS 3.5 can reduce artifacts like color inaccuracies, inaccurate lighting, and ghosting that sometimes occur with ray tracing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## How Does DLSS 3.5 Work? What Is Ray Reconstruction?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Ray Tracing Texel eXtreme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ray-tracing-texel-extreme.jpg)
 
  DLSS 3.5 combines the best features of previous versions of DLSS while introducing a new technique called Ray Reconstruction. Ray Reconstruction is a novel way of using AI to improve the quality of ray tracing by generating higher-quality pixels from lower-quality ones.
@@ -60,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
  It analyzes each pixel on the screen and compares it with its corresponding ray in the scene. It then uses the information from the ray to reconstruct a more accurate pixel that matches the light source's color, brightness, and direction.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Are the Benefits of DLSS 3.5?
 
  Older versions of DLSS compete favorably in [upscaling comparisons](https://www.makeuseof.com/intel-xess-vs-nvidia-dlss/) . However, it offers even more benefits for gamers and creators who use ray tracing in their games and apps. Here are some of them:
@@ -75,21 +59,15 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
 As you can see, DLSS 3.5 is a comprehensive upgrade from DLSS 3.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## When Will DLSS 3.5 Be Available?
 
  Nvidia says that DLSS 3.5 will be available in the fall of 2023, but it hasn't given a specific date yet. Nvidia also hasn't revealed which games will support DLSS 3.5 at launch, but we can expect some of the upcoming titles that use ray tracing or path tracing, such as Cyberpunk 2077 and Alan Wake 2, to be among the first ones.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,6 +76,22 @@ As you can see, DLSS 3.5 is a comprehensive upgrade from DLSS 3.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-keeping-track-of-your-google-voice-conversations/"><u>[New] 2024 Approved Keeping Track of Your Google Voice Conversations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-techniques-for-reversing-chronological-order/"><u>[New] 2024 Approved Techniques for Reversing Chronological Order</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-downloading-youtube-srt-simplified-with-3-ways/"><u>[Updated] 2024 Approved Downloading YouTube (SRT) Simplified with 3 Ways</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-showcase-of-top-movie-teasers-for-2024/"><u>[Updated] Showcase of Top Movie Teasers for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-income-on-youtube-adopting-sourav-joshis-methods/"><u>2024 Approved Unlocking Income on YouTube Adopting Sourav Joshi’s Methods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-video-visionaries-subscriber-top-5/"><u>2024 Approved Unveiling Video Visionaries Subscriber Top 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/expand-your-gaming-horizon-using-external-drives-on-steam/"><u>Expand Your Gaming Horizon: Using External Drives on Steam</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-roundup-led-lighting-of-2024/"><u>Innovation Roundup: LED Lighting of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-edge-joy-cons-and-controllers-the-best-of-2024/"><u>Leading-Edge Joy-Cons and Controllers: The Best of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps4-controls-for-pcmac-systems/"><u>Mastering PS4 Controls for PC/Mac Systems</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/recovery-techniques-for-missing-avi-videos-unveiling-the-secrets-of-avi-data-retrieval/"><u>Recovery Techniques for Missing AVI Videos - Unveiling the Secrets of AVI Data Retrieval</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-modify-your-riot-username-and-tagline/"><u>Steps to Modify Your Riot Username and Tagline</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-master-hrtf-to-win-at-valorant/"><u>Why Master HRTF to Win at Valorant?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11s-high-def-audio-triumph/"><u>Win11's High-Def Audio Triumph</u></a></li>
+</ul></div>
 

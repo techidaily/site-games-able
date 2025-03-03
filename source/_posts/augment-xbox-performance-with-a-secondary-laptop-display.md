@@ -1,7 +1,7 @@
 ---
 title: Augment Xbox Performance with a Secondary Laptop Display
-date: 2024-08-15T17:14:21.471Z
-updated: 2024-08-16T17:14:21.471Z
+date: 2025-02-27T21:50:28.196Z
+updated: 2025-03-02T22:07:41.966Z
 tags:
   - games
 categories:
@@ -48,14 +48,8 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 1. Press the**Xbox button** to open the Guide menu.
 2. Highlight the options for**Profile & system** , and select**Settings** .  
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 3. Under**Devices & connections** , choose**Remote features** .  
 ![A screenshot of the Devices and Connections options for an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/remote-features.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Ensure the option for**Enable remote features** is selected.  
 ![A screenshot of the Remote Features settings on Xbox Series X with Enable Remote Features highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-remote-features.jpg)
 
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
  You may be required to change your**Xbox app preferences** to**Allow from any device** or**Only from profiles signed in on this Xbox** to enable Remote Play features.
 
 ![A screenshot of the settings for Xbox App Preferences on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app-preferences.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  Similarly, you can also select**Power options** from the**Remote features** screen, to [customize the power settings of your Xbox](https://www.makeuseof.com/how-to-customize-xbox-series-x-s-power-options-to-save-energy/) and ensure it is set to**Sleep** rather than**Shutdown** to enable Remote Play all the time.
 
@@ -81,16 +72,10 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 1. On your laptop, open the**Settings** app.
 2. Click**Devices** , followed by**Add Bluetooth or other device** .  
 ![A screenshot of the Bluetooth and Other Devices Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-bluetooth-and-other-devices-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. From the**Add a device** screen, select**Bluetooth** .
 4. Turn on your Xbox controller and press the Pair button at the top of the controller.
 5. Click**Xbox Wireless Controller** when it appears on the**Add a device** screen.  
 ![A screenshot of the Add a Device page available in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-add-a-device-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
  With your laptop successfully paired with your controller, you're ready to use it with Remote Play. However, if you're having trouble pairing over Bluetooth, you can connect your laptop to your controller using a wired USB-C cable. This will instantaneously sync your devices.
 
@@ -108,24 +93,14 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
  However, by clicking the**three-button menu** in the top-left of your screen with your mouse, you can access helpful options. These include**Mute** ,**Feedback** ,**Toggle fullscreen** , and**Disconnect** .
 
 ![A screenshot of the streaming options for Remote Play for an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-stream-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As long as your Xbox is set to**Sleep** , you won't even need to turn your Xbox on first. Just connect to your Xbox via the Xbox app, and your console will turn on remotely. So if you're on a train, on vacation, or even on a break at work, you can play games from your console.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## What Else Can the Xbox App Do?
 
  If you've only used the Xbox app for PC for Remote Play, you should know this is only a tiny part of its functionality.
 
 ![cloud gaming screen of xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/xbox-app-cloud-gaming.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  The Xbox app primarily serves as the platform for Xbox PC gaming. You can shop for new Xbox games, interact with the Xbox community, and [take advantage of Xbox Game Pass](https://www.makeuseof.com/reasons-to-get-xbox-game-pass/) . Even if your laptop isn't powerful enough to run the newest AAA titles, you can play games via Cloud Gaming.
 
@@ -135,14 +110,11 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
  If you don't have a console or want to play with a friend who doesn't have one, you'll want to give Xbox Cloud Gaming a shot. You don't even need an official Xbox controller for this, just a Game Pass Ultimate subscription.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,6 +123,24 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-top-10-strategies-for-captivating-close-up-cinematography/"><u>[Updated] Top 10 Strategies for Captivating Close-Up Cinematography</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-effective-steps-to-upgrade-your-audio-devices-driver-a-guide-by-yl-computing/"><u>1. Effective Steps to Upgrade Your Audio Device's Driver: A Guide by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-timeout-issue-windows-1110-semaphore-error-0x80070079/"><u>Addressing Timeout Issue - Windows 11/10 Semaphore Error 0X80070079</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-your-music-collection-the-easy-guide-to-youtube-playlist-creation-webapp-for-2024/"><u>Curating Your Music Collection The Easy Guide to YouTube Playlist Creation (Web/App) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-classic-games-choose-from-among-the-best-4-ios-emulators/"><u>Dive Into Classic Games: Choose From Among the Best 4 iOS Emulators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-critical-ntdlldll-errors-in-your-windows-pc-windows-10-8-7/"><u>Fixing Critical ntdll.dll Errors in Your Windows PC (Windows 10, 8, 7)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonious-audio-pathway-guidebook-for-2024/"><u>Harmonious Audio Pathway Guidebook for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/hot-hands-on-10-must-have-vr-peripherals/"><u>Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-key-to-professional-filming-without-spending-free-lessons-from-the-best-in-green-screen-artistry/"><u>In 2024, The Key to Professional Filming Without Spending Free Lessons From the Best in Green Screen Artistry</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-acemagics-am08-pro-gameplay-real-and-trustworthy/"><u>Is AceMagic's AM08 Pro Gameplay Real and Trustworthy?</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-for-virtual-victory-on-xbox-sx/"><u>Joining Forces for Virtual Victory on Xbox S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-cinematic-experience-xbox-series-x-and-blu-ray/"><u>Redefining Cinematic Experience: XBox Series X and Blu-Ray</u></a></li>
+<li><a href="https://games-able.techidaily.com/robloxs-error-403-explained-and-how-to-fix-it-in-windows/"><u>Roblox's Error 403 Explained & How to Fix It in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-gaming-hide-xbox-series-s-vibrations/"><u>Stealthy Gaming: Hide Xbox Series S Vibrations</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-overcome-oculus-error-in-windows-1011/"><u>Steps To Overcome Oculus Error in Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-smart-steam-point-utilization/"><u>The Art of Smart Steam Point Utilization</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-six-digital-storefronts-for-purchasing-televisions/"><u>Top Six Digital Storefronts for Purchasing Televisions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Behind-the-Scenes: Repairing Your Own Xbox Sensors"
-date: 2024-08-08T09:08:09.960Z
-updated: 2024-08-09T09:08:09.960Z
+date: 2025-02-23T18:41:33.742Z
+updated: 2025-03-02T20:17:43.111Z
 tags:
   - games
 categories:
@@ -18,25 +18,16 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
  If you would rather breathe new life into your beloved controller than spend money on another one, you can now do so with Xbox. There are even full tutorials available to walk you through each step of the way.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Is Now Selling Replacement Xbox Controller Parts
 
  Unlike most companies that would rather gobble up your money and make you purchase a new controller every year or two, Xbox has turned a new leaf. Gamers from North America can now purchase official replacement parts from Xbox directly and follow the free tutorials provided to fix their controller themselves.
 
  Replacement parts for all major components are available on [Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 
  This is mainly helpful to gamers with older controllers that are out of warranty. If your controller is still under warranty, sending it back for a free repair or replacement would be cheaper and easier. But if you do feel like you want to have a go yourself, Xbox has announced that opening up your controller to fix it will not void the warranty as long as no damage is done during the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get Started Fixing Your Own Xbox Controller
 
  If your controller is playing up, and you want to fix it yourself, head to Microsoft's website (linked above) and purchase the replacement parts you need. For any technical difficulties, you will need to pick up the PCBA and motor assembly kit. Picking up replacement shells and buttons will most likely be optional unless the outer casing has sustained significant damage.
@@ -47,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
  If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like [how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or [how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why You Should Fix Your Own Xbox Controller
 
  Being able to fix your own controller is a brilliant idea for a multitude of reasons. Firstly, it is beneficial to you as a consumer because it will save you money. In the past if your Xbox Wireless controller broke and was out of warranty, your only option was to ditch it and purchase a whole new one for around $59.99.
@@ -58,32 +46,23 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
  Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a [power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to [crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
  Image Credit:[Xbox](https://www.xbox.com/en-us/accessories/controllers/remix-special-edition#regrind)
 
  Inspiring gamers to recycle and reuse their old controllers instead of throwing them out to buy new ones is yet another eco-friendly step in the right direction for Xbox.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Reuse, Recycle, Replay
 
  Fixing your own Xbox controller instead of buying a new one saves you money, reduces waste, and allows you to learn a new skill. Opening up any type of electronic device for the first time can be intimidating. But like anything else, it’s just a matter of time before you master yet another art and start fixing controllers left, right, and center.
 
  And if you ever get stuck, there are tutorials available to walk you through each step of the process, so you can get your controller back in working order, no matter your skill level.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,6 +71,20 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-video-quality-with-right-lighting/"><u>[Updated] 2024 Approved Enhancing Video Quality with Right Lighting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/academic-boosting-tips-how-students-can-benefit-from-chatgpt-in-5-key-areas/"><u>Academic Boosting Tips: How Students Can Benefit From ChatGPT in 5 Key Areas</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-reviews-on-top-9-emulators-boosting-steam-deck-games/"><u>Expert Reviews on Top 9 Emulators Boosting Steam Deck Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-identifying-the-top-8-features-in-cpu-coolers/"><u>Guide: Identifying the Top 8 Features in CPU Coolers</u></a></li>
+<li><a href="https://games-able.techidaily.com/guided-approach-to-complete-ps4-data-erasure/"><u>Guided Approach to Complete PS4 Data Erasure</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-disabled-usb-wi-fi-adapters-in-windows/"><u>How To Reactivate Disabled USB Wi-Fi Adapters in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-xiaomi-redmi-note-12r-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi Note 12R Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-windows-to-rise-your-fps-level/"><u>Optimizing Windows to Rise Your FPS Level</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/perfect-your-storytelling-with-these-6-reel-apps/"><u>Perfect Your Storytelling with These 6 Reel Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pioneering-cloud-innovation-the-best-providers-of-2024/"><u>Pioneering Cloud Innovation The Best Providers of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-ssds-for-ps5-enthusiasts/"><u>Premium SSDs for PS5 Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/reigniting-passion-for-online-exploration/"><u>Reigniting Passion for Online Exploration</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-the-best-online-stop-motion-makers-reviewed-for-2024/"><u>Updated The Best of the Best Online Stop Motion Makers , Reviewed for 2024</u></a></li>
+</ul></div>
 

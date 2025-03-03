@@ -1,7 +1,7 @@
 ---
 title: Akko MOD007B Board Insights for Serious Gaming
-date: 2024-08-08T09:08:43.116Z
-updated: 2024-08-09T09:08:43.116Z
+date: 2025-02-28T16:46:38.574Z
+updated: 2025-03-02T19:38:24.380Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
 ## Akko MOD007B Board Insights for Serious Gaming
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Akko MOD007B HE keyboard uses Hall Effect switches for customizable actuation distance, giving gamers an advantage.
@@ -112,14 +109,8 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Great-Looking Keyboard on the Surface
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
@@ -132,9 +123,6 @@ No
 
 ## Tokyo-Themed Keys and Accessories Included
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
 
  Jowi Morales / MakeUseOf
@@ -143,26 +131,16 @@ No
 
  The extra keycaps contain Japanese icons, but installing them could potentially mix up the perfect pink-and-white combination on the stock keys already. But they’re still a great option if you want to customize your keyboard further and have memorized the placement of non-alphanumeric keys.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
 
  Jowi Morales / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Akko MOD007B Means Serious Business Underneath
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
 
  On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
  Jowi Morales / MakeUseOf
@@ -203,9 +181,6 @@ Related
 
 ## Confusing Multi-Mode Pairing
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
  Jowi Morales / MakeUseOf
@@ -230,9 +205,6 @@ Related
 
  Granted that this keyboard will most likely sit on your desk in wired mode, it’s still better to allow the user to switch off the keyboard when not using it. This will help save power, especially if you transport the keyboard in your bag (like when going to a LAN party or an on-site competition) and want to use it wirelessly.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Your Keyboard for Gaming Victory
 
  Although these couple of issues will negatively impact niche users like me, they won’t affect most users. You can't ignore the benefits of a Hall Effect keyboard, especially if you take your matches seriously.
@@ -315,14 +287,11 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/) [See at Amazon](https://www.amazon.com/dp/B0CP7CYWRY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031519&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fakko-mod007b-hall-effect-keyboard-review%2F&asc%5Fcampaign=Affiliate)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -331,6 +300,20 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-harmonizing-your-calendar-with-zoom-appointments-on-all-screens/"><u>[New] 2024 Approved Harmonizing Your Calendar With Zoom Appointments on All Screens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-era-cinema-vrs-role-in-entertainment/"><u>[New] Next Era Cinema VR's Role in Entertainment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-video-capture-clash-go-obs-against-shadowgl/"><u>[Updated] In 2024, Video Capture Clash Go OBS! Against ShadowGL</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-poco-x6-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Poco X6 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-perfect-tablet-the-ultimate-guide-to-kids-ipads/"><u>Choosing the Perfect Tablet: The Ultimate Guide to Kids' IPads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-mp3-files-to-ogg-format-for-free-with-movavis-web-based-converter-quick-and-simple/"><u>Convert MP3 Files to Ogg Format for Free with Movavi's Web-Based Converter - Quick and Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-financial-remedy-requesting-a-refund/"><u>Fortnite Financial Remedy: Requesting a Refund</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-revitalizing-mobile-cinematic-vision-4-strategies-for-hdr-enhancement-in-premiere/"><u>In 2024, Revitalizing Mobile Cinematic Vision 4 Strategies for HDR Enhancement in Premiere</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedy-steam-library-sync-misfire-on-pc/"><u>Remedy Steam Library Sync Misfire on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/t1-and-s1-redesign-tecnos-ifa-innovations-revealed/"><u>T1 and S1 Redesign: Tecno’s IFA Innovations Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-graphic-gamers-guide-to-rhythm-beat-play/"><u>The Graphic Gamer's Guide to Rhythm Beat Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gpu-picks-beyond-rtx-4060-ti/"><u>Top GPU Picks Beyond RTX 4060 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-best-affordable-1440p-gaming-displays/"><u>Unveiling the Best Affordable 1440P Gaming Displays</u></a></li>
+</ul></div>
 

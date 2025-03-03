@@ -1,7 +1,7 @@
 ---
 title: "AstroCraft Builder: New PC Brands Hidden in Space?"
-date: 2024-08-08T09:11:00.019Z
-updated: 2024-08-09T09:11:00.019Z
+date: 2025-03-01T17:25:17.272Z
+updated: 2025-03-02T17:05:39.036Z
 tags:
   - games
 categories:
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  Do you have $3000 to burn and you're looking to upgrade to a new gaming/streaming PC? The Starforge Voyager Creator probably isn't on your radar, but after this review, it might make its way to your shortlist. Founded in August 2022 and based in Austin, Texas, StarForge Systems is a new player in the very saturated custom PC building scene, gaining support from star streamers like Asmongold, Mizkif, Rich Campbell, and others associated with the OTK streaming group, showing their passion for making a mark in a fierce market.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Playing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-playing.jpg)
 
  Currently priced at $2799 (originally $2999), we're reviewing the Starforge Voyager Creator, the cheapest model in the Creator series. With its Intel Core i7-13700K, NVidia GeForce RTX 4070 Ti, and 32GB DDR5 6000 RAM, this PC is designed to handle 4K gaming and streaming with frame rates exceeding 100FPS in most modern AAA games.
@@ -102,17 +99,10 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
  However, it's worth noting that this convenience comes with a $400-$500 premium compared to building a similar system yourself, or about $200-$300 vs other high-end system integrators.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Front View](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-front-view.jpg)
 
  Aside from its design, cooling and silent operation were clearly a priority when Starforge built this out. Even with more demanding games like Cyberpunk 2077 or Hogwarts Legacy, this is easily one of the quieter gaming PCs I've tested recently, and for the most part, it's hard to tell it's even running.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Bottom Fans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-bottom-fans.jpg)
 
  Fan speeds ramp up with prolonged rendering or CPU-intensive tasks, but the Voyager Creator still offers a quiet computing experience, even during demanding workloads.
@@ -127,9 +117,6 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
 ## Hardware and Comparable Custom Builds
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### PC Part Picker
 
 ![Starforge Voyager Creator - PC Part Picker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-pc-part-picker.png)
@@ -152,16 +139,10 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
  The PC arrives in a massive, hefty box, carefully protected with several fragile stickers to ensure its safe delivery. Our shipment arrived in excellent condition, without any bruises or holes, a testament to the packaging's effectiveness.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-box.jpg)
 
  Upon opening the box, you'll encounter layers of bubble wrap, the original Lian Li accessory box, and the original Lian Li case box. You'll also find the original soft MSI pouch, containing additional cabling associated with its MSI Z790 Tomahawk Wifi DDR5 motherboard. Furthermore, the Starforge Accessory box includes essential items like the power cable, Wi-Fi antennas for the motherboard, MSI badging stickers, Starforge quick setup guide, warranty card, and information.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Unboxing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-unboxing.jpg)
 
  With all of that removed, you'll get your first glimpse of the PC's rear side, showcasing its motherboard and IO. The PC boasts excellent padding on its top and bottom, ensuring everything remains secure during transit. Considering its massive size and weight, it's recommended to carefully flip the box on its open cutout side and then lift it, avoiding any struggle that may lead to accidental dropping.
@@ -174,9 +155,6 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
  Additionally, a small protective film on its Deepcool LS720 360mm AIO Liquid Cooler needs to be removed. '
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Watercooler Close Up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-watercooler-close-up.jpg)
 
  Both the left and front glass sides have a protective film on both sides, requiring removal before use. It's worth noting that the Lian Li PC-011 Dynamic Evo Mid-Tower case's design doesn't make removing these sides easy, making it unlikely that you'll need to re-enter the case anytime soon after the initial setup.
@@ -185,18 +163,12 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
  During this process, you'll have the opportunity to inspect the cable management on the front and back, finding everything neatly tied and organized without any sloppiness. Starforge deserves an A+ for its packaging and protection during shipment. Having previously worked for a System Integrator, I can appreciate the effort and cost required to protect a PC this well, making me truly value the care and attention that went into this aspect of the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Rear Wiring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-rear-wiring.jpg)
 
  Something interesting that Starforge adds to the Lian case is a custom foam-board-like black backplate featuring their logo and several stars and cubes in white. These semi-transparent white shapes allow the RGB lighting from the RGB light strip adhered to the backplate to shine through, adding a nice touch of brand flavor to the unit and making it feel more custom rather than an off-the-shelf Lian case.
 
  However, there are some concerns with this design. For one, the backplate attaches via a magnet but is easy to knock loose, and the whole piece feels somewhat cheap, flimsy, and like an afterthought rather than the centerpiece it was intended to be. Despite these minor issues, the backplate still enhances the overall aesthetics of the PC, making it stand out from other builds.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Backplate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-backplate.jpg)
 
  After reassembling everything, the last steps are to install the Wi-Fi antennas and the power cable. The Starforge Voyager Creator Pro is made of 4mm Aluminum, 4mm Tempered Glass, and 1mm Steel Structure, measuring (D)465mm × (W)285mm × (H)459mm, making it a robust and substantial PC.
@@ -215,16 +187,10 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
 ![Starforge Voyager Creator - Low Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-low-angle.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Performance
 
  When we check out the Starforage Voyager Creator alongside other units we've reviewed in the past, it'll give us a good idea of how it performs and how it stacks up against different hardware. It's exciting to see how the Voyager Creator holds up against the MSI Aegis RS, which uses last-gen hardware. This will give us a sense of whether the Voyager Creator, with its latest-gen components, really brings a significant performance boost and is worth the additional cash for some.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Benchark Units](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-benchark-units.png)
 
  Plus, since we have a bunch of current gaming laptops with the latest Intel mobile CPUs, we can see how the Voyager Creator's desktop setup compares in terms of portability and power efficiency.
@@ -233,14 +199,8 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
 ![Starforge Voyager Creator - PCMark10BM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-pcmark10bm.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - PCMark 10 - Benchmark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-pcmark-10-benchmark.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### 3DMark TimeSpy
 
 ![Starforge Voyager Creator - 3DMark10BM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-3dmark10bm.png)
@@ -249,35 +209,20 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
 ### Davinci Resolve
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Davinci - FullBM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-davinci-fullbm.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Davinci Resolve Benchmark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-davinci-resolve-benchmark.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Gaming
 
  In our game benchmarks, we run everything at the highest quality preset on a 2560 x 1080p monitor.
 
  In more intense games like Red Dead Redemption 2, we noticed the GPU utilization reaching around 99%, with temperatures hovering at approximately 71 degrees Celsius and power usage around 240 Watts.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - RDR2BM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-rdr2bm.png)
 
  In older and less demanding games like Detroit Become Human, GPU utilization drops to under 50%, and temperatures stay around 40 degrees Celsius, yet we maintain a steady 60fps without any drops.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Starforge Voyager Creator - Playing Detroit Become Human 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-playing-detroit-become-human-2.jpg)
 
  For Marvel's Spider-Man Remastered, we experienced an average FPS between 92 and 110.
@@ -304,14 +249,11 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
  However, if the Voyager Creator's striking appearance resonates with you, and you prioritize the convenience of a pre-configured system that comes with an extended warranty, then this PC marks a noteworthy debut. Its powerful performance, meticulous design, and generous warranty make it an enticing choice for those looking to level up their gaming and streaming experiences.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -320,6 +262,17 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-efficiently-record-your-screen-with-io-screen-recorder/"><u>2024 Approved Efficiently Record Your Screen with IO Screen Recorder</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boost-your-media-library-top-20-freeware-tools-turning-instagram-videos-into-mp4/"><u>Boost Your Media Library Top 20 Freeware Tools Turning Instagram Videos Into MP4</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-safety-of-roblox-performance-hacks/"><u>Evaluating Safety of Roblox Performance Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-power-on-paper-asus-rog-ally-vs-steam-deck/"><u>Gaming Power on Paper: Asus ROG Ally Vs. Steam Deck</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-note-13-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi Note 13 5G Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-longevity-top-5-preservation-methods/"><u>Nintendo Switch Longevity: Top 5 Preservation Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-old-ps5-and-its-modern-successor-compared/"><u>The Old PS5 and Its Modern Successor Compared</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-secrets-to-combat-flickering-display/"><u>Unveiling Secrets to Combat Flickering Display</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/writing-better-chatgpt-commands-as-a-fitness-lover-tips-and-techniques/"><u>Writing Better ChatGPT Commands as a Fitness Lover: Tips and Techniques</u></a></li>
+</ul></div>
 

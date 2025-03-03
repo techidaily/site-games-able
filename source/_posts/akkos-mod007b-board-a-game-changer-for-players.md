@@ -1,7 +1,7 @@
 ---
 title: Akko's Mod007B Board - A Game-Changer for Players
-date: 2024-08-08T09:09:03.945Z
-updated: 2024-08-09T09:09:03.945Z
+date: 2025-02-28T20:17:31.559Z
+updated: 2025-03-02T23:59:19.231Z
 tags:
   - games
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
  So, Akko is bringing the MOD007B Hall Effect Keyboard to help overcome the weaknesses of mechanical keyboards and give you an advantage over your opponents.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B PC eCommerce Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/world-tour-tokyo-mod007b-pc-3-600x600.jpg)
 
 ##### AKKO MOD007B PC
@@ -112,14 +109,8 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## A Great-Looking Keyboard on the Surface
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
@@ -132,9 +123,6 @@ No
 
 ## Tokyo-Themed Keys and Accessories Included
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
 
  Jowi Morales / MakeUseOf
@@ -143,9 +131,6 @@ No
 
  The extra keycaps contain Japanese icons, but installing them could potentially mix up the perfect pink-and-white combination on the stock keys already. But they’re still a great option if you want to customize your keyboard further and have memorized the placement of non-alphanumeric keys.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
 
  Jowi Morales / MakeUseOf
@@ -156,9 +141,6 @@ No
 
  On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
  Jowi Morales / MakeUseOf
@@ -189,9 +171,6 @@ Related
 
 ## Extensive Customization With the Akko Cloud Driver
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
@@ -216,9 +195,6 @@ Related
 
 ## Questionable Battery Life
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
  Jowi Morales / MakeUseOf
@@ -237,9 +213,6 @@ Related
 
  So, if you are or plan to be a serious gamer, the Akko MOD007B is an excellent choice for a primary keyboard. And, as long as you don’t frequently switch between Windows and Mac, it’s a great all-around keyboard, too.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Akko MOD007B PC eCommerce Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/world-tour-tokyo-mod007b-pc-3-600x600.jpg)
 
 ##### AKKO MOD007B PC
@@ -314,14 +287,11 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/) [See at Amazon](https://www.amazon.com/dp/B0CP7CYWRY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031519&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fakko-mod007b-hall-effect-keyboard-review%2F&asc%5Fcampaign=Affiliate)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -330,6 +300,20 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-info.techidaily.com/canons-elph-190-reliable-reasonably-priced/"><u>Canon's ELPH 190: Reliable, Reasonably Priced</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/from-conceptualization-to-production-writing-engaging-documentary-stories-for-2024/"><u>From Conceptualization to Production Writing Engaging Documentary Stories for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/guide-to-converting-and-downloading-cisco-live-presentations-in-various-formats/"><u>Guide to Converting and Downloading Cisco Live Presentations in Various Formats</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gameplay-with-advanced-audio-systems/"><u>Maximizing Gameplay with Advanced Audio Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/msi-raider-xg9-beast-mode-activated/"><u>MSI Raider XG9: Beast Mode Activated</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-editing-software-no-watermark-no-cost/"><u>New Free Video Editing Software No Watermark, No Cost</u></a></li>
+<li><a href="https://games-able.techidaily.com/palworld-simplified-for-everyone/"><u>PalWorld Simplified for Everyone</u></a></li>
+<li><a href="https://games-able.techidaily.com/shop-smart-play-hard-free-nintendo-switch-games/"><u>Shop Smart, Play Hard: Free Nintendo Switch Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-games-not-available-due-to-lock/"><u>Troubleshooting Steam Games Not Available Due to Lock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-vyncs-subscription-models-reliable-tracking-features-and-baffling-payment-structures-reviewed/"><u>Unpacking Vyncs Subscription Models: Reliable Tracking Features and Baffling Payment Structures Reviewed</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-tension-with-social-media-networks/"><u>Unraveling the Tension with Social Media Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-more-3-high-score-boosting-online-resources/"><u>Win More: 3 High-Score Boosting Online Resources</u></a></li>
+</ul></div>
 

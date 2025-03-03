@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Approach to Subscribing & Enjoying EA Play on PS5
-date: 2024-08-15T17:15:40.418Z
-updated: 2024-08-16T17:15:40.418Z
+date: 2025-02-25T22:15:00.841Z
+updated: 2025-03-02T21:18:27.567Z
 tags:
   - games
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 
  By the way, EA Play is one of the [ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Subscribe to EA Play on the PS5
 
  Trying to navigate your PS5 to pay for EA Play could be a little tricky. Before you begin, you must [add a card as a payment method on your PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) (EA Play insists you have a card even though it will charge your wallet). So, we’ve detailed all the steps you should follow to successfully subscribe to it:
@@ -39,18 +36,12 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 2. Tap**R1** till you reach the**Subscriptions** tab.
 3. Scroll down till you see EA Play’s banner and choose**Learn More** .  
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-in-playstation-store-s-subscription-page.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Select**$4.99** and choose**Order & Pay** .
 
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
  If you have money in your wallet, EA Play will debit the wallet before any other payment method—even on subsequent renewals.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use an EA Play Membership on the PS5
 
  You won’t automatically find EA Play games in your library; you must go to the Play List to find and download the games. Here’s how to find them:
@@ -58,22 +49,13 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 1. Go to**PlayStation Store > Subscriptions** and scroll down to EA Play’s banner.
 2. Select**View Games** , and you’ll find yourself in the**EA Play Play List** .  
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Cancel an EA Play Membership on the PS5
 
  You might no longer want EA Play after paying for the first month. And this might be the best course of action if you’re only trying to use the membership to get discounts. In that case, head into **Settings > Account > Payment and Subscriptions > Subscriptions > EA Play > Cancel Subscription** .
@@ -88,14 +70,11 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 
  However, it’s just one of the ways you can save money. There are still various ways to make PS4 or PS5 gaming cheaper.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,8 +83,19 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-momentary-motion-picture-manuscript/"><u>[New] Momentary Motion Picture Manuscript</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-srgb-adoption-over-traditional-rgb-techniques/"><u>[Updated] 2024 Approved Srgb Adoption Over Traditional Rgb Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-constructing-authenticity-in-documentaries/"><u>[Updated] In 2024, Constructing Authenticity in Documentaries</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-essential-guide-broadcast-360-videos-on-facebook/"><u>In 2024, Essential Guide Broadcast 360 Videos on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-luster-leads-transformative-techniques-for-videos/"><u>In 2024, Luster Leads Transformative Techniques for Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/serious-gamers-choice-mod007b-hall-effect-board/"><u>Serious Gamer's Choice: Mod007B Hall Effect Board</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-3d-assets-for-game-performance/"><u>Streamlining 3D Assets for Game Performance</u></a></li>
+<li><a href="https://article-files.techidaily.com/stylish-methodology-combining-gopro-imagery-into-360-video-tapestry/"><u>Stylish Methodology Combining GoPro Imagery Into 360 Video Tapestry</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-screen-technology-165hz-speed/"><u>Superior Screen Technology - 165Hz Speed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/uncover-top-11-effective-video-size-slashers-for-your-phone/"><u>Uncover Top 11 Effective Video Size Slashers for Your Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ultimate-mobile-gaming-collection-today/"><u>Your Ultimate Mobile Gaming Collection Today</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Customize In-Game Overlay Display on Discord
-date: 2025-02-07T18:22:42.331Z
-updated: 2025-02-11T20:44:09.602Z
+date: 2025-03-01T18:12:45.484Z
+updated: 2025-03-02T17:24:00.647Z
 tags:
   - games
 categories:
@@ -53,14 +53,6 @@ Here's how:
 
 ![Manually Add Roblox in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/manually-add-roblox-in-discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use the Discord Overlay During Gaming
 
  Once you have enabled the overlay, you'll get a notification for every incoming text or call, even when playing the game in full screen.
@@ -69,15 +61,7 @@ Here's how:
 
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Disable the Discord In-Game Overlay
 
@@ -89,10 +73,6 @@ Follow these steps to disable the in-game overlay:
 2. Navigate to the**Game Overlay** tab on the left.
 3. Turn off the toggle next to**Enable in-game overlay** .  
 ![Disable Discord Overlay in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-in-game-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To permanently turn off the overlay only for a specific game, navigate to the**Registered Games** tab and click on the**monitor icon** next to it.
 
@@ -119,19 +99,21 @@ Follow these steps to disable the in-game overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-comprehensive-tutorial-on-youtube-annotation-for-2024/"><u>[Updated] Comprehensive Tutorial on Youtube Annotation for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-ensuring-your-facebook-reach-with-exceptional-cover-videos/"><u>[Updated] Ensuring Your Facebook Reach with Exceptional Cover Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-expert-mastering-movie-maker-in-windows-8-systems/"><u>[Updated] From Novice to Expert Mastering Movie Maker in Windows 8 Systems</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-maximize-your-tiktok-pro-editors-playbook-for-2024/"><u>[Updated] Maximize Your TikTok Pro Editor's Playbook for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/custom-fan-profiles-reduce-overheating-increase-power/"><u>Custom Fan Profiles: Reduce Overheating, Increase Power</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effortless-backup-solution-for-windows-systems-universal-gpt-disk-partitioning-guide/"><u>Effortless Backup Solution for Windows Systems: Universal GPT Disk Partitioning Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-camcorders-for-high-quality-podcasts/"><u>In 2024, Ultimate Camcorders for High-Quality Podcasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-ps-remotes-into-switch-gameplay-successfully/"><u>Integrating PS Remotes Into Switch Gameplay Successfully</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-gaming-experience-with-assist-controller-on-ps5/"><u>Maximize Your Gaming Experience with Assist Controller on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-fsr-3-from-amd-game-changer-for-graphics-supremacy/"><u>New FSR 3 From AMD: Game Changer for Graphics Supremacy?</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-app-functionality-after-qt-plugin-initialization-breakdown/"><u>Restoring App Functionality After Qt Plugin Initialization Breakdown</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-science-behind-robloxs-frame-rate-enhancers/"><u>The Science Behind Roblox's Frame Rate Enhancers</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-one-month-free-disco-on-gx-the-opera-guide/"><u>Unlock One-Month Free Disco on GX: The Opera Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-camera-enthusiasts-top-list-ultimate-6-4k-dslr-cameras/"><u>[New] Camera Enthusiasts' Top List Ultimate 6 4K DSLR Cameras</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-steam-reimbursements-for-all-players/"><u>Effortless Steam Reimbursements for All Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-gameplay-proven-strategies-to-fix-and-optimize-call-of-duty-modern-warfare-2-performance-on-pc/"><u>Enhancing Gameplay: Proven Strategies to Fix and Optimize Call of Duty: Modern Warfare 2 Performance on PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enhancing-tiktok-profiles-with-linktree-features-for-2024/"><u>Enhancing TikTok Profiles with Linktree Features for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-retro-nostalgia-with-xbox-classics-and-xemu-on-pc/"><u>Enjoy Retro Nostalgia with XBox Classics & Xemu on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-top-10-best-free-fps-browser-games-unveiled/"><u>Game On! Top 10 Best Free FPS Browser Games Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/gear-gripping-or-tapping-tracks-perfecting-the-drivers-art/"><u>Gear Gripping or Tapping Tracks: Perfecting the Driver's Art</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-edge-2023-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Motorola Edge 2023 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x50-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor X50 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-lecture-capture-a-comprehensible-methodology-for-mac-users-for-2024/"><u>Mastering Lecture Capture A Comprehensible Methodology for Mac Users for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/revisiting-perception-why-consoles-arent-outdone/"><u>Revisiting Perception: Why Consoles Aren't Outdone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/schnelle-und-einfache-hdd-klonierung-auf-mobilen-geraten-erklart/"><u>Schnelle Und Einfache HDD-Klonierung Auf Mobilen Geräten Erklärt</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-expert-insights-on-latest-hardware/"><u>Tom's Tech Reviews: Expert Insights on Latest Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-components-for-a-powerhouse-gaming-machine/"><u>Top Components for a Powerhouse Gaming Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-high-price-of-virtual-reality-technology/"><u>Unraveling the High Price of Virtual Reality Technology</u></a></li>
 </ul></div>
 

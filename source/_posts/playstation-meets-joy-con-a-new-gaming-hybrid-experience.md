@@ -1,7 +1,7 @@
 ---
 title: "PlayStation Meets Joy-Con: A New Gaming Hybrid Experience"
-date: 2025-02-08T00:24:50.006Z
-updated: 2025-02-12T00:30:33.307Z
+date: 2025-02-24T16:44:02.224Z
+updated: 2025-03-02T18:50:33.701Z
 tags:
   - games
 categories:
@@ -35,27 +35,15 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
  It is a good idea to ensure your PlayStation is unplugged or out of range for this process to avoid the PlayStation controller connecting to your other consoles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Connect a PS4 or PS5 Controller to Your Switch
 
  For the first step, you must ensure that your Nintendo Switch is docked and turned on, and then plug in the wireless USB adapter to one of the USB slots on the left side of the dock. Next, you must navigate to the**System Settings** on the Switch’s main menu and select**Controllers and Sensors** .
 
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
@@ -77,17 +65,9 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 ![Close up of the PlayStation 5 DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/close-up-of-the-playstation-5-dualsense-controller.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
 
@@ -110,19 +90,17 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-expert-video-capture-software-for-mac-moving-on-from-bandicamp/"><u>[New] 2024 Approved Expert Video Capture Software for Mac, Moving On From Bandicamp</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-a-deeper-dive-into-the-game-five-easy-zooming-methods/"><u>[New] A Deeper Dive Into the Game Five Easy Zooming Methods</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-list-of-bestiary-8-ios-drawing-software-winners/"><u>[New] In 2024, The Ultimate List of Bestiary 8 iOS Drawing Software Winners</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-techniques-for-efficient-zoom-meeting-recordings/"><u>[Updated] 2024 Approved Techniques for Efficient Zoom Meeting Recordings</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-ace-3-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/interactive-entertainment-battle-ps5-vs-wallet-friendly-pc/"><u>Interactive Entertainment Battle: PS5 V/S Wallet-Friendly PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-game-bar-management-stopping-background-play/"><u>Mastering Game Bar Management: Stopping Background Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/relive-your-favorite-xbox-moments-emulate-today/"><u>Relive Your Favorite Xbox Moments: Emulate Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207306883-resolving-csgo-crash-issues-simple-solutions-inside/"><u>Resolving CSGO Crash Issues - Simple Solutions Inside</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-camon-20-premier-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Camon 20 Premier 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-guide-overcome-failure-of-startup-display-driver/"><u>Troubleshooting Guide: Overcome Failure of Startup Display Driver</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-hidden-potential-with-these-7-terminal-games/"><u>Unlock Hidden Potential with These 7 Terminal Games</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unraveling-the-best-mac-mp4-software-a-comprehensive-guide-for-2024/"><u>Unraveling the Best Mac MP4 Software A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-style-essentials-download-for-free-for-2024/"><u>YouTube Style Essentials - Download for FREE for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-does-picku-outperform-other-android-photo-editors-a-comprehensive-analysis/"><u>[New] Does PickU Outperform Other Android Photo Editors? A Comprehensive Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bitguard-compromised-continue-now-not-tomorrow/"><u>BitGuard Compromised: Continue Now, Not Tomorrow</u></a></li>
+<li><a href="https://games-able.techidaily.com/create-hybrid-gaming-system-xbox-plus-laptop-combination/"><u>Create Hybrid Gaming System: Xbox + Laptop Combination</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gigglestv-beginners-guide-to-making-videos-for-2024/"><u>GigglesTV Beginner's Guide to Making Videos for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopros-maximized-vision-analyzing-max-360-and-hero-11-video-capabilities/"><u>In 2024, GoPro's Maximized Vision Analyzing Max 360 & Hero 11 Video Capabilities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-location-services-errors-with-simple-fixes/"><u>Overcoming iPhone Location Services Errors with Simple Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/pre-release-gaming-economy-whats-in-it-for-us/"><u>Pre-Release Gaming Economy – What's in It for Us?</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/professionelle-tipps-fur-die-installation-und-nutzung-der-winxdvd-anwendung/"><u>Professionelle Tipps Für Die Installation Und Nutzung Der WinXDVD Anwendung</u></a></li>
+<li><a href="https://games-able.techidaily.com/remote-play-made-simple-launch-your-pc-games-on-steam-deck/"><u>Remote Play Made Simple: Launch Your PC Games on Steam Deck</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/resolution-facile-comment-comprendre-et-gerer-un-dossier-apparentement-vide/"><u>Résolution Facile: Comment Comprendre Et Gérer Un Dossier Apparentement Vide</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-xbox-game-pass-is-a-gamers-best-friend/"><u>Why Xbox Game Pass Is a Gamer’s Best Friend</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA's Power Push: A Costly Gamble for Me"
-date: 2025-02-07T00:05:02.984Z
-updated: 2025-02-11T17:00:41.736Z
+date: 2025-02-23T23:04:35.183Z
+updated: 2025-03-02T18:40:09.585Z
 tags:
   - games
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 * [Power Consumption Is Very High](#power-consumption-is-very-high)
 * [Too Expensive for Diminishing Returns](#too-expensive-for-diminishing-returns)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The games I normally play don't utilize my RTX 4090 fully, and my CPU holds its performance back at 1440p resolution.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 * Consider the RTX 4080 Super if you don't plan to play games at 4K resolution. It's far less power hungry with a 320W TDP.
 
  Despite launching in 2022, the RTX 4090 is still the world's fastest graphics card as of early 2024\. Although I enjoyed using it to play AAA games over the past year and a half, I still regret buying it for a few reasons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1 My GPU Usage Is Far From 100 Percent
 
@@ -57,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
  Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 Power Consumption Is Very High
 
  The RTX 4090 is a monster of a GPU that consumes a lot of power. The Founders Edition (reference) version of the RTX 4090 has a[TDP (Thermal Design Power)](https://www.makeuseof.com/tag/thermal-design-power-technology-explained/) of 450W. This means the GPU can consume up to 450W under general usage.
@@ -71,17 +59,9 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 ![a triple-monitor PC gaming setup with Cyberpunk 2077 running on the main display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/04/a-triple-monitor-pc-gaming-setup-with-cyberpunk-2077-running-on-the-main-display.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  That said, it's worth noting that power draw isn't a major issue when I'm playing less GPU-demanding games like Valorant or Fortnite because the GPU usage is typically low.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Too Expensive for Diminishing Returns
 
@@ -108,24 +88,22 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-hourly-hitlist-the-leading-youtube-videos-by-watch-time/"><u>[New] In 2024, Hourly Hitlist The Leading YouTube Videos by Watch Time</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/v-ready-recycling-replay-youtube-videos-efficiently-for-2024/"><u>[New] TV-Ready Recycling Replay YouTube Videos Efficiently for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-your-go-to-guide-for-the-best-top-10-apps-to-download-facebook-videos-on-android/"><u>[Updated] 2024 Approved Your Go-To Guide for the Best Top 10 Apps to Download Facebook Videos on Android</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi A2? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-converter-for-transforming-3g2-flv-files-at-no-charge-movavi-video-editor/"><u>Free Online Converter for Transforming 3G2 FLV Files at No Charge - Movavi Video Editor</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-your-mic-working-again-how-to-resolve-microsoft-teams-sound-issues-in-windows-1110/"><u>Get Your Mic Working Again: How to Resolve Microsoft Teams Sound Issues in Windows 11/10</u></a></li>
-<li><a href="https://games-able.techidaily.com/handheld-revolution-nintendos-next-leap-into-2024/"><u>Handheld Revolution? Nintendo's Next Leap Into 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-30i-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 30i to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-best-panzoid-intro-maker-templates/"><u>In 2024, Best Panzoid Intro Maker Templates</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-diy-tips-for-instant-custom-youtube-shorts-coverage/"><u>In 2024, DIY Tips for Instant Custom YouTube Shorts Coverage</u></a></li>
-<li><a href="https://games-able.techidaily.com/nostalgia-unleashed-ios-rom-based-gaming/"><u>Nostalgia Unleashed: IOS ROM-Based Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-nonfunctional-payment-gateway-on-ps5/"><u>Resolving Nonfunctional Payment Gateway on PS5</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/stability-in-the-click-quashing-jitter-for-2024/"><u>Stability in the Click Quashing Jitter for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-and-organize-your-steam-game-shots/"><u>Streamline and Organize Your Steam Game Shots</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-ethernet-cables-for-gaming/"><u>The Best Ethernet Cables for Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-resolving-game-errors-on-chrome/"><u>Troubleshooting: Resolving Game Errors on Chrome</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-playstation-power-on-your-home-computer-system/"><u>Unleash PlayStation Power on Your Home Computer System</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/upgrade-your-creativity-easy-steps-for-transforming-video-backgrounds-on-tiktok-for-2024/"><u>Upgrade Your Creativity Easy Steps for Transforming Video Backgrounds on TikTok for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-ventures-top-9-strategies-for-game-journeyers/"><u>Virtual Ventures: Top 9 Strategies for Game Journeyers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-teaching-with-video-effective-editing-methods/"><u>[New] 2024 Approved Teaching with Video Effective Editing Methods</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-how-to-add-music-to-a-video-on-iphone-3-free-ways-for-2024/"><u>[New] How to Add Music to a Video on iPhone [3 FREE WAYS] for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quickened-visuality-speeding-up-keynote-video-sequences/"><u>[New] Quickened Visuality Speeding up Keynote Video Sequences</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-top-viewers-playlist-on-youtube-history/"><u>[New] Ultimate Top Viewers' Playlist on YouTube History</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-in-game-recording-a-comprehensive-review/"><u>[Updated] 2024 Approved In-Game Recording A Comprehensive Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-android-mastery-through-play-review-of-the-kinemaster-app/"><u>[Updated] In 2024, Android Mastery Through Play Review of the KineMaster App</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-clash-ps5-power-vs-xbox-series-x-technology/"><u>Console Clash: PS5 Power Vs. Xbox Series X Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-web-experience-strategies-to-diminish-high-pings/"><u>Enhancing Web Experience: Strategies to Diminish High Pings</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/653730-9781429914123-haunted-heritage/"><u>Haunted Heritage | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-premium-nitro-justified/"><u>Is Premium Nitro Justified?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-perfect-pokemon-on-android-devices/"><u>Pixel-Perfect Pokémon on Android Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagining-your-gamers-brand-with-new-username-and-tagline/"><u>Reimagining Your Gamer's Brand with New Username & Tagline</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-sound-headphones-and-playstation-5/"><u>Seamless Sound: Headphones & PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/solve-trapped-game-issue-series-xs-eject-guide/"><u>Solve Trapped Game Issue: Series X's Eject Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-lava-agni-2-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Lava Agni 2 5G Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-blueprint-for-building-a-bountiful-steam-wallet/"><u>The Blueprint for Building a Bountiful Steam Wallet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/troubleshooting-tips-reviving-your-malfunctioning-scanner-insights-from-yl-computing-and-software-solutions/"><u>Troubleshooting Tips: Reviving Your Malfunctioning Scanner - Insights From YL Computing & Software Solutions</u></a></li>
 </ul></div>
 

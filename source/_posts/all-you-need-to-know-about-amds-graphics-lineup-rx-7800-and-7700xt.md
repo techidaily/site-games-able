@@ -1,7 +1,7 @@
 ---
 title: "All You Need to Know About AMD's Graphics Lineup: RX 7800 & 7700XT"
-date: 2024-08-08T09:10:39.096Z
-updated: 2024-08-09T09:10:39.096Z
+date: 2025-02-27T22:44:03.540Z
+updated: 2025-03-02T16:18:36.954Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
 ## All You Need to Know About AMD's Graphics Lineup: RX 7800 & 7700XT
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * At Gamescom 2023, AMD announced the highly anticipated Radeon RX 7800 XT and RX 7700 XT, filling a gap in its RDNA 3 GPU lineup.
@@ -27,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
  To better understand the capabilities of AMD's current-gen GPU architecture, here's a comprehensive breakdown of all the relevant details surrounding the RX 7800 XT and RX 7700 XT.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## RX 7800 XT vs. RX 7700 XT: Specifications and Overview
 
  For starters, both the Radeon RX 7800 XT and RX 7700 XT are built around AMD's brand-new Navi 32 GPU die, which adopts a chiplet-based design to reduce manufacturing costs and facilitate production. Like before, the central section of this GPU features a relatively smaller GCD (Graphics Compute Die) than Navi 31 (fabricated on TSMC's N5 process), flanked by four MCDs (Memory Complex Die) utilizing an older yet efficient N6 technology.
@@ -69,26 +63,16 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
  On the contrary, the RX 7700 XT presents a compelling upgrade path from the previous-gen RX 6700 XT and its mid-gen refresh—the RX 6750 XT—albeit at a $100 price premium. Nevertheless, it remains to be seen whether AMD has truly delivered a noteworthy generational uplift or inadvertently launched a costly sidegrade like Nvidia's much-maligned GeForce RTX 4060 Ti.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## RX 7800 XT vs. RX 7700 XT: Gaming Performance
 
  According to AMD's internal benchmarks, the Radeon RX 7800 XT engages in a back-and-forth battle with Nvidia's $600 RTX 4070, whereas the RX 7700 XT stands favorably against the $500 RTX 4060 Ti 16GB variant. More importantly, both GPUs demonstrate the ability to surpass the 60 FPS threshold at 1440p, "Ultra" settings in a range of recent AAA titles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![RX 7700 XT vs. RTX 4060 Ti 16GB Benchmark Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7700-xt-vs-rtx-4060-ti-16gb.jpg)
 
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
 
  Across the 19-game configuration sample, the RX 7700 XT outperforms Nvidia's GeForce RTX 4060 Ti 16GB by about 12% on average. Interestingly, AMD's scaled-down Navi 32 GPU secures a 17% lead in rasterization performance while exhibiting a mere 4% deficit in certain games that implement advanced ray tracing effects.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![RX 7800 XT vs. RTX 4070 Performance Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7800-xt-vs-rtx-4070.jpg)
 
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
@@ -103,23 +87,17 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  While the Radeon RX 7800 XT comes in an AMD reference dual-fan, dual-slot design, alongside custom variants, the RX 7700 XT will only be made available through AIB partners like ASRock, ASUS, Biostar, Gigabyte, PowerColor, Sapphire, Vastarmor, XFX, and Yeston.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AMD's Next-Gen 1440p Gaming GPUs Unveiled
 
  From what has been revealed, AMD's marketing strategy for this launch involves pitting the Radeon RX 7800 XT and RX 7700 XT against older yet capable 1440p cards. Considering the recent adoption of QHD displays, both GPUs should be able to offer a stellar gaming experience, with enough headroom to drive graphically demanding titles at 4K.
 
  Ultimately, the success of these sub-$500 graphics cards will depend largely on their real-world performance, feature set, and overall, given that this market segment is highly competitive.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,6 +106,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-choices-for-enhancing-drone-functionality-and-flexibility/"><u>[Updated] 2024 Approved Top Choices for Enhancing Drone Functionality and Flexibility</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-dive-into-asmr-its-positive-effects-explored-for-2024/"><u>[Updated] Dive Into ASMR Its Positive Effects Explored for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-elevate-your-shots-top-photo-gear-for-mobile-cameras/"><u>[Updated] Elevate Your Shots Top Photo Gear for Mobile Cameras</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-old-world-wonders-iphone-x-portraits-for-2024/"><u>[Updated] Old World Wonders – iPhone X Portraits for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-social-proof-for-effective-fb-giving-initiatives/"><u>2024 Approved Leveraging Social Proof for Effective FB Giving Initiatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-monitor-mastery-understanding-the-benefits-of-ultrawide-vs-uhd-4k/"><u>2024 Approved Monitor Mastery Understanding the Benefits of UltraWide vs UHD 4K</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-deeper-why-your-games-shine-with-dxvk-on-windows/"><u>Dive Deeper: Why Your Games Shine with DXVK on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-discord-effective-installation-methods-for-mac/"><u>Dive Into Discord: Effective Installation Methods for Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-screen-time-with-netflix-mobile-adventures/"><u>Engaging Screen Time with Netflix Mobile Adventures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-ai-driven-chatbot-screening-influence-user-experience/"><u>How Does AI-Driven Chatbot Screening Influence User Experience?</u></a></li>
+<li><a href="https://games-able.techidaily.com/lemokey-l3-exposed-quality-in-every-keystroke/"><u>Lemokey L3 Exposed: Quality in Every Keystroke</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-powerpoint-sound-issues-tips-and-techniques-for-flawless-playback/"><u>Mastering PowerPoint Sound Issues: Tips and Techniques for Flawless Playback</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essence-of-engaging-reviews-in-the-steam-community/"><u>The Essence of Engaging Reviews in the Steam Community</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-from-tv-to-triumphant-video-tales/"><u>Transitioning From TV to Triumphant Video Tales</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-to-expect-from-amds-rdna-35-graphics-engine-its-debut/"><u>What to Expect From AMD's RDNA 3.5 Graphics Engine - Its Debut?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 7 Activision Blizzard Games Microsoft Should Revive
-date: 2024-08-15T17:16:06.846Z
-updated: 2024-08-16T17:16:06.846Z
+date: 2025-02-26T20:26:34.467Z
+updated: 2025-03-02T19:13:26.783Z
 tags:
   - games
 categories:
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
 
  Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of [the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Spyro the Dragon
 
  It’s relatively safe to say that most gamers alive during the golden age of console gaming know Spyro the Dragon. When you think about video games in the 90s, Spyro the Dragon is one of the mascots that immediately springs to mind.
@@ -39,18 +36,12 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
 
  Spyro still has a huge amount of diehard fans who have more than enough room for a brand new Spyro title in their collection, not to mention the younger audience that a successful entry would no doubt appeal to.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Skylanders
 
  If you were wondering where Spyro went back in the day, Skylanders is your answer. But Skylanders wasn’t just a Spyro clone that profited off the purple dragon’s name. It also introduced its own unique spin on things.
 
  Skylanders used an interesting toys-to-life gimmick that made billions of dollars thanks mostly to the sales of hundreds of millions of character figures. Those are big numbers that are hard to argue with, but the series still seemed to find itself in the gaming graveyard that exists at the back of every gamer’s basement. But with the right marketing, there is potential for the series to make a serious comeback.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. StarCraft
 
  StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure [what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
@@ -65,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
 
  The games were known not only for their fluid and satisfying gameplay but their incredible soundtracks that featured some of the most iconic songs of their age. Remastered versions of Tony Hawk's Pro Skater 1 and 2 were released in 2020 and were highly anticipated, so a new entry in the series would no doubt be just as, if not more, hyped than the remaster.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 6\. Hexen
 
  If the words Doom, Dark Fantasy, and Dark Souls trigger your interest, Hexen is something you should absolutely look into. It is very similar to Doom in many ways, including but not limited to the fact that it was built in a modified version of the same engine.
@@ -76,32 +64,23 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
 
  Instead of completing one level at a time, Hexen requires you to backtrack and make your way through several areas via a hub world. This added to the game's difficulty and made it far more unforgiving than your average FPS. But for gamers that thrive on a good challenge, it also makes it that much more satisfying when you complete it.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Prototype
 
  A modern Prototype game would be amazing. It was great back in the day, but it has an unbelievable amount of potential for a new entry. If there is one modern game that Prototype could be compared to today, it would be Marvel’s Spider-Man: Miles Morales. Of course, it would be far darker and grittier, but one of the best parts of Miles Morales is the satisfaction of effortlessly swinging through the streets on vine-like webs.
 
  Prototype doesn’t have webs, but Alex Mercer’s venom-like virus powers provided a very similar experience as you parkoured your way around the city. Even if Microsoft doesn’t revive the Prototype series, the games still hold up today and are well worth playing.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Hopefully, Microsoft Doesn’t Leave These Games in the Past
 
  Activision Blizzard has seen its fair share of controversy, but it’s fair to say that many of these games played a big part in shaping the history of gaming. Moving forward instead of backwards is important, but there’s nothing wrong with indulging in a bit of nostalgia here and there, and we can’t be the only ones who want to see these games make a comeback.
 
  Call of Duty may seem like the biggest asset Microsoft has bagged for itself out of this deal. But with the right marketing and development teams, these franchises could have the potential to give it a run for its money. You can never beat a good classic, after all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,8 +89,26 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-effortlessly-amend-your-profile-age-on-tiktok/"><u>[New] Effortlessly Amend Your Profile Age on TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-professional-slideshow-resources-for-entrepreneurs/"><u>[New] Free Professional Slideshow Resources for Entrepreneurs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide/"><u>[Updated] The Art of Crafting Exceptional Instagram Ringtone Alerts A Compreeved Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-to-music-directing-videos-to-mp3-outputs/"><u>2024 Approved Instagram to Music Directing Videos to MP3 Outputs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pictureweaversierra-blending-apple-media-artfully/"><u>2024 Approved PictureWeaverSierra Blending Apple Media Artfully</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-14-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi 14 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-facetime-with-your-android-phone/"><u>In 2024, How To Facetime with Your Android Phone ?</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-from-the-latest-gaming-survey-techworld/"><u>Insights From the Latest Gaming Survey | TechWorld</u></a></li>
+<li><a href="https://games-able.techidaily.com/limited-offer-score-the-ultimate-bargain-on-a-spectacular-85-inch-tcl-tv-for-under-1k-after-prime-days-end-tech-insider/"><u>Limited Offer: Score the Ultimate Bargain on a Spectacular 85-Inch TCL TV for Under $1K After Prime Day's End | Tech Insider</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-linux-nobara-offers-effortless-game-and-stream-setup-at-no-cost-with-a-minor-drawback-insights-from-zdnet/"><u>Mastering Linux: Nobara Offers Effortless Game & Stream Setup at No Cost, With a Minor Drawback – Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/mid-tier-audio-mastery-steelseries-arctis-nova-7-wireless-earphones-in-depth-analysis-and-performance-breakdown-techsavvyreviews/"><u>Mid-Tier Audio Mastery: SteelSeries Arctis Nova 7 Wireless Earphones - In-Depth Analysis and Performance Breakdown | TechSavvyReviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-on-your-favorite-shows-unmissable-labor-day-tv-specials-over-55-zdnets-guide-to-last-minute-deals/"><u>Save on Your Favorite Shows : Unmissable Labor Day TV Specials Over 55 – ZDNET's Guide to Last-Minute Deals</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-pc-gaming-mice-a-comprehensive-review-by-zdnet/"><u>Top 5 PC Gaming Mice : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-labor-day-2024-television-bargains-expert-picks-from-zdnet/"><u>Top Labor Day 2024 Television Bargains: Expert Picks From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-prime-day-2024-bargains-for-gamers-the-68-hottest-deals-not-yet-snapped-up-zdnet-insider/"><u>Ultimate Prime Day 2024 Bargains for Gamers: The 68 Hottest Deals Not Yet Snapped Up | ZDNET Insider</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deal-alert-xbox-and-game-pass-combo-on-amazon-fire-tv-stick-4k-bundle-at-up-to-32-off-now/"><u>Unbeatable Deal Alert! Xbox & Game Pass Combo on Amazon Fire TV Stick 4K Bundle at up to 32% Off Now!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715701250855-unlocked-mac-capture-tool-no-cost/"><u>Unlocked Mac Capture Tool - No Cost!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/why-freestyle2-blue-is-a-must-have-for-apple-enthusiasts-product-review/"><u>Why Freestyle2 Blue Is a Must-Have for Apple Enthusiasts – Product Review</u></a></li>
+</ul></div>
 

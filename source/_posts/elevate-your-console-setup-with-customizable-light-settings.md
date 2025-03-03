@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Console Setup with Customizable Light Settings
-date: 2025-02-09T20:04:39.250Z
-updated: 2025-02-11T23:31:40.471Z
+date: 2025-03-01T16:55:53.814Z
+updated: 2025-03-02T23:07:25.771Z
 tags:
   - games
 categories:
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 ![Xbox home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-home-screen-2.jpeg)
 3. Now, go to**General > TV & display options > Night mode** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![General settings on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tv-and-display-options-xbox-setting-1.jpeg)
 4. Under**Preferences** , you’d see the option for**Controller brightness** . Select this and press**A** to access the settings for controller brightness.  
 
@@ -51,15 +47,7 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
 ![Xbox accessibility night mode setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessibility-night-mode-setting.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, every time you turn on your Xbox controller, the light will automatically be adjusted to the set brightness. However, if you see a blinking light or no light on your controller, it's possible that your[Xbox controller is not working properly](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) , and you might need to fix it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Adjust the Brightness of Your Xbox Console Light
 
@@ -70,16 +58,8 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 ![Xbox power button brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-power-button-brightness-setting-1.jpeg)
 3. Select and check the checkbox next to**Customize brightness** . Doing so highlights the slider for adjusting the console light’s brightness. Unlike the controller light, which has seven different brightness levels, there are only three brightness options for the console’s light. You can either completely turn it off, keep it at a 50% brightness level or increase the brightness to a full 100%.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Xbox customize power button brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-customize-power-button-brightness-setting-2.jpeg)
 4. Slide the slider left and right using the left thumbstick and leave it on the brightness level that you prefer. Exit the settings menu once you’ve adjusted the brightness according to your liking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With this, you've successfully adjusted your Xbox controller and console light's brightness.
 
@@ -104,20 +84,21 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-pioneering-post-production-excellence-with-these-11-top-tutorials/"><u>[New] Pioneering Post-Production Excellence with These 11 Top Tutorials</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-comprehensive-guide-to-visual-effects-in-online-platforms/"><u>[New] The Comprehensive Guide to Visual Effects in Online Platforms</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-from-idea-to-airtime-crafting-compelling-content-live/"><u>[Updated] From Idea to Airtime Crafting Compelling Content Live</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bypass-expenses-relish-films-anywhere-free-player/"><u>Bypass Expenses, Relish Films Anywhere (FREE Player)</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-versatranquility-of-gaming-without-a-controller/"><u>Discover the Versatranquility of Gaming Without a Controller</u></a></li>
-<li><a href="https://games-able.techidaily.com/full-fledgon-baldurs-gate-3-playing-it-smoothly-on-macos/"><u>Full-Fledgon Baldur's Gate 3: Playing It Smoothly on macOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/heres-why-i-subscribe-to-apple-arcade-for-mobile-games/"><u>Here's Why I Subscribe to Apple Arcade for Mobile Games</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-another-app-is-using-the-camera-already-0xa00f4243-error-on-windows/"><u>How to Fix the Another App Is Using the Camera Already 0xA00F4243 Error on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-joypads-and-peripherals-the-leading-guide-to-the-nintendo-switch/"><u>Prime Joypads & Peripherals: The Leading Guide to the Nintendo Switch</u></a></li>
-<li><a href="https://discover-best.techidaily.com/relemars-discovery-of-expansion-possibilities-through-abbyy-flexicapture/"><u>Relemar's Discovery of Expansion Possibilities Through ABBYY FlexiCapture</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-xbox-joystick-to-computer-setup-guide-140-chars/"><u>Seamless Xbox Joystick to Computer Setup Guide (140 Chars)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-8-essentials-for-navigating-ny-times-connections/"><u>The 8 Essentials for Navigating NY Times Connections</u></a></li>
-<li><a href="https://fox-links.techidaily.com/tips-to-add-music-to-whatsapp-status-for-2024/"><u>Tips to Add Music to WhatsApp Status for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/turn-off-visual-overlays-for-games-on-discord/"><u>Turn Off Visual Overlays for Games on Discord</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-premium-video-boosts-the-9-finest-webcam-effects/"><u>[New] In 2024, Premium Video Boosts The 9 Finest Webcam Effects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-transfer-your-reading-materials-4-methods-to-move-epub-and-pdf-books-onto-your-kobo-reader/"><u>1. Transfer Your Reading Materials: 4 Methods to Move EPUB & PDF Books Onto Your Kobo Reader</u></a></li>
+<li><a href="https://games-able.techidaily.com/counter-strike-2-mastery-a-mac-users-journey/"><u>Counter-Strike 2 Mastery: A Mac User's Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-a-hushed-gaming-environment-on-xbox-series/"><u>Creating a Hushed Gaming Environment on Xbox Series</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-darkened-twitch-displays/"><u>Decoding Darkened Twitch Displays</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206802457-error-code-31-on-your-pc-heres-how-you-can-solve-it/"><u>Error Code 31 on Your PC? Here's How You Can Solve It</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-top-7-most-thrilling-sports-titles-on-tablets-and-phones/"><u>Game On! Top 7 Most Thrilling Sports Titles on Tablets & Phones</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/guide-verifying-your-computers-hardware-connections-with-ease-tips-from-yl-computing/"><u>Guide: Verifying Your Computer's Hardware Connections with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-tecno-spark-10c-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Tecno Spark 10C Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-note-30-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Note 30 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-every-move-count-avoiding-signal-loss-in-pokemon-go/"><u>Making Every Move Count: Avoiding Signal Loss in Pokémon GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-fun-the-right-equipment-for-gamers/"><u>Seamless Fun: The Right Equipment for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-uninstall-process-for-ps5-titles/"><u>Step-by-Step Uninstall Process for PS5 Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/thoughtful-choices-for-your-next-gaming-console/"><u>Thoughtful Choices for Your Next Gaming Console</u></a></li>
 </ul></div>
 

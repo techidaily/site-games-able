@@ -1,7 +1,7 @@
 ---
 title: Acclaimed EA Play Games for PS5
-date: 2024-08-15T17:16:05.826Z
-updated: 2024-08-16T17:16:05.826Z
+date: 2025-02-23T18:20:53.990Z
+updated: 2025-03-02T21:10:53.707Z
 tags:
   - games
 categories:
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 2\. FIFA 23
 
  Save money by buying the last FIFA game released and get it on EA Play. If you love soccer games and you’re tired of buying the same game every year with a different number on it, then go get FIFA through EA Play.
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  One of FIFA’s greatest appeals is its easy couch co-op system. It’s one of those games you should just have on your PS5 so you and your pals can have fun together. We placed it on this list as a good solution for multiplayer action for all soccer lovers.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. The Sims 4
 
  Thanks to EA Play, you can [get the Sims 4 free of charge](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) . It’s a relatively old game, released in 2014, but it remains evergreen thanks to its timeless style and all the infinite possibilities and playstyles you can have in it. The Sims 4 is one of the best life simulation games, with options that let you create a Sims dynasty and family line that can go on for as long as you have time to play.
@@ -48,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Need for Speed Heat
 
  You’ll find almost all the contemporary Need for Speed games available on EA Play membership, but if we had to choose only one, we’d pick Need for Speed Heat. It combines the cars and racing system of Payback and the police chases of Most Wanted ‘05 to create a unique experience.
@@ -59,18 +50,12 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Plants vs Zombies Garden Warfare 2
 
  The last thing people expected PopCap to pull off was an FPS game derived from the award-winning strategy game Plants vs Zombies. The original Garden Warfare was an unexpected hit FPS game when it came out. But the sequel builds on the original and improves the game with more characters, more content, and even a single-player mode.
 
  While level progression in the game might be tedious, and you would need a [PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 6\. Star Wars Jedi: Fallen Order
 
  Star Wars fans and non-Star Wars fans alike will enjoy playing as a displaced Jedi in Fallen Order. Its captivating story, challenging combat and level progression mechanic, rich music, and breathtaking platform-like world have earned this game many awards and nominations since its release in 2019.
@@ -87,23 +72,17 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  As long as you stay away from the micro-transactions (AKA Ultimate Team) part of this game, you will enjoy it if you love combat sports. This version also gets commentary from Snoop Dogg in addition to the usual Joe Rogan.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## EA Play Is $5 Per Month of Unlimited Fun
 
  EA Play is one of the best ways to save money on a PS5\. With EA Play, you get to play video games that could cost you thousands of dollars, all for $5/month. You can also use it as a great opportunity to test out games you were hoping to buy to see if it’s worth the money to you.
 
  Load up some cash to your PSN Wallet, add a card, and buy an EA Play membership at least once in your PS5’s history. You have only $5 to lose.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,8 +91,26 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-sculpted-sound-diminishment-for-impact/"><u>[New] Sculpted Sound Diminishment for Impact</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-troubleshooting-obs-full-screen-malfunction-for-2024/"><u>[New] Troubleshooting OBS Full Screen Malfunction for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-adding-text-on-images/"><u>[Updated] Ultimate Guide to Adding Text on Images</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/13753781-updated-unleash-creative-potential-with-free-effs/"><u>[Updated] Unleash Creative Potential with Free Effs</u></a></li>
+<li><a href="https://games-able.techidaily.com/2023s-ultimate-list-choosing-the-ideal-steering-wheels-for-realistic-racing-experiences-gametech-insights/"><u>2023'S Ultimate List: Choosing the Ideal Steering Wheels for Realistic Racing Experiences - GameTech Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-fb-video-capture-toolkit/"><u>2024 Approved FB Video Capture Toolkit</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-the-perfect-gaming-console-xbox-series-x-or-series-s-a-detailed-comparison-by-zdnet/"><u>Choosing the Perfect Gaming Console: Xbox Series X or Series S - A Detailed Comparison by ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-best-rechargeable-powerbank-devices-for-the-new-year/"><u>Expert Review: Best Rechargeable PowerBank Devices for the New Year</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-15-high-performing-instagram-content-extractors/"><u>In 2024, 15 High-Performing Instagram Content Extractors</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-18-unleashed-at-apples-wwdc-event-the-hidden-delight-that-outshines-ai/"><u>IOS 18 Unleashed at Apple's WWDC Event – The Hidden Delight That Outshines AI!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenges-of-windows-11-licensing-expiration/"><u>Overcoming the Challenges of Windows 11 Licensing Expiration</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-pro-by-sony-is-here-learn-about-pricing-release-date-and-key-attributes-as-explored-by-zdnet/"><u>PlayStation 5 Pro by Sony Is Here! Learn About Pricing, Release Date and Key Attributes as Explored by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/samsungs-new-odyssey-neo-g9-smartphone-launches-at-a-steep-price-of-1300-on-amazon/"><u>Samsung's New Odyssey Neo G9 Smartphone Launches at a Steep Price of $1,300 on Amazon</u></a></li>
+<li><a href="https://solve-help.techidaily.com/seamless-hd-experience-master-the-art-of-dvd-playback-on-your-personal-computer/"><u>Seamless HD Experience: Master the Art of DVD Playback on Your Personal Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-gaming-optimized-isps-ranked-by-performance-insights-from-zdnet/"><u>Top 9 Gaming-Optimized ISPs Ranked by Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-samsung-galaxy-fold-5x-oled-case-and-screen-protector-reviews/"><u>Top Rated Samsung Galaxy Fold 5X OLED Case and Screen Protector Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranking-ps5-expansion-drives-in-2n-a-comprehensive-review-by-zdnet/"><u>Top-Ranking PS5 Expansion Drives in 2N: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gaming-headsets-comprehensive-review-by-tech-experts-pcmag/"><u>Top-Rated Gaming Headsets : Comprehensive Review by Tech Experts | PCMag</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-hidden-gaming-power-of-this-samsung-projection-tv-save-200-on-labor-day-with-our-exclusive-offer/"><u>Unveiling the Hidden Gaming Power of This Samsung Projection TV – Save $200 on Labor Day with Our Exclusive Offer!</u></a></li>
+</ul></div>
 

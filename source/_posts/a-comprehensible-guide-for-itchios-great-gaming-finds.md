@@ -1,7 +1,7 @@
 ---
 title: A Comprehensible Guide for Itch.io’s Great Gaming Finds
-date: 2024-08-15T17:15:21.212Z
-updated: 2024-08-16T17:15:21.212Z
+date: 2025-02-23T22:19:56.173Z
+updated: 2025-03-02T18:16:43.439Z
 tags:
   - games
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 * [Look at User Reviews and Ratings](#look-at-user-reviews-and-ratings)
 * [Check Out Community Recommendations](#check-out-community-recommendations)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Find indie games on itch.io using tags that describe the genre of the game.
@@ -46,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
  Click the**Find Tag** dropdown in the top-right corner and select the tag you want (e.g.,**2D** ,**Platformer** ,**Action** ,**Puzzle** ,**Horror** ,**Visual** **Novel** , and**Adventure**).
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
 ![Adding tags to a search on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/add-roguelite-tag-itch.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like [Corebreaker](https://aquadiun.itch.io/corebreaker) and [Xenopunch](https://overboy.itch.io/xenopunch) .
 
@@ -67,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 
  The [itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Check Out Game Jams
 
  Game jams are a fantastic way to discover hidden gems for free. On itch.io, game jams take place throughout the year, so keep your eye on the [Game Jams page](https://itch.io/jams) to see upcoming events on the calendar. Look for past game jams to try highly rated game submissions.
@@ -87,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
  Another way to discover developers to follow is by looking at your feed, which shows you recommendations based on your activity on itch.io. I usually switch to the**Featured Games Feed** or**Global Feed** tab to see what is trending based on my interests.
 
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
 
@@ -98,38 +83,20 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
  If you have a problem deciding whether a game is good, you can look at its rating. On the game’s itch.io page, scroll down past the description and click**More Information** . Here, you can see how many users rated the game (out of five stars).
 
 ![A game's page on itch.io showing more information so the rating can be seen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/more-information-game-itch.png)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7 Check Out Community Recommendations
 
  The itch.io community has the [Recommend a Game page](https://itch.io/board/13293/recommend-a-game) . This is where people post games that they've enjoyed and why. It's a good place to see the discussion around the game, ask questions, and even find people and developers to follow.
 
  Keep in mind that itch.io is just one of the many platforms to find great indie games. You can also find them on Steam, PlayStation Store, Microsoft Store, Xbox Marketplace, Nintendo eShop, and others. And If you love itch.io for its free games, there's also a way to [find free games on Steam](https://www.makeuseof.com/how-to-find-free-games-on-steam/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,8 +105,24 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-expert-guide-to-using-snap-on-zoom-webinars/"><u>[New] 2024 Approved Expert Guide to Using Snap on Zoom Webinars</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-10-best-free-photo-collage-apps-to-combine-photos-on-iphone/"><u>[Updated] 10 Best FREE Photo Collage Apps to Combine Photos on iPhone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-5-secure-downloader-apps-for-fb-video-extraction/"><u>[Updated] 2024 Approved Top 5 Secure Downloader Apps for FB Video Extraction</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-cross-play-exclusivity-guide-in-apex-legends-games-for-2024/"><u>[Updated] Cross-Play Exclusivity Guide in Apex Legends Games for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precise-age-settings-the-essential-guide-for-tiktok-profiles/"><u>[Updated] Precise Age Settings The Essential Guide for TikTok Profiles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ultimate-budget-breakdown-how-much-does-it-cost-to-start-a-podcast/"><u>2024 Approved Ultimate Budget Breakdown How Much Does It Cost To Start a Podcast?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disconnected-but-not-disheartened-play-solo-minecraft-seamlessly-on-windows-10/"><u>Disconnected but Not Disheartened: Play Solo Minecraft Seamlessly on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-gaming-bonuses-on-series-xs/"><u>Exclusive Gaming Bonuses on Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mode-on-macos-sonoma-an-overview-of-apples-tech-advancements/"><u>Game Mode on MacOS Sonoma – An Overview of Apple’s Tech Advancements</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-now-update-practicality-questionable/"><u>GeForce NOW Update: Practicality Questionable?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-much-does-sony-playstation-pass-cost/"><u>How Much Does Sony PlayStation Pass Cost?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-htc-u23-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of HTC U23 Pro Through Google Earth?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-screen-sharing-for-ppts/"><u>In 2024, Mastering Screen Sharing for PPTs</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-optimizing-expert-tips-on-using-your-steam-deck/"><u>Master the Art of Optimizing: Expert Tips on Using Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/pairing-peripherals-with-the-joy-cons-and-pro-controller-105-chars-slight-adjustment-needed/"><u>Pairing Peripherals with the Joy-Cons & Pro Controller (105 Chars) - Slight Adjustment Needed</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategize-victory-without-paying-play-champion-managers-for-free/"><u>Strategize Victory Without Paying: Play Champion Managers for Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-steam-deck-model-should-you-buy/"><u>Which Steam Deck Model Should You Buy?</u></a></li>
+</ul></div>
 

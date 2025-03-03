@@ -1,7 +1,7 @@
 ---
 title: Fortifying the Future of Child-Safe Gaming
-date: 2025-02-09T18:08:02.051Z
-updated: 2025-02-11T19:43:02.417Z
+date: 2025-02-28T19:14:04.473Z
+updated: 2025-03-02T22:33:54.533Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/d3d14caf519c1def322723a3dc59c24a3c8f8aede
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Create and Add a Child Account
 
  First, you should create a child account for your minor and add that account to the PS5\. This account will set the default content restriction based on the age of the account user.
@@ -40,26 +36,14 @@ Here’s how to set up a child account:
 ![Add Family Member page on the PS5 with a QR Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-family-member-page-on-the-ps5-with-a-qr-code.JPG)
 3. After you’re logged in, scan the QR code to add a family member using your phone. Alternatively, you can visit the[PSN family management page](https://www.playstation.com/acct/family) on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Choose**Set Up Now** and select**Add a Child** .
 5. Enter the child’s birthday.  
 ![Add a Child sub-window on the PSN website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-on-the-psn-website.jpeg)
 6. Sony will ask you to pay $0.50 to confirm you’re an adult. You need only pay this once—even for adding subsequent kids—and Sony will credit your PlayStation wallet with the $0.50\. If you’ve never added a payment method to PSN, read our guide on[adding funds and buying games on the PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Enter an email address and password for the account.  
 ![Add a Child sub-window asking for an email address and password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-asking-for-an-email-address-and-password.jpeg)
 8. Choose**Confirm** on each page till you finish.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You don’t need to worry about all the options you see while setting up the child account. You can always change it from the PSN Family panel or from the**Family and Parental Controls** section of the PS5’s settings.
 
@@ -117,10 +101,6 @@ Here’s how to set up the console restrictions passcode:
 
  Don’t forget your console restriction passcode. As far as we know, there’s no way to recover it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Set a Checkout Password and a Monthly Spending Limit
 
  There are internet horror stories of kids spending hundreds to thousands of dollars buying applications and video games with their parents’ cards. Avoid that by setting up spending limits and a checkout password.
@@ -155,10 +135,6 @@ Here’s how to do it:
 ![Duration and Playable Hours dropdown meny in the PS5 Playtime Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duration-and-playable-hours-dropdown-meny-in-the-ps5-playtime-settings.JPG)
 5. Select**Every Day** or the days of the week and choose your hours in**Playtime duration** . Inside here, you can also set a**Start time** and**End time** to customize when they can play video games, and you can choose their bedtime as**End time** so they don’t play at night when they should be sleeping.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Playtime Duration dialogue window on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-duration-dialogue-window-on-the-ps5.JPG)
 6. Choose**Save** on the right-hand side of the page when you’re done.
 
@@ -187,17 +163,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-transforming-view-counts-innovative-uses-for-short-videos/"><u>[New] 2024 Approved Transforming View Counts Innovative Uses for Short Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastering-canva-10-best-practices-unveiled/"><u>[New] In 2024, Mastering Canva 10 Best Practices Unveiled</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-crafting-sections-in-vimeo-videos/"><u>[Updated] 2024 Approved Crafting Sections in Vimeo Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-srt-to-subcap-mastery-in-3-steps/"><u>[Updated] SRT to SUBCAP Mastery in 3 Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/10-mistakes-to-avoid-when-shopping-for-a-monitor/"><u>10 Mistakes to Avoid When Shopping for a Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-new-chapter-for-deck-unleashing-power-in-two-operating-systems/"><u>A New Chapter for Deck: Unleashing Power in Two Operating Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/advanced-methods-for-recording-gameplay-on-xbox/"><u>Advanced Methods for Recording Gameplay on Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/ais-influence-on-engaging-game-characters/"><u>AI's Influence on Engaging Game Characters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-linkedin-success-discover-10-ways-to-improve-your-hiring-prospects/"><u>ChatGPT & LinkedIn Success: Discover 10 Ways to Improve Your Hiring Prospects</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/efficient-video-compression-techniques-for-faster-web-loading/"><u>Efficient Video Compression Techniques for Faster Web Loading</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-truegolf-gaming-experience-save-big-at-just-200-discover-your-deal-now/"><u>Affordable TrueGolf Gaming Experience: Save Big at Just $200 - Discover Your Deal Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/behold-the-ultimate-tech-arsenal-top-tier-pc-builds-surpassing-20000-for-peak-performance/"><u>Behold the Ultimate Tech Arsenal: Top-Tier PC Builds Surpassing $20,000 for Peak Performance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-memorial-day-deal-get-your-nintendo-switch-oled-unit-for-just-118-from-walmart-insights-by-zdnet/"><u>Exclusive Memorial Day Deal: Get Your Nintendo Switch OLED Unit for Just $118 From Walmart - Insights by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-elite-list-of-2023s-ultimate-ps5-audio-devices-with-zdnets-review/"><u>Explore the Elite List of 2023'S Ultimate PS5 Audio Devices with ZDNet’s Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-soundscape-of-affordability-comprehensive-review-of-the-steelseries-arctis-nova-7-wireless-headset-for-all-heads-gadgetguruhub/"><u>Exploring the Soundscape of Affordability: Comprehensive Review of the SteelSeries Arctis Nova 7 Wireless Headset for All Heads | GadgetGuruHub</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-y100-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo Y100 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/hp-victus-15l-desktop-laptops-price-slashed-by-almost-40-now-available-for-520-exclusive-deal-alert/"><u>HP Victus 15L Desktop Laptop's Price Slashed by Almost 40%, Now Available for $520 - Exclusive Deal Alert</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-essential-hashtags-propel-your-posts-to-the-top/"><u>In 2024, Essential #Hashtags Propel Your Posts to the Top</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-infinix-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Infinix Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-xcover-6-pro-tactical-edition-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy XCover 6 Pro Tactical Edition Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-graphics-hp-for-windows-10-os/"><u>Upgrade Your Graphics: HP for Windows 10 OS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/world-words-whirlwind-search-for-longest-one/"><u>World Words Whirlwind Search for Longest One</u></a></li>
 </ul></div>
 

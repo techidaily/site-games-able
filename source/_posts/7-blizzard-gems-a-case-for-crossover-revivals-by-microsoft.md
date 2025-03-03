@@ -1,7 +1,7 @@
 ---
 title: "7 Blizzard Gems: A Case for Crossover Revivals by Microsoft"
-date: 2024-08-15T17:16:01.619Z
-updated: 2024-08-16T17:16:01.619Z
+date: 2025-03-01T21:38:18.294Z
+updated: 2025-03-02T18:28:52.283Z
 tags:
   - games
 categories:
@@ -36,21 +36,12 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 
  Spyro still has a huge amount of diehard fans who have more than enough room for a brand new Spyro title in their collection, not to mention the younger audience that a successful entry would no doubt appeal to.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 3\. Skylanders
 
  If you were wondering where Spyro went back in the day, Skylanders is your answer. But Skylanders wasn’t just a Spyro clone that profited off the purple dragon’s name. It also introduced its own unique spin on things.
 
  Skylanders used an interesting toys-to-life gimmick that made billions of dollars thanks mostly to the sales of hundreds of millions of character figures. Those are big numbers that are hard to argue with, but the series still seemed to find itself in the gaming graveyard that exists at the back of every gamer’s basement. But with the right marketing, there is potential for the series to make a serious comeback.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## 4\. StarCraft
 
  StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure [what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
@@ -59,18 +50,12 @@ The ultimate burning program for all your needs!</a>
 
  Although one entry made it to the Nintendo 64, the series has mostly been confined to PC. That means that there is a whole new world of console gamers who are yet to experience a StarCraft title.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Tony Hawk's Pro Skater
 
  The name Tony Hawk's Pro Skater alone is probably enough to convince you that a new mainline game would be amazing. The series is the unrivaled master of skateboarding games, and although there have been entries in the genre since the reign of Tony Hawk's Pro Skater, none have been able to come close.
 
  The games were known not only for their fluid and satisfying gameplay but their incredible soundtracks that featured some of the most iconic songs of their age. Remastered versions of Tony Hawk's Pro Skater 1 and 2 were released in 2020 and were highly anticipated, so a new entry in the series would no doubt be just as, if not more, hyped than the remaster.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Hexen
 
  If the words Doom, Dark Fantasy, and Dark Souls trigger your interest, Hexen is something you should absolutely look into. It is very similar to Doom in many ways, including but not limited to the fact that it was built in a modified version of the same engine.
@@ -79,32 +64,23 @@ The ultimate burning program for all your needs!</a>
 
  Instead of completing one level at a time, Hexen requires you to backtrack and make your way through several areas via a hub world. This added to the game's difficulty and made it far more unforgiving than your average FPS. But for gamers that thrive on a good challenge, it also makes it that much more satisfying when you complete it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Prototype
 
  A modern Prototype game would be amazing. It was great back in the day, but it has an unbelievable amount of potential for a new entry. If there is one modern game that Prototype could be compared to today, it would be Marvel’s Spider-Man: Miles Morales. Of course, it would be far darker and grittier, but one of the best parts of Miles Morales is the satisfaction of effortlessly swinging through the streets on vine-like webs.
 
  Prototype doesn’t have webs, but Alex Mercer’s venom-like virus powers provided a very similar experience as you parkoured your way around the city. Even if Microsoft doesn’t revive the Prototype series, the games still hold up today and are well worth playing.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Hopefully, Microsoft Doesn’t Leave These Games in the Past
 
  Activision Blizzard has seen its fair share of controversy, but it’s fair to say that many of these games played a big part in shaping the history of gaming. Moving forward instead of backwards is important, but there’s nothing wrong with indulging in a bit of nostalgia here and there, and we can’t be the only ones who want to see these games make a comeback.
 
  Call of Duty may seem like the biggest asset Microsoft has bagged for itself out of this deal. But with the right marketing and development teams, these franchises could have the potential to give it a run for its money. You can never beat a good classic, after all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,8 +89,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-audio-capture-mastery-in-windows-10/"><u>[New] In 2024, Audio Capture Mastery in Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-proactive-zoom-meeting-strategies-for-improved-skype-interactions-for-2024/"><u>[New] Proactive Zoom Meeting Strategies for Improved Skype Interactions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-viral-video-vanguard-youtubes-1-24-hours-list/"><u>2024 Approved Viral Video Vanguard YouTube's #1 24 Hours List</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/alienwares-m18-gaming-laptop-slays-competition-grab-your-limited-labor-day-sale-at-30-off-discover-the-secrets-on-zdnet/"><u>Alienware's M18 Gaming Laptop Slays Competition, Grab Your Limited Labor Day Sale at 30% Off | Discover the Secrets on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-andaseat-kaiser-3-analysis-and-ranking-the-best-seats-of-2022-unveiled/"><u>Comprehensive AndaSeat Kaiser 3 Analysis & Ranking - The Best Seats of 2022 Unveiled!</u></a></li>
+<li><a href="https://games-able.techidaily.com/getting-set-up-a-step-by-step-guide-to-running-steam-and-accessing-a-world-of-linux-gaming/"><u>Getting Set Up: A Step-by-Step Guide to Running Steam and Accessing a World of Linux Gaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-blur-out-not-your-photos-top-10-edits-to-fix-fuzziness/"><u>In 2024, Blur Out, Not Your Photos! Top 10 Edits to Fix Fuzziness</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-cross-platform-success-televisions-and-facebook-collaboration/"><u>In 2024, Cross-Platform Success Televisions & Facebook Collaboration</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-hunt-for-sonys-ps5-expert-advice-and-secrets-unveiled-by-zdnet/"><u>Mastering the Hunt for Sony's PS5: Expert Advice & Secrets Unveiled by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-50-must-have-game-discounts-on-prime-day-2024-exclusive-offers-yet-unclaimed/"><u>Top 50 Must-Have Game Discounts on Prime Day 2024: Exclusive Offers Yet Unclaimed!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-brother-printer-driver-on-windows-a-comprehensive-guide/"><u>Update Your Brother Printer Driver on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-a18-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo A18 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: An Enthusiast's Guide to Favorite, Offbeat Indie Games
-date: 2024-08-08T09:07:58.322Z
-updated: 2024-08-09T09:07:58.322Z
+date: 2025-02-26T17:36:01.394Z
+updated: 2025-03-02T19:01:00.492Z
 tags:
   - games
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 1 Last Word
 
 [Last Word](https://store.steampowered.com/app/355530/Last%5FWord/) is an RPG where you do battle not with swords or staves, but with the power of words. You’ve been summoned to a mysterious mansion alongside a cadre of colorful characters (not unlike Clue), where you must investigate matters of international intrigue.
@@ -35,14 +32,6 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
  I first discovered this game thanks to writer [Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s [a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2 Untitled Goose Game
 
  It’s always worth watching various new games roundups like the Summer Games Fest or [Wholesome Games on YouTube](https://www.youtube.com/c/WholesomeGames) because, even if you’re not into everything shown, it’s always good to know what other people will be playing, and you might even discover a few new favorites for yourself.[Untitled Goose Game](https://goose.game/) is one of those titles, with a trailer that became so popular that developer House House Games ultimately ended up keeping the provisional title.
@@ -53,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
 ## 3 A Short Hike
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
 
 [Adam Robinson-Yu](https://ashorthike.com/)
@@ -68,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
 ## 4 Storyteller
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
@@ -83,14 +66,8 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
  Storyteller is also now available on mobile as one of [Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
@@ -103,14 +80,11 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
  There are plenty of ways to find indie gems to play. These are a few of the ways I found some of my own favorites and hopefully they can help you find new indie games to play too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,6 +93,18 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-the-art-of-visual-flow-with-kinemaster/"><u>[Updated] In 2024, Mastering the Art of Visual Flow with Kinemaster</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-short-form-showdown-youtube-vs-tiktok-edition-for-2024/"><u>[Updated] Short-Form Showdown Youtube VS. TikTok Edition for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-screensnappers-journey-navigating-the-latest-recorders/"><u>2024 Approved ScreenSnapper's Journey Navigating the Latest Recorders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-g310-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from G310</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-variety-for-content-creators-revealed/"><u>Game Variety for Content Creators Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-factors-in-selecting-an-hmd-vr-headset/"><u>Key Factors in Selecting an HMD (VR) Headset</u></a></li>
+<li><a href="https://games-able.techidaily.com/non-nvidia-options-gpu-matches-for-rtx-4060-ti/"><u>Non-NVIDIA Options: GPU Matches for RTX 4060 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-shoppers-list-top-ftp-titles-for-the-switch/"><u>Smart Shopper’s List: Top FTP Titles for the Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-to-detect-unidentified-games-on-steam/"><u>Techniques to Detect Unidentified Games on Steam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175722911-test-drive-the-lian-li-galahad-ii-all-in-one-cooler-an-innovative-solution-for-keeping-your-i7-1-14900k-system-chilled-under-pressure/"><u>Test Drive the Lian Li Galahad II All-in-One Cooler - An Innovative Solution for Keeping Your I7 1 14900K System Chilled Under Pressure.</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/uniting-voices-in-a-tiktok-duo-for-2024/"><u>Uniting Voices in a TikTok Duo for 2024</u></a></li>
+</ul></div>
 

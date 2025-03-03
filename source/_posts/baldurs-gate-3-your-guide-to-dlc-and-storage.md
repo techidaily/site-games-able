@@ -1,7 +1,7 @@
 ---
 title: Baldur's Gate 3 - Your Guide to DLC & Storage
-date: 2024-08-08T09:09:52.315Z
-updated: 2024-08-09T09:09:52.315Z
+date: 2025-02-28T20:23:04.300Z
+updated: 2025-03-02T22:31:37.698Z
 tags:
   - games
 categories:
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/9648422bd4a60544ea009a8215c8d33f0ea36e37b
 
  You may already be certain you will love this major D&D 5e video game title, but you still need more information before you make the $60 investment. Here, we’ll let you know everything you need to know so you can get in Baldur’s Gate 3 as ready as can be.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## What Are Baldur’s Gate 3's Hardware and Software Requirements?
 
  Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the [best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
@@ -42,15 +39,8 @@ Here’s a table for Baldur’s Gate 3’s specs:
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
 * (Intel) MacBook Pros from 2016 to early 2020 might need to run on low settings unless they have the recommended specs.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## What Platforms Can You Get Baldur's Gate 3 On, and How Much Is It?
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
 
  Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the [cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
@@ -61,18 +51,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  There are mods for Baldur’s Gate 3, but we suggest you wait a little longer to try them out since most were made with early access in mind.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Does Baldur's Gate 3 Have a Multiplayer, and How Does It Work?
 
  Baldur’s Gate 3 has a single-player mode you can play by yourself. However, you can quickly change your single-player game into a multiplayer game where your friends can join and control characters in your game.
 
  But if you want a game where all the players have their own custom characters, you’ll need to press the**Multiplayer** button in Baldur’s Gate 3’s main menu. From there, you can host your party or join an existing party.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Baldur's Gate 3's multiplayer menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-s-multiplayer-menu.jpeg)
 
  You can load saves across different platforms, but there’s no cross-play for PS5 and PC. Meaning that you can’t play with a friend using a PS5 if you’re using a PC and vice-versa.
@@ -87,23 +71,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  There is a toggle to hide nudity in the character creation stage. This might help reduce the chances of a child seeing something inappropriate while you play.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Now You’re Ready to Play Baldur’s Gate 3 (or Not)
 
  With all the information here, you should know all it takes to make Baldur’s Gate 3 work for you. It’s a large and long game, and it will take a lot of your time, but the good part is that you don’t have to rush it; you can finish it in small sessions.
 
  You also don’t need prior experience in Dungeons and Dragons to play the game. It’s very accessible and does a good job of introducing the mechanics to the players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,6 +90,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-navigating-the-nuances-of-streaming-and-saving-on-facebook/"><u>[New] 2024 Approved Navigating the Nuances of Streaming and Saving on Facebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-elite-laughter-photo-artificializer/"><u>[Updated] 2024 Approved Elite Laughter Photo Artificializer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-tools-for-motion-artwork-for-2024/"><u>[Updated] Essential Tools for Motion Artwork for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-reflect-and-paraphrase-restate-what-youve-heard-in-your-own-words-to-ensure-comprehension-and-ask-clarifying-questions-if-needed-for-2024/"><u>[Updated] Reflect and Paraphrase Restate What You've Heard in Your Own Words to Ensure Comprehension, and Ask Clarifying Questions if Needed for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024mp42/"><u>「2024年リニューアル版でのツイッタービデオMP4への変換手順2種」</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-console-controller-synergy-for-playstation-and-switch/"><u>Cross-Console Controller Synergy for PlayStation & Switch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-fixing-broken-xbox-series-x-or-s-headset-connections/"><u>Expert Tips for Fixing Broken Xbox Series X or S Headset Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-to-expand-your-virtual-shopping-on-steam/"><u>Expert Tips to Expand Your Virtual Shopping on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-multiplayer-with-ea-play-on-your-playstation-5-console/"><u>Mastering Multiplayer with EA Play on Your PlayStation 5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/sparse-simplicity-dive-into-indolent-gaming/"><u>Sparse Simplicity: Dive Into Indolent Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-inside-the-future-with-nvidias-innovative-g-sync-technology/"><u>Step Inside the Future with Nvidia's Innovative G-Sync Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-selection-of-xbox-one-video-converters-a-comprehensive-how-to-guide/"><u>Ultimate Selection of Xbox One Video Converters: A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-i-prefer-keeping-my-apple-watch-series/"><u>Why I Prefer Keeping My Apple Watch Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-explained-a-comprehensive-guide/"><u>Xbox Game Pass Explained: A Comprehensive Guide</u></a></li>
+</ul></div>
 

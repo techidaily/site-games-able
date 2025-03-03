@@ -1,7 +1,7 @@
 ---
 title: Top 10 PS Summer Discount Extravaganza!
-date: 2024-08-15T17:15:46.733Z
-updated: 2024-08-16T17:15:46.733Z
+date: 2025-02-25T17:11:32.984Z
+updated: 2025-03-02T17:45:23.164Z
 tags:
   - games
 categories:
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## 3\. Deathloop
 
  Deathloop is 75% off, which is a massive saving for a Game of the Year nominee. If you like first-person shooters and the movie Groundhog Day, you will most likely love Deathloop. You may be thinking that that’s a strange combination of things, and you wouldn’t be wrong. But Deathloop is an action-packed adventure that is puzzling, hilarious, and well worth $14.99.
@@ -51,28 +48,18 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Unravel Two
 
  Unravel Two is a beautifully rendered puzzle platformer that can be enjoyed alone, but it is best experienced with a friend. It has some incredibly unique and satisfying mechanics where you can use the yarn that makes up your body to interact with your surroundings and solve puzzles. It is very similar to It Takes Two, so if you were a fan of that, this should be at the top of your backlog.
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. The Last of Us: Part II
 
  Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for [games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 8\. Resident Evil Village
 
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
@@ -85,35 +72,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 10\. Final Fantasy VII Remake
 
  Final Fantasy VII Remake is the first of two parts. The next chapter, Final Fantasy VII Rebirth, is scheduled for release in 2024\. If you are intrigued by the look of Final Fantasy Rebirth, now is your chance to play the first part for 50% off.
 
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Be a Little Adventurous This Summer
 
  What better way is there to have an adventurous summer than to get your hands on a literal adventure for super cheap? The PlayStation summer sale will end on August 16th, 2023, so make sure you take a look and pick up a great deal before it’s too late.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,8 +95,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-jumpstart-your-day-top-10-motivational-feel-good-flicks/"><u>[New] Jumpstart Your Day Top 10 Motivational Feel-Good Flicks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-go-global-with-music-transform-your-spotify-lists-into-youtube-videos/"><u>[Updated] In 2024, Go Global with Music Transform Your Spotify Lists Into YouTube Videos</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1726225695603-2024-10/"><u>2024 역사적인 영화선보기: 10개의 제안 포인트</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/adventurous-at-your-fingertips-travel-gadgets-guide/"><u>Adventurous At Your Fingertips: Travel Gadgets Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-gaming-performance-with-the-latest-dell-g3-driver-update/"><u>Elevate Gaming Performance with the Latest Dell G3 Driver Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-pc-gaming-with-custom-xbox-game-bar-settings-and-tools/"><u>Enhance Your PC Gaming With Custom Xbox Game Bar Settings and Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lightweight-realities-googles-cardboard-and-samsung-gear-vr-for-2024/"><u>Lightweight Realities Google’s Cardboard and Samsung Gear VR for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-digital-creation-complete-guide-to-picsart/"><u>Mastering Digital Creation Complete Guide to PicsArt</u></a></li>
+<li><a href="https://games-able.techidaily.com/properly-programmed-ideal-configurations-for-switchers/"><u>Properly Programmed: Ideal Configurations for Switchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/reach-new-dimensions-engage-playnite-on-large-televisions/"><u>Reach New Dimensions: Engage Playnite on Large Televisions</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-portable-computing-explore-pdw4s-capabilities/"><u>Redefining Portable Computing - Explore PDW4's Capabilities</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/rediscover-androids-intended-experience-through-google-pixel-3-insights/"><u>Rediscover Android's Intended Experience Through Google Pixel 3 Insights</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/unlocking-the-secrets-of-dvd-resolution-informative-guide/"><u>Unlocking the Secrets of DVD Resolution - Informative Guide</u></a></li>
+</ul></div>
 

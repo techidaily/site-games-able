@@ -1,7 +1,7 @@
 ---
 title: "Become a Controller Gaming Connoisseur: Android's Button Magic"
-date: 2024-08-08T09:08:27.329Z
-updated: 2024-08-09T09:08:27.329Z
+date: 2025-03-01T18:55:04.769Z
+updated: 2025-03-03T00:03:34.523Z
 tags:
   - games
 categories:
@@ -14,18 +14,12 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 
 ## Become a Controller Gaming Connoisseur: Android's Button Magic
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Button Mapping?](#what-is-button-mapping)
 * [How to Get Started With Button Mapping on Android](#how-to-get-started-with-button-mapping-on-android)
 * [How to Assign Buttons to an Android Game](#how-to-assign-buttons-to-an-android-game)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Button mapping is handy if you want to use your controller with Android games that don't support it.
@@ -34,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 
  Plenty of gamepads can turn your smartphone into a portable handheld, but only a minority of Android games actually support physical controls. Fortunately, you can solve this problem by mapping buttons to different parts of the screen using apps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Button Mapping?
 
  Button mapping refers to the process of manually determining what happens when you press a button on your game controller or keyboard. When it comes to gaming on Android devices, it typically means getting games that lack controller support to work by telling buttons to activate different parts of the touchscreen.
@@ -49,14 +40,8 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Mantis button mapping app prompting you to enable overlay settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-allow-overlay-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Mantis uses an pop-up window to help you enter a pairing code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-overlay-settings-pair.png)
 
 Close
@@ -87,14 +72,8 @@ Close
 2. Tap the**plus (+)** button next to the game you wish to use with Mantis.
 3. Look for the game under Games. You can now launch the game from within the app, though you don't need to for the functionality to kick in.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mantis needs you to manually add games before applying button mapping.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-add-game.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Adding support for a game within Mantis Pro.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-pro-add-games.png)
 
 ![Mantis Gamepad Pro with three games added.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-three-games-added.png)
@@ -113,14 +92,11 @@ Close
 
  Button mapping won't deliver as smooth an experience as native controller support since things like navigating menus and other UI elements that move around often will still require touching the screen. You may also encounter other issues at unexpected times, which can be resolved by turning off developer settings and only re-enabling them when you intend to use Mantis.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,6 +105,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-use-hashtags-on-instagram/"><u>[New] 2024 Approved How to Use Hashtags on Instagram</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-teachers-guide-to-enhancing-learning-through-youtube-videos-for-2024/"><u>[New] A Teacher's Guide to Enhancing Learning Through YouTube Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-captureconqueror-a-comprehensive-guide-to-screen-recording/"><u>[New] In 2024, CaptureConqueror A Comprehensive Guide to Screen Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-crafting-your-first-online-phenomenal-giveaway-for-2024/"><u>[Updated] Crafting Your First Online Phenomenal Giveaway for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-elite-endorsement-exquisite-websites-to-download-snap-alert-tunes/"><u>[Updated] In 2024, Elite Endorsement Exquisite Websites to Download Snap Alert Tunes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-visionary-composer-dual-elements-conjoined/"><u>[Updated] In 2024, Visionary Composer Dual Elements Conjoined</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-why-are-social-media-suggested-videos-evanescent-for-2024/"><u>[Updated] Why Are Social Media Suggested Videos Evanescent for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-virtual-racing-with-a-499-moza-bundle/"><u>Dive Into Virtual Racing with a $499 MOZA Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/forget-the-fancy-why-standard-display-is-best-for-pc-gaming/"><u>Forget the Fancy: Why Standard Display Is Best for PC Gaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-silencing-emergency-warnings-on-apple-devices-for-better-peace-of-mind/"><u>Guide to Silencing Emergency Warnings on Apple Devices for Better Peace of Mind</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/high-definition-library-themes-premium-wallpaper-and-backdrop-collections-yl-computings-visual-treats/"><u>High-Definition Library Themes: Premium Wallpaper & Backdrop Collections - YL Computing's Visual Treats</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-infinix-note-30-vip-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Infinix Note 30 VIP and Browser | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-computer-potential-upgrade-to-corsairs-icue-link-and-see-the-difference/"><u>Maximize Your Computer Potential - Upgrade to Corsair's iCUE Link and See the Difference</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-vr-experience-with-ps-vr-2/"><u>Maximizing VR Experience with PS VR 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/multilingual-roms-made-easy-with-translation-patches/"><u>Multilingual Roms Made Easy with Translation Patches</u></a></li>
+<li><a href="https://games-able.techidaily.com/reprogramming-the-psp-a-path-to-nessnes-dual-mode/"><u>Reprogramming the PSP: A Path to NES/SNES Dual Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-steps-securing-and-setting-up-mojang-maps/"><u>Swift Steps: Securing & Setting up Mojang Maps</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-isolated-players-guide-to-winmc-network-fixes/"><u>The Isolated Player's Guide to WinMC Network Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-full-potential-steam-deck-with-windows/"><u>Unleash Full Potential: Steam Deck with Windows</u></a></li>
+</ul></div>
 

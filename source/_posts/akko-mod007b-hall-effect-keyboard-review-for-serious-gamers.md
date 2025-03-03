@@ -1,7 +1,7 @@
 ---
 title: "Akko MOD007B Hall Effect Keyboard Review: For Serious Gamers"
-date: 2024-08-08T09:08:14.094Z
-updated: 2024-08-09T09:08:14.094Z
+date: 2025-02-28T21:33:13.691Z
+updated: 2025-03-02T16:08:32.697Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
 ## Akko MOD007B Hall Effect Keyboard Review: For Serious Gamers
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Akko MOD007B HE keyboard uses Hall Effect switches for customizable actuation distance, giving gamers an advantage.
@@ -27,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
  So, Akko is bringing the MOD007B Hall Effect Keyboard to help overcome the weaknesses of mechanical keyboards and give you an advantage over your opponents.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B PC eCommerce Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/world-tour-tokyo-mod007b-pc-3-600x600.jpg)
 
 ##### AKKO MOD007B PC
@@ -117,9 +111,6 @@ No
 
 ## A Great-Looking Keyboard on the Surface
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
@@ -150,9 +141,6 @@ No
 
  On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
  Jowi Morales / MakeUseOf
@@ -175,23 +163,14 @@ Related
 
  Jowi Morales / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Typing on Cloud Nine
 
  Aside from the advantages of Hall Effect keys, the Akko MOD007B also delivers an excellent typing feel. The keyboard itself uses a gasket mount for a soft and relaxed typing experience. And when you press on the keys hard, you’ll notice them sink into the case, especially for keys near the edges.
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Extensive Customization With the Akko Cloud Driver
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
@@ -214,15 +193,8 @@ Related
 
  It would’ve been better if Akko included at least a single color-changing LED bulb to indicate the mode the keyboard is currently on. And maybe they could put the OS mode switch on an easily reachable surface.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Questionable Battery Life
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
  Jowi Morales / MakeUseOf
@@ -315,14 +287,11 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/) [See at Amazon](https://www.amazon.com/dp/B0CP7CYWRY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031519&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fakko-mod007b-hall-effect-keyboard-review%2F&asc%5Fcampaign=Affiliate)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -331,6 +300,26 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-discover-the-best-comparing-free-video-players-vlc-and-mpc/"><u>[New] In 2024, Discover the Best Comparing Free Video Players (VLC and MPC)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-future-in-your-hands-screenflows-role-in-macos-innovation-for-2024/"><u>[New] The Future in Your Hands ScreenFlow's Role in MacOS Innovation for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-use-whiteboard-in-zoom-meeting-desktopiosandroid/"><u>[Updated] 2024 Approved How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-temporary-pause-image-save-guide/"><u>[Updated] In 2024, Temporary Pause Image Save Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-journey-to-visual-vigor-a-beginners-guidebook/"><u>[Updated] Journey to Visual Vigor A Beginner's Guidebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sonic-visuals-on-the-move-a-deep-dive-into-sonys-xperia-xz/"><u>[Updated] Sonic Visuals on the Move - A Deep Dive Into Sony's Xperia XZ</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-ultimate-guide-to-creating-free-youtube-outros-1-6/"><u>2024 Approved The Ultimate Guide to Creating FREE YouTube Outros #1-6</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-error-403-quick-fixes-for-roblox-on-windows-devices/"><u>Demystifying Error 403: Quick Fixes for Roblox on Windows Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-creativity-in-play-top-6-fresh-chess-app-inventions/"><u>Enhance Creativity in Play: Top 6 Fresh Chess App Inventions</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-5-tips-to-control-steam-web-helpers-memory-use/"><u>Enhancing Gaming: 5 Tips to Control Steam Web Helper's Memory Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-performance-ethernet-essentials-for-gamers/"><u>High-Performance Ethernet Essentials for Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-fixes-restoring-the-sound-on-your-astro-a50-headphone-speaker/"><u>Instant Fixes: Restoring the Sound on Your Astro A50 Headphone Speaker</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-enabling-access-to-steams-cached-game-files/"><u>Re-Enabling Access to Steam's Cached Game Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-play-top-gaming-mice-and-keyboards-2024/"><u>Revolutionizing Play: Top Gaming Mice & Keyboards 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-xs-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone XS Max You Should Try Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-blueprint-for-virtual-ecosystems-a-game-perspective/"><u>The Blueprint for Virtual Ecosystems: A Game Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-silent-switch-disable-controller-jolts/"><u>The Silent Switch: Disable Controller Jolts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-why-your-find-my-iphone-app-shows-offline-and-solutions-to-locate-it/"><u>Understanding Why Your Find My iPhone App Shows 'Offline' And Solutions to Locate It</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtube-is-now-testing-mini-games-and-heres-how-to-play-them/"><u>YouTube Is Now Testing Mini Games (and Here's How to Play Them)</u></a></li>
+</ul></div>
 

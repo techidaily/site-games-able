@@ -1,7 +1,7 @@
 ---
 title: $499 MOZA R5 - Your Gateway to Realistic Racing
-date: 2024-08-15T17:15:11.796Z
-updated: 2024-08-16T17:15:11.796Z
+date: 2025-02-25T21:24:04.485Z
+updated: 2025-03-02T22:24:37.482Z
 tags:
   - games
 categories:
@@ -105,9 +105,6 @@ Yes
  For testing, we received the basic R5 bundle with all the included add-ons: the Formula Wheel Mod for the ES Steering Wheel; Brake Performance Kit; and clutch for the bundled pedals. I’ll be covering these accessories in detail later.
 
 ![MOZA R5 base, wheel, and clamp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-base-wheel-and-clamp.JPG)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -115,9 +112,6 @@ Yes
 
  The accessories came in smaller boxes, with only the clutch pedal themed the same as the main R5 Bundle box, while the rest arrived in plain, white cardboard boxes with black text and an image.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## MOZA R5 First Impressions
 
  Taking out the ES Steering Wheel is the first thing you’ll do when opening up the box, and it's certainly exciting. The faux leather feels and smells good, but apart from the touch, the shiny brushed design on the face and rattly buttons didn’t resonate well with me.
@@ -135,9 +129,6 @@ Yes
  The R5 Wheel Base is dense and heavy, more than I imagined, further exciting me and solidifying its presence as serious equipment. It has a thick and durable layer of powder-coating, which is a nice touch, preventing scratches and fingerprints. It also has some fins, which I suppose are for heat dissipation.
 
 ![Closeup of R5 quick release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/closeup-of-r5-quick-release.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -152,10 +143,6 @@ Yes
 ## MOZA R5 Bundle Hardware Setup Experience
 
 ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -194,23 +181,8 @@ Close
  The mobile app has all the adjustments you can make as with the Pit House software, including the advanced FFB settings, but you can’t reset the wheel base or update it from the mobile app. That's fine since you’d have it plugged to a PC to do those things anyway. I also noticed that applying different pedals curves sometimes bugged out (as you can see in the first image in the gallery below).
 
 ![Pedal curve settings bugging out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings-bugging-out.jpg)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Pedal curve settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![MOZA Racing moible app connected hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-moible-app-connected-hardware.jpg)
 
@@ -224,56 +196,35 @@ Close
 
  The app could use some language improvements though, as the wording can be quite strange, such as “Enter the car” to change the settings, “SteeringWheel Recenter,” and “Unconnected to the screen".
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Desk Usage
 
 ![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
  The MOZA R5 is mounted on my desk since I don’t have a dedicated sim rig yet, but as mentioned, I was able to figure out a system for setting it up and stowing it away quickly.
 
 ![Sticky pads for SR-P Lite pedals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/sticky-pads-for-sr-p-lite-pedals.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
  I’m using the pedals as a foot rest to replace a box that I previously used. I used the included sticky pads, and they were pretty effective without the brake mod, but with the brake mod, you will need to mount it to something. The sticky pads are also washable and reusable, so you don’t have to worry about dust getting on them.
 
 ![SR-P Lite pedals mounted to wooden box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/sr-p-lite-pedals-mounted-to-wooden-box.JPG)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
  I eventually had a wooden box made and bolted the pedals down to that. It’s not pretty, but it gets the job done, and I’m way more consistent with it bolted down. I don’t have to worry about the pedals moving and messing up my inputs.
 
 ![MOZA R5 on edge of table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-edge-of-table.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick Release System
 
 ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -283,9 +234,6 @@ Close
 
  The thin black paint on the QR system did eventually get scratched up over a few weeks of use, but that’s to be expected as it’s hard and heavy metal constantly rubbing on each other. Despite the cosmetic damage, I doubt detaching and reattaching wheels would lead to any significant damage. They could probably leave that part unpainted, but that would detract from the overall look of the base.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## MOZA R5 Bundle: Driving Experience
 
  Coming from a Logitech G29, the driving experience is wildly different. It’s no longer a clunky mess that feels like it’s about to rattle itself to pieces. It legitimately feels immersive and connected. I’ve separated the driving experience into three sections so I can go into detail for each major component.
@@ -306,17 +254,11 @@ Close
 
  I was able to try the Simagic Alpha Mini at a local tech event before receiving the R5, and I can confidently say that a higher torque wheel base is better. It was more tiring, but I felt the subtle details a lot more clearly. It was also significantly smoother, which I think MOZA could also achieve with some updates.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### MOZA SR-P Lite Pedals and Brake Performance Kit
 
  Considering the prices of the R5 base and the ES Wheel alone are $299 and $129, leaving just $71 for the pedals—the SR-P Lite does its job quite well. Using precise hall-effect sensors and a solid all-metal construction, it’s not a bad set of pedals. However, I do think the pedals are the weakest point of this bundle, and I have a few complaints about them.
 
 ![Brake Performance Kit for SR-P Lite pedals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/brake-performance-kit-for-sr-p-lite-pedals.JPG)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -333,18 +275,12 @@ Close
  The ES Steering Wheel is a great D-shaped rim for a bundled item. I wouldn't deliberately opt for it, but it’s a great starting point. It offers 22 face buttons, which is plenty for most people.
 
 ![MOZA R5 front view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-front-view.JPG)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
  It’s solid and feels nice, even without gloves. It’s on the smaller side at 11 inches, but on a 5.5Nm base, it allows you to feel the forces better than a larger wheel. I did notice a bit of rattling noise, which makes it feel like a toy, but I only ever noticed it when I drove without sound. However, you can upgrade to a 12-inch round wheel mod for drifting and enlarging the rim.
 
 ![Driving with Formula mod for ES Steering Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/driving-with-formula-mod-for-es-steering-wheel.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -372,14 +308,11 @@ Close
 
 [$549 at Amazon](https://www.amazon.com/Racing-Gaming-Simulator-Bundle-Steering-PC/dp/B07DW25P3R?tag=muo-v2-51um1p3-20&ascsubtag=UUmuoUeUpU2030726&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmoza-r5-bundle-review%2F&asc%5Fcampaign=Affiliate) [See at MOZA Racing](https://mozaracing.com/product/r5-bundle)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -388,8 +321,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-summit-build-lab-examination-for-2024/"><u>[New] Summit Build Lab Examination for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-xboxs-video-conferencing-feature/"><u>[New] The Ultimate Guide to Xbox's Video Conferencing Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/disconnecting-from-realms-a-world-recovery-plan/"><u>Disconnecting From Realms: A World Recovery Plan</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-sonys-best-deals-summer-edition/"><u>Discover Sony's Best Deals: Summer Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-boredom-no-more-with-our-20plus-web-games/"><u>Embrace Boredom No More With Our 20+ Web Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/flash-into-action-continuing-game-adventures-without-adobe/"><u>Flash Into Action: Continuing Game Adventures without Adobe</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-the-joyful-side-of-streaming-with-games/"><u>Game On: The Joyful Side of Streaming with Games</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-5-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 5 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-f34-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy F34 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/one-play-two-platforms-merging-epic-games-with-steam/"><u>One Play, Two Platforms: Merging Epic Games with Steam</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/os-maiores-enderecos-online-para-fazer-download-de-legendas-em-lingua-portuguesa-para-sucessos-cinematograficos-e-seriados/"><u>Os Maiores Endereços Online Para Fazer Download De Legendas Em Língua Portuguesa Para Sucessos Cinematográficos E Seriados</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-funding-guide-adding-and-shopping/"><u>PlayStation Funding Guide: Adding and Shopping</u></a></li>
+<li><a href="https://extra-information.techidaily.com/powerful-cinema-titles-that-bring-you-joy-and-strength/"><u>Powerful Cinema Titles That Bring You Joy & Strength</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/quick-video-recorder-download-and-record-video-for-2024/"><u>Quick Video Recorder Download and Record Video for 2024</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-sort-by-color/"><u>Sort by Color for Google Sheets</u></a></li>
+</ul></div>
 

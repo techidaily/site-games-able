@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Games: Optimal 3D Model Techniques"
-date: 2024-08-15T17:16:30.413Z
-updated: 2024-08-16T17:16:30.413Z
+date: 2025-02-25T20:19:28.797Z
+updated: 2025-03-02T22:36:49.233Z
 tags:
   - games
 categories:
@@ -24,14 +24,6 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 
  While a good deal of the work you can do to optimize 3D models for game development is done in your 3D design software, the game engine also gives you opportunities to make your game faster. These methods are easy to put to work, providing a good place to start if you have already begun development on your game.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Reuse 3D Model Assets
 
  Every 3D model your game loads has a resource cost. This cost isn’t incurred when using a model for a second, third, or fourth time, providing an excellent opportunity to optimize your game without skimping on scenery or objects.
@@ -44,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 
  Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find [free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use Static Lighting
 
  Lighting is by far one of the most resource-hungry operations found in modern 3D games. Calculating reflections on the fly is very costly, but you can bake the lighting in your scene to solve this problem. This prepares the lighting in the scene in advance so that the player doesn’t have to wait for it.
@@ -55,33 +44,21 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 
  Engines like Unity and Unreal Engine feature an optimization tool called occlusion culling. This reduces resource usage by only rendering the 3D objects that the player can see in the scene. Outside of the player’s field of view, objects will not appear until they are looked at. This is an easy way to save resource usage in large scenes.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Implement LOD (Level of Detail)
 
  Detail becomes increasingly important as you get closer to an object in a video game. But, when you are far away, you don’t need to have every fine detail on display, and this is what LOD is for.
 
  The engine can automatically remove polygons from an object’s mesh when the player is far away, lowering resource costs without impacting immersion.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3D Model Game Optimization: Design Workflow
 
 ![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
  Designing 3D models that are optimized for video game development is easier than you might expect. This process mostly involves stripping your model down to ensure that it only has the vertices, lines, and faces that it needs. There are several ways to achieve this.
 
 ### Manual Geometry Optimization
 
 ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Optimizing simple geometry by hand is a good way to get used to designing models for video games. You have two main options for removing faces, lines, and vertices in 3D modeling software; deleting and dissolving.
 
@@ -105,14 +82,11 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 
  As you can see, optimizing your 3D objects is a time-consuming process. The results will be worth it, though, and it should be easy to tell how well you’ve done the job once you compile and run your game. You can always go back and make further optimizations if you need to. Now, you just need to learn where to find some beautiful textures for your objects.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,8 +95,21 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-essentials-of-editing-your-social-media-profile-picture/"><u>[New] 2024 Approved Essentials of Editing Your Social Media Profile Picture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-closer-look-at-pwm-and-dc-fans-determining-the-ideal-choice-for-efficient-home-computer-cooling/"><u>A Closer Look at PWM and DC Fans - Determining the Ideal Choice for Efficient Home Computer Cooling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/changing-up-the-sound-how-to-customize-your-iphone-tunes-for-2024/"><u>Changing Up the Sound How to Customize Your iPhone Tunes for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-pick-for-nintendo-switch-gaming-expert-picks-by-zdnet/"><u>Discover the Ultimate Pick for Nintendo Switch Gaming - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-gaming-greatness-alienware-m18-laptop-offers-epic-deal-at-30er-below-after-labor-day-zdnet/"><u>Experience Gaming Greatness: Alienware M18 Laptop Offers Epic Deal at $30Er Below After Labor Day | ZDNET</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-breaking-down-zoom-session-division/"><u>In 2024, Breaking Down Zoom Session Division</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-meizu-21-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Meizu 21</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/e-android-which-has-the-better-youtube-experience-for-2024/"><u>IPhone, Android Which Has the Better YouTube Experience for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-tips-securing-audio-for-unboxing-vids-for-2024/"><u>Master Tips Securing Audio for Unboxing Vids for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/mastering-pc-protection-a-comprehvew-of-configuring-windows-defenses-via-the-control-panel-provided-by-yl-software-solutions/"><u>Mastering PC Protection: A Comprehvew of Configuring Windows Defenses via the Control Panel, Provided by YL Software Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/next-gen-learning-mondlys-tech-upgrade-for-education/"><u>Next-Gen Learning: Mondly’s Tech Upgrade for Education</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-and-easy-guide-upgrading-ps5-console-with-extra-storage-complete-within-10-minuteszdnet/"><u>Quick & Easy Guide: Upgrading PS5 Console with Extra Storage - Complete Within 10 Minutes![ZDNet]</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-a-steal-on-the-new-nintendo-switch-oled-at-walmart-this-memorial-day-save-big-with-our-tips-from-zdnet/"><u>Score a Steal on the New Nintendo Switch OLED at Walmart This Memorial Day – Save Big with Our Tips From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-most-spectacular-4th-of-july-tv-discounts-dont-miss-out/"><u>ZDNet's Most Spectacular 4Th of July TV Discounts: Don’t Miss Out!</u></a></li>
+</ul></div>
 

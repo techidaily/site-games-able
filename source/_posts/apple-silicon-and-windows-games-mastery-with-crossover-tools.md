@@ -1,7 +1,7 @@
 ---
 title: "Apple Silicon and Windows Games: Mastery with CrossOver Tools"
-date: 2024-08-08T09:08:16.943Z
-updated: 2024-08-09T09:08:16.943Z
+date: 2025-02-23T20:14:21.275Z
+updated: 2025-03-02T17:13:28.471Z
 tags:
   - games
 categories:
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
 
  While Parallels is great, it only uses a fraction of your Mac’s power, giving for subpar gaming performance. That’s where CrossOver comes in; CrossOver will use as much of your Mac’s hardware as possible, and you can download and play Windows Steam games with it.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Download, Install, and Set Up CrossOver
 
  The first step to begin your Apple silicon Mac Windows gaming journey is downloading and installing CrossOver.
@@ -30,17 +27,10 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
 Follow the steps below to get started:
 
 1. Visit [CodeWeavers website](https://www.codeweavers.com/crossover#mac) to download CrossOver. The software isn’t free, but you can click the**Free Trial** button on the Mac category to get started with a 14-day trial.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![CrossOver download link on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/crossover-download-link-on-its-website.jpeg)
 2. Enter your name and email, and hit**Return** on your keyboard to begin the download.
 3. Install the application from the crossover.zip file. If you run into any issues, you can read our guide on [how to install Mac software](https://www.makeuseof.com/tag/install-remove-mac-software-5-easy-methods/) for some guidance.
 4. When you run the app, you’ll see a dialogue box asking you to buy or try CrossOver. Select**Try Now** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![CrossOver purchase dialogue popup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/crossover-purchase-dialogue-popup.jpeg)
 5. You’ll find yourself in a window with an empty Home page.
 
@@ -56,9 +46,6 @@ Here’s how to get Steam on CrossOver:
 ![Install section of CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-section-of-crossover.jpeg)
 2. Double-click**Steam** and choose**Install** .
 3. Optional: You can choose which version of Steam you would like to install or what installer you would like to use in the**Details** section of Steam’s information page. Just click**Edit** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Steam information page in CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-information-page-in-crossover.jpeg)
 4. Click**Yes** ,**Next** , or agree to any popups that appear on your screen while the installation continues.
 5. Microsoft XML Parser Setup will ask you to fill in the User Name and Organization input boxes, but you can leave these sections blank and click**Next** .  
@@ -67,9 +54,6 @@ Here’s how to get Steam on CrossOver:
 
  Return back to CrossOver’s window, and you’ll notice that you have Steam as one of your bottles. Leave Steam alone for now and download some dependencies you would need to run the games you get from Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Install DirectX and DXVK
 
  DXVK is a Direct3D translation layer for running 3D applications, while [DirectX is a Microsoft API for improving software access to hardware](https://www.makeuseof.com/what-is-directx-why-important-for-gaming/) . You’ll need them both to run your games fluidly.
@@ -85,9 +69,6 @@ Here’s how to install them to your Steam bottle:
 
  These two are very important because it lets Steam access your Mac’s GPU. If you try to install games without doing this, Steam will give you an error.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Set Up Steam, Log In, and Play
 
  You can now return back to Steam and input your username and password. Go to your library, select the game you want to play and install it.
@@ -116,14 +97,11 @@ Here’s how to install them to your Steam bottle:
 
  CrossOver looks a lot more barebones and may be less accessible, but you get plenty of power to run games smoothly on a Mac. You can run games like The Witcher 3 and Skyrim with little to no problems at all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,6 +110,24 @@ Here’s how to install them to your Steam bottle:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-tutorial-smoothly-embedding-urls-on-instagram-feed/"><u>[New] 2024 Approved Tutorial Smoothly Embedding URLs on Instagram Feed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-from-disjointed-edits-to-fluid-inshot-moves/"><u>[New] In 2024, From Disjointed Edits to Fluid Inshot Moves</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-inside-apeaksofts-2023-recording-technology-breakthroughs/"><u>[Updated] 2024 Approved Inside Apeaksoft's 2023 Recording Technology Breakthroughs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-conquer-backward-motion-in-snapchat-videos-quickly/"><u>[Updated] Conquer Backward Motion in Snapchat Videos Quickly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-roundup-no-fee-videocalling-plus-live-desktop-share/"><u>[Updated] Ultimate Roundup No-Fee Videocalling + Live Desktop Share</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/customizing-notification-sounds-with-xbox/"><u>Customizing Notification Sounds with Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-technology-behind-xboxs-remote-gameplay/"><u>Decoding the Technology Behind Xbox’s Remote Gameplay</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-mpow-bluetooth-drivers-for-latest-windows-systems-including-windows-11-8-and-7/"><u>Download & Upgrade MPOW Bluetooth Drivers for Latest Windows Systems Including Windows 11, 8, and 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-engineering-of-your-console-control-xbox-s/"><u>Exploring the Engineering of Your Console Control - Xbox S</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23plus-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Itel S23+ Phone without Any Data Loss</u></a></li>
+<li><a href="https://games-able.techidaily.com/maintaining-childrens-security-in-social-chats/"><u>Maintaining Children’s Security in Social Chats</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixels-vs-shelves-the-advantages-and-disadvantages-of-digital-gaming/"><u>Pixels Vs. Shelves: The Advantages & Disadvantages of Digital Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/revoking-an-overspent-fortnite-purchase-a-simplified-path/"><u>Revoking an Overspent Fortnite Purchase - A Simplified Path</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/seamless-syncing-tutorial-how-to-project-your-realme-mobile-display-onto-a-pc-screen/"><u>Seamless Syncing Tutorial: How To Project Your Realme Mobile Display Onto a PC Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-nintendo-switch-controllers-of-2024/"><u>The Best Nintendo Switch Controllers of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ifas-top-gaming-tech-releases/"><u>The Ultimate Guide to IFA's Top Gaming Tech Releases</u></a></li>
+</ul></div>
 

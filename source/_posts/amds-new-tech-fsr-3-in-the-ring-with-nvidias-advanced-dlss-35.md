@@ -1,7 +1,7 @@
 ---
 title: AMD’s New Tech FSR 3 in the Ring with NVIDIA's Advanced DLSS 3.5?
-date: 2024-08-15T17:14:49.242Z
-updated: 2024-08-16T17:14:49.242Z
+date: 2025-02-26T16:29:26.805Z
+updated: 2025-03-02T22:20:35.807Z
 tags:
   - games
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
 
  However, that doesn't mean AMD has given up on FSR. Far from it, in fact. At Gamescom 2023, alongside the launch of its new GPUs, AMD also announced FSR 3, which promises great improvements over its predecessor in performance and image fidelity. It's a major upgrade, but can it compete with NVIDIA DLSS 3.5?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## What Is AMD's FSR 3?
 
  You might already know what FSR, or [FidelityFX Super Resolution](https://www.makeuseof.com/amd-fsr-explained/) , is, but we'll give you a quick refresh if not. FSR is software that takes games rendered at a lower resolution and upscales them to higher ones. It's AMD's competition to [NVIDIA's DLSS](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) , boosting in-game visuals and frame rates, and FSR 3 is the latest version of this technology. AMD announced the new tech right as it announced its newest GPUs, the [Radeon RX 7800 XT and the Radeon RX 7700 XT](https://www.makeuseof.com/everything-you-need-to-know-amd-radeon-rx-7800-xt-and-rx-7700-xt/) .
@@ -34,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
  FSR 3 isn't fundamentally changing the way FSR works. It's still an open technology that doesn't require proprietary hardware and can run on any modern GPU, AMD or not. What's changing here is how good its results look and how fast games will run with FSR 3.
 
 ![AMD FSR 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/fsr-3-1.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 Image Credits: AMD
 
@@ -45,9 +38,6 @@ Image Credits: AMD
 
  FSR 3 will be available on all Radeon RDNA cards (5000-Series, 6000-Series, and 7000-Series), Intel Arc GPUs, and NVIDIA RTX GPUs.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Does FSR 3 Compare to DLSS 3.5?
 
  Of course, the big elephant in the room is how AMD's FSR 3 fares compared to its direct competitor,[NVIDIA's recently updated DLSS 3.5](https://www.makeuseof.com/what-is-nvidia-ai-powered-dlss-3-5/) . NVIDIA announced its latest technology just days before FSR 3, as basically a drop-in upgrade for DLSS 3-compatible cards. DLSS 3.5's biggest upgrade is how it leverages the power of AI to help with its upscaling, employing a model called Ray Reconstruction to create high-quality ray-traced images.
@@ -56,28 +46,19 @@ Image Credits: AMD
 
  As for how well it works compared to its direct competitor, we'll have to see FSR 3 in use in-game to compare properly. We'd expect things to remain pretty similar to how they are, with FSR producing similar framerate gains but with less detail than DLSS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Use FSR 3?
 
  If you have an AMD GPU or another GPU that doesn't support DLSS, using FSR is a no-brainer. It can greatly help your framerates, especially if you have a higher-resolution monitor. FSR 3 is a great improvement to an already great technology, and you should give it a spin as soon as it's available. AMD says that new titles Forspoken and Immortals of Aveum will get support in September, with other games following suit.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## FSR 3 is a Big Improvement
 
  When NVIDIA added Frame Generation to DLSS 3, it was a big breakthrough. By generating extra frames from scratch, your frame rates could be effectively doubled. With this addition to FSR 3, you should see the same kind of gains, and we're excited to see how it fares in real life.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -86,6 +67,18 @@ Image Credits: AMD
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-streaming-made-easy-top-20-free-youtube-playlist-savers/"><u>[New] In 2024, Streaming Made Easy Top 20 Free YouTube Playlist Savers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hitch-youtube-sounds-into-imovie-tracks-swiftly/"><u>[Updated] 2024 Approved Hitch YouTube Sounds Into iMovie Tracks Swiftly</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-15-tripods-and-mounts-for-gopro/"><u>[Updated] In 2024, Top 15 Tripods and Mounts for GoPro</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-premier-playwriting-for-podcasts-and-radios/"><u>[Updated] Premier Playwriting for Podcasts & Radios</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoiding-disarray-in-frames/"><u>Avoiding Disarray in Frames</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-world-of-mobile-gaming-via-google-play-games-pc/"><u>Exploring the World of Mobile Gaming via Google Play Games PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-aerial-images-key-factors-in-picking-a-gimbal/"><u>In 2024, Perfecting Aerial Images Key Factors in Picking a Gimbal</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-historical-pricing-for-games-decoded/"><u>Steam's Historical Pricing for Games Decoded</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-xbox-series-ss-choice-to-leave-discs-behind/"><u>The Xbox Series S's Choice to Leave Discs Behind</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-and-conquer-the-art-of-windows-implementation-on-steam-deck/"><u>Upgrade and Conquer: The Art of Windows Implementation on Steam Deck</u></a></li>
+</ul></div>
 

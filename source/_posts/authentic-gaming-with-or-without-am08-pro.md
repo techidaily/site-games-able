@@ -1,7 +1,7 @@
 ---
 title: Authentic Gaming with or without AM08 Pro?
-date: 2024-08-15T17:14:31.373Z
-updated: 2024-08-16T17:14:31.373Z
+date: 2025-02-25T20:55:32.705Z
+updated: 2025-03-02T18:07:01.028Z
 tags:
   - games
 categories:
@@ -79,9 +79,6 @@ Wi-Fi 6E, Bluetooth 5.2
 
  But does it actually deliver? Can you really play the best recent games on this system, or does it just sit on your desk looking RGB-pretty?
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Ships With the AceMagic AM08 Pro?
 
  In some ways, the AceMagic AM08 Pro from AceMagician is a PC retailer’s dream. It’s reasonably affordable and ships in a tiny box that makes it cheap to store and distribute.
@@ -110,9 +107,6 @@ So who would want an AceMagic AM08 Pro?
 
  Fortunately, I have a couple of children in this exact age range. One of them, Bruce, has helped by providing space in his bedroom and considerable time testing various games.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AceMagic AM08 Pro Device Specifications
 
  Two versions of the AceMagic Pro PC are available: the AM08 AMD model and the AD08 Intel variant (with an Intel Core i9 CPU). We received the AMD model, which features an AMD Ryzen 9 6900HX CPU (8 cores, 16 threads) with an AMD Radeon 680M GPU. (This is the same GPU as the [GPD Win 4 handheld](https://www.makeuseof.com/review-gpd-win-4-handheld-console-review/) ).
@@ -133,9 +127,6 @@ So who would want an AceMagic AM08 Pro?
 
 Perhaps most surprisingly, this unit is expandable.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## You Can Upgrade the AceMagic AM08 Pro
 
  The right-hand side of the AM08 Pro (as viewed from the front) is secured only by magnets. Enabling easy access to the RAM and storage media, the side plate is simple to remove and replace, eschewing thumbscrews.
@@ -143,9 +134,6 @@ Perhaps most surprisingly, this unit is expandable.
  You'll find an empty SATA port for a 2.5-inch storage device inside. Beneath this is the M.2 storage, while positioned higher in the case are the dual RAM sticks. All of these items can be removed and upgraded with relative ease.
 
 ![ACEMAGIC AM08 Pro expansion ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-ports.JPG)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Admittedly, these are laptop-style upgrades, but they’re upgrades nevertheless. It’s enough to give this machine a bit of longevity.
 
@@ -153,10 +141,6 @@ Perhaps most surprisingly, this unit is expandable.
 
  This may be a quirk of the review device (I checked with the AceMagic people and the problem could not be replicated), but it was easily dealt with thanks to a powerline adapter. While your own experience may differ, this is worth keeping in mind.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Gaming on the AceMagic AM08 Pro
 
  Since this is marketed as a gaming PC, we opted for games that would really push the AceMagic AM08 Pro. Relying on Steam, Bruce installed:
@@ -184,9 +168,6 @@ But how does this work out in practice?
 
  It should be no surprise to read that it handled them all perfectly. But then, all it has done throughout this review is surprise. Sure, it is a tiny computer, but it appears to be just as capable as any standard PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## No, It’s Not a Gaming PC, But It'll Do
 
  By this point, you’re probably thinking one of two things: “There's no way that’s really a gaming PC” or “Wow, a gaming PC for $500!”.
@@ -194,15 +175,9 @@ But how does this work out in practice?
  Both opinions are right. If you’re a hardcore gamer, this system—LEDs aside—is not for you. It’s baseline stuff; cooling control is useful but nothing hardcore, and you won’t be able to push this system to extremes. You need a totally different setup, let’s be honest.
 
 ![ACEMAGIC AM08 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-vents-1.JPG)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
  But if you’re new to gaming and found a standard laptop doesn’t do the job, then the AceMagic AM08 Pro will blow your mind. It produces excellent results with recent games, and while you may need to dial back the graphics quality for newer titles, it can still cope.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## An Entry Level Gaming PC Ideal for Teens
 
  When I was first asked to review the AceMagic AM08 Pro, I was naturally dubious about its billing.
@@ -223,14 +198,11 @@ But how does this work out in practice?
 
 [See at AceMagic](https://www.acemagic.com/collections/gaming-mini-pc/products/ace-am08-pro-amd-ryzen-9%E2%84%A2-6900hx)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -239,6 +211,18 @@ But how does this work out in practice?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-a-captivated-audience-with-strategic-voiceovers/"><u>[New] Crafting a Captivated Audience with Strategic Voiceovers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-quick-tips-for-capturing-gotomeeting-conversations/"><u>[Updated] In 2024, Quick Tips for Capturing GoToMeeting Conversations</u></a></li>
+<li><a href="https://games-able.techidaily.com/compatibility-switch-oled-and-vintage-docks/"><u>Compatibility: Switch OLED & Vintage Docks?</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-victory-playing-2p-minecraft-on-the-nintendo-switch/"><u>Crafting Victory: Playing 2P Minecraft on the Nintendo Switch</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-tips-for-screen-recording-on-lenovo-devices/"><u>Essential Tips for Screen Recording on Lenovo Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-giants-growth-competitive-forces-at-play-industry-symposium-recap/"><u>Game Giants' Growth: Competitive Forces at Play! [Industry Symposium Recap]</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-nes-and-snes-steam-controls/"><u>Mastering NES & SNES Steam Controls</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-achieve-hollywood-grade-video-a-step-by-step-fcpx-guide-for-2024/"><u>New Achieve Hollywood-Grade Video A Step-by-Step FCPX Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-9-best-free-to-play-games-for-the-nintendo-switch/"><u>The 9 Best Free-to-Play Games for the Nintendo Switch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-broadcasts-using-manycams-online-video-and-webcam-tools/"><u>Transform Your Broadcasts Using ManyCam's Online Video and Webcam Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-video-converter-deluxe-winxvideo-ai/"><u>WinX Video Converter Deluxe が WinxVideo AI として進化! – 約束のクオリティを高める最適なビデオ、写真処理ソフトウェア</u></a></li>
+</ul></div>
 

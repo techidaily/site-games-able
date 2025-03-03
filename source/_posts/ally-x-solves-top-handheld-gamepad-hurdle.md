@@ -1,7 +1,7 @@
 ---
 title: Ally X Solves Top Handheld Gamepad Hurdle
-date: 2024-08-08T09:12:23.682Z
-updated: 2024-08-09T09:12:23.682Z
+date: 2025-02-28T22:58:04.411Z
+updated: 2025-03-02T23:35:48.014Z
 tags:
   - games
 categories:
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
  Asus has announced the ROG Ally X, the successor to 2023's ROG Ally. It boasts several improvements, but arguably one of the best changes is its increased battery capacity.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The ROG Ally X Doubles The Original's Battery Capacity
 
  Announced at Computex 2024, the ROG Ally X improves the original handheld's formula in many ways. One of the biggest differences is its battery capacity, which has been doubled. Rather than the 40Wh battery [featured on the ROG Ally](http://www.makeuseof.com/what-is-asus-rog-ally/) , the ROG Ally X includes an 80Wh battery.
@@ -27,14 +24,8 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
  Since portability is a major selling point for handhelds and one of the [key considerations when buying a handheld console](https://www.makeuseof.com/gaming-handheld-things-to-consider-before-buying/) , the improved battery life will give owners of the device more freedom of movement, for longer. After all, if you're constantly tethered to a power outlet, you're missing out on one of the biggest advantages of the handheld format.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Other ROG Ally X Improvements
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![the asus rog ally x on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/the-asus-rog-ally-x-on-a-table.jpg)
 
 Asus
@@ -49,14 +40,11 @@ Asus
 
  While the improvements may not necessarily make you switch from a ROG Ally to a ROG Ally X, the new features and hardware definitely make it an appealing option in a competitive handheld market.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,6 +53,26 @@ Asus
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-final-cut-pro-for-beginners-the-definitive-starter-pack-for-2024/"><u>[New] Final Cut Pro for Beginners The Definitive Starter Pack for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-maximizing-audio-quality-in-lectures-with-macos/"><u>[New] In 2024, Maximizing Audio Quality in Lectures with MacOS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-channel-titles-that-shine-how-to-innovate/"><u>[Updated] Channel Titles That Shine How to Innovate</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-dive-into-the-world-of-youtube-on-facebook-video-content/"><u>[Updated] Dive Into the World of YouTube on Facebook Video Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-scripting-stimulating-screen-grabbers/"><u>[Updated] Scripting Stimulating Screen-Grabbers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-free-anime-streaming-sites-similar-to-9anime-explore-our-list-of-the-top-20-websites/"><u>Best Free Anime Streaming Sites Similar to 9Anime: Explore Our List of the Top 20 Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-powerful-gpus-to-nvidias-geforce-4060-ti/"><u>Comparing Powerful GPUs to Nvidia's GeForce 4060 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-nvidias-latest-in-retrospect/"><u>Evaluating NVIDIA's Latest in Retrospect</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-inconsistent-mouse-wheel-movement/"><u>Fix Inconsistent Mouse Wheel Movement</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-portable-gaming-to-handheld-controls-phone-playstation-union/"><u>From Portable Gaming to Handheld Controls: Phone-PlayStation Union</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-wicket-to-touchdown-these-are-the-best-mobile-sports-apps-iosandroid/"><u>From Wicket to Touchdown, These Are the Best Mobile Sports Apps (iOS/Android)</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-of-tech-spotlighted-at-computex-for-ai/"><u>Future of Tech Spotlighted at Computex for AI</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-power-solutions-for-ps5-dualsense-controllers/"><u>Ideal Power Solutions for PS5 DualSense Controllers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-captivating-features-the-allure-of-filmora-editing/"><u>In 2024, Captivating Features The Allure of Filmora Editing</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-xbox-one-control-connections/"><u>Quick Guide: Xbox One Control Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-global-scripts-a-windows-font-guide/"><u>Unleashing Global Scripts: A Windows Font Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/utilizing-film-content-a-strategy-for-teachers-for-2024/"><u>Utilizing Film Content A Strategy for Teachers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/zoom-into-playtime-score-with-these-speedy-phone-games/"><u>Zoom Into Playtime: Score with These Speedy Phone Games</u></a></li>
+</ul></div>
 

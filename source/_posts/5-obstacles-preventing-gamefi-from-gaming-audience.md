@@ -1,7 +1,7 @@
 ---
 title: 5 Obstacles Preventing GameFi From Gaming Audience
-date: 2024-08-15T17:15:15.969Z
-updated: 2024-08-16T17:15:15.969Z
+date: 2025-02-27T00:27:17.873Z
+updated: 2025-03-02T20:47:59.224Z
 tags:
   - games
 categories:
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
  So, what are the problems with GameFi, and why will they seal its fate?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is GameFi?
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
  While GameFi may seem innovative, many downsides affect players and investors.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 1\. Token Instability
 
  If there's one thing we can all agree on about crypto, it's that assets are almost always unstable in price. From new, smaller tokens to market leaders like Bitcoin, price fluctuations have been a problem from the beginning.
@@ -55,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
  GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Scams
 
 ![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
@@ -84,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
  Higher transaction fees can put people off getting into GameFi, as a large chunk of their earnings will be stripped away through these mandatory charges. It's a loss and isn't something that attracts gamers.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Prioritizing Money Over the Game
 
  Naturally, when a game offers digital assets in return for playtime, users will put the earnings at the front and center of why they play the game.
@@ -103,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
  This isn't anyone's fault, but the developer can dodge any liability when gamers ask for compensation. If the game has made any financial promises, the developers may also be able to keep their hands clean if these promises fall through.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Will GameFi Last?
 
  No one knows for sure if GameFi will sink or swim, but the nature of this sector makes long-term success difficult.
@@ -117,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
  Even without this model, crypto token instability always poses a risk to P2E games. Take Illuvium, for example. This popular P2E game hit news headlines in August 2023 when its in-game token, ILV, suffered a big drop in value.
 
 ![screenshot of coinmarketcap illuvium seven day price graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/illuvium-price-graph.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Between August 14 and 22, the price of one ILV token went from $53 to $42, a drop of almost 21% in just over a week. This drop doesn't seem to be the result of any major scandal or market crash. Rather, it seems to be a product of a lack of interest.
 
@@ -129,14 +111,11 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
  While GameFi isn't dead in the water yet, its many drawbacks have placed its future in a shaky position. If GameFi developers listen to criticism, things may improve, but the nature of the crypto industry, along with constant scams, still poses many risks and challenges.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,8 +124,20 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-unpacking-the-features-and-shortcomings-of-samsung-image-editor/"><u>[New] Unpacking the Features and Shortcomings of Samsung Image Editor</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-reverse-a-video-on-snapchat-complete-guide-for-2024/"><u>[Updated] How to Reverse a Video on Snapchat? [Complete Guide] for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-exclusive-guide-choosing-among-top-9-free-logo-creators/"><u>2024 Approved Exclusive Guide Choosing Among Top 9 Free Logo Creators</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/convert-arw-raw-images-to-jpeg-for-free-with-movavis-user-friendly-online-tool/"><u>Convert ARW RAW Images to JPEG for Free with Movavi's User-Friendly Online Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-new-ui-in-windows-11/"><u>Exploring New UI in Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-explore-top-7-live-streaming-iosandroid-apps-perfect-for-youtube-channel-creators/"><u>In 2024, Explore Top 7 Live Streaming iOS/Android Apps Perfect for YouTube Channel Creators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-depth-app-examination-azs-recording-and-alternatives/"><u>In-Depth App Examination - AZ's Recording & Alternatives</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-enthusiasts-4-best-gbadvance-emulator-choices/"><u>IOS Enthusiasts: 4 Best GBAdvance Emulator Choices!</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-gaming-devices-comparing-asus-tuf-proart-and-prime-systems/"><u>Mastering Gaming Devices: Comparing Asus, Tuf, ProArt and Prime Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-fusion-of-performance-and-precision-in-basilisk-v3/"><u>The Ultimate Fusion of Performance & Precision in Basilisk V3</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-cost-effective-1440p-displays-for-gamers/"><u>The Ultimate List of Cost-Effective 1440P Displays for Gamers</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-v29e-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo V29e Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unmanned-vehicles-classified/"><u>Unmanned Vehicles - Classified</u></a></li>
+</ul></div>
 

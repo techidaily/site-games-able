@@ -1,7 +1,7 @@
 ---
 title: "Six Thrilling Story-Sharing Duos: Text Edition"
-date: 2025-02-08T22:54:36.448Z
-updated: 2025-02-11T22:32:42.901Z
+date: 2025-02-24T22:16:52.205Z
+updated: 2025-03-02T18:48:04.446Z
 tags:
   - games
 categories:
@@ -41,10 +41,6 @@ Close
 
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 20 Questions
 
 Close
@@ -54,10 +50,6 @@ Close
  One of you thinks of an object or a person, while the other fires questions at them via text or messages. Your "Yes/No" responses help the guesser narrow down the possibilities until they can make an educated guess as to exactly what it is you were thinking of.
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 I Spy
 
@@ -78,10 +70,6 @@ Close
  The**Song Lyrics** game plays on that by having one person quote lines from a song to the other via text or in a messaging thread. The other person then has to guess the song the lyrics are from. It helps if this is played with someone you're close to or with whom you share similar music tastes. Because if you choose a metal song, your classical music-loving mother is unlikely to ever guess correctly.
 
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Abbreviations
 
@@ -113,10 +101,6 @@ Close
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8 Kiss, Marry, Kill
 
 Close
@@ -136,10 +120,6 @@ Close
  One of you messages the other a What If? scenario and asks what they would do in that situation. There are no correct or incorrect answers here. It's not only fun to see the responses given, it can also give you an insight into your friend or family member's outlook on life.
 
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10 Simple Quiz
 
@@ -168,18 +148,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-maximum-potential-screen-recording-on-anymac/"><u>[New] Unlocking Maximum Potential Screen Recording on AnyMac</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-prolific-photography-and-video-app-selection-iphone-vs-android/"><u>[Updated] 2024 Approved Prolific Photography & Video App Selection IPhone vs Android</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-next-wave-of-social-media-top-apps-as-periscope-alternates/"><u>[Updated] The Next Wave of Social Media Top Apps as Periscope Alternates</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-connections-the-hidden-risks-of-linkedin-gaming/"><u>Beyond Connections: The Hidden Risks of LinkedIn Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-am08-pro-enhance-authenticity-of-magic-play/"><u>Can AM08 Pro Enhance Authenticity of Magic Play?</u></a></li>
-<li><a href="https://games-able.techidaily.com/clouding-up-game-highlights-store-screenshots-easily/"><u>Clouding Up Game Highlights: Store Screenshots Easily</u></a></li>
-<li><a href="https://games-able.techidaily.com/comet-craftsmanship-evaluating-next-gen-computers/"><u>Comet Craftsmanship: Evaluating Next-Gen Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparative-analysis-steam-vs-gog-game-platforms/"><u>Comparative Analysis: Steam vs GOG Game Platforms</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-compelling-videos-youtubes-best-thumbnail-practices-for-2024/"><u>Crafting Compelling Videos YouTube's Best Thumbnail Practices for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-zte-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best ZTE Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y77t-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y77t to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/toolwiz-app-reviewed-the-ultimate-photo-editor-in-2024/"><u>Toolwiz App Reviewed The Ultimate Photo Editor, In 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-stand-out-in-a-sea-of-content-our-offer-includes-50-free-banners/"><u>[Updated] In 2024, Stand Out in a Sea of Content - Our Offer Includes 50 Free Banners!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlock-the-potential-of-snapchat-boomerangs/"><u>[Updated] Unlock the Potential of Snapchat Boomerangs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-jaco-smartpro-digital-tire-inflator-evaluation-the-ultimate-portable-and-potent-solution/"><u>Comprehensive Jaco SmartPro Digital Tire Inflator Evaluation: The Ultimate Portable and Potent Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-or-computer-the-ultimate-game-test/"><u>Console or Computer? The Ultimate Game Test</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-video-clarity-with-expert-tips-for-youtube-editors-for-2024/"><u>Elevate Video Clarity with Expert Tips for YouTube Editors for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-skills-with-these-7-command-line-games/"><u>Enhance Skills with These 7 Command Line Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-nintendo-switch-configurations-must-have-tips/"><u>Essential Nintendo Switch Configurations: Must-Have Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-pre-installed-ios-games-play-without-wi-fi/"><u>Exclusive Pre-Installed iOS Games - Play without Wi-Fi!</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-for-maximizing-your-gamer-score-on-steam/"><u>Expert Tips for Maximizing Your Gamer Score on Steam</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-update-issues-expert-guide-to-enable-the-service/"><u>Fixing Windows Update Issues: Expert Guide to Enable the Service</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-google-pixel-8-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Google Pixel 8 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-dissonance-to-harmony-crafting-audio-transitions-in-audacity/"><u>In 2024, From Dissonance to Harmony Crafting Audio Transitions in Audacity</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-enjoy-emulated-classics-on-steam-deck/"><u>Step-by-Step Guide: Enjoy Emulated Classics on Steam Deck</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/transforming-passive-browsing-into-active-participation-on-fb-for-2024/"><u>Transforming Passive Browsing Into Active Participation on FB for 2024</u></a></li>
 </ul></div>
 

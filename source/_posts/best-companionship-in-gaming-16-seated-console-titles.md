@@ -1,7 +1,7 @@
 ---
 title: "Best Companionship in Gaming: 16 Seated Console Titles"
-date: 2024-08-08T09:08:52.295Z
-updated: 2024-08-09T09:08:52.295Z
+date: 2025-02-28T19:33:40.404Z
+updated: 2025-03-02T20:53:54.977Z
 tags:
   - games
 categories:
@@ -32,30 +32,18 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  Unlike some games that tack local co-op as an afterthought, It Takes Two is exclusively designed for cooperative play. With incredibly charming visuals, It Takes Two sees you and a partner platform and solve puzzles through a variety of interesting locations. If you enjoy this, check out the developer's equally impressive game A Way Out.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4. Cuphead
 
  Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally [decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5. Overcooked! All You Can Eat
 
  In Overcooked, you and your friends are the cute chefs that must keep up with the demands of the customers, with an onslaught of funny obstacles and wacky scenarios to keep you on your toes. You'll need to work in perfect sync to ensure your kitchen doesn't go up in flames. Expect arguments.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 6. Portal 2
 
  Portal 2 first released in 2011, but this incredible game stands the test of time. While there is a superb single-player story, the co-op experience is equally fantastic and fully fledged. You and your robot chum must use the portal gun to navigate complex physical puzzles and escape the rooms.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 7. Stardew Valley
 
  Stardew Valley is a simulation game that puts you in charge of building your own farm from the ground up, looking after crops and vegetables, and exploring the surrounding world and meeting a cast of charming characters. And you can do all of this in couch co-op, with up to four players. It's a completely relaxing experience, far different from the usual fast-paced shooters.
@@ -68,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  Whether you're a Halo novice or veteran, The Master Chief Collection is the ultimate Xbox experience. It bundles six Halo games into a single package. All of them are worth playing—not only to see how they shaped the first-person shooter genre, but just because they're downright fun, especially when played in couch co-op.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10. Minecraft
 
  If you have a single creative bone in your body, you'll love Minecraft. Whatever you imagine, you can build in Minecraft. Don't let its deceptively simple blocky graphics put you off. You'll end up spending the whole day with your friends building and exploring, since Minecraft supports up to four players in local co-op.
@@ -87,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  Rayman is a certified gaming icon and the series has arguably never been better than in Rayman Legends, a 2D platformer that bursts at the seams with creativity and excitement. Not only is the colorful art a feast for the eyes, but the gameplay offers hours of perfectly finessed platforming fun.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 14. Crash Team Racing Nitro-Fueled
 
  You might know Crash Bandicoot best from his platformers, but Crash Team Racing Nitro-Fueled is a loving remake of the 1999 arcade kart racer. Expect mayhem as you race around wild tropical tracks, using silly items to throw your fellow racers off course. You can play Nitro-Fueled on your Xbox Series X/S with up to four others in local split-screen.
@@ -98,28 +80,19 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  Get your thrills with The Quarry, a choice-based horror game where you control nine teenage summer camp counselors as they try to survive the night; your decisions impact who makes it until morning. It supports couch co-op for up to eight people, where each player is assigned a character and passes the controller around—ideal for cost-effective frights.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 16. Human Fall Flat
 
  Human Fall Flat is a puzzle platformer, tasking you and a friend to navigate through the themed environments. Sounds simple? It's anything but, with the slapstick physics meaning you'll be flailing through the levels. Though you can play this solo, you shouldn't—it's much funnier in couch co-op.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Choose Xbox for Endless Couch Co-Op Entertainment
 
  As you've seen, the Xbox Series X/S has a plethora of fabulous local co-op games to choose from, whether you're in the mood for a relaxing farming sim, frantic first-person shooter, or charming puzzle-platformer. Gaming doesn't have to be a solitary activity!
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,6 +101,22 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-secrets-to-superior-sprouts-in-the-world-of-valheim-for-2024/"><u>[New] Secrets to Superior Sprouts in the World of Valheim for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-3-free-video-players-face-off-vlc-vs-mpc-showdown-for-2024/"><u>[New] Top 3 FREE Video Players Face Off VLC Vs. MPC Showdown for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-gripping-gospels-intros-that-draw-ears-for-2024/"><u>[Updated] Gripping Gospels Intros That Draw Ears for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-selections-top-10-sports-streaming-apps-soccer-focus/"><u>[Updated] Innovative Selections Top 10 Sports Streaming Apps, Soccer Focus</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-gaming-world-with-chatgpt-best-6-choices/"><u>Dive Into Gaming World With ChatGPT' Best 6 Choices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diving-deep-into-openai-a-full-scope-analysis-and-understanding/"><u>Diving Deep Into OpenAI: A Full Scope Analysis and Understanding</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-epic-games-launcher-freezing-or-crashing-on-windows/"><u>How to Fix the Epic Games Launcher Freezing or Crashing on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-se-2020-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone SE (2020) when Phone is Broken?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-communication-in-the-modern-age-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Communication in the Modern Age with Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-steam-analysis-measuring-hours-and-in-game-rewards/"><u>Streamlining Steam Analysis: Measuring Hours & In-Game Rewards</u></a></li>
+<li><a href="https://games-able.techidaily.com/timetailer-compact-handheld-history-at-your-fingertips/"><u>TimeTailer Compact: Handheld History at Your Fingertips</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-the-power-of-play-with-these-top-9-reasons-for-using-steam/"><u>Unleash the Power of Play with These Top 9 Reasons for Using Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-effortless-gameplay-film-extraction-on-gpus/"><u>Unlock Effortless Gameplay Film Extraction on GPUs</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-15-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-case-a-closer-look/"><u>Xbox Case: A Closer Look</u></a></li>
+</ul></div>
 

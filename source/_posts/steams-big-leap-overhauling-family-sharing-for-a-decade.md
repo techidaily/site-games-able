@@ -1,7 +1,7 @@
 ---
 title: "Steam's Big Leap: Overhauling Family Sharing for a Decade"
-date: 2025-02-08T22:03:41.644Z
-updated: 2025-02-11T17:57:56.050Z
+date: 2025-02-25T22:06:16.316Z
+updated: 2025-03-02T20:16:09.765Z
 tags:
   - games
 categories:
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
 
  One of the biggest changes is a new quality-of-life feature. Now you can play games from other family members' libraries, even if the owner is online playing another game—solving a nuisance that many gamers sharing their libraries experienced. And if someone owns multiple copies of a game, multiple people can play the same title at the same time.
@@ -57,33 +53,17 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  These changes allow you to truly have a parental system for Steam, much like a[kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enter the Steam Families Beta
 
 ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
 ![Steam Family section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-section-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
  If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Pros and Cons of Steam Families
 
@@ -122,18 +102,22 @@ Some of the drawbacks of the feature include:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-is-instagrams-self-validation-a-game-changer/"><u>[New] 2024 Approved Is Instagram’s Self-Validation a Game Changer?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-cutting-edge-complete-rotation-videography-equipment-for-2024/"><u>[New] Cutting Edge Complete Rotation Videography Equipment for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-navigating-to-no-cost-and-risk-free-vlc-player-download-for-macos-for-2024/"><u>[Updated] Navigating to No-Cost & Risk-Free VLC Player Download for macOS for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-full-potential-of-igtv-a-step-by-step-guide-for-2024/"><u>[Updated] Unlocking the Full Potential of IGTV A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-new-age-for-gaming-the-mmo-evolution-tale/"><u>A New Age for Gaming: The MMO Evolution Tale</u></a></li>
-<li><a href="https://games-able.techidaily.com/activities-galore-chess-and-poker-in-discord-servers/"><u>Activities Galore: Chess & Poker in Discord Servers</u></a></li>
-<li><a href="https://games-able.techidaily.com/adjusting-mouse-sensitivity-for-maximum-precision/"><u>Adjusting Mouse Sensitivity for Maximum Precision</u></a></li>
-<li><a href="https://games-able.techidaily.com/amds-next-gen-graphics-rdna-35-and-release-forecast/"><u>AMD's Next-Gen Graphics: RDNA 3.5 & Release Forecast</u></a></li>
-<li><a href="https://games-able.techidaily.com/android-os-launched-in-linux-environment/"><u>Android OS Launched in Linux Environment</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-8-lite-simulations-playing-android-on-desktop/"><u>Best 8 Lite Simulations: Playing Android on Desktop</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-songwriters-journey-top-15-video-tips-for-music-creators/"><u>In 2024, The Songwriter's Journey Top 15 Video Tips for Music Creators</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-t2-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo T2 5G</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-convert-optimize-and-thrill-the-best-vr-video-conversion-software/"><u>Updated Convert, Optimize, and Thrill The Best VR Video Conversion Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-clearer-sound-with-these-ipad-tips-for-2024/"><u>[New] Clearer Sound with These iPad Tips for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instantaneous-aspect-alteration-for-visual-content/"><u>[New] Instantaneous Aspect Alteration for Visual Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-techniques-for-splendid-lyric-videos-lyric-video-maker-edition/"><u>[Updated] In 2024, Essential Techniques for Splendid Lyric Videos, Lyric Video Maker Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-selecting-superior-free-srt-translation-apps-today-for-2024/"><u>[Updated] Selecting Superior Free SRT Translation Apps Today for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snappy-stories-how-to-record-snapchat-mobilely-for-2024/"><u>[Updated] Snappy Stories - How to Record Snapchat Mobilely for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/1728482127274-windows-11/"><u>練習自我開機 Windows 11 從休息狀態中啟動技術</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/iate-allies-for-small-channels-an-easy-approach/"><u>Affiliate Allies for Small Channels An Easy Approach</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-lava-yuva-2-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Lava Yuva 2 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-guide-to-the-new-playstation-evolution-by-sony-unveiling-features-prices-and-release-info-techspot-news/"><u>Comprehensive Guide to the New PlayStation Evolution by Sony – Unveiling Features, Prices & Release Info | TechSpot News</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-post-labor-day-offer-secure-your-85-inch-tcl-smart-tv-with-a-generous-25-discount-featured-on-zdnet/"><u>Exclusive Post-Labor Day Offer: Secure Your 85-Inch TCL Smart TV with a Generous 25% Discount, Featured on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/hps-latest-gaming-beast-the-victus-15l-pc-slashed-to-a-sizzling-520-grab-it-with-nearly-half-off-deal/"><u>HP's Latest Gaming Beast, the Victus 15L PC, Slashed to a Sizzling $520 – Grab It with Nearly Half Off Deal!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/metodo-facil-y-confidencial-para-transferir-correos-de-yahoo-al-gmail/"><u>Método Fácil Y Confidencial Para Transferir Correos De Yahoo Al Gmail</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-choosing-a-quality-ps5-external-drive-expert-picks-from-zdnet/"><u>The Ultimate Guide to Choosing a Quality PS5 External Drive - Expert Picks From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-the-ultimate-selection-of-43-televisions-in-202/"><u>Top Picks: The Ultimate Selection of 43 Televisions in 202</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-the-razer-blackshark-v2-pro-the-ultimate-sound-arsenal-for-gamers-zdnet/"><u>Unleashing the Razer Blackshark V2 Pro: The Ultimate Sound Arsenal for Gamers | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-pcs-full-potential-with-steam-on-linux-a-beginners-tutorial-to-join-the-world-of-thousands-of-games/"><u>Unlock Your PC's Full Potential with Steam on Linux - A Beginner's Tutorial to Join the World of Thousands of Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-vision-pro-multiverse-disney-and-marvels-collaborative-effort-featuring-you-as-the-hero-explore-with-zdnet/"><u>Unveiling The Vision Pro Multiverse: Disney and Marvel's Collaborative Effort Featuring You as the Hero | Explore with ZDNet</u></a></li>
 </ul></div>
 

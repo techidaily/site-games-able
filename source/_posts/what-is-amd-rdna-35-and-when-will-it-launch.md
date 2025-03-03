@@ -1,7 +1,7 @@
 ---
 title: What Is AMD RDNA 3.5 and When Will It Launch?
-date: 2025-02-05T17:24:17.056Z
-updated: 2025-02-11T20:20:49.710Z
+date: 2025-02-28T00:52:15.237Z
+updated: 2025-03-02T18:33:16.227Z
 tags:
   - games
 categories:
@@ -29,29 +29,17 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
  AMD put its best foot forward with RDNA 3 introduced in its RX 7000 GPU lineup. However, considering just how big of a leap Nvidia made with Ada Lovelace on RTX 40-Series GPUs, AMD's upcoming RDNA 3.5 has some big shoes to fill.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is AMD RDNA 3.5?
 
  While AMD has been tight-lipped about the specifics, RDNA 3.5 is its new GPU architecture that's somewhere between[RDNA 3, AMD's Ada Lovelace competitor,](https://www.makeuseof.com/what-is-rdna-3/) and the upcoming RDNA 4\. It'll most likely be used as an integrated GPU (iGPU) solution for mobile APUs for handhelds and laptops.[Accelerated Processing Units combine a CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) into a single chip for efficiency and to deliver other benefits.
 
 ![AMD Radeon RX 7900 XTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rx-7900-xtx.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit:[AMD](https://www.youtube.com/watch?v=XAGFS8d%5FqLw)
 
  These next-generation chips will be based on AMD's upcoming Zen 5 architecture (expected in 2024), built on a 4nm process with performance and efficiency cores set up very similar to Intel's design. We might also see updates to AMD's software stack, most notably to[FSR 3, AMD's equivalent of DLSS 3.5](https://www.makeuseof.com/amd-announces-fsr-3-but-will-it-compete-with-dlss-35/) .
 
  All the information available about RDNA 3.5 suggests that it's AMD's answer to modern dedicated mobile GPUs. Whether we'll see a standalone GPU with RDNA 3.5 architecture also remains a mystery. That said, if AMD decides to refresh RDNA 3 before RDNA 4 launches, it might be based on RDNA 3.5, so the possibility of a standalone GPU isn't completely out of the water.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When Will RDNA 3.5 Launch?
 
@@ -67,19 +55,11 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit:[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php)
 
  It seems like RDNA 3.5 will be making its debut in AMD's mobile APU lineup. The decision makes sense considering what it has achieved in gaming handhelds with RDNA 2 and RDNA 3 (for example, with the Steam Deck, Asus ROG Ally, and the upcoming Lenovo Legion Go). The Zen 5-powered CPU, armed with its 16 RDNA 3.5 GPU compute cores, should theoretically provide a big GPU performance boost over its predecessors.
 
  That said, the processor is still in its engineering sample (ES) state, so it's hard to say whether this performance will translate to real-world usage. Additionally, the screenshot also claims only 512 MB of GDDR6 video memory, which is almost certainly due to unfinished drivers for the unsupported APU or any other errors on the software side.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## RDNA 3.5 Aims to Turn the Tide in AMD's Favor
 
@@ -100,22 +80,17 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>[New] In 2024, Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimal-aging-strategy-edit-and-confirm-on-tiktok/"><u>[Updated] Optimal Aging Strategy Edit and Confirm On TikTok</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme 11 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-gpu-malfunctions-solutions-for-the-top-4-issues/"><u>Decoding GPU Malfunctions: Solutions for the Top 4 Issues</u></a></li>
-<li><a href="https://win-data.techidaily.com/een-kleurrijk-handboek-wiekelvideos-verwijderen-na-herstellen-met-een-camcorder/"><u>Een Kleurrijk Handboek: Wiekelvideo's Verwijderen Na Herstellen Met Een Camcorder</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-your-fortnite-journey-on-mac-with-an-eye-for-limitations/"><u>Embrace Your Fortnite Journey on Mac - With an Eye for Limitations</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-tips-for-effective-steam-product-returns/"><u>Expert Tips for Effective Steam Product Returns</u></a></li>
-<li><a href="https://games-able.techidaily.com/getting-started-with-discord-on-a-mac-system/"><u>Getting Started with Discord on a Mac System</u></a></li>
-<li><a href="https://games-able.techidaily.com/getting-to-grips-with-xbox-game-pass/"><u>Getting to Grips with Xbox Game Pass</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-can-i-reduce-my-waiting-time-for-windows-updates-insights-revealed/"><u>How Can I Reduce My Waiting Time for Windows Updates? [INSIGHTS REVEALED]</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-rescue-from-graphics-panel-sagging/"><u>How to Rescue From Graphics Panel Sagging</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-market-mastery-strategys-first-impressions/"><u>In 2024, Market Mastery Strategy's First Impressions</u></a></li>
-<li><a href="https://games-able.techidaily.com/outlast-the-ultimate-plan-rise-on-xbox-subscription/"><u>Outlast the Ultimate Plan Rise on Xbox Subscription</u></a></li>
-<li><a href="https://games-able.techidaily.com/sharing-game-experiences-with-friends-on-ps5/"><u>Sharing Game Experiences with Friends on PS5</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solving-common-issues-a-comprehensive-guide-to-fixing-your-pcs-mouse-and-keyboard-expert-tips-from-yl-computing/"><u>Solving Common Issues: A Comprehensive Guide to Fixing Your PC's Mouse & Keyboard - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-fixes-for-when-your-iphone-cant-access-cellular-data/"><u>Top 10 Fixes for When Your iPhone Can't Access Cellular Data</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467470804-your-iphone-needs-checkup-discover-apples-rde-for-easy-hardware-testing/"><u>Your iPhone Needs Checkup? Discover Apple's RDE for Easy Hardware Testing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-experts-choice-top-10-low-cost-sbd-applications/"><u>[New] 2024 Approved Expert's Choice Top 10 Low-Cost SBD Applications</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-streamlining-video-editing-using-luts-with-obs-studio/"><u>[New] 2024 Approved Streamlining Video Editing Using LUTs with OBS Studio</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-exquisite-stardew-valley-enhancements-revealed-top-7/"><u>[Updated] Exquisite Stardew Valley Enhancements Revealed (Top 7)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-artistry-the-top-image-enhancers/"><u>[Updated] In 2024, Instagram Artistry The Top Image Enhancers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unlocking-advanced-functionalities-of-zoom-on-windows-10/"><u>2024 Approved Unlocking Advanced Functionalities of Zoom on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-strategies-for-fixing-display-driver-error-in-windows-11/"><u>Expert Strategies for Fixing Display Driver Error in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-binges-to-battles-game-play-on-netflix/"><u>From Binges to Battles: Game Play on Netflix</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-java-gaming-key-takeaways/"><u>Journey Through Java Gaming: Key Takeaways</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-a-low-profile-mastering-steams-invisibility/"><u>Keep a Low Profile: Mastering Steam's Invisibility</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-control-use-with-ryujinx-emulation-software/"><u>Step-by-Step Control Use with Ryujinx Emulation Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-list-7-mac-focused-vids-for-2024/"><u>Ultimate List 7 Mac-Focused Vids for 2024</u></a></li>
 </ul></div>
 

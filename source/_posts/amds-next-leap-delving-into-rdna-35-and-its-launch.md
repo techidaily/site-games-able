@@ -1,7 +1,7 @@
 ---
 title: AMD's Next Leap - Delving Into RDNA 3.5 and Its Launch
-date: 2024-08-08T09:12:34.192Z
-updated: 2024-08-09T09:12:34.192Z
+date: 2025-02-23T22:43:54.207Z
+updated: 2025-03-02T23:30:15.875Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
 ## AMD's Next Leap - Delving Into RDNA 3.5 and Its Launch
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * AMD is developing the RDNA 3.5 GPU architecture, which will be used as an integrated GPU solution for mobile APUs in handhelds and laptops.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
  While AMD has been tight-lipped about the specifics, RDNA 3.5 is its new GPU architecture that's somewhere between [RDNA 3, AMD's Ada Lovelace competitor,](https://www.makeuseof.com/what-is-rdna-3/) and the upcoming RDNA 4\. It'll most likely be used as an integrated GPU (iGPU) solution for mobile APUs for handhelds and laptops.[Accelerated Processing Units combine a CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) into a single chip for efficiency and to deliver other benefits.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![AMD Radeon RX 7900 XTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rx-7900-xtx.jpg)
 
  Image Credit:[AMD](https://www.youtube.com/watch?v=XAGFS8d%5FqLw)
@@ -42,27 +36,18 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
  All the information available about RDNA 3.5 suggests that it's AMD's answer to modern dedicated mobile GPUs. Whether we'll see a standalone GPU with RDNA 3.5 architecture also remains a mystery. That said, if AMD decides to refresh RDNA 3 before RDNA 4 launches, it might be based on RDNA 3.5, so the possibility of a standalone GPU isn't completely out of the water.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## When Will RDNA 3.5 Launch?
 
  Similar to the architecture description, AMD has not revealed an official launch date for the RDNA 3.5 architecture. However, considering that RDNA 3.5 has been confirmed to be a part of the Ryzen 8000 Granite Ridge processors and the Ryzen 8000 Strix Point APUs, we expect a launch in 2024\. Other than the two aforementioned product lines, it's likely that we'll see an RDNA 3 refresh using RDNA 3.5 architecture.
 
  AMD often launches CPUs at CES (the Consumer Electronics Show held annually in January), so there's a chance RNDA 3.5 will be introduced to the world in January 2024\. Other than that, it's anybody's guess when AMD will announce the new architecture.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Performance Improvements Will RDNA 3.5 Bring Over RDNA 3?
 
  With the limited information available, it's hard to tell how much of a lead RDNA 3.5 will be over previous RDNA generations, namely RDNA 3 and 2\. However, we can take a look at the CPUs and APUs that RDNA 3.5 will be launching with to get an idea of how it'll perform.
 
  An HWiNFO screenshot posted on [Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php) details a Ryzen 8000 series APU with 16 RDNA 3.5 GPU cores and 12 Zen 5 CPU cores in a mixed configuration. Other features include the average processor clock speed of 2.12 GHz in addition to 32GB of LPDDR4 6400 MHz RAM and a TDP of 45W.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
 
  Image Credit:[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php)
@@ -71,21 +56,15 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
  That said, the processor is still in its engineering sample (ES) state, so it's hard to say whether this performance will translate to real-world usage. Additionally, the screenshot also claims only 512 MB of GDDR6 video memory, which is almost certainly due to unfinished drivers for the unsupported APU or any other errors on the software side.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## RDNA 3.5 Aims to Turn the Tide in AMD's Favor
 
  One of AMD's biggest advantages over Intel is integrated RDNA graphics in its processors. Provided RDNA 3.5 lives up to the hype, the GPU architecture can render lower-end GPUs obsolete and will help AMD regain some of the market share it has lost to Intel.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,6 +73,24 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-comprehensive-guide-to-video-editing-with-filmora/"><u>[New] The Comprehensive Guide to Video Editing with Filmora</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-turning-clutter-into-clarity-managing-massive-tiktok-drafters/"><u>2024 Approved Turning Clutter Into Clarity Managing Massive TikTok Drafters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-lighting-strategies-for-superior-iphone-photos-for-2024/"><u>Advanced Lighting Strategies for Superior iPhone Photos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-performance-logitech-gaming-mouse/"><u>Elite Performance Logitech Gaming Mouse</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-a-smooth-tormentesouls-experience-avoiding-system-crashes-on-windows-computers/"><u>Essential Tips for a Smooth TormenteSouls Experience - Avoiding System Crashes on Windows Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/haptic-sensation-vs-tactile-tablet-triumph-in-car-races/"><u>Haptic Sensation Vs. Tactile Tablet Triumph in Car Races</u></a></li>
+<li><a href="https://games-able.techidaily.com/hrtf-elevating-sound-awareness-for-peak-performance-in-valorant/"><u>HRTF: Elevating Sound Awareness for Peak Performance in Valorant</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-x6-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Poco X6</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-performance-of-yis-4k-actioncam/"><u>In 2024, The Ultimate Performance of Yi's 4K ActionCam</u></a></li>
+<li><a href="https://games-able.techidaily.com/intel-or-amd-top-choice-for-console-gaming/"><u>Intel or AMD: Top Choice for Console Gaming?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138588140-9781475906806-it-will-be-all-right-in-the-morning/"><u>It Will Be All Right in the Morning | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-a-499-gateway-to-simulated-speed-and-precision/"><u>MOZA R5: A $499 Gateway to Simulated Speed and Precision</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/parental-guide-to-understanding-ai-futures/"><u>Parental Guide to Understanding AI Futures</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-into-tseries-earnings-processes-on-youtube-networks/"><u>Peering Into TSeries' Earnings Processes on YouTube Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-remote-gaming-with-steam/"><u>The Essential Guide to Remote Gaming with Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-spectacular-world-of-google-play-pass-and-a-minor-glitch/"><u>The Spectacular World of Google Play Pass and a Minor Glitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-personalizing-your-xbox-game-bar-in-windows-environment/"><u>The Ultimate Guide to Personalizing Your Xbox Game Bar in Windows Environment</u></a></li>
+</ul></div>
 

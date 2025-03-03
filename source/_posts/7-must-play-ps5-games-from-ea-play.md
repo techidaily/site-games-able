@@ -1,7 +1,7 @@
 ---
 title: 7 Must-Play PS5 Games From EA Play
-date: 2024-08-15T17:15:23.818Z
-updated: 2024-08-16T17:15:23.818Z
+date: 2025-02-27T23:51:47.584Z
+updated: 2025-03-02T19:08:48.435Z
 tags:
   - games
 categories:
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 2\. FIFA 23
 
  Save money by buying the last FIFA game released and get it on EA Play. If you love soccer games and you’re tired of buying the same game every year with a different number on it, then go get FIFA through EA Play.
@@ -45,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 4\. Need for Speed Heat
 
  You’ll find almost all the contemporary Need for Speed games available on EA Play membership, but if we had to choose only one, we’d pick Need for Speed Heat. It combines the cars and racing system of Payback and the police chases of Most Wanted ‘05 to create a unique experience.
@@ -56,18 +50,12 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Plants vs Zombies Garden Warfare 2
 
  The last thing people expected PopCap to pull off was an FPS game derived from the award-winning strategy game Plants vs Zombies. The original Garden Warfare was an unexpected hit FPS game when it came out. But the sequel builds on the original and improves the game with more characters, more content, and even a single-player mode.
 
  While level progression in the game might be tedious, and you would need a [PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Star Wars Jedi: Fallen Order
 
  Star Wars fans and non-Star Wars fans alike will enjoy playing as a displaced Jedi in Fallen Order. Its captivating story, challenging combat and level progression mechanic, rich music, and breathtaking platform-like world have earned this game many awards and nominations since its release in 2019.
@@ -76,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  This is definitely one of the more exciting adventure games on EA Play. In fact, we think this is the best single-player action-adventure game available on EA Play’s Play List for the PS5\. You should get it if you want an immersive single-player game with a challenging combat system, a well-written storyline, and a beautiful setting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. UFC 3
 
  EA Sports UFC 3 is the prequel to EA Sports UFC 4, and it’s one of the most realistic combat games out there. If you don’t want the hack-and-slash hyper magic from games like Mortal Kombat but would like some challenging but realistic 1v1 combat, then this is what you should opt for.
@@ -87,23 +72,17 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  As long as you stay away from the micro-transactions (AKA Ultimate Team) part of this game, you will enjoy it if you love combat sports. This version also gets commentary from Snoop Dogg in addition to the usual Joe Rogan.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## EA Play Is $5 Per Month of Unlimited Fun
 
  EA Play is one of the best ways to save money on a PS5\. With EA Play, you get to play video games that could cost you thousands of dollars, all for $5/month. You can also use it as a great opportunity to test out games you were hoping to buy to see if it’s worth the money to you.
 
  Load up some cash to your PSN Wallet, add a card, and buy an EA Play membership at least once in your PS5’s history. You have only $5 to lose.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,8 +91,17 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-retro-reel-upgrade-converting-photographs-to-videos/"><u>2024 Approved Retro Reel Upgrade Converting Photographs to Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>2024 Approved Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-steam-redownloading-tactics/"><u>Effective Steam Redownloading Tactics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-gpu-driver-for-gtx-750-ti/"><u>Fast GPU Driver for GTX 750 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-ps-console-to-joy-con-the-controller-bridge-explained/"><u>From PS Console to Joy-Con: The Controller Bridge Explained</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-oppo-k11x-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Oppo K11x</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-tecno-spark-10-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Tecno Spark 10 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/quick-start-video-chatting-technique-for-snapchat-pros/"><u>Quick-Start Video Chatting Technique for Snapchat Pros</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-for-sticky-mouse-scroll-issue/"><u>Solutions for Sticky Mouse Scroll Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-balancing-power-in-gaming-systems/"><u>The Art of Balancing Power in Gaming Systems</u></a></li>
+</ul></div>
 

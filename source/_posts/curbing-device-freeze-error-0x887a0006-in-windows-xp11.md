@@ -1,7 +1,7 @@
 ---
 title: Curbing Device Freeze (Error 0X887A0006) in Windows XP/11
-date: 2025-02-07T16:41:44.349Z
-updated: 2025-02-11T16:21:01.591Z
+date: 2025-03-01T19:26:36.688Z
+updated: 2025-03-02T21:21:45.775Z
 tags:
   - games
 categories:
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 ![The Run this program as administrator setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-compatibility-tab1.jpg)
 6. To save the settings, press the**Apply** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Then try playing your affected game to see if this potential solution makes a difference.
 
 ## 2\. Select Debug Mode in the NVIDIA Control Panel
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 2. Click the**Help** menu.  
 ![The Debug Mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-debug-mode-option.jpg)
 3. Select**Debug Mode** on the menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Repair the Files for Any Affected Games
 
@@ -69,10 +61,6 @@ For Epic Games:
 ![The Manage option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-manage-option.jpg)
 5. Press the**Verify** button, and wait for the verification process to finish.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Verify button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-verify-files-option-in-epic.jpg)
 
 ### How to Repair Games on Steam
@@ -85,10 +73,6 @@ For Steam:
 4. Click the**Local Files** tab to view more options.  
 ![The Verify integrity option in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/steams-verify-option.jpg)
 5. Select Steam’s**Verify integrity of game files** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Check If Your PC Uses the Right GPU for Affected Games
 
@@ -113,10 +97,6 @@ For Steam:
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Update Your GPU’s Driver
 
  The 0x887A0006 error message explicitly says that an issue has occurred with your PC’s display (graphics) adapter. That could mean there’s an outdated graphics driver on your PC that isn’t compatible with affected games. The probable solution in such a scenario is to update the driver for your PC’s GPU.
@@ -126,10 +106,6 @@ For Steam:
  Our guide for[updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Disable DirectX 12 in Any Affected Games
 
@@ -147,10 +123,6 @@ For Steam:
 ![The Additional Command Line Arguments checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-d3d11-command-line.jpg)
 6. Add**d3d11** in the text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Switch to the High-Performance Power Plan
 
  Error 0x887A0006 will more likely arise with the Power saver or Balanced power setting selected. Those power settings reduce PC performance for the sake of saving energy. So, try selecting the high-performance setting to ensure optimal gaming performance as follows:
@@ -161,23 +133,11 @@ For Steam:
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-option.jpg)
 4. Select the**High performance** option for the plan.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-radio-button.jpg)
 5. Input a plan title in the name box and click**Next** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Create** to add the plan.
 7. Select the new high-performance plan in the Power Options Control Panel applet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Don’t Overclock Your PC
 
@@ -229,18 +189,24 @@ For Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-change-the-destination-where-screenshots-are-saved-on-your-mac/"><u>[New] 2024 Approved How to Change the Destination Where Screenshots Are Saved on Your Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-speech-synthesis-simplified-from-ssa-to-compelling-srt-files/"><u>[Updated] 2024 Approved Speech Synthesis Simplified From SSA to Compelling SRT Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-tips-bringing-out-the-best-with-hdr-photography/"><u>2024 Approved IPhone Tips Bringing Out the Best with HDR Photography</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-rx-e-6700-xt-drivers-download-compatible-with-windows-11-10-and-7/"><u>AMD RX E 6700 XT Drivers Download - Compatible with Windows 11, 10 & 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-ancient-pcs-using-atlasos-technology/"><u>Boost Ancient PCs Using AtlasOS Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-your-steam-deck-with-essential-launcher-tools/"><u>Boost Your Steam Deck with Essential Launcher Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-imacs-influence-pc-gaming-paradigms/"><u>Can iMacs Influence PC Gaming Paradigms?</u></a></li>
-<li><a href="https://games-able.techidaily.com/champion-accessories-for-the-nintendo-switch-2024-selection/"><u>Champion Accessories for the Nintendo Switch (2024 Selection)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-expert-insights-optimized-video-downloading-software/"><u>In 2024, Expert Insights Optimized Video Downloading Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-4k-and-8k-media-playback-with-kmplayer-for-mac-an-in-depth-review-of-the-premier-mac-video-application/"><u>Mastering 4K and 8K Media Playback with KMPlayer for Mac - An In-Depth Review of the Premier Mac Video Application</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rediscovering-the-classics-msn-gamespy-and-winamp-a-trip-down-memory-lane/"><u>Rediscovering the Classics: MSN, GameSpy & Winamp - A Trip Down Memory Lane</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-advanced-chatbot-functions-in-sports/"><u>Unlocking Advanced Chatbot Functions in Sports</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/unveiling-the-truth-about-digital-wealth-advantages-and-drawbacks-of-cryptocurrency-analysis-by-yl-software/"><u>Unveiling the Truth About Digital Wealth: Advantages and Drawbacks of Cryptocurrency – Analysis by YL Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unveiling-secrets-of-hulu-recording-across-windowsmacosios/"><u>[New] 2024 Approved Unveiling Secrets of Hulu Recording Across Windows/MacOS/iOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-revised-interview-guidelines-for-captivating-listeners/"><u>[Updated] 2024 Approved Revised Interview Guidelines for Captivating Listeners</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-enrich-your-viewing-habit-with-essential-movie-channels/"><u>2024 Approved Enrich Your Viewing Habit with Essential Movie Channels</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-gaming-experience-fixing-frame-rate-drops-and-stuttering-in-avatars-frontiers-of-pandora/"><u>Boost Your Gaming Experience: Fixing Frame Rate Drops & Stuttering in Avatar's Frontiers of Pandora</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/conversione-on-line-senza-costi-trasforma-file-ppm-in-immagini-jpg-usando-movavi/"><u>Conversione On-Line Senza Costi: Trasforma File PPM in Immagini JPG Usando Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-apple-advantage-myth-6-anti-gaming-factors/"><u>Dissecting the Apple Advantage Myth: 6 Anti-Gaming Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/gear-evaluation-uniting-asus-tuf-proart-and-prime-insights/"><u>Gear Evaluation: Uniting Asus, Tuf, ProArt, and Prime Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-zte-nubia-flip-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on ZTE Nubia Flip 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovating-gaming-graphics-with-model-simplification/"><u>Innovating Gaming Graphics with Model Simplification</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/integrating-twitter-and-facebook-with-ease-for-2024/"><u>Integrating Twitter and Facebook with Ease for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-unleashed-extracting-world-data-post-unsubscription/"><u>Minecraft Unleashed: Extracting World Data Post-Unsubscription</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-ps5-home-screenscape/"><u>Optimize PS5 Home Screenscape</u></a></li>
+<li><a href="https://games-able.techidaily.com/prospective-buyers-guide-to-best-144hz-screens/"><u>Prospective Buyers' Guide to Best 144Hz Screens</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uarding-against-scams-as-you-seek-to-amass-one-million-youtube-watches/"><u>Safeguarding Against Scams as You Seek to Amass One Million YouTube Watches</u></a></li>
+<li><a href="https://games-able.techidaily.com/simply-shift-your-consoles-geographic-location/"><u>Simply Shift Your Console’s Geographic Location</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-fix-naraka-path-of-the-warriors-sudden-shutdown-issues/"><u>Troubleshooting Guide: How to Fix Naraka: Path of the Warrior's Sudden Shutdown Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-potential-with-the-ultimate-console-fix/"><u>Unleashing Potential with the Ultimate Console Fix</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-the-power-essential-redeeming-techniques/"><u>Unleashing the Power: Essential Redeeming Techniques</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-13t-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi 13T Pro on Mac?</u></a></li>
 </ul></div>
 

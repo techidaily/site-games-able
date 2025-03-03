@@ -1,7 +1,7 @@
 ---
 title: Adventure Awaits in These 7 Terminal Game Picks
-date: 2024-08-08T09:09:33.732Z
-updated: 2024-08-09T09:09:33.732Z
+date: 2025-03-01T22:42:45.676Z
+updated: 2025-03-02T21:54:24.349Z
 tags:
   - games
 categories:
@@ -18,28 +18,8 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 
  And if you have some spare time, but don't want to fire up the latest open-world, immersive gore-fest, you can open a terminal and have fun with these command-line games for Linux.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. doom-ascii
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![playing Doom in the Linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/playing-doom-in-the-linux-terminal.jpg)
 
  Doom is possibly the best-known first-person shooter ever created, and was insanely popular at schools and campuses throughout the 1990s.
@@ -70,9 +50,6 @@ You can now launch solitaire-tui by typing:
 
 `solitaire`
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Conway's Game of Life
 
 ![conway game of life in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/conway-game-in-progress.jpg)
@@ -85,9 +62,6 @@ You can now launch solitaire-tui by typing:
 
 ## 4\. nInvaders
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![ninvaders in linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ninvaders-in-linux-terminal.jpg)
 
  nInvaders is a reimagining of the classic Space Invaders arcade games—one of the first and most successful video games ever.
@@ -104,9 +78,6 @@ You can install nInvaders on Debian-based systems with:
 
 ## 5\. Gambit
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![gambit chessboard with checkmate imminent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gambit-chessboard-with-checkmate-imminent.jpg)
 
  Chess is one of the greatest adversarial games ever invented and pits strategic thinkers against each other in a battle of wits.
@@ -135,9 +106,6 @@ Type a five-letter word to begin and see how good your score is!
 
 ## 7\. Tetris
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tetris in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tetris-in-the-linux-terminal.jpg)
 
  Tetris is a quick time-killer that has been around since 1985 and holds the record for the most ported game ever, having been adapted for 65 different platforms.
@@ -146,21 +114,15 @@ Type a five-letter word to begin and see how good your score is!
 
  While it sounds simple, working out the optimum rotation can be difficult at higher difficulty levels.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## There’s No Shortage of Terminal Games on Linux
 
  This selection of games for your Linux terminal is great if you just want to waste some time. But if you're playing command-line games because your Linux PC has poor performance, there are a variety of ways to increase the framerate and your gaming experience.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,6 +131,18 @@ Type a five-letter word to begin and see how good your score is!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-curating-youtube-music-experiences/"><u>[New] 2024 Approved Curating YouTube Music Experiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lock-and-load-effortless-profile-url-addition-on-tiktok/"><u>[Updated] Lock-and-Load Effortless Profile URL Addition on TikTok</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-meme-mechanic-generating-online-engagement-through-videos/"><u>2024 Approved The Meme Mechanic Generating Online Engagement Through Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/considerations-and-precautions-choosing-the-right-handheld-videogame-device/"><u>Considerations and Precautions: Choosing the Right Handheld Videogame Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-microsoft-store-glitches-error-x80072f17-guide/"><u>Correcting Microsoft Store Glitches: Error X80072F17 Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-gt-5-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme GT 5 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/msi-raider-xg7-ultimate-powerhouse-2500-pc-unleashed/"><u>MSI Raider XG7 Ultimate Powerhouse: $2500 PC Unleashed</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinpointing-important-aspects-in-a-game-joystick/"><u>Pinpointing Important Aspects in a Game Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-scarcity-lifted-anticipated-price-slashes/"><u>PlayStation 5 Scarcity Lifted: Anticipated Price Slashes?</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gameplay-top-five-mac-gaming-tips/"><u>Revolutionize Your Gameplay: Top Five Mac Gaming Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformation-gratuite-de-fichier-raw-en-image-png-guide-complet-avec-movavi/"><u>Transformation Gratuite De Fichier RAW en Image PNG : Guide Complet Avec Movavi</u></a></li>
+</ul></div>
 

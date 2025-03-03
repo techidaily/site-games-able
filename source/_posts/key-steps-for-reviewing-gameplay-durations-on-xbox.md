@@ -1,7 +1,7 @@
 ---
 title: Key Steps for Reviewing Gameplay Durations on Xbox
-date: 2025-02-10T23:43:49.438Z
-updated: 2025-02-11T19:37:47.270Z
+date: 2025-02-28T17:13:34.586Z
+updated: 2025-03-02T19:24:17.304Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About the Time Played Stat on Xbox
 
  Unfortunately, before you check your play-time for an Xbox game, you might want to be aware of some key aspects of the feature. And how, despite the**Time played** statistic being a staple feature of Xbox Series X|S game settings, this specific stat can be inconsistent.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 * While the**Time played** stat is always available through your Xbox's settings, not every game tracks this stat. If a game doesn't record how long you have played, the stat will simply read**0d 0h 0m** .
 
 ![A screenshot of the Time Played statistic on Xbox Series X showcasing no time played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/001-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
 
@@ -56,17 +48,9 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select the game you want to see the**Time played** stat for.
 
 ![A screenshot of the Achievements screen for Xbox games on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-selection.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Under**Progress** , highlight**Stats** .
 
@@ -92,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
 
  On paper, being able to intuitively check how long you've spent on every game you've played with your Xbox account straight from your Series X|S is a great and convenient feature. Unfortunately, the inaccuracies and issues with the statistic, whether through tracking inconsistencies or incompatibility can ruin it.
@@ -117,24 +97,14 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-elite-8s-imagery-merging-digital-software/"><u>[New] 2024 Approved Elite 8’S Imagery Merging Digital Software</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-gb-for-a-continuous-video-watched-daily-for-2024/"><u>[Updated] GB for a Continuous Video Watched Daily for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transition-smoothly-to-metaverse-living-with-these-tools/"><u>[Updated] Transition Smoothly to Metaverse Living with These Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ace-social-platforms-leveraging-chatgpt-for-improved-post-creation-and-engagement/"><u>Ace Social Platforms: Leveraging ChatGPT for Improved Post Creation and Engagement</u></a></li>
-<li><a href="https://games-able.techidaily.com/curtailing-game-bar-functionality-in-windows-11-edition/"><u>Curtailing Game Bar Functionality in Windows 11 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-your-gameplay-controllers-and-buttons-on-android/"><u>Enhancing Your Gameplay: Controllers and Buttons on Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-give-old-games-access-to-the-my-pictures-folder-on-windows-11/"><u>How to Give Old Games Access to the My Pictures Folder on Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-complete-overview-how-to-navigate-telegram-web/"><u>In 2024, Complete Overview How To Navigate Telegram Web</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/old-vs-new-game-compatibility-between-ps4-and-ps3/"><u>Old vs New: Game Compatibility Between PS4 & PS3</u></a></li>
-<li><a href="https://games-able.techidaily.com/reawakening-your-playstation-4-with-a-system-reset/"><u>Reawakening Your PlayStation 4 with a System Reset</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speedy-download-options-available-for-wacom-device-drivers/"><u>Speedy Download Options Available for Wacom Device Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/sweat-and-smile-top-7-sports-gaming-hits-for-iphone-and-android/"><u>Sweat & Smile: Top 7 Sports Gaming Hits for iPhone and Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-quintessential-selection-of-prime-twitch-downloader-apps/"><u>The Quintessential Selection of Prime Twitch Downloader Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-edge-in-online-gaming-best-fps-browser-games-revealed/"><u>The Ultimate Edge in Online Gaming: Best FPS Browser Games Revealed</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-xp-pen-artist-16-pro-tablet-showdown-features-performance-and-user-experience-evaluation/"><u>The XP-Pen Artist 16 Pro Tablet Showdown: Features, Performance & User Experience Evaluation</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/top-20-gratist-video-konverterar-apps-for-windows-11-8-and-7/"><u>Top 20 Gratist Video Konverterar Apps För Windows 11, 8 & 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-2024-playlist-top-tier-gaming-devices-reviewed/"><u>Ultimate 2024 Playlist: Top-Tier Gaming Devices Reviewed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-vision-navigating-video-degrees-with-ease-for-2024/"><u>YouTube Vision Navigating Video Degrees with Ease for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-slow-motion-photography-in-phantom-cameras/"><u>[New] Mastering Slow-Motion Photography in Phantom Cameras</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/boosting-your-browser-lightning-speed-profile-hunts-for-2024/"><u>Boosting Your Browser Lightning Speed Profile Hunts for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/direct-webcam-streaming-with-vlc/"><u>Direct Webcam Streaming with VLC</u></a></li>
+<li><a href="https://games-able.techidaily.com/exposing-pseudo-promotional-gaming-content/"><u>Exposing Pseudo Promotional Gaming Content</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigate-gpus-memory-footprint/"><u>Investigate GPU's Memory Footprint</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-to-your-personal-youtube-collection-for-2024/"><u>Navigating to Your Personal YouTube Collection for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/replicate-precious-gaming-moments-with-steam-reproductions/"><u>Replicate Precious Gaming Moments with Steam Reproductions</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-gamepad-controls-from-console-to-computer-137-chars/"><u>Transitioning Gamepad Controls From Console to Computer (137 Chars)</u></a></li>
 </ul></div>
 

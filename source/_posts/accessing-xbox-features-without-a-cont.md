@@ -1,7 +1,7 @@
 ---
 title: Accessing Xbox Features Without a Cont
-date: 2024-08-15T17:16:32.444Z
-updated: 2024-08-16T17:16:32.444Z
+date: 2025-02-23T20:17:13.388Z
+updated: 2025-03-02T16:43:56.865Z
 tags:
   - games
 categories:
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 
  While that is indeed a bummer, it’s not something to worry about. There are other ways you can control your Xbox One without a controller. We’ve discussed these below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Use Your Smartphone to Control Your Xbox
 
  You can control your Xbox console using the native Xbox app, available for [iOS](https://apps.apple.com/us/app/xbox/id736179781) and [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027778/https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass&hl=en&gl=US) . This app provides a convenient and user-friendly interface for managing your Xbox remotely.
@@ -42,14 +39,8 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 3. Next, you’ll be asked to turn on remote features. Make sure you’ve [enabled remote features on your Xbox One](https://www.makeuseof.com/how-to-connect-your-xbox-series-xs-to-your-mobile-device/) before proceeding. Then, tap**Next** to continue.
 
 ![Add an existing console option on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-an-existing-console-option-on-xbox-app.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn on remote features popup on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-on-remote-features-popup-on-xbox-app.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -64,9 +55,6 @@ Close
  Once you pass the test, the Xbox app will automatically detect your console and connect with it. Then, you can remotely play games on your mobile, control your console using the app and manage games on your console, all just by using your smartphone.
 
 ![Living room Xbox on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/living-room-xbox-on-xbox-app.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 
 ![Xbox remote control on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-remote-control-on-xbox-app.jpeg)
 
@@ -84,9 +72,6 @@ Close
 
  However, note that although you can use a keyboard on Home and while navigating the Xbox interface, the use of a mouse is not supported for this purpose. You can only use a mouse in games that allow mouse input. Therefore, it’s best to check individual games for mouse compatibility before connecting a mouse to your Xbox One console.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Use Digital Assistants to Control Your Xbox One
 
  Another alternative method to control your Xbox One console without a controller is by using digital assistants such as [Google Assistant](https://www.makeuseof.com/tag/what-is-google-assistant/) or Alexa. With the integration of these voice-activated assistants, you can conveniently navigate through menus, launch games, control media playback, and perform various other tasks using voice commands.
@@ -94,9 +79,6 @@ Close
  The process of setting up and using digital assistants on an Xbox One is pretty straightforward. Go to **Settings > Devices & connections > Digital assistants** and check the box next to**Enable digital assistants** . If you do not have a controller, you can also perform these actions using the keyboard shortcuts mentioned in the above section.
 
 ![xbox digital assistants menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/xbox-enable-digital-assistants.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on [how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and [how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
 
@@ -114,23 +96,17 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## You Can Now Control and Manage Your Xbox One Even Without a Controller
 
  Even if you lose or encounter issues with your Xbox One controller, alternative methods are available to control your console. You can use the Xbox app on your smartphone, connect a keyboard and mouse, or utilize digital assistants like Google Assistant or Alexa to manage your Xbox console.
 
  Each method offers its advantages and allows you to navigate menus, launch games, control media playback, and perform various tasks. While these alternatives may not provide the experience of a physical controller, they are still viable solutions that help you enjoy your Xbox until you get a new controller.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,8 +115,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-remedies-to-overcome-helldivers-2-stubborn-bluescreen-errors/"><u>Effective Remedies to Overcome 'HellDivers 2' Stubborn Bluescreen Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-prefer-windows-11-over-windows/"><u>Gamers Prefer Windows 11 Over Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/hyperx-pulsefire-headphones-and-gaming-mouse-duo-ultimate-techie-partnership-reviewed-by-zdnet/"><u>HyperX Pulsefire Headphones & Gaming Mouse Duo - Ultimate Techie Partnership Reviewed by ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone SE (2022)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pioneering-patterns-screen-cast-with-loom-pro/"><u>In 2024, Pioneering Patterns Screen Cast with Loom Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-refinement-of-zoom-visual-clarity-techniques-and-strategies/"><u>In 2024, Refinement of Zoom Visual Clarity Techniques and Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-analysis-of-logitech-g-cloud-gaming-controller-near-perfection-amidst-challenges-a-comprehensive-zdnet-review/"><u>In-Depth Analysis of Logitech G Cloud Gaming Controller: Near Perfection Amidst Challenges - A Comprehensive ZDNet Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-for-fixing-an-absent-d3dx939dll-error-on-your-pc/"><u>Steps for Fixing an Absent d3dx9_39.dll Error on Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-labor-day-television-bargains-expert-picks-and-price-comparisons-zdnets-ultimate-guide/"><u>Top Labor Day Television Bargains : Expert Picks and Price Comparisons - ZDNet's Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/wireless-ps4-controller-pairing-with-iphone-a-step-by-step-guide-techradar/"><u>Wireless PS4 Controller Pairing with iPhone: A Step-by-Step Guide | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnet-unveils-the-nearly-flawless-shure-mv7-mic-a-game-changer-hybrid-device-tailored-for-content-creators/"><u>ZDNet Unveils the Nearly Flawless Shure MV7 Mic: A Game-Changer Hybrid Device Tailored for Content Creators</u></a></li>
+</ul></div>
 

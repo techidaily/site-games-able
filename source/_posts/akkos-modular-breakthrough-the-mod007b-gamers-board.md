@@ -1,7 +1,7 @@
 ---
 title: "Akko's Modular Breakthrough: The MOD007B Gamer's Board"
-date: 2024-08-08T09:08:32.409Z
-updated: 2024-08-09T09:08:32.409Z
+date: 2025-02-23T22:45:39.021Z
+updated: 2025-03-02T19:34:30.413Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ## Akko's Modular Breakthrough: The MOD007B Gamer's Board
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Akko MOD007B HE keyboard uses Hall Effect switches for customizable actuation distance, giving gamers an advantage.
@@ -112,9 +109,6 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Great-Looking Keyboard on the Surface
 
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
@@ -137,16 +131,10 @@ No
 
  The extra keycaps contain Japanese icons, but installing them could potentially mix up the perfect pink-and-white combination on the stock keys already. But they’re still a great option if you want to customize your keyboard further and have memorized the placement of non-alphanumeric keys.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
 
  Jowi Morales / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Akko MOD007B Means Serious Business Underneath
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
@@ -175,9 +163,6 @@ Related
 
  Jowi Morales / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Typing on Cloud Nine
 
  Aside from the advantages of Hall Effect keys, the Akko MOD007B also delivers an excellent typing feel. The keyboard itself uses a gasket mount for a soft and relaxed typing experience. And when you press on the keys hard, you’ll notice them sink into the case, especially for keys near the edges.
@@ -194,9 +179,6 @@ Related
 
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Confusing Multi-Mode Pairing
 
 ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
@@ -213,9 +195,6 @@ Related
 
 ## Questionable Battery Life
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
  Jowi Morales / MakeUseOf
@@ -226,9 +205,6 @@ Related
 
  Granted that this keyboard will most likely sit on your desk in wired mode, it’s still better to allow the user to switch off the keyboard when not using it. This will help save power, especially if you transport the keyboard in your bag (like when going to a LAN party or an on-site competition) and want to use it wirelessly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Your Keyboard for Gaming Victory
 
  Although these couple of issues will negatively impact niche users like me, they won’t affect most users. You can't ignore the benefits of a Hall Effect keyboard, especially if you take your matches seriously.
@@ -237,9 +213,6 @@ Related
 
  So, if you are or plan to be a serious gamer, the Akko MOD007B is an excellent choice for a primary keyboard. And, as long as you don’t frequently switch between Windows and Mac, it’s a great all-around keyboard, too.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B PC eCommerce Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/world-tour-tokyo-mod007b-pc-3-600x600.jpg)
 
 ##### AKKO MOD007B PC
@@ -314,14 +287,11 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/) [See at Amazon](https://www.amazon.com/dp/B0CP7CYWRY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031519&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fakko-mod007b-hall-effect-keyboard-review%2F&asc%5Fcampaign=Affiliate)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -330,6 +300,22 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-elevate-engagement-youtube-seo-must-haves/"><u>[New] 2024 Approved Elevate Engagement - YouTube SEO Must-Haves</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-scrutinizing-wirecast-plus-similar-tools/"><u>[New] Scrutinizing WireCast + Similar Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-15-nba-live-stream-techniques-for-2024/"><u>[Updated] Top 15 NBA LIVE STREAM Techniques for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-6-novel-chess-apps-to-challenge-your-skillset/"><u>Discover 6 Novel Chess Apps to Challenge Your Skillset</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-elgato-controls-fast-a-comprehensive-tutorial/"><u>Download Elgato Controls Fast: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-slow-gameplay-and-enhance-fps-on-watch-dogs-legion-expert-techniques/"><u>Fix Slow Gameplay & Enhance FPS on Watch Dogs: Legion – Expert Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x90s-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X90S Location by Number | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211352663-9781685681258-leve-fryktlost/"><u>Leve fryktløst | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/metaquest-3-review-entering-a-vr-renaissance/"><u>MetaQuest 3 Review: Entering a VR Renaissance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-have-samsung-smart-tv-apps-for-the-year-2024/"><u>Must-Have Samsung Smart TV Apps for the Year 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5s-hidden-web-awaits-how-to-find-it/"><u>PS5's Hidden Web Awaits - How to Find It?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-boundaries-asus-rog-allys-innovative-docking-solutions/"><u>Pushing Boundaries - ASUS ROG Ally's Innovative Docking Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-epic-clash-whos-king-of-emulators-on-the-rpi-batocera-or-retropie/"><u>The Epic Clash: Who's King of Emulators on the RPi – Batocera or RetroPie?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-comfortable-work-flooring-selection/"><u>Ultimate Comfortable Work Flooring Selection</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-combine-wmv-videos-for-free-top-5-tools/"><u>Updated Combine WMV Videos for Free Top 5 Tools</u></a></li>
+</ul></div>
 

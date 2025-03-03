@@ -1,7 +1,7 @@
 ---
 title: "A Brilliant Blend of Tradition and Innovation: Why Pi?"
-date: 2024-08-15T17:15:09.716Z
-updated: 2024-08-16T17:15:09.716Z
+date: 2025-02-25T20:14:48.204Z
+updated: 2025-03-02T20:36:27.254Z
 tags:
   - games
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  Here are some of the reasons to use a Raspberry Pi 5 for your retro gaming project, instead of previous models and other alternatives.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 1\. The Processor Is More Powerful
 
  Although the Raspberry Pi 5 improves on its predecessor in a number of ways, the processor is the most noticeable upgrade. The Raspberry Pi 5 sports a new application processor, the BCM2712, derived from the 28-nanometer BCM2711 (Raspberry Pi 4) with certain enhancements.
@@ -37,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  There will be two RAM options at release, 4GB and 8GB, but other variants should be available later. We might even see a 16GB RAM Raspberry Pi 5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 2\. The GPU Is Better
 
  The Raspberry Pi 5 features a Broadcom VideoCore VII GPU, up from the VideoCore VI found with the Raspberry Pi 4\. The VideoCore VII GPU supports OpenGL ES 3.1 and Vulkan 1.2, with fully open-source Mesa drivers from Igalia.
@@ -57,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  The Raspberry Pi 5 uses a new power management integrated circuit (PMIC) which provides up to 20A of current to power the Cortex-A76 and other digital logic in the BCM2712 application processor. The PMIC allows the Raspberry Pi to sport a shiny new real-time clock and an actual onboard power button. This means that you can make a [handheld Raspberry Pi gaming console](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) without having to mess around with the GPIO pins. You may be surprised to know that there are several [ways to turn on a Raspberry Pi](https://www.makeuseof.com/how-to-turn-on-a-raspberry-pi/) .
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. It Can Run DreamCast, GameCube, and PSP Games
 
  Since the Raspberry Pi 5 isn’t out yet and graphics driver support is still in the early stages, it is hard to say for sure what retro gaming consoles the Pi 5 will be able to emulate. Currently, the Raspberry Pi OS Bookworm is the most optimized operating system for the Raspberry Pi 5\. It is not yet available for download, but will ship with the Raspberry Pi 5.
@@ -68,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  We are keeping our fingers crossed that this may be the Raspberry Pi that is finally powerful enough to emulate PS2 games.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Cheaper Than Alternatives
 
  The Raspberry Pi has not lost its edge when it comes to pricing. Although there are more [powerful single-board computer alternatives](http://www.makeuseof.com/powerful-sbc-extra-computing-power/) on the market, the Raspberry Pi 5 is competitively priced. It is not the cheapest SBC, but it does maintain a fair balance between price and performance.
@@ -79,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  According to Eben Upton in the [Pi 5 launch announcement](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) , the company will “ring-fence all of the Raspberry Pi 5s we sell until at least the end of the year for single-unit sales to individuals, so you get the first bite of the cherry.” So, that should mitigate [Raspberry Pi availability issues](https://www.makeuseof.com/raspberry-pi-stock-levels-finally-improving/) early on.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Better Software Support Than Most Alternatives
 
 ![ODROID N2+ SBC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/odroidn2aplusa.jpg)
@@ -92,21 +76,15 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  Raspberry Pi, on the other hand, provides consistent long-term software support and drivers are usually patched upstream to maintain mainline kernel support. As a result, you will most likely be able to run your favorite retro game distribution on a Raspberry Pi. While the Raspberry Pi 5 will not be the most powerful single-board computer on the market, it will be one of the best-supported.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Best Raspberry Pi for Retro Gaming Yet
 
  Raspberry Pi 5 will be available for purchase in late October, shortly after the release of the official operating system for the single-board computer, Raspberry Pi OS Bookworm. Demand will be high for this board, so be sure to pre-order one as soon as possible.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,8 +93,20 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-12-best-idle-games-you-can-find-on-pc/"><u>[New] 2024 Approved Top 12 Best Idle Games You Can Find on PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-instantaneous-sharability-tweeting-videos-on-snapchat-network/"><u>[Updated] 2024 Approved Instantaneous Sharability Tweeting Videos on Snapchat Network</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-a-peek-into-vegaspros-future-for-2024/"><u>[Updated] A Peek Into VegasPro's Future for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/combining-rotating-and-fine-tuning-videos-with-android-tools-for-2024/"><u>Combining, Rotating & Fine-Tuning Videos with Android Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-breaking-down-barriers-for-windows-games-on-applesilicon/"><u>CrossOver: Breaking Down Barriers for Windows Games on AppleSilicon</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-simplicity-explore-idle-adventures/"><u>Embrace Simplicity: Explore Idle Adventures</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-lava-blaze-2-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Lava Blaze 2 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-inside-tips-from-toms-hardware-experts/"><u>Mastering Technology Choices - Inside Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-new-york-social-game-proven-8-techniques/"><u>Mastering the New York Social Game: Proven 8 Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-compilation-exceptional-8k-cameras-ranked/"><u>Ultimate Compilation Exceptional 8K Cameras Ranked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-block-alerts-cant-reach-via-imessage-what-next/"><u>Understanding Block Alerts: Can't Reach via iMessage – What Next?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/webm-tv/"><u>WebM 영상을 원료 공개된 인터넷 기회를 통해 쉽게 변환: 모바일에서 TV로</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-silent-controllers-win-out-on-ps5/"><u>Why Silent Controllers Win Out on PS5</u></a></li>
+</ul></div>
 

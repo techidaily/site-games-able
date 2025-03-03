@@ -1,7 +1,7 @@
 ---
 title: Navigating Controllers for Switch Games via Ryujinx
-date: 2025-02-10T23:37:55.680Z
-updated: 2025-02-11T22:03:56.500Z
+date: 2025-02-26T16:29:16.316Z
+updated: 2025-03-02T16:06:16.005Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About Ryujinx Before Using a Controller
 
  Instead of diving straight ahead to connecting and mapping your controller, you need to know a few key features of Ryujinx and its controller mapping beforehand. These features can be defined by the following:
@@ -37,15 +33,7 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 ![A photograph of retro games and gaming consoles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stock-retro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Map a PlayStation, Xbox, or Third-Party Controller in Ryujinx
 
@@ -68,15 +56,7 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Customize Your Ryujinx Controller Settings
 
@@ -113,22 +93,22 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-step-by-step-seamlessly-upgrading-to-macos-11-big-sur/"><u>[New] In 2024, Step-by-Step Seamlessly Upgrading to macOS 11 Big Sur</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unveiling-the-secrets-of-apple-music-in-videos/"><u>[New] In 2024, Unveiling the Secrets of Apple Music in Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-maximizing-wealth-with-smart-advertising-tactics-on-vimeo-for-2024/"><u>[New] Maximizing Wealth with Smart Advertising Tactics on Vimeo for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-soundtrack-synthesis-crafting-the-perfect-youtube-list/"><u>2024 Approved Soundtrack Synthesis Crafting the Perfect YouTube List</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-the-score-what-should-a-steam-user-care-about/"><u>Beyond the Score: What Should a Steam User Care About?</u></a></li>
-<li><a href="https://games-able.techidaily.com/bootlegging-game-boy-games-using-linux-tools/"><u>Bootlegging Game Boy Games Using Linux Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/breezy-bonuses-limited-time-gaming-perks/"><u>Breezy Bonuses: Limited-Time Gaming Perks</u></a></li>
-<li><a href="https://games-able.techidaily.com/bringing-back-lost-ps5-game-access/"><u>Bringing Back Lost PS5 Game Access</u></a></li>
-<li><a href="https://games-able.techidaily.com/building-the-ultimate-gaming-beast-key-parts/"><u>Building the Ultimate Gaming Beast: Key Parts</u></a></li>
-<li><a href="https://games-able.techidaily.com/business-systems-versus-playstation-efficacy/"><u>Business Systems Versus PlayStation Efficacy</u></a></li>
-<li><a href="https://games-able.techidaily.com/captivating-audiences-through-twitch-streaming-on-phone/"><u>Captivating Audiences Through Twitch Streaming on Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/collaborative-constructions-best-group-play-techniques-in-minecraft/"><u>Collaborative Constructions: Best Group Play Techniques in Minecraft</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/download-and-stream-videos-anytime-top-alternatives-to-keepvid-for-pc-and-mac-users/"><u>Download and Stream Videos Anytime: Top Alternatives to KeepVid for PC & Mac Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/h264h2aturate-h265/"><u>H.264にリマスタリング：H.2aturate H.265ビデオファイルを無料で改質する方法！</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-x100-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo X100</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peeking-into-the-world-of-shap-explainer-by-openai/"><u>Peeking Into the World of SHAP Explainer by OpenAI</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unique-angle/"><u>Unique Angle</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-from-video-to-music-selecting-the-cheapest-online-converters/"><u>[New] In 2024, From Video to Music Selecting the Cheapest Online Converters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-zero-to-hero-creating-an-online-gaming-empire/"><u>[Updated] From Zero to Hero Creating an Online Gaming Empire</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-early-stage-youtube-wisdom-sidestep-these-8-common-mistakes/"><u>[Updated] In 2024, Early-Stage YouTube Wisdom Sidestep These 8 Common Mistakes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-podcast-style-unboxing/"><u>2024 Approved The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-vr-pricing-top-four-expensive-elements-explored/"><u>Decoding VR Pricing: Top Four Expensive Elements Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gaming-on-xbox-with-the-ultimate-plan/"><u>Elevate Gaming on Xbox With the Ultimate Plan</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-component-shortfall-problem-on-oses/"><u>Eliminating Component Shortfall Problem on OSes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ensuring-long-term-access-to-itunes-videos/"><u>Ensuring Long-Term Access to iTunes Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-quests-await-in-the-top-10-free-non-paid-games/"><u>Epic Quests Await in the Top 10 Free, Non-Paid Games</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-12-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 12 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unlocking-the-world-of-sound-on-ios-apple-point-and-click-guide/"><u>In 2024, Unlocking the World of Sound on iOS Apple' Point-and-Click Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/inexpensive-gpus-deliver-hd-graphics/"><u>Inexpensive GPUs Deliver HD Graphics</u></a></li>
+<li><a href="https://games-able.techidaily.com/mac-gaming-triumphs-except-for-the-unseen-restrictions-in-fortnite/"><u>Mac Gaming Triumphs – Except for the Unseen Restrictions in Fortnite</u></a></li>
+<li><a href="https://games-able.techidaily.com/nebula-forges-discovering-elite-gaming-systems/"><u>Nebula Forges: Discovering Elite Gaming Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-horizontal-fix-on-laptop-screens-quick-and-painless/"><u>Smooth Horizontal Fix on Laptop Screens: Quick & Painless</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transforming-mpeg-into-mp3-exploring-online-services-vs-computer-applications/"><u>Transforming MPEG Into MP3: Exploring Online Services Vs. Computer Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-a-superior-gameplay-experience-with-these-5-reasons-to-purchase/"><u>Unleash a Superior Gameplay Experience with These 5 Reasons to Purchase!</u></a></li>
 </ul></div>
 

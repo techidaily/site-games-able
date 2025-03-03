@@ -1,7 +1,7 @@
 ---
 title: 7 Reasons Why You Should Ignore Ray Tracing in Video Games
-date: 2024-08-15T17:15:49.772Z
-updated: 2024-08-16T17:15:49.772Z
+date: 2025-02-28T18:33:16.278Z
+updated: 2025-03-02T23:14:37.318Z
 tags:
   - games
 categories:
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 ## 2\. Ray Tracing Requires Expensive Hardware
 
 ![Graphics card lying on a wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rtx-graphics-card-lying-on-a-wooden-desk-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ray tracing can be very taxing on the graphics card, so you'll need a GPU that has enough horsepower to handle it at higher resolutions. The only problem with that is the fact that graphics card pricing is a tough pill to swallow these days.
 
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
  The interesting thing is that you can easily [secure parts for a well-rounded PC](https://www.makeuseof.com/well-rounded-pc-buying-guide/) for a decent price. However, ray tracing can throw a spanner into the works and increase your initial costs.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 3\. The Experience With Ray Tracing Varies From Title to Title
 
  Let's say you decide to stomach the costs and [buy a powerful graphics card](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) . Great, you'll certainly get better performance in games along with excellent visuals. The only problem is that your experience won't be consistent across the board. It's up to the developers how to implement the technology, and each game will require a different level of attention.
@@ -64,15 +58,9 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
  DLSS works great on 1440p and 4K monitors, but the loss of detail is more noticeable on 1080p monitors. Considering 1080p is still the most common resolution for PC gaming, that's not a good look. The upscaling can also cause bugs or graphical artifacts in some games if not optimized correctly. Much like ray tracing, DLSS still needs time to mature.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. A Good Number of GPUs Don't Support Ray Tracing
 
 ![Man updating game graphics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-updating-game-graphics.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another big problem with ray tracing is the fact that only certain graphics cards will support the feature. If you have an older NVIDIA GTX graphics card instead of an RTX one, then you'll be left without ray-tracing. So, the only solution you're left with is to upgrade.
 
@@ -86,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
  However, ray tracing can be used for more than reflections. You can use it for global illumination, shadows, refractions, and other lighting effects. Unfortunately, most games just use traditional rasterization for visuals and bring out ray tracing for certain scenes. This circles back to the inconsistent experience and lack of optimization.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Ray Tracing Needs More Time in the Oven
 
  Many gimmicks have tried to take the gaming industry by storm, and most of them failed. 3D Gaming, the Kinect, and the DualShock 4's touchpad immediately come to mind. However, while ray tracing isn't something to fall head over heels for right now, it will improve in the future.
@@ -97,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: Why Is Ray Tracing So Demanding?
 
  By the nature of [how ray tracing works](https://www.makeuseof.com/what-is-ray-tracing/) , it is very taxing on your GPU. This is because rendering light and shadow in video games is quite difficult and will use up a lot of the processing power of your hardware. But on the bright side, ray tracing does make light and reflections appear more realistic.
@@ -108,21 +90,15 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
  Because ray tracing emulates how light refracts and reflects in the real world, playing a game with ray tracing makes the environment feel alive and representative of real life. Alternatively, if you play a game without ray tracing, you will probably notice static lighting or uncanny environments, which can detract from the fantasy of gaming.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: Is Ray Tracing Worth It if You Run Your Games at 4K?
 
  Running your games at 4K resolution may improve your visuals, but enabling ray tracing alongside 4K visuals will drastically lower your frame rate unless you have a high-end GPU. Even then, the performance of your games will vary from title to title, and you may need to enable upscaling through DLSS in supported games to accommodate for the performance drop.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,8 +107,19 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-creating-captivating-360-footage-for-social-media-sharing-for-2024/"><u>[New] Creating Captivating 360 Footage for Social Media Sharing for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-budgeting-essentials-for-your-music-video/"><u>2024 Approved Budgeting Essentials for Your Music Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cropped-frames-in-media-pro-whats-the-cause/"><u>Cropped Frames in Media Pro What's the Cause?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-mute-mode-in-zoom-on-windows-and-mac-audio-recovery-tips-inside/"><u>Eliminate Mute Mode in Zoom on Windows & Mac – Audio Recovery Tips Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-hype-unveiling-nintendo-switch-20/"><u>Handheld Hype: Unveiling Nintendo Switch 2.0?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-vivo-x-flip-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Vivo X Flip.</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-boosters-for-x-series-s/"><u>Mastering Xbox Boosters for X Series S</u></a></li>
+<li><a href="https://games-able.techidaily.com/promoting-defections-and-espionage/"><u>Promoting Defections and Espionage</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transforma-archivos-mp4-a-animaciones-gif-sin-costo-en-linea-con-movavi/"><u>Transforma Archivos MP4 a Animaciones GIF Sin Costo - En Línea Con Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-on-ps5-networked-gameplay/"><u>Turn On PS5 Networked Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-streak-started-here-elevate-windows-gaming-speed/"><u>Winning Streak Started Here: Elevate Window's Gaming Speed</u></a></li>
+</ul></div>
 

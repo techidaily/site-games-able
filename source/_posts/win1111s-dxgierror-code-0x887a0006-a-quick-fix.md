@@ -1,7 +1,7 @@
 ---
 title: "Win11/11's DXGI_ERROR (Code 0X887A0006): A Quick Fix"
-date: 2025-02-08T23:29:25.808Z
-updated: 2025-02-11T17:05:37.031Z
+date: 2025-02-25T17:48:53.864Z
+updated: 2025-03-02T19:18:53.241Z
 tags:
   - games
 categories:
@@ -63,14 +63,6 @@ For Epic Games:
 
 ![The Verify button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-verify-files-option-in-epic.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Repair Games on Steam
 
 For Steam:
@@ -81,10 +73,6 @@ For Steam:
 4. Click the**Local Files** tab to view more options.  
 ![The Verify integrity option in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/steams-verify-option.jpg)
 5. Select Steam’s**Verify integrity of game files** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Check If Your PC Uses the Right GPU for Affected Games
 
@@ -109,14 +97,6 @@ For Steam:
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Update Your GPU’s Driver
 
  The 0x887A0006 error message explicitly says that an issue has occurred with your PC’s display (graphics) adapter. That could mean there’s an outdated graphics driver on your PC that isn’t compatible with affected games. The probable solution in such a scenario is to update the driver for your PC’s GPU.
@@ -126,10 +106,6 @@ For Steam:
  Our guide for[updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Disable DirectX 12 in Any Affected Games
 
@@ -160,10 +136,6 @@ For Steam:
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-radio-button.jpg)
 5. Input a plan title in the name box and click**Next** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Create** to add the plan.
 7. Select the new high-performance plan in the Power Options Control Panel applet.
 
@@ -172,10 +144,6 @@ For Steam:
  Overclocking GPUs or CPUs (central processors) is one of the more common causes of error 0x887A0006\. Have you overclocked your PC with overclocking software like CPU Tweaker, AMD Ryzan Master, or MSI Afterburner in any way? If so, it’s recommended you disable (undo) any overclocking you’ve applied by restoring default system values with whatever overclock software you utilize.
 
  You can disable NVIDIA GPU overclocking with the method outlined for resolution two. However, that option won’t be available on PCs with AMD graphics cards. Nor will it be of any use for users who’ve overclocked CPUs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Edit the GraphicsDrivers Registry Key
 
@@ -188,19 +156,11 @@ For Steam:
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-dword-option.jpg)
 4. Type**TdrLevel** inside the DWORD’s text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Double-click**TdrLevel** to view a**Value data** box for that DWORD.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-edit-dword-value-box.jpg)
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
 
 7. Close the Regedit app, and then restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11\. Reinstall the Game That's Crashing
 
@@ -229,17 +189,18 @@ For Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-essential-guide-to-dslr-and-live-streaming-on-computers-for-2024/"><u>[New] Essential Guide to DSLR and Live Streaming on Computers for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-13-mini-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 13 mini to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blending-images-for-a-captivating-visual-journey-for-2024/"><u>Blending Images for a Captivating Visual Journey for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/dont-let-your-budget-be-a-wrong-choice-for-oled-screen/"><u>Don't Let Your Budget Be a Wrong Choice for OLED Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-cryptic-crimes-with-ai-partners-in-games/"><u>Explore Cryptic Crimes with AI Partners in Games</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-xr-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone XR Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://discover-data.techidaily.com/high-definition-wallpapers-and-backgrounds-featuring-liverpool-fc-premium-graphics-by-yl-computing/"><u>High-Definition Wallpapers & Backgrounds Featuring Liverpool FC - Premium Graphics by YL Computing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-unique-locations-enhancing-youtube-traction/"><u>In 2024, Unique Locations Enhancing YouTube Traction</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/insightful-analysis-of-modifying-photographic-genders-on-social-platforms/"><u>Insightful Analysis of Modifying Photographic Genders on Social Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-enhanced-interface-the-big-picture/"><u>Steam's Enhanced Interface: The Big Picture</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-it-up-gaming-with-a-lens-twist/"><u>Switch It Up: Gaming with a Lens Twist</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-guide-to-top-10-tiktok-gamers-for-2024/"><u>The Ultimate Guide to Top 10 TikTok Gamers for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unlock-advanced-capturing-a-guide-to-aiseesoft-screen-recorder-use/"><u>[New] Unlock Advanced Capturing A Guide to Aiseesoft Screen Recorder Use</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-a-complete-strategy-for-superior-animoji-use-on-iphone-x/"><u>[Updated] 2024 Approved A Complete Strategy for Superior Animoji Use on iPhone X</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/4-effective-methods-for-slide-embedding-from-youtube-for-2024/"><u>4 Effective Methods for Slide Embedding From YouTube for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722900585691-discover-the-correct-sequence-watching-star-wars-saga-on-disneyplus/"><u>Discover the Correct Sequence: Watching 'Star Wars' Saga on Disney+</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-gaming-duo-on-mobile-top-15/"><u>Discover the Ultimate Gaming Duo on Mobile (Top 15)</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-gaming-on-xbox-without-the-d-pad/"><u>Effortless Gaming on Xbox Without the D-Pad</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevate-your-content-with-expertly-crafted-360-videos-for-fb-for-2024/"><u>Elevate Your Content with Expertly Crafted 360 Videos for FB for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-game-to-play-streamlining-your-steam-deck-launchers/"><u>From Game to Play: Streamlining Your Steam Deck Launchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-disruption-fixes-for-noisy-xbox-controller/"><u>Overcoming Disruption: Fixes for Noisy Xbox Controller</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rapid-races-recap-olympic-2022-short-track-sprints-for-2024/"><u>Rapid Races Recap Olympic 2022 Short-Track Sprints for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reality-or-review-diving-into-gaming-score-skepticism/"><u>Reality or Review? Diving Into Gaming Score Skepticism</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-your-system-jump-on-nvidias-new-rtx-trend/"><u>Should Your System Jump on Nvidia's New RTX Trend?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 12 mini | Dr.fone</u></a></li>
 </ul></div>
 

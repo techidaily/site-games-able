@@ -1,7 +1,7 @@
 ---
 title: "AMD's Next-Gen Graphics: RDNA 3.5 & Release Forecast"
-date: 2024-08-08T09:09:11.116Z
-updated: 2024-08-09T09:09:11.116Z
+date: 2025-02-25T16:57:45.945Z
+updated: 2025-03-02T17:38:27.059Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
 ## AMD's Next-Gen Graphics: RDNA 3.5 & Release Forecast
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * AMD is developing the RDNA 3.5 GPU architecture, which will be used as an integrated GPU solution for mobile APUs in handhelds and laptops.
@@ -27,16 +24,10 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
  AMD put its best foot forward with RDNA 3 introduced in its RX 7000 GPU lineup. However, considering just how big of a leap Nvidia made with Ada Lovelace on RTX 40-Series GPUs, AMD's upcoming RDNA 3.5 has some big shoes to fill.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is AMD RDNA 3.5?
 
  While AMD has been tight-lipped about the specifics, RDNA 3.5 is its new GPU architecture that's somewhere between [RDNA 3, AMD's Ada Lovelace competitor,](https://www.makeuseof.com/what-is-rdna-3/) and the upcoming RDNA 4\. It'll most likely be used as an integrated GPU (iGPU) solution for mobile APUs for handhelds and laptops.[Accelerated Processing Units combine a CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) into a single chip for efficiency and to deliver other benefits.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AMD Radeon RX 7900 XTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rx-7900-xtx.jpg)
 
  Image Credit:[AMD](https://www.youtube.com/watch?v=XAGFS8d%5FqLw)
@@ -45,27 +36,18 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
  All the information available about RDNA 3.5 suggests that it's AMD's answer to modern dedicated mobile GPUs. Whether we'll see a standalone GPU with RDNA 3.5 architecture also remains a mystery. That said, if AMD decides to refresh RDNA 3 before RDNA 4 launches, it might be based on RDNA 3.5, so the possibility of a standalone GPU isn't completely out of the water.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## When Will RDNA 3.5 Launch?
 
  Similar to the architecture description, AMD has not revealed an official launch date for the RDNA 3.5 architecture. However, considering that RDNA 3.5 has been confirmed to be a part of the Ryzen 8000 Granite Ridge processors and the Ryzen 8000 Strix Point APUs, we expect a launch in 2024\. Other than the two aforementioned product lines, it's likely that we'll see an RDNA 3 refresh using RDNA 3.5 architecture.
 
  AMD often launches CPUs at CES (the Consumer Electronics Show held annually in January), so there's a chance RNDA 3.5 will be introduced to the world in January 2024\. Other than that, it's anybody's guess when AMD will announce the new architecture.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Performance Improvements Will RDNA 3.5 Bring Over RDNA 3?
 
  With the limited information available, it's hard to tell how much of a lead RDNA 3.5 will be over previous RDNA generations, namely RDNA 3 and 2\. However, we can take a look at the CPUs and APUs that RDNA 3.5 will be launching with to get an idea of how it'll perform.
 
  An HWiNFO screenshot posted on [Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php) details a Ryzen 8000 series APU with 16 RDNA 3.5 GPU cores and 12 Zen 5 CPU cores in a mixed configuration. Other features include the average processor clock speed of 2.12 GHz in addition to 32GB of LPDDR4 6400 MHz RAM and a TDP of 45W.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
 
  Image Credit:[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php)
@@ -78,14 +60,11 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
  One of AMD's biggest advantages over Intel is integrated RDNA graphics in its processors. Provided RDNA 3.5 lives up to the hype, the GPU architecture can render lower-end GPUs obsolete and will help AMD regain some of the market share it has lost to Intel.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,6 +73,26 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-macs-finest-the-leading-free-art-programs/"><u>[New] 2024 Approved Mac's Finest - The Leading Free Art Programs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-unleash-the-power-of-memes-with-twitter-video-to-gif-transformation-for-2024/"><u>[New] Unleash the Power of Memes with Twitter Video-to-GIF Transformation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-the-best-video-footage-with-gopro/"><u>2024 Approved Unleashing the Best Video Footage with GoPro</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-responsible-gaming-ambiance-with-ps5/"><u>Crafting a Responsible Gaming Ambiance with PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-convincing-steam-reviews-a-step-by-step-guide/"><u>Crafting Convincing Steam Reviews: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-to-resolve-your-realtek-hd-driver-concerns-today/"><u>Easy Steps to Resolve Your Realtek HD Driver Concerns Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-missing-disc-drive-on-xbox-s/"><u>Exploring the Missing Disc Drive on Xbox S</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-download-and-update-amd-video-drivers-easily/"><u>How to Download and Update AMD Video Drivers Easily</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-effortlessly-share-vimeo-video-on-instagram-for-2024/"><u>How to Effortlessly Share Vimeo Video on Instagram for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mini-pc-vs-desktop-pc-what-should-you-buy/"><u>Mini PC Vs. Desktop PC: What Should You Buy ?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-game-mashup-top-20-speedy-players-ready-to-go-androidiphone/"><u>Mobile Game Mashup: Top 20 Speedy Players Ready to Go Android/iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-elgatos-latest-stream-deck-options/"><u>Navigating Through Elgato's Latest Stream Deck Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-monitor-safety-lenses/"><u>Optimal Monitor Safety Lenses</u></a></li>
+<li><a href="https://article-tips.techidaily.com/premier-sounds-selections-for-video-creation/"><u>Premier Sounds Selections for Video Creation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/simplified-steps-for-effective-telegram-web-use/"><u>Simplified Steps for Effective Telegram Web Use</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-worldwide-cut-learning-costs-by-nearly-96-this-year/"><u>Speak Worldwide - Cut Learning Costs by Nearly 96% This Year</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-11-game-discount-sites-to-buy-video-games-cheaply/"><u>The Top 11 Game Discount Sites to Buy Video Games Cheaply</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-moto-e13-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Moto E13</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-case-variations-explained/"><u>Xbox Case Variations Explained</u></a></li>
+</ul></div>
 

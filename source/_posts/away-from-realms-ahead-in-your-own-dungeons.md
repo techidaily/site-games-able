@@ -1,7 +1,7 @@
 ---
 title: Away From Realms, Ahead in Your Own Dungeons
-date: 2024-08-08T09:10:49.874Z
-updated: 2024-08-09T09:10:49.874Z
+date: 2025-02-26T20:41:13.663Z
+updated: 2025-03-02T23:40:43.091Z
 tags:
   - games
 categories:
@@ -16,16 +16,10 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
  If you’re taking the usual Minecraft hiatus, you won’t want to keep being charged for Minecraft Realms, but you also won’t want to lose your world. Here’s how to unsubscribe from Minecraft Realms and keep your world for future use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## How to Unsubscribe from Minecraft Realms on Bedrock and Java Edition
 
  In this guide, we’ll be using the Microsoft account to unsubscribe from Minecraft Realms. If you’re on a different platform on Bedrock Edition, you should still be able to find your subscription on your Microsoft account if you made the purchase with it. If you made the purchase using Google Play, PlayStation, Amazon, or iOS, you will need to find the subscription manangement settings on your respective platform.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Open Your Microsoft Order History
 
 ![Xbox Account main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/xbox-account-main-page.jpg)
@@ -36,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
  Alternatively, you can head directly to [Microsoft Services & Subscriptions](https://account.microsoft.com/services) which is where you’ll eventually end up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Manage Your Minecraft Realms Subscriptions and Unsubscribe
 
 ![Microsoft Account Orders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/microsoft-account-orders.jpg)
@@ -49,21 +40,12 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
  From there, click on the Minecraft Realms subscription**Manage** button on the right side.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Minecraft Java Realms Cancel Subscription button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-java-realms-cancel-subscription-button.jpg)
 
  This will open up a new page where you can find the**Cancel subscription** button.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## What Happens After Unsubscribing from Minecraft Realms?
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Pencil button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pencil-button-on-minecraft-realms-bedrock-edition.jpg)
 
  When you unsubscribe from Minecraft Realms, you won’t lose your access until the next billing cycle. You’ll be able to use your Realms until that date, but when it expires, you will lose a few things.
@@ -72,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
  You won’t lose your Realms world immediately, and the backups will still exist. However, the Realms servers will only keep them for 18 months. We’ll be covering how to download your Minecraft Realms backups for offline play or on [free Minecraft server hosting services](https://www.makeuseof.com/how-to-set-up-minecraft-server-free/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Download Your Minecraft Realms Worlds After Unsubscribing
 
  If you don’t want to lose your backups, you should download them locally. Here’s how to download your backups and find the files so you can use them elsewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Downloading Your World on Minecraft Java Edition
 
 ![Configure button Minecraft Realms Java Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/configure-button-minecraft-realms-java-edition.jpg)
@@ -102,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
 ### Downloading Your World on Minecraft Bedrock Edition
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Pencil button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pencil-button-on-minecraft-realms-bedrock-edition.jpg)
 
  To back up a Realm world on the Bedrock Edition, click Play. Then, on the Realms section, click the**pencil icon** on the Realm you want to back up.
@@ -118,10 +90,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Once you download your backup, it will be available in the single-player section for offline play.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Play on Realms and Export World Button Minecraft Bedrock edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/play-on-realms-and-export-world-button-minecraft-bedrock-edition.jpg)
 
  Clicking on the**pencil icon** beside the single-player downloaded backup will allow you to click**Play on Realm** in the future if you re-subscribe. Instead of finding the file on your device, you can also scroll down to the very bottom and click on**Export World** . This is much quicker as the Bedrock Edition’s world files are harder to find.
@@ -130,14 +98,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  There are probably plenty of large worlds we used to play with our friends in and wish we had saved them before they all disappeared. You never know when you’ll come back to Minecraft, but there’s always a chance that you and your friends will. Revisiting a world you haven’t seen in months or years is a unique feeling and we hope this guide will help you preserve your Minecraft Realms worlds for future use.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,6 +111,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-sea-to-sea-recording-best-action-cameras-for-anglers/"><u>2024 Approved Sea-to-Sea Recording Best Action Cameras for Anglers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-best-alternatives-for-microsofts-core-apps/"><u>Explore the Best Alternatives for Microsoft's Core Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-105-classic-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia 105 Classic to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mac-centric-review-the-complete-guide-to-screenflow-v4-for-2024/"><u>Mac-Centric Review The Complete Guide to ScreenFlow V4 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-privacy-settings-for-gaming-discussions/"><u>Mastering Privacy Settings for Gaming Discussions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/procase-laptop-sleeve-for-mac-mbac-pro-13-is-it-your-budget-friendly-shield/"><u>ProCase Laptop Sleeve for Mac MBAc Pro 13: Is It Your Budget-Friendly Shield?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-controller-not-working-how-to-fix-the-most-common-issues/"><u>PS4 Controller Not Working? How to Fix the Most Common Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-server-responses-achieving-faster-internet-connection/"><u>Reducing Server Responses: Achieving Faster Internet Connection</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-to-resolve-the-rpc-server-not-available-issue-on-windows-pcs/"><u>Solutions to Resolve the 'RPC Server Not Available' Issue on Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-all-games-altering-switch-regions/"><u>Unlock All Games: Altering Switch Regions</u></a></li>
+</ul></div>
 

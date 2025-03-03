@@ -1,7 +1,7 @@
 ---
 title: "Understanding Returns: Reversing Video Game Purchases, XS/X"
-date: 2025-02-08T17:50:50.084Z
-updated: 2025-02-11T21:38:25.988Z
+date: 2025-02-28T18:12:27.845Z
+updated: 2025-03-02T17:57:02.787Z
 tags:
   - games
 categories:
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 ![an Xbox game controller on a gradient background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/video-game-designer-feature.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While it is possible to return a digital game or product on the Xbox Series X|S, there are some limitations. The two main factors that can affect the success of your refund request are as follows:
 
 1\. You must request your refund within 14 days of the purchase date.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
  2\. You can’t have played the game in question for a significant amount of time.
 
  The definition of what exactly a ‘significant amount of time’ is isn’t explained on[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Request a Refund for a Digital Game on the Xbox Series X|S
 
@@ -65,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 ![Request a Refund Form Page Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/request-a-refund-form-page-microsoft.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6\. Enter the email address of the Microsoft account you used to make the purchase.
 
  7\. Press**Next** .
@@ -77,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 ![Review Details of Request a Refund Form Page Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/review-details-of-request-a-refund-form-page-microsoft.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your refund request will then be sent away for review, and you should expect an answer within 72 hours.
 
 ### What Happens if the Game I Want to Refund Isn’t Listed?
@@ -88,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
  There are several reasons why the game you want to refund isn’t listed on the returns page. If you would like more information on what items will or won't be available there, click**Why don't I see my purchase on the list?** It is worth noting that subscriptions and preorders don’t show up in that section, so that could be a contributing factor.
 
  In most cases, if the game in question doesn’t show up on the returns page, it is non-refundable for one reason or another. In that case, it might pay to go back and review the details of your purchase and make sure you are eligible for a refund.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Happens Once My Refund Request Is Accepted?
 
@@ -122,19 +102,16 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-mobile-photos-with-best-iphone-cameras-x-7plus/"><u>[New] 2024 Approved Mastering Mobile Photos with Best iPhone Cameras (X, 7+)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-ultimate-picture-narrative-craft-pro-edition/"><u>[New] In 2024, Ultimate Picture Narrative Craft - Pro Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-truthful-insights-into-recordcast-functionality/"><u>[New] Truthful Insights Into RecordCast Functionality</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-transforming-viewing-habits-with-fb-live-on-roku/"><u>[Updated] In 2024, Transforming Viewing Habits with FB Live on Roku</u></a></li>
-<li><a href="https://games-able.techidaily.com/camouflage-gaming-on-steam/"><u>Camouflage Gaming on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-change-the-background-on-your-ps5/"><u>Can You Change the Background on Your PS5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/case-studies-highlighting-successful-map-designs-that-effectively-integrate-functional-mapping-elements-with-aesthetic-considerations-eg-signage-in-public-s5/"><u>Case Studies Highlighting Successful Map Designs that Effectively Integrate Functional Mapping Elements with Aesthetic Considerations (E.g., Signage in Public Spaces).</u></a></li>
-<li><a href="https://games-able.techidaily.com/championship-edge-the-ultimate-7-iosandroid-sports-gaming-hits/"><u>Championship Edge: The Ultimate 7 iOS/Android Sports Gaming Hits</u></a></li>
-<li><a href="https://games-able.techidaily.com/command-chronicles-a-selection-of-top-11-immersive-games/"><u>Command Chronicles: A Selection of Top 11 Immersive Games</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/design-dynamics-font-application-in-adobe-after-effects/"><u>Design Dynamics Font Application in Adobe After Effects</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/discovering-pc-hardware-configuration-on-windows-expert-guide-by-yl-computing/"><u>Discovering PC Hardware Configuration on Windows - Expert Guide by YL Computing</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/ssdwindows-8-81-4/"><u>SSDへのWindows 8-8.1変換手順: 効率的4段階方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-baldurs-gate-overcoming-pc-game-crashes/"><u>Troubleshooting Baldur's Gate Ⅲ: Overcoming PC Game Crashes</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/zakonove-pripravene-pruvodectvi-jak-snadno-pokusit-sebe-oblasti-obrazovky-s-obs-movavi/"><u>Zákonové Přípravené Průvodectví Jak Snadno Pokusit Sebe Oblasti Obrazovky S OBS - Movavi</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhancing-photos-allure-expert-color-correction-steps/"><u>[Updated] In 2024, Enhancing Photos' Allure Expert Color Correction Steps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unveiling-income-insights-a-triple-step-technique-for-tracking-youtube-revenue-for-2024/"><u>[Updated] Unveiling Income Insights A Triple Step Technique for Tracking YouTube Revenue for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-repairing-ps4-pad-problems-with-ease/"><u>Efficiently Repairing Ps4 Pad Problems with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-your-mind-with-the-latest-nyt-brain-teaser-strands/"><u>Engage Your Mind with the Latest NYT Brain Teaser - Strands!</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-top-displays-analyzing-oled-amoled-and-lcd/"><u>Exploring Top Displays: Analyzing OLED, AMOLED and LCD</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-photo-retouching/"><u>In 2024, Mastering the Art of Photo Retouching</u></a></li>
+<li><a href="https://games-able.techidaily.com/lightgblade-27m2v-econogamer-monitor/"><u>LightGBlade 27M2V - EconoGamer Monitor!</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-bridging-the-real-and-simulated-divide-at-499/"><u>MOZA R5: Bridging the Real and Simulated Divide at $499</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210159671-9781777429713-sumi/"><u>Sumi | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-real-price-tag-on-complimentary-smartphones-offered-by-mobile-carriers-exposed-by-zdnet/"><u>The Real Price Tag on Complimentary Smartphones Offered by Mobile Carriers, Exposed by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-to-successfully-requesting-game-returns-on-steam/"><u>The Ultimate Walkthrough to Successfully Requesting Game Returns on Steam</u></a></li>
 </ul></div>
 

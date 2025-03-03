@@ -1,7 +1,7 @@
 ---
 title: "MemoMini: Portable, Vintage Game Hub"
-date: 2025-02-06T19:32:46.490Z
-updated: 2025-02-11T23:41:18.796Z
+date: 2025-02-23T17:56:05.198Z
+updated: 2025-03-02T23:16:11.024Z
 tags:
   - games
 categories:
@@ -132,10 +132,6 @@ Dual speakers, Bluetooth audio supported
 
 ![Left thumbstick controllers on Retroid Pocket 3+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-left.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While a flexible piece of kit, the Retroid Pocket 3+ encourages the latter approach. It's the third generation of the Retroid Pocket series, supporting 8-, 16-, and 32-bit console systems. You’re not limited to games from the 1980s and early 1990s with this device. Some serious retro gaming is possible, with support for emulation of games first seen on Sony PlayStation 1, Sega Saturn and Dreamcast, and Nintendo 64.
 
 There’s even Nintendo GameCube and Wii support.
@@ -183,10 +179,6 @@ There’s even Nintendo GameCube and Wii support.
 
  Emulation of these platforms is available via the RetroidLauncher interface, which appears upon first launch. The Retroid community maintains an[online spreadsheet of tested games](https://docs.google.com/spreadsheets/u/0/d/1Vf7SIS7ecWa%5FJ301h0mb2bxMWBMtKLvcpAFyaa5-LDc/edit?usp=sharing&pli=1) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Console Design and Specification
 
  Lightweight (235 grams) and easily pocketed at 184.7 x 81.4 x 24.2mm, the Retroid Pocket 3+ is smaller than a Nintendo Switch, and squatter than an Evercade EXP.
@@ -227,10 +219,6 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retroid Pocket 3+ shoulder buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-shoulder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once formatted, the microSD card can be configured with the necessary directories (this takes a single tap), then you can copy your ROMs copied to the platform-specific directory.
 
  You’re not done yet, though, as the individual emulator cores also need installing. This is done in the RetroArch software, which is a lot less attractive than the RetroidLauncher. Once done, however, you specify the ROM file path (required on the first use only), then launch your favorite retro games.
@@ -249,10 +237,6 @@ There’s even Nintendo GameCube and Wii support.
 
 ![RetroidLauncher software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/muo-reviews-retroid-pocket-3-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In short, you have to do the hard work of finding ROMs and transferring them to the console yourself. This, of course, is the ultimate legal get-out for the manufacturer. They don’t distribute ROMs, so they’re not at risk of prosecution for distributing copyrighted games without a license.
 
  Rather, the onus is on you, with your completely legitimate collection of self-ripped ROMs (or whatever).
@@ -265,19 +249,11 @@ There’s even Nintendo GameCube and Wii support.
 
  The USB-C port has all the usual controller support, and even supports keyboards if required.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Retroid Pocket 3+ Delivers the Ultimate Portable Retro Gaming Experience
 
  I was staggered by the range of emulation platforms available on this console. I had expected late Sega consoles, but I was unprepared for the possibility of PSP and Wii support. (In fact, I’ve heard that some Switch games will also run, but we need to keep quiet about that.)
 
 ![Retroid Pocket 3+ by a pool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-pool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The release of the Retroid Pocket 3+ has proved somewhat controversial in the retro gaming handheld emulation community. To all intents and purposes, it is a Retroid Pocket 3, but with more processing and RAM, and a higher price to match, represents a notable upgrade.
 
@@ -298,18 +274,22 @@ There’s even Nintendo GameCube and Wii support.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-webcam-video-mastery-edit-enhance-and-distribute/"><u>[New] In 2024, Webcam Video Mastery Edit, Enhance & Distribute</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ipad-screen-snapshot-strategies-for-2024/"><u>[Updated] IPad Screen Snapshot Strategies for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-art-of-logging-streaming-services-with-fidelity/"><u>2024 Approved The Art of Logging Streaming Services with Fidelity</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-visual-dictionary-understanding-online-social-symbolism/"><u>A Visual Dictionary: Understanding Online Social Symbolism</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/diagnosing-scanner-issues-why-isnt-your-device-responding-insights-by-yl-software-experts/"><u>Diagnosing Scanner Issues: Why Isn't Your Device Responding? Insights by YL Software Experts</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easy-methods-for-downloading-and-transforming-mahara-songs-to-various-videoaudio-formats/"><u>Easy Methods for Downloading and Transforming Mahara Songs to Various Video/Audio Formats</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficiently-capturing-twitch-broadcasts-the-5-best-downloader-apps/"><u>Efficiently Capturing Twitch Broadcasts: The 5 Best Downloader Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-every-aspect-top-accessories-for-the-steam-deck/"><u>Enhance Every Aspect: Top Accessories for the Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-chrome-freeze-with-games/"><u>Overcoming Chrome Freeze with Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps3-titles-on-a-ps4-possible/"><u>PS3 Titles on a PS4: Possible?</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-a-faulty-switch-repairs-or-exchange-choices/"><u>Tackling a Faulty Switch: Repairs or Exchange Choices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-y36i-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo Y36i Phone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/transform-your-webcam-footage-edit-and-export-tips/"><u>Transform Your WebCam Footage Edit & Export Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/pixelperfect-the-modern-recorder-diagnosis-for-2024/"><u>'PixelPerfect' The Modern Recorder Diagnosis for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-boost-your-bank-account-quickly-with-these-13-ways-to-profit-on-reddit/"><u>[New] 2024 Approved Boost Your Bank Account Quickly With These 13 Ways to Profit on Reddit</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-reestablishing-connection-with-dormant-obs-camera/"><u>[New] Reestablishing Connection with Dormant OBS Camera</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-step-by-step-guide-to-painless-iphone-screen-sharing/"><u>[Updated] 2024 Approved Step-by-Step Guide to Painless iPhone Screen Sharing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-canvasknotter-your-ultimate-photo-blend-tool/"><u>[Updated] CanvasKnotter Your Ultimate Photo Blend Tool</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-humorous-hacks-the-ultimate-guide-to-funny-memes/"><u>[Updated] In 2024, Humorous Hacks The Ultimate Guide to Funny Memes</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-gamewonders-google-play-beta-top-pc-selections/"><u>Explore Gamewonders: Google Play Beta Top PC Selections</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-internals-of-xbox-360-slim-through-dismantling/"><u>Exploring the Internals of Xbox 360 Slim Through Dismantling</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-tecno-spark-20-proplus-frp-bypass-by-drfone-android/"><u>In 2024, About Tecno Spark 20 Pro+ FRP Bypass</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-the-fun-youtube-rolls-out-new-compact-gaming-challenges/"><u>Join the Fun: YouTube Rolls Out New, Compact Gaming Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-power-choosing-between-phone-and-tablet-games/"><u>Pixel Power: Choosing Between Phone and Tablet Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-classic-pcs-with-innovative-atlasos/"><u>Revive Classic PCs with Innovative AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-ps5-game-removal-procedure/"><u>Simplified PS5 Game Removal Procedure</u></a></li>
+<li><a href="https://games-able.techidaily.com/starting-strong-in-virtual-battles-essential-configurations/"><u>Starting Strong in Virtual Battles: Essential Configurations</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-best-way-to-get-back-permanently-deleted-photos-on-your-iphone-without-losing-data/"><u>The Best Way to Get Back Permanently Deleted Photos on Your iPhone Without Losing Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-full-spectrum-of-ps5-gaming-by-mastering-ea-play-features/"><u>Unlock the Full Spectrum of PS5 Gaming by Mastering EA Play Features</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-avi-editor-for-windows-8-easily-edit-avi-files-on-pc/"><u>Updated AVI Editor for Windows 8 Easily Edit AVI Files on PC</u></a></li>
 </ul></div>
 

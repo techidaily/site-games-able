@@ -1,7 +1,7 @@
 ---
 title: "ATLASOS: Elevating Vintage Computer Gameplay"
-date: 2024-08-08T09:08:44.066Z
-updated: 2024-08-09T09:08:44.066Z
+date: 2025-02-24T18:55:00.223Z
+updated: 2025-03-02T23:31:34.242Z
 tags:
   - games
 categories:
@@ -39,19 +39,12 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
  If you're using Windows 11, you'll have to wait for a new version of AtlasOS that's underway for that OS—it might be available by the time you're reading this. Otherwise, you'll have to downgrade to Windows 10 or perform a fresh installation of Microsoft's previous OS to use it.
 
 1. Visit [AtlasOS official site](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fatlasos.net%2F) and click on**Getting started** .  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AtlasOS Official Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-official-site.jpg)
 2. Select the version of AtlasOS you want to download. As mentioned above, up to the time of writing, only**Atlas Windows 10** was available, with Atlas Windows 11 "coming soon".  
 ![AtlasOS Download Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-download-version.jpg)
 3. Download both the**AME Wizard** and**Atlas Playbook** from the next page. For ease of use, make a new folder, and save both files inside it.  
 ![AtlasOS Download AME Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-download-ame-wizard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Before We Continue, Back Up Your Data
 
  Although AtlasOS doesn't install a brand-new version of Windows and shouldn't affect your data or installed apps, it is a radical collection of tweaks for Windows to the point it feels like an alternative OS.
@@ -65,21 +58,12 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 1. Run your favorite file manager (or press**Windows Key** +**E** to launch Windows File Explorer) and navigate to the folder where you saved AtlasOS's**AME Wizard executable** and its**Playbook** for your version of Windows. Run the AME Wizard executable.  
 ![AtlasOS Run AME Wizard Beta in Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-run-ame-wizard-beta-in-windows-explorer.jpg)
 2. If AtlasOS's setup wizard doesn't present a loaded Playbook on the left of its window, drag and drop the one you downloaded there. With an appropriate Playbook loaded, AtlasOS's setup will ask you to**Disable Security** to "allow AME Wizard file system access". Click on**Run action** to do that.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AtlasOS Setup Disable Security Run Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-disable-security-run-action.jpg)
 3. AtlasOS's setup wizard will show you a button,**Open Windows Security** , which you can click to jump to that part of Windows settings quickly.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AtlasOS Setup Open Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-open-windows-security.jpg)
 4. **Turn off all four types of security measures** on the Windows Security settings page.  
 ![AtlasOS Disabling Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-disabling-windows-security.jpg)
 5. When done, AtlasOS's setup will detect the changes and inform you that "Windows Security is disabled", prompting you to close that settings window and move to the next step.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AtlasOS Windows Security is Disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-windows-security-is-disabled.jpg)
 
 1. AtlasOS is designed for a specific combination of a particular Windows version and some updates, and will inform you if those requirements aren't met. Usually, it will also offer the option to "**Prepare** (the)**System** " according to the conditions required by the loaded Playbook. Click on**Run action** to do that.  
@@ -87,14 +71,8 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 2. The setup wizard will start "Preparing (your) system" by installing, removing, or modifying components and settings. Your PC might restart during that part of the process, but apart from that, no user intervention should be required.  
 ![AtlasOS Setup Preparing System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-preparing-system.jpg)
 3. You will also have to**allow** the AME Wizard "**to make changes to your device** " for that part to work.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AtlasOS AME Wizard Beta User Account Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-ame-wizard-beta-user-account-control.jpg)
 4. If the AME Wizard prompts you to do so after that, or it fails, you should manually**download the latest updates** for your version of Windows.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AtlasOS Setup Next Windows Update Checking for Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-next-windows-update-checking-for-update.jpg)
 5. When, finally, AME Wizard reports that all "**Requirements** (are)**met** ", click on**Next** to proceed to the actual installation.  
 ![AtlasOS Setup Requirements Met Next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-requirements-met-next.jpg)
@@ -104,52 +82,28 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
  Up to now, your Windows installation is (mostly) untouched, and you can still cancel AtlasOS's installation. We must strongly suggest once more you take a complete Windows OS backup if you haven't done so yet, to be able to revert the changes that will be applied in the next steps.
 
 1. AtlasOS setup wizard will show you a typical license agreement. Click**Next** to proceed to the next step, or cancel if you've changed your mind about modifying your Windows installation.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![AtlasOS Setup Accept License Agreement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-accept-license-agreement.jpg)
 2. During the next step, AtlasOS's installer will extract needed resources and may also download additional files.  
 ![AtlasOS Setup Applying Playbook Extracting Resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-applying-playbook-extracting-resources.jpg)
 3. The installer might download resources like**.Net 3.5** ...  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![AtlasOS Setup Installing Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-installing-features.jpg)
 4. ...and remove what the loaded Playbook deems "useless fluff", like Microsoft's**OneDrive** cloud storage solution.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AtlasOS Setup Removing OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-removing-onedrive.jpg)
 5. AtlasOS will also "lose" a lot of system packages and turn off many services to "Lighten up" your OS.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![AtlasOS Setup Removing System Packages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-removing-system-packages.jpg)
 6. You'll also be given the option to choose how you deal with**Security Mitigations** . We won't dive into details about them, but you can consider them extra security software patches for older CPUs. If your CPU is newer (released within the last five years), it's (usually) better**not to disable them** . If your CPU is relatively old, by disabling Security Mitigations, you'll be trading reduced security for a boost in performance. It's your choice, but AtlasOS will automatically disable them if you don't answer within 5 minutes.  
 ![AtlasOS Setup Security Mitigations Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-security-mitigations-pro.jpg)
 7. When it's mostly done, AtlasOS wizard will inform you that it's "**Finalizing** (the)**configuration** ".  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![AtlasOS Setup Finalizing Configuration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-finalizing-configuration.jpg)
 8. After all steps are complete and all rules in AtlasOS's Playbook are applied, your PC should restart automatically.  
 ![AtlasOS Setup Playbook Complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-playbook-complete.jpg)
 9. Windows might have to perform a reconfiguration during the next startup.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Restart Updating Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-restart-updating-features.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Differences Between AtlasOS and Vanilla Windows
 
  AtlasOS's difference in responsiveness compared to "vanilla" Windows can be stunning, although that also depends on your hardware. It also has a cleaner aesthetic and feels simpler, closer to the classic Windows XP.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AtlasOS Desktop Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-desktop-start-menu.jpg)
 
  However, not everything is perfect: you might not agree with everything AtlasOS disables, removes, or changes. For example, from now on, you'll have to manually download and apply updates to your Windows installation, for AtlasOS also removes the**Windows Update** option.
@@ -174,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,6 +135,26 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-your-complimentary-access-to-50-premium-youtube-banners/"><u>[New] 2024 Approved Your Complimentary Access to 50 Premium YouTube Banners!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-vidgrabber-mobilepc-for-fb-streams/"><u>[New] In 2024, VidGrabber Mobile/PC for Fb Streams</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-essential-list-premium-free-video-player-apps-pc-and-mobile/"><u>[Updated] 2024 Approved Essential List Premium Free Video Player Apps (PC & Mobile)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-verbal-advance-responding-to-commands-with-confidence/"><u>AI's Verbal Advance: Responding to Commands with Confidence</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/viewers-to-vips-ajays-strategy-for-sustainable-income-streams/"><u>From Viewers to VIPs Ajay's Strategy for Sustainable Income Streams</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-selection-of-incredibly-affordable-footage/"><u>Grand Selection of Incredibly Affordable Footage</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-xcover-6-pro-tactical-edition-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy XCover 6 Pro Tactical Edition Phone Screen?</u></a></li>
+<li><a href="https://games-able.techidaily.com/immerse-in-classic-games-on-idevices-with-our-top-4-emulator-apps/"><u>Immerse in Classic Games on iDevices with Our Top 4 Emulator Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-on-ps5-with-game-share/"><u>Joining Forces on PS5 with Game Share</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problems-with-windows-media-player-for-a-perfect-listening-experience/"><u>Solving 'No Sound' Problems with Windows Media Player for a Perfect Listening Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-swapping-steam-deck-storage-cloning-made-simple/"><u>Swiftly Swapping Steam Deck Storage: Cloning Made Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-harmony-an-efficient-way-to-join-controllers-and-console/"><u>Tech Harmony: An Efficient Way to Join Controllers and Console</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transferring-data-from-iphone-to-windows-desktops-efficiently-a-complete-tutorial-for-windows-1011-users/"><u>Transferring Data From iPhone to Windows Desktops Efficiently: A Complete Tutorial for Windows 10/11 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-to-a-better-gaming-experience-through-region-change/"><u>Transition to a Better Gaming Experience Through Region Change</u></a></li>
+<li><a href="https://games-able.techidaily.com/trendsetting-ergonomic-office-surface-solutions/"><u>Trendsetting Ergonomic Office Surface Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/tricks-for-masking-your-online-presence-on-steam/"><u>Tricks for Masking Your Online Presence on Steam</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ultimate-guide-resolving-persistent-crashes-in-halo-infinite-for-pc-players/"><u>Ultimate Guide: Resolving Persistent Crashes in Halo Infinite for PC Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-xbox-perks-and-promotions/"><u>Unlock Xbox Perks and Promotions</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-mojang-maps-download-install-play/"><u>Unlocking Mojang Maps: Download, Install, Play</u></a></li>
+</ul></div>
 

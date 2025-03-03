@@ -1,7 +1,7 @@
 ---
 title: "Xbox Lighting Setup 101: Customize Backlit Controls"
-date: 2025-02-04T21:45:42.503Z
-updated: 2025-02-11T20:25:07.575Z
+date: 2025-03-01T22:23:12.376Z
+updated: 2025-03-02T20:10:14.070Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Adjust the Brightness of Your Xbox Controller Light
 
  The Xbox controller light is a useful indicator of when your controller is on. This light is set to full brightness by default. However, if, due to some reason, you wish to dim or turn off the light of your controller, Xbox provides a built-in option for you to do so.
@@ -38,16 +34,8 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![Xbox home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-home-screen-2.jpeg)
 3. Now, go to**General > TV & display options > Night mode** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![General settings on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tv-and-display-options-xbox-setting-1.jpeg)
 4. Under**Preferences** , you’d see the option for**Controller brightness** . Select this and press**A** to access the settings for controller brightness.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Xbox night mode settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-controller-brightness-setting-1.jpeg)
 5. Check the box next to**Customize brightness** to highlight the slider for brightness adjustment. Select the**Default brightness** option and slide the on-screen slider using the D-pad or the left thumbstick to increase or decrease brightness. You can either slide the slider all the way to the left to turn the light off or adjust brightness across seven different brightness levels according to your preference.  
@@ -59,15 +47,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![Xbox accessibility night mode setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessibility-night-mode-setting.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, every time you turn on your Xbox controller, the light will automatically be adjusted to the set brightness. However, if you see a blinking light or no light on your controller, it's possible that your[Xbox controller is not working properly](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) , and you might need to fix it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Adjust the Brightness of Your Xbox Console Light
 
@@ -104,20 +84,15 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-top-5-high-quality-online-meeting-capture-devices-for-2024/"><u>[New] Top 5 High-Quality Online Meeting Capture Devices for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-beauty-blogging-beginnings-crafting-a-captivating-youtube-channel/"><u>[Updated] Beauty Blogging Beginnings Crafting a Captivating YouTube Channel</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-discreet-watcher-of-social-media-life/"><u>[Updated] Discreet Watcher of Social Media Life</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-immutable-disabling-routine-for-youtubes-quick-content/"><u>[Updated] Immutable Disabling Routine for YouTube’s Quick Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-real-time-broadcasting-excellence-connecting-via-wirecast-to-facebook-for-2024/"><u>[Updated] Real-Time Broadcasting Excellence Connecting via Wirecast to Facebook for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-photo-your-display-windows-781011-style/"><u>2024 Approved Photo Your Display Windows 7/8/10/11 Style</u></a></li>
-<li><a href="https://games-able.techidaily.com/3-quick-fixes-for-recognizing-unplugged-headsets-on-xbox/"><u>3 Quick Fixes for Recognizing Unplugged Headsets on Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/3-streaming-services-you-can-use-on-your-nintendo-switch/"><u>3 Streaming Services You Can Use on Your Nintendo Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-snapshot-of-fun-exploring-netflix-mobile-games/"><u>A Snapshot of Fun: Exploring Netflix Mobile Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/acquiring-exclusive-items-in-fortnite-for-ps5/"><u>Acquiring Exclusive Items in Fortnite for PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-errors-choose-right-oled-display-wisely/"><u>Avoid Errors: Choose Right OLED Display Wisely</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-non-chatgpt-options-for-advanced-linguistic-interactions/"><u>Discover the Best Non-ChatGPT Options for Advanced Linguistic Interactions</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169318737-revolutionize-game-boy-handhents-on-your-mobile-device/"><u>Revolutionize Game Boy Handhents on Your Mobile Device!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/uncovering-elite-instagram-ringtones-and-crafting-an-astute-alarm-for-2024/"><u>Uncovering Elite Instagram Ringtones and Crafting an Astute Alarm for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/usb-tethering-on-windows-11-easily/"><u>USB Tethering on Windows 11 Easily</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transforming-mundane-footage-into-spectaculair-slow-mo-instareel/"><u>[Updated] In 2024, Transforming Mundane Footage Into Spectaculair Slow Mo InstaReel</u></a></li>
+<li><a href="https://games-able.techidaily.com/200-discounted-offer-on-truegolf-simulators-level-up-your-game-with-this-unbeatable-price-from-zdnet/"><u>$200 Discounted Offer on TrueGolf Simulators! Level Up Your Game with This Unbeatable Price From ZDNET.</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpts-magic-crafting-a-detective-game-from-the-tales-of-sherlock-holmes/"><u>ChatGPT's Magic: Crafting a Detective Game From the Tales of Sherlock Holmes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-k11x-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo K11x Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-vivo-y200e-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo Y200e 5G Through Google Earth?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ultimate-indoor-adventures-select-escapade-venues/"><u>In 2024, Ultimate Indoor Adventures Select Escapade Venues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-missing-avcodecdll-errors-on-your-pc/"><u>Solutions for Resolving Missing Avcodec.dll Errors on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-the-windows-restore-partition/"><u>Step-by-Step Guide: Removing the Windows Restore Partition</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-inner-gamers-with-the-stealthy-samsung-gaming-projector-save-200-this-labor-day-zdnet/"><u>Unleash Your Inner Gamers with the Stealthy Samsung Gaming Projector - Save $200 This Labor Day! | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-lenovo-ideapad-for-gamers-how-hardware-limits-impact-chrome-powered-cloud-gaming-expert-review/"><u>Unveiling the Lenovo IdeaPad for Gamers: How Hardware Limits Impact Chrome-Powered Cloud Gaming | Expert Review</u></a></li>
 </ul></div>
 

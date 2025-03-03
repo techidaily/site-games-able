@@ -1,7 +1,7 @@
 ---
 title: Android OS Launched in Linux Environment
-date: 2024-08-08T09:11:54.871Z
-updated: 2024-08-09T09:11:54.871Z
+date: 2025-03-01T20:39:33.715Z
+updated: 2025-03-02T19:33:12.190Z
 tags:
   - games
 categories:
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 
 `echo $XDG_SESSION_TYPE`
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![checking system display server type in terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/checking-system-display-server-type-in-terminal.jpg)
 
  If your system runs the Xorg display server, you’ll need to switch from Xorg to Wayland before you can install Waydroid.
@@ -75,9 +72,6 @@ waydroid show-full-ui`
 
 `waydroid app launch appname`
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Create an Android Virtual Machine
 
  If you’re comfortable creating a virtual machine, one of the best ways to run Android apps and games on your Linux PC is to virtualize an Android x86 system. To start, you’ll need to download the Android x86 ISO image.
@@ -105,9 +99,6 @@ waydroid show-full-ui`
 
  In**System > Acceleration** , select KVM as the paravirtualization interface. In the**Display > Screen** tab, you’ll need to change the Graphics Controller setting to**VBoxSVGA** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![configuring graphics settings in virtualbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configuring-graphics-settings-in-virtualbox.jpg)
 
  Last but not least, you’ll need to install the Android x86 image. Navigate to the**Storage** tab and select**Empty** from the list of storage devices. Next, click on the**blue disc** icon to the right of the**Optical Drive** setting and select**Choose a disk file** from the dropdown menu. Select your Android x86 ISO from the Files interface that appears. Finally, close the settings menu and click**Start** to boot your Android VM.
@@ -120,18 +111,12 @@ waydroid show-full-ui`
 
  While Android Studio is primarily geared towards developers, it can be an excellent option for emulation if you aren’t interested in using Waydroid or an Android x86 virtual machine. After [installing Android Studio](https://www.makeuseof.com/install-android-studio-ubuntu/) , you’ll need to create an Android Virtual Device (AVD) using the official [Android](https://developer.android.com/studio/run/emulator#avd) Developer’s guide and then install your chosen APK on the [Android](https://developer.android.com/studio/run/emulator-install-add-files) Emulator.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Run Android Apps on Linux With Genymotion
 
  It’s worth considering applications like Waydroid and even tried-and-true virtual machines before you purchase Genymotion. In most cases, it’s possible to accomplish anything you want on your Linux PC without purchasing proprietary applications.
 
  If you choose to purchase Genymotion, however, you’ll be enthused with the ease of use and convenience that this application offers.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![comparing the plans offered by genymotion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/comparing-the-plans-offered-by-genymotion.jpg)
 
  To start, you’ll need to purchase the right Genymotion plan. Genymotion offers a free plan for personal use, but any technical support requests beyond issues with installation and first run will be rejected—and you won’t be able to use features like Android 13, camera and media widget features, and quick boot.
@@ -140,23 +125,17 @@ waydroid show-full-ui`
 
  Once you’ve downloaded the Genymotion BIN file, you can install it with QEMU or VirtualBox using [Genymotion’s](https://docs.genymotion.com/desktop/Get%5Fstarted/013%5FLinux%5Finstall/) official installation guide.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Enjoy Using Android Apps and Games on Your Linux System
 
  With the deprecation of Anbox, it’s easy to wonder if any easy methods to run Android apps on Linux systems remain. Luckily, Waydroid, Android x86, Android Studio, and Genymotion all offer distinct and easy ways to run Android apps.
 
  Once you’ve chosen which software to use, you’ll be amazed at just how convenient and seamless using these apps is.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,6 +144,26 @@ waydroid show-full-ui`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-snapshots-of-success-recording-your-switch-gaming/"><u>[New] In 2024, Snapshots of Success Recording Your Switch Gaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-new-tech-horizon-with-microsofts-hololens-review/"><u>[New] The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-must-try-titles-for-tranquil-touchscreen-time/"><u>[Updated] 2024 Approved Must-Try Titles for Tranquil Touchscreen Time</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-how-to-use-premiere-audio-transition/"><u>[Updated] How to Use Premiere Audio Transition</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-itel-p55-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P55 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-brew-an-awkward-potion-in-minecraft-beginners-manual/"><u>Easy Steps to Brew an Awkward Potion in Minecraft - Beginner's Manual</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-features-pick-your-elgato-stream-deck/"><u>Evaluating Features: Pick Your Elgato Stream Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-history-deciphering-steams-cost-evolution/"><u>Game History: Deciphering Steam's Cost Evolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-history-in-your-pics-folder-on-win-11/"><u>Gaming History in Your Pics Folder on Win 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/groan-inducing-humor-in-hits/"><u>Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-editor-de-videos-completo-todos-los-modulos-incluidos/"><u>Movavi Editor De Videos Completo: Todos Los Módulos Incluidos</u></a></li>
+<li><a href="https://games-able.techidaily.com/proving-worth-key-elements-for-rpg-controllers/"><u>Proving Worth: Key Elements for RPG Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/reporting-rude-gamers-ensuring-a-safe-play-space-xbox/"><u>Reporting Rude Gamers: Ensuring a Safe Play Space (Xbox)</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-the-past-embrace-future-with-pi-in-game-development/"><u>Revive the Past, Embrace Future with Pi in Game Development</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-overcome-components-needed-error-on-windows-11-and-11/"><u>Steps to Overcome Components Needed Error on Windows 11 & 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-dilemma-of-dominance-aaa-publishers-prowess-podcast-segment/"><u>The Dilemma of Dominance: AAA Publishers' Prowess (?) [Podcast Segment]</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-15-pre-loaded-ios-games-fun-without-connections/"><u>Top 15 Pre-Loaded iOS Games: Fun WITHOUT Connections!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/triumph-in-trade-wars-a-deep-dive-into-the-strategies-of-building-an-empire-in-offworld-trading-company/"><u>Triumph in Trade Wars: A Deep Dive Into the Strategies of Building an Empire in Offworld Trading Company</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unveiling-the-perks-of-digital-assets-a-deep-dive-into-cryptocurrency-benefits-with-yl-experts/"><u>Unveiling the Perks of Digital Assets: A Deep Dive Into Cryptocurrency Benefits with YL Experts</u></a></li>
+</ul></div>
 

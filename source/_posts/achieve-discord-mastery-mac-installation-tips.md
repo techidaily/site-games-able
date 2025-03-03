@@ -1,7 +1,7 @@
 ---
 title: "Achieve Discord Mastery: Mac Installation Tips"
-date: 2024-08-15T17:16:52.365Z
-updated: 2024-08-16T17:16:52.365Z
+date: 2025-02-25T20:06:27.889Z
+updated: 2025-03-02T17:57:38.336Z
 tags:
   - games
 categories:
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 
  You can use Discord online on your browser by clicking**Open Discord** at the top-right corner of Discord's website.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Step 2: Install Discord on Your Mac
 
  You now have to run Discord's DMG file. Here's how to do it:
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 2. Select**Downloads** (or wherever you saved Discord's DMG file) and double-click**Discord** .
 3. After a window appears, drag the**Discord logo** into the**Application** window.  
 ![Discord logo being dragged into the Applications folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-logo-being-dragged-into-the-applications-folder.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Close the Finder window.
 5. Click**Launchpad** from the Dock and select**Discord** from one of the pages. Or launch it [using Spotlight search on your Mac](https://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) .
 
@@ -52,37 +46,25 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 
  macOS's Gatekeeper might not let you install or run Discord right away. If you run into that problem or any other problems, read our guide on [installing third-party apps on a Mac](https://www.makeuseof.com/how-to-install-third-party-apps-mac/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 3: Sign Up or Sign In to Discord
 
 ![Discord's login page on the Mac app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-s-login-page-on-the-mac-app.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
  When Discord opens, you'll be greeted by its login page. If you already have an account, type in your email or phone number, enter your password, and click**Log In** to sign in.
 
  If you don't have an account, click**Register** at the bottom and fill in your details.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Started With Discord on Your Mac
 
  Discord is identical on macOS and Windows, so you don't need to worry if you're coming from a Windows PC. You can use the same features and shortcuts and continue reaping the benefits of your Discord Nitro subscription.
 
  Now, you can connect with all your gamer friends, join communities, and use the Discord overlay while gaming on your Mac.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -91,8 +73,22 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-draft-humoristic-visuals-with-adobe-suite/"><u>[New] Draft Humoristic Visuals with Adobe Suite</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-how-does-youtube-work-after-a-video-is-uploaded/"><u>[New] In 2024, How Does YouTube Work After a Video Is Uploaded</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-learn-to-capture-videos-from-webcam-in-vlc-for-2024/"><u>[New] Learn to Capture Videos From Webcam in VLC for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamline-your-presentation-process-webcam-recording-tips/"><u>[Updated] 2024 Approved Streamline Your Presentation Process Webcam Recording Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-news-narratives-concluding-flourishes-for-2024/"><u>[Updated] News Narratives' Concluding Flourishes for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-reducing-noise-amplitude-gently-using-lumafusion/"><u>[Updated] Reducing Noise Amplitude Gently Using Lumafusion</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-list-of-2023s-premier-gaming-chairs-according-to-zdnet/"><u>Discover the Ultimate List of 2023'S Premier Gaming Chairs According to ZDNet</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/effortless-strategies-incorporating-your-branding-into-videos-with-watermarks-and-logos/"><u>Effortless Strategies: Incorporating Your Branding Into Videos with Watermarks & Logos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-file-recovery-recover-corrupt-excel-2003-files-easily-stellar-by-stellar-guide/"><u>Excel File Recovery – Recover Corrupt Excel 2003 Files Easily | Stellar</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-11-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme 11 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/massive-discount-alert-grab-the-deal-before-labor-day-save-25-on-a-spectacular-85-tcl-television-with-hdmi-ports/"><u>Massive Discount Alert! Grab the Deal Before Labor Day - Save 25% On a Spectacular 85 TCL Television With HDMI Ports!</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-live-streams-with-the-razer-stream-pro-controller-insiders-analysis-by-techradar/"><u>Mastering Live Streams with the Razer Stream Pro Controller – Insider's Analysis by TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/samsung-unveils-new-gaming-controller-collection-explore-the-latest-innovation-in-play/"><u>Samsung Unveils New Gaming Controller Collection - Explore the Latest Innovation in Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/surprise-champion-of-gaming-lairs-why-the-samsung-projector-deserves-your-attention-according-to-zdnet/"><u>Surprise Champion of Gaming Lairs: Why the Samsung Projector Deserves Your Attention, According to ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-unbeatable-savings-on-premium-samsung-televisions-this-labor-day-at-a-steep-43-off-insider-tips-from-tech-expert-zdnet/"><u>Unlock Unbeatable Savings on Premium Samsung Televisions This Labor Day at a Steep 43% Off – Insider Tips From Tech Expert | ZDNET</u></a></li>
+</ul></div>
 

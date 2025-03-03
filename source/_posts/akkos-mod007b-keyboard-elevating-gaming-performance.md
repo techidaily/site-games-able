@@ -1,7 +1,7 @@
 ---
 title: Akko's MOD007B Keyboard - Elevating Gaming Performance
-date: 2024-08-08T09:10:55.665Z
-updated: 2024-08-09T09:10:55.665Z
+date: 2025-02-27T23:20:47.370Z
+updated: 2025-03-02T22:40:05.444Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
 ## Akko's MOD007B Keyboard - Elevating Gaming Performance
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Akko MOD007B HE keyboard uses Hall Effect switches for customizable actuation distance, giving gamers an advantage.
@@ -112,14 +109,8 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## A Great-Looking Keyboard on the Surface
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
@@ -130,9 +121,6 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Tokyo-Themed Keys and Accessories Included
 
 ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
@@ -153,13 +141,6 @@ No
 
  On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
  Jowi Morales / MakeUseOf
@@ -188,9 +169,6 @@ Related
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Extensive Customization With the Akko Cloud Driver
 
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
@@ -203,9 +181,6 @@ Related
 
 ## Confusing Multi-Mode Pairing
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
  Jowi Morales / MakeUseOf
@@ -218,9 +193,6 @@ Related
 
  It would’ve been better if Akko included at least a single color-changing LED bulb to indicate the mode the keyboard is currently on. And maybe they could put the OS mode switch on an easily reachable surface.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Questionable Battery Life
 
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
@@ -233,9 +205,6 @@ Related
 
  Granted that this keyboard will most likely sit on your desk in wired mode, it’s still better to allow the user to switch off the keyboard when not using it. This will help save power, especially if you transport the keyboard in your bag (like when going to a LAN party or an on-site competition) and want to use it wirelessly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Your Keyboard for Gaming Victory
 
  Although these couple of issues will negatively impact niche users like me, they won’t affect most users. You can't ignore the benefits of a Hall Effect keyboard, especially if you take your matches seriously.
@@ -318,14 +287,11 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/) [See at Amazon](https://www.amazon.com/dp/B0CP7CYWRY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031519&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fakko-mod007b-hall-effect-keyboard-review%2F&asc%5Fcampaign=Affiliate)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -334,6 +300,20 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-cutting-edge-6-solutions-for-audiovisual-translation-for-2024/"><u>[New] Cutting-Edge 6 Solutions for Audio/Visual Translation for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-enhancing-photos-through-smart-dynamic-range-methods-for-2024/"><u>[New] Enhancing Photos Through Smart Dynamic Range Methods for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/anipulate-sound-rate-in-youtube-playback-for-2024/"><u>[New] Manipulate Sound Rate in YouTube Playback for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-secrets-of-high-quality-steam-gameplay-footage/"><u>[Updated] 2024 Approved Secrets of High-Quality Steam Gameplay Footage</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-google-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Google</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-smart-meter-bus-controller-drivers-for-windows-11-10-8-and-7/"><u>Download Smart Meter Bus Controller Drivers for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-ps5-gear-for-maximum-performance/"><u>Essential PS5 Gear for Maximum Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-pi-compare-batocera-and-retropie-in-gaming-wars/"><u>Game on, Pi! Compare Batocera and RetroPie in Gaming Wars</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/leveraging-kinemasters-strengths-for-video-magic-and-10-esteemed-competitors-for-2024/"><u>Leveraging KineMaster's Strengths for Video Magic & 10 Esteemed Competitors for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscover-playstation-expert-selection-of-30-ps3-emulators-for-pc/"><u>Rediscover PlayStation: Expert Selection of 30 PS3 Emulators for PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-your-steams-non-responsive-remote-gameplay/"><u>Reviving Your Steam's Non-Responsive Remote Gameplay</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-when-your-steam-store-wont-load-correctly/"><u>Step-by-Step Solution: When Your Steam Store Won't Load Correctly</u></a></li>
+</ul></div>
 

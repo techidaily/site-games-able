@@ -1,7 +1,7 @@
 ---
 title: "Uniting Different Game Worlds: Connect Bedrock with Java on GeyserMC Server"
-date: 2025-02-09T16:28:14.686Z
-updated: 2025-02-11T16:50:25.235Z
+date: 2025-02-27T17:55:01.386Z
+updated: 2025-03-02T22:54:18.680Z
 tags:
   - games
 categories:
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Jhet Borja/MUO
 
  You’ve probably been disappointed to find out that you and your friend aren’t playing the same editions of Minecraft and can’t play together. While there are plenty of[other ways to play Minecraft with friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) , crossplay between Java and Bedrock isn't something that comes up often.
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ## How Minecraft Bedrock Edition Players Can Join Java Edition Servers
 
 ![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
@@ -81,17 +73,9 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![Installing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-minecraft-software-on-aternos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on the**Install** button to add PaperMC to your server.
 
 ![Choosing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-geyser-plugin-on-aternos.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, head to**Plugins** . Search for**GeyserMC** and choose**GeyserMC** .
 
@@ -107,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the main server screen, click**Start** to turn on the server. You can find the server connection details by clicking on**Connect** just below the server name. Copy the IP and port for the next step.
 
 ![Joining Minecraft Java server from Bedrock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/joining-minecraft-java-server-from-bedrock.jpg)
@@ -118,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  On Minecraft Bedrock Edition, click on the**Servers** tab, scroll all the way down, and click the**Add Server** button.
 
 ![Pasting server IP details on Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pasting-server-ip-details-on-bedrock-edition.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
 
@@ -150,24 +126,18 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/implifying-complications-in-youtube-shorts-for-2024/"><u>[New] Simplifying Complications in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-expert-selections-top-ios-emulators-for-playstation-2-games/"><u>[Updated] In 2024, Expert Selections Top IOS Emulators for PlayStation 2 Games</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-demystifying-youtube-shorts-content-strategy-guide/"><u>2024 Approved Demystifying YouTube Shorts Content Strategy Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-laptop-vs-macbook-showdown-unveiling-the-superior-alternative-for-tech-enthusiasts-expert-insights/"><u>Asus Laptop Vs. MacBook Showdown: Unveiling the Superior Alternative for Tech Enthusiasts | Expert Insights</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-detox-balancing-gaming-with-real-world-fun/"><u>Digital Detox: Balancing Gaming with Real-World Fun</u></a></li>
-<li><a href="https://games-able.techidaily.com/duel-in-the-digital-the-two-paths-of-tetris-mastery/"><u>Duel in the Digital: The Two Paths of Tetris Mastery</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-terminating-steam-recurring-memberships/"><u>Guide: Terminating Steam Recurring Memberships</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-access-the-web-browser-hidden-on-your-ps5/"><u>How to Access the Web Browser Hidden on Your PS5</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138567773-9780595780310-loving-a-woman-well/"><u>Loving a Woman Well | Free Book</u></a></li>
-<li><a href="https://win-blog.techidaily.com/red-dead-redemption-2-and-pc-compatibility-troubleshooting-common-crash-errors/"><u>Red Dead Redemption 2 and PC Compatibility – Troubleshooting Common Crash Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-mobile-gaming-via-device-controllers/"><u>Superior Mobile Gaming via Device Controllers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-tale-of-two-sides-in-the-vr-revolution-for-2024/"><u>The Tale of Two Sides in the VR Revolution for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/top-4k-video-konvertierungs-und-herunterladungssoftware-professionelles-werkzeug-fur-premium-filmmaterial/"><u>Top 4K Video Konvertierungs- Und Herunterladungssoftware - Professionelles Werkzeug Für Premium-Filmmaterial</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-8-buying-decisions-when-purchasing-a-cpu-cooler/"><u>Top 8 Buying Decisions When Purchasing a CPU Cooler</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-console-experience-with-code-magic/"><u>Transform Your Console Experience with Code Magic</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unlock-reddit-potentials-stepwise-procedures-for-sharing/"><u>Unlock Reddit Potentials Stepwise Procedures for Sharing</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-beyerdynamics-mmx-200-soundscape/"><u>Unveiling Beyerdynamic's MMX 200 Soundscape</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-cs2-players-on-apple-systems/"><u>Unveiling the Secrets of CS2 Players on Apple Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-nikon-1j5-takes-video-to-the-next-level-with-its-4k-features/"><u>[Updated] In 2024, Nikon 1J5 Takes Video to the Next Level with Its 4K Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/can-you-store-high-quality-videos-in-128gb-in-2024/"><u>Can You Store High-Quality Videos in 128Gb, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-faulty-credit-card-recognition-errors/"><u>Eliminating Faulty Credit Card Recognition Errors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-insiders-pathway-to-effective-auditory-notes/"><u>In 2024, The Insider’s Pathway to Effective Auditory Notes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/legal-fb-audio-hoarder-lfah-for-2024/"><u>Legal FB Audio Hoarder (LFAH) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/pair-play-perfection-the-best-15-dual-player-games/"><u>Pair Play Perfection: The Best 15 Dual Player Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-methods-for-finding-exe-files-in-windows-11-a-step-by-step-guide/"><u>Speedy Methods for Finding EXE Files in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-decks-enhanced-gaming-experience-via-sd/"><u>Steam Deck's Enhanced Gaming Experience via SD</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-y78-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo Y78 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic-vs-2-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic Vs 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/todays-fun-meets-tomorrows-vintage-games/"><u>Today's Fun Meets Tomorrow's Vintage Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-creativity-5-ways-to-enhance-your-xbox-game-bar-on-windows-pcs/"><u>Unleashing Creativity: 5 Ways to Enhance Your Xbox Game Bar on Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-should-mobility-in-games-be-questioned/"><u>Why Should Mobility in Games Be Questioned?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Before You Join LinkedIn Games - Here's Why to Be Wary
-date: 2024-08-08T09:08:06.970Z
-updated: 2024-08-09T09:08:06.970Z
+date: 2025-03-01T20:39:57.214Z
+updated: 2025-03-02T16:28:49.081Z
 tags:
   - games
 categories:
@@ -14,18 +14,12 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 ## Before You Join LinkedIn Games - Here's Why to Be Wary
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [LinkedIn Has Added NYT-Style Games](#linkedin-has-added-nyt-style-games)
 * [What Possessed LinkedIn to Add Games?](#what-possessed-linkedin-to-add-games)
 * [Why LinkedIn Users Shouldn't Play These Games](#why-linkedin-users-shouldn-39-t-play-these-games)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * LinkedIn added NYT-style games like Pinpoint, Crossclimb, and Queens.
@@ -34,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  For some unexplained reason, LinkedIn has added games to its website and app. This is despite LinkedIn being designed for professional networking and job searching. While we're stuck pondering why LinkedIn has added games, we would advise you to stay away from them regardless.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## LinkedIn Has Added NYT-Style Games
 
  Since the 1990s, when Java and Flash were all the rage, people have been able to play silly little games online. However, when it burst onto the scene in 2021,[Wordle ushered in a new era of daily web-based games](https://www.makeuseof.com/what-is-wordle/) . Easily playable and easily shareable, the game spawned [a raft of Wordle alternatives](https://www.makeuseof.com/best-wordle-alternatives/) . And the New York Times has been the big driver of this trend, first buying Wordle, and then creating a raft of daily games you can play in your browser or on its app.
@@ -57,23 +48,14 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 ### Queens
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playing the Queens game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/queens-linkedin-games.png)
 
 [Queens](https://www.linkedin.com/games/queens/) is a little like Sudoku, in that you have to be aware of several different elements in order to place things correctly. In Sudoku, it's numbers, whereas in Queens, it's crowns. There's a lot of trial and error with this, so you'll either love it or hate it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Possessed LinkedIn to Add Games?
 
  You can take a look at LinkedIn's games by visiting the [LinkedIn Games tab](https://www.linkedin.com/games/) . But if you forget to bookmark it, just search LinkedIn for "games", and it should be the top result. When you search for it, the platform will sell you on them with the tagline, "Keep your mind sharp with daily games. Connect with your network over a little fun." This reveals how LinkedIn sees its users using these games.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LinkedIn inviting users to play games to keep your mind sharp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/linked-in-games-search-result.png)
 
  LinkedIn thinks you'll use these games as another networking tool. In the same way that many of us send our Wordle, Connections, and Strands scores to our loved ones every morning, LinkedIn wants you to do the same with Pinpoint, Queens, and Crossclimb. However, there's a fundamental difference between your family and friends and the people you are likely to connect with on LinkedIn.
@@ -86,14 +68,11 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  Play web games as much as you want, but do so on the New York Times, Facebook, or any of the other platforms specifically designed to let you waste away your free time. If you're on LinkedIn, use your time more productively by [improving your LinkedIn profile](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) or [broadening your network](https://www.makeuseof.com/ways-to-build-professional-network-linkedin/) . To be fair to LinkedIn, the platform addresses these concerns directly in [its announcement/tutorial](https://www.linkedin.com/pulse/how-play-games-linkedin-seriously-michaelaalexis-gqwre/) , but I still can't help thinking that this is a misstep from the company.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,6 +81,21 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-breaking-into-the-livestream-scene-on-youtube-with-under-a-thousand-views/"><u>[New] Breaking Into the Livestream Scene on YouTube with Under a Thousand Views</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-cloud-space-costs-analyzing-and-top-tier-savings-guide/"><u>[New] Cloud Space Costs Analyzing & Top-Tier Savings Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-pinnacle-of-media-excellence-top-phones-videos/"><u>[New] In 2024, The Pinnacle of Media Excellence Top Phones Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-slomo-recording-app-review-insightful-2024/"><u>[Updated] Full SloMo Recording App Review - Insightful 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/backup-de-software-livre-e-gratuito-para-sistemas-windows-11-8-and-7-download-do-aomei-backupper/"><u>Backup De Software Livre E Gratuito Para Sistemas Windows 11, 8 & 7 - Download Do AOMEI Backupper</u></a></li>
+<li><a href="https://games-able.techidaily.com/decode-to-win-how-to-pick-the-best-app-store-games-on-arcade/"><u>Decode to Win: How to Pick the Best App Store Games on Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/dual-play-the-ultimate-guide-for-switchs-minecraft/"><u>Dual PLAY: The Ultimate Guide for Switch's Minecraft</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-iems-enhance-competitive-gaming-sessions/"><u>How IEMs Enhance Competitive Gaming Sessions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-blurring-techniques-for-cleaner-image-edits/"><u>In 2024, Blurring Techniques for Cleaner Image Edits</u></a></li>
+<li><a href="https://win11.techidaily.com/missing-out-regain-access-to-windows-11s-hidden-upgrades-and-tools/"><u>Missing Out? Regain Access to Windows 11'S Hidden Upgrades and Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gameplay-6-cutting-edge-online-chess-games/"><u>Revolutionize Your Gameplay: 6 Cutting-Edge Online Chess Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-home-entertainment-showdown/"><u>Ultimate Home Entertainment Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-101-features-and-advantages/"><u>Xbox Game Pass 101: Features and Advantages</u></a></li>
+</ul></div>
 

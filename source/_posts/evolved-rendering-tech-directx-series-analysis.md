@@ -1,7 +1,7 @@
 ---
 title: "Evolved Rendering Tech: DirectX Series Analysis"
-date: 2025-02-08T16:38:15.666Z
-updated: 2025-02-11T22:18:22.922Z
+date: 2025-02-25T17:42:43.245Z
+updated: 2025-03-02T23:34:46.214Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Microsoft's DirectX?
 
 ![DirectX logo imposed on a photo of a man coding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-1.jpg)
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
  As explained in[our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
 
  An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
@@ -69,19 +61,11 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 
  That being said, a game developed in DirectX 12 could end up with worse performance depending on the developer's knowledge of the API. Some improvements come with DirectX 12, but it really comes down to how well a developer can implement it. For this reason, many developers choose to stick to high-level APIs like DirectX 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## DX 11 vs. DX 12: Which Should You Choose?
 
  The answer depends on a few things, like what game you are trying to run. For example, Guild Wars 2 runs on DirectX 11\. Even if your OS and hardware can use DirectX 12, you will not have the option to select DirectX 11 in Guild Wars 2 because the game does not support it. This is entirely the decision of the developer, ArenaNet.
 
 ![In-game image from Guild Wars 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
@@ -92,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
  The results are surprising in many ways, with little visual difference at times between DX 11 and DX 12, despite the multiple years of difference between their launches. You may have also noted the differences in GPU and CPU loads between both DirectX versions, with the DX 12 versions of each game typically requiring fewer resources than the older DX 11.
 
  In addition to in-game support, choosing between DirectX 11 and DirectX 12 will also depend on your hardware. Just about any modern GPU will support DirectX 12, but the same can't be said for older GPUs like the Radeon HD 4870\. Released in 2008, this GPU only supports up to DirectX 10\. This means it would be incapable of running most modern games, which run using DirectX 11 and DirectX 12.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is DirectX 12 the Right Choice for You?
 
@@ -116,19 +96,18 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-gopro-match-up-ultimate-buyers-analysis-for-2024/"><u>[New] Gopro Match-Up Ultimate Buyer's Analysis for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-expert-insights-efficiently-adding-subtitles-to-vimeo-videos/"><u>[Updated] Expert Insights Efficiently Adding Subtitles to Vimeo Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-ways-to-make-chatgpt-your-perfect-dungeon-master-assistant/"><u>6 Ways to Make ChatGPT Your Perfect Dungeon Master Assistant</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-guide-to-unbeatable-ps5-accessory-choices/"><u>A Guide to Unbeatable PS5 Accessory Choices</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-shared-gaming-experience-for-everyone/"><u>A Shared Gaming Experience for Everyone</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-game-titans-stifling-creativity-industry-report/"><u>Are Game Titans Stifling Creativity? [Industry Report]</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-regrets-your-step-by-step-game-refund-guide/"><u>Avoiding Regrets - Your Step-by-Step Game Refund Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/battling-poor-signal-on-xbox-s-x-controller/"><u>Battling Poor Signal on Xbox S X Controller</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-top-5-tools-every-successful-twitch-broadcaster-needs/"><u>Essential Top 5 Tools Every Successful Twitch Broadcaster Needs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-magic-5-lite-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-c55-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Poco C55 Unlock Without Password</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-monitor-selection-the-perfect-matches-for-your-ps5-and-new-xbox-consoles/"><u>Navigating Monitor Selection: The Perfect Matches for Your PS5 & New Xbox Consoles</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-nokia-c110-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Nokia C110</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-c53-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C53 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-infinity-series-ultra-hd-single-touch-display/"><u>[Updated] In 2024, Infinity Series – Ultra HD, Single Touch Display</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-instagram-notifications-diy-sound-design/"><u>[Updated] Transform Instagram Notifications DIY Sound Design</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-podcast-platforms-for-windows-users/"><u>2024 Approved Excellent Podcast Platforms for Windows Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamlessly-embedding-youtube-subtitles-an-easy-to-follow-guide/"><u>2024 Approved Seamlessly Embedding YouTube Subtitles An Easy-to-Follow Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-artifice-intelligence-chatbots-and-reasons-for-their-widespread-appeal/"><u>Demystifying Artifice Intelligence Chatbots and Reasons for Their Widespread Appeal</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-hands-on-the-latest-tech-hps-new-victus-15l-gaming-rig-reduced-to-an-unbeatable-price-of-just-480/"><u>Get Your Hands on the Latest Tech: HP's New Victus 15L Gaming Rig Reduced to an Unbeatable Price of Just $480!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-examination-of-rode-x-xdm-100-the-ultimate-usb-mic-for-professionals-techspot-insights/"><u>In-Depth Examination of RODE X XDM-100: The Ultimate USB Mic for Professionals | TechSpot Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-zexmt-bluetooth-device-driver-on-your-pc-compatible-with-win-1078/"><u>Install Zexmt Bluetooth Device Driver on Your PC - Compatible with Win 10/7/8</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-sale-save-350-on-the-hp-victus-15-laptop-exclusive-deal-at-best-buy/"><u>Labor Day Sale: Save $350 on the HP Victus 15 Laptop - Exclusive Deal at Best Buy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-account-creation-on-sonys-playstation-network/"><u>Mastering Account Creation on Sony’s PlayStation Network</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-entertainment-with-a-steal-of-a-deal-get-an-extra-32-discount-plus-complimentary-xbox-game-pass-when-you-buy-the-fire-tv-stick-4k-bundle-insig98/"><u>Maximize Your Entertainment with a Steal of a Deal: Get an Extra 32% Discount + Complimentary Xbox Game Pass When You Buy the Fire TV Stick 4K Bundle | Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-deep-discount-on-sony-ps5-with-spiderman-2-bundle-in-amazons-massive-spring-clearance-save-up-to-110/"><u>Score Deep Discount on Sony PS5 with Spiderman 2 Bundle in Amazon's Massive Spring Clearance - Save Up to $110!</u></a></li>
 </ul></div>
 

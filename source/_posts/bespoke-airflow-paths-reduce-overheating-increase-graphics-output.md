@@ -1,7 +1,7 @@
 ---
 title: Bespoke Airflow Paths Reduce Overheating, Increase Graphics Output
-date: 2024-08-08T09:11:10.616Z
-updated: 2024-08-09T09:11:10.616Z
+date: 2025-02-26T16:10:40.072Z
+updated: 2025-03-02T20:04:40.135Z
 tags:
   - games
 categories:
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 * [Should Your GPU Fans Run at 100%?](#should-your-gpu-fans-run-at-100)
 * [How to Set a Custom GPU Fan Curve to Boost Gaming Performance](#how-to-set-a-custom-gpu-fan-curve-to-boost-gaming-performance)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can create a custom GPU fan curve to unlock your graphics card's full potential and prevent thermal throttling.
@@ -43,9 +40,6 @@ Jhet Borja/MakeUseOf
 
  With the right custom fan curve settings, however, you can flip that around and have a cooler GPU that uses its full potential instead of slowing down, keeping your gameplay at its maximum potential.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
 Jhet Borja/MakeUseOf
@@ -58,34 +52,22 @@ Jhet Borja/MakeUseOf
 
  However, in rare cases, the motor might need replacing as well. However, a [replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
 
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
 
  You'll be using three programs to create and find the best fan curve for your graphics card.
 
  To create a custom fan curve, we'll be using [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and [HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Step 2: Benchmark and Find Your Temperatures
 
  Before creating a custom fan curve, you need to figure out four things:
@@ -101,18 +83,12 @@ Jhet Borja/MakeUseOf
 
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
 
  At 100% fan speed, it tops out at around 69.5-70 °C. We also found that we could keep the temperature at 70-71 °C while only using 90% fan speed.
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
@@ -131,14 +107,11 @@ Jhet Borja/MakeUseOf
 
  By creating your own custom fan curve, you're taking more control over your graphics card and making the most out of it. You'll extend the lifespan and improve performance (all performance—not just gaming performance) by preventing thermal throttling, hitting two birds with one stone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,6 +120,24 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ideal-vr-solutions-for-drone-flying/"><u>[Updated] In 2024, Ideal VR Solutions for Drone Flying</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-desktop-and-mobile-solutions-how-to-rotate-videos-for-instagram/"><u>2024 Approved [Desktop & Mobile Solutions] How to Rotate Videos for Instagram?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-in-class-memetics-engine/"><u>Best-in-Class Memetics Engine</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-choices-for-immersive-vr-experiences/"><u>Economical Choices for Immersive VR Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-i-stumble-upon-premier-independent-titles-on-itchio/"><u>How I Stumble Upon Premier Independent Titles on itch.io</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-make-collage-for-facebook-instantly-for-2024/"><u>How to Make Collage for Facebook Instantly for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-in-volume-decrease-lumafusions-methodology/"><u>In 2024, Precision in Volume Decrease Lumafusion's Methodology</u></a></li>
+<li><a href="https://games-able.techidaily.com/nitro-vs-standard-discord-experience/"><u>Nitro Vs. Standard Discord Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-sound-strategies-with-high-quality-iems/"><u>Optimal Sound Strategies with High-Quality IEMs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/palworld-wont-open-discover-quick-resolves-to-get-you-back-in-the-game/"><u>Palworld Won't Open? Discover Quick Resolves to Get You Back in the Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-steam-network-unresponsive-error/"><u>Remedying Steam Network Unresponsive Error</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/resolvendo-problemas-de-initializacao-no-ssd-em-computadores-com-windows-1187-passos-detalhados-para-boot-pelo-disco-rigido-de-estado-solido/"><u>Resolvendo Problemas De Initialização No SSD Em Computadores Com Windows 11/8/7 – Passos Detalhados Para Boot Pelo Disco Rígido De Estado Sólido</u></a></li>
+<li><a href="https://games-able.techidaily.com/restricting-background-scrutiny-by-xbox-game-bar-on-win-11/"><u>Restricting Background Scrutiny by Xbox Game Bar on Win 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-right-gpu-founders-series-or-vega-asus-branded/"><u>Selecting Right GPU: Founder's Series or Vega Asus-Branded</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-infinix-smart-8-plus-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Infinix Smart 8 Plus Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/two-player-tactics-in-minecraft-on-switch/"><u>Two-Player Tactics in Minecraft on Switch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-apple-product-launches-unveiled-in-october-meet-the-new-m4-mac-mini-enhanced-ipads-and-advanced-ai-features/"><u>Upcoming Apple Product Launches Unveiled in October - Meet the New M4 Mac Mini, Enhanced iPads & Advanced AI Features</u></a></li>
+</ul></div>
 

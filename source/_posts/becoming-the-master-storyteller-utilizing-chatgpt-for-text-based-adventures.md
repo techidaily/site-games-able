@@ -1,7 +1,7 @@
 ---
 title: "Becoming the Master Storyteller: Utilizing ChatGPT for Text-Based Adventures"
-date: 2024-08-08T09:12:18.877Z
-updated: 2024-08-09T09:12:18.877Z
+date: 2025-03-01T17:01:13.306Z
+updated: 2025-03-02T21:06:19.363Z
 tags:
   - games
 categories:
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
  Number five is purely for visual presentation reasons. If you don’t add this, your game is going to use the default ChatGPT font and presentation instead of looking like the image below.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
  As you can see, this is more compact and easier to look at than the default look.
@@ -75,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
@@ -111,9 +104,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -136,9 +126,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Add Combat and Magic Rules
 
  As with any adventure [RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -179,14 +166,8 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
@@ -297,14 +278,11 @@ And finally, don’t forget to actually start the game:
 
  You can tap into that future now with ChatGPT and create your own fun-filled adventure text game on the chat. Have fun, but remember that right now, AI is still very limited.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -313,6 +291,26 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-digital-nightmare-drawer/"><u>[New] In 2024, Digital Nightmare Drawer</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002045242-solved-cod-vanguard-crashing-on-pc-2024/"><u>[SOLVED] CoD Vanguard Crashing on PC – 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-the-delayed-drop-heres-how-to-play-football-manager-2022-right-now/"><u>Dealing With the Delayed Drop? Here's How to Play Football Manager 2022 Right Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciding-between-chatgpt-and-huggingchat-a-guide-to-the-best-language-model-for-your-needs/"><u>Deciding Between ChatGPT and HuggingChat: A Guide to the Best Language Model for Your Needs</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-experience-level-up-gameplay/"><u>Elevate Experience, Level Up Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-alternatives-to-geforce-rtx-4060-ti/"><u>Exploring Alternatives to GeForce RTX 4060 Ti</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-x6-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco X6 Pro Is Unlocked</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/impress-your-pals-as-a-fake-linux-guru-with-just-5-hilarious-bash-tricks/"><u>Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unleash-superior-hd-videos-on-android-devices/"><u>In 2024, Unleash Superior HD Videos on Android Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/leverage-glossi-for-accessible-xbox-game-pass-on-steam/"><u>Leverage GlosSI for Accessible Xbox Game Pass on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-transforming-mobile-gaming-with-latest-software/"><u>Nvidia: Transforming Mobile Gaming with Latest Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-steam-content-server-down-issue-in-windows/"><u>Solving Steam Content Server Down Issue in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-stream-assist-improving-online-play/"><u>Understanding Stream Assist - Improving Online Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/uninstall-firmware-changes-on-series-xs-controllers/"><u>Uninstall Firmware Changes on Series X/S Controllers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-9plus-ingenious-methods-for-online-cricket-viewing/"><u>Unveiling 9+ Ingenious Methods for Online Cricket Viewing</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-gameplay-quality-with-higher-windows-fps/"><u>Upgrade Gameplay Quality with Higher Windows FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-smooth-is-better-a-case-for-console-players/"><u>Why Smooth Is Better: A Case for Console Players</u></a></li>
+</ul></div>
 

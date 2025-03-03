@@ -1,7 +1,7 @@
 ---
 title: Bargain Hunting? 4 Reasons to Pass on PS5
-date: 2024-08-08T09:09:00.073Z
-updated: 2024-08-09T09:09:00.073Z
+date: 2025-02-26T22:12:05.222Z
+updated: 2025-03-02T20:25:00.268Z
 tags:
   - games
 categories:
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 
  However, the PlayStation 5 has a long way to go to reach those dizzy heights. Here are all the reasons why we don't think you should buy a PS5, at least for now.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Limited Number of Exclusive First-Party Games
 
  It's not uncommon for gamers to play across multiple platforms, like the Nintendo Switch or Xbox Series X/S. That's why it's so important that a console has amazing exclusive games; those that you can only experience on that system.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 
  Over time, this will change. Sony will eventually provide the wealth of first-party exclusive games that the PS5 sorely needs. However, at the time of writing, it's been almost three years since the PS5 launched and it's hard to point at a single game that's a system seller.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Most Games Are Available on the PS4 and PC
 
  Compounding the issue is that many of these "exclusives" use that term loosely because they are also available on the PS4, like God of War Ragnarök and Marvel's Spider-Man: Miles Morales. These games are fantastic on the PS5, but they're great on the PS4 too. For this reason,[it may still be worth buying the PS4](https://www.makeuseof.com/is-it-still-worth-buying-ps4/) if you don't own one.
@@ -42,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 
  Not to bemoan Sony for this too heavily, though. It's great that the company is supporting the PC and that it hasn't immediately cut PS4 owners off in a bid to force them to upgrade to the PS5\. It just means if you already own a PS4 or gaming PC, then there's not much incentive to buy the PS5—unless factors such as the console's graphical prowess or peripherals like PlayStation VR2 are draws for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 3\. The PS5 Is Too Expensive
 
  In August 2022,[Sony announced that the PS5 was increasing in price](https://www.makeuseof.com/why-ps5-getting-more-expensive/) in many regions due to the challenges of the "global economic environment". In the US, a PS5 costs $500, which is very costly—though you can shave $100 off that if you buy the Digital Edition (which has no disc drive).
@@ -56,9 +46,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Granted, these cheaper devices don't pack the same punch when it comes to performance, and they host different games. But if you're simply in the market for a fun games machine and need to save your cash, they make for optimal alternatives.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Wait for the Inevitable Upgraded PS5
 
  At 390mm x 104mm x 260mm in size and 4.5kg in weight,[the PS5 is one hefty beast](https://www.makeuseof.com/how-big-is-the-ps5/) . If you usually keep your consoles beneath the TV in a media unit, you might find that the PS5 physically doesn't fit. And while the console's design is fine, it's not exactly a centerpiece; you don't want it dominating the room.
@@ -67,23 +54,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The same thing is bound to happen with the PS5, as it has done every console cycle—rumors indicate that [a PS5 Slim will arrive in 2023](https://www.makeuseof.com/is-sony-releasing-ps5-slim-2023/) , with a smaller form factor and detachable disc drive. Plus, it might be cheaper. Patience pays off.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Buy a PS5?
 
  Ultimately, only you know the answer to whether you should buy a PS5\. If none of these reasons sound like a dealbreaker to you, that's great—go ahead and buy the PS5, and hopefully you'll get hundreds of hours of entertainment from it.
 
  However, many people might want to pause. Perhaps wait until there are more PS5 exclusive games, it drops in price, or for the second iteration… or for all three. At that point, it's likely that the PS5 will be in a stronger position and become a must-own games console.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,6 +73,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-discovering-the-leading-speech-to-text-apps-for-ipads-3-for-2024/"><u>[New] Discovering the Leading Speech-to-Text Apps for iPads #3 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-video-spin-a-comprehensive-2023-users-guide-to-youtube-angles/"><u>[New] Mastering Video Spin A Comprehensive 2023 User's Guide to YouTube Angles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/demystifying-ps4s-capture-features-a-comprehensive-walkthrough-for-2024/"><u>Demystifying PS4's Capture Features A Comprehensive Walkthrough for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exceptionally-good-google-play-pass-with-one-glitch/"><u>Exceptionally Good Google Play Pass with One Glitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-installation-to-action-streamlined-gaming-setup-on-playstation-pcs/"><u>From Installation to Action: Streamlined Gaming Setup on PlayStation PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-writing-elevated-by-ai-driven-techniques/"><u>Game Writing Elevated by AI-Driven Techniques</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-renewed-view-of-sony-s3700-2023-edition/"><u>In 2024, The Renewed View of Sony S3700 2023 Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-11-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 11 Pro Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/installing-discord-desktop-app-on-apple-devices/"><u>Installing Discord Desktop App on Apple Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/iphone-strategies-preserving-and-enjoying-gifs-at-their-best/"><u>IPhone Strategies Preserving & Enjoying GIFs at Their Best</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-control-filter-key-functionality/"><u>Mastering Windows: Control Filter Key Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-network-nojo-reviving-minecraft-lan-on-pc/"><u>Navigating Network Nojo: Reviving Minecraft LAN on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-places-for-gamers-glory/"><u>Pinnacle Places for Gamers' Glory</u></a></li>
+<li><a href="https://games-able.techidaily.com/regaining-lost-fortnite-funds-a-stepwise-approach/"><u>Regaining Lost Fortnite Funds - A Stepwise Approach</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-launch-problems-with-saints-row-on-your-desktop-computer/"><u>Resolving Launch Problems with Saints Row on Your Desktop Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-component-integration-7-key-compatibility-rules/"><u>Seamless Component Integration - 7 Key Compatibility Rules</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-hidden-value-in-game-release-delays/"><u>The Hidden Value in Game Release Delays</u></a></li>
+</ul></div>
 

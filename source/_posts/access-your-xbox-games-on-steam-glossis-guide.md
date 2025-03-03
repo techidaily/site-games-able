@@ -1,7 +1,7 @@
 ---
 title: Access Your Xbox Games on Steam - GlosSI's Guide
-date: 2024-08-15T17:16:21.555Z
-updated: 2024-08-16T17:16:21.555Z
+date: 2025-02-25T21:14:58.588Z
+updated: 2025-03-02T19:55:24.271Z
 tags:
   - games
 categories:
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 ## What Is GlosSI?
 
 ![GlosSI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-logo.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Flatspot Pictures/[GlosSI](http://glossi.flatspot.pictures/)
 
@@ -48,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 ## How to Install GlosSI to Play Xbox Game Pass Games Through Steam Link
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
@@ -59,24 +53,15 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 ### Step 1: Download and Install GlosSI
 
 ![Download GlosSI installer page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/download-glossi-installer-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To download GlosSI, first head to [GlosSI download page](https://glossi.flatspot.pictures/#downloads) and look for the**Download Installer button** .
 
 ![GlosSI installing components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/glossi-installing-components-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
  Once the installer is downloaded, open it and set it up. When you get to the page where you have to choose the components, make sure everything is selected. Hit next and choose your installation location, then click**Install** . Once you click install, the other components that were selected will also ask to be installed, install those as well.
 
  After all the components have been installed, you must restart your PC to make it work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Step 2: Import GlosSI-Target to Steam
 
 ![GlosSI-Target and GlosSI on Windows Start page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-target-and-glossi-on-windows-start-page-2.jpg)
@@ -84,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
  Now that your PC is restarted, two programs have been added to your PC; the GlosSI-Target and GlosSI. You will be able to see these on your Windows Start menu. You can also search them up if you can’t find them.
 
 ![Add a Non-Steam Game button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/add-a-non-steam-game-button-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open up Steam and on the bottom left, you’ll see a**plus** with**Add a Game** next to it. Click that and click on**Add a Non-Steam Game…** when it pops up.
 
@@ -105,16 +87,9 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
  After clicking on Steam, a drop-down menu will show. Click on**Settings > Controller** .
 
 ![Enabling Steam Input for Xbox controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-steam-input-for-xbox-controllers-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Once you’re at the Controller tab, switch on**Enable Steam Input for Xbox controllers** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Step 4: Open the GlosSI Configurator and Add Your UWP Games
 
  Now that the prerequisites to get the controls working are done, we’re now going to add those UWP games to Steam so you can play them on Steam Link.
@@ -124,9 +99,6 @@ The ultimate burning program for all your needs!</a>
  Head to the Windows Start menu and search for**GlosSI** , not GlosSI-Target. Open GlosSI.
 
 ![GlosSI config adding UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-config-adding-uwp-app-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Once it’s open, click on the**\+ button** on the lower right side of the window. A pop-up will show asking what type of shortcut you want to add to GlosSI, click on**UWP app.**
 
@@ -143,17 +115,11 @@ The ultimate burning program for all your needs!</a>
  After saving, you’ll see the UWP app you just added on the main screen. However, you’ll need to click on the**gray Steam icon** on the bottom left of the game you just added.
 
 ![GlosSI config restart Steam after adding UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-config-restart-steam-after-adding-uwp-app-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After clicking on the Steam icon, you’ll be told to restart Steam to finalize your settings. You can choose to ignore this to add more games and restart Steam later once you’ve added everything.
 
  Finally, restart Steam and open up the games you’ve added just to make sure that they work; especially with a controller.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Connect Your Steam Link Device to Your PC and Test Out Your Games
 
  This guide isn’t just about playing UWP games on Steam, our goal is to be able to stream those games onto your mobile device or TV through Steam Link. We’ll do exactly that in this section.
@@ -165,9 +131,6 @@ The ultimate burning program for all your needs!</a>
  Next, go to your Steam Link device of choice. It can be a TV, phone, tablet, another PC, or wherever you want to stream your games. In our case, we’re going to be using a [Huawei MatePad 11 2023](https://www.makeuseof.com/huawei-matepad-11-2023-review/) .
 
 ![Steam Link Start Playing button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/steam-link-start-playing-button-1.JPG)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
@@ -193,23 +156,17 @@ The ultimate burning program for all your needs!</a>
 
  If it shows just a blank screen after starting up a UWP game, hit**Alt+Tab** on your keyboard to switch to the game, and it should be good to go.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Steam Link for Almost Any UWP Microsoft Game
 
  Steam Input isn’t universal, and Valve hasn’t updated Steam to be able to add UWP programs yet, if at all. We don’t want those limitations to stop you from playing your favorite games through Steam Link, as it’s one of the easiest local game streaming apps out there.
 
  Once everything is set up, there’s nothing stopping you from enjoying your favorite Xbox Game Pass or Microsoft Store games on your TV or tablet powered by your gaming computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -218,8 +175,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-live-stream-success-tackling-common-2023-interruption-cases-in-fb/"><u>[New] 2024 Approved Live Stream Success Tackling Common 2023 Interruption Cases in FB</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-sustained-disconnection-technique-from-youtube-shorts/"><u>[New] 2024 Approved Sustained Disconnection Technique From YouTube Shorts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-boosting-skypes-performance-with-advanced-zoom-functionalities/"><u>[Updated] 2024 Approved Boosting Skype's Performance with Advanced Zoom Functionalities</u></a></li>
+<li><a href="https://games-able.techidaily.com/1-valve-introduces-enhanced-family-features-and-superior-parenting-controls-on-steam-platform-the-latest-update-explained/"><u>1. Valve Introduces Enhanced Family Features & Superior Parenting Controls on Steam Platform - The Latest Update Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-your-ps4-controller-to-an-iphone-seamless-gaming-experience-tutorial-howtogeek/"><u>Connecting Your PS4 Controller to an iPhone - Seamless Gaming Experience Tutorial | HowToGeek</u></a></li>
+<li><a href="https://games-able.techidaily.com/experts-choice-for-budget-friendly-gaming-desktops-of-2n35-zdnet-insights/"><u>Experts' Choice for Budget-Friendly Gaming Desktops of 2N35 | ZDNET Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-13t-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on 13T?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-pc-hiccups-in-robocop-rogue-city-expert-advice-for-smooth-gaming/"><u>Overcoming PC Hiccups in RoboCop: Rogue City – Expert Advice for Smooth Gaming</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-elite-circle-of-seo-experts-based-in-belfast-comprehensive-strategies-and-solutions-by-seo-pros/"><u>The Elite Circle of SEO Experts Based in Belfast: Comprehensive Strategies and Solutions by SEO Pros</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-the-finest-75-inch-tvs-of-2024-thoroughly-tested-and-reviewed-by-industry-pros-screenselect/"><u>Ultimate Guide to the Finest 75-Inch TVs of 2024 - Thoroughly Tested & Reviewed by Industry Pros | ScreenSelect</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-vpn-selection-for-gamers-top-ranked-and-comprehensive-review-by-tech-experts-zdnet/"><u>Ultimate VPN Selection for Gamers: Top-Ranked & Comprehensive Review by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-ultimate-guide-to-the-ideal-gaming-displays-rankings-and-reviews/"><u>ZDNet's Ultimate Guide to the Ideal Gaming Displays : Rankings & Reviews</u></a></li>
+</ul></div>
 

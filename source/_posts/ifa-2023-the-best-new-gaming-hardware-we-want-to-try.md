@@ -1,7 +1,7 @@
 ---
 title: "IFA 2023: The Best New Gaming Hardware We Want to Try"
-date: 2025-02-06T23:30:05.056Z
-updated: 2025-02-11T20:33:21.112Z
+date: 2025-02-27T22:18:36.937Z
+updated: 2025-03-02T16:00:33.614Z
 tags:
   - games
 categories:
@@ -61,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![Lenovo Legion Go with Kickstand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-kickstand.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  The Lenovo Legion GO is scheduled to launch on October 31, 2023, for $799.
@@ -73,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
  Switching from desktop mode to handheld and back again with the Lenovo Legion GO sounds convenient, but what if you want to play on something bigger than its 8.8-inch screen? Bigger than your television? Lenovo hopes Legion GO buyers will accompany the handheld with the Lenovo Legion Glasses: a 1:1 carbon copy of 2022's ThinkVision Glasses T1\. The only actual difference is the Legion rebranding.
@@ -84,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
  But this kind of tech is still a brave new world, so it's worth covering Lenovo's smart glasses. The Lenovo Legion Glasses feature a micro-OLED display that gives players a 1920x1090 resolution_per eye._ Sounds like an awesome way to lean back and play "Armored Core VI: Fires of Rubicon" for the rest of 2023.
 
 ![legion-glasses-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
@@ -100,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
  But are they better than its competition, namely the[XReal Air smart glasses, arguably the best accessory for the Steam Deck](https://www.makeuseof.com/nreal-air-glasses-are-the-best-accessory-for-steam-deck/) ? That remains to be seen. They're a bit heavier at 5oz (142g) than the XReal Air's 2.6oz (75g). But with the adjustable nose pads and its anti-slip adapter, pressure on the nose may not make the glasses feel like they're going to fall off.
 
 ![Nosepad of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-nosepad.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
@@ -120,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
  An integrated liquid cooling system, for starters. Unlike most laptops that utilize air cooling to safely transfer heat away from the important bits of your PC, the Legion 9i uses liquid cooling technology to keep its internal temperature at a reasonable level. It's the same[principle behind water-cooled PCs](https://www.makeuseof.com/water-cooled-pc/) but in laptop form.
 
 ![Legion 9i's cooling system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-cooling-system.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
@@ -143,10 +123,6 @@ The Lenovo Legion 9i will be available starting October 2023.
 
 ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Gavin Phillips/MakeUseOf
 
  MSI impressed us with its new line of[GAMING SLIM series of graphics cards](https://www.msi.com/Graphics-Card/GeForce-RTX-4060-Ti-GAMING-X-SLIM-16G) . It effectively shrinks down the GeForce RTX 40 series, making installing it in small or tight spaces easier.
@@ -158,10 +134,6 @@ The Lenovo Legion 9i will be available starting October 2023.
  Image Credit: Gavin Phillips/MakeUseOf
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tecno MegaMini Watercooled Mini PC
 
@@ -201,20 +173,19 @@ No word on the price or release date yet, but color us intrigued.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-blur-a-picture-on-iphone-4-ways/"><u>[New] How to Blur a Picture on iPhone [4 Ways]</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-virtual-showdown-evaluating-obs-versus-twitchs-channel-space/"><u>[Updated] 2024 Approved Virtual Showdown Evaluating OBS Versus Twitch's Channel Space</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-wave-riders-guide-tips-on-underwater-video-with-your-gopro-camera/"><u>2024 Approved Wave Riders' Guide Tips on Underwater Video with Your GoPro Camera</u></a></li>
-<li><a href="https://games-able.techidaily.com/broadcast-your-gaming-adventures-with-xbox-on-discord/"><u>Broadcast Your Gaming Adventures with Xbox on Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-friendly-graphic-mastery/"><u>Budget-Friendly Graphic Mastery</u></a></li>
-<li><a href="https://games-able.techidaily.com/building-a-safe-steam-world-for-young-ones/"><u>Building a Safe Steam World for Young Ones</u></a></li>
-<li><a href="https://games-able.techidaily.com/chatgpt-unleashed-6-techniques-to-perfect-your-dungeon-mastering/"><u>ChatGPT Unleashed: 6 Techniques to Perfect Your Dungeon Mastering</u></a></li>
-<li><a href="https://games-able.techidaily.com/choosing-top-quality-work-flooring-systems/"><u>Choosing Top-Quality Work Flooring Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/coding-conundrum-the-advantages-and-disadvantages-of-digital-gaming/"><u>Coding Conundrum: The Advantages and Disadvantages of Digital Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/combating-crashing-fixes-for-steams-widescreen-issue/"><u>Combating Crashing: Fixes for Steam's Widescreen Issue</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-narzo-n53-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme Narzo N53 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolved-comprehensive-fixes-for-windows-update-error-code-0x8024401c-on-latest-operating-systems/"><u>Error Resolved: Comprehensive Fixes for Windows Update Error Code 0X8024401C on Latest Operating Systems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-post-a-vimeo-video-on-instagram-in-2024/"><u>How to Post a Vimeo Video on Instagram, In 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-kid-friendly-ipad-models-a-comprehensive-review-by-techexpert/"><u>Top 5 Kid-Friendly iPad Models : A Comprehensive Review by TechExpert</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mxfmpeg-movavi/"><u>オンラインで免費のMXFファイルMPEGへの変換 - Movavi</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-winning-hearts-an-approach-to-encourage-sign-ups-for-2024/"><u>[Updated] Winning Hearts An Approach to Encourage Sign-Ups for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-expert-seo-firms-in-san-francisco-your-comprehensive-guide-for-successful-ranking-strategies/"><u>1. Expert SEO Firms in San Francisco: Your Comprehensive Guide for Successful Ranking Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-masterful-descriptions-for-impactful-podcast-intros/"><u>2024 Approved Masterful Descriptions for Impactful Podcast Intros</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/can-you-extend-a-notebooks-memory-capacity-easily/"><u>Can You Extend a Notebook’s Memory Capacity Easily?</u></a></li>
+<li><a href="https://games-able.techidaily.com/control-conquerors-guide-to-fixing-xbox-controllers/"><u>Control Conqueror's Guide to Fixing Xbox Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/curbing-xbox-one-control-pad-discrepanrances/"><u>Curbing Xbox One Control Pad Discrepanrances</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-wmvcoredll-not-found-or-missing-errors/"><u>How to Fix Wmvcore.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-poco-c55-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Poco C55 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-game-files-transfer-via-storage-manager/"><u>Mastering Steam Game Files Transfer via Storage Manager</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-setup-obstacles-with-oculus-vr-in-pcs/"><u>Overcoming Setup Obstacles with Oculus VR in PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/private-label-for-steam-games/"><u>Private Label for Steam Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-unihertz-atom-xl-analysis-small-size-big-features/"><u>The Ultimate Unihertz Atom XL Analysis - Small Size, Big Features!</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-with-a-ps5-gamepad-reboot/"><u>Troubleshooting with a PS5 Gamepad Reboot</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-s17-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo S17 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

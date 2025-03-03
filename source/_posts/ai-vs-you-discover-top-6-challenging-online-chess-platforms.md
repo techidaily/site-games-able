@@ -1,7 +1,7 @@
 ---
 title: "AI vs You: Discover Top 6 Challenging Online Chess Platforms"
-date: 2024-08-08T09:09:15.391Z
-updated: 2024-08-09T09:09:15.391Z
+date: 2025-02-28T19:47:08.159Z
+updated: 2025-03-02T16:46:45.790Z
 tags:
   - games
 categories:
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 
  Have you ever played three-player chess? Or how about a game of chess where you don't take turns but keep playing all the time? From chess variants that challenge you to discard classical strategies and think anew to playing chess with AI for fun or to get your FIDE rating, these are some of the quirkiest and most fun ways to play a different type of chess.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## 1. Noctie
 
 ![Play a game against the Noctie AI to find your FIDE Elo rating in chess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-noctie-ai.jpg)
@@ -31,28 +28,8 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 
  For reference, you can refer to the Wikipedia Elo rating range table. Above a rating of 1000, every 2000 points puts you in a different class of chess player.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 2. Kung Fu Chess
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
 
  Chess is a turn-by-turn game, and the standard game encourages taking your time to think through each move. Kung Fu Chess changes the rules to remove the turn-by-turn style. You can move any piece at any moment without waiting for the opponent to make a move. It's basically taking the principles of real-time strategy games like Age of Empires and applying them to chess.
@@ -71,9 +48,6 @@ Key features:
 
  The free version of Chesswith.Ai gives you one credit when you verify your account, which allows you to make 40 moves—the average length of any game. You'll need to purchase additional credits to play further moves or games.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 4. Halfchess
 
  Halfchess is made for those who don't have the time to play a full game of chess but want to get a quick game in. Instead of a blitz game though, Halfchess reduces the size of the board. While the standard board is 8x8 squares, Halfchess is set on a 4x8 board. It also reduces you to a maximum of 8 pieces.
@@ -84,9 +58,6 @@ Key features:
 
 **Download:** Half Chess for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5. Really Bad Chess
 
  Eight pawns on the second row. Two rooks, knights, and bishops from out to in on the first row, with the king and queen between them. That's the standard chessboard. Really Bad Chess says, "Nah!" You'll still start with 16 pieces on the first two rows, but any piece could be anywhere and even repeat—except the King, who starts in the usual spot. The other 15 are completely random.
@@ -97,9 +68,6 @@ Key features:
 
 **Download:** Really Bad Chess for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6. Green Chess
 
 ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
@@ -116,14 +84,11 @@ Key features:
 
  For example, play the Chance variant, where after you select which piece you want to move, it changes to a random other piece. The randomizer is easy online, but you can do it offline with a dice. Assign a number to King, Queen, Rook, Bishop, Knight, and Pawn, and roll the dice after you've picked the piece to move.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,6 +97,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-in-depth-samsung-picture-editor-features-and-proscons/"><u>[New] 2024 Approved In-Depth Samsung Picture Editor Features and Pros/Cons</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-virtual-ventures-10-near-misses-to-gta-v/"><u>[New] 2024 Approved Virtual Ventures 10 Near-Misses to GTA V</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snowdrift-scribes-celebrating-beijings-olympic-spotlight/"><u>[New] Snowdrift Scribes Celebrating Beijing's Olympic Spotlight</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-integrated-story-spread-4-simple-steps-on-fb/"><u>[Updated] 2024 Approved Integrated Story Spread 4 Simple Steps on FB</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-perfect-tunes-essential-music-guide-for-instagram-clips/"><u>[Updated] 2024 Approved Perfect Tunes Essential Music Guide for Instagram Clips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-depth-look-screen-capture-tools-for-mac/"><u>[Updated] In-Depth Look Screen Capture Tools for Mac</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/0x00000019-bad-pool-header-in-windows-1087-solved/"><u>0X00000019 Bad Pool Header in Windows 10/8/7 [SOLVED]</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-identity-control-nintendo-console-mastery-guide/"><u>Enhancing Identity Control: Nintendo Console Mastery Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023s-gaming-hardware-roundup-what-to-expect/"><u>IFA 2023'S Gaming Hardware Roundup – What to Expect?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifas-new-tech-pushing-the-boundaries-in-gaming-hardware/"><u>IFA's New Tech: Pushing the Boundaries in Gaming Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/incorporating-safety-in-family-steam-playtime/"><u>Incorporating Safety in Family Steam Playtime</u></a></li>
+<li><a href="https://article-helps.techidaily.com/innovative-strategies-for-elevating-your-onestream-experience-for-2024/"><u>Innovative Strategies for Elevating Your OneStream Experience for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-elements-in-selecting-a-portable-gaming-device/"><u>Key Elements in Selecting a Portable Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-shooter-skills-with-perfect-mouse-sensitivity/"><u>Maximizing Your Shooter Skills with Perfect Mouse Sensitivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribers-sorrow-the-missing-manual-for-gamers/"><u>Subscriber's Sorrow: The Missing Manual for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-companion-introducing-pdw4/"><u>The Ultimate Game Companion: Introducing PDW4</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-visual-content-on-instagram-using-these-6-tools-for-2024/"><u>Transform Your Visual Content on Instagram Using These 6 Tools for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-smart-8-hd-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Infinix Smart 8 HD Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-elgato-model-offers-superior-performance/"><u>Which Elgato Model Offers Superior Performance?</u></a></li>
+</ul></div>
 

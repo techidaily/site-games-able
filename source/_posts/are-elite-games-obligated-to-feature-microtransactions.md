@@ -1,7 +1,7 @@
 ---
 title: Are Elite Games Obligated to Feature Microtransactions?
-date: 2024-08-15T17:14:47.072Z
-updated: 2024-08-16T17:14:47.072Z
+date: 2025-02-26T17:55:38.365Z
+updated: 2025-03-03T00:39:27.909Z
 tags:
   - games
 categories:
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 
 But what about premium games? Should they have microtransactions?
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Why Microtransactions Are Appearing in Premium Games
 
  So why are we seeing microtransactions in premium, even AAA, games? The short answer to this question is more money. We are at a time in the entertainment industry where it’s not enough to make a decent profit, but the company must grow every year.
@@ -54,9 +51,6 @@ But what about premium games? Should they have microtransactions?
  This ideology has seeped strongly into the highly lucrative gaming industry, and most (if not all) of the perpetrators are publicly traded corporations eager to please shareholders.
 
 ![Elder Scrolls Obvlivion gold horse armor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/elder-scrolls-obvlivion-gold-horse-armor.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  However, it didn’t start today; we can see signs of this as far back as 2006\. The most infamous early example was Horse Armor in The Elder Scrolls: Oblivion (2006). Horse Armor was a $2.50 DLC package Microsoft and Bethesda added to the Xbox 360 release of the game.
 
@@ -66,9 +60,6 @@ But what about premium games? Should they have microtransactions?
 
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Are Microtransactions Good for the Gaming Industry?
 
  On the surface, more money in an industry is always a good thing. It allows companies to have bigger budgets to research and develop better games, and it allows better marketing to introduce the products to diverse audiences.
@@ -77,9 +68,6 @@ But what about premium games? Should they have microtransactions?
 
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Paying More to Experience Less
 
  Let’s look at Middle-earth: Shadow of War as a case study. It was released as a sequel to Shadow of Mordor, a well-received game using the proprietary nemesis system.
@@ -88,9 +76,6 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Bloat and Battle Passes
 
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
@@ -105,9 +90,6 @@ But what about premium games? Should they have microtransactions?
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### A Dishonest Means of Collecting More Money
 
  If a role-playing game was listed for only $40 and you bought it, only to play it and discover that the hero class you would have loved to play is locked behind an additional $10 paywall—how would you feel? Cheated? That’s because you were.
@@ -124,14 +106,11 @@ But what about premium games? Should they have microtransactions?
 
  This is proof that it’s not necessary, and the companies behind these games can still make good money without tainting the sanctity of their craft. Hopefully, we will see a reduction in this trend in the future, but for now, we can only discourage it by not indulging.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,6 +119,20 @@ But what about premium games? Should they have microtransactions?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unbeatable-downloaders-for-youtube-and-fb-vids-mp4/"><u>[New] In 2024, Unbeatable Downloaders for YouTube & FB Vids (MP4)</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-alphanumeric-sequence-of-steam-ids/"><u>Decoding the Alphanumeric Sequence of Steam IDs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-tips-for-recording-ps4-games-with-obs/"><u>Essential Tips for Recording PS4 Games with OBS</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-itchio-routes-to-exceptional-indies/"><u>Exclusive Itch.io Routes to Exceptional Indies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-google-meet-username-transformation-guide/"><u>In 2024, Google Meet Username Transformation Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-search-filters-on-instagram/"><u>In 2024, How to Search Filters on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-gbc-games-4-ioss-best-emulators/"><u>Master the GBC Games: 4 iOS's Best Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/off-the-wire-android-and-ios-top-15-wi-fi-free-games/"><u>Off-the-Wire Android and iOS - Top 15 Wi-Fi Free Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-x-savings-your-ultimate-reward/"><u>Series X Savings: Your Ultimate Reward</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-definitive-guide-to-using-stellar-file-eraser-5-on-macos-easy-scheduled-deletions/"><u>The Definitive Guide to Using Stellar File Eraser 5 on macOS - Easy Scheduled Deletions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-steam-deck-enhancement-at-the-dock/"><u>The Ultimate Guide to Steam Deck Enhancement at the Dock</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-14-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi 14 support - Forgotten screen lock.</u></a></li>
+</ul></div>
 

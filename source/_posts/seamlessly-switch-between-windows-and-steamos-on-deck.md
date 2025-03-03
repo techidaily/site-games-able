@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Switch Between Windows & SteamOS on Deck
-date: 2025-02-08T20:27:12.861Z
-updated: 2025-02-11T19:11:17.370Z
+date: 2025-02-24T16:25:08.338Z
+updated: 2025-03-03T00:38:32.949Z
 tags:
   - games
 categories:
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 * [How to Set Up a Dual Boot Manager on Your Steam Deck](#how-to-set-up-a-dual-boot-manager-on-your-steam-deck)
 * [Fixes for Dual Boot Issues on Your Steam Deck](#fixes-for-dual-boot-issues-on-your-steam-deck)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Steam Deck can dual boot with Windows, allowing users to have a familiar OS for productivity and access to Xbox Game Pass.
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 * Users can use a third-party dual boot manager to avoid constantly using button combinations to switch OSes.
 
  You don't have to sacrifice SteamOS to have Windows on your Steam Deck, since the Steam Deck is capable of dual booting either through the official method or a third-party dual boot manager. Here's what you need to know about dual-booting Windows and SteamOS on your Steam Deck.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Dual Booting on Your Steam Deck?
 
@@ -82,10 +74,6 @@ Jhet Borja/MUO
 
  If you hold down the power button after the chime, you will most likely end up shutting your Steam Deck down again, so make sure to let go after the chime.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Up a Dual Boot Manager on Your Steam Deck
 
  If you don't like seeing the boot manager every time you want to switch OSes, you can instead use a dual boot manager.
@@ -102,17 +90,9 @@ Jhet Borja/MUO
 
 ![Selecting Unbranded Boot in Device Lockdown Windows Feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-unbranded-boot-in-device-lockdown-windows-feature.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, you’ll have to run a few commands in Command Prompt. Search "CMD" in Windows Search and right-click to select **Run as administrator**.
 
 ![CMD commands for Clover on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/cmd-commands-for-clover-on-steam-deck.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the Command Prompt, enter these commands one at a time:
 
@@ -155,10 +135,6 @@ Jhet Borja/MUO
 
 ![Front facing Steam Deck wth Clover dual boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/front-facing-steam-deck-wth-clover-dual-boot.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jhet Borja / MakeUseOf
 
  Once it’s installed, you can restart your Steam Deck to try it out. If it doesn’t look good to you, don’t worry, you can always add your own custom theme.
@@ -170,10 +146,6 @@ Jhet Borja / MakeUseOf
 ### 1\. You Can’t Find SteamOS in the Boot Manager
 
 ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -195,10 +167,6 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
 ![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This should put it back on the boot manager so that you don’t have to boot from the file anymore.
 
 ### 2\. Setting a Sudo Password
@@ -219,10 +187,6 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
 ![Run CloverWindows.bat as administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-cloverwindows-bat-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Extract the ZIP file into a folder and right-click **CloverWindows.bat** to **Run it as administrator**. It will tell you that Windows doesn’t recognize the app, just click **More Info > Run Anyway**.
 
 ![Windows protected your PC from CloverWindows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-protected-your-pc-from-cloverwindows.jpg)
@@ -238,10 +202,6 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
  In the properties, head to the general tab and select **Run whether user is logged on or not** and check the two boxes below it (see image), then click **OK**.
 
 ![Run on CloverTask in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-on-clovertask-in-task-scheduler.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Finally, right-click CloverTask once again and click **Run**.
 
@@ -276,20 +236,21 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-turn-off-youtubes-quick-video-buffering-feature/"><u>[Updated] 2024 Approved Turn Off YouTube's Quick Video Buffering Feature</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-quick-and-reliable-image-captures-pcs-top-5-apps/"><u>[Updated] In 2024, Quick and Reliable Image Captures PC's Top 5 Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-gameplay-sd-card-for-steam-deck/"><u>Enhancing Gameplay: SD Card for Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-artificial-intelligence-tools-every-entrepreneur-must-explore/"><u>Essential Artificial Intelligence Tools Every Entrepreneur Must Explore</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-accelerate-slow-mobile-networks-in-just-10-easy-steps/"><u>How To Accelerate Slow Mobile Networks in Just 10 Easy Steps</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-economic-elders-youtubes-most-knowledgeable-financial-stations/"><u>In 2024, Economic Elders YouTube's Most Knowledgeable Financial Stations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-zooming-in-a-videoleap-approach/"><u>In 2024, The Art of Zooming In A Videoleap Approach</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/learn-to-access-final-cut-pro-for-free/"><u>Learn To Access Final Cut Pro for Free</u></a></li>
-<li><a href="https://games-able.techidaily.com/phone-or-tablet-the-ultimate-gamers-decision-guide/"><u>Phone or Tablet: The Ultimate Gamer's Decision Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-file-eraser-5-mac-standard-en-schedule-erasure-for-erasing-files-and-folders/"><u>Stellar File Eraser 5 Mac Standard en Schedule Erasure for Erasing Files and Folders</u></a></li>
-<li><a href="https://games-able.techidaily.com/tailored-playthroughs-integrating-game-pass-onto-steam-through-glossi/"><u>Tailored Playthroughs - Integrating Game Pass Onto Steam Through GlosSI</u></a></li>
-<li><a href="https://games-able.techidaily.com/taipeis-2024-showdown-ai-tech-frontier/"><u>Taipei's 2024 Showdown: AI Tech Frontier</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/ultimate-guide-to-urgent-data-recovery-with-dell-datasafe-restoration-and-backup-solutions/"><u>Ultimate Guide to Urgent Data Recovery with Dell Datasafe: Restoration & Backup Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/unlock-the-power-of-integration-a-complete-resource-for-top-tier-repositories-and-addons-explored/"><u>Unlock the Power of Integration: A Complete Resource for Top-Tier Repositories & Addons Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/xboxs-system-against-game-hacks/"><u>Xbox's System Against Game Hacks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-metaverse-chronicles-exploring-infinite-worlds-through-film/"><u>[New] In 2024, Metaverse Chronicles Exploring Infinite Worlds Through Film</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-get-royalty-free-clip-art-for-2024/"><u>[Updated] How to Get Royalty Free Clip Art for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-flowchart-streaming-success-on-facebook-iphonesipads/"><u>[Updated] In 2024, The Ultimate Flowchart Streaming Success on Facebook, iPhones/iPads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-video-conferencing-with-ease-on-your-win10-pc/"><u>2024 Approved Navigating Video Conferencing with Ease on Your Win10 PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-critique-on-the-photo-capture-of-the-google-pixel-6-targeting-key-features/"><u>A Critique on the Photo Capture of the Google Pixel 6 – Targeting Key Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-top-electric-vehicles-model-s-vs-model-3-vs-model-x-vs-model-y-insights-by-zdnet/"><u>Comparing Top Electric Vehicles : Model S vs Model 3 vs Model X vs Model Y - Insights by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/fun-unplugged-engrossing-mobile-games-that-dont-need-data/"><u>Fun Unplugged: Engrossing Mobile Games That Don't Need Data</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chucklechasm-exciting-places-to-get-comical-calls/"><u>In 2024, ChuckleChasm Exciting Places to Get Comical Calls</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-plus-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 Plus to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-navigating-digital-dimensions-metaverse-and-multiverse/"><u>In 2024, Navigating Digital Dimensions Metaverse and Multiverse</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-8-lightweight-emulators-android-games-on-computers/"><u>Leading 8 Lightweight Emulators: Android Games on Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-package-engage-in-virtual-speed-sensation/"><u>MOZA R5 Package: Engage in Virtual Speed Sensation</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-review-landscape-with-confidence/"><u>Navigating Steam's Review Landscape with Confidence</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserve-and-protect-top-strategies-to-prolong-your-nintendo-switch/"><u>Preserve & Protect: Top Strategies to Prolong Your Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-roblox-fps-unlocker-mechanics/"><u>Understanding Roblox FPS Unlocker Mechanics</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-lies-beneath-meta-in-the-gaming-world/"><u>What Lies Beneath 'Meta' In the Gaming World?</u></a></li>
 </ul></div>
 

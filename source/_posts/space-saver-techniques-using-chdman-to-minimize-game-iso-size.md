@@ -1,7 +1,7 @@
 ---
 title: "Space-Saver Techniques: Using CHDMAN to Minimize Game ISO Size"
-date: 2025-02-06T17:14:29.537Z
-updated: 2025-02-11T19:18:46.401Z
+date: 2025-02-26T22:49:04.694Z
+updated: 2025-03-02T16:50:38.559Z
 tags:
   - games
 categories:
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is CHDMAN?
 
@@ -78,10 +74,6 @@ Our command was:
 
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
 
  CHDMAN and the CHD format can also be used to store compressed HDD backups. Those may share the same extension with optical backups saved as BIN and IMG, but you have to use a tweaked version of the above command to compress HDDs to CHDs:
@@ -94,19 +86,11 @@ Our command was:
 
  Knowing how to compress your large ROMs to leaner CHD files is our target in this article. Still, the following might be helpful if you decide to use that file format for your emulated games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Which Emulators Support CHDs?
 
  Although CHD files are now considered a standard for storing optical media and HDD backups in a compressed emulation-friendly format, not all emulators support them.
 
 ![DuckStation File Selector set to MAME CHD images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duckstation-chd-file-selection-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're looking for a CHD-compatible emulator then, luckily some of the most popular emulators support them. Here are a few examples of emulators that allow you to play CHDs:
 
@@ -125,10 +109,6 @@ Our command was:
 * PicoDrive.
 
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How Can You Check Your CHDs?
 
@@ -172,17 +152,17 @@ Our command was:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-6-advanced-strategies-for-gif-artistry/"><u>2024 Approved Expert Tips 6 Advanced Strategies for GIF Artistry</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/boost-your-machines-might-ultimate-strategies-for-peak-personal-computer-power-from-yl-tech-experts/"><u>Boost Your Machine's Might: Ultimate Strategies for Peak Personal Computer Power From YL Tech Experts</u></a></li>
-<li><a href="https://fox-within.techidaily.com/comprehensive-guide-troubleshooting-and-resolving-iphone-backup-problems-on-pcs-and-macs/"><u>Comprehensive Guide: Troubleshooting and Resolving iPhone Backup Problems on PCs & Macs.</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquering-the-ps5-playground-with-an-assist-controller/"><u>Conquering the PS5 Playground with an Assist Controller</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elite-collective-photo-music-plus-visual-creation-fusion/"><u>Elite Collective Photo, Music + Visual Creation Fusion</u></a></li>
-<li><a href="https://fox-links.techidaily.com/giggle-genesis-creepy-clones-with-a-smile-for-2024/"><u>Giggle Genesis Creepy Clones with a Smile for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11 5G Phone without Google Account?</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-ways-to-assess-your-xbox-playtime/"><u>Innovative Ways to Assess Your Xbox Playtime</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-game-multisession-access-enablement/"><u>PS5 Game Multisession Access Enablement</u></a></li>
-<li><a href="https://win11.techidaily.com/tailor-context-menu-on-windows-11-to-show-only-essentials/"><u>Tailor Context Menu on Windows 11 to Show Only Essentials</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-guide-to-choosing-a-premium-gaming-display/"><u>The Essential Guide to Choosing a Premium Gaming Display</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-visual-fidelity-on-series-x-blue-ray/"><u>Unleashing Visual Fidelity on Series X Blue-Ray</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-expertise-unlocked-in-depth-tutorial-for-apples-screen-recording-techniques/"><u>[Updated] 2024 Approved Expertise Unlocked In-Depth Tutorial for Apple's Screen Recording Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-leading-converter-youtube-dialogue-to-text/"><u>[Updated] Leading Converter YouTube Dialogue to Text</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-maximize-your-content-interaction/"><u>[Updated] Maximize Your Content Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amv-to-flv-in-minutes-easy-secure-video-conversion-at-no-cost-by-movavi/"><u>AMV to FLV in Minutes - Easy, Secure Video Conversion at No Cost by Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-xbox-console-cases/"><u>Decoding Xbox Console Cases</u></a></li>
+<li><a href="https://games-able.techidaily.com/expertly-curated-8-lightweight-virtual-platforms/"><u>Expertly Curated 8 Lightweight Virtual Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-edge-or-chrome-hiding-the-windows-taskbar-when-maximized/"><u>How to Fix Edge or Chrome Hiding the Windows Taskbar When Maximized</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-investing-in-portable-monitors-justified-discover-the-top-reasons/"><u>Is Investing in Portable Monitors Justified? Discover the Top Reasons</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-robloxs-fps-cheat-legitimate-and-secure/"><u>Is Roblox's FPS Cheat Legitimate and Secure?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/making-sense-of-virtual-realitys-promise-and-peril/"><u>Making Sense of Virtual Reality's Promise and Peril</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-switch-with-these-key-settings/"><u>Supercharge Your Switch with These Key Settings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step Up Your Game Designs with Wide Cabinetry Options
-date: 2024-08-15T17:16:09.000Z
-updated: 2024-08-16T17:16:09.000Z
+date: 2025-02-23T21:27:23.477Z
+updated: 2025-03-02T16:13:16.752Z
 tags:
   - games
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like [building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -44,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
 ![Importing metadata into Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/import-flyers-bezels-etc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
  This saves days’ worth of work alone, and means [LaunchBox Premium is worth the cost of admission](https://www.makeuseof.com/launchbox-premium-worth-buying/) highly recommend getting a lifetime subscription to both LaunchBox and EmuMovies. You’re looking at $135 for both licenses as of July 2023.
 
@@ -59,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
  But because I imported the metadata a moment ago, now this listing has a description, trailer, a banner image, and even music from the game. It’s as informative as a listing of an episode or film on your favorite streaming service, making it easy to choose the game you want to play.
 
 ![Game page in EmuMovies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/emu-movies-front-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re already familiar with [LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
@@ -71,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
 
  For example, when I want to exit a game, I tap my**Player 1 Start button** and**A button** simultaneously twice to activate the**Close the Active Window** value, which exits my game. I can also do a different button combination for the volume control, among other functions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. Big Box Adds Second Screen Support for Digital Marquees
 
  When you populate your library with metadata via EmuMovies, you probably notice that a marquee file is always downloaded. These files are used with a second screen, displayed as a marquee like a traditional arcade cabinet.
@@ -82,15 +69,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Once you have [set up dual monitors](https://www.makeuseof.com/how-to-set-up-dual-monitors/) for your arcade system, go into Big Box then select**Options > General > Marquee Screen > Screen 2** . Now, whenever you highlight a game in Big Box, your second screen will display the marquee for that particular game, usually reflective of the cabinet it was in during its heyday. It’s a nice touch that goes a long way toward making your cabinet feel authentic yet new.
 
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use Big Box In-Place of Your Windows Shell
 
  You don’t want to have to use a mouse to open Big Box every time your start the device running your cabinet. It’s preferable if you can dive right into your arcade cabinet’s frontend with as few steps as possible. Fortunately, Big Box makes it happen if your arcade cabinet is powered by Windows.
@@ -103,14 +84,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The amount of time and frustration saved alone is worth the cost of admission for LaunchBox and EmuMovies. It’s layered tidily in Big Box, making navigating your library of games via arcade controls so easy, you’ll wonder why other frontends are so complicated. Give it a shot, and you’ll become one of the converted.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,8 +97,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>[Updated] 2024 Approved A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-clipcomposers-evaluation-full-breakdown-of-video-editing-software/"><u>2024 Approved ClipComposer's Evaluation – Full Breakdown of Video Editing Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/converting-literature-to-gamification-with-ai-the-ultimate-guide-to-turning-sherlock-holmes-stories-into-games-using-chatgpt/"><u>Converting Literature to Gamification with AI: The Ultimate Guide to Turning Sherlock Holmes Stories Into Games Using ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-ram-upgrades-of-2023-boosting-gaming-and-productivity-with-expert-picks-from-zdnet/"><u>Essential RAM Upgrades of 2023: Boosting Gaming and Productivity with Expert Picks From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/microsofts-new-trial-an-ai-powered-assistant-for-xbox-support-explained-insights-from-zdnet/"><u>Microsoft's New Trial: An AI-Powered Assistant for Xbox Support Explained - Insights From ZDNet</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-transform-your-memories-top-rated-video-collage-apps-for-iphone-and-ipad/"><u>New 2024 Approved Transform Your Memories Top-Rated Video Collage Apps for iPhone and iPad</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-full-price-xbox-game-pass-ultimate-access-at-just-36-exclusive-guide-revealed-by-zdnet/"><u>Unlock Full-Price Xbox Game Pass Ultimate Access at Just $36: Exclusive Guide Revealed by ZDNet!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-complete-guide-to-video-editing-with-windows-movie-maker/"><u>Updated The Complete Guide to Video Editing with Windows Movie Maker</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/windows-11-ultimate-video-recorder-software-for-2024/"><u>Windows 11 Ultimate Video Recorder Software for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows7dvdpc/"><u>Windows7でDVDの内容をPCに移行するためのガイド</u></a></li>
+</ul></div>
 

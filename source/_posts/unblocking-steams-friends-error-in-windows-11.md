@@ -1,7 +1,7 @@
 ---
 title: Unblocking Steam's Friends Error in Windows 11
-date: 2025-02-06T16:30:39.531Z
-updated: 2025-02-11T19:25:42.353Z
+date: 2025-02-28T17:54:40.411Z
+updated: 2025-03-02T18:08:10.303Z
 tags:
   - games
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 
 Restart Steam and check if the issue is now fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Check Steam Friends & Chat Settings
 
  If restarting Steam didn’t fix the issue, you should check your account’s Friends & Chat settings. Here’s how you can do it:
@@ -49,10 +45,6 @@ Restart Steam and check if the issue is now fixed.
 
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Opt Out of Steam’s Beta Participation
 
  Signing up for the Steam Client Beta program allows you to use Steam’s latest features before they’re officially released. However, the Beta version might make the[Steam Client unstable](https://www.makeuseof.com/steam-client-crashing-troubleshooting/) , leading to the error. Follow these steps to disable the Steam Beta Client:
@@ -64,10 +56,6 @@ Restart Steam and check if the issue is now fixed.
 5. Select the**No beta chosen** option.
 
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Edit Steam’s Executable
 
@@ -85,10 +73,6 @@ Restart Steam and check if the issue is now fixed.
 
  If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Delete Steam's Web Data
 
  If you’ve deleted Steam's appdata folder and you're still dealing with the same issue, you should delete Steam’s web browser data. Here’s how you can do it:
@@ -102,10 +86,6 @@ Restart Steam and check if the issue is now fixed.
 7. Close the game, restart Steam, and check if the issue is now solved.
 
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
 
@@ -126,15 +106,21 @@ Restart Steam and check if the issue is now fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-foundation-of-a-great-facebook-presence-mastering-covers/"><u>[New] 2024 Approved The Foundation of a Great Facebook Presence Mastering Covers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transforming-the-metaverse-essential-gear-to-consider-top-7/"><u>[New] Transforming the Metaverse Essential Gear to Consider (Top 7)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix .</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/essential-techniques-for-color-enhancement-in-ps-for-2024/"><u>Essential Techniques for Color Enhancement in PS for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-ai-innovation-comparing-gpt-4-with-its-siblings-gpt-4-turbo-and-gpt-n/"><u>Inside AI Innovation: Comparing GPT-4 with Its Siblings, GPT-4 Turbo & GPT-N</u></a></li>
-<li><a href="https://games-able.techidaily.com/reaching-new-heights-with-luxury-chairs/"><u>Reaching New Heights with Luxury Chairs</u></a></li>
-<li><a href="https://games-able.techidaily.com/reverse-latest-xbox-joystick-calibration/"><u>Reverse Latest Xbox Joystick Calibration</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-dark-side-of-handheld-gaming/"><u>The Dark Side of Handheld Gaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-building-dungeons-and-dragons-heroes-via-chatgptdall-e/"><u>The Ultimate Guide to Building Dungeons & Dragons Heroes via ChatGPT/DALL-E</u></a></li>
-<li><a href="https://games-able.techidaily.com/void-virtuoso-investigating-new-tech-brands/"><u>Void Virtuoso: Investigating New Tech Brands</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-in-depth-analysis-freelens-webcam-recorder-app/"><u>[New] 2024 Approved In-Depth Analysis Freelens Webcam Recorder App</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-streamers-checklist-secure-video-ad-revenue/"><u>[New] In 2024, Streamer's Checklist Secure Video Ad Revenue</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-6plus-software-choices-download-youtube-music-as-mp3-for-iphone-users/"><u>[Updated] 6+ Software Choices Download YouTube Music as MP3 for iPhone Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-instagram-video-to-mp3-sound/"><u>2024 Approved From Instagram Video to Mp3 Sound</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/complete-free-tutorial-on-how-to-get-watch-and-experience-high-quality-vr-in-4k-with-360-degrees-views/"><u>Complete Free Tutorial on How to Get, Watch & Experience High-Quality VR in 4K with 360 Degrees Views</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-xbox-gameplay-to-discord-audiences/"><u>Connecting Xbox Gameplay to Discord Audiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-childs-defensive-ps5-environment/"><u>Crafting a Child’s Defensive PS5 Environment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-engaging-podcast-summaries-techniques-and-examples/"><u>In 2024, Crafting Engaging Podcast Summaries Techniques & Examples</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-pc-inputs-to-steam-deck-safely-using-a-barrier-approach/"><u>Integrating PC Inputs to Steam Deck Safely Using a Barrier Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-window-11-experience-with-dynamic-backdrops/"><u>Personalize Your Window 11 Experience with Dynamic Backdrops</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-a58-4g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo A58 4G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-simplicity-intels-contribution-with-stream-assist/"><u>Streaming Simplicity: Intel's Contribution with Stream Assist</u></a></li>
+<li><a href="https://games-able.techidaily.com/taking-a-glimpse-at-amds-future-with-rdna-35-and-its-expected-unveiling/"><u>Taking a Glimpse at AMD’s Future with RDNA 3.5 and Its Expected Unveiling</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-purging-past-games-from-playstation-5/"><u>The Ultimate Guide to Purging Past Games From PlayStation 5</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-wacom-bamboo-no-hassle-just-fast/"><u>Update Wacom Bamboo - No Hassle, Just Fast!</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtube-reworking-its-arsenal-with-cutting-edge-mini-games/"><u>YouTube Reworking Its Arsenal with Cutting-Edge Mini Games!</u></a></li>
 </ul></div>
 

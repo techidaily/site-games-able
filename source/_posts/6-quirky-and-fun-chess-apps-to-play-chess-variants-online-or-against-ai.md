@@ -1,7 +1,7 @@
 ---
 title: 6 Quirky and Fun Chess Apps to Play Chess Variants Online or Against AI
-date: 2024-08-15T17:16:42.872Z
-updated: 2024-08-16T17:16:42.872Z
+date: 2025-02-26T17:38:32.854Z
+updated: 2025-03-02T18:43:30.640Z
 tags:
   - games
 categories:
@@ -28,15 +28,9 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 
  For reference, you can refer to the Wikipedia Elo rating range table. Above a rating of 1000, every 2000 points puts you in a different class of chess player.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2. Kung Fu Chess
 
 ![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Chess is a turn-by-turn game, and the standard game encourages taking your time to think through each move. Kung Fu Chess changes the rules to remove the turn-by-turn style. You can move any piece at any moment without waiting for the opponent to make a move. It's basically taking the principles of real-time strategy games like Age of Empires and applying them to chess.
 
@@ -44,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 
  Beginners should ideally start with the Kung Fu Chess solo campaign mode to play against a bot to learn and practice the new rules. Once you're confident, you can play against AI or a friend in both standard or lightning modes.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## 3. Chesswith.Ai
 
 ![Chesswith.Ai uses ChatGPT to let you play against fictional characters who talk to you after each turn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-chesswithai.jpg)
@@ -67,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 
 **Download:** Half Chess for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5. Really Bad Chess
 
  Eight pawns on the second row. Two rooks, knights, and bishops from out to in on the first row, with the king and queen between them. That's the standard chessboard. Really Bad Chess says, "Nah!" You'll still start with 16 pieces on the first two rows, but any piece could be anywhere and even repeat—except the King, who starts in the usual spot. The other 15 are completely random.
@@ -80,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 
 **Download:** Really Bad Chess for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 6. Green Chess
 
 ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
@@ -93,23 +78,17 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 
  Green Chess categorizes the variants by types, such as different initial positions, different board sizes, randomly changing pieces, modified rules, different shapes of boards, three-player chess, and four-player chess. Create a game, join from the lobby, or start learning by watching someone else's public game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Play Chess Variants Offline
 
  If you like this variety of different ways to play chess, you can even do them offline with friends. Games that use the regular board and pieces but change the rules are the easiest to implement, like Anti-Chess. For some others, you can get creative.
 
  For example, play the Chance variant, where after you select which piece you want to move, it changes to a random other piece. The randomizer is easy online, but you can do it offline with a dice. Assign a number to King, Queen, Rook, Bishop, Knight, and Pawn, and roll the dice after you've picked the piece to move.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,8 +97,18 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-instagrams-background-replace-technique/"><u>[New] Unveiling Instagram’s Background Replace Technique</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-digital-humorist-hub/"><u>[Updated] In 2024, Digital Humorist Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-you-can-view-public-instagram-profiles-without-being-a-user/"><u>Discover How You Can View Public Instagram Profiles Without Being a User</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-selection-of-gamer-focused-ssds-boosting-playtime-on-all-platforms/"><u>Discover the Ultimate Selection of Gamer-Focused SSDs: Boosting Playtime on All Platforms!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mute-windows-11-monitoring-tools/"><u>How to Mute Windows 11 Monitoring Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-13-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 13</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-11-pro-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 11 Pro iCloud Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gaming-systems-a-comprehensive-review-by-zdnet/"><u>Top Rated Gaming Systems : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranking-pc-screens-for-gamers-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking PC Screens for Gamers - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-budget-friendly-gaming-screens-into-elite-workstations-the-diy-guide/"><u>Transforming Budget-Friendly Gaming Screens Into Elite Workstations - The DIY Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watching-roku-channels-options-beyond-the-traditional-stick-and-remote-setup/"><u>Watching Roku Channels: Options Beyond the Traditional Stick and Remote Setup</u></a></li>
+</ul></div>
 

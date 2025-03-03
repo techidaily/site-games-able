@@ -1,7 +1,7 @@
 ---
 title: "EraBinder Compact: 8-Bit Console on the Go"
-date: 2025-02-06T23:16:26.218Z
-updated: 2025-02-12T00:20:00.738Z
+date: 2025-03-01T23:07:47.227Z
+updated: 2025-03-02T22:14:12.766Z
 tags:
   - games
 categories:
@@ -179,10 +179,6 @@ There’s even Nintendo GameCube and Wii support.
 
  Emulation of these platforms is available via the RetroidLauncher interface, which appears upon first launch. The Retroid community maintains an[online spreadsheet of tested games](https://docs.google.com/spreadsheets/u/0/d/1Vf7SIS7ecWa%5FJ301h0mb2bxMWBMtKLvcpAFyaa5-LDc/edit?usp=sharing&pli=1) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Console Design and Specification
 
  Lightweight (235 grams) and easily pocketed at 184.7 x 81.4 x 24.2mm, the Retroid Pocket 3+ is smaller than a Nintendo Switch, and squatter than an Evercade EXP.
@@ -191,19 +187,11 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retoid Pocket 3+ ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-ports.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Behind the 4.7-inch touchscreen display ([750x1334@60fp](mailto:750x1334@60fp) , maximum 450 nits) is the Unisoc Tiger T618 processor, with <2xA75@2.0GHz> and <6xA55@2.0GHz> CPU. The GPU is the Mali G52 MC2, clocked at 850MHz, and the system relies on 4GB LPDDR4x RAM (3733Mbps). Storage is courtesy of a built-in 128GB eMMC 5.1 chip, but you can expand this via the microSD slot.
 
  Other ports include a 720p micro HDMI port, 3.5mm audio port, and a USB Type C port for charging and data. Powering the Retroid Pocket 3+ on the go is a 4500mAh battery, and the device is built into a metal frame for robustness and passive heat dissipation.
 
  The device also has Wi-Fi 5 and Bluetooth 5.0 and can receive OTA updates to the Android 11 OS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Long Does the Battery Last?
 
@@ -212,10 +200,6 @@ There’s even Nintendo GameCube and Wii support.
  I pushed it to 7 hours after disabling Wi-Fi (the Google Play Store is especially data-hungry), and I suspect playing lower-spec games (such as 8-bit Atari, Nintendo, and Sega titles) will have a noticeable effect on the battery.
 
  Of course, the attraction of the Retroid Pocket 3+ is that the console runs several 16-bit and 32-bit platforms, so your mileage will vary depending on the emulation you’re looking for.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Using the Retroid Pocket 3+ Controls
 
@@ -247,19 +231,11 @@ There’s even Nintendo GameCube and Wii support.
 
  Failing that, it also comes with Steam Link installed, for playing games over your network from a nearby PC. It’s almost as good as having a[Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) (but not quite).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Retro Gaming and Gameplay on the Retroid Pocket 3+
 
  An emulation system like the Retroid Pocket 3+ has everything you need to start gaming right away—except the ROMs. While the odd emulator or virtual machine system might have a game built in, it won’t be anything remarkable.
 
 ![RetroidLauncher software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/muo-reviews-retroid-pocket-3-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In short, you have to do the hard work of finding ROMs and transferring them to the console yourself. This, of course, is the ultimate legal get-out for the manufacturer. They don’t distribute ROMs, so they’re not at risk of prosecution for distributing copyrighted games without a license.
 
@@ -298,16 +274,20 @@ There’s even Nintendo GameCube and Wii support.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-dazzle-with-directors-lighting-tips-for-captivating-clips/"><u>[New] In 2024, Dazzle with Directors' Lighting Tips for Captivating Clips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-video-content-top-formats-on-youtube-for-2024/"><u>[Updated] Enhancing Video Content Top Formats on YouTube for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/critical-errors-ensuring-quality-when-buying-a-monitor/"><u>Critical Errors: Ensuring Quality When Buying a Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/discreetly-stowing-steam-titles/"><u>Discreetly Stowing Steam Titles</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-navigating-the-android-devices-contact-list/"><u>Easy Steps: Navigating the Android Device's Contact List</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoy-seamless-gaming-with-a-fresh-nintendo-joy-con-joystick/"><u>Enjoy Seamless Gaming with a Fresh Nintendo Joy-Con Joystick</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/getting-comfortable-with-zoom-a-beginners-tutorial/"><u>Getting Comfortable with Zoom A Beginner’s Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/glossi-tips-for-playing-xbox-game-pass-on-steam-connection/"><u>GlosSI Tips for Playing Xbox Game Pass on Steam Connection</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-samsung-galaxy-z-fold-5-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Samsung Galaxy Z Fold 5? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leading-gloves-transforming-vr-playtime/"><u>Leading Gloves Transforming VR Playtime</u></a></li>
-<li><a href="https://games-able.techidaily.com/moza-r5-a-budget-friendly-triumph-in-sim-driving/"><u>MOZA R5: A Budget-Friendly Triumph in Sim Driving</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-steps-to-apply-a-creative-commons-copyright/"><u>[New] 2024 Approved Essential Steps to Apply a Creative Commons Copyright</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-making-text-pop-in-instagram-stories-with-simple-animations/"><u>[New] In 2024, Making Text Pop in Instagram Stories with Simple Animations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-capturing-perfect-sounds-our-top-6-recommendations-for-livestreamers-for-2024/"><u>[Updated] Capturing Perfect Sounds Our Top 6 Recommendations for Livestreamers for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guide-complet-comment-cloner-votre-sysdisk-pour-une-sauvegarde-ultime/"><u>Guide Complet : Comment Cloner Votre SysDisk Pour Une Sauvegarde Ultime</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-v29-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo V29 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/hyper-responsive-top-logitech-for-gamers/"><u>Hyper-Responsive: Top Logitech for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-steam-account-number-retrieval-methods/"><u>Learn Steam Account Number Retrieval Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-discord-engaging-in-games-and-competitions/"><u>Mastering Discord: Engaging in Games & Competitions</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-sony-marketplace-with-ease/"><u>Navigating the Sony Marketplace with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/newest-tech-gadgets-at-ifa-expo/"><u>Newest Tech Gadgets at IFA Expo</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-legends-iphone-edition-to-nes-and-snes-games/"><u>Playing Legends: IPhone Edition to NES and SNES Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/pokemon-flashback-android-game-re-imagining/"><u>Pokémon Flashback: Android Game Re-Imagining</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-you-opt-for-copilot-pro-a-comprehensive-guide-highlighting-benefits-over-standard-copilot/"><u>Should You Opt for CoPilot Pro? A Comprehensive Guide Highlighting Benefits Over Standard CoPilot</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-guide-to-the-best-game-editing-apps/"><u>Step-by-Step Guide to the Best Game Editing Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-tricks-making-powerful-yt-thumbnails-for-2024/"><u>Top Tricks Making Powerful YT Thumbnails for 2024</u></a></li>
 </ul></div>
 

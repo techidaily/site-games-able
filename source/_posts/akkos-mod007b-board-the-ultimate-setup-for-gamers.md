@@ -1,7 +1,7 @@
 ---
 title: Akko's MOD007B Board - The Ultimate Setup for Gamers
-date: 2024-08-08T09:12:17.910Z
-updated: 2024-08-09T09:12:17.910Z
+date: 2025-02-26T23:38:17.503Z
+updated: 2025-03-02T20:52:38.056Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
 ## Akko's MOD007B Board - The Ultimate Setup for Gamers
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Akko MOD007B HE keyboard uses Hall Effect switches for customizable actuation distance, giving gamers an advantage.
@@ -112,14 +109,8 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## A Great-Looking Keyboard on the Surface
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
@@ -130,9 +121,6 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tokyo-Themed Keys and Accessories Included
 
 ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
@@ -143,30 +131,16 @@ No
 
  The extra keycaps contain Japanese icons, but installing them could potentially mix up the perfect pink-and-white combination on the stock keys already. But they’re still a great option if you want to customize your keyboard further and have memorized the placement of non-alphanumeric keys.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
 
  Jowi Morales / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## The Akko MOD007B Means Serious Business Underneath
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
 
  On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
  Jowi Morales / MakeUseOf
@@ -185,9 +159,6 @@ Related
 
  The MOD007B is also compatible with three-pin mechanical switches. So, if you prefer using mechanical keys (or if you’re playing in a competition that requires mechanical switches), you can easily switch them out on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Akko MOD007B HE Three-Pin Mechanical Switch-Compatible PCB](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-three-pin-mechanical-switch-compatible-pcb.jpg)
 
  Jowi Morales / MakeUseOf
@@ -210,9 +181,6 @@ Related
 
 ## Confusing Multi-Mode Pairing
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
  Jowi Morales / MakeUseOf
@@ -319,14 +287,11 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/) [See at Amazon](https://www.amazon.com/dp/B0CP7CYWRY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031519&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fakko-mod007b-hall-effect-keyboard-review%2F&asc%5Fcampaign=Affiliate)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -335,6 +300,26 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-non-standard-video-editing-applications-on-windows/"><u>[New] 2024 Approved Non-Standard Video Editing Applications on WIndows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-editing-the-secret-techniques-for-background-obliteration-in-affinity/"><u>[New] Revolutionize Editing The Secret Techniques for Background Obliteration in Affinity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-soundtrack-streamlining-top-websites-for-skype-ringtones/"><u>2024 Approved Soundtrack Streamlining Top Websites for Skype Ringtones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-complexity-of-ai-simple-terms-explained/"><u>Demystifying the Complexity of AI: Simple Terms Explained</u></a></li>
+<li><a href="https://win-latest.techidaily.com/enhance-computer-speed-and-health-by-mastering-disk-defrag-strategies-tips-and-tricks-by-yl-software/"><u>Enhance Computer Speed and Health by Mastering Disk Defrag Strategies - Tips & Tricks by YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-no-internet-access-on-an-ethernet-connection-on-windows/"><u>How to Fix No Internet Access on an Ethernet Connection on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic-v2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor Magic V2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-note-12-pro-4g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Xiaomi Redmi Note 12 Pro 4G Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-one-play-anyhow/"><u>Mastering Xbox One: Play Anyhow!</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-showdown-top-picks-for-game-browsers-ranked/"><u>Opera GX & Edge Showdown: Top Picks for Game Browsers Ranked</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-play-essential-tech-for-gamers/"><u>Optimizing Play: Essential Tech for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-integration-subscribing-and-maximizing-ps5s-ea-play/"><u>Seamless Integration: Subscribing & Maximizing PS5's EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-additional-credits-for-game-purchases/"><u>Securing Additional Credits for Game Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-co-op-thriving-as-a-duo-in-switchs-minecraft/"><u>Strategic Co-Op: Thriving as a Duo in Switch’s Minecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-pass-showdown-psplus-vs-xbox/"><u>The Ultimate Game Pass Showdown: PS+ VS Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-gpu-heat-impact-in-gaming/"><u>Understanding GPU Heat Impact in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-peak-performance-in-online-gaming-intels-role/"><u>Unlocking Peak Performance in Online Gaming - Intel's Role</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-yields-mastering-the-art-of-viral-hashtag-use/"><u>YouTube Yields Mastering the Art of Viral Hashtag Use</u></a></li>
+</ul></div>
 

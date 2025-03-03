@@ -1,7 +1,7 @@
 ---
 title: "Step-In Guide: PS5 Controller Compatibility on Your PC"
-date: 2025-02-06T23:13:29.349Z
-updated: 2025-02-11T19:37:26.853Z
+date: 2025-02-27T21:00:58.784Z
+updated: 2025-03-02T18:36:16.543Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
  The process here is straightforward. Connect the USB-C end of the cable to your PS5 controller, and connect the other end to your PC. Windows will notify you that a controller has been connected and the DualSense will light up.
 
  That's about it! Your controller is now usable and you can go ahead and play video games. Once you launch a video game with controller support, your PS5 controller will shine with a white glow around the touchpad.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Connect the PS5 DualSense Controller to a PC With Bluetooth
 
@@ -100,10 +92,6 @@ Close
 
  You can access many settings for your PS5 controller through Steam. You can set a shutdown timer so that the controller turns off after a period of inactivity, disable force feedback, and of course, change your PS5 controller's light color.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Set a Shutdown Timer for the PS5 Controller
 
  To save battery on your wireless PS5 controller, you can set a shutdown timer that turns it off when it's idle for a while.
@@ -128,17 +116,9 @@ You can follow these steps in Steam to set a shutdown timer:
 
 ![LED settings for the PS5 controller in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/led-settings-for-the-ps5-controller-in-steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can enable Player Slot LEDs to distinguish multiple controllers connected to your PC by emitting a different light for each (e.g. P1 and P2).
 
 ###
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Enable the PS5 Controller Vibrations
 
@@ -178,24 +158,18 @@ You can follow these steps in Steam to set a shutdown timer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-clearing-up-audio-issues-in-half-volume-facebook-content/"><u>[New] Clearing Up Audio Issues in Half-Volume Facebook Content</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/armonious-histories-exploring-musical-legends-with-these-15-video-documentaries-for-2024/"><u>[New] Harmonious Histories Exploring Musical Legends with These 15 Video Documentaries for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-eating-entertainment-tiktoks-top-culinary-shows/"><u>[New] In 2024, Eating Entertainment TikTok's Top Culinary Shows</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-10-open-source-os-friendly-videography-software/"><u>[Updated] 2024 Approved Top 10 Open-Source OS-Friendly Videography Software</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-groups-of-flying-robots-for-2024/"><u>[Updated] Groups of Flying Robots for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-comprehensible-guide-for-itchios-great-gaming-finds/"><u>A Comprehensible Guide for Itch.io’s Great Gaming Finds</u></a></li>
-<li><a href="https://games-able.techidaily.com/achievement-arenas-champion-clusters/"><u>Achievement Arenas: Champion Clusters</u></a></li>
-<li><a href="https://games-able.techidaily.com/advantages-to-late-game-debuts/"><u>Advantages to Late Game Debuts</u></a></li>
-<li><a href="https://games-able.techidaily.com/akkos-mod007b-keyboard-elevating-gaming-performance/"><u>Akko's MOD007B Keyboard - Elevating Gaming Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/banish-blue-screen-blues-repairing-the-launcher-hitch/"><u>Banish Blue Screen Blues: Repairing the Launcher Hitch</u></a></li>
-<li><a href="https://games-able.techidaily.com/batocera-meets-retropie-which-rpi-game-suite-triumphs/"><u>Batocera Meets RetroPie: Which RPi Game Suite Triumphs?</u></a></li>
-<li><a href="https://games-able.techidaily.com/become-a-pro-at-mobile-gaming-learn-button-controls/"><u>Become a Pro at Mobile Gaming: Learn Button Controls</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164863987-gamers-discover-the-future-oled-monitors/"><u>Gamers, Discover the Future - OLED Monitors!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/integrating-songs-and-snaps-online/"><u>Integrating Songs and Snaps Online</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-screen-woes-recover-lost-or-missing-app-icons-with-these-fixes/"><u>IPhone Screen Woes: Recover Lost or Missing App Icons with These Fixes!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172605573-step-up-your-game-designs-with-wide-cabinetry-options/"><u>Step Up Your Game Designs with Wide Cabinetry Options</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-to-fix-the-mfc42dll-not-detected-problem-easily/"><u>Troubleshooting Tips to Fix the 'mfc42.dll Not Detected' Problem Easily</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-home-movie-magic-pro-tips-for-editing-like-a-pro-for-2024/"><u>Updated Home Movie Magic Pro Tips for Editing Like a Pro for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-navigating-the-highest-rated-pixel-soundtracks-online/"><u>[New] In 2024, Navigating the Highest-Rated Pixel Soundtracks Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-engagement-avoiding-common-youtube-thumbnail-errors-for-2024/"><u>[Updated] Maximizing Engagement Avoiding Common YouTube Thumbnail Errors for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/android-performance-booster-fast-track-your-phone-with-efficient-task-killing/"><u>Android Performance Booster: Fast Track Your Phone with Efficient Task Killing</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-premier-75-inch-televisions-tested-by-professionals-indepth-review-on-zdnet/"><u>Discover the Premier 75-Inch Televisions Tested by Professionals | InDepth Review on ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-list-of-best-gamer-mice-expert-picks-from-zdnet/"><u>Discover the Ultimate List of Best Gamer Mice - Expert Picks From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-deals-score-your-dream-nvidia-powered-gaming-rig-during-amazon-prime-day-2024-insider-reviews/"><u>Exclusive Deals: Score Your Dream Nvidia-Powered Gaming Rig During Amazon Prime Day 2024 - Insider Reviews</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/integrating-google-chromecast-into-your-firestick-smart-streaming-setup/"><u>Integrating Google Chromecast Into Your Firestick Smart Streaming Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/re-engaging-with-ms-store-a-stepwise-approach-to-windows-pcs/"><u>Re-Engaging with MS Store: A Stepwise Approach to Windows PCs</u></a></li>
+<li><a href="https://win-info.techidaily.com/troubleshooting-your-sound-card-issues-essential-tips-provided-by-yl-software-experts/"><u>Troubleshooting Your Sound Card Issues: Essential Tips Provided by YL Software Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-memorial-day-deal-get-a-whopping-250-discount-on-the-latest-high-performance-gaming-laptop-techradar/"><u>Unbeatable Memorial Day Deal: Get a Whopping $250 Discount on the Latest High-Performance Gaming Laptop | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/up-to-32-off-the-combo-of-xbox-series-sx-with-amazon-firestick-4k-max-plus-xbox-game-pass-for-free/"><u>Up to 32% Off the Combo of Xbox Series S/X with Amazon Firestick 4K Max - Plus Xbox Game Pass for Free!</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-comprehensive-evaluation-of-glorious-aura-keycaps-unmatched-quality-in-pudding-cap-innovations/"><u>ZDNet’s Comprehensive Evaluation of Glorious Aura Keycaps: Unmatched Quality in Pudding Cap Innovations</u></a></li>
 </ul></div>
 

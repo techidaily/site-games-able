@@ -1,7 +1,7 @@
 ---
 title: After PS5 Availability, Pricing Expectations Uncertain
-date: 2024-08-08T09:09:16.341Z
-updated: 2024-08-09T09:09:16.341Z
+date: 2025-02-27T19:40:41.250Z
+updated: 2025-03-02T23:19:18.544Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 
 ## After PS5 Availability, Pricing Expectations Uncertain
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * PS5 consoles are now widely available, ending the global shortage caused by chip shortages and scalpers.
@@ -41,16 +38,10 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
  The issue here, however, is that most of the money in gaming is made from extended warranties and games rather than the consoles themselves, so any savings would be minimal.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## However, the PS5 Slim Could Keep Prices High
 
  Just a few months after the announcement that marked the end of the PS5 shortage, an October 10, 2023 post on the [PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/) brought yet another exciting announcement—the unveiling of new (slimmer) PS5 models.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
  Image Credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
@@ -61,16 +52,10 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
  Rather than the PS5 becoming cheaper and more accessible to gamers years after release, in August 2022, Sony announced in a post on the [PlayStation Blog](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/#:~:text=Based%20on%20these%20challenging%20economic,%29%2C%20as%20well%20as%20Canada.) that the cost of PS5 consoles sold in Europe, the UK, Japan, China, Australia, Mexico, and Canada was actually increasing. Reversing the trend we have seen with previous console generations, where the hardwar got significantly cheaper over time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![A person holding multiple dollar notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/counting-money.jpg)
 
  These price hikes were a direct result of the global economic environment that affects Sony as well as the rest of the world. While the US managed to stay out of the line of fire of those PS5 price hikes, inflation and the cost of living crisis rages on, making the changes of Sony dropping PS5 prices so soon after raising them unlikely.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Gamers Shouldn’t Hold Their Breath for PS5 Price Drops
 
  While stores may have the flexibility to drop the price of their PS5 consoles to stay competitive, they won't have the ability to offer any significant savings unless Sony does so with an official reduction in the RRP.
@@ -83,21 +68,15 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
  While there has been no confirmation of a PS5 console and game bundle with a significantly reduced price, the idea of Sony throwing in a game to sweeten the deal is a more realistic expectation than a standalone price drop for the console itself.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The PS5 Saga Continues One Step at a Time
 
  While we would all love to have PS5 consoles in plentiful supply AND the price dropping at the same time, it looks like the former is all we can ask for right now.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,6 +85,21 @@ So, now that the PS5 shortage is over, could we see prices drop?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-checklist-for-fpv-drone-propeller-selection/"><u>[New] The Ultimate Checklist for FPV Drone Propeller Selection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-skyrocket-your-channel-the-ultimate-guide-to-youtube-backlinks/"><u>[Updated] 2024 Approved Skyrocket Your Channel The Ultimate Guide to YouTube Backlinks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-step-by-step-guide-to-collecting-excellent-visual-content/"><u>[Updated] A Step-by-Step Guide to Collecting Excellent Visual Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-youtube-video-dimension-standards/"><u>[Updated] In 2024, YouTube Video Dimension Standards</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apex-6-behemoths-in-large-scale-lms-tech/"><u>Apex 6 Behemoths in Large-Scale LMS Tech</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-7-myths-the-limited-value-of-ray-tracing/"><u>Debunking 7 Myths: The Limited Value of Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-camouflage-for-gamers/"><u>Digital Camouflage for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-quest-revealed-10-superior-pc-selections-from-google-play-beta/"><u>Game Quest Revealed - 10 Superior PC Selections From Google Play Beta</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-itel-s23-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Itel S23</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-steam-image-management/"><u>Simplifying Steam Image Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-game-exits-on-console-xb19-and-s/"><u>Streamline Game Exits on Console XB19 and S</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-8-lite-virtual-platforms-android-on-pcmac/"><u>Ultimate 8 Lite Virtual Platforms: Android on PC/Mac</u></a></li>
+</ul></div>
 

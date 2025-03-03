@@ -1,7 +1,7 @@
 ---
 title: Analyzing the Strategic Alliance Between Microsoft and Activision
-date: 2024-08-15T17:14:51.782Z
-updated: 2024-08-16T17:14:51.782Z
+date: 2025-03-01T23:53:37.191Z
+updated: 2025-03-02T19:04:01.662Z
 tags:
   - games
 categories:
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
  While the deal is good for Xbox as a platform and Xbox gamers, there are many damaging implications for the industry and gamers alike, even if you're a huge Xbox fan.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Xbox Owns a Sizable Chunk of the Entire Gaming Industry
 
  One of the main reasons the deal stands to cause issues for gamers is the prospect of Xbox holding a monopoly over the gaming industry. And with a monopoly, competitors are pushed aside, and you could find yourself forced to own an Xbox.
@@ -51,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
  Xbox could use Activision/Blizzard exclusivity to monopolize some of gaming's most popular franchises, forcing you to own an Xbox Series X|S as competitors may not be able to sell specific Activision/Blizzard titles.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Both Xbox and PlayStation Are Prioritizing Exclusivity
 
  Aside from Xbox having a monopoly over Activision/Blizzard exclusivity and a sizable chunk of the industry, the deal further fuels the exclusivity race with rival platforms like PlayStation.
@@ -61,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
  While there are many [great Xbox Series X|S exclusives](https://www.makeuseof.com/the-best-xbox-exclusives-to-test-out-your-xbox-series-xs/) , acquiring Activision/Blizzard represents a drastic expansion of the exclusive games Xbox could offer. And typically, this is something that PlayStation is notoriously better at doing than Xbox.
 
 ![A promotional image of God of War Ragnarok depicting a scene from the game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/god-of-war.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Image Credit: [PlayStation](https://www.playstation.com/en-us/games/god-of-war-ragnarok/)
 
@@ -71,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
  So, another unfortunate implication of the deal between Microsoft and Activision/Blizzard is the furthering of exclusivity competition between all platforms, restricting your choices as a consumer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. A Mismanaged Deal Will Result in Higher Priced Games and Services for Consumers
 
  Aside from implications and problems linked to exclusivity, Microsoft's acquisition of Activision/Blizzard has been flagged by independent experts as possibly increasing the costs of games and services.
@@ -120,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
  So, if you take the pro-consumer practices Xbox engages in with the changing of the guard at Activision/Blizzard, the deal injects hope into a troubled company, highlighting a positive change for Activision/Blizzard and consumers.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### 3\. Xbox Is the Underdog of the Industry
 
  There are also reasons for you to see the Microsoft and Activision/Blizzard deal as being unable to provide Xbox with a monopoly over the industry, even with Activision/Blizzard titles prioritizing Xbox services.
@@ -132,17 +117,11 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
  But if you follow the discussions on Xbox and its place in the industry against competitors, Microsoft president Brad Smith said via [Bloomberg UK](https://www.bloomberg.com/news/articles/2022-12-13/microsoft-says-it-offered-ftc-consent-decree-on-call-of-duty?leadSource=uverify%20wall) that "if you look at the global market, Sony has 70% of that market, and we have 30%".
 
 ![A photograph of an PlayStation 5 console and controller atop a white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playstation-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
  Brad Smith also cited how PlayStation, at the time of the discussions, had 286 exclusive games and Xbox only had 59 to back up his statements. So, while you may be justifiably worried about the deal's implications, you could see the acquisition as simply allowing Xbox to catch up to PlayStation.
 
  Even with the acquisition of Activision/Blizzard, it may be more likely that competition between Xbox and PlayStation would increase instead of the industry being monopolized.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Acquisition of Activision/Blizzard by Xbox Improves Competition
 
  Despite the deal between Microsoft and Activision/Blizzard having negative implications, there are plenty of reasons it isn't as damaging as previously thought.
@@ -151,14 +130,11 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
  And with Xbox and PlayStation producing two rival powerhouse consoles in the Xbox Series X and PlayStation 5, you could even see the deal as pushing console generations to be the very best platforms possible.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,6 +143,24 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-deciphering-the-art-of-personalized-playlist-curation-for-youtube/"><u>[New] In 2024, Deciphering the Art of Personalized Playlist Curation for YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-skyrocket-your-content-tips-for-trending-videos/"><u>[New] In 2024, Skyrocket Your Content Tips for Trending Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-picture-perfect-support-portal/"><u>[Updated] Picture Perfect Support Portal</u></a></li>
+<li><a href="https://win-blog.techidaily.com/arcadegeddon-pc-performance-optimized-say-no-more-frequent-crashes/"><u>Arcadegeddon PC Performance Optimized: Say No More Frequent Crashes!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/basic-chinese-manners-for-everyday-life/"><u>Basic Chinese Manners for Everyday Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-performance-install-latest-nvidia-drivers-now/"><u>Enhance Performance! Install Latest Nvidia Drivers Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-multifunction-device-shows-unwanted-emptiness/"><u>Epson Multifunction Device Shows Unwanted Emptiness</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experts-rate-the-effectiveness-of-the-inexpensive-amazonbasics-six-sheet-paper-shredder/"><u>Experts Rate the Effectiveness of the Inexpensive AmazonBasics Six-Sheet Paper Shredder</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratuito-conversor-de-ogm-para-video-vob-online-pelo-movavi/"><u>Gratuito Conversor De OGM Para Vídeo (VOB) Online Pelo Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/joystick-journey-from-xbox-to-computer-play-142-chars/"><u>Joystick Journey: From Xbox to Computer Play (142 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-eliminate-shaking-mouse-scroll/"><u>Steps to Eliminate Shaking Mouse Scroll</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-non-nvidia-graphics-cards-for-4060-ti-users/"><u>The Best Non-NVIDIA Graphics Cards for 4060 Ti Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-key-to-maxing-out-your-gamerscore-on-steam/"><u>The Key to Maxing Out Your Gamerscore on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-steam-deck-thermal-regulator-guide/"><u>The Ultimate Steam Deck Thermal Regulator Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transformative-tiktok-techniques-unveiled/"><u>Transformative TikTok Techniques Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/vr-revolutionary-meta-quest-3-inside/"><u>VR Revolutionary: Meta Quest 3 Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/zen-gameplay-find-your-indolent-match/"><u>Zen Gameplay: Find Your Indolent Match</u></a></li>
+</ul></div>
 

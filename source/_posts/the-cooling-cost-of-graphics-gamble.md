@@ -1,7 +1,7 @@
 ---
 title: The Cooling Cost of Graphics Gamble
-date: 2025-02-07T22:31:18.240Z
-updated: 2025-02-11T20:06:24.529Z
+date: 2025-03-01T22:32:48.797Z
+updated: 2025-03-03T00:22:17.012Z
 tags:
   - games
 categories:
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  Overclocking lets you squeeze every last drop of performance that your graphics card has to offer. But is it worth all the effort and potential downsides? Well, not in my experience with my GeForce RTX 4090\. Let's discuss why.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Increased Power Draw
 
 ![MSI Afterburner and RTSS showing performance stats for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-and-rtss-showing-performance-stats-for-cyberpunk-2077.png)
@@ -44,27 +40,15 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  In my experience with my RTX 4090, the energy consumption skyrocketed by 15-30 percent for a 2-5 percent boost in frame rate across various games. So, is overclocking worth the increased electricity costs? Not in my book.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Higher Operating Temperature
 
 ![MSI Afterburner running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-running-on-windows-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another downside of raising the voltage while overclocking is increased heat dissipation. Simply put, the more voltage you supply, the more heat your graphics card generates. And nobody wants their graphics card to run too hot.
 
  This isn't a major issue if you have a triple-fan GPU with massive heatsinks or if it's liquid-cooled. My RTX 4090 is a liquid-cooled AIO unit with a 360mm radiator. So, for me personally, this is the least of my problems.
 
  However, if your graphics card runs hot most of the time, expect a negative impact on its lifespan. Therefore, if you plan to keep your graphics card for several years, I highly recommend against overclocking it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Screen Flickering
 
@@ -73,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  People often overclock without raising the voltage to avoid higher power draw and temperature, but that comes at the cost of your graphics card's stability. You may experience flickering while playing games or sometimes even while navigating in Windows.
 
  While there are several[ways to fix screen flickering on Windows](https://www.makeuseof.com/tag/fix-windows-10-screen-flashing-problem/) , the only way to resolve it after an overclock is by either raising your GPU voltage or reverting the clocks to their default values.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Occasional Crashes While Gaming
 
@@ -105,17 +85,20 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frame-by-frame-verbalizer/"><u>[New] In 2024, Frame by Frame Verbalizer</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-free-high-quality-screenshot-apps/"><u>[Updated] In 2024, The Ultimate List of Free, High-Quality Screenshot Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/bingeboosting-battles-seasonal-gaming-boons/"><u>BingeBoosting Battles: Seasonal Gaming Boons</u></a></li>
-<li><a href="https://games-able.techidaily.com/bluetooth-bridge-between-ps5-and-smartphone/"><u>Bluetooth Bridge Between PS5 and Smartphone</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-conscious-rgb-and-backlight-options/"><u>Budget-Conscious RGB and Backlight Options</u></a></li>
-<li><a href="https://games-able.techidaily.com/ceasing-random-mouse-scroll-motions/"><u>Ceasing Random Mouse Scroll Motions</u></a></li>
-<li><a href="https://games-able.techidaily.com/clearing-up-steam-decks-synchronization-hurdles/"><u>Clearing Up Steam Deck's Synchronization Hurdles</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004803159-elden-ring-wont-start-here-are-fixes-for-your-consoles-black-screen-dilemma/"><u>Elden Ring Won't Start? Here Are Fixes for Your Console's Black Screen Dilemma</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-computing-the-essential-guide-from-toms-hardware/"><u>Expert Insights on Computing: The Essential Guide From Tom's Hardware</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-assessing-camera-multicam-systems-in-modern-living-spaces/"><u>In 2024, Assessing Camera Multicam Systems in Modern Living Spaces</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-sony-xperia-5-v-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Sony Xperia 5 V? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/laymans-how-to-initiating-your-membership-on-the-playstation-community-site/"><u>Layman's How-To: Initiating Your Membership on the PlayStation Community Site</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-guide-to-identifying-recent-instagram-leavers/"><u>[New] 2024 Approved Guide to Identifying Recent Instagram Leavers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-effortless-animated-addition-how-to-send-and-share-gifs-on-snapchat-for-2024/"><u>[Updated] Effortless Animated Addition How to Send and Share GIFs on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-5-inspirational-winter-bgs-to-heat-your-videos/"><u>[Updated] In 2024, 5 Inspirational Winter Bgs to Heat Your Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-crafting-impactful-video-campaigns-for-startups/"><u>2024 Approved Crafting Impactful Video Campaigns for Startups</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-modern-tech-a-look-at-its-7-key-applications/"><u>ChatGPT's Role in Modern Tech: A Look at Its 7 Key Applications</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/explore-10-cost-effective-video-players-on-linuxwindowsmac-for-2024/"><u>Explore 10 Cost-Effective Video Players on Linux/Windows/Mac for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-innovative-advances-top-picks-from-rapid-plus-tct-2ergy-a-glimpse-into-next-gen-3d-printing/"><u>Exploring Innovative Advances: Top Picks From Rapid + TCT 2Ergy - A Glimpse Into Next-Gen 3D Printing</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-gratis-vs-game-gone/"><u>Game Gratis Vs. Game Gone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-repair-steam-bp-functionality/"><u>How to Repair Steam BP Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-unleashed-new-app-enhancing-gaming-adventures/"><u>Nvidia Unleashed: New App Enhancing Gaming Adventures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-correct-the-missing-msidll-error/"><u>Step-by-Step Guide to Correct the Missing msi.dll Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-renew-ps5-online-services/"><u>Steps to Renew PS5 Online Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-gaming-experience-with-steam-manager/"><u>Streamlining Gaming Experience with Steam Manager</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-case-for-caution-4-alternatives-to-ps5-buying/"><u>The Case for Caution: 4 Alternatives To PS5 Buying</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/undetected-retention-concealing-your-ai-discourse-trail/"><u>Undetected Retention: Concealing Your AI Discourse Trail</u></a></li>
 </ul></div>
 

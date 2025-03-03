@@ -1,7 +1,7 @@
 ---
 title: Exploring Multiplatform Gaming Between PS5 & PS4?
-date: 2025-02-06T23:17:17.649Z
-updated: 2025-02-11T22:00:14.304Z
+date: 2025-02-24T22:39:55.120Z
+updated: 2025-03-02T18:42:00.475Z
 tags:
   - games
 categories:
@@ -23,19 +23,11 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The PS5 Controller and PS4 Console Are Not Compatible
 
  Sony made it clear in a[PlayStation Blog post](https://blog.playstation.com/2020/11/09/ps5-the-ultimate-faq/#dualsens) that the DualSense controller will not work on PS4 consoles, as the two devices aren't compatible when connected directly. The console manufacturer has not provided a reason why this is the case, but it's a bit strange considering that the[PS4 controller is forward-compatible with the PS5](https://www.makeuseof.com/use-ps4-controllers-on-playstation-5/) and backward-compatible with the PS3.
 
  However, if all you have is a PS4 console and DualSense controller (no PS4 controller to play with), you can indirectly connect these incompatible devices with the help of two middlemen: PS Remote Play or the Titan Two adapter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on PC?
 
@@ -47,17 +39,9 @@ Here’s how to do that:
 ![ps remote play download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ps-remote-play-app-download.jpg)
 2. Turn on your PS4, make sure it connects to the internet, and that it’s logged in to your PlayStation Network account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Open the Remote Play app on your PC or Mac, click the**Sign In to PSN** button, and follow the instructions to log in to your PSN account.  
 ![signing in to the ps remote play app on pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/sign-in-ps-remote-play-pc.jpg)
 4. After you sign in, click the**PS4 icon** on the right. This will make the app attempt to connect to the PS4 console.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![choosing which console to connect to on the ps remote play app for pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/connect-ps4-remote-play-pc.jpg)
 5. Once the Remote Play app and PS4 connect, plug the DualSense controller into your computer using a USB-C cable.
@@ -76,10 +60,6 @@ Here’s how to do that:
 2. Tap**PS4** for the app to search for your console and connect to it.  
 ![the sign in button on PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-sign-in-button-on-ps-remote-play-mobile-app.jpg)  
 ![choosing a console to connect to on the PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/choosing-a-console-to-connect-to-on-the-ps-remote-play-mobile-app.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 3. Once the Remote Play app and PS4 connect, you can start using your DualSense Controller.
@@ -115,22 +95,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-an-in-depth-look-at-huawei-p10s-audio-experience/"><u>[New] 2024 Approved An In-Depth Look at Huawei P10's Audio Experience</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-professional-strategies-for-screen-capturing-facetime/"><u>[New] In 2024, Professional Strategies for Screen-Capturing FaceTime</u></a></li>
-<li><a href="https://common-error.techidaily.com/achieve-seamless-xbox-one-operation-on-computer/"><u>Achieve Seamless Xbox One Operation on Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-free-to-play-uncover-the-top-5-mobile-game-advantages/"><u>Beyond 'Free-to-Play': Uncover the Top 5 Mobile Game Advantages</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-bottom-line-thinking-envisioning-electricitys-role/"><u>Beyond Bottom-Line Thinking: Envisioning Electricity's Role</u></a></li>
-<li><a href="https://discover-best.techidaily.com/boost-your-pcs-speed-expert-tips-from-yl-computing-and-yl-software/"><u>Boost Your PC's Speed: Expert Tips From YL Computing and YL Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridging-console-and-computer-with-switch/"><u>Bridging Console and Computer with Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/broaden-horizons-top-6-alternative-online-chess-experiences/"><u>Broaden Horizons: Top 6 Alternative Online Chess Experiences</u></a></li>
-<li><a href="https://games-able.techidaily.com/capturing-steam-gameplay-with-precision/"><u>Capturing Steam Gameplay with Precision</u></a></li>
-<li><a href="https://games-able.techidaily.com/cease-steams-startup-routine/"><u>Cease Steam's Startup Routine</u></a></li>
-<li><a href="https://games-able.techidaily.com/choosing-swings-for-gaming-optical-or-mechanical/"><u>Choosing Swings for Gaming: Optical or Mechanical?</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparing-desk-based-computers-to-gaming-pcs/"><u>Comparing Desk-Based Computers to Gaming PCs</u></a></li>
-<li><a href="https://win-net.techidaily.com/effective-strategies-for-auto-deleting-outdated-documents-on-google-drive/"><u>Effective Strategies for Auto-Deleting Outdated Documents on Google Drive</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-15-crucial-strategies-for-accessing-international-sport-events/"><u>In 2024, 15 Crucial Strategies for Accessing International Sport Events</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-kids-drones/"><u>In 2024, The Ultimate Guide to Kids' Drones</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-username-experience-on-windows-11-platform/"><u>Transforming UserName Experience on Windows 11 Platform</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y78t-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo Y78t Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-edge-and-elegance-in-figure-skating/"><u>[New] In 2024, Edge and Elegance in Figure Skating</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secrets-to-selecting-a-premier-cinematographer/"><u>[Updated] Secrets to Selecting a Premier Cinematographer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-superior-satire-picture-styler/"><u>2024 Approved Superior Satire Picture Styler</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-trailer-treasure-chest/"><u>2024 Approved Ultimate Trailer Treasure Chest</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/54sh6ziy5ykz44gr44oh44o844k44gm5asx44kp44km44gq44ge44gf44kb44gu77yt44gk44gu44og44kv44ol44od44kv/"><u>無防備にデータが失われないための３つのテクニック</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-steam-statistics-monitoring-your-gaming-time-and-credits/"><u>Decoding Steam Statistics: Monitoring Your Gaming Time & Credits</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-pcs-premier-games-via-google-play-beta/"><u>Discover PC’s Premier Games via Google Play Beta</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/download-free-total-video-player-app-for-windows-11-supports-both-64-bit-and-32-bit-systems/"><u>Download Free Total Video Player App for Windows 11 - Supports Both 64-Bit and 32-Bit Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-workspace-flooring-for-modern-offices/"><u>Elite Workspace Flooring for Modern Offices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-lunaclient-from-causing-frequent-system-failures-on-your-desktop/"><u>How to Prevent LunaClient From Causing Frequent System Failures on Your Desktop</u></a></li>
+<li><a href="https://games-able.techidaily.com/joint-play-epic-games-plus-steam-unite/"><u>Joint Play: Epic Games + Steam Unite</u></a></li>
+<li><a href="https://games-able.techidaily.com/primes-direct-channel-access-for-twitch-enthusiasts/"><u>Prime's Direct Channel Access for Twitch Enthusiasts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolve-compatibility-issues-with-ralink-wifilan-card-drivers-in-windows-a-complete-update-guide/"><u>Resolve Compatibility Issues with Ralink WiFi/LAN Card Drivers in Windows – A Complete Update Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-prime-game-selection-seasonal-sale-winners/"><u>Sony's Prime Game Selection: Seasonal Sale Winners</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamlining-zoom-sessions-with-invisible-edges/"><u>Streamlining Zoom Sessions with Invisible Edges</u></a></li>
+<li><a href="https://games-able.techidaily.com/sunset-for-game-worlds-attention-or-ignorance/"><u>Sunset for Game Worlds: Attention or Ignorance?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1722849511208-the-cut-and-cover-method-is-most-suitable-for-shallow-tunnels-but-can-be-very-disruptive-due-to-the-surface-excavation-required/"><u>The Cut-and-Cover Method Is Most Suitable for Shallow Tunnels but Can Be Very Disruptive Due to the Surface Excavation Required</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-of-game-pricing-on-steam-platform/"><u>The Evolution of Game Pricing on Steam Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-is-vr-so-expensive-4-reasons-explained/"><u>Why Is VR So Expensive? 4 Reasons Explained</u></a></li>
 </ul></div>
 

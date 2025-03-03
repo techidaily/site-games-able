@@ -1,7 +1,7 @@
 ---
 title: Strategies for Controlling Steam Web Helper's RAM Overuse
-date: 2025-02-09T23:52:58.536Z
-updated: 2025-02-11T19:54:45.147Z
+date: 2025-03-01T18:02:39.850Z
+updated: 2025-03-02T19:12:23.094Z
 tags:
   - games
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Does Steam Use So Much Memory?
 
 ![Steam processes running in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_processes_running_in_task_manager.jpg)
@@ -39,17 +35,9 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
@@ -69,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 4. Restart Steam after making this change.
 
  This will ease the burden that Steam's web pages have on your available memory.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Enable Low-Performance Mode
 
@@ -100,10 +84,6 @@ steam://open/minigameslist
 ## 5\. Create a Custom Batch File for Minimal Steam
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
@@ -139,24 +119,17 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-optimizing-your-mac-for-big-sur-release/"><u>[New] In 2024, Optimizing Your Mac for Big Sur Release</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-video-game-top-10-keyword-strategy-resources-for-2024/"><u>[Updated] Elevate Your Video Game Top 10 Keyword Strategy Resources for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-fb-vids-to-mp4-downloader-efficient-and-effective-for-2024/"><u>[Updated] FB Vids to MP4 Downloader – Efficient & Effective for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bass-bridges-and-high-beats-understanding-sound-mixing/"><u>Bass Bridges & High Beats Understanding Sound Mixing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enchant-your-audience-with-these-20-marketing-phrases/"><u>Enchant Your Audience with These 20 Marketing Phrases</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-g34-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto G34 5G Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/innocn-39g1r-refresh-quick-low-cost/"><u>InnoCN 39G1R - Refresh Quick, Low Cost</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-nvidias-latest-gaming-cloud-a-game-changer/"><u>Is Nvidia’s Latest Gaming Cloud a Game Changer?</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-fps-gameplay-selecting-the-right-mouse-sensitivity/"><u>Navigating FPS Gameplay: Selecting the Right Mouse Sensitivity</u></a></li>
-<li><a href="https://review-topics.techidaily.com/online-signatures-for-excel-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for Excel</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-playing-more-than-just-fun/"><u>Portable Playing: More Than Just Fun?</u></a></li>
-<li><a href="https://games-able.techidaily.com/setting-up-discord-a-step-by-step-guide-for-mac-users/"><u>Setting Up Discord: A Step-by-Step Guide for Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/sketch-to-score-rhythm-games-and-graphic-devices/"><u>Sketch to Score: Rhythm Games & Graphic Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/solutions-for-troubleshooting-display-driver-not-launching-in-windows-11/"><u>Solutions for Troubleshooting Display Driver Not Launching in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategy-for-saving-steam-screen-captures/"><u>Strategy for Saving Steam Screen Captures</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-checklist-for-capturing-live-conversations-for-2024/"><u>The Ultimate Checklist for Capturing Live Conversations for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-gamers-guide-to-30-top-ps3-games-for-pc-emulation/"><u>The Ultimate Gamer's Guide to 30 Top PS3 Games for PC Emulation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-haul-video-guide-from-camera-to-final-cut-for-2024/"><u>The Ultimate Haul Video Guide From Camera to Final Cut for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-se-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone SE Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-photobooth-playback-error-constant-pause-issues/"><u>[Updated] 2024 Approved Photobooth Playback Error Constant Pause Issues</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-full-potential-steam-and-your-switch-pro-controller-for-2024/"><u>[Updated] Unlocking Full Potential Steam and Your Switch Pro Controller for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-kinemaster-usage-plus-best-online-platforms-for-editors/"><u>2024 Approved Mastering the Art of KineMaster Usage + Best Online Platforms for Editors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-chat-platform-a-deep-dive-into-signal-vs-whatsapp/"><u>Choosing Your Chat Platform: A Deep Dive Into Signal Vs. WhatsApp</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/identifying-the-reasons-behind-your-computers-hardware-issues-insights-from-yl-computing/"><u>Identifying the Reasons Behind Your Computer's Hardware Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ipad-air-4-vs-ipad-air-5-comparison-is-it-time-to-upgrade-insights/"><u>IPad Air 4 vs iPad Air 5 Comparison: Is It Time to Upgrade? Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-switch-games-mac-edition/"><u>Mastering Switch Games: Mac Edition</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-pedagogical-strategies-revealed/"><u>Mondly’s Pedagogical Strategies Revealed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-f15-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy F15 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/retrospectively-refunding-a-guide-to-reclaiming-cash-on-steam/"><u>Retrospectively Refunding: A Guide to Reclaiming Cash on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-game-changing-mouse-tech-specs/"><u>Unveiling Game-Changing Mouse Tech Specs</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-your-ps5-say-about-older-ps4-game-compatibility/"><u>What Does Your PS5 Say About Older PS4 Game Compatibility?</u></a></li>
 </ul></div>
 

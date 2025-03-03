@@ -1,7 +1,7 @@
 ---
 title: AI Transformation in Nvidia's Graphics Technology - DLSS 3.5
-date: 2024-08-08T09:09:27.891Z
-updated: 2024-08-09T09:09:27.891Z
+date: 2025-02-25T23:34:58.961Z
+updated: 2025-03-02T18:40:18.838Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
 ## AI Transformation in Nvidia's Graphics Technology - DLSS 3.5
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * DLSS 3.5 is an upgrade of Nvidia's DLSS technology, using AI to generate higher-quality pixels for ray-traced scenes, reducing artifacts and enhancing image quality.
@@ -27,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
  DLSS has been evolving since its debut in 2018, and the 2023 version, DLSS 3.5, promises to deliver even better results for ray-traced games and applications. Read on to learn what DLSS 3.5 is, how it works, and what it means for you as a gamer or a creator.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is DLSS 3.5?
 
  DLSS 3.5 is the 2023 evolution of Nvidia's DLSS technology. It introduces a new Ray Reconstruction technique that uses AI to generate higher-quality pixels for ray-traced scenes.
@@ -38,14 +32,8 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
  DLSS 3.5 takes this further by using AI to reconstruct missing or noisy pixels in ray-traced scenes. Unlike previous versions of DLSS, which used hand-tuned denoisers for each lighting pass, DLSS 3.5 uses a single neural network that can generate higher-quality pixels for any lighting pass. This means that DLSS 3.5 can reduce artifacts like color inaccuracies, inaccurate lighting, and ghosting that sometimes occur with ray tracing.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## How Does DLSS 3.5 Work? What Is Ray Reconstruction?
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Ray Tracing Texel eXtreme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ray-tracing-texel-extreme.jpg)
 
  DLSS 3.5 combines the best features of previous versions of DLSS while introducing a new technique called Ray Reconstruction. Ray Reconstruction is a novel way of using AI to improve the quality of ray tracing by generating higher-quality pixels from lower-quality ones.
@@ -60,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
  It analyzes each pixel on the screen and compares it with its corresponding ray in the scene. It then uses the information from the ray to reconstruct a more accurate pixel that matches the light source's color, brightness, and direction.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are the Benefits of DLSS 3.5?
 
  Older versions of DLSS compete favorably in [upscaling comparisons](https://www.makeuseof.com/intel-xess-vs-nvidia-dlss/) . However, it offers even more benefits for gamers and creators who use ray tracing in their games and apps. Here are some of them:
@@ -74,22 +59,15 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
 As you can see, DLSS 3.5 is a comprehensive upgrade from DLSS 3.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## When Will DLSS 3.5 Be Available?
 
  Nvidia says that DLSS 3.5 will be available in the fall of 2023, but it hasn't given a specific date yet. Nvidia also hasn't revealed which games will support DLSS 3.5 at launch, but we can expect some of the upcoming titles that use ray tracing or path tracing, such as Cyberpunk 2077 and Alan Wake 2, to be among the first ones.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,6 +76,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-linking-up-tweeted-movies-and-music-on-fb-platform/"><u>[New] Linking Up Tweeted Movies and Music on FB Platform</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unwind-with-country-vibes-most-popular-tiktok-songs-for-2024/"><u>[New] Unwind with Country Vibes Most Popular TikTok Songs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-seamless-transitions-elevating-your-drone-footage/"><u>[Updated] 2024 Approved Seamless Transitions Elevating Your Drone Footage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/dell-p2715q-4k-monitor-review-for-2024/"><u>Dell P2715Q 4K Monitor Review for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/early-availability-in-games-a-detailed-breakdown/"><u>Early Availability in Games - A Detailed Breakdown</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-novice-to-audiophile-comprehensive-tips-for-crafting-your-ideal-sound-sanctuary-at-home/"><u>From Novice to Audiophile: Comprehensive Tips for Crafting Your Ideal Sound Sanctuary at Home</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-efficiently-wipe-your-ps5s-history/"><u>How to Efficiently Wipe Your PS5's History</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-find-x7-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Find X7 Ultra to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-gigabyte-g6x-gaming-laptop-solid-execution-lacks-exceptional-qualities/"><u>In-Depth Analysis of the Gigabyte G6X Gaming Laptop: Solid Execution Lacks Exceptional Qualities</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-1111-error-code-0x887a0006/"><u>Overcoming Windows 11/11 Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/shifting-from-bedrocks-world-to-java-via-geysermc-server/"><u>Shifting From Bedrock's World to Java via GeyserMC Server</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-childs-guide-to-a-secure-ps5-use/"><u>The Child's Guide to a Secure PS5 Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-upgraded-audio-increasing-pc-volume-seamlessly-with-windows-10/"><u>The Ultimate Guide to Upgraded Audio: Increasing PC Volume Seamlessly with Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-gaming-core-battle-who-will-prevail/"><u>Ultimate Gaming Core Battle: Who Will Prevail?</u></a></li>
+</ul></div>
 

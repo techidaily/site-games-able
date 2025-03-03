@@ -1,7 +1,7 @@
 ---
 title: "Back to Networked Bliss: Fixing Your Windowed MC Disconnects"
-date: 2024-08-08T09:11:56.073Z
-updated: 2024-08-09T09:11:56.073Z
+date: 2025-02-23T20:54:05.083Z
+updated: 2025-03-03T00:42:31.943Z
 tags:
   - games
 categories:
@@ -28,18 +28,12 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 
 ![Uncheck the Automatic Connection Permission for the Wi-Fi Network on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uncheck-the-automatic-connection-permission-for-the-wi-fi-network-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Connect to the Same Network Using the Same Connection Method
 
  Ensure your device is connected to the network using the same type of connection as the host, such as Wi-Fi, Ethernet, etc. Although it's not a requirement from Minecraft, and most users don't have issues as long as they're connected to the same network, some players reported having problems when their connection type differed from the host's.
 
  If the connection type is different, change it. If the connection type already matches the host, you can proceed to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Ensure You're Using the Same Minecraft Version as the Host
 
  Although this may be evident, your device must run the same Minecraft version as the host to join the LAN world. Minecraft updates automatically in most cases, so perhaps a new version came out and everyone updated to it, mismatching their version from the server's.
@@ -65,15 +59,9 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 1. Type**"Control Panel"** in Windows Search and open the**Control Panel** app.
 2. Navigate to**Network and Internet > Network and Sharing Center** .
 3. Click on the**Change advanced sharing settings** option on the left.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![Open the Advanced Sharing Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-the-advanced-sharing-settings-on-windows.jpg)
 4. Expand the private network profile and turn on the toggle next to N**etwork discovery** .
 5. Also, check the box beside**Set up network connected devices automatically** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable Network Discovery in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-network-discovery-in-the-windows-settings-app.jpg)
 
 ## 6\. Perform Some General Fixes
@@ -87,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 
  In case the above fixes also don't work, try setting up a direct connection to the host server in Minecraft.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Create a Direct Connection in Minecraft
 
  If you cannot view or connect to other players in Minecraft on the same network, try establishing a direct connection with the host. The direct connection enables users to join the server using the server's address, which is the host's IPv4 address for the local network, and the LAN port number of the server.
@@ -100,28 +85,14 @@ To directly join a Minecraft server, follow these steps:
 ![Open the Direct Connection in Minecraft Multiplayer Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-the-direct-connection-in-minecraft-multiplayer-mode.jpg)
 2. Paste the**IPv4 address** into the**Server Address** box, add a colon, and enter the**LAN port** provided by the host.
 3. Then, click on**Join Server** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Add the Server Address to Join the LAN Server in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-the-server-address-to-join-the-lan-server-in-minecraft.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Join a Minecraft LAN World Seamlessly on Windows
 
  Having trouble joining a LAN world when friends are waiting for you can be frustrating. Hopefully, you now have a clearer understanding of what can prevent you from entering a LAN world. If you carefully apply the fixes listed above, you can join the LAN world in Minecraft. If nothing works, you should try to establish a direct connection.
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: How Do You Join a Minecraft LAN Server With an IP Address?
 
  You can [join a Minecraft LAN server](https://www.makeuseof.com/how-to-join-minecraft-server/) with an IP address by copying the host's IP address, selecting Multiplayer > Add a server or Direct connect, pasting the copied IP address, and connecting to the server.
@@ -130,14 +101,11 @@ To directly join a Minecraft server, follow these steps:
 
  Your computer's [IP address](https://www.makeuseof.com/tag/what-is-ip-address/) is the IP address for your LAN Minecraft server. You can [find your Windows PC's IP address](https://www.makeuseof.com/tag/find-ip-address-windows-10/) by running the "ipconfig" command in a Command Prompt window. The value next to "IPv4 Address" is your machine's local IP address.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,6 +114,24 @@ To directly join a Minecraft server, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-micro-snippet-analysis-at-a-glance/"><u>[New] In 2024, Micro Snippet Analysis at a Glance</u></a></li>
+<li><a href="https://discover-able.techidaily.com/10mp4/"><u>10上でMP4ビデオを回転させる歩き方</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-laughs-to-clicks-your-stepwise-journey-on-9gag/"><u>2024 Approved From Laughs to Clicks Your Stepwise Journey on 9GAG</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-v29-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo V29 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-artistry-best-games-for-refining-creative-abilities/"><u>Elevate Artistry: Best Games for Refining Creative Abilities</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/fast-forwarding-instagram-videos-efficiently-for-2024/"><u>Fast-Forwarding Instagram Videos Efficiently for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-select-an-excellent-elgato-stream-deck/"><u>How to Select an Excellent Elgato Stream Deck</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50i-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor X50i Phone without Google Account?</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-it-quiet-why-mic-use-in-ps5-is-risky/"><u>Keep It Quiet: Why Mic Use in PS5 Is Risky</u></a></li>
+<li><a href="https://games-able.techidaily.com/low-cost-high-quality-graphics-cards/"><u>Low-Cost, High-Quality Graphics Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-language-with-11-great-mobile-word-games/"><u>Mastering Language with 11 Great Mobile Word Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sennheiser-headset-woes-heres-how-you-can-fix-your-game-one-mic-issues-easily/"><u>Sennheiser Headset Woes? Here's How You Can Fix Your Game One Mic Issues Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-economical-gamers-playbook-xbox-series-edition/"><u>The Economical Gamer's Playbook: Xbox Series Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-prowess-with-5-smart-tips-on-a-mac/"><u>Transform Your Gaming Prowess with 5 Smart Tips on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplugged-delight-mobile-games-for-disconnected-players/"><u>Unplugged Delight: Mobile Games for Disconnected Players</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-spending-over-500-on-a-laptop-may-not-be-necessary-anymore-the-lenovo-chromebook-plus-review/"><u>Why Spending Over $500 on a Laptop May Not Be Necessary Anymore: The Lenovo Chromebook Plus Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/xboxs-next-gen-vr-headset-projected-price-release-schedule-and-specs-revealed/"><u>Xbox's Next-Gen VR Headset: Projected Price, Release Schedule & Specs Revealed!</u></a></li>
+</ul></div>
 

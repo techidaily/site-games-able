@@ -1,7 +1,7 @@
 ---
 title: "Ignite the Passion: Expand on The Fallout Series"
-date: 2025-02-10T19:09:03.489Z
-updated: 2025-02-11T21:25:26.380Z
+date: 2025-02-25T20:42:10.884Z
+updated: 2025-03-02T21:50:47.378Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Fallout: New Vegas](#fallout-new-vegas)
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
  The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fallout: New Vegas
 
  It was always going to be easy to start this list: Fallout: New Vegas isn't just a great Fallout game; it's also one of the best RPGs of all time, and that's saying something in such a densely packed genre.
@@ -49,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  What unfolds is a dramatic quest through New Vegas for vengeance, with warring factions seeking control over the area and, ultimately, the Hoover Dam. You'll have to choose between the factions you help, with your choices directly affecting the wasteland and the ending you receive, along with which side of the war you're on. The New California Republic, Caesar's Legion, and Mr. House all present convincing arguments, but what will you choose?
 
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fallout 3
 
@@ -64,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fallout 4
 
  Fallout 4 is the last release in the "numbered" game series ([Fallout 1, 2, 3, & 4](https://www.makeuseof.com/fallout-series-explained/) —the multiplayer game, Fallout 76, doesn't count), launched in 2015\. It received great reviews when it launched, though it simplified many of the in-depth role-playing elements that made previous Fallout titles such unique, personal experiences. However, it did introduce detailed base building and crafting, which were both great new elements to get to grips with.
@@ -77,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  You, as the Sole Survivor, must travel throughout the Commonwealth, which is the post-apocalyptic Boston area. On the way, the story deepens, revealing that the Institute is creating synthetic humans and replacing the remaining human survivors, and there are organizations that want to free them and others that want to destroy them (check out the Brotherhood of Steel's evolved T-60 armor in the show, and you'll know where it came from!).
 
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fallout
 
@@ -109,21 +89,16 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-counter-flow-strategy-reversing-your-youtube-video-sequence/"><u>[Updated] 2024 Approved The Counter-Flow Strategy Reversing Your YouTube Video Sequence</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unraveling-iphone-photo-blur-techniques-4-ways-explored/"><u>[Updated] Unraveling iPhone Photo Blur Techniques - 4 Ways Explored</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-nearby-nuggets-your-essential-locale-lens-for-a-smoother-journey/"><u>2024 Approved Unlocking Nearby Nuggets Your Essential Locale Lens for a Smoother Journey</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conversion-vod-gratuit-convertissez-des-fichiers-ogm-en-vob-facilement-grace-a-movavi/"><u>Conversion VOD Gratuit : Convertissez Des Fichiers OGM en VOB Facilement Grâce À Movavi</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/expert-advice-on-how-to-delete-programs-in-windows-11-insights-from-yl-software-solutions/"><u>Expert Advice on How to Delete Programs in Windows 11 – Insights From YL Software Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-nvidia-g-sync-ensures-your-games-are-picture-perfect/"><u>How Nvidia G-Sync Ensures Your Games Are Picture Perfect</u></a></li>
-<li><a href="https://games-able.techidaily.com/make-every-sound-count-on-xbox-one-again/"><u>Make Every Sound Count on Xbox One Again!</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-uninstall-of-ps5-gaming/"><u>Mastering the Uninstall of PS5 Gaming</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/maximizing-comfort-and-elegance-an-in-depth-look-at-x-chairs-x4-executive-model/"><u>Maximizing Comfort and Elegance: An In-Depth Look at X-Chair's X4 Executive Model</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-to-perfect-elgato-stream-deck-selection/"><u>Navigate to Perfect Elgato Stream Deck Selection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-treacherous-waters-of-fraudgpt-interaction/"><u>Navigating the Treacherous Waters of FraudGPT Interaction</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-5-book-tt-showcases-for-readers-for-2024/"><u>The Ultimate 5 Book TT Showcases for Readers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-pick-portable-power-adapters-for-playstation-5/"><u>Top Pick Portable Power Adapters for PlayStation 5</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-the-secrets-to-stunning-and-shareable-tiktok-videos-for-2024/"><u>Unlock the Secrets to Stunning and Shareable TikTok Videos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-remote-play-potential-with-steam-storage-tools/"><u>Unlocking Remote Play Potential with Steam Storage Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/winning-back-control-fixing-steam-bp-malfunctions/"><u>Winning Back Control: Fixing Steam BP Malfunctions</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-iphone-15-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On iPhone 15 Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-fund-flubs-navigating-the-refund-roadmap/"><u>Fortnite Fund Flubs - Navigating the Refund Roadmap</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-google-pixel-7a-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Google Pixel 7a to iPad | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-manual-for-creating-an-inclusive-and-productive-skype-chat-room-accessible-by-both-windows-and-mac-users/"><u>How-To Manual for Creating an Inclusive and Productive Skype Chat Room Accessible by Both Windows & Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-fortnites-mac-world-with-a-caveat/"><u>Navigating Fortnite's Mac World with a Caveat</u></a></li>
+<li><a href="https://games-able.techidaily.com/psp-classics-at-a-fingert-point-iphone-edition/"><u>PSP Classics at a Fingert Point - iPhone Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-pushes-gaming-boundaries-with-mechanical-keyboard/"><u>Razer Pushes Gaming Boundaries with Mechanical Keyboard</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-downloading-and-installing-focusrite-scarlett-2i4-drivers-windows/"><u>Step-by-Step Tutorial: Downloading & Installing Focusrite Scarlett 2I4 Drivers (Windows)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-nubia-z50s-pro-by-fonelab-android-recover-data/"><u>Undelete lost data from Nubia Z50S Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-power-of-final-cut-pro-90-days-free-no-strings-attached/"><u>Updated Discover the Power of Final Cut Pro 90 Days Free, No Strings Attached</u></a></li>
 </ul></div>
 

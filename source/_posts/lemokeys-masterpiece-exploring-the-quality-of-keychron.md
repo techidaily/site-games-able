@@ -1,7 +1,7 @@
 ---
 title: "Lemokey's Masterpiece: Exploring the Quality of Keychron"
-date: 2025-02-08T23:55:17.073Z
-updated: 2025-02-11T22:39:43.957Z
+date: 2025-02-24T21:31:35.135Z
+updated: 2025-03-02T21:51:15.762Z
 tags:
   - games
 categories:
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  It's a fantastic keyboard; there is little doubt about that. But is the Lemokey L3 a "gaming keyboard," or just a brilliant mechanical keyboard with some extra gaming features?
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
@@ -153,10 +149,6 @@ No
 
 ![plug-and-switch-on-the-back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/plug-and-switch-on-the-back-of-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  One nice touch is the three lights above the direction keys, each pertaining to a different feature. The left light is the one you'll see most, as it shows the relative charge level of the keyboard. The middle light details your wireless connection status, and the third light shows whether Caps Lock is switched on.
@@ -169,19 +161,11 @@ No
 
  Inside the Lemokey L3 are multiple layers of sound-absorbing foam, which, along with the double-gasket mounted design, contribute to the smooth typing experience and warming typing sound.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Battery Life and Connectivity
 
  Battery life is another plus point for the Lemokey L3—though, given its weight, I strongly doubt you'll ever roam too far from a USB-C port or an outlet. The Lemokey L3 is rated for up to 200 hours while using 2.4GHz wireless, rising to a whopping 300 hours while using Bluetooth. I didn't track this precisely, but I never ran out of battery using either wireless mode.
 
 ![red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -213,17 +197,9 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Lemokey L3 a Good Gaming Keyboard?
 
@@ -238,10 +214,6 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -266,20 +238,24 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-echo-of-tamil-syncing-songs-as-mobile-notifications/"><u>[New] Echo of Tamil Syncing Songs as Mobile Notifications</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-evaluating-top-6-choices-4k-youtube-to-mp3-software/"><u>[New] Evaluating Top 6 Choices 4K Youtube-to-MP3 Software</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-design-dope-dabs-with-giphy-tools-for-2024/"><u>[Updated] Design Dope Dabs with Giphy Tools for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-listening-tech-for-switch-games/"><u>Elite Listening Tech for Switch Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-gif-images-into-high-quality-tiff-format-with-ease/"><u>Free Online Converter: Transforming GIF Images Into High-Quality TIFF Format with Ease</u></a></li>
-<li><a href="https://games-able.techidaily.com/indie-games-galore-top-15-wi-fi-free-titles-for-ios/"><u>Indie Games Galore - Top 15 Wi-Fi Free Titles for iOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-the-upgrade-to-nitro-justifiable/"><u>Is the Upgrade to Nitro Justifiable?</u></a></li>
-<li><a href="https://games-able.techidaily.com/praising-google-play-pass-except-for-the-issue/"><u>Praising Google Play Pass, Except for the Issue</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/review-expose-on-netgears-advanced-x6-wifi-mesh-enhancer-a-deep-dive-into-its-innovative-traits/"><u>Review Exposé on Netgear's Advanced X6 Wifi Mesh Enhancer – A Deep Dive Into Its Innovative Traits</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/trailblaze-your-way-to-success-insights-on-youtube-metrics-with-social-blade-for-2024/"><u>Trailblaze Your Way to Success Insights on YouTube Metrics with Social Blade for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-correcting-color-shifts-and-warping-issues-on-your-monitor/"><u>Ultimate Guide: Correcting Color Shifts & Warping Issues on Your Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-a-pristine-steam-account-how-to-delete-games-effectively/"><u>Unveiling a Pristine Steam Account: How to Delete Games Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-flaw-navigating-through-the-issues-at-the-recent-ipad-release-a-step-by-step-solution-for-apple/"><u>Unveiling the Flaw: Navigating Through the Issues at the Recent iPad Release | A Step-by-Step Solution for Apple</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-arena-selecting-a-superior-gaming-processor/"><u>Virtual Arena: Selecting a Superior Gaming Processor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/your-one-stop-destination-for-comprehensive-tech-analysis-toms-hardware-insights/"><u>Your One-Stop Destination for Comprehensive Tech Analysis - Tom's Hardware Insights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-conquering-competition-crafting-standout-youtube-advertising-banners/"><u>[New] Conquering Competition Crafting Standout YouTube Advertising Banners</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/astronomy-gurus-the-elite-of-food-vlogs-for-2024/"><u>[New] Gastronomy Gurus The Elite of Food Vlogs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-key-steps-effective-obs-streaming-directly-to-facebook-users/"><u>[New] In 2024, The Key Steps Effective OBS Streaming Directly to Facebook Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-secrets-to-unforgettable-borders-in-your-instagram-shots-for-2024/"><u>[New] The Secrets to Unforgettable Borders in Your Instagram Shots for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-hilarity-highway-the-funniest-youtube-videos-on-twitter/"><u>[Updated] Hilarity Highway The Funniest YouTube Videos on Twitter</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/earn-on-the-go-snapchats-money-tips/"><u>Earn on the Go Snapchat's Money Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-gameplay-experience-on-switch-via-efficient-controllers-using-ryujinx/"><u>Enhance Gameplay Experience on Switch via Efficient Controllers Using Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-hardware-info-to-run-bg3-successfully/"><u>Essential Hardware Info to Run BG3 Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-fabled-tales-one-browser-at-a-time/"><u>Five Fabled Tales, One Browser at a Time</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass ZTE Nubia Flip 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-asus-rog-phone-8frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Asus ROG Phone 8FRP Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/large-scale-gaming-switch-to-playnite-fullscreen-tv/"><u>Large-Scale Gaming: Switch to Playnite Fullscreen TV</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-network-modification-alerts-with-simple-repair-steps/"><u>Overcome Network Modification Alerts with Simple Repair Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-joystick-jumble-quick-guide-to-common-fault-resolutions/"><u>Ps4 Joystick Jumble - Quick Guide to Common Fault Resolutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-vs-innovative-ps5-redesign-details/"><u>Retro Vs. Innovative: PS5 Redesign Details</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-you-replace-gtx-with-upcoming-rtx-tech-now/"><u>Should You Replace GTX with Upcoming RTX Tech Now?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-cheat-sheet-steam-screenshots/"><u>The Ultimate Cheat Sheet: Steam Screenshots</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-full-potential-of-nintendo-switch-and-sony-remotes/"><u>Unlocking Full Potential of Nintendo Switch and Sony Remotes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-adobe-premiere-elements-vs-the-competition-top-10-alternatives/"><u>Updated In 2024, Adobe Premiere Elements Vs. The Competition Top 10 Alternatives</u></a></li>
 </ul></div>
 

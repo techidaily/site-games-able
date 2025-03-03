@@ -1,7 +1,7 @@
 ---
 title: "Best Gathering Titles: Top 16 Seated Players' Games on Xbox"
-date: 2024-08-08T09:08:04.112Z
-updated: 2024-08-09T09:08:04.112Z
+date: 2025-03-01T22:17:08.494Z
+updated: 2025-03-02T22:37:05.744Z
 tags:
   - games
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 
  Rocket League is also one of [the best local multiplayer games for PC](https://www.makeuseof.com/tag/7-best-couch-co-op-games-pc/) . In fact, you can compete against PC players online, thanks to the game's cross compatibility.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3. It Takes Two
 
  Unlike some games that tack local co-op as an afterthought, It Takes Two is exclusively designed for cooperative play. With incredibly charming visuals, It Takes Two sees you and a partner platform and solve puzzles through a variety of interesting locations. If you enjoy this, check out the developer's equally impressive game A Way Out.
@@ -39,23 +36,14 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 
  Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally [decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5. Overcooked! All You Can Eat
 
  In Overcooked, you and your friends are the cute chefs that must keep up with the demands of the customers, with an onslaught of funny obstacles and wacky scenarios to keep you on your toes. You'll need to work in perfect sync to ensure your kitchen doesn't go up in flames. Expect arguments.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6. Portal 2
 
  Portal 2 first released in 2011, but this incredible game stands the test of time. While there is a superb single-player story, the co-op experience is equally fantastic and fully fledged. You and your robot chum must use the portal gun to navigate complex physical puzzles and escape the rooms.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7. Stardew Valley
 
  Stardew Valley is a simulation game that puts you in charge of building your own farm from the ground up, looking after crops and vegetables, and exploring the surrounding world and meeting a cast of charming characters. And you can do all of this in couch co-op, with up to four players. It's a completely relaxing experience, far different from the usual fast-paced shooters.
@@ -64,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 
  In Unravel Two, you and a friend take control of Yarnys—two creatures made from yarn, connected by a single thread. You work together to navigate through a series of treacherous landscapes. This is the perfect Xbox game to play locally with someone who doesn't usually play many video games.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 9. Halo: The Master Chief Collection
 
  Whether you're a Halo novice or veteran, The Master Chief Collection is the ultimate Xbox experience. It bundles six Halo games into a single package. All of them are worth playing—not only to see how they shaped the first-person shooter genre, but just because they're downright fun, especially when played in couch co-op.
@@ -80,17 +64,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Nowadays, it's rare for a racing game to offer split-screen, which is why it's so delightful that Dirt 5 does. It's a globe-trotting arcade racer that really gives you the sensation of being behind the wheel of some amazing vehicles, skirting across gravel, ice, and sand as you rev your way to the finish line. While playing Dirt 5 alone is fun, it really comes alive in local co-op.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12. Borderlands 3
 
  Whether you opt for Borderlands: The Handsome Collection (which includes Borderlands 2 and Borderlands: The Pre-Sequel) or Borderlands 3, you're in for some rollicking first-person fun as you shoot and loot with your friends through these hilarious games. Come for the action, stay for the witty characters.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 13. Rayman Legends
 
  Rayman is a certified gaming icon and the series has arguably never been better than in Rayman Legends, a 2D platformer that bursts at the seams with creativity and excitement. Not only is the colorful art a feast for the eyes, but the gameplay offers hours of perfectly finessed platforming fun.
@@ -107,21 +84,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Human Fall Flat is a puzzle platformer, tasking you and a friend to navigate through the themed environments. Sounds simple? It's anything but, with the slapstick physics meaning you'll be flailing through the levels. Though you can play this solo, you shouldn't—it's much funnier in couch co-op.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Choose Xbox for Endless Couch Co-Op Entertainment
 
  As you've seen, the Xbox Series X/S has a plethora of fabulous local co-op games to choose from, whether you're in the mood for a relaxing farming sim, frantic first-person shooter, or charming puzzle-platformer. Gaming doesn't have to be a solitary activity!
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,6 +101,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/avigating-through-the-top-10-historical-content-hubs/"><u>[New] Navigating Through the Top 10 Historical Content Hubs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-artisans-approach-to-crafting-channel-identities-for-2024/"><u>[Updated] The Artisan's Approach to Crafting Channel Identities for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/comment-ouvrir-une-image-jpg-bloquee-sous-windows-problems-troubles-pour-ouvrir-un-photo-jpeg-avec-windows-solutions-guides-pratiques-pour-resoudre-vos-souc250/"><u>Comment Ouvrir Une Image JPG Bloquée Sous Windows # Problems! Troubles Pour Ouvrir Un Photo JPEG Avec Windows #Solutions: Guides Pratiques Pour Résoudre Vos Soucis D'image</u></a></li>
+<li><a href="https://games-able.techidaily.com/discount-dive-the-prime-listing-of-the-best-11-game-purchase-websites/"><u>Discount Dive: The Prime Listing of the Best 11 Game Purchase Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-steams-disconnected-content-access-in-windows/"><u>Enabling Steam's Disconnected Content Access in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-recommendations-top-specs-for-an-unmatched-screen/"><u>Expert Recommendations: Top Specs for an Unmatched Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-corrupted-windows-store-cache-complete-solution/"><u>Fixing a Corrupted Windows Store Cache - Complete Solution</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-easy-methods-for-saving-youtube-videos/"><u>In 2024, Easy Methods for Saving YouTube Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-11-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus 11 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://games-able.techidaily.com/make-room-for-more-efficiently-shrink-your-old-school-game-isos-with-chdman/"><u>Make Room for More: Efficiently Shrink Your Old-School Game ISOs with CHDMAN</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-blue-ray-on-xbox-sxs-high-end/"><u>Mastering Blue-Ray on XBox SX's High End</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-ps2-replay-on-android-devices-top-picks/"><u>Mastering PS2 Replay on Android Devices - Top Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-errors-when-setting-up-the-oculus-app-on-pc/"><u>Solving Errors When Setting Up the Oculus App on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-reveal-the-ultimate-all-rounder-laptop-wows-with-stellar-specs-a-zdnet-review/"><u>Top Picks Reveal: The Ultimate All-Rounder Laptop Wows With Stellar Specs - A ZDNet Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-off-steam-at-boot-commence/"><u>Turn Off Steam at Boot Commence</u></a></li>
+</ul></div>
 

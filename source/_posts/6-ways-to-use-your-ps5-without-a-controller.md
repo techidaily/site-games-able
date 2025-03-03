@@ -1,7 +1,7 @@
 ---
 title: 6 Ways to Use Your PS5 Without a Controller
-date: 2024-08-15T17:15:28.986Z
-updated: 2024-08-16T17:15:28.986Z
+date: 2025-02-24T23:48:32.463Z
+updated: 2025-03-02T20:47:16.977Z
 tags:
   - games
 categories:
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 
 [Your PS5 could also turn on and off with your monitor and TV](https://www.makeuseof.com/stop-ps5-turning-on-off-with-tv/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use Remote Play to Remote Control Your PS5
 
  Remote play is one of the most popular ways to game on your PS5 without the controller. You can access all the titles on your PS5 online with remote play. However, you must have a good internet connection (at least 5MB/s) and a compatible device (Mac, PC, iPad, iPhone, Android device, etc.). Still, you can remotely access your PS5 as if you’re using it directly.
@@ -41,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 
  Remote play doesn’t work for PlayStation VR, Blu-Ray Discs and DVDs, music, SharePlay, and some video streaming apps.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Control Media Playback With a Media Remote
 
  One of the [things you can do to make your PS5 an excellent entertainment system](https://www.makeuseof.com/tips-to-get-the-best-ps5-entertainment-experience/) is get a PS5 media remote. The media remote is a simple one with buttons for volume, source, navigation, play/pause, fast forward, rewind, and additional buttons to launch entertainment apps quickly.
@@ -52,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 
  Of course, you can’t play games with a media remote; it works best for media playback.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Alternate From Your Controller Using a Mouse and Keyboard
 
 ![Astronomical Desk Pad under a Keyboard and Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/astronomical-desk-pad-under-a-keyboard-and-mouse.jpg)
@@ -65,15 +56,9 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 
  You can navigate your PS5 with a keyboard; use the arrow keys to move through the lists and the**Enter** or**Return** button to select the games or apps you want to launch. However, unlike the Xbox, which returns you to the home screen when you press the**Windows** button on a keyboard, the PS5 doesn’t recognize any home key on the keyboard. You must press the**PS** button on your controller or media remote to return home.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Control Your PS5 With Voice Commands
 
 ![Enabling voice command in PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ps5-voice-command.JPG)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Like the PS4, the PS5 also has a voice command feature. You can use this to control your PS5 with several commands. Of course, its functionality is limited, and you might not be able to access this feature at all in other regions, but here’s a list of things you can do with it for now:
 
@@ -99,23 +84,17 @@ Here’s how to do it:
 
  The PS App will connect to your console (whether or not you’re on the same network) and launch the game. If your PS5 is in Rest Mode, you can also wake it up remotely with this method if it’s connected to the internet. It could be useful to make sure no sneaky updates blindside you before you come to play.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Explore the PS5 Without a Controller
 
  If your controller is unavailable for any reason, remember there are still various ways to use your PS5\. All remote access options require your console to be connected to the internet, and others need you to own additional hardware accessories.
 
  However, none of these methods really makes gaming as fluid as a controller directly on your PS5 does. But they can be good for using your PS5 as an entertainment system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,8 +103,21 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-prime-vocal-changer-tools-for-digital-personalities/"><u>[Updated] 2024 Approved Prime Vocal Changer Tools for Digital Personalities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-use-obs-with-zoom/"><u>[Updated] In 2024, How to Use OBS with Zoom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-motion-graphics-101-key-principles-and-methods/"><u>[Updated] Motion Graphics 101 Key Principles & Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-9-series-troubleshooting-steps-for-non-functioning-mic-fixes/"><u>Arctis 9 Series: Troubleshooting Steps for Non-Functioning Mic Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-vintage-games-with-windows-photo-album/"><u>Integrating Vintage Games with Windows Photo Album</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-ps5-for-childrens-safe-gaming/"><u>Optimizing PS5 for Children's Safe Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-and-speed-balancing-mouse-sensitivity-for-game-dominance/"><u>Precision and Speed: Balancing Mouse Sensitivity for Game Dominance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-fortnites-persistent-sound-problems-lags-glitches-and-more/"><u>Solving Fortnite's Persistent Sound Problems: Lags, Glitches, and More</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-hilarious-memes/"><u>Step-by-Step Guide to Hilarious Memes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sync-your-speech-with-chatgpts-ai-response-system/"><u>Sync Your Speech with ChatGPT's AI Response System</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-steps-to-purge-steam-of-redundant-gaming-content/"><u>The Complete Steps to Purge Steam of Redundant Gaming Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-windows-gaming-on-m1-chips-using-crossover-software/"><u>Unlock Windows Gaming on M1 Chips Using Crossover Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/unrivaled-5-reasons-the-timeless-appeal-of-vintage-games/"><u>Unrivaled 5 Reasons: The Timeless Appeal of Vintage Games</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-and-macmp4iphone/"><u>Windows & Macを使ってMP4をiPhoneに合わせて変換するステップバイステップガイド</u></a></li>
+</ul></div>
 

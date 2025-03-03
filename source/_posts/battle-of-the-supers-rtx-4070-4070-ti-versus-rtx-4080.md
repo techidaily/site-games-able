@@ -1,7 +1,7 @@
 ---
 title: "Battle of the Supers: RTX 4070, 4070 Ti, versus RTX 4080"
-date: 2024-08-08T09:10:10.123Z
-updated: 2024-08-09T09:10:10.123Z
+date: 2025-03-02T00:06:14.658Z
+updated: 2025-03-02T17:57:22.881Z
 tags:
   - games
 categories:
@@ -14,23 +14,11 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
 ## Battle of the Supers: RTX 4070, 4070 Ti, versus RTX 4080
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [RTX 4070 Ti Super vs. RTX 4070 Super vs. RTX 4080 Super Compared](#rtx-4070-ti-super-vs-rtx-4070-super-vs-rtx-4080-super-compared)
 * [Should You Upgrade to the RTX 4070 Ti Super, RTX 4070 Super, or RTX 4080 Super?](#should-you-upgrade-to-the-rtx-4070-ti-super-rtx-4070-super-or-rtx-4080-super)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Nvidia launches its RTX 4000 "Super" and "Super Ti" branded GPUs with significant performance boosts.
@@ -39,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  Nvidia's new RTX 4070 Ti Super, RTX 4070 Super, and RTX 4080 Super are causing a stir because, despite being part of the RTX 4000 Series, the new GPUs bring some significant boosts—and unlike their counterparts, appear to be reasonably priced this time around.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## RTX 4070 Ti Super vs. RTX 4070 Super vs. RTX 4080 Super Compared
 
  Nvidia chose CES 2024 to unveil the latest updates to its 4000-Series GPUs: The RTX 4070 Ti Super, the RTX 4070 Super, and the RTX 4080 Super. It's the first time Nvidia has launched new GPUs with its "Super" branding, as while there were numerous rumors that the RTX 3000 Series would receive a refresh, it never came.
@@ -68,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 | Memory Bandwidth | 736GB/s          | 716GB/s           | 672GB/s          | 504GB/s          | 504GB/s    |
 | TGP              | 320W             | 320W              | 285W             | 220W             | 200W       |
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Specs
 
  As you can see from the table, the new GPUs receive a performance bump over the original RTX 4070 and RTX 4080\. However, the performance boost isn't uniform, with the new RTX 4070 Super and Super Ti getting a bigger upgrade than the new RTX 4080 Super.
@@ -83,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  Similarly, the RTX 4070 Super Ti receives a further boost, with its CUDA cores rising to 8,448\. Importantly, the 4070 Super Ti also has 16GB memory, rising from 12GB, while its memory bus also rises to 256-bit (bringing it in line with the RTX 4080 and 4080 Super). The 4GB memory increase and wider memory bus should see the RTX 4070 Super Ti deliver a hefty performance boost over the original RTX 4070 (as well as the RTX 4070 Ti, which is already on the market).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Price to Performance
 
  The [RTX 4080 launched in 2022](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) , priced around $1,199—the highest figure ever for one of Nvidia's "80" tier cards. Even allowing for inflation between the launch of the RTX 3080 in 2020 (around $699), the sky-high pricing put many would-be buyers off.
@@ -94,23 +73,17 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  But the price drops stop there. The RTX 4070 Super and Super Ti will launch at the same prices as the non-Super predecessors, coming in at $600 and $800, respectively. Given the performance upgrade for both GPUs, the lack of a price drop doesn't seem problematic, as you'll get more bang for your buck.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Should You Upgrade to the RTX 4070 Ti Super, RTX 4070 Super, or RTX 4080 Super?
 
  If you haven't upgraded from an older GPU, like the RTX 3000 or RTX 2000 Series (or an older AMD GPU), Nvidia's GPU upgrades present a good opportunity.
 
  Dropping the price of the RTX 4080 Super to $999 is a good move, but it's hard to escape that it remains an extremely expensive GPU. Whereas the RTX 4070 Ti Super and RTX 4070 Super look like a much better proposition, especially the RTX 4070 Ti Super at $800\. While absolute performance benchmarks aren't available until the GPUs launch later in January 2024, they're certain to bring a boost, which can only be a boon for gamers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,6 +92,20 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-effective-strategies-for-removing-youtube-media-from-computers/"><u>[Updated] In 2024, Effective Strategies for Removing YouTube Media From Computers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-ad-free-android-video-maker-for-2024/"><u>[Updated] Ultimate Ad-Free Android Video Maker for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-professional-audio-tactics-achieving-excellence-without-a-microphone/"><u>2024 Approved Professional Audio Tactics Achieving Excellence without a Microphone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-most-trending-templates-transforming-social-video/"><u>2024 Approved The Most Trending Templates Transforming Social Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/desktop-vs-rig-understanding-computing-needs/"><u>Desktop Vs. Rig: Understanding Computing Needs</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-advanced-keyboard-tech-akkos-modular-model-mod007b/"><u>Exploring Advanced Keyboard Tech: Akko's Modular Model MOD007B</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974588506-fast-track-your-security-download-and-setup-for-an-advanced-validity-fingerprint-sensor-driver/"><u>Fast Track Your Security: Download and Setup for an Advanced Validity Fingerprint Sensor Driver!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-f23-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo F23 5G Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-rtx-4070-super-vs-rtx-4070-super-ti-vs-rtx-4080-super/"><u>Nvidia RTX 4070 Super Vs. RTX 4070 Super Ti Vs. RTX 4080 Super</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/outstanding-value-in-fossil-watches-a-comprehensive-product-analysis/"><u>Outstanding Value in Fossil Watches - A Comprehensive Product Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-game-launchers-for-steam-decks/"><u>The Ultimate Guide to Game Launchers for Steam Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/transformative-10-interactive-experiences-to-enhance-crafting/"><u>Transformative 10 Interactive Experiences to Enhance Crafting</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-setup-guide-maximizing-your-switch-experience/"><u>Ultimate Setup Guide: Maximizing Your Switch Experience</u></a></li>
+</ul></div>
 

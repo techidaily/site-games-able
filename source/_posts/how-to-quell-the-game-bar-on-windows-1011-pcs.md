@@ -1,7 +1,7 @@
 ---
 title: How to Quell the Game Bar on Windows 10/11 PCs
-date: 2025-02-07T23:55:17.453Z
-updated: 2025-02-11T23:30:56.796Z
+date: 2025-02-26T22:35:18.005Z
+updated: 2025-03-02T17:27:43.699Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Disable the Xbox Game Bar in Windows 10
 
  Windows 10 lets you disable the Xbox Game Bar completely. To do that, follow these steps:
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 3. Select the**Xbox Game Bar** tab on the left.
 4. Turn off the toggle under the**Xbox Game Bar** .  
 ![disable the xbox gamebar in windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Restrict Xbox Game Bar's Background Activity in Windows 11
 
@@ -51,23 +43,11 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 ![opening the list of installed apps to customize settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/opening-the-list-of-installed-apps-to-customize-settings-1.jpg)
 4. Search**"Xbox"** in the search bar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the**three horizontal dots** next to the**Xbox Game Bar** app and select**Advanced options** .  
 ![open advanced options settings for xbox game bar in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-advanced-options-settings-for-xbox-game-bar-in-the-settings-app.jpg)
 6. Select**Never** in the dropdown menu under**Let this app run in the background** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Like disabling the Xbox Game Bar, you can tweak a few settings to[improve your gaming performance on Windows 10](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) and[Windows 11](https://www.makeuseof.com/improve-gaming-experience-windows-11/) .
 
@@ -92,20 +72,24 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-key-to-flawless-tiktok-profile-hyperlinking/"><u>[New] The Ultimate Key to Flawless TikTok Profile Hyperlinking</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-comprehensive-guide-to-precision-screen-capture/"><u>[Updated] 2024 Approved The Comprehensive Guide to Precision Screen Capture</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-a-beginners-guide-to-youtube-seo-keywords-for-2024/"><u>[Updated] A Beginner's Guide to YouTube SEO Keywords for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-elite-hue-refiner-toolkit/"><u>[Updated] Elite Hue Refiner Toolkit</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-social-media-to-monetary-success-the-roadmap-for-instagram-sponsorship/"><u>[Updated] From Social Media to Monetary Success The Roadmap for Instagram Sponsorship</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-whats-new-in-vr/"><u>2024 Approved What's New in VR?</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-epic-stories-for-games-using-ai/"><u>Crafting Epic Stories for Games Using AI</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/novice-to-expert-ascending-with-asmr-video-production-tactics/"><u>From Novice to Expert Ascending with ASMR Video Production Tactics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-repair-microsoft-teams-microphone-in-windows-1011/"><u>How to Enable and Repair Microsoft Teams Microphone in Windows 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/portability-perfected-choosing-the-best-nintendo-switch-docks/"><u>Portability Perfected: Choosing the Best Nintendo Switch Docks</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-playstation-sound-streaming-technique/"><u>Sony's PlayStation Sound Streaming Technique</u></a></li>
-<li><a href="https://games-able.techidaily.com/tech-duel-smartphone-gaming-vs-tablet-experience/"><u>Tech Duel: Smartphone Gaming VS. Tablet Experience</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/troubleshooting-your-scanner-essential-tips-and-steps-by-yl-software-experts/"><u>Troubleshooting Your Scanner - Essential Tips and Steps by YL Software Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-your-games-with-xbox-game-pass/"><u>Unlocking Your Games with Xbox Game Pass</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-seven-mobile-game-shortcomings/"><u>Unveiling Seven Mobile Game Shortcomings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-tactical-steps-to-obtain-top-notch-pictorial-content/"><u>[Updated] In 2024, Tactical Steps to Obtain Top-Notch Pictorial Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-convenient-techniques-for-customizing-your-own-short-videos/"><u>2024 Approved Convenient Techniques for Customizing Your Own Short Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/digital-ease-the-fastest-path-to-proficient-czech-use/"><u>Digital Ease: The Fastest Path to Proficient Czech Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-steam-online-status-on-win11/"><u>Enhancing Steam Online Status on Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/freeplay-exploring-valuable-game-acquisitions-on-steam/"><u>Freeplay: Exploring Valuable Game Acquisitions on Steam</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-gmail-to-imessage-how-to-seamlessly-shift-your-picture-archive-from-google-photos-to-icloud/"><u>From Gmail to iMessage: How To Seamlessly Shift Your Picture Archive From Google Photos to iCloud</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-filmmakers-guide-to-capturing-clear-sea-footage/"><u>In 2024, The Filmmaker's Guide to Capturing Clear Sea Footage</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-xs-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone XS without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-ps5-networked-gaming-features/"><u>Integrating PS5 Networked Gaming Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macitunesmacx-dvditunesiphoneipod/"><u>Macユーザー向けに特化したiTunes変換フリープログラム：MacX を使いDVDファイルを無料でiTunes/iPhone/iPod互換へ</u></a></li>
+<li><a href="https://games-able.techidaily.com/mapping-together-crafting-friendly-mc-experiences-for-groups/"><u>Mapping Together: Crafting Friendly MC Experiences for Groups</u></a></li>
+<li><a href="https://games-able.techidaily.com/performance-metrics-original-vs-aib-graphic-processors/"><u>Performance Metrics: Original vs AIB Graphic Processors</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-controls-for-gamepads-top-joy-con-and-pro-controllers/"><u>Pinnacle Controls for Gamepads – Top Joy-Con and Pro Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/powerful-picks-select-the-best-gaming-gear/"><u>Powerful Picks: Select the Best Gaming Gear</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-edge-40-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Edge 40 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-the-dream-playing-classic-dreamcast-on-android-devices/"><u>Revive the Dream: Playing Classic Dreamcast on Android Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-sharing-giants-clash-vimeo-vs-youtube-for-2024/"><u>Video Sharing Giants Clash Vimeo vs YouTube for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-motorola-g24-power-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Motorola G24 Power Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/workstations-vs-gaming-pcs-functionality-overview/"><u>Workstations Vs. Gaming PCs: Functionality Overview</u></a></li>
 </ul></div>
 

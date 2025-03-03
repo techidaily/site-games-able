@@ -1,7 +1,7 @@
 ---
 title: Unveil the Extraordinary with Big Box Cabinetry
-date: 2025-02-07T00:36:49.017Z
-updated: 2025-02-12T00:13:21.594Z
+date: 2025-02-23T17:48:26.206Z
+updated: 2025-03-02T17:06:31.036Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Frontend Software for Arcade Cabinets?
 
  Think about the components needed to operate an arcade cabinet. You at least need a joystick with a set of buttons, speakers, a monitor, a cabinet, and a device to run the whole thing, like a desktop. But how do you navigate the system once it’s set up? That’s where frontend software comes in.
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like[building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -50,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
  Leveraging the power of Big Box via EmuMovies automatically finds all of the metadata for each game automatically, allows you to essentially set it and forget it! But you’ll need to be a premium member of both, then link your EmuMovies account to LaunchBox.
 
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
@@ -79,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
 
  For example, when I want to exit a game, I tap my**Player 1 Start button** and**A button** simultaneously twice to activate the**Close the Active Window** value, which exits my game. I can also do a different button combination for the volume control, among other functions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Big Box Adds Second Screen Support for Digital Marquees
 
  When you populate your library with metadata via EmuMovies, you probably notice that a marquee file is always downloaded. These files are used with a second screen, displayed as a marquee like a traditional arcade cabinet.
@@ -90,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
  Once you have[set up dual monitors](https://www.makeuseof.com/how-to-set-up-dual-monitors/) for your arcade system, go into Big Box then select**Options > General > Marquee Screen > Screen 2** . Now, whenever you highlight a game in Big Box, your second screen will display the marquee for that particular game, usually reflective of the cabinet it was in during its heyday. It’s a nice touch that goes a long way toward making your cabinet feel authentic yet new.
 
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
 
@@ -124,16 +104,21 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-tips-for-organizing-online-gatherings-google-meet/"><u>[New] 2024 Approved Essential Tips for Organizing Online Gatherings (Google Meet)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-highlight-prime-iphone-gif-apps-to-try/"><u>[Updated] Highlight Prime iPhone GIF Apps to Try</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011801568-effortless-troubleshooting-resolving-the-division-2-crashes-today/"><u>Effortless Troubleshooting: Resolving The Division 2 Crashes Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-evolution-how-the-xbox-series-s-abandons-physical-media/"><u>Gaming Evolution: How the Xbox Series S Abandons Physical Media</u></a></li>
-<li><a href="https://games-able.techidaily.com/global-play-schedule-customizing-your-consoles-hour/"><u>Global Play Schedule: Customizing Your Console's Hour</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-does-amds-fsr-3-hold-up-against-nvidias-dlss-35/"><u>How Does AMD’s FSR 3 Hold Up Against NVIDIA's DLSS 3.5?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-xiaomi-mix-fold-3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Xiaomi Mix Fold 3 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-games-and-getaways-key-strategies/"><u>Navigating Games & Getaways: Key Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/selecting-your-ideal-raspberry-pi-emulator-batocera-vs-retropie/"><u>Selecting Your Ideal Raspberry Pi Emulator: Batocera Vs. RetroPie</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-storage-10-reliable-hosts-for-personal-and-commercial-videos/"><u>Updated 2024 Approved Free Video Storage 10 Reliable Hosts for Personal and Commercial Videos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-11-best-free-mp4-video-cutters/"><u>Updated In 2024, Top 11 Best Free MP4 Video Cutters</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-tasty-trends-unveiled-a-taste-of-tiktok-culture/"><u>[New] In 2024, Tasty Trends Unveiled A Taste of TikTok Culture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-iphone-camera-not-auto-focusing-woes/"><u>[New] Navigating iPhone Camera Not Auto-Focusing Woes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ideal-timing-aids-the-best-clock-apps-for-your-big-day/"><u>[Updated] 2024 Approved Ideal Timing Aids The Best Clock Apps For Your Big Day</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ice-and-elegance-the-2022-winter-olympics-in-china/"><u>[Updated] In 2024, Ice & Elegance The 2022 Winter Olympics in China</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-revamp-your-channels-smart-tips-for-yt-profiles/"><u>[Updated] In 2024, Revamp Your Channels Smart Tips for YT Profiles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-from-newcomer-to-pro-a-step-by-step-creator-hub-guidebook/"><u>2024 Approved From Newcomer to Pro A Step-by-Step Creator Hub Guidebook</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/an-ode-to-infinite-education-and-knowledge/"><u>An Ode to Infinite Education and Knowledge</u></a></li>
+<li><a href="https://games-able.techidaily.com/dynamic-cooling-curve-design-elevates-system-stability/"><u>Dynamic Cooling Curve Design Elevates System Stability</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-sony-portable-playback-to-dual-analog-simulation/"><u>From Sony Portable Playback to Dual Analog Simulation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-the-best-consoles-for-macos-emulation/"><u>Selecting the Best Consoles for macOS Emulation</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-end-of-platform-locked-entertainment/"><u>The End of Platform-Locked Entertainment</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-console-experience-with-exceptional-panels/"><u>Transform Your Console Experience with Exceptional Panels</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-non-joy-con-link-problems-for-switch-users/"><u>Troubleshooting Non-Joy-Con Link Problems for Switch Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/unique-curve-design-balancing-thermal-management-and-performance/"><u>Unique Curve Design: Balancing Thermal Management and Performance</u></a></li>
 </ul></div>
 

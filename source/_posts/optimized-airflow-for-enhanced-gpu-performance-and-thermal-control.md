@@ -1,7 +1,7 @@
 ---
 title: Optimized Airflow for Enhanced GPU Performance & Thermal Control
-date: 2025-02-06T19:50:21.653Z
-updated: 2025-02-12T00:01:53.354Z
+date: 2025-02-25T18:55:29.149Z
+updated: 2025-03-02T20:38:03.499Z
 tags:
   - games
 categories:
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 * [Why Should You Use a Custom GPU Fan Curve?](#why-should-you-use-a-custom-gpu-fan-curve)
 * [Should Your GPU Fans Run at 100%?](#should-your-gpu-fans-run-at-100)
 * [How to Set a Custom GPU Fan Curve to Boost Gaming Performance](#how-to-set-a-custom-gpu-fan-curve-to-boost-gaming-performance)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -75,15 +71,7 @@ Jhet Borja/MakeUseOf
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Benchmark and Find Your Temperatures
 
@@ -98,10 +86,6 @@ Jhet Borja/MakeUseOf
 
 ![Manual fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/manual-fan-speed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
@@ -114,17 +98,9 @@ Jhet Borja/MakeUseOf
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
 
@@ -151,18 +127,21 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-crafting-content-that-captivates-instagrams-roadmap-to-success/"><u>[New] 2024 Approved Crafting Content that Captivates Instagram’s Roadmap to Success</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-essential-apps-best-10-software-to-capture-your-screens/"><u>[New] Essential Apps Best 10 Software to Capture Your Screens</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-honor-90-lite-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor 90 Lite Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-console-security-a-detailed-look-at-ps5-passwords/"><u>Enhancing Console Security: A Detailed Look at PS5 Passwords</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-credibility-of-chatgpt-in-providing-health-information/"><u>Exploring the Credibility of ChatGPT in Providing Health Information</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/forecast-vs-reality-how-accurate-were-pre-2017-predictions-about-the-modern-esports-landscape/"><u>Forecast Vs. Reality: How Accurate Were Pre-2017 Predictions About the Modern eSports Landscape?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-xs-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone XS Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-graphics-milestone-for-amd-will-fsr-3-challenge-nvidias-dlss-35/"><u>New Graphics Milestone for AMD, Will FSR 3 Challenge NVIDIA’s DLSS 3.5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-for-switch-protection-installing-a-passcode/"><u>Step by Step for Switch Protection: Installing a Passcode</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleash-hues-basic-techniques-for-adobe-enthusiasts/"><u>Unleash Hues Basic Techniques for Adobe Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/unplug-and-play-the-allure-of-netflixs-gaming/"><u>Unplug and Play: The Allure of Netflix’s Gaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-hardware-mysteries-in-depth-articles-from-toms-hardware/"><u>Unraveling Hardware Mysteries: In-Depth Articles From Tom's Hardware</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-victory-joystick-vs-console-command/"><u>Virtual Victory: Joystick Vs. Console Command</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-channeling-cashflow-a-beginners-guide-to-youtube-earning/"><u>[New] In 2024, Channeling Cashflow A Beginner’s Guide to YouTube Earning</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-secure-the-best-a-list-of-top-free-mac-screen-recorders/"><u>[New] Secure the Best A List of Top Free Mac Screen Recorders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sound-capture-module-for-iphone-24-year/"><u>2024 Approved Sound Capture Module for iPhone '24 Year</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-fixes-for-create-failed-with-code-30005/"><u>Exploring the Fixes for Create Failed with Code 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-device-freeze-code-0x887a0006-in-windows/"><u>Fixing Device Freeze - Code 0X887A0006 in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-grasp-which-control-wins-more/"><u>Gamers' Grasp: Which Control Wins More?</u></a></li>
+<li><a href="https://games-able.techidaily.com/heat-trouble-overclocked-gpu-woes/"><u>Heat, Trouble: Overclocked GPU Woes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-bootloader-easily-by-drfone-android/"><u>How to Unlock Itel Bootloader Easily</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-cyberspace-screenplays-virtual-movie-journeys/"><u>In 2024, Cyberspace Screenplays Virtual Movie Journeys</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-leading-picks-unlimited-photo-sharing-platforms/"><u>In 2024, Leading Picks Unlimited Photo Sharing Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-there-tangible-value-in-ea-plays-cost/"><u>Is There Tangible Value in EA Play's Cost?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-joy-in-portable-gaming-my-commitment-to-apple-arcade/"><u>The Joy in Portable Gaming: My Commitment to Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-full-power-of-docked-steam-deck-with-easy-tweaks/"><u>Unleash Full Power of Docked Steam Deck with Easy Tweaks</u></a></li>
 </ul></div>
 

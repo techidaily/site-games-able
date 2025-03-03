@@ -1,7 +1,7 @@
 ---
 title: Pioneering Retro Game PC Controls
-date: 2025-02-06T00:32:47.825Z
-updated: 2025-02-11T22:33:30.700Z
+date: 2025-02-25T19:30:51.850Z
+updated: 2025-03-02T22:54:28.805Z
 tags:
   - games
 categories:
@@ -39,19 +39,11 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![Add Bluetooth Device to PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-bluetooth-device-to-pc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your computer will start searching for a signal at this point, so press the Bluetooth pairing button at the top of the controller to allow your PC to find and establish the connection. The Bluetooth pairing button is the tiny circular button to the right of the screenshot button, next to the row of lights. Hold the button down until the lights start flashing green.
 
  Once the PC finds your Classic Nintendo controller, a small pop-up window will appear on your screen showing the name of your controller. In this case, it is the N64 controller, but the name may differ for you depending on what Classic Nintendo controller you have.
 
 ![Connecting N64 Controller to PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/connecting-n64-controller-to-pc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Left-click on the**controller name** to pair it. It's worth noting here that your PC won't remember the Classic Nintendo controller like it does other Bluetooth devices, and this process will have to be repeated every time you want to connect your controller to your PC.
 
@@ -65,27 +57,15 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
 
  Select the game you want to play with your Classic Nintendo controller and press the**controller icon** on the right to open your controller settings. Select**Enable Steam Input** . This allows you to fully customize your controller’s button layout.
 
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
 
@@ -114,20 +94,19 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-turbo-speed-photo-browser-for-windows-10-for-2024/"><u>[New] Turbo Speed Photo Browser for Windows 10 for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-chuckling-and-crying-on-the-same-ig-feed-top-memetic-pages-for-2024/"><u>[Updated] Chuckling and Crying on the Same IG Feed Top Memetic Pages for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlining-submission-a-podcasters-guide/"><u>[Updated] Streamlining Submission A Podcaster's Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/connect-your-laptop-stream-games-through-steam-deck/"><u>Connect Your Laptop, Stream Games Through Steam Deck</u></a></li>
-<li><a href="https://os-tips.techidaily.com/critical-security-update-available-for-iphone-ipad-and-mac-install-now-to-protect-your-device/"><u>Critical Security Update Available for iPhone, iPad, and Mac - Install Now to Protect Your Device!</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-treasure-hunting-top-3-strategies-for-xbox/"><u>Digital Treasure Hunting: Top 3 Strategies for Xbox</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-download-full-version-of-microsoft-excel-repair-software-by-stellar-guide/"><u>Free Download - Full Version of Microsoft Excel Repair Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-geforce-rtx-3060-ti-drivers-on-windows-compatibility-tips/"><u>Get the Newest GeForce RTX 3060 Ti Drivers on Windows - Compatibility Tips</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guide-to-modifying-the-size-of-partition-c-on-an-ssd-within-the-windows-environment/"><u>Guide to Modifying the Size of Partition C on an SSD Within the Windows Environment</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-delete-ps5-user-accounts/"><u>How to Delete PS5 User Accounts</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-m34-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy M34 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-playbook-for-parallel-pursuit-of-youtube-videos/"><u>In 2024, The Playbook for Parallel Pursuit of Youtube Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovate-your-gaming-sphere-with-the-steam-workshop-method/"><u>Innovate Your Gaming Sphere with the Steam Workshop Method</u></a></li>
-<li><a href="https://games-able.techidaily.com/leading-8-compact-emulators-android-gaming-pcmac/"><u>Leading 8 Compact Emulators: Android Gaming PC/Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/modular-game-console-akkos-revolutionary-mod007b-board/"><u>Modular Game Console: Akko's Revolutionary MOD007B Board</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-beyond-illusion-vr-timeline-explored/"><u>[New] Beyond Illusion VR Timeline Explored</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-fidelity-videos-our-selection-of-the-three-finest-phones/"><u>[New] High Fidelity Videos Our Selection of the Three Finest Phones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screen-capture-mastery-a-closer-look-at-recmeister-tech-for-2024/"><u>[Updated] Screen Capture Mastery A Closer Look at Recmeister Tech for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-subtle-symmetry-balancing-visuals-like-a-pro-for-2024/"><u>[Updated] Subtle Symmetry Balancing Visuals Like a Pro for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-simplifying-color-grading-a-comprehensive-look-at-luts/"><u>2024 Approved Simplifying Color Grading A Comprehensive Look at LUTs</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-effective-4k-experience-cards/"><u>Cost-Effective 4K Experience Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-generation-controller-compatibility/"><u>Cross-Generation Controller Compatibility?</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-tvs-fullscreen-capabilities-with-playnite/"><u>Discover TV's Fullscreen Capabilities with Playnite</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-magic-6-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Magic 6 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-video-impact-post-upload-edit-tips-for-youtube-for-2024/"><u>Maximizing Video Impact Post-Upload Edit Tips for YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailor-your-tv-experience-a-guide-to-setting-up-xbox-variable-refresh-rate/"><u>Tailor Your TV Experience: A Guide to Setting Up Xbox Variable Refresh Rate</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-guide-to-saving-web-radio-broadcasts-for-2024/"><u>The Essential Guide to Saving Web Radio Broadcasts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-hidden-pathways-leading-to-starfield-trial-invites/"><u>The Hidden Pathways Leading to Starfield Trial Invites</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-full-featured-control-with-a-wireless-gamepad/"><u>Unleashing Full-Featured Control with a Wireless Gamepad</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Become a Pro at Mobile Gaming: Learn Button Controls"
-date: 2024-08-15T17:14:29.178Z
-updated: 2024-08-16T17:14:29.178Z
+date: 2025-02-24T18:30:00.279Z
+updated: 2025-03-02T18:26:23.085Z
 tags:
   - games
 categories:
@@ -37,14 +37,8 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 ## How to Get Started With Button Mapping on Android
 
 ![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Mantis button mapping app prompting you to enable overlay settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-allow-overlay-settings.png)
 
@@ -81,44 +75,28 @@ Close
 ![Mantis needs you to manually add games before applying button mapping.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-add-game.png)
 
 ![Adding support for a game within Mantis Pro.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-pro-add-games.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
 ![Mantis Gamepad Pro with three games added.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-three-games-added.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 Close
 
  When the game opens, you will see a Mantis widget hovering on one side of the screen. Tap this widget to bring up the controller options.
 
 ![Tap the floating Mantis button to begin mapping buttons.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-floating-button.png)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
  You can select each of the inputs on your controller, such as the analog sticks, face buttons, and triggers. You then drag where on the screen you want the button press to correspond to. Mantis Gamepad Pro also includes support for gestures, so you can make pressing a button the equivalent of swiping rather than tapping.
 
 ![Buttons mapped using Mantis Gamepad Pro.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-map-controls.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
  From here on, you're good to go. The experience isn't without its quirks, but it works with most games you throw at it. Just know that sometimes you may need to re-activate the Mantis app, especially after restarting your phone.
 
  Button mapping won't deliver as smooth an experience as native controller support since things like navigating menus and other UI elements that move around often will still require touching the screen. You may also encounter other issues at unexpected times, which can be resolved by turning off developer settings and only re-enabling them when you intend to use Mantis.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,6 +105,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ios-compatible-ps2-games-simulator-roundup/"><u>[Updated] 2024 Approved IOS-Compatible PS2 Games Simulator Roundup</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-top-2023-no-cost-live-stream-tools-cross-platform-edition/"><u>[Updated] In 2024, Top 2023 No-Cost Live Stream Tools Cross-Platform Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/converting-desktops-to-handheld-steam-link-for-androidios-gaming/"><u>Converting Desktops to Handheld: Steam Link for Android/iOS Gaming</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-person-identification-errors-in-apples-photo-library-a-step-by-step-guide/"><u>Correcting Person Identification Errors in Apple's Photo Library: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-gaming-anywhere-anytime-with-no-data-needed/"><u>Enjoy Gaming Anywhere, Anytime With No Data Needed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fraudulent-chrome-helper-harvests-social-media-passwords/"><u>Fraudulent Chrome Helper: Harvests Social Media Passwords</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-minecraft-bedrock-isolation-to-java-connection-using-geysermc/"><u>From Minecraft Bedrock Isolation to Java Connection Using GeyserMC</u></a></li>
+<li><a href="https://games-able.techidaily.com/players-and-policy-decoding-xboxs-ban-on-third-party-devices/"><u>Players and Policy: Decoding Xbox’s Ban on Third-Party Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-finest-unboxing-content-15-top-ranked-youtube-vids/"><u>The Finest Unboxing Content 15 Top-Ranked YouTube Vids</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-light-solution-for-dynamic-gaming-rooms/"><u>The Ultimate Light Solution for Dynamic Gaming Rooms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+</ul></div>
 

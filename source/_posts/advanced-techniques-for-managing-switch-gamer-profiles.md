@@ -1,7 +1,7 @@
 ---
 title: Advanced Techniques for Managing Switch Gamer Profiles
-date: 2024-08-08T09:12:09.736Z
-updated: 2024-08-09T09:12:09.736Z
+date: 2025-02-27T16:29:50.250Z
+updated: 2025-03-02T20:06:16.602Z
 tags:
   - games
 categories:
@@ -28,25 +28,10 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 * Most of the accessible settings for your Nintendo account can be found in the**Nintendo eShop** as opposed to**System Settings** .
 * You may be unable to alter some aspects of your Nintendo account, like its region, due to having Nintendo eShop funds. If you were to alter the region settings, you may lose your funds.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A photograph of Nintendo Switch Joy Con attached to a Joy Con controller adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sara-kurfess-tn7v-55ti4q-unsplash-1.jpg)
 
  While the account information and options available on your Nintendo Switch may be limited, they still offer useful information or quick and easy ways to deal with subscriptions. But how do you access your Nintendo account options from a Switch?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## How to Manage and Access Your Account Information on Nintendo Switch
 
  There are two main ways you can manage and access your Nintendo account information on your Switch, either through the**System Settings** of your console or the**Nintendo eShop** . However, the options provided by both methods vary.
@@ -57,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
 * From the Home screen of your Nintendo Switch, select**System Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![A screenshot of the Home screen for a Nintendo Switch with the System Settings option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2023042110313400-57b4628d2267231d57e0fc1078c0596d.jpg)
 
 * Highlight the options for**User** , and select the user profile linked to your Nintendo account.
@@ -80,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
 * From the Home screen of your Nintendo Switch, select**Nintendo eShop** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of the Nintendo Switch Home screen with the option for Nintendo eShop highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092211225900-57b4628d2267231d57e0fc1078c0596d.jpg)
 
 * Select the user profile linked to your Nintendo account.
@@ -91,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
  From the**Account Information** page, you can edit things like payment methods and your Nintendo eShop funds. And, if you highlight the options for**Nintendo Switch Online** , you can even**Renew** or**Terminate Automatic Renewal** to set up or cancel your subscriptions.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## How to Edit Your Nintendo Account Information
 
  Unfortunately, while you can access and manage some account requirements from your Nintendo Switch, if you want to edit your Nintendo Switch account in more depth, you need to use methods outside your console.
@@ -111,20 +87,10 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
 * Under**Privacy and Other Settings** , you can alter any notifications you receive or information you send regarding things like**Emails from Nintendo** or**Usage Information** by selecting**Change** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the options for Privacy and Other Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/privacy.jpg)
 
 * Or, you can select the**Family Group** tab to add or remove Family members.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![A screenshot of the Family Group settings available for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family.jpg)
 
  And with that, you can alter and edit numerous aspects of your Nintendo account. So, if the options on your Nintendo Switch fail you, you at least have a backup method that may not be as convenient but is sure to address your needs.
@@ -135,14 +101,11 @@ No advertising on the website.
 
  But even if the options on your Switch don't support your account alterations, you can still edit all aspects of your account via the official Nintendo site, just at slightly less convenience than doing so on your console.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,6 +114,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-advanced-mp4-encoder-for-social-sharing/"><u>[New] 2024 Approved Advanced MP4 Encoder for Social Sharing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-immersing-viewers-in-new-realities-the-vr-film-revolution-for-2024/"><u>[New] Immersing Viewers in New Realities The VR Film Revolution for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-drone-editors-playbook-a-comprehensive-guide/"><u>[New] In 2024, The Drone Editor's Playbook A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-fortnite-tile-sketch-a-30-second-guide/"><u>[New] Quick Fortnite Tile Sketch A 30-Second Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-vocal-variations-in-free-fire-gaming/"><u>[Updated] 2024 Approved Vocal Variations in Free Fire Gaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-brainstorm-to-final-draft-employing-chatgpt-strategies-for-effective-research-and-essay-work/"><u>From Brainstorm to Final Draft: Employing ChatGPT Strategies for Effective Research & Essay Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-the-go-a-balancing-act/"><u>Gaming on the Go: A Balancing Act</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-smarter-with-corsairs-icue-link-why-upgrade-now/"><u>Get Smarter with Corsair's iCUE Link: Why Upgrade Now?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-a-closer-look-at-vn-video-editor-pro-pros-cons-and-everything-in-between/"><u>In 2024, A Closer Look at VN Video Editor Pro Pros, Cons, and Everything in Between</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-discords-indicator-for-inactivity-credible-or-misleading/"><u>Is Discord's Indicator for Inactivity Credible or Misleading?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-nokia-xr21-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia XR21 Black and White | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/stuck-game-the-eject-solution-for-xbox-series-x/"><u>Stuck Game: The Eject Solution for Xbox Series X</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-top-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Top Social Media Sites - Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-cost-quests-triumphantly-acquiring-great-games-on-steam/"><u>Zero-Cost Quests: Triumphantly Acquiring Great Games on Steam</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Commander’s Compendium: Top 11 WW2 Games"
-date: 2025-02-10T17:50:22.210Z
-updated: 2025-02-11T18:33:09.121Z
+date: 2025-03-01T21:49:43.864Z
+updated: 2025-03-02T23:23:31.164Z
 tags:
   - games
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1. Company of Heroes 3
 
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  If you like traditional turn-based hex gameplay, this is the game for you. It's easy to pick up, but packs a lot of depth, and has some nice animations and effects to keep things interesting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5. Panzer Corps 2
 
  Panzer Corps is a beloved WW2 strategy game, and this sequel takes what worked in the original and improves upon it.
@@ -70,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  According to the developers, no other game has as many authentic World War II vehicles. There are over 1,000 unique units, each modeled with incredible detail and realistic animations. You can take charge of them in the single-player campaign or online.
 
  Once you're done with the game's main content, you can use the powerful scenario editor to build your own campaigns and maps with ease. Panzer Corps 2 is so deep that you may never need to buy another WW2 game again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6. Codename: Panzers
 
@@ -115,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  There's also a scenario editor with Steam Workshop support, so you can build your own campaigns and download other people's with ease.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11. Close Combat
 
  The Close Combat series began in 1996 and still exists to this day as a mixture of remakes and originals. It's a top-down strategy series that puts the focus on realism. Your troops have changing mental and physical conditions, you need to scavenge for ammunition, and a troop's experience on the battlefield impacts how they react to a situation.
@@ -126,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Each game in the Close Combat series focuses on a different, real-life key event from WWII, with grand campaigns playing out on large maps, so choose the one which interests you the most. 2019's Close Combat: The Bloody First was the first 3D entry, though reviews for that are mixed.
 
  Don't let the old-school graphics put you off; it's the gameplay that matters. This is an immersive strategy game series that will suck you in for hours.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You Can Also Play Strategy Games in Your Browser
 
@@ -152,20 +132,24 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-cutting-edge-of-photography-iphone-cropping-tips/"><u>[New] 2024 Approved The Cutting Edge of Photography IPhone Cropping Tips</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-interactive-media-adding-audio-to-visual-narratives-for-2024/"><u>[Updated] Interactive Media Adding Audio to Visual Narratives for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ground-rules-to-learn-langchain-llms/"><u>Ground Rules to Learn LangChain LLMs</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmonious-hearing-balancing-game-and-home-sounds-on-xbox/"><u>Harmonious Hearing: Balancing Game and Home Sounds on Xbox</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-asus-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Asus Unlock Without Password</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instagram-success-secrets-8-steps-to-becoming-a-top-poster-for-2024/"><u>Instagram Success Secrets 8 Steps to Becoming a Top Poster for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-ps3-gaming-30-essential-pc-emulators/"><u>Mastering PS3 Gaming: 30 Essential PC Emulators</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-game-reviewing-in-the-steam-world/"><u>Mastering the Art of Game Reviewing in the Steam World</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavis-kostenloze-online-tool-herleiden-dpx-bestanden-in-gratis-png-format-efficient-en-gemakkelijk/"><u>Movavi's Kostenloze Online Tool: Herleiden DPX-Bestanden in Gratis PNG-Format Efficiënt en Gemakkelijk</u></a></li>
-<li><a href="https://games-able.techidaily.com/murder-mysteries-in-cyberspace-with-ai-assistance/"><u>Murder Mysteries in Cyberspace with AI Assistance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/no-email-no-phone-heres-how-you-can-get-back-into-facebook/"><u>No Email? No Phone? Here's How You Can Get Back Into Facebook!</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-visuals-with-xboxs-calibration-utility/"><u>Optimizing Visuals with Xbox's Calibration Utility</u></a></li>
-<li><a href="https://games-able.techidaily.com/pro-gaming-secrets-scoring-the-best-apple-arcade-offerings/"><u>Pro Gaming Secrets: Scoring the Best Apple Arcade Offerings</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-display-needs-skip-the-hdr-route/"><u>Understanding Display Needs: Skip the HDR Route</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-content-delivery-comparison-vimeo-vs-youtube-vs-dailymotion/"><u>[New] 2024 Approved Content Delivery Comparison Vimeo vs YouTube vs Dailymotion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aximize-impact-strategic-viewing-hours-schedule-for-2024/"><u>[New] Maximize Impact Strategic Viewing Hours Schedule for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-complete-2023-bandicam-insight-and-tips/"><u>[New] The Complete 2023 Bandicam Insight & Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-laugh-riot-twitters-funniest-moments-for-2024/"><u>[Updated] Laugh Riot Twitter's Funniest Moments for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photobooth-frustration-unfreezing-video-playback/"><u>[Updated] Photobooth Frustration Unfreezing Video Playback</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-camera-showdown-top-camcorders-reviewed/"><u>2024 Approved The Ultimate Camera Showdown Top Camcorders Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-gpu-use-for-immediate-replay-access/"><u>Cutting-Edge GPU Use for Immediate Replay Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-fun-7-linux-terminal-game-suggestions/"><u>Dive Into Fun: 7 Linux Terminal Game Suggestions</u></a></li>
+<li><a href="https://games-able.techidaily.com/easier-way-to-discover-if-pcs-cpu-is-bottl-written-by/"><u>Easier Way to Discover If PC’s CPU Is Bottl Written By</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-guide-to-premium-twitch-video-downloaders/"><u>Exclusive Guide to Premium Twitch Video Downloaders</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-unique-features-of-steam-and-gog/"><u>Exploring the Unique Features of Steam & GOG</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-dreammaker-8-studio-edition/"><u>In 2024, DreamMaker 8 Studio Edition</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-phantom-v-fold-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Phantom V Fold Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-deck-sd-card-insertion/"><u>Mastering Steam Deck SD Card Insertion</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-console-duel-sonys-ps5-against-microsofts-xbox-sx/"><u>Next Gen Console Duel: Sony’s PS5 Against Microsoft’s Xbox SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-older-ps-games-on-new-ps4-console/"><u>Playing Older PS Games on New PS4 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/shattered-digital-landscapes-should-we-care/"><u>Shattered Digital Landscapes – Should We Care?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-nioh-2-complete-edition-crashes-effortlessly/"><u>Ultimate Guide: Resolving Nioh 2 Complete Edition Crashes Effortlessly</u></a></li>
 </ul></div>
 

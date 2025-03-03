@@ -1,7 +1,7 @@
 ---
 title: Amplify Your Game Space - Go for Giant Arcade Panels
-date: 2024-08-15T17:15:37.332Z
-updated: 2024-08-16T17:15:37.332Z
+date: 2025-02-25T18:23:40.142Z
+updated: 2025-03-02T16:42:33.089Z
 tags:
   - games
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like [building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -40,29 +37,15 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
  Leveraging the power of Big Box via EmuMovies automatically finds all of the metadata for each game automatically, allows you to essentially set it and forget it! But you’ll need to be a premium member of both, then link your EmuMovies account to LaunchBox.
 
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
 ![Importing metadata into Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/import-flyers-bezels-etc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 
  This saves days’ worth of work alone, and means [LaunchBox Premium is worth the cost of admission](https://www.makeuseof.com/launchbox-premium-worth-buying/) highly recommend getting a lifetime subscription to both LaunchBox and EmuMovies. You’re looking at $135 for both licenses as of July 2023.
 
  But in terms of ease-of-use and the time saved alone, it’s going to be money well spent. Especially if you want your arcade cabinet to grow with you as you keep adding games via Steam or another source.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Big Box Adds Context to Your Library
 
  Want to know the importance of context? Look at this listing below as an example. If I had not used EmuMovies as I discussed a moment ago, this cabinet would be nothing but a list of games.
@@ -70,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
  But because I imported the metadata a moment ago, now this listing has a description, trailer, a banner image, and even music from the game. It’s as informative as a listing of an episode or film on your favorite streaming service, making it easy to choose the game you want to play.
 
 ![Game page in EmuMovies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/emu-movies-front-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re already familiar with [LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
@@ -92,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 5\. Use Big Box In-Place of Your Windows Shell
 
  You don’t want to have to use a mouse to open Big Box every time your start the device running your cabinet. It’s preferable if you can dive right into your arcade cabinet’s frontend with as few steps as possible. Fortunately, Big Box makes it happen if your arcade cabinet is powered by Windows.
@@ -107,14 +84,11 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
  The amount of time and frustration saved alone is worth the cost of admission for LaunchBox and EmuMovies. It’s layered tidily in Big Box, making navigating your library of games via arcade controls so easy, you’ll wonder why other frontends are so complicated. Give it a shot, and you’ll become one of the converted.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,8 +97,24 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premium-zero-cost-live-capture-program-for-2024/"><u>[New] Premium Zero-Cost Live Capture Program for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-premier-short-frame-gatherer-top-lapses/"><u>[Updated] 2024 Approved Premier Short Frame Gatherer - Top Lapses</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-channels-templates-at-no-charge/"><u>[Updated] Elevate Your Channels - Templates at No Charge</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gaming-on-switch-must-try-performance-boosters/"><u>Elevating Gaming on Switch: Must-Try Performance Boosters</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-perform-an-efficient-ps4-factory-reset/"><u>How to Perform an Efficient PS4 Factory Reset</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fix-realigning-your-icons/"><u>Immediate Fix: Realigning Your Icons</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-bend-the-light-homegrown-animated-innovations/"><u>In 2024, Bend the Light Homegrown Animated Innovations</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-honor-magic-6-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Honor Magic 6 for Parents | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/intergalactic-inventor-discovering-new-tech-brands/"><u>Intergalactic Inventor: Discovering New Tech Brands</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-in-game-overlay-display-options-for-discord/"><u>Optimize In-Game Overlay Display Options for Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/regional-shift-for-the-ultimate-gaming-experience-on-switch/"><u>Regional Shift for the Ultimate Gaming Experience on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-selections-for-steam-deck-purchase/"><u>Smart Selections for Steam Deck Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/to-buy-or-not-the-mechanical-keyboard-dilemma/"><u>To Buy or Not: The Mechanical Keyboard Dilemma</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/tweaking-steams-official-language-setting/"><u>Tweaking Steam’s Official Language Setting</u></a></li>
+</ul></div>
 

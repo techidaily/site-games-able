@@ -1,7 +1,7 @@
 ---
 title: "LinkedIn's New Trend: Beware the Gamification Traps"
-date: 2025-02-06T23:37:53.197Z
-updated: 2025-02-11T21:39:10.087Z
+date: 2025-02-24T19:10:13.468Z
+updated: 2025-03-02T19:21:28.916Z
 tags:
   - games
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 * [What Possessed LinkedIn to Add Games?](#what-possessed-linkedin-to-add-games)
 * [Why LinkedIn Users Shouldn't Play These Games](#why-linkedin-users-shouldn-39-t-play-these-games)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * LinkedIn added NYT-style games like Pinpoint, Crossclimb, and Queens.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
  Now, LinkedIn has decided to join in with the fun, adding a Games tab populated with (at the time of writing), three "fun" games. These are Pinpoint, Crossclimb, and Queens.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pinpoint
 
 ![Playing the Pinpoint game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pinpoint-linkedin-games.png)
@@ -57,15 +49,7 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![Playing the Crossclimb game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/crossclimb-linkedin-games.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Crossclimb](https://www.linkedin.com/games/crossclimb/) has two elements to it. First, you need to find the four-letter answers to the clues provided. Second, you need to rearrange the answers so that there's only one letter different to the answer above and below. Only then will you unlock the top and bottom clues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Queens
 
@@ -82,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
  LinkedIn thinks you'll use these games as another networking tool. In the same way that many of us send our Wordle, Connections, and Strands scores to our loved ones every morning, LinkedIn wants you to do the same with Pinpoint, Queens, and Crossclimb. However, there's a fundamental difference between your family and friends and the people you are likely to connect with on LinkedIn.
 
  Do you really want to invite hiring managers and C-suite executives to play a silly little game with you? Not just once, but every single day without fail? The correct answer is no. While LinkedIn may see this as a way of increasing engagement levels and making the usually dull and dreary LinkedIn a little more fun, that isn't why any of us use LinkedIn in the first place.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why LinkedIn Users Shouldn't Play These Games
 
@@ -108,21 +88,22 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-harnessing-facebooks-potential-for-maximum-revenue-for-2024/"><u>[New] Harnessing Facebook's Potential for Maximum Revenue for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-selecting-the-best-online-platforms-for-budget-stock-media/"><u>[New] Selecting the Best Online Platforms for Budget Stock Media</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-add-timestamp-on-youtube-video-link-desktop-and-mobile/"><u>[Updated] 2024 Approved How to Add Timestamp on YouTube Video Link? [Desktop and Mobile]</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-streamlining-your-meetings-using-zoom-with-win11/"><u>2024 Approved Streamlining Your Meetings Using Zoom with Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/acquiring-and-attaching-mojang-maps-with-ease/"><u>Acquiring and Attaching Mojang Maps with Ease</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-highview-monitor-27m2v-pixels/"><u>Affordable HighView Monitor, 27M2V Pixels</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-assisted-adventure-crafting-top-6-strategies-with-chatgpt/"><u>AI-Assisted Adventure Crafting: Top 6 Strategies with ChatGPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/athletic-adventures-7-exciting-sporting-titles-for-ios-and-android/"><u>Athletic Adventures: 7 Exciting Sporting Titles for iOS & Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/banish-errors-and-enhance-your-pc-with-new-nvidia-drivers-update/"><u>Banish Errors and Enhance Your PC with New Nvidia Drivers Update.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cost-comparison-is-riding-with-uber-more-economical-than-taking-a-cab/"><u>Cost Comparison: Is Riding with Uber More Economical than Taking a Cab?</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172049939-secure-your-ultimate-marvel-gaming-experience-now/"><u>Secure Your Ultimate Marvel Gaming Experience Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/stay-cool-online-shopping-alert-score-amazing-discounts-on-laptop-fans-this-cyber-monday-2022-deals-to-keep-your-pc-frosty-gizmodo/"><u>Stay Cool Online Shopping Alert! Score Amazing Discounts on Laptop Fans This Cyber Monday, 2022 Deals to Keep Your PC Frosty | Gizmodo</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-endless-loop-breaker-deleting-your-account-forever/"><u>The Endless Loop Breaker: Deleting Your Account Forever</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165694207-the-history-and-evolution-of-street-mapping-techniques-and-tools/"><u>The History and Evolution of Street Mapping Techniques and Tools</u></a></li>
-<li><a href="https://fox-search.techidaily.com/transformacion-instantanea-del-diseno-en-reversion-explora-estos-5-metodos-de-exito-probado-y-confirmado/"><u>Transformación Instantánea Del Diseño en Reversión: ¡Explora Estos 5 Métodos De Éxito Probado Y Confirmado!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/urgent-update-required-secure-your-system-from-google-chromes-latest-exploit/"><u>Urgent Update Required: Secure Your System From Google Chrome's Latest Exploit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-assessment-experiencing-the-world-in-360-with-samsung/"><u>[New] Full Assessment Experiencing the World in 360° with Samsung</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-charting-your-course-in-the-realm-of-youtube-shorts/"><u>[Updated] Charting Your Course in the Realm of YouTube Shorts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/classic-stop-motion-animations-ranking-the-best-15-for-2024/"><u>Classic Stop-Motion Animations Ranking the Best 15 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-clutter-removing-spotlight-icon-in-win11/"><u>Cut the Clutter: Removing Spotlight Icon in Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-list-of-active-presidents-day-promotions-at-walmart-best-buy-and-more-zdnet/"><u>Discover the Ultimate List of Active Presidents’ Day Promotions at Walmart, Best Buy, and More | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-the-latest-steelseries-apex-9-excel-for-users-insights-from-zdnets-testing-and-review/"><u>How Does the Latest SteelSeries Apex 9 Excel for Users? Insights From ZDNet's Testing and Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a54-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A54 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-tecno-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Tecno</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-lenovo-ideapad-gaming-chromebook-analysis-unpacking-performance-in-the-era-of-cloud-gaming-insights-from-zdnet/"><u>In-Depth Lenovo IdeaPad Gaming Chromebook Analysis: Unpacking Performance in the Era of Cloud Gaming - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-efficiency-on-your-apple-laptop-with-new-macos-15-upgrades-a-zdnet-guide/"><u>Maximize Efficiency on Your Apple Laptop with New macOS 15 Upgrades - A ZDNet Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-dvd-cant-be-loaded-already-open-in-other-app-close-program-and-retry-issue/"><u>Resolved! Fixing 'DVD Can't Be Loaded - Already Open In Other App - Close Program & Retry Issue.'</u></a></li>
+<li><a href="https://fox-info.techidaily.com/step-by-step-for-crafting-top-tier-memes-on-9gag-for-2024/"><u>Step-By-Step for Crafting Top-Tier Memes on 9GAG for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-drop-and-epox-h3x-gaming-headset-under-100-full-reveal-and-expert-analysis-on-zdnet/"><u>Top Rated Drop & Epox H3X Gaming Headset Under $100 - Full Reveal and Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-gaming-processors-expert-picks-and-reviews/"><u>Top-Ranked Gaming Processors : Expert Picks and Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-ultimate-selection-of-bargains-holiday-sale-hotspots-for-gaming-pcs-zdnet/"><u>Unveiling the Ultimate Selection of Bargains: Holiday Sale Hotspots for Gaming PCs | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-efficiency-with-this-cost-effective-gaming-monitor-makeover-expert-tips-from-zdnet-revealed/"><u>Upgrade Your Efficiency with This Cost-Effective Gaming Monitor Makeover, Expert Tips From ZDNET Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-expert-selection-ultimate-guide-to-elite-gaming-mouse-pads-of-2024/"><u>ZDNET's Expert Selection: Ultimate Guide to Elite Gaming Mouse Pads of 2024</u></a></li>
 </ul></div>
 

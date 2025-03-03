@@ -1,7 +1,7 @@
 ---
 title: "Unearthing Indie Wonders: My Top Game Selections"
-date: 2025-02-04T22:32:28.242Z
-updated: 2025-02-11T19:01:44.152Z
+date: 2025-02-28T19:25:50.211Z
+updated: 2025-03-02T20:36:41.082Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 A Short Hike
 
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
@@ -65,17 +57,9 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Storyteller
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
@@ -86,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  What’s great about itch.io is not just that it’s sort of a free-for-all for indie games, but many of those games are playable in your browser, meaning you don’t have to sign up for an account or download any files, so it’s easy enough to dip in and out of new titles.
 
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
@@ -120,17 +100,19 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-fusing-melody-with-moments-music-and-voiceovers-in-reels/"><u>[New] 2024 Approved Fusing Melody with Moments Music & Voiceovers in Reels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-converting-speech-to-text-with-google-docs/"><u>[New] Mastering the Art of Converting Speech to Text with Google Docs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-10-apps-to-boost-audio-velocity/"><u>[Updated] 2024 Approved Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-all-about-dji-inspire-1-in-depth-analysis-for-2024/"><u>[Updated] All About DJI Inspire 1 in Depth Analysis for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosted-performance-fixing-fps-and-optimizing-pc-gaming-in-valorant/"><u>Boosted Performance: Fixing FPS and Optimizing PC Gaming in Valorant</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridging-controller-and-device-a-beginners-guide-to-android-setup/"><u>Bridging Controller and Device: A Beginner's Guide to Android Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypassing-risks-no-mic-feature-in-ps5/"><u>Bypassing Risks: No Mic Feature in PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/chatgpt-now-available-dive-into-these-6-games/"><u>ChatGPT Now Available - Dive Into These 6 Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/clear-cache-to-run-facebook-games-smoothly-in-chrome/"><u>Clear Cache to Run Facebook Games Smoothly in Chrome</u></a></li>
-<li><a href="https://extra-information.techidaily.com/does-pickup-elevate-your-editing-game-on-android-heres-what-you-need-to-know/"><u>Does PickUp Elevate Your Editing Game on Android? Here’s What You Need to Know</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-poco-c51-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Poco C51</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-playback-issues-solving-windows-11-and-7-sound-stuttering-and-distortion-challenges/"><u>Overcome Playback Issues: Solving Windows 11 and 7 Sound Stuttering and Distortion Challenges</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-streamlining-sound-systems-uploads-for-your-youtube-hub/"><u>[Updated] 2024 Approved Streamlining Sound Systems Uploads for Your Youtube Hub</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-guide-top-10-gratis-mmo-rpgs/"><u>[Updated] In 2024, Ultimate Guide Top 10 Gratis MMO RPGs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-video-editing-showdown-bandicams-capabilities-compared-to-camtasia/"><u>2024 Approved Video Editing Showdown Bandicam's Capabilities Compared to Camtasia</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209974011-9781633412118-ancient-egyptian-magic-for-modern-witches/"><u>Ancient Egyptian Magic for Modern Witches | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-internet-comments-eternal-markers/"><u>Are Internet Comments Eternal Markers?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-honor-magic-vs-2-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Honor Magic Vs 2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-restoring-functionality-to-a-malfunctioning-lenovo-keyboard/"><u>Expert Advice on Restoring Functionality to a Malfunctioning Lenovo Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-not-up-to-par-get-your-cash-back-from-xbox/"><u>Game Not Up to Par? Get Your Cash Back From Xbox</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-90-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor 90 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-evolution-rtx-takes-over-from-gtx/"><u>Nvidia's Evolution: RTX Takes Over From GTX</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-new-ai-hardware-launched-at-computex-2024-that-i-want-to-try/"><u>The New AI Hardware Launched at Computex 2024 That I Want to Try</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-real-meaning-behind-an-inactive-user-on-discord/"><u>The Real Meaning Behind an 'Inactive' User on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/these-are-the-unique-features-you-need-to-look-for-in-a-gaming-keyboard/"><u>These Are the Unique Features You Need to Look for in a Gaming Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-ps5-screen-aesthetics/"><u>Transform PS5 Screen Aesthetics</u></a></li>
 </ul></div>
 

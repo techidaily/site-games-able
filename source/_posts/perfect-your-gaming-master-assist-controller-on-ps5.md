@@ -1,7 +1,7 @@
 ---
 title: Perfect Your Gaming - Master Assist Controller on PS5
-date: 2025-02-09T18:39:04.537Z
-updated: 2025-02-11T21:27:28.635Z
+date: 2025-03-01T21:04:27.938Z
+updated: 2025-03-02T23:06:23.575Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Assist controllers on the PS5 connect two controllers and allow them to operate as one, making gaming more accessible for those with decreased mobility or young gamers who need extra assistance.
@@ -39,17 +35,9 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![Person holding DualSense Controller with PS4 controller on a red background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/person-holding-dualsense-controller-with-ps4-controller-on-a-red-background.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This accessibility feature is particularly helpful for those with decreased mobility. One player can control the direction an avatar is moving or attacking, while the other can take control of the camera, for example.
 
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Do I Set Up an Assist Controller on My PS5?
 
@@ -69,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap**Use Second Controller for Assistance** , and make sure the**Use Assist Controller** switch is on.
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
@@ -80,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
  Take your second controller, turn it on, and select the same**user profile** that the main controller is connected to. It's very important that both controllers are connected to the same user profile. If not, the process will not be successful. You can tell which profile the main controller is connected to by the**controller icon** underneath the profile picture.
 
 ![PS5 Settings Assign Assist Controller to Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-assign-assist-controller-to-profile.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You will now be able to use the second controller to assist the first player in any way they need. You can tell the two controllers have successfully been connected by checking the**battery icon** at the top right. If there are two batteries instead of one, you are good to go.
 
@@ -114,18 +94,22 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-birdie-ballet-bounce/"><u>[Updated] Birdie Ballet Bounce</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-elite-silent-input-transcription-suites/"><u>2024 Approved Elite Silent Input Transcription Suites</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-360-degree-edits-in-adobe-premiere-pro/"><u>2024 Approved Mastering 360-Degree Edits in Adobe Premiere Pro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-a15-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy A15 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-new-launch-apple-watch-series-9-and-ultra-availability-restored-after-legal-hiatus/"><u>Apple's New Launch: Apple Watch Series 9 & Ultra Availability Restored After Legal Hiatus</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-nubia-red-magic-9-proplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nubia Red Magic 9 Pro+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-your-multi-platform-experience-epic-meets-steam/"><u>Enhancing Your Multi-Platform Experience: Epic Meets Steam</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oneplus-11r-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track OnePlus 11R without App | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-stability-issues-for-call-of-duty-warzone-2er-a-comprehensive-troubleshooting-guide/"><u>Overcoming Stability Issues for Call of Duty Warzone 2.er: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-decision-guide-to-digital-games-ups-and-downs/"><u>The Ultimate Decision Guide to Digital Games' Ups and Downs</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-digital-code-redeeming/"><u>The Ultimate Guide to Digital Code Redeeming</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-speed-potential-with-easy-ssd-transition-steps/"><u>Unlocking Speed Potential with Easy SSD Transition Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-series-xs-is-fast-resume-beneficial/"><u>Xbox Series X|S: Is Fast Résumé Beneficial?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ealth-accumulation-mr-beasts-journey-for-2024/"><u>[New] Wealth Accumulation Mr. Beast's Journey for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-soundscapes-in-action-capturing-music-videos-iphone-style/"><u>[Updated] 2024 Approved Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-professionals-choice-premium-youtube-cameras/"><u>[Updated] Professionals' Choice Premium YouTube Cameras</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-name-foddian-game-history/"><u>Decoding the Name: Foddian Game History</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-playfulness-with-chatgpts-best-6-interactive-games/"><u>Discover Playfulness with ChatGPT's Best 6 Interactive Games</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-7-most-important-iphone-protection-tactics-for-enhanced-privacy-and-safety/"><u>Discover the 7 Most Important iPhone Protection Tactics for Enhanced Privacy and Safety</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-x8b-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor X8b via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-lenovos-new-yoga-book-9i-the-game-changer-for-dual-screen-laptop-innovation/"><u>Is Lenovo's New Yoga Book 9I the Game Changer for Dual-Screen Laptop Innovation?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/schede-di-memoria-ottimali-per-la-fotografia-con-gopro-un-confronto-completo/"><u>Schede Di Memoria Ottimali per La Fotografia Con GoPro: Un Confronto Completo</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-uninterrupted-gameplay-controlling-xbox-battery-life/"><u>Secrets to Uninterrupted Gameplay: Controlling Xbox Battery Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/snap-swipe-and-play-best-20-mobile-games-for-instant-fun/"><u>Snap, Swipe & Play: Best 20 Mobile Games for Instant Fun</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-and-tuning-the-ultimate-guide-for-steam-deck-keys/"><u>Streamlining and Tuning: The Ultimate Guide for Steam Deck Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-144hz-monitors-for-gaming/"><u>The Best 144Hz Monitors for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-price-of-disco-nitro-power/"><u>The Price of Disco-Nitro Power</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-7-unbeatable-black-friday-bargains-on-apple-airpods-find-your-perfect-fit/"><u>Top 7 Unbeatable Black Friday Bargains on Apple AirPods - Find Your Perfect Fit</u></a></li>
+<li><a href="https://games-able.techidaily.com/truth-behind-illusory-playtime-teasers/"><u>Truth Behind Illusory Playtime Teasers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Are MTs Meriting Premium Game Credits?
-date: 2024-08-08T09:08:34.411Z
-updated: 2024-08-09T09:08:34.411Z
+date: 2025-02-27T19:55:36.221Z
+updated: 2025-03-02T22:02:42.377Z
 tags:
   - games
 categories:
@@ -14,18 +14,12 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ## Are MTs Meriting Premium Game Credits?
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Do Microtransactions Exist in Video Games At All?](#why-do-microtransactions-exist-in-video-games-at-all)
 * [Why Microtransactions Are Appearing in Premium Games](#why-microtransactions-are-appearing-in-premium-games)
 * [Are Microtransactions Good for the Gaming Industry?](#are-microtransactions-good-for-the-gaming-industry)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microtransactions stem from the desire for more profits and have become common in both free and premium games.
@@ -34,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
  Microtransactions (also known as MTX) have been popularized mainly by freemium games. They are optional payments that help game developers and publishers make money from games they otherwise might not have. However, microtransactions have increasingly snuck into premium, paid games. Is this trend, perhaps, justifiable?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Do Microtransactions Exist in Video Games At All?
 
  You might recall a time when microtransactions did not exist. You bought a game, and that was it—you owned all the content in it. But let’s be completely honest: did that ever really exist?
@@ -59,10 +50,6 @@ But what about premium games? Should they have microtransactions?
 
  This ideology has seeped strongly into the highly lucrative gaming industry, and most (if not all) of the perpetrators are publicly traded corporations eager to please shareholders.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Elder Scrolls Obvlivion gold horse armor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/elder-scrolls-obvlivion-gold-horse-armor.png)
 
  However, it didn’t start today; we can see signs of this as far back as 2006\. The most infamous early example was Horse Armor in The Elder Scrolls: Oblivion (2006). Horse Armor was a $2.50 DLC package Microsoft and Bethesda added to the Xbox 360 release of the game.
@@ -81,11 +68,6 @@ But what about premium games? Should they have microtransactions?
 
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Paying More to Experience Less
 
  Let’s look at Middle-earth: Shadow of War as a case study. It was released as a sequel to Shadow of Mordor, a well-received game using the proprietary nemesis system.
@@ -94,9 +76,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Bloat and Battle Passes
 
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
@@ -127,14 +106,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  This is proof that it’s not necessary, and the companies behind these games can still make good money without tainting the sanctity of their craft. Hopefully, we will see a reduction in this trend in the future, but for now, we can only discourage it by not indulging.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,6 +119,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-way-to-use-obs-live-stream-to-facebook-for-2024/"><u>[Updated] Best Way to Use OBS Live Stream to Facebook for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-fixes-switching-to-safe-mode-and-deleting-graphics-card-drivers-in-windows-8/"><u>Effective Fixes: Switching to Safe Mode & Deleting Graphics Card Drivers in Windows 8</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-gaming-experience-subscribe-via-prime/"><u>Enhance Gaming Experience: Subscribe via Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restore-wordle-streaks-on-smartphones/"><u>How to Restore Wordle Streaks on Smartphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/lost-in-transit-finding-the-way-back-to-mc-lan/"><u>Lost in Transit: Finding the Way Back to MC LAN</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-cinematic-journey-youtube-and-vimeos-top-premium-marriage-videos-for-2024/"><u>Love's Cinematic Journey YouTube & Vimeo's Top Premium Marriage Videos for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-dotx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for .dotx file</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-guide-to-uninterrupted-ps5-connection/"><u>Precision Guide to Uninterrupted PS5 Connection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pushing-the-limits-with-gopro-film-techniques-for-2024/"><u>Pushing the Limits with GoPro Film Techniques for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/re-engineering-malfunctioned-video-extensions-via-qt-player/"><u>Re-Engineering Malfunctioned Video Extensions via QT Player</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-steps-to-revive-your-nintendo-switch-with-a-new-joystick/"><u>Simple Steps to Revive Your Nintendo Switch with a New Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/temporary-havens-in-the-gaming-universe/"><u>Temporary Havens in the Gaming Universe</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210662961-9798885048361-the-opposite-of-hiding/"><u>The Opposite of Hiding | Free Book</u></a></li>
+</ul></div>
 

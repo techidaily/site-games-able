@@ -1,7 +1,7 @@
 ---
 title: "AMD's GPU Revolution: The In-Depth Look at Radeon XT (RX 7800 & 7700)"
-date: 2024-08-08T09:08:53.272Z
-updated: 2024-08-09T09:08:53.272Z
+date: 2025-02-23T22:14:48.367Z
+updated: 2025-03-02T20:32:45.470Z
 tags:
   - games
 categories:
@@ -14,14 +14,6 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
 ## AMD's GPU Revolution: The In-Depth Look at Radeon XT (RX 7800 & 7700)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * At Gamescom 2023, AMD announced the highly anticipated Radeon RX 7800 XT and RX 7700 XT, filling a gap in its RDNA 3 GPU lineup.
@@ -71,34 +63,22 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
  On the contrary, the RX 7700 XT presents a compelling upgrade path from the previous-gen RX 6700 XT and its mid-gen refresh—the RX 6750 XT—albeit at a $100 price premium. Nevertheless, it remains to be seen whether AMD has truly delivered a noteworthy generational uplift or inadvertently launched a costly sidegrade like Nvidia's much-maligned GeForce RTX 4060 Ti.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## RX 7800 XT vs. RX 7700 XT: Gaming Performance
 
  According to AMD's internal benchmarks, the Radeon RX 7800 XT engages in a back-and-forth battle with Nvidia's $600 RTX 4070, whereas the RX 7700 XT stands favorably against the $500 RTX 4060 Ti 16GB variant. More importantly, both GPUs demonstrate the ability to surpass the 60 FPS threshold at 1440p, "Ultra" settings in a range of recent AAA titles.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![RX 7700 XT vs. RTX 4060 Ti 16GB Benchmark Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7700-xt-vs-rtx-4060-ti-16gb.jpg)
 
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
 
  Across the 19-game configuration sample, the RX 7700 XT outperforms Nvidia's GeForce RTX 4060 Ti 16GB by about 12% on average. Interestingly, AMD's scaled-down Navi 32 GPU secures a 17% lead in rasterization performance while exhibiting a mere 4% deficit in certain games that implement advanced ray tracing effects.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![RX 7800 XT vs. RTX 4070 Performance Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7800-xt-vs-rtx-4070.jpg)
 
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
 
  Furthermore, AMD's performance figures for the RX 7800 XT put it in a formidable position against the RTX 4070, showcasing a 9% advantage in rasterization and a 6% deficit in select RT titles. Although the average gain isn't as impressive as seen in the previous slide, the RX 7800 XT undercuts Nvidia's upper mid-range offering by around $100.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## RX 7800 XT vs. RX 7700 XT: Pricing and Availability
 
  At an MSRP of $499, AMD's Radeon RX 7800 XT represents a better price-to-performance ratio than the cut-down Navi 32 variant on multiple occasions. If the performance numbers for both GPUs hold true, the RX 7700 XT, at a starting price of $449, could face some potential challenges in its own lineup.
@@ -107,23 +87,17 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
  While the Radeon RX 7800 XT comes in an AMD reference dual-fan, dual-slot design, alongside custom variants, the RX 7700 XT will only be made available through AIB partners like ASRock, ASUS, Biostar, Gigabyte, PowerColor, Sapphire, Vastarmor, XFX, and Yeston.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## AMD's Next-Gen 1440p Gaming GPUs Unveiled
 
  From what has been revealed, AMD's marketing strategy for this launch involves pitting the Radeon RX 7800 XT and RX 7700 XT against older yet capable 1440p cards. Considering the recent adoption of QHD displays, both GPUs should be able to offer a stellar gaming experience, with enough headroom to drive graphically demanding titles at 4K.
 
  Ultimately, the success of these sub-$500 graphics cards will depend largely on their real-world performance, feature set, and overall, given that this market segment is highly competitive.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,6 +106,18 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-your-freefire-presence-with-top-tips-and-tricks/"><u>[New] In 2024, Elevate Your FreeFire Presence with Top Tips and Tricks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-premium-picks-for-the-ultimate-gopro-experience/"><u>[New] In 2024, Premium Picks for the Ultimate Gopro Experience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-creativity-producing-original-and-entertaining-reels-on-facebook-for-2024/"><u>[Updated] Unlocking Creativity Producing Original and Entertaining Reels on Facebook for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/20plus-cool-metaverse-memes-and-how-to-make-your-own-memes/"><u>20+ Cool Metaverse Memes and How to Make Your Own Memes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211462908-9798990291294-9ruby-prince-president-intergalactic-ambassador-9spiritual-soul-of-sean-alemayehu-tewodros-giorgis-da-9mind-architect-from-the-7th-planet-franacia-abyssinia-gal/"><u>9RUBY PRINCE PRESIDENT INTERGALACTIC AMBASSADOR 9SPIRITUAL SOUL OF SEAN ALEMAYEHU TEWODROS GIORGIS DA 9MIND ARCHITECT FROM THE 7TH PLANET FRANACIA ABYSSINIA GALAXY ELYOWN EL | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-xiaomi-redmi-13c-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Xiaomi Redmi 13C Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtubes-high-stakes-hardware-showdown/"><u>In 2024, YouTube’s High-Stakes Hardware Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-ps5-unveiling-ea-play-titles/"><u>Prime PS5: Unveiling EA Play Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalize-your-old-gaming-pc-with-atlasos/"><u>Revitalize Your Old Gaming PC With AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-portable-dream-handhelds-vs-nintendo-switch-20/"><u>The Portable Dream: Handhelds vs Nintendo Switch 2.0?</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-one-play-without-a-gamepad-revealed/"><u>Xbox One Play Without a Gamepad Revealed</u></a></li>
+</ul></div>
 

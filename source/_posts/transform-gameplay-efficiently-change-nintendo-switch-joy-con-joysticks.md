@@ -1,7 +1,7 @@
 ---
 title: "Transform Gameplay: Efficiently Change Nintendo Switch Joy-Con Joysticks"
-date: 2025-02-05T20:49:59.362Z
-updated: 2025-02-11T19:46:34.161Z
+date: 2025-02-26T20:37:38.242Z
+updated: 2025-03-02T19:06:29.975Z
 tags:
   - games
 categories:
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
 ![Close up of Nintendo Switch Pikachu and Eevee Joy Cons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Close-up-of-Nintendo-Switch-Pikachu-and-Eeve-joy-cons.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to[fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
 
  You can also[send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
  It isn’t compulsory for the replacement, but you would also seriously benefit from using a small dish to keep all your loose screws.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Replace the Joysticks in Your Nintendo Switch Joy-Con
 
  So you’re all kitted out with each of the items above, and you are ready to give your Joy-Con the life-saving surgery needed to eliminate the dreaded Joy-Con drift. This process is relatively simple, but it is very important that you take your time with it. Everything inside your Joy-Con is extremely delicate, and the last thing you want is to snap a ribbon cable or do some other type of damage to the device.
@@ -74,19 +66,11 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 5. Remove the three screws holding the center plate down with the 2.0mm Phillips head screwdriver. You only have to remove the top left, bottom right, and bottom right corner screws.  
 ![Joy Con Three Middle Plate Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-three-middle-plate-screws-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Remove the ribbon cable holding the center plate on by gently lifting the flap and pulling it out.
 2. Gently unplug the blue ribbon cable near the joystick.
 3. Unplug the ribbon cable that runs over the top of the joystick.  
 ![Joystick Ribbon Cables in Joy Con](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joystick-ribbon-cables-in-joy-con-1.jpg)
 4. Grab your 2.0mm Phillips head screwdriver and remove the two screws holding the joystick in place. Gently wiggle the joystick until it releases and place it to the side.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Take your new joystick and place it in position, then reinstall the two screws you just removed with your 2.0mm Phillips head screwdriver.  
 ![Joy Con Joystick Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-joystick-screws.jpg)
@@ -103,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
  Your Joy-Con should now be as good as new. The last step is to use the joystick calibration tool to make sure everything is working as it should. You can find the calibration tool in the Switch’s settings. Scroll down to**Controllers and Sensors** , press**Calibrate Control Sticks** , and follow the on-screen prompts to calibrate your joysticks.
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
@@ -131,22 +111,15 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-turn-mundane-games-into-epic-scenes/"><u>[New] 2024 Approved How to Turn Mundane Games Into Epic Scenes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-5-rapid-methods-to-upgrade-your-indoor-film-project/"><u>[New] In 2024, 5 Rapid Methods to Upgrade Your Indoor Film Project</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-tips-and-tricks-for-successful-social-media-video-for-2024/"><u>[New] Tips & Tricks for Successful Social Media Video for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-joyful-jokes-youtubes-funniest-creators-to-relax-with/"><u>[Updated] 2024 Approved Joyful Jokes YouTube's Funniest Creators to Relax With</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-8-ultimate-online-photo-mosaic-compiler/"><u>[Updated] 8 Ultimate Online Photo Mosaic Compiler</u></a></li>
-<li><a href="https://win11.techidaily.com/countering-dxgideviceremoved-failsafe-techniques/"><u>Countering DXGI_DEVICE_REMOVED Failsafe Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/determining-the-peak-of-visual-technology-oled-amoled-or-ips/"><u>Determining The Peak Of Visual Technology: OLED, AMOLED or IPS?</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-frame-by-frame-gaming-archives/"><u>Efficient Frame-by-Frame Gaming Archives</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-stuttering-glitches-while-playing-age-of-empires-4-expert-tips-and-tricks/"><u>Eliminating Stuttering Glitches While Playing Age of Empires 4: Expert Tips & Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/embark-on-fallouts-multi-media-journey/"><u>Embark on Fallout’s Multi-Media Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/gain-monthly-access-opera-and-free-discord-nitro-junction/"><u>Gain Monthly Access: Opera & Free Discord Nitro Junction</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-google-pixel-8-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Google Pixel 8 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-mmos-new-horizon-a-fresh-perspective/"><u>Navigating MMO’s New Horizon: A Fresh Perspective</u></a></li>
-<li><a href="https://games-able.techidaily.com/pushing-boundaries-razer-basilisk-v3-pro-for-gamers/"><u>Pushing Boundaries: Razer Basilisk V3 Pro for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/reconciling-missing-games-with-your-steam-database/"><u>Reconciling Missing Games with Your Steam Database</u></a></li>
-<li><a href="https://games-able.techidaily.com/supercharging-ps5-with-these-essential-features/"><u>Supercharging PS5 with These Essential Features</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/top-ranked-transpo-cost-control-firm-accelerates-bill-approvals-via-intelligent-data-systems/"><u>Top-Ranked Transpo Cost Control Firm Accelerates Bill Approvals via Intelligent Data Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-choose-the-best-android-and-ios-timers-for-your-dream-wedding/"><u>[New] How to Choose the Best Android & iOS Timers for Your Dream Wedding</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-2023-how-to-make-facebook-videos-full-screen/"><u>[New] In 2024, 2023 | How to Make Facebook Videos Full Screen?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-the-next-android-unlocking-rumors-on-release-date-costs-and-tech-specs-for-android-16-stay-informed-now/"><u>All About the Next Android: Unlocking Rumors on Release Date, Costs and Tech Specs for Android 16 - Stay Informed Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-robust-funding-plan-for-your-steam-wallet/"><u>Crafting a Robust Funding Plan for Your Steam Wallet</u></a></li>
+<li><a href="https://games-able.techidaily.com/designing-a-game-ready-computer-essential-components/"><u>Designing a Game-Ready Computer: Essential Components</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-mac-fun-with-top-console-emulators/"><u>Enhancing Mac Fun with Top Console Emulators</u></a></li>
+<li><a href="https://driver-install.techidaily.com/officejet-pro-printer-system-setup/"><u>Officejet Pro Printer System Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/pre-buy-pc-tune-up-ensuring-component-symphony/"><u>Pre-Buy PC Tune-Up: Ensuring Component Symphony</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-vr-wave-crafting-engaging-360-video-narratives-for-youtube-audiences/"><u>The VR Wave Crafting Engaging 360 Video Narratives for YouTube Audiences</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultraportable-notebooks-in-depth-analysis-by-tech-experts/"><u>Top-Rated Ultraportable Notebooks : In-Depth Analysis by Tech Experts</u></a></li>
 </ul></div>
 

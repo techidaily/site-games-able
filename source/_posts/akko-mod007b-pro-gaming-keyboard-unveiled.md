@@ -1,7 +1,7 @@
 ---
 title: Akko MOD007B Pro-Gaming Keyboard Unveiled
-date: 2024-08-15T17:14:34.552Z
-updated: 2024-08-16T17:14:34.552Z
+date: 2025-02-23T20:46:15.227Z
+updated: 2025-03-02T17:17:13.284Z
 tags:
   - games
 categories:
@@ -109,15 +109,9 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## A Great-Looking Keyboard on the Surface
 
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -127,16 +121,9 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Tokyo-Themed Keys and Accessories Included
 
 ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -148,9 +135,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Jowi Morales / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Akko MOD007B Means Serious Business Underneath
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
@@ -158,10 +142,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -189,9 +169,6 @@ Related
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Extensive Customization With the Akko Cloud Driver
 
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
@@ -228,9 +205,6 @@ Related
 
  Granted that this keyboard will most likely sit on your desk in wired mode, it’s still better to allow the user to switch off the keyboard when not using it. This will help save power, especially if you transport the keyboard in your bag (like when going to a LAN party or an on-site competition) and want to use it wirelessly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Your Keyboard for Gaming Victory
 
  Although these couple of issues will negatively impact niche users like me, they won’t affect most users. You can't ignore the benefits of a Hall Effect keyboard, especially if you take your matches seriously.
@@ -313,14 +287,11 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/) [See at Amazon](https://www.amazon.com/dp/B0CP7CYWRY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031519&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fakko-mod007b-hall-effect-keyboard-review%2F&asc%5Fcampaign=Affiliate)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -329,6 +300,26 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/fixed-stardew-valley-wont-launch/"><u>[FIXED] Stardew Valley Won’t Launch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-solutions-to-decipher-muted-facebook-videos/"><u>[New] 2024 Approved Solutions to Decipher Muted Facebook Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhance-reach-the-top-10-highlight-strategies-unveiled-for-2024/"><u>[New] Enhance Reach The Top 10 Highlight Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-navigating-through-youtubes-adsense-revenue-understanding-payments-per-thousand-views/"><u>[Updated] 2024 Approved Navigating Through Youtube’s AdSense Revenue Understanding Payments per Thousand Views</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-and-optimizing-your-contents-spotlight-placement/"><u>[Updated] Understanding and Optimizing Your Content's Spotlight Placement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-28-exemplary-metaverse-experiences-for-in-depth-understanding/"><u>2024 Approved 28 Exemplary Metaverse Experiences for In-Depth Understanding</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-best-10-firefox-capture-tools/"><u>2024 Approved Best 10 Firefox Capture Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adaptable-video-format-shifter-smoothly-transition-from-any-video-type-to-flv-and-vice-versa/"><u>Adaptable Video Format Shifter: Smoothly Transition From Any Video Type to FLV and Vice Versa</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-pc-efficiency-reduce-steams-ram-usage-with-these-tips/"><u>Enhance PC Efficiency: Reduce Steam's RAM Usage with These Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-reviews-leading-gaming-keyboards/"><u>Expert Reviews: Leading Gaming Keyboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-your-xbox-console-screens-step-by-step/"><u>Fine-Tuning Your Xbox Console Screens: Step by Step</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-unveiling-best-score-boosting-websites/"><u>Game On - Unveiling Best Score-Boosting Websites</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ions-bold-step-forward-with-pro-3-a-comprehensive-camera-review-for-2024/"><u>ION's Bold Step Forward with Pro 3 - A Comprehensive Camera Review for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-am08-pro-enhancing-real-magic-playtime/"><u>Is AM08 Pro Enhancing Real Magic Playtime?</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-policy-update-ai-games-reimagined-for-players/"><u>Steam's Policy Update: AI Games Reimagined for Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-allure-of-portable-games-my-choice-for-iphone-and-ipad-apple-arcade/"><u>The Allure of Portable Games: My Choice for iPhone and iPad – Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribed-titles-what-comes-next/"><u>Unsubscribed Titles: What Comes Next?</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-cabinet-go-big-with-frames/"><u>Upgrade Your Cabinet - Go Big with Frames!</u></a></li>
+</ul></div>
 

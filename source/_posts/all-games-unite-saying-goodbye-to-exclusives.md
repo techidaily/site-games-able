@@ -1,7 +1,7 @@
 ---
 title: "All Games Unite: Saying Goodbye to Exclusives"
-date: 2024-08-15T17:14:32.487Z
-updated: 2024-08-16T17:14:32.487Z
+date: 2025-02-23T23:51:11.647Z
+updated: 2025-03-02T20:21:47.180Z
 tags:
   - games
 categories:
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 * [Why Platform Exclusives Are Going Away](#why-platform-exclusives-are-going-away)
 * [Why I'm Glad Platform Exclusives Are No More](#why-i-39-m-glad-platform-exclusives-are-no-more)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Platform-exclusive games are on the decline, with Microsoft's move to make some Xbox exclusives available on other platforms the opening salvo.
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  Console exclusives started in the 1980s, with Atari securing exclusive home console rights to popular arcade games such as Space Invaders and Pac-Man. At this point, the idea was to persuade regular arcade-goers to buy a home console in order to play their favorite titles from the comfort of their sofa and without having to feed a machine with endless quarters. Ironically, you can now buy [arcade machines designed for your home](https://www.makeuseof.com/best-home-arcade-machines/) .
 
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
  Giuseppe Cammino/[Shutterstock](https://www.shutterstock.com/image-photo/joystick-vintage-arcade-videogame-coinop-1089499448)
 
@@ -49,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  Once we entered the PlayStation/Xbox era, platform exclusivity became an even bigger part of the story. Both Sony and Microsoft created original IP designed to shift units, as well as paying third-party developers and publishers large amounts of money to secure timed exclusives. And that battle of the exclusives (of all kinds) has persisted ever since.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Platform Exclusives Are Coming to an End
 
  Thankfully, things are starting to change. In February 2024, in a post on [Xbox Wire](https://news.xbox.com/en-us/2024/02/21/new-platforms-new-players-xbox-games-switch-playstation/) , Microsoft announced that four Xbox exclusives would also be coming to PS5 and Switch, with more titles to follow. The games currently confirmed to be coming to other platforms are Hi-Fi Rush, Pentiment, Sea of Thieves, and Grounded.
@@ -68,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
@@ -87,17 +75,11 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  This is especially true for Microsoft, as Game Pass Ultimate includes [Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Why I'm Glad Platform Exclusives Are No More
 
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
 
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
 
@@ -105,14 +87,11 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The practice of making some games exclusive to one platform is anti-consumer, as it forces gamers to buy multiple consoles to play specific games. And while I can see why it has been standard practice for decades as manufacturers sought to make sure their platform was the essential one, it's about time we opened gaming up to be more inclusive. And this could start by switching to platform agnosticism.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,6 +100,22 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-photographers-aid-free-mobile-photography-boost/"><u>2024 Approved Photographer's Aid - Free, Mobile Photography Boost</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-step-by-step-mastery-of-video-filters-in-zoom/"><u>2024 Approved Step-by-Step Mastery of Video Filters in Zoom</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/achieving-harmonic-transition-blends/"><u>Achieving Harmonic Transition Blends</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-steams-playtime-analysis-a-deep-dive-into-data/"><u>Exploring Steam's Playtime Analysis: A Deep Dive Into Data</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fix-your-laptops-issues-with-updated-dell-latitude-e6430-driver-software-for-windows-a-complete-walkthrough/"><u>Fix Your Laptop's Issues with Updated Dell Latitude E6430 Driver Software for Windows: A Complete Walkthrough</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-digiarty-software-protects-your-data-an-insight-into-our-privacy-practices/"><u>How Digiarty Software Protects Your Data – An Insight Into Our Privacy Practices</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-online-price-analysis-required/"><u>Nintendo Switch Online Price Analysis Required</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fix-for-degraded-gameplay-nintendo-switchs-joystick-changeout/"><u>Quick Fix for Degraded Gameplay: Nintendo Switch's Joystick Changeout</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sleuthing-scams-real-vs-phony-gpts/"><u>Sleuthing Scams: Real vs Phony GPTs</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-devices-in-harmony-clearing-cloud-connectivity/"><u>Steam Devices in Harmony: Clearing Cloud Connectivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/taming-titles-load-time-woes-on-pc/"><u>Taming Title's Load Time Woes on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-for-undetected-games-on-steam-service/"><u>Troubleshooting for Undetected Games on Steam Service</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-customer-power-your-ultimate-technique-for-crafting-impactful-google-feedback/"><u>Unlocking Customer Power: Your Ultimate Technique for Crafting Impactful Google Feedback</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-future-googles-new-pixel-buds-pro-2-with-insider-info-on-cost-release-window-and-specs/"><u>Unveiling the Future: Google's New Pixel Buds Pro 2 with Insider Info on Cost, Release Window, and Specs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/witwizards-your-go-to-meme-app/"><u>WitWizards Your Go-To Meme App</u></a></li>
+</ul></div>
 

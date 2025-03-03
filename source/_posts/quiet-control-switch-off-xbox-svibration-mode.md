@@ -1,7 +1,7 @@
 ---
 title: "Quiet Control: Switch Off Xbox Svibration Mode"
-date: 2025-02-07T23:04:21.006Z
-updated: 2025-02-11T22:18:06.330Z
+date: 2025-03-01T18:13:28.355Z
+updated: 2025-03-02T19:45:45.263Z
 tags:
   - games
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What You Need to Know Before Turning Off Vibration on Xbox
 
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ![A screenshot of the Accessibility settings on Xbox Series X with Controller highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select**Vibration settings** .
 
 ![A screenshot of the Accessibility settings for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/vibration-settings.jpg)
@@ -63,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 * Ensure that**Turn on vibration** is deselected.
 
 ![A screenshot of the button mapping screen for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-vibration.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With**Turn on vibration** unchecked and disabled, your current controller**Profile** will have vibration universally disabled no matter what game or app you use on your Xbox. Inversely, if you ever want to re-enable vibration, simply go back into**Vibration settings** and ensure**Turn on vibration** is selected.
 
@@ -80,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Q: Why Is Your Xbox Series X|S Constantly Vibrating?
 
  If your Xbox Series X|S controller is constantly vibrating or carries on vibrating even after disabling the feature, there may be a fault with your controller. To fix controller vibration, you need to[take apart your Xbox Wireless Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) and replace the vibration motors. Failing this, you will need to replace your Xbox controller.
@@ -91,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ### Q: Does Controller Vibration Affect Your Xbox Controller’s Battery Life?
 
  In short, yes. Enabling controller vibration on your Xbox Wireless Controller for Xbox Series X|S will cause the battery to drain much faster than if you were to disable the feature. The extra power utilized by the vibration motors drains the battery life of your controller much faster than other controller inputs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: Why Do Xbox and PlayStation Use Haptic Feedback?
 
@@ -115,18 +95,17 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-the-world-of-instagram-reel-downloads/"><u>[New] 2024 Approved Navigating the World of Instagram Reel Downloads</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-implementing-video-timelines-on-youtube/"><u>[Updated] In 2024, Implementing Video Timelines on YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-secrets-how-to-clear-yt-background/"><u>[Updated] Unveiling the Secrets How to Clear YT Background</u></a></li>
-<li><a href="https://games-able.techidaily.com/11-must-try-free-word-game-apps-for-both-sides/"><u>11 Must-Try Free Word Game Apps for Both Sides</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-subtle-steps-to-cut-costs-using-xbox/"><u>6 Subtle Steps to Cut Costs Using Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-new-era-of-gaming-ps5-or-xbox-series-x/"><u>A New Era of Gaming: PS5 or Xbox Series X?</u></a></li>
-<li><a href="https://games-able.techidaily.com/algorithmic-realities-in-the-world-of-gaming/"><u>Algorithmic Realities in the World of Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719168571839-champion-mousepads-reviewed/"><u>Champion Mousepads Reviewed!</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164851824-champions-blueprint-managing-soccer-legends-at-no-cost/"><u>Champion's Blueprint: Managing Soccer Legends at No Cost</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cost-vs-security-in-low-cost-ssls-review/"><u>Cost vs Security in Low-Cost SSLs Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/debunking-ailment-claims-fact-checking-ai-sources-for-wellness/"><u>Debunking Ailment Claims: Fact-Checking AI Sources for Wellness</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-windows-scheduler-glitches-now/"><u>Resolve Windows Scheduler Glitches Now!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-most-innovative-and-easy-to-use-mobile-photo-layers-top-10/"><u>The Most Innovative & Easy-to-Use Mobile Photo Layers (Top 10)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-is-inshot-the-best-video-editing-app-our-in-depth-review/"><u>[New] 2024 Approved Is InShot the Best Video Editing App? Our In-Depth Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-determining-the-perfect-orientation-for-fb-videos/"><u>[New] Determining the Perfect Orientation for FB Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-preserve-your-roblox-experience-with-flawless-recording-mac-for-2024/"><u>[New] How to Preserve Your Roblox Experience with Flawless Recording (Mac) for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unlocking-the-potential-of-your-vr-gametime-recordings-for-2024/"><u>[Updated] Unlocking the Potential of Your VR Gametime Recordings for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-your-perfect-setup-elite-gaming-chairs-reviewed-by-tech-experts-at-zdnet/"><u>Find Your Perfect Setup: Elite Gaming Chairs Reviewed by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/grab-your-new-tcl-television-epic-85-inches-for-an-unbeatable-price-of-900-limited-offer-this-labor-day-at-zdnet/"><u>Grab Your New TCL Television: Epic 85 Inches for an Unbeatable Price of $900 - Limited Offer This Labor Day at ZDNet!</u></a></li>
+<li><a href="https://games-able.techidaily.com/halve-your-price-for-incredible-visuals-with-amazons-big-sale-snag-the-samsung-odyssey-g7-monitor-today/"><u>Halve Your Price for Incredible Visuals with Amazon's Big Sale - Snag the Samsung Odyssey G7 Monitor Today!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-delving-into-the-meaning-of-a-mysterious-blue-marker-in-fb-chats/"><u>In 2024, Delving Into the Meaning of a Mysterious Blue Marker in FB Chats</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-fortnite-on-iphone-is-possible-again-discover-the-easy-way-with-zdnets-tips/"><u>Playing Fortnite on iPhone Is Possible Again - Discover the Easy Way with ZDNet's Tips!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-screen-recorders-guide-trusted-recommendations-for-2024/"><u>The Ultimate Screen Recorders Guide - Trusted Recommendations for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-virtual-reality-headsets-comprehensive-tests-and-insights-by-tech-gurus-techradar/"><u>Top-Rated Virtual Reality Headsets : Comprehensive Tests & Insights by Tech Gurus | TechRadar</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-a60-by-fonelab-android-recover-video/"><u>Undeleted lost videos from A60</u></a></li>
 </ul></div>
 

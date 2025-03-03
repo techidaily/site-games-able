@@ -1,7 +1,7 @@
 ---
 title: Assessing the Impact of Mechanical Keyboards on Typing Speed
-date: 2024-08-08T09:12:22.724Z
-updated: 2024-08-09T09:12:22.724Z
+date: 2025-02-23T19:25:25.122Z
+updated: 2025-03-02T21:05:13.904Z
 tags:
   - games
 categories:
@@ -20,14 +20,6 @@ thumbnail: https://thmb.techidaily.com/8859a6a8995fd23a6d3c164e4eb7814defea1c5b8
 * [Drawbacks of Mechanical Keyboards for Gaming](#drawbacks-of-mechanical-keyboards-for-gaming)
 * [Do You Need a Mechanical Keyboard for Gaming?](#do-you-need-a-mechanical-keyboard-for-gaming)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The light actuation force of mechanical keys reduces the need for heavy pressing on gaming keys.
@@ -40,15 +32,8 @@ thumbnail: https://thmb.techidaily.com/8859a6a8995fd23a6d3c164e4eb7814defea1c5b8
 
  Since we’re talking about gaming, we’re mainly going to focus on gaming mechanical keyboards since they offer many features that normal mechanical keyboards don’t offer. Of course, we’ll also state the benefits of using any mechanical keyboard for gaming.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Lighter Actuation Force
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Pushing down stem of mechanical switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pushing-down-stem-of-mechanical-switch.jpg)
 
 Jhet Borja/MakeUseOf
@@ -57,14 +42,8 @@ Jhet Borja/MakeUseOf
 
  Rubber dome keyboards also require you to press the key all the way down in order to register a click and add to that the squishy feeling that makes you want to press the keyboard harder to feel some sort of tactile feedback. Mechanical keyboards, on the other hand, have the actuation somewhere in the middle, making bottoming out less of a necessity.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Mechanical Keyboards Have Better Tactile Feedback
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![hands holding mouse and keyboard-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/hands-holding-mouse-and-keyboard-1.JPG)
 
 Jhet Borja/MakeUseOf
@@ -75,9 +54,6 @@ Jhet Borja/MakeUseOf
 
  When you’re gaming intensely, this tactile feedback is precious. It lets you know that you’ve done the action without second-guessing yourself. If you’re not constantly worried about whether you’ve successfully pressed a key on your keyboard or not, you’re left with more mental capacity to worry about what you need to do in the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Gaming Mechanical Keyboards Have Many Functions and Features
 
 ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
@@ -90,9 +66,6 @@ Jhet Borja/MakeUseOf
 
  Most gaming mechanical keyboards also feature dedicated macro buttons—easily accessible buttons that you can assign any action. Arma, for example, has so many keybinds that you’ll often have to either move your hand from one side of the keyboard to the other, or move your other hand from your mouse to your keyboard. Macros and layers would allow you to bring those keys and functions to just one side, saving you time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Mechanical Keyboards Are Highly Customizable
 
 ![Switch lubing tools and keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-lubing-tools-and-keyboard.JPG)
@@ -131,9 +104,6 @@ Jhet Borja/MakeUseOf
 
  Most non-mechanical keyboards are pretty straightforward, having a PCB that doesn’t need switches to actuate, a singular rubber lattice that’s practically indestructible through normal use, and a simple plastic housing and keycaps. This makes them cheaper and lighter.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Mechanical Keyboards Are Louder
 
  The sound of a mechanical keyboard is something that really polarizes opinions. Many love the sound, but seemingly just as many hate it.
@@ -142,9 +112,6 @@ Jhet Borja/MakeUseOf
 
  To get a pretty quiet mechanical keyboard, you’ll have to go to pretty great lengths to achieve it, which might not make it worth it for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Do You Need a Mechanical Keyboard for Gaming?
 
  A mechanical keyboard isn’t a necessity for gaming. It’s different from a mouse where a mouse needs to translate your analog hand movements accurately to your computer. Keyboards are really just boards consisting of on-off switches.
@@ -153,14 +120,11 @@ Jhet Borja/MakeUseOf
 
  The verdict is this: You don’t need a mechanical keyboard, but you most likely want one. You can easily try them out at internet cafés or tech shops. Get a feel for them, but if you can’t justify the price, rest assured you’re not missing out on much performance.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,6 +133,19 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-premier-screening-gems/"><u>[New] Premier Screening Gems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-dial-up-your-visual-storytelling-with-animated-texts-no-cost/"><u>[Updated] In 2024, Dial up Your Visual Storytelling with Animated Texts, No Cost</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-advice-yt-clip-sharing-using-your-google-id/"><u>[Updated] In 2024, Expert Advice YT Clip Sharing Using Your Google ID</u></a></li>
+<li><a href="https://article-helps.techidaily.com/digital-deliberation-for-better-treatment-outcomes/"><u>Digital Deliberation for Better Treatment Outcomes</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-intels-advantage-in-the-battle-for-quality-gaming/"><u>Exploring Intel's Advantage in the Battle for Quality Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-twosome-style-top-15-companionable-phonesports/"><u>Game On, Twosome Style: Top 15 Companionable Phonesports</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-zte-axon-40-lite-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost ZTE Axon 40 Lite for Free? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/introduction-to-google-play-games-for-windows-users/"><u>Introduction to Google Play Games for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-steam-offline-status-on-pc/"><u>Restoring Steam Offline Status on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-iosandroid-sports-games-unmatched-excitement/"><u>Top 7 iOS/Android Sports Games: Unmatched Excitement!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210628704-9798985751451-trauma-inspired/"><u>Trauma-Inspired | Free Book</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/yl-software-insights-effective-strategies-for-fixing-memory-malfunctions/"><u>YL Software Insights: Effective Strategies for Fixing Memory Malfunctions</u></a></li>
+</ul></div>
 

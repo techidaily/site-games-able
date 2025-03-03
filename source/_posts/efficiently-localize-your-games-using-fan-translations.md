@@ -1,7 +1,7 @@
 ---
 title: Efficiently Localize Your Games Using Fan Translations
-date: 2025-02-07T17:06:58.016Z
-updated: 2025-02-11T17:48:19.493Z
+date: 2025-02-26T17:29:13.246Z
+updated: 2025-03-02T21:12:36.841Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You’ll Need to Apply a Fan Translation Patch
 
  Before you download a fan translation patch, get an emulator. There are plenty of[fantastic emulators to play classic games on your Android phone or tablet](https://www.makeuseof.com/tag/best-game-emulators-for-android/) , like the Sega Genesis/Mega Drive game I'm using in the example later. If you prefer a standalone unit for retro gaming, consider[building a portable retro gaming console via Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) and putting your emulator on that.
@@ -39,17 +35,9 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ![A screenshot of the Fusion emulator directory on File Explorer highlighting a Roms folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2686-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While every emulator is different, you can test your ROM files in roughly the same way. Open your emulator, then select**File > Load ROM** . Choose the ROM file saved in the**ROMS** folder of your emulator's directory.
 
  In most cases, the ROM file should load, letting you play the game (albeit in an untranslated state). If the ROM does not load, obtain another copy of the ROM file or confirm the ROM file currently works with the emulator you have chosen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### A Translation Patch File
 
@@ -58,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 [Romhacking](https://www.romhacking.net/translations) has a library of translations (and a whole heck of a lot more) available for games of all generations. And there happens to be a “Fully Playable” English translation of Panorama Cotton available to download. Select**Download** under**Links** to download the translation patch file.
 
 ![Panorama Cotton English translation patch page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/romhacking-panorama-cotton-translation.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
 
@@ -83,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
  Now it’s time to test out the new ROM file. Load the new ROM file in your emulator as normal. Did it work? In this example, yes! Take a look at the side-by-side comparison of the newly patched ROM file (left) and the original ROM file (right) in action!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Patch Your Favorite Classic Games in a Few Simple Steps
 
  If you know how to emulate ROM files, you can patch them to play in your preferred manner. From adding new gameplay mechanics to new characters, stages, and so much more, knowing how to patch ROM files opens up a whole new world of classic games to play. The only problem is that you have decades worth of patches to comb through, so you best get started!
@@ -106,21 +86,22 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-essential-tips-capturing-clear-voice-overs-on-camera/"><u>[New] Essential Tips Capturing Clear Voice Overs on Camera</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-discovering-movavis-advanced-video-editor-plus-plus/"><u>[Updated] In 2024, Discovering Movavi's Advanced Video Editor Plus +</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-sonic-sharing-adding-music-to-your-whatsapp-status/"><u>[Updated] In 2024, Sonic Sharing Adding Music to Your WhatsApp Status</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-tailoring-your-timing-strategy-the-ultimate-instagram-guide-for-2024/"><u>[Updated] Tailoring Your Timing Strategy The Ultimate Instagram Guide for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-top-5-budget-friendly-video-effect-tools-for-2024/"><u>[Updated] Top 5 Budget-Friendly Video Effect Tools for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/does-am08-pro-verify-a-true-acemagic-experience/"><u>Does AM08 Pro Verify a True AceMagic Experience?</u></a></li>
-<li><a href="https://games-able.techidaily.com/fix-or-replace-tackling-common-issues-with-xbox-series-xs/"><u>Fix or Replace? Tackling Common Issues with Xbox Series X|S</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-requesting-video-games-returns/"><u>Mastering the Art of Requesting Video Games Returns</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726027192089-powerdirector/"><u>PowerDirector アプリで簡単に動画からオーディオクリッピングのコツ</u></a></li>
-<li><a href="https://games-able.techidaily.com/preference-for-workspace-gaming/"><u>Preference for Workspace Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-video-game-tracker-assemblies/"><u>Prime Video Game Tracker Assemblies</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-feigning-absence-on-steam/"><u>The Art of Feigning Absence on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-guide-to-game-personalization-using-steam/"><u>The Essential Guide to Game Personalization Using Steam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-performing-memory-cards-for-gopro-cameras-a-complete-guide/"><u>Top Performing Memory Cards for GoPro Cameras: A Complete Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-top-20-trending-memes-reddit-vs-twitter/"><u>[New] 2024 Approved Top 20 Trending Memes Reddit Vs. Twitter</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unveiling-the-secrets-to-professional-youtube-content-creation/"><u>[Updated] Unveiling the Secrets to Professional YouTube Content Creation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-10-best-cost-free-subtitle-grabs-from-youtube/"><u>2024 Approved 10 Best Cost-Free Subtitle Grabs From YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-windows-video-editing-software-for-professional-use/"><u>2024 Approved Essential Windows Video Editing Software for Professional Use</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-for-apple-silicon-gamers-playing-windows-titles-seamlessly/"><u>CrossOver for Apple Silicon Gamers: Playing Windows Titles Seamlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-role-of-hrtf-in-valorant-auditory-experience/"><u>Deciphering the Role of HRTF in Valorant Auditory Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-dxvks-impact-on-windows-gaming-performance/"><u>Exploring DXVK's Impact on Windows Gaming Performance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fuse-rhythms-into-powerpoint-layouts/"><u>Fuse Rhythms Into PowerPoint Layouts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-forces-winning-strategies-for-minecraft-2p-on-switch/"><u>Join Forces! Winning Strategies for Minecraft 2P on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-money-management-buying-games-on-steam/"><u>Mastering Money Management: Buying Games on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/miniaturize-game-boy-fun-with-a-psp-modification-protocol/"><u>Miniaturize Game Boy Fun with a PSP Modification Protocol</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease-for-2024/"><u>Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-emulation-selections-gaming-consoles-on-a-mac/"><u>Superior Emulation Selections: Gaming Consoles on a Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-impact-of-conversational-agents-on-modern-medical-care-insights-from-chatgpts-application/"><u>The Impact of Conversational Agents on Modern Medical Care: Insights From ChatGPT's Application</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-sound-gear-on-switch-console/"><u>Ultimate Sound Gear on Switch Console</u></a></li>
 </ul></div>
 

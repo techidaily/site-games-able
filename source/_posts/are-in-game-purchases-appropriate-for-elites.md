@@ -1,7 +1,7 @@
 ---
 title: Are In-Game Purchases Appropriate for Elites?
-date: 2024-08-08T09:11:23.400Z
-updated: 2024-08-09T09:11:23.400Z
+date: 2025-02-23T23:30:28.840Z
+updated: 2025-03-02T16:08:12.326Z
 tags:
   - games
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 
  Microtransactions (also known as MTX) have been popularized mainly by freemium games. They are optional payments that help game developers and publishers make money from games they otherwise might not have. However, microtransactions have increasingly snuck into premium, paid games. Is this trend, perhaps, justifiable?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Do Microtransactions Exist in Video Games At All?
 
  You might recall a time when microtransactions did not exist. You bought a game, and that was it—you owned all the content in it. But let’s be completely honest: did that ever really exist?
@@ -63,9 +60,6 @@ But what about premium games? Should they have microtransactions?
 
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Are Microtransactions Good for the Gaming Industry?
 
  On the surface, more money in an industry is always a good thing. It allows companies to have bigger budgets to research and develop better games, and it allows better marketing to introduce the products to diverse audiences.
@@ -74,10 +68,6 @@ But what about premium games? Should they have microtransactions?
 
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Paying More to Experience Less
 
  Let’s look at Middle-earth: Shadow of War as a case study. It was released as a sequel to Shadow of Mordor, a well-received game using the proprietary nemesis system.
@@ -88,9 +78,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ### Bloat and Battle Passes
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
@@ -103,18 +90,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### A Dishonest Means of Collecting More Money
 
  If a role-playing game was listed for only $40 and you bought it, only to play it and discover that the hero class you would have loved to play is locked behind an additional $10 paywall—how would you feel? Cheated? That’s because you were.
 
  It’s downright dishonest to create a core game mechanic and exclude it as an option in the base game. Because you’ve spent $40 already, you might as well spend $10 more to enjoy the game.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Diablo III selling necromancer class as extra content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/diablo-iii-selling-necromancer-class-as-extra-content.png)
 
  Once again, Blizzard makes an appearance. Diablo III costs $19.99, and the Necromancer expansion costs $14.99\. It’s unfair that a separate expansion pack that pretty much adds only a class is worth almost as much as the base game. That means Blizzard is fairly confident that the necromancer class is the sole reason some people want to play the game. Yet, it’s not included as part of the standard offer.
@@ -125,14 +106,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  This is proof that it’s not necessary, and the companies behind these games can still make good money without tainting the sanctity of their craft. Hopefully, we will see a reduction in this trend in the future, but for now, we can only discourage it by not indulging.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,6 +119,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebook-video-maker-how-to-make-facebook-video/"><u>[New] In 2024, Facebook Video Maker How to Make Facebook Video</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-revealing-instagram-lurkers-the-exit-list/"><u>[New] In 2024, Revealing Instagram Lurkers The Exit List</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-breaking-news-afbs-secret-to-trending-content/"><u>[Updated] 2024 Approved Breaking News AFB's Secret to Trending Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-practices-for-video-game-archiving-on-playstation-4/"><u>Best Practices for Video Game Archiving on PlayStation 4</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-intel-raid-controller-drivers-on-windows-supporting-win11-10-8-and-(span-stylecolorgrey)7(span)/"><u>Download & Install Intel RAID Controller Drivers on Windows - Supporting Win11, 10, 8 & <Span Style=color:grey;>7</Span></u></a></li>
+<li><a href="https://games-able.techidaily.com/driving-dynamics-traditional-wheel-or-innovative-screen-navigation/"><u>Driving Dynamics: Traditional Wheel or Innovative Screen Navigation?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-gaming-experience-install-gtx-970-driver/"><u>Elevate Your Gaming Experience - Install GTX 970 Driver</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-future-play-ifa-2023-unveils-new-horizons-in-gaming/"><u>Game on, Future Play: IFA 2023 Unveils New Horizons in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restore-licenses-on-your-ps5/"><u>How to Restore Licenses on Your PS5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocns-economical-choice-for-gamers/"><u>InnoCN's Economical Choice for Gamers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-vsdc-video-editor-for-mac-find-the-best-replacement/"><u>New VSDC Video Editor for Mac Find the Best Replacement</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-earphones-designed-for-switch/"><u>Optimal Earphones Designed for Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/psvr2-immersion-boosters-revealed/"><u>PSVR2 Immersion Boosters Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tga-gif-movavi/"><u>인터넷을 통해 자바스위칭, 데이터매김 등에 적합한 무료 TGA GIF 변환 - Movavi</u></a></li>
+</ul></div>
 

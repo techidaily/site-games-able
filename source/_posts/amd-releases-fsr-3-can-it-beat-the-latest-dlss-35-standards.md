@@ -1,7 +1,7 @@
 ---
 title: "AMD Releases FSR 3: Can It Beat the Latest DLSS 3.5 Standards?"
-date: 2024-08-08T09:09:02.925Z
-updated: 2024-08-09T09:09:02.925Z
+date: 2025-03-01T20:44:48.229Z
+updated: 2025-03-02T22:50:19.051Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
 ## AMD Releases FSR 3: Can It Beat the Latest DLSS 3.5 Standards?
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * AMD has announced FSR 3, the latest version of its FidelityFX Super Resolution software, promising great improvements in performance and image fidelity compared to its predecessor.
@@ -27,18 +24,12 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
  However, that doesn't mean AMD has given up on FSR. Far from it, in fact. At Gamescom 2023, alongside the launch of its new GPUs, AMD also announced FSR 3, which promises great improvements over its predecessor in performance and image fidelity. It's a major upgrade, but can it compete with NVIDIA DLSS 3.5?
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is AMD's FSR 3?
 
  You might already know what FSR, or [FidelityFX Super Resolution](https://www.makeuseof.com/amd-fsr-explained/) , is, but we'll give you a quick refresh if not. FSR is software that takes games rendered at a lower resolution and upscales them to higher ones. It's AMD's competition to [NVIDIA's DLSS](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) , boosting in-game visuals and frame rates, and FSR 3 is the latest version of this technology. AMD announced the new tech right as it announced its newest GPUs, the [Radeon RX 7800 XT and the Radeon RX 7700 XT](https://www.makeuseof.com/everything-you-need-to-know-amd-radeon-rx-7800-xt-and-rx-7700-xt/) .
 
  FSR 3 isn't fundamentally changing the way FSR works. It's still an open technology that doesn't require proprietary hardware and can run on any modern GPU, AMD or not. What's changing here is how good its results look and how fast games will run with FSR 3.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AMD FSR 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/fsr-3-1.jpeg)
 
 Image Credits: AMD
@@ -47,9 +38,6 @@ Image Credits: AMD
 
  FSR 3 will be available on all Radeon RDNA cards (5000-Series, 6000-Series, and 7000-Series), Intel Arc GPUs, and NVIDIA RTX GPUs.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Does FSR 3 Compare to DLSS 3.5?
 
  Of course, the big elephant in the room is how AMD's FSR 3 fares compared to its direct competitor,[NVIDIA's recently updated DLSS 3.5](https://www.makeuseof.com/what-is-nvidia-ai-powered-dlss-3-5/) . NVIDIA announced its latest technology just days before FSR 3, as basically a drop-in upgrade for DLSS 3-compatible cards. DLSS 3.5's biggest upgrade is how it leverages the power of AI to help with its upscaling, employing a model called Ray Reconstruction to create high-quality ray-traced images.
@@ -58,28 +46,19 @@ Image Credits: AMD
 
  As for how well it works compared to its direct competitor, we'll have to see FSR 3 in use in-game to compare properly. We'd expect things to remain pretty similar to how they are, with FSR producing similar framerate gains but with less detail than DLSS.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Should You Use FSR 3?
 
  If you have an AMD GPU or another GPU that doesn't support DLSS, using FSR is a no-brainer. It can greatly help your framerates, especially if you have a higher-resolution monitor. FSR 3 is a great improvement to an already great technology, and you should give it a spin as soon as it's available. AMD says that new titles Forspoken and Immortals of Aveum will get support in September, with other games following suit.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FSR 3 is a Big Improvement
 
  When NVIDIA added Frame Generation to DLSS 3, it was a big breakthrough. By generating extra frames from scratch, your frame rates could be effectively doubled. With this addition to FSR 3, you should see the same kind of gains, and we're excited to see how it fares in real life.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -88,6 +67,16 @@ Image Credits: AMD
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-crafting-the-spoken-word-writing-compelling-narratives/"><u>[New] 2024 Approved Crafting the Spoken Word Writing Compelling Narratives</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/elevate-your-online-presence-with-manycam-the-ultimate-virtual-webcam-and-recording-tool/"><u>Elevate Your Online Presence with ManyCam – The Ultimate Virtual Webcam and Recording Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/limiting-background-operations-of-game-bar-in-win-11-environment/"><u>Limiting Background Operations of Game Bar in Win 11 Environment</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-from-screen-to-video-how-to-record-your-desktop-with-filmora-scrn/"><u>New From Screen to Video How to Record Your Desktop with Filmora Scrn</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-macos-for-baldurs-gate-3-with-crossover-tips/"><u>Optimize Your macOS for Baldur’s Gate 3 with CrossOver Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-these-for-an-informed-ps5-purchase/"><u>Prioritize These for an Informed PS5 Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-sd-storage-for-steam-deck/"><u>Setting Up SD Storage for Steam Deck</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-dealing-with-not-handled-exception-error-on-pcs/"><u>Tips for Dealing with Not Handled Exception Error on PCs</u></a></li>
+</ul></div>
 

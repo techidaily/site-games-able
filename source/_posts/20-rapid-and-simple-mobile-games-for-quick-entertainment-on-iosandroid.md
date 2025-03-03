@@ -1,7 +1,7 @@
 ---
 title: 20 Rapid & Simple Mobile Games for Quick Entertainment on iOS/Android
-date: 2024-08-15T17:16:07.969Z
-updated: 2024-08-16T17:16:07.969Z
+date: 2025-02-28T23:11:59.666Z
+updated: 2025-03-02T17:07:57.218Z
 tags:
   - games
 categories:
@@ -28,9 +28,6 @@ Close
 
 **Download:** iSlash Heroes for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.duellogames.iSlash2) |[iOS](https://apps.apple.com/app/islash-heroes/id949498190) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2 Fishing Break
 
 Close
@@ -51,9 +48,6 @@ Close
 
 **Download:** Doodle Jump for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.lima.doodlejump) |[iOS](https://apps.apple.com/app/doodle-jump-insanely-good/id456355158) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 4 Polyforge
 
 Close
@@ -64,9 +58,6 @@ Close
 
 **Download:** Polyforge for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.impactbluestudios.polyforge) |[iOS](https://apps.apple.com/app/polyforge/id1109788041) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Two Dots
 
 Close
@@ -85,9 +76,6 @@ You have to be strategic because you have limited moves.
 
 **Download:** Angry Birds Blast for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.rovio.blast) |[iOS](https://apps.apple.com/app/angry-birds-blast/id1122444037) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7 Roll the Ball
 
 Close
@@ -126,9 +114,6 @@ Close
 
 **Download:** Word Chums for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.peoplefun.wordchums) |[iOS](https://apps.apple.com/app/word-chums/id517840944) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11 Draw With Friends
 
 Close
@@ -139,9 +124,6 @@ Close
 
 **Download:** Draw With Friends for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.fiddlerswork.drawwithfriends) |[iOS](https://apps.apple.com/app/draw-with-friends-multiplayer/id1502088179) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12 Bowling Crew
 
 Close
@@ -170,9 +152,6 @@ Close
 
 **Download:** Horizon Chase for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.aquiris.horizonchase) |[iOS](https://apps.apple.com/app/horizon-chase/id991018252) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 15 7 Little Words
 
 Close
@@ -183,9 +162,6 @@ Close
 
 **Download:** 7 Little Words for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.blueoxtech.sevenlittlewords) |[iOS](https://apps.apple.com/app/7-little-words-daily-puzzles/id431434152) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 16 Pokémon GO
 
 Close
@@ -196,9 +172,6 @@ Close
 
 **Download:** Pokémon GO for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) |[iOS](https://apps.apple.com/app/pokémon-go/id1094591345) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 17 WordBrain
 
 Close
@@ -235,14 +208,11 @@ Close
 
 **Download:** Infinite Tiles for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.opalastudios.infinitetiles) |[iOS](https://apps.apple.com/app/infinite-tiles-edm-piano/id1465612626) (Free, in-app purchases available)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -251,8 +221,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/avigating-to-your-digital-editing-oasis-on-youtube/"><u>[New] Navigating to Your Digital Editing Oasis on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-easywinrecorder-capture-windows-screens-quickly/"><u>[Updated] In 2024, EasyWinRecorder Capture Windows Screens Quickly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infusing-homes-with-suns-invisible-light/"><u>[Updated] Infusing Homes with Sun's Invisible Light</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-review-of-the-innocn-ultrawide-40-144-hz-gaming-screen-a-spacious-and-responsive-choice-cnet/"><u>Comprehensive Review of the Innocn Ultrawide 40” 144 Hz Gaming Screen – A Spacious and Responsive Choice | CNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-how-to-turn-your-samsung-projector-into-a-stealthy-game-console-enjoy-a-stellar-deal-at-200-off-for-the-holiday-weekend/"><u>Discover How to Turn Your Samsung Projector Into a Stealthy Game Console - Enjoy a Stellar Deal at $200 Off for the Holiday Weekend!</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-premier-43-inch-displays-expert-reviews-and-ratings/"><u>Discover the Premier 43 Inch Displays - Expert Reviews & Ratings</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guide-simple-comment-uploader-votre-bibliotheque-dvd-sur-amazon-cloud/"><u>Guide Simple : Comment Uploader Votre Bibliothèque DVD Sur Amazon Cloud</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-methods-to-utilize-dynamic-images-on-ios-for-2024/"><u>Innovative Methods to Utilize Dynamic Images on iOS for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovision-40-curved-gaming-monitor-with-144hz-ultra-wide-display-and-performance-analysis-techradar/"><u>InnoVision 40 Curved Gaming Monitor with 144Hz - Ultra-Wide Display & Performance Analysis | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-mobile-gaming-experience-with-android-12s-game-mode-tech-insights-on-zdnet/"><u>Maximize Your Mobile Gaming Experience with Android 12'S Game Mode | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/mega-savings-on-xbox-and-fire-tv-stick-bundle-including-xbox-game-pass-at-no-charge-tech-reviews-zdnet/"><u>Mega Savings on Xbox & Fire TV Stick Bundle, Including Xbox Game Pass at No Charge | Tech Reviews ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-premium-nvidia-gaming-laptops-slashed-for-amazons-prime-day-extravaganza-techradar/"><u>Save Big ! Premium NVIDIA Gaming Laptops Slashed for Amazon's Prime Day Extravaganza | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-introduces-enhanced-family-features-and-superior-parent-control-options-valve-announces/"><u>Steam Introduces Enhanced Family Features & Superior Parent-Control Options, Valve Announces</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/toolwiz-scrutiny-expert-analysis-on-mobile-photo-tools/"><u>Toolwiz Scrutiny Expert Analysis on Mobile Photo Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/standing-the-algorithm-maximizing-earning-potential-on-youtube/"><u>Understanding the Algorithm Maximizing Earning Potential on YouTube</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Xbox Controller Setup for Personal Computers (157 Chars) - Slight Overage Allowed Due to Importance of Message Content
-date: 2024-08-15T17:16:11.061Z
-updated: 2024-08-16T17:16:11.061Z
+date: 2025-02-23T20:06:38.855Z
+updated: 2025-03-03T00:35:11.310Z
 tags:
   - games
 categories:
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
  If you have trouble, make sure you're using a high-quality cable. Some USB-C cables only charge and don't support data transfer, so you might need to purchase another cable that supports all functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Connect an Xbox Controller to PC Using Bluetooth
 
 [If your PC has Bluetooth](https://www.makeuseof.com/does-computer-have-bluetooth/) , this is a convenient way of connecting your Xbox controller and PC wirelessly. However, to use it with an Xbox One controller, you must have the later model; see the image below for an illustration of the differences.
@@ -48,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
  All Xbox Series X|S controllers support Bluetooth. You'll know your controller is a Series X|S model if it has the**Share** button in the middle of the controller.
 
 ![Xbox One controller model comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Xbox-Controller-Comparison.png)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Xbox Support  
   
@@ -62,14 +56,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
  Remember that the batteries in your Xbox controller will drain when using it wirelessly. To save money on batteries, we recommend picking up the [Xbox One Play and Charge Kit](https://www.amazon.com/Xbox-One-Play-Charge-Kit/dp/B00DBDPOZ4?th=1&psc=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=141e39c0797a1d7786bbe752350e72cf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Xbox One controllers) or the [Xbox Rechargeable Battery](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?crid=2M3PAHF8MA3Y4&dchild=1&keywords=series%2Bx%2Bplay%2Band%2Bcharge%2Bkit&qid=1616106289&sprefix=series%2Bx%2Bplay%2Caps%2C168&sr=8-2&th=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=7d0bf187ffc186ab3a95d34957c4f9bf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Series X|S controllers) to give your controller recharging capabilities. You can easily plug your controller into your PC when you're not using it, so it will always be ready for your next session.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use the Xbox Wireless Adapter to Pair Your Xbox One Controller to a PC
 
  Microsoft has a standard called**Xbox Wireless** that's built into a few computers, though it's likely not part of yours. So to sync your Xbox controller and PC wirelessly without Bluetooth, you'll need to buy the [Xbox Wireless Adapter](https://www.amazon.com/Microsoft-Xbox-Wireless-Adapter-Windows-one/dp/B00ZB7W4QU?linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=4652892b504e435c77bf3a3d5f0b6779&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) .
@@ -82,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
  From here, you can enjoy your Xbox controller on your PC wirelessly, just like using Bluetooth. We only recommend this method if you have an Xbox One controller that's not Bluetooth-enabled, though. Otherwise, it's better to [add Bluetooth to your computer](https://www.makeuseof.com/add-bluetooth-pc/) with an adapter that's cheaper than the Xbox Wireless Adapter. You could also put the money that you'd spend on the Xbox Wireless Adapter towards a new Series X|S controller.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reconnect Your Xbox Controller to Your Console
 
  Keep in mind that if your Xbox controller is already paired to an Xbox One or Series X|S console, pressing the**Xbox** button will turn that system on. You should still be able to pair the controller to your PC wirelessly using either of the methods above, but you'll probably want to turn your console off after you do so (or shut down and unplug it before you start). Trying to connect your controller to multiple devices at once will cause issues.
@@ -99,23 +82,17 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
  Finally, remember that you can turn off your Xbox controller (when it's not connected to a PC or console with a cable) by holding the**Xbox** button for around five seconds. When the light on this button goes out, your controller is off.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Connect an Xbox Controller to Your PC Easily
 
  You have plenty of options for connecting an Xbox One or Xbox Series X|S controller to your PC. Whether you want to connect with a USB cable for the simplest option or prefer to connect wirelessly with Bluetooth, now you understand the available methods.
 
  Meanwhile, a Windows PC isn't the only device you can connect an Xbox controller to.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,8 +101,26 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-list-best-video-platforms-for-secure-businesses-for-2024/"><u>[Updated] Essential List Best Video Platforms for Secure Businesses for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-key-aspects-of-gif-animation/"><u>2024 Approved Understanding Key Aspects of GIF Animation</u></a></li>
+<li><a href="https://games-able.techidaily.com/amazing-deals-on-top-rated-samsung-televisions-enjoy-a-whopping-43-discount-this-labor-day-insights-from-zdnet/"><u>Amazing Deals on Top-Rated Samsung Televisions: Enjoy a Whopping 43% Discount This Labor Day | Insights From ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-techniques-for-eliminating-ambient-sounds-from-your-audio-recordings/"><u>Best Techniques for Eliminating Ambient Sounds From Your Audio Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/corsair-hs65-gaming-headset-review-unmatched-portability-meets-reliable-sound-performance-digitaltechnews/"><u>Corsair HS65 Gaming Headset Review: Unmatched Portability Meets Reliable Sound Performance | DigitalTechNews</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-honor-70-lite-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Honor 70 Lite 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-review-of-the-wired-steelseries-aerox-5-beyond-first-impressions-in-gaming-performance-cnet/"><u>In-Depth Review of the Wired SteelSeries Aerox 5 - Beyond First Impressions in Gaming Performance | CNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-vlc-key-mac-functions-explained/"><u>Mastering VLC Key Mac Functions Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-gamings-favorite-operating-system-revealed-windows-11-takes-the-lead-above-windows-an-overview-by-tech-experts-at-zdnet/"><u>PC Gaming's Favorite Operating System Revealed: Windows 11 Takes the Lead Above Windows # An Overview by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/real-time-multilingual-mastery-how-robloxs-latest-ai-chat-translation-breakthrough-spans-16-languages-insights-from-zdnet/"><u>Real-Time Multilingual Mastery: How Roblox's Latest AI Chat Translation Breakthrough Spans 16 Languages - Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Plus Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/steelseries-aerox-wireless-the-ultimate-mmomoba-gaming-mouse-for-gamers-comprehensive-zdnet-evaluation/"><u>SteelSeries Aerox Wireless: The Ultimate MMO/MOBA Gaming Mouse for Gamers - Comprehensive ZDNET Evaluation</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-filmmakers-toolkit-for-dynamic-video-colors-for-2024/"><u>The Filmmaker's Toolkit for Dynamic Video Colors for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-50-inch-televisions-the-ultimate-guide-by-tech-experts-zdnet/"><u>Top 50-Inch Televisions : The Ultimate Guide by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deal-why-i-continue-to-advocate-for-these-classic-samsung-televisions-now-with-a-50-discount-zdnet-exclusive/"><u>Unbeatable Deal: Why I Continue to Advocate for These Classic Samsung Televisions - Now with a 50% Discount! [ZDNet Exclusive]</u></a></li>
+<li><a href="https://games-able.techidaily.com/up-to-25-off-on-85/"><u>Up to 25% Off on 85</u></a></li>
+</ul></div>
 

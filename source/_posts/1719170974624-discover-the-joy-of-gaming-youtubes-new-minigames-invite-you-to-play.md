@@ -1,7 +1,7 @@
 ---
 title: "Discover the Joy of Gaming: YouTube’s New Minigames Invite You to Play"
-date: 2024-08-15T17:16:14.288Z
-updated: 2024-08-16T17:16:14.288Z
+date: 2025-02-23T18:11:28.467Z
+updated: 2025-03-02T23:55:13.712Z
 tags:
   - games
 categories:
@@ -56,9 +56,6 @@ Here are all the games accessible in the YouTube Playables section:
 
  If you are [deciding whether YouTube Premium is worth it](https://www.makeuseof.com/tag/youtube-red-worth-money-things-need-consider/) to access Playables and all the other premium features, we suggest that you skip the annual subscription and get the monthly subscription instead. This is because the Playables feature will only be available until March 28, 2024\. If it doesn’t become a feature after that date, it may get canceled entirely.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Can You Activate Playables?
 
  If you weren’t notified of the feature but are a Premium subscriber, you can try to access Playables just by turning on experimental features in your YouTube app.
@@ -66,22 +63,12 @@ Here are all the games accessible in the YouTube Playables section:
  To activate Playables, open the YouTube app and go to the**You** section at the bottom right of your screen. Then open the settings menu by hitting the**gear icon** and select**Try experimental new features.** You will be shown all the available experimental features. Look for**Play games on YouTube** and select**Try it out** .
 
 ![YouTube landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/1-youtube-landing-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 
 ![YouTube You tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-you-section.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![YouTube Settings menu with experimental features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/3-youtube-settings-menu.jpg)
 
 ![the option to try out YouTube Playables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/4-try-out-youtube-playables-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -90,14 +77,8 @@ Close
 ![YouTube compass icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-compass-icon-1.jpg)
 
 ![Mobile explore section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/2mobile-explore-section.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![YouTube playable games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/22youtube-playable-games.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![YouTube homepage scrolling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/403399801_6992387144163435_8787378799009490497_n-1.jpg)
 
@@ -111,14 +92,11 @@ Close
 
  Depending on how Playables perform, we may see more platforms implementing mini-games into their services. Or the experiment could fail miserably.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,8 +105,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-become-a-pro-at-xbox-video-recording-in-minutes/"><u>[New] 2024 Approved Become a Pro at Xbox Video Recording in Minutes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unmissable-gameplay-in-virtual-realms-for-2024/"><u>[Updated] Unmissable Gameplay in Virtual Realms for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/200-discount-on-a-gaming-console-in-plain-sight-as-a-samsung-projector-for-labor-day-zdnet-unveils/"><u>$200 Discount on a Gaming Console in Plain Sight as a Samsung Projector for Labor Day | ZDNET Unveils!</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-all-other-linux-game-distros-with-top-ranking-regatta-os-nce-the-ultimate-guide-by-zdnet/"><u>Beat All Other Linux Game Distros with Top-Ranking Regatta OS Nce – The Ultimate Guide by ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-picture-guide-to-vsco-app/"><u>Complete Picture Guide to VSCO App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-proficient-is-chatgpt-at-making-drinks/"><u>How Proficient Is ChatGPT at Making Drinks?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-setup-epson-xp-245-printer-driver-for-windows-versions-7810/"><u>How to Download and Setup Epson XP 245 Printer Driver for Windows Versions (7/8/10)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-honor-x50iplus-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Honor X50i+? </u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-revenue-rationale-calculating-your-average-earning-from-adsense-per-k-views/"><u>In 2024, Revenue Rationale Calculating Your Average Earning From AdSense per K Views</u></a></li>
+<li><a href="https://games-able.techidaily.com/samsung-unveils-new-gaming-controller-range-meet-their-debut-model-exclusive-coverage-by-zdnet/"><u>Samsung Unveils New Gaming Controller Range: Meet Their Debut Model - Exclusive Coverage by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-during-labor-day-sales-exclusive-offer-premium-samsung-tv-at-a-whopping-43-off-insider-tips-from-zdnet/"><u>Save Big During Labor Day Sales! Exclusive Offer: Premium Samsung TV at a Whopping 43% Off – Insider Tips From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/story-1-believing-that-the-technology-only-complicates-data-analysis-wrong-answer/"><u>Story 1: Believing that the Technology only Complicates Data Analysis (Wrong Answer)</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-elite-gaming-mechanical-keyboards-recommendations-by-zdnet/"><u>Top 5 Elite Gaming Mechanical Keyboards : Recommendations by ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-overcoming-the-dxgmms2sys-bsod-problem-in-windows-11/"><u>Troubleshooting Guide: Overcoming the dxgmms2.sys BSOD Problem in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-power-of-play-enjoy-three-months-free-with-xbox-game-pass-ultimate-for-just-36-your-step-by-step-guide-on-zdnet/"><u>Unlock the Power of Play: Enjoy Three Months Free with Xbox Game Pass Ultimate for Just $36 – Your Step-by-Step Guide on ZDNet</u></a></li>
+</ul></div>
 

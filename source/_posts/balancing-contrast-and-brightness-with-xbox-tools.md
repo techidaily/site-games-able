@@ -1,7 +1,7 @@
 ---
 title: Balancing Contrast and Brightness with Xbox Tools
-date: 2024-08-08T09:11:28.336Z
-updated: 2024-08-09T09:11:28.336Z
+date: 2025-02-27T16:08:26.644Z
+updated: 2025-03-02T17:12:12.014Z
 tags:
   - games
 categories:
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
  The first step to calibrating your TV is to find and open the**TV Calibration** tool on your console. You can find this in the**TV & display options** .[Enabling auto HDR on your Xbox Series X|S](https://www.makeuseof.com/how-to-enable-or-disable-auto-hdr-on-xbox-series-xs/) is another setting you can find in this section that will improve your gaming performance even further, but for now, select**Calibrate TV.**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox General TV and Display Options Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/xbox-general-tv-and-display-options-menu.jpg)
 
  The first screen gives you a general overview of what to expect when using the tool and encourages you to leave your TV on for around five minutes before you begin the process so the display can warm up. Once you’ve waited five minutes and read through the instructions, tap**Next** .
@@ -43,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
  At this point, you will be given several recommended settings for your TV display. To begin applying them, open up your TV settings and head to**Picture** . Start by changing your**Picture Mode** . Xbox recommends you change this to**Cinema** ,**Movie** , or**Standard** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![TV Picture Settings Picture Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-picture-settings-picture-mode.jpg)
 
  If you regularly experience lag when you’re gaming, you may want to have your TV set to**Gaming Mode** instead. This mode can be found in the**General** settings, and while it does increase your performance, it also sacrifices your picture quality.
@@ -56,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
  Scroll up or down until you find a setting labeled**Dynamic contrast** ,**black tone** , or**shadow detail** . Turn that off or to 0.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![TV Picture Settings Shadow Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-picture-settings-shadow-detail.jpg)
 
  Continue scrolling until you find any of the below settings and ensure they are all switched off:
@@ -70,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
  Once you have completed tweaking those settings, press**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Aspect Ratio and Sharpness
 
  You will then move on to tweaking your aspect ratio and image sharpness. The key to this page is to have the**green lines** match up perfectly with the edges of your TV. If they don’t, open your**Picture** settings once again and select**Picture Size Settings** .
@@ -83,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
  Open your TV's**Picture** settings and head to the**Advanced/Expert** section. Scroll down to the**Sharpness** setting, and turn it down as low as possible without blurring your image. Don’t be afraid to turn it all the way down to zero if you can.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Optimizing Your Brightness Settings
 
  Press**Next** to move on to the**Brightness** page. The first page is a general description of how to set your brightness. You can complete the process here or press**Next** to see a larger version of the image you need.
@@ -98,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
  Once complete, you shouldn’t be able to see the closed eye at all, and you should be able to only just see the**open eye** . It’s a good idea to tweak this setting while you are sitting in your usual TV viewing spot, as you might be able to see the eyes differently at different angles.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TV Settings HDMI Black Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-settings-hdmi-black-level.jpg)
 
  If you can't see the**closed eye** at all, go back to your TV's**General** settings and select**External Device Manager** . Open the**HDMI Black Level** setting and change it to**Auto** ,**Low** , or**Limited** . Then head back on your Xbox to reach your**General** settings and select**Video fidelity & overscan** .
@@ -115,23 +97,14 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
  You want to just barely be able to make out both images. Press**Next** when you’re done.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Brightness Again
 
  The following page requires you to check your brightness again. Changing the contrast can affect the brightness setting, so recalibrate it if necessary and proceed to the next page.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Tweaking Your Advanced Color Settings
 
  The last page is your advanced color settings. The idea on this page is to tweak your color settings so each of the blocks on the right is individual, and no colors are bleeding into the neighboring ones. The easiest way to do this is by turning your TV's blue filter on or changing your**RGB Only Mode** to**Blue** . This can be found in your**Advanced/Expert** settings.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TV Calibration RGB Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-rgb-mode.jpg)
 
  Once your TV display is blue, open the**Color** settings on your TV and adjust it so the blue and white columns on the top look the same. Then scroll to**Tint** or**Hue** and adjust it so the pink and cyan columns on the bottom match. Once all the colors are matching, change your**RGB filter** back to normal and press**Done** . Your TV will now be perfectly calibrated to your Xbox Series X|S.
@@ -144,14 +117,11 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
  If you’ve had your Xbox Series X|S for a long time and you’ve never calibrated your TV, there’s a good chance that you might not be making the most out of either your Xbox or TV display. And using the TV Calibration tool on your Xbox is certainly cheaper than buying a new TV to get better picture quality.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,6 +130,26 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pro-level-strategies-for-saving-and-recording-movs-on-windows-pcs/"><u>[Updated] 2024 Approved Pro-Level Strategies for Saving and Recording MOVs on Windows PCs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-live-to-recorded-your-path-to-maccam-skills/"><u>[Updated] From Live to Recorded Your Path to MacCam Skills</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-zero-price-strategies-for-solo-frame-analysis-in-videos/"><u>2024 Approved Zero-Price Strategies for Solo Frame Analysis in Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-device-ipad-pro-or-macbook-air-a-comprehensive-guide-by-zdnet/"><u>Choosing the Right Device: IPad Pro or MacBook Air? A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-gaming-loopholes-valve-responds-now/"><u>End of Gaming Loopholes: Valve Responds Now</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erasing-all-content-from-your-iphone-expert-guide-for-windowsmac-using-stellar/"><u>Erasing All Content From Your iPhone: Expert Guide for Windows/Mac Using Stellar</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-blocky-universe-an-inclusive-insight-into-minecraft/"><u>Exploring the Blocky Universe: An Inclusive Insight Into Minecraft</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-capabilities-of-jackerys-latest-offering-a-battery-backpack-with-integrated-wall-socket/"><u>Exploring the Capabilities of Jackery's Latest Offering: A Battery Backpack with Integrated Wall Socket</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-gameplay-experience-eliminating-lag-and-stutters-in-assassins-creed-valhalla-pc-edition/"><u>Improving Gameplay Experience: Eliminating Lag and Stutters in Assassin’s Creed Valhalla (PC Edition)</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-play-the-ultimate-list-of-game-changing-keyboards/"><u>Next Level Play: The Ultimate List of Game-Changing Keyboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-parts-synergy-avoid-compatibility-pitfalls/"><u>PC Parts Synergy - Avoid Compatibility Pitfalls</u></a></li>
+<li><a href="https://games-able.techidaily.com/pocket-sized-pleasures-top-9-ftp-nintendo-games/"><u>Pocket-Sized Pleasures: Top 9 FTP Nintendo Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionary-viewing-solutions-at-ifa/"><u>Revolutionary Viewing Solutions at IFA</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-rules-gamers-adapt-the-ai-shift-in-play/"><u>Steam Rules, Gamers Adapt: The AI Shift in Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-failed-file-creation-windows-error-30005/"><u>Tackling Failed File Creation: Windows Error 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/transient-game-realms-is-your-attention-worth-it/"><u>Transient Game Realms: Is Your Attention Worth It?</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-90-gt-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor 90 GT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-fixing-mss32dll-not-detected-errors-effectively/"><u>Understanding and Fixing 'mss32.dll Not Detected' Errors Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-compatibility-playing-older-ps-games-on-newer-console/"><u>Understanding Compatibility: Playing Older PS Games on Newer Console</u></a></li>
+</ul></div>
 

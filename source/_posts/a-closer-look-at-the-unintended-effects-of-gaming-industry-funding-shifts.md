@@ -1,7 +1,7 @@
 ---
 title: A Closer Look at the Unintended Effects of Gaming Industry Funding Shifts
-date: 2024-08-15T17:15:03.268Z
-updated: 2024-08-16T17:15:03.268Z
+date: 2025-02-27T19:42:09.771Z
+updated: 2025-03-02T22:51:44.763Z
 tags:
   - games
 categories:
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Needless to say, this post generated a lot of discussion, reheating various [debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## How Much Do Game Developers Already Earn?
 
  The quick and unsatisfying answer is: it depends. Game Developer roles vary enormously, from sole indie developers working on their dream projects to in-house employees at the biggest publishing houses. Like many professions, game development can be very lucrative or pitifully rewarding.
@@ -44,15 +38,9 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -62,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## The Negative Effects of Tipping Culture
 
  My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and [the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
@@ -74,18 +58,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against [AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
@@ -112,14 +84,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  I think this is a reasonable compromise. I don’t want to see developers taken advantage of by a tipping culture that treats them as disposable. But if tipping is simply one form of recompense among many, and developers are fairly rewarded for their toil and innovation, then maybe it’s not all so bad.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,8 +97,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevating-engagement-crafting-high-roi-animated-campaigns-on-facebook/"><u>[Updated] 2024 Approved Elevating Engagement Crafting High-ROI Animated Campaigns on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-key-steps-to-enhance-real-time-sports-viewership/"><u>[Updated] In 2024, Key Steps to Enhance Real-Time Sports Viewership</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-future-without-vlc-media-player-insights/"><u>2024 Approved The Future Without VLC - Media Player Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-cozy-games-widespread-favor/"><u>Decoding Cozy Games' Widespread Favor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/five-ultimate-tricks-to-reduce-the-size-of-your-mkv-videos-without-paying/"><u>Five Ultimate Tricks to Reduce the Size of Your MKV Videos without Paying</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-deals-galore-playstations-midsummer-sale/"><u>Hot Deals Galore: PlayStation’s Midsummer Sale</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-constructing-the-ideal-home-computer-for-advanced-video-editing/"><u>In 2024, Constructing the Ideal Home Computer for Advanced Video Editing</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-login-interruptions-on-rust-pcs/"><u>Mastering Steam Login Interruptions on Rust PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/merging-images-into-a-single-pdf-a-step-by-step-guide/"><u>Merging Images Into a Single PDF: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mobile-mastery-youtube-video-thumbnails-made-easy-for-2024/"><u>Mobile Mastery YouTube Video Thumbnails Made Easy for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-subscription-entertainment-psplus-vs-xbgplus/"><u>Seamless Subscription Entertainment: PS+ Vs. XBG+</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mlining-co-productions-a-guide-to-more-followers/"><u>Streamlining Co-Productions A Guide to More Followers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-maximizing-your-joystick-juice/"><u>The Ultimate Guide to Maximizing Your Joystick Juice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-productivity-with-apples-top-18-ios-shortcuts-guides/"><u>Transform Productivity with Apple's Top 18 iOS Shortcuts Guides</u></a></li>
+</ul></div>
 

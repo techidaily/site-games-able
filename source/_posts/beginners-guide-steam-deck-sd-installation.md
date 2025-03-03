@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide: Steam Deck SD Installation"
-date: 2024-08-08T09:11:45.718Z
-updated: 2024-08-09T09:11:45.718Z
+date: 2025-02-24T00:18:00.403Z
+updated: 2025-03-02T18:12:00.856Z
 tags:
   - games
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
 ## Beginner's Guide: Steam Deck SD Installation
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Can I Use Any SD Card on My Steam Deck?](#can-i-use-any-sd-card-on-my-steam-deck)
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
 ## Can I Use Any SD Card on My Steam Deck?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![screenshot of the steam deck storage screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_storage_screen.jpg)
 
  The Steam Deck is not fussy when it comes to SD cards. Assuming you've brushed up on [mistakes to avoid when choosing an SD card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/), you can't go wrong. The Steam Deck supports SD, SDXC, and SDHC cards, and can handle up to 2TB of capacity.
@@ -44,14 +38,8 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
  We have a great selection of [the best microSD cards for the Steam Deck](https://www.makeuseof.com/best-microsd-cards-steam-deck/) if you haven't selected one already.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Format Your SD Card for the Steam Deck
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
 
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
@@ -66,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
 ## How to Install and Move Games to Your Steam Deck's SD Card
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
 
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
@@ -80,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
  Secondly, accessing folders on your SD card is a little different from accessing your SSD.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Screenshot of an SD card mounted on the Steam Deck showing its location as primary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_primary_sd_card_location_on_steam_deck.jpg)
 
  You'll find your SD card located at the bottom right-hand side of the Dolphin explorer window. It's named **primary**. Steam games will be located in the **steamapps** folder of this device.
@@ -95,14 +76,11 @@ run/media/mmcblk0p1
 
  Considering how crucial extra space is for the Steam Deck experience, it's a good thing an SD card is so easy to set up and get going. Whether you've ordered a brand new SD card or you're pulling one out of an old phone, it's as easy as inserting it and formatting it. Just make sure you're using a fast enough card for the demands of the game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,6 +89,19 @@ run/media/mmcblk0p1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort/"><u>[Updated] 2024 Approved Enhance Your Shorts Fresh and Original Thumbnails with Minimal Effort</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-maximize-iphone-screen-space-with-smaller-videos-for-2024/"><u>[Updated] Maximize iPhone Screen Space with Smaller Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixels-perfection-elevate-your-picture-crafting/"><u>[Updated] Pixels Perfection Elevate Your Picture Crafting</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/compreranse-google-meets-board-features-for-compelling-remote-collaboration-on-all-platforms/"><u>Compreranse Google Meet's Board Features for Compelling Remote Collaboration on All Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-ways-to-engage-with-ps5-games/"><u>Discovering New Ways to Engage with PS5 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-erase-your-ps4-data-for-a-fresh-launch/"><u>Efficiently Erase Your PS4 Data for a Fresh Launch</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-step-into-vr-wonderland-youtubes-finest-vr-content-list/"><u>In 2024, Step Into VR Wonderland YouTube's Finest VR Content List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-pro-m4-versus-macbook-air-m3-a-comprehensive-comparison-for-users/"><u>IPad Pro M4 Versus MacBook Air M3: A Comprehensive Comparison for Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-configuration-setting-up-unknown-speakers-in-windows-11/"><u>Mastering Audio Configuration: Setting Up Unknown Speakers in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/rdna-35-amds-graphics-innovation-and-its-release-timeframe/"><u>RDNA 3.5: AMD's Graphics Innovation & Its Release Timeframe</u></a></li>
+<li><a href="https://games-able.techidaily.com/refinement-of-xbox-series-consoles-vrr-settings-made-simple/"><u>Refinement of Xbox Series Console's VRR Settings Made Simple</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/top-10-strategies-for-captivating-close-up-cinematography-for-2024/"><u>Top 10 Strategies for Captivating Close-Up Cinematography for 2024</u></a></li>
+</ul></div>
 

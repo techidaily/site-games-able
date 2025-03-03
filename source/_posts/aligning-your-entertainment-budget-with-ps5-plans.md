@@ -1,7 +1,7 @@
 ---
 title: Aligning Your Entertainment Budget with PS5 Plans
-date: 2024-08-08T09:10:06.282Z
-updated: 2024-08-09T09:10:06.282Z
+date: 2025-03-01T21:16:47.679Z
+updated: 2025-03-02T22:42:24.085Z
 tags:
   - games
 categories:
@@ -18,18 +18,10 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 
  We’ll show you everything you need to know to navigate subscriptions, where you can find them, and how to cancel and renew them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Are the Available Gaming Subscriptions on the PS5?
 
  You can find the dedicated PlayStation Store subscriptions page by going to the**PlayStation Store** and tapping**R1** on your controller till you reach**Subscriptions** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ea-play-in-playstation-store-s-subscription-page.JPG)
 
  While there’s a dedicated page for subscriptions, Sony offers only three for the US region:
@@ -44,17 +36,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  You pay for subscriptions by going to**Subscriptions** in the PlayStation Store, and you can also view the games in their collections from there. However, there’s a dedicated panel in the PS5’s settings for managing your ongoing or terminated gaming subscriptions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to View Your PS5 Subscriptions
 
  If you would like to have a look at all the subscriptions you’ve made on your PS5 (active and inactive), here’s what to do:
 
 1. Open**Settings** and go to**Users and Accounts** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Users and Accounts section of the PS5 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/users-and-accounts-section-of-the-ps5-settings.JPG)
 2. Select**Account** inside the Users and Accounts panel and choose**Payment and Subscriptions** .
 3. Scroll down the Payment and Subscriptions menu and select**Subscriptions** to a list of your subscriptions.  
@@ -77,9 +63,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Even with an inactive (or canceled) subscription, you can return here to manually buy your subscription again by selecting**Buy Again** . This saves you from being debited every month or year, and you can choose when exactly you would like to renew your subscription as long as it’s before the billing month ends.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### How to Renew Your PS5 Subscriptions
 
  If you have a subscription you once paid for, like PlayStation Plus, for example, you can renew it in subscription settings. But “renewal” only happens when your subscription billing month has ended.
@@ -100,14 +83,8 @@ Here’s how to renew a PS5 gaming subscription:
 
  And once again, subscriptions can be a great way to make gaming on a PS5 cheaper.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Q: How Do You Refund PlayStation Store Purchases?
 
  If you have made a digital purchase through your PlayStation 5 or PlayStation account but want to refund the payment, as long as you made the purchase within the last 14 days and haven't started downloading or streaming the product, you can get a full refund from Sony. Luckily, all it takes to [refund your digital PlayStation purchases](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) is for you to contact PlayStation Support.
@@ -116,14 +93,11 @@ Here’s how to renew a PS5 gaming subscription:
 
  To change your PlayStation Plus subscription tier, sign into your PlayStation account's**Account Management** settings online via [the official PlayStation website](https://id.sonyentertainmentnetwork.com/id/management%5Fca/?entry=p&pr%5Freferer=cam#/p/personal%5Finfo/list?cid=4a529aef-a3f3-41a6-a999-42f529175674&entry=p&state=cam%5F3af0585034c611577fab15ef3a9128ae) . From here, click on**Subscription** and select your**PlayStation Plus** subscription. Select**Change Plan** , then choose the plan you wish to switch to. Conveniently, if you want to [cancel your PlayStation Plus subscription](https://www.makeuseof.com/how-to-cancel-playstation-plus/) online, you can do so from the same**Subscription** settings page.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,6 +106,20 @@ Here’s how to renew a PS5 gaming subscription:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-crafting-a-harmonic-narrative-adding-youtube-music-to-vids/"><u>[New] 2024 Approved Crafting a Harmonic Narrative Adding YouTube Music to Vids</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-novatech-series-unified-4k-all-in-one-workstations/"><u>[New] 2024 Approved NovaTech Series Unified 4K, All-in-One Workstations</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-best-elgato-stream-deck-features/"><u>Decoding the Best Elgato Stream Deck Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-secured-email-platforms-a-guide-to-staying-protected-online/"><u>Discover the Leading Secured Email Platforms: A Guide to Staying Protected Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidias-new-rtx-3080-drivers-optimized-for-windows-10-8-and-7-systems/"><u>Download NVIDIA's New RTX 3080 Drivers: Optimized for Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-heart-of-palworld/"><u>Explore the Heart of PalWorld</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-x9a-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor X9a FRP In 3 Different Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-defy-2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Defy 2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-x50iplus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor X50i+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-simplicity-of-storytelling/"><u>In 2024, Unveiling the Simplicity of Storytelling</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-fortnite-on-iphone-using-geforce-cloud-gaming/"><u>Playing Fortnite on iPhone Using GeForce Cloud Gaming</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-oppo-reno-9a-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Oppo Reno 9A has been deleted.</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-twitch-engaging-with-video-content-online/"><u>Unveiling Twitch: Engaging with Video Content Online</u></a></li>
+</ul></div>
 

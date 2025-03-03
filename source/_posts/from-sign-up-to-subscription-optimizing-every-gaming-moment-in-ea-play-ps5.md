@@ -1,7 +1,7 @@
 ---
 title: "From Sign-Up to Subscription: Optimizing Every Gaming Moment in EA Play PS5"
-date: 2025-02-08T22:21:58.174Z
-updated: 2025-02-11T18:27:18.754Z
+date: 2025-02-28T22:22:42.553Z
+updated: 2025-03-02T22:31:40.607Z
 tags:
   - games
 categories:
@@ -43,17 +43,9 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-in-playstation-store-s-subscription-page.JPG)
 4. Select**$4.99** and choose**Order & Pay** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
  If you have money in your wallet, EA Play will debit the wallet before any other payment method—even on subsequent renewals.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use an EA Play Membership on the PS5
 
@@ -66,27 +58,15 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
 
  You might no longer want EA Play after paying for the first month. And this might be the best course of action if you’re only trying to use the membership to get discounts. In that case, head into **Settings > Account > Payment and Subscriptions > Subscriptions > EA Play > Cancel Subscription** .
 
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
 
@@ -111,20 +91,24 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-identifying-the-perfect-hashtag-for-your-tiktok-profile/"><u>[New] In 2024, Identifying the Perfect Hashtag for Your TikTok Profile</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-perfecting-pics-with-practicality-top-5-pc-snipping-tools/"><u>[Updated] Perfecting Pics with Practicality - Top 5 PC Snipping Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-syma-x5c-a-beginners-prime-drone-choice/"><u>2024 Approved Unveiling the Syma X5C A Beginner’s Prime Drone Choice</u></a></li>
-<li><a href="https://games-able.techidaily.com/bluetooth-connectivity-for-playstation-audio-devices/"><u>Bluetooth Connectivity for PlayStation Audio Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/build-a-game-masterpiece-with-these-crucial-parts/"><u>Build a Game Masterpiece with These Crucial Parts</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-am08-pro-assert-its-authenticity-in-magic-gaming/"><u>Can AM08 Pro Assert Its Authenticity in Magic Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-amds-fsr-3-render-better-than-nvidias-dlss-35/"><u>Can AMD’s FSR 3 Render Better Than NVIDIA's DLSS 3.5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-the-classic-dock-adapt-to-switchs-oled-display/"><u>Can the Classic Dock Adapt to Switch's OLED Display?</u></a></li>
-<li><a href="https://games-able.techidaily.com/champion-8-virtual-environments-playing-android-on-pcmac/"><u>Champion 8 Virtual Environments: Playing Android on PC/Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-launcher-crash-with-error-code-0x803f8001-in-mcpc/"><u>Combatting Launcher Crash with Error Code 0X803F8001 in MCPC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-6s-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 6s With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-vivo-y200e-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y200e 5G Phone that is Locked?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-breaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>In 2024, Breaking Barriers World’s Best & Largest Shorts Downloaders</u></a></li>
-<li><a href="https://techtrends.techidaily.com/key-facts-about-the-structure-of-lg-sales-channels/"><u>Key Facts About the Structure of LG Sales Channels</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-slash-high-graphic-demands-of-the-desktop-window-manager-on-windows-11/"><u>Troubleshooting Guide: Slash High Graphic Demands of the Desktop Window Manager on Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-easy-steps-for-ios-and-android-capture-google-meet/"><u>[New] 2024 Approved Easy Steps for iOS and Android Capture Google Meet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-tips-for-integrating-markers-in-videography-for-2024/"><u>[New] Advanced Tips for Integrating Markers in Videography for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-pinpoint-the-perfect-tag-for-your-personalized-tiktok-stream/"><u>[New] In 2024, How to Pinpoint the Perfect Tag for Your Personalized TikTok Stream</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-megafun-the-ultimate-funimate-manual/"><u>[New] In 2024, MegaFun The Ultimate Funimate Manual</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-guide-to-viewing-vr-films-and-games-on-ios/"><u>[New] Step-by-Step Guide to Viewing VR Films & Games on IOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-photo-vid-mosaic-designer-slideshows-for-sierra/"><u>[Updated] Photo-Vid Mosaic Designer Slideshows for Sierra</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/die-top-4-techniken-zur-sicherung-von-yahoo-emails-auf-dem-desktop-eine-umfassende-anleitung/"><u>Die Top 4 Techniken Zur Sicherung Von Yahoo Emails Auf Dem Desktop: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-pimaxs-vivid-ventures-with-a-side-of-software-slip-ups/"><u>Discover Pimax's Vivid Ventures with a Side of Software Slip-Ups</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/epic-zombie-battles-our-favorites-revealed/"><u>Epic Zombie Battles Our Favorites Revealed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/harmonize-your-favorites-creating-custom-youtube-playlists-for-2024/"><u>Harmonize Your Favorites Creating Custom YouTube Playlists for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2-a-gateway-into-understanding-game-dynamics/"><u>Helldivers 2: A Gateway Into Understanding Game Dynamics</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-install-and-play-epic-games-and-gog-titles-on-your-steam-deck/"><u>How to Install and Play Epic Games and GOG Titles on Your Steam Deck</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rds-in-the-world-of-selling-monetized-youtube-channels-for-2024/"><u>Keywords in the World of Selling Monetized Youtube Channels for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-vip-content-in-fortnite-via-ps5/"><u>Mastering VIP Content in Fortnite via PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-wi-fi-wizardry-on-your-sony-gaming-device/"><u>Mastering Wi-Fi Wizardry on Your Sony Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/pick-the-perfect-partner-for-your-rpi-games-batocera-or-retropie/"><u>Pick the Perfect Partner for Your RPi Games: Batocera or RetroPie?</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-game-tracker-apps-collection/"><u>Prime Game Tracker Apps Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-glossi-for-steam-linked-xbox-game-pass-titles/"><u>Using GlosSI for Steam-Linked Xbox Game Pass Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-the-battle-against-game-freezes-and-crashes/"><u>Winning the Battle Against Game Freezes & Crashes</u></a></li>
 </ul></div>
 
